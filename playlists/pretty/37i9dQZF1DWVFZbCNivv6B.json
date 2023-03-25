@@ -1,13 +1,33 @@
 {
-  "description": "Hip-hop 100%\u00a0mexicano,\u00a0puras rimas de la calle. Snow Tha Product en portada ",
-  "num_followers": 634300,
+  "description": "Hip-hop 100%\u00a0mexicano,\u00a0puras rimas de la calle. Santa Fe Klan y Russ en portada ",
+  "num_followers": 634793,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMDI1ZjNkNmFlOTVkN2NhOWI3ZjIwNjVkYzI3NTdhZjcw",
+  "snapshot_id": "MTY3OTYzNzYwMCwwMDAwMDAwMGI0NzgyOTBmMTVlNGJkZmYxOTljMzYxYzgwMjAzYzcw",
   "tracks": [
+    {
+      "added_at": "2023-03-24 06:00:00",
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
+    },
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
@@ -69,6 +89,22 @@
       "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
     },
     {
+      "added_at": "2023-03-24 06:00:00",
+      "album": {
+        "name": "Vivir Es So\u00f1ar",
+        "url": "https://open.spotify.com/album/08Qgk5oqDbFtl7CEjWol1L"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Vivir Es So\u00f1ar",
+      "url": "https://open.spotify.com/track/3IcM8rJFPBKF1dAIAPSBQg"
+    },
+    {
       "added_at": "2023-03-17 06:00:00",
       "album": {
         "name": "Chula",
@@ -107,6 +143,22 @@
       "duration_ms": 262733,
       "name": "Or\u00edgenes Vivos",
       "url": "https://open.spotify.com/track/5vClRBOUMbPCdV6WXp9PCG"
+    },
+    {
+      "added_at": "2023-03-24 06:00:00",
+      "album": {
+        "name": "RCKY BALBOA",
+        "url": "https://open.spotify.com/album/694zroK8Vzyk6Hyi6qQJtO"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "RCKY BALBOA",
+      "url": "https://open.spotify.com/track/4CTmRdjKnOCt1Vi8s5EAxH"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -151,6 +203,22 @@
       "duration_ms": 188000,
       "name": "Otra Bala",
       "url": "https://open.spotify.com/track/6aSyWYtMLf7S3XyOkZPvbo"
+    },
+    {
+      "added_at": "2023-03-24 06:00:00",
+      "album": {
+        "name": "Obra Negra",
+        "url": "https://open.spotify.com/album/1jXlVPdtb2eXJXuR4EiKO7"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 279567,
+      "name": "Obra Negra",
+      "url": "https://open.spotify.com/track/3MZI4fFvBD55PjiWLKWQMO"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1143,22 +1211,6 @@
     {
       "added_at": "2023-03-10 06:00:00",
       "album": {
-        "name": "Peones",
-        "url": "https://open.spotify.com/album/7EromlbMMZZ7h0wgMiSmnd"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "Peones",
-      "url": "https://open.spotify.com/track/1w4eFcHiyLvp972Gw4YCUw"
-    },
-    {
-      "added_at": "2023-03-10 06:00:00",
-      "album": {
         "name": "Uva",
         "url": "https://open.spotify.com/album/4vHZMW5iEVV6530JEuRGmf"
       },
@@ -1699,22 +1751,6 @@
       "duration_ms": 226280,
       "name": "Pesadilla en el Cielo",
       "url": "https://open.spotify.com/track/1Ca6Oy2hd13ZlGTvmXgAGH"
-    },
-    {
-      "added_at": "2023-03-10 06:00:00",
-      "album": {
-        "name": "Rafa M\u00e1rquez",
-        "url": "https://open.spotify.com/album/6KCQC0hco7Uho3fvGR9kjU"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "Rafa M\u00e1rquez",
-      "url": "https://open.spotify.com/track/4Gjfldv4SNjenR11yIduqb"
     },
     {
       "added_at": "2023-03-10 06:00:00",

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "m\u00fasica para insubordinados. Los Blenders en portada. ",
+  "description": "m\u00fasica para insubordinados. Blnko en portada. ",
   "name": "lo hice por el punk",
   "tracks": [
+    {
+      "album": {
+        "name": "Mi Psic\u00f3loga Me Dijo Que Hiciera Este Disco",
+        "url": "https://open.spotify.com/album/3zLu80ETtlESfO9Lrldbux"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        },
+        {
+          "name": "Berdu",
+          "url": "https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139066,
+      "name": "90",
+      "url": "https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi"
+    },
     {
       "album": {
         "name": "Tiempos Raros",

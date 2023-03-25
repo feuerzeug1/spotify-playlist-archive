@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/0oXCDYFtjdq5ruPQuz7NbP?si=9MXSaWNMQa2-JdzA9US7RQ\"> KWW</a> ",
+  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=OG8bf6pmTWmltJ5ICcwABQ\"> Jay Bahd</a> ",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 157714,
       "name": "Lion",
       "url": "https://open.spotify.com/track/0NjCS6WzrIkGRLsZkqTp57"
@@ -2372,6 +2372,28 @@
       "duration_ms": 258638,
       "name": "My way",
       "url": "https://open.spotify.com/track/74rUf2ON34vk6L9ay6q7cJ"
+    },
+    {
+      "album": {
+        "name": "Nana Ama",
+        "url": "https://open.spotify.com/album/6rohwb3mud8a8jFZgba5gh"
+      },
+      "artists": [
+        {
+          "name": "Sean Lifer",
+          "url": "https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9"
+        },
+        {
+          "name": "Sadik Black",
+          "url": "https://open.spotify.com/artist/3GQbwVmGPoCxc7YludEGsj"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "Nana Ama",
+      "url": "https://open.spotify.com/track/29JngRGlhaIXZac2GqFae8"
     },
     {
       "album": {
@@ -2666,7 +2688,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 234800,
       "name": "Only Jah",
       "url": "https://open.spotify.com/track/4GYeAKJryDUpmIFiwwzRw7"
@@ -3836,6 +3858,24 @@
       "duration_ms": 247880,
       "name": "Y3 b3 k) beebi",
       "url": "https://open.spotify.com/track/7hi9yX7NN5Fw5nAFhtMqQB"
+    },
+    {
+      "album": {
+        "name": "Yaa Baby",
+        "url": "https://open.spotify.com/album/2HW2hdH3U2Be05Ispz7Fyb"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207086,
+      "name": "Yaa Baby",
+      "url": "https://open.spotify.com/track/4qSEMCwQCvv2BTsMQN6Wyv"
     },
     {
       "album": {

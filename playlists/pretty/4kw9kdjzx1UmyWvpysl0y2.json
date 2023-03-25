@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127132,
+  "num_followers": 127126,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDA3NiwyNWIyN2EyZTNjYWU5Mzg0YWU2MWEwMDYyMWViM2EzZDU5YzhhYTRj",
+  "snapshot_id": "NDA4MixhODA0YThiNTFmMWQ4NjIzNDAxODI1NDJiZmE0ZDRkZDVjNzQyM2E5",
   "tracks": [
+    {
+      "added_at": "2023-03-24 16:19:42",
+      "album": {
+        "name": "u want me",
+        "url": "https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "u want me",
+      "url": "https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE"
+    },
+    {
+      "added_at": "2023-03-23 17:33:57",
+      "album": {
+        "name": "Gotta Let Go",
+        "url": "https://open.spotify.com/album/0JA4OsVQ4nNNmN4gCzLW09"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Adriano",
+          "url": "https://open.spotify.com/artist/16rL3ixuAl02NLL6uTCt54"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "Gotta Let Go",
+      "url": "https://open.spotify.com/track/3Dsa11j6T6ZdhmxWxe8nNl"
+    },
     {
       "added_at": "2023-03-22 16:00:54",
       "album": {
@@ -1083,42 +1119,6 @@
       "duration_ms": 242000,
       "name": "Thrones of Blood",
       "url": "https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy"
-    },
-    {
-      "added_at": "2023-01-11 21:42:10",
-      "album": {
-        "name": "Sapphire",
-        "url": "https://open.spotify.com/album/7yjFesZrS1IuDwEfs2qe56"
-      },
-      "artists": [
-        {
-          "name": "Aether",
-          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/5eit9qX0tK8uLfz3PtGV3l"
-    },
-    {
-      "added_at": "2023-01-10 17:55:29",
-      "album": {
-        "name": "Back to Me",
-        "url": "https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

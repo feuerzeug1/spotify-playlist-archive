@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-83 songs - 4 hr 35 min
+85 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2022-05-22 |  |
 | [EMPIRE](https://open.spotify.com/track/6DfcCK3nYr7Fxl2af3iqRB) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [EMPIRE](https://open.spotify.com/album/2I8zuxlL9KuFAGRsSq9mTT) | 3:02 | 2022-05-22 |  |
 | [ESCAPE](https://open.spotify.com/track/4O7tVdjaOQARI1rS6E6CCx) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 3:29 | 2022-05-22 |  |
+| [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-24 |  |
 | [Fire \(With BRAND NEW CHILD, K L W C\)](https://open.spotify.com/track/5dv9gqcgEs1Yj36AJQ5NID) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:12 | 2022-05-22 |  |
 | [For You](https://open.spotify.com/track/6bfmUjaeIiTjpOqHtFIiVf) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA](https://open.spotify.com/album/3DOoKGlWO9lNsKQAxa0DJ1) | 3:44 | 2022-05-22 |  |
 | [Getaway](https://open.spotify.com/track/172SQ12T5WAyUPa4153LsX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/7x1R29OcIJcyBbn1adBioq) | 3:48 | 2022-07-04 |  |
@@ -59,6 +60,7 @@
 | [My Destiny](https://open.spotify.com/track/7MgqbzRWLbZojKqGWsnqJN) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [TALE OF THE NINE TAILED \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/7qjpNy78ZbcFqdit0g5xWD) | 3:37 | 2022-05-22 |  |
 | [Never Stop Me](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:24 | 2022-05-22 |  |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-17 |  |
+| [Nxde \(Steve Aoki Remix\)](https://open.spotify.com/track/6HXVUmiqWSg3OW6yr5mJCJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Nxde \(Steve Aoki Remix\)](https://open.spotify.com/album/6khD0lw8LFHvPWoRfhAfym) | 2:47 | 2023-03-24 |  |
 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2022-05-22 |  |
 | [Oh my god \- English Version](https://open.spotify.com/track/2EJbMzocEZ6VHnZKQ8pt8H) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 | 2022-05-22 |  |
 | [POLAROID](https://open.spotify.com/track/1XCoTc12Trl56sgCPP4R8M) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 3:38 | 2022-05-22 |  |

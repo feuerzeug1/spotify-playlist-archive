@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,969 likes - 318 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,122 likes - 318 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 317 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
 | 318 | [Dans](https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Dans](https://open.spotify.com/album/5Sb7Qg4vPm2ximin3n4ypK) | 2:22 |
 
-Snapshot ID: `MTY3OTM5MzY2MSwwMDAwMDAwMDdiZTljZWY0Y2Q2ZWVmYjBhYTYzOWYyMTNlM2FhYTcx`
+Snapshot ID: `MTY3OTM5MzY2MSwwMDAwMDAwMGJjYTk1YjFmMzBjMmYyZjViMjM5ZWI5ZGM2NTllYzZj`

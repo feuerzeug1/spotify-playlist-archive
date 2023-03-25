@@ -1,12 +1,12 @@
 {
   "description": "Disfrutemos del amor en los tiempos del rock.",
-  "num_followers": 106682,
+  "num_followers": 106964,
   "original_name": "Rocanlovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGE3NzkwOGI2Y2U3Njc2M2I4OGFkMzllNWNjZTMyODQ0",
+  "snapshot_id": "MTY3OTYzNzYwMCwwMDAwMDAwMDhiZDA4MmE0MGFiYjVhN2MwYWFmNzMzZTVmZGYxZjli",
   "tracks": [
     {
       "added_at": "2023-03-10 15:03:50",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/5n66NHjgWybVQBwNDq710a"
     },
     {
+      "added_at": "2023-03-24 06:00:00",
+      "album": {
+        "name": "Soy Vertical",
+        "url": "https://open.spotify.com/album/0GgXrrPAu26XWuakFBi0ph"
+      },
+      "artists": [
+        {
+          "name": "Marcela Viejo",
+          "url": "https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx"
+        }
+      ],
+      "duration_ms": 204608,
+      "name": "Soy Vertical",
+      "url": "https://open.spotify.com/track/5JHvSr5jry0K2miFIJ5whI"
+    },
+    {
       "added_at": "2023-02-10 06:00:00",
       "album": {
         "name": "Cerca",
@@ -139,6 +155,22 @@
       "duration_ms": 283963,
       "name": "Cerca",
       "url": "https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol"
+    },
+    {
+      "added_at": "2023-03-24 06:00:00",
+      "album": {
+        "name": "M\u00e1scara de Ni\u00f1a",
+        "url": "https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 194148,
+      "name": "M\u00e1scara de Ni\u00f1a",
+      "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
     },
     {
       "added_at": "2023-01-27 16:22:56",

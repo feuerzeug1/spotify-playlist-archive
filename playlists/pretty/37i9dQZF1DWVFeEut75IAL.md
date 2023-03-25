@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,095 likes - 63 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,410 likes - 63 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 62 | [Suite d'orchestre dans le style ancien, Op\. 2: II\. Sarabande\. Mesto](https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1) | [Albéric Magnard](https://open.spotify.com/artist/6vXWehXddAhqxqCAbUeQYa), [Philharmonisches Orchester Freiburg](https://open.spotify.com/artist/7zW6AJzj7refzE8uu9W8jA), [Fabrice Bollon](https://open.spotify.com/artist/3TatLwCeXp89VYjOQVyJjZ) | [Magnard: Orchestral Works](https://open.spotify.com/album/5cNzmh737G2dscX93MDeZh) | 2:09 |
 | 63 | [Sunset Bird](https://open.spotify.com/track/1jcQ040aWKeiUGJ2IcnFtV) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Sunset Bird](https://open.spotify.com/album/2c9fSY8vvHKDCBKgNUJ70H) | 3:11 |
 
-Snapshot ID: `MTY3OTA1MjEzMCwwMDAwMDAwMDE4NDgxZjNhNmJmY2FjYTQyNTA4ZGVhMTNkZWM3YTEz`
+Snapshot ID: `MTY3OTA1MjEzMCwwMDAwMDAwMDliNDI3Mzk3ZDI5NzlmOGY5NDM2YTg3MmFlMzUyNGJh`

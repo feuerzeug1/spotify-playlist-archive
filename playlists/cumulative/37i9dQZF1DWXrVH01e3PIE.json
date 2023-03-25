@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Tiago PZK en la casa del Trap de Argentino.",
+  "description": "Lucho SSJ, Neo Pistea, C.R.O & Obie Wanshot en la casa del Trap de Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -4176,6 +4176,36 @@
       "duration_ms": 151743,
       "name": "West Side",
       "url": "https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS"
+    },
+    {
+      "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/6vFeKKeRjOrndZ4OT80E7g"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217756,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/7dnWwiWTF7JSEAXhmeUBpa"
     },
     {
       "album": {

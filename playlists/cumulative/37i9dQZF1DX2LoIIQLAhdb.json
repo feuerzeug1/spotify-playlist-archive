@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Dadju",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
   "name": "R&Bae",
   "tracks": [
     {
@@ -34,10 +34,32 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 129748,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/56q3vWvUDhVR0yHTtC9RLN"
+    },
+    {
+      "album": {
+        "name": "Alli\u00e9s",
+        "url": "https://open.spotify.com/album/3GPJ5CsnhSFp6quFRzNtFL"
+      },
+      "artists": [
+        {
+          "name": "KRN",
+          "url": "https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5"
+        },
+        {
+          "name": "Bilton",
+          "url": "https://open.spotify.com/artist/5OeY6e62St2Nubj9hbfuIb"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177450,
+      "name": "Alli\u00e9s",
+      "url": "https://open.spotify.com/track/2qyLMmwoNMu5UbUVkKZDJo"
     },
     {
       "album": {
@@ -936,7 +958,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 155000,
       "name": "Le ciel s'en rappelle",
       "url": "https://open.spotify.com/track/32ZKmrDdhJKMV8Hb9ij303"
@@ -976,6 +998,24 @@
       "duration_ms": 180804,
       "name": "Les m\u00eames",
       "url": "https://open.spotify.com/track/23rJ3HBSrfti4np2beqIQj"
+    },
+    {
+      "album": {
+        "name": "Li\u00e9s",
+        "url": "https://open.spotify.com/album/4PoWoDE7Ux9lIAfAPrSEt3"
+      },
+      "artists": [
+        {
+          "name": "Micka\u00eblle Leslie",
+          "url": "https://open.spotify.com/artist/5m2daSwPdT5VticxMqPfzE"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196167,
+      "name": "Li\u00e9s",
+      "url": "https://open.spotify.com/track/2DUeC3yW0LLV32L0Z7E7U2"
     },
     {
       "album": {
@@ -1626,6 +1666,24 @@
       "duration_ms": 199111,
       "name": "SENTIMENTS MOKO",
       "url": "https://open.spotify.com/track/37HNgVH6BvqjlfC7HLiqjD"
+    },
+    {
+      "album": {
+        "name": "Seum",
+        "url": "https://open.spotify.com/album/2orVxRM5tcGJq1SrcAcM6c"
+      },
+      "artists": [
+        {
+          "name": "Mibsy",
+          "url": "https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157364,
+      "name": "Seum",
+      "url": "https://open.spotify.com/track/0MeCUpsImEB7mLBL8hk0eX"
     },
     {
       "album": {

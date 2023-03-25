@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-218 songs - 12 hr 20 min
+219 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bah! I know you! 흥! 다 보인다](https://open.spotify.com/track/3nIpeIrHGcNKkZMo52wVQA) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 3:12 | 2022-05-11 | 2022-06-03 |
 | [BBI\-YO](https://open.spotify.com/track/0BiompCTb9kPFJBHvnbIBH) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [BBI\-YO](https://open.spotify.com/album/2D44Gpm4wCcwR1YLDSDxtR) | 3:37 | 2022-06-13 | 2022-07-28 |
 | [Be there](https://open.spotify.com/track/7k9sKYkyH1wLeOVC3C5zsa) | [Ikki](https://open.spotify.com/artist/1PbvNmIOnL1ZJgNvxUpomb) | [Be there](https://open.spotify.com/album/7AWQVSj3AYCK7kBdrf5ICJ) | 3:19 | 2022-06-09 | 2022-07-28 |
+| [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 | 2023-03-23 |  |
 | [Because It's You](https://open.spotify.com/track/6iCTKW1p8y1NPtwQ1bJaxH) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [First Time](https://open.spotify.com/album/1w5EGv4ZgwhqGX0cTBdoOC) | 3:52 | 2022-05-11 | 2022-07-13 |
 | [being friends suck](https://open.spotify.com/track/3ZheaNstMAwG3uTbAoaZCG) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [GirlFrenD](https://open.spotify.com/artist/3HFox5DosAsJrKOwfwTf2A) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:09 | 2022-05-11 | 2022-07-24 |
 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 | 2022-05-11 |  |
@@ -103,7 +104,7 @@
 | [Just Chill](https://open.spotify.com/track/3qNeyEagP4606J5B61jHa3) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 3:25 | 2022-05-11 | 2022-06-04 |
 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 | 2022-05-11 |  |
 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 | 2022-05-11 |  |
-| [Last Night \(feat\. DD7\)](https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [DD7](https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230) | [Last Night \(feat\. DD7\)](https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW) | 3:04 | 2023-01-25 |  |
+| [Last Night \(feat\. DD7\)](https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [DD7](https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230) | [Last Night \(feat\. DD7\)](https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW) | 3:04 | 2023-01-25 | 2023-03-25 |
 | [laugh!](https://open.spotify.com/track/0IC3nbx1BJSbgtgBYJynmh) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [TWIST](https://open.spotify.com/album/5ZkAwSmcnVoPuR4ZbmXcaz) | 2:55 | 2022-06-09 | 2022-07-24 |
 | [layoff \(feat\. Churry\)](https://open.spotify.com/track/6Nw61ToXv3kwGyEOiobt3q) | [Layton](https://open.spotify.com/artist/2YQOlJnew5D6w1lWqIUBXE), [Churry](https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM) | [layoff](https://open.spotify.com/album/5Bd7lzlhF329D4gEHYBv69) | 3:49 | 2022-06-20 | 2022-06-30 |
 | [Leave](https://open.spotify.com/track/4AmbGf0dfkPzPgBChdl4Sg) | [ecru](https://open.spotify.com/artist/2WR7q33JG2pvMcfHr594Y1) | [Leave](https://open.spotify.com/album/1IoT9EPJG4bYJkdrMiAIHI) | 3:05 | 2022-07-08 | 2022-07-19 |

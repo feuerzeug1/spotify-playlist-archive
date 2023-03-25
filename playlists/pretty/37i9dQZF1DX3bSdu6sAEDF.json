@@ -1,13 +1,29 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 486334,
+  "num_followers": 486271,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDU2ZmIyYzg2ZGZlNzI4ZjYzN2UzMzM0M2VmOGNmMGVl",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDBiMzU4Y2IxOWQ5OWUxYzVmNDU0NGQ5NmUyZGFiYTY1",
   "tracks": [
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Hyperfixations",
+        "url": "https://open.spotify.com/album/6JmO57rWensoCLLngSqju1"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "duration_ms": 195221,
+      "name": "Hyperfixations",
+      "url": "https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR"
+    },
     {
       "added_at": "2023-03-17 04:01:00",
       "album": {
@@ -2411,22 +2427,6 @@
       "duration_ms": 188360,
       "name": "Heartbeat Changes",
       "url": "https://open.spotify.com/track/5fcMjLsEtBOJLk1kRv2j9W"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Everything I Want",
-        "url": "https://open.spotify.com/album/1t3j5GWx4XuMIxhVlbDAtZ"
-      },
-      "artists": [
-        {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/11MsssZqYQYa0clVJfffQj"
     },
     {
       "added_at": "2022-04-01 04:02:00",

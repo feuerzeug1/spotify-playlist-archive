@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Chris Wendell",
-  "num_followers": 695737,
+  "num_followers": 695708,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MDE4MiwwMDAwMDAwMGFlZWJkOTg2NzMzNmNjNTY2YmFkYzJiZTVmODkxMTJm",
+  "snapshot_id": "MTY3OTA0MDE4MiwwMDAwMDAwMDcyNjcyM2NiOWJlMWVjZWFkYzRiMTQ1NDFmZWRmZDI4",
   "tracks": [
     {
       "added_at": "2023-03-17 08:03:02",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "lo que pas\u00f3",
-        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
       },
       "artists": [
         {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
         }
       ],
-      "duration_ms": 150576,
-      "name": "lo que pas\u00f3",
-      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
+      "duration_ms": 212957,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
+        "name": "lo que pas\u00f3",
+        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "lo que pas\u00f3",
+      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
+    },
+    {
+      "added_at": "2023-03-17 08:03:02",
+      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
-    },
-    {
-      "added_at": "2023-03-17 08:03:02",
-      "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B"
-      },
-      "artists": [
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe"
-    },
-    {
-      "added_at": "2023-03-17 08:03:02",
-      "album": {
         "name": "En La Disco Revela",
         "url": "https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b"
       },
@@ -1323,18 +1303,22 @@
     {
       "added_at": "2023-03-17 08:03:02",
       "album": {
-        "name": "Til Death",
-        "url": "https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb"
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B"
       },
       "artists": [
         {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         }
       ],
-      "duration_ms": 97391,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV"
+      "duration_ms": 171920,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe"
     },
     {
       "added_at": "2023-03-17 08:03:02",
@@ -1351,6 +1335,22 @@
       "duration_ms": 124842,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS"
+    },
+    {
+      "added_at": "2023-03-17 08:03:02",
+      "album": {
+        "name": "Til Death",
+        "url": "https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 97391,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV"
     },
     {
       "added_at": "2023-03-17 08:03:02",

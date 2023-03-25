@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Vaani Bhasin\. , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,591 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,669 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Tujhse Kyun](https://open.spotify.com/track/1Zr3VZ3LE1vpiVn1qeb1vv) | [Hrishi Upadhyay](https://open.spotify.com/artist/585BzSK8bK1sCDSyb0iumj) | [Tujhse Kyun](https://open.spotify.com/album/1zGP2nED5lg4VfgWpdbiCb) | 3:56 |
 | 100 | [Kehne Do](https://open.spotify.com/track/2hXpu8Y2I772ooXum6sNHb) | [Unnati Shah](https://open.spotify.com/artist/7k5V4wLBAPJAKgCbLNM1gP) | [Kehne Do](https://open.spotify.com/album/5BeVeaLPq6ZKyvIWSCcq61) | 3:28 |
 
-Snapshot ID: `MTY3OTQ2NzgwMCwwMDAwMDAwMGJhYWFjY2RjYjhkOTg0OWZmNTdiNmM0YWUwNGI1NmE0`
+Snapshot ID: `MTY3OTQ2NzgwMCwwMDAwMDAwMDdkYjI4MmQxNGUyZGFlYmRkYjEzODMyZDZlYzI5NTll`

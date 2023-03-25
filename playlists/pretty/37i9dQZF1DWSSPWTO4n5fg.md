@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSPWTO4n5fg.md) - [plain]
 
 > Listen to the soundtracks of GENIE TV's original drama Delivery Man\. \(지니TV 오리지널 드라마 딜리버리 맨의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 6 songs - 20 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,087 likes - 6 songs - 20 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,4 +15,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSPWTO4n5fg.md) - [plain]
 | 5 | [Dream about You \- Instrumental](https://open.spotify.com/track/4k70P1EOktPIGE4fZaZNAk) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
 | 6 | [Stuck on You \- Instrumental](https://open.spotify.com/track/3Qvda3PiZGSluOsAztzoPN) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Delivery Man, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6mOZeWDgFFPyucNrUl4Ied) | 2:39 |
 
-Snapshot ID: `MTY3OTM4MDUwMCwwMDAwMDAwMGY2MjMzNWYzNjdmOTUxNGQ4YzFmMDY1MTY5MWRkODIx`
+Snapshot ID: `MTY3OTM4MDUwMCwwMDAwMDAwMDIwZWE5MGY2ODA4Njc2MTRjM2M3NTJkNmU5YmI0YTZj`

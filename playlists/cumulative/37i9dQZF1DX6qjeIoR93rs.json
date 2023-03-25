@@ -42,7 +42,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213342,
       "name": "Abu 3ntr",
       "url": "https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53"
@@ -162,6 +162,24 @@
     {
       "album": {
         "name": "Badi Ellak",
+        "url": "https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "Badi Ellak",
+      "url": "https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C"
+    },
+    {
+      "album": {
+        "name": "Badi Ellak",
         "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
       },
       "artists": [
@@ -172,7 +190,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 210000,
       "name": "Badi Ellak",
       "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
@@ -238,7 +256,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 166421,
       "name": "BEL7AFLI",
       "url": "https://open.spotify.com/track/0YI7Z8BjqsYsySjD3qpOkK"
@@ -512,7 +530,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154043,
       "name": "Galbi Dari",
       "url": "https://open.spotify.com/track/3EleTttGO2qnHqWboexTzE"
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 333640,
       "name": "Sitti (Grandma)",
       "url": "https://open.spotify.com/track/0kQIy3NQMPHn3o6AiVC9fm"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 260555,
       "name": "Sobo El Gahwa",
       "url": "https://open.spotify.com/track/2uegTlle9p16rqdeYroYET"
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201882,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/5IawIr3eOioOqURiHFMNNY"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 232202,
       "name": "Ya Samti",
       "url": "https://open.spotify.com/track/2RCq9cXZOb9CCO016lHuem"
@@ -1544,6 +1562,24 @@
       "duration_ms": 188814,
       "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
       "url": "https://open.spotify.com/track/50nQfig1MXSz66GHJflQMq"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
+        "url": "https://open.spotify.com/album/6vTqJnEkKVQCKDfegzJHFx"
+      },
+      "artists": [
+        {
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188814,
+      "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/72CB0MAagJAXpqS6bRVUxu"
     },
     {
       "album": {
@@ -1648,10 +1684,46 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 228813,
       "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/0Xbrn4PNQUaCLwUmshygdt"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/2lMxE2fPExV9BSb4JEGsqZ"
+      },
+      "artists": [
+        {
+          "name": "\u0641\u0631\u0642\u0629 \u0632\u0645\u0646",
+          "url": "https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228813,
+      "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/5hwLq1B81lk9vV1wpu7Orw"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
+        "url": "https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC"
+      },
+      "artists": [
+        {
+          "name": "Mahmood Jrere",
+          "url": "https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185375,
+      "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
+      "url": "https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy"
     },
     {
       "album": {
@@ -1666,7 +1738,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 185375,
       "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
       "url": "https://open.spotify.com/track/3OcsroxTDUzBDTo3xOQQqp"

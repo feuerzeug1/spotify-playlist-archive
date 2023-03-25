@@ -1,13 +1,45 @@
 {
   "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54?si=XY6tsMJ4S3GRQ5-2UUeVPw\">Thabo Krouwkam</a>",
-  "num_followers": 5660,
+  "num_followers": 5672,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAwMzk0MCwwMDAwMDAwMDkxODgxODc3M2I4YmM1NzRiYTUzMTYzM2ZlZTU3NmY1",
+  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDY2MDQ2ZDkwOGI3YzJmMjIwMDZlM2Q5YmZiZTAyZGI2",
   "tracks": [
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Emotionally Indiscreet",
+        "url": "https://open.spotify.com/album/7Cg2tTY1i6SG1gFlxfULyY"
+      },
+      "artists": [
+        {
+          "name": "Lover Buffet",
+          "url": "https://open.spotify.com/artist/3SlkN35uEAZOPu70xZK2pY"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Emotionally Indiscreet",
+      "url": "https://open.spotify.com/track/4sK7vYw3oiMWDxQ90m0Wqc"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 189624,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
+    },
     {
       "added_at": "2023-03-16 21:59:00",
       "album": {
@@ -25,20 +57,36 @@
       "url": "https://open.spotify.com/track/77krcHfId85O4se7W5HpTY"
     },
     {
-      "added_at": "2023-03-16 21:59:00",
+      "added_at": "2023-03-09 21:59:00",
       "album": {
-        "name": "Multitudes",
-        "url": "https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU"
+        "name": "Meet Me There",
+        "url": "https://open.spotify.com/album/50dJxbTYQX7VCUBMEsrlrE"
       },
       "artists": [
         {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
         }
       ],
-      "duration_ms": 245281,
-      "name": "Borrow Trouble",
-      "url": "https://open.spotify.com/track/4lyKe6602fEaFpwMFYGPc2"
+      "duration_ms": 125187,
+      "name": "Meet Me There",
+      "url": "https://open.spotify.com/track/6AyEEfEKvqUp54XyFsL70I"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/5wqVBvH6HG1UbXOPsQdeEd"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 127091,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/00O1FkJbc1d6ylPS8XTGup"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -61,6 +109,22 @@
       "url": "https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV"
     },
     {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "Wait for Love",
@@ -75,6 +139,58 @@
       "duration_ms": 263172,
       "name": "Wait for Love",
       "url": "https://open.spotify.com/track/68Gn5LndqWnCh7BxrNw3TZ"
+    },
+    {
+      "added_at": "2023-03-16 21:59:00",
+      "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 245281,
+      "name": "Borrow Trouble",
+      "url": "https://open.spotify.com/track/4lyKe6602fEaFpwMFYGPc2"
+    },
+    {
+      "added_at": "2023-03-02 21:59:00",
+      "album": {
+        "name": "Place To Be",
+        "url": "https://open.spotify.com/album/4mmtTJOL2e8ajFXzpH2VKr"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        },
+        {
+          "name": "Foreignlocal.",
+          "url": "https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Place To Be",
+      "url": "https://open.spotify.com/track/3fjEy2DBm2qiQbqr59yrIT"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "duration_ms": 212625,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -141,38 +257,6 @@
       "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
     },
     {
-      "added_at": "2023-03-09 21:59:00",
-      "album": {
-        "name": "Face to Face",
-        "url": "https://open.spotify.com/album/4ObIsa7jUljBKrKJj4unwQ"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Mack",
-          "url": "https://open.spotify.com/artist/0ebredVS7C0onAXIECv6MY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Face to Face",
-      "url": "https://open.spotify.com/track/4j30TGyE29sSpR1KVAqbCt"
-    },
-    {
-      "added_at": "2023-03-09 21:59:00",
-      "album": {
-        "name": "Meet Me There",
-        "url": "https://open.spotify.com/album/50dJxbTYQX7VCUBMEsrlrE"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 125187,
-      "name": "Meet Me There",
-      "url": "https://open.spotify.com/track/6AyEEfEKvqUp54XyFsL70I"
-    },
-    {
       "added_at": "2023-03-02 21:59:00",
       "album": {
         "name": "Ring of Past",
@@ -189,20 +273,20 @@
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
     },
     {
-      "added_at": "2023-03-09 21:59:00",
+      "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "ALL I GOT",
-        "url": "https://open.spotify.com/album/2kPLJYUX6MoKvRLXhNTue2"
+        "name": "AM/FM",
+        "url": "https://open.spotify.com/album/37c3d2zBC43BVUTodE178f"
       },
       "artists": [
         {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+          "name": "Tuelo",
+          "url": "https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi"
         }
       ],
-      "duration_ms": 194167,
-      "name": "ALL I GOT",
-      "url": "https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh"
+      "duration_ms": 207706,
+      "name": "Queen of Nothing - Radio Remix",
+      "url": "https://open.spotify.com/track/3iiLonHxGPxgSGkzYdez37"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -221,6 +305,22 @@
       "url": "https://open.spotify.com/track/5LLnCilV4qlbYRFuNGYljJ"
     },
     {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "lowlife",
+        "url": "https://open.spotify.com/album/5smoG58cCmW972wiwJMwwu"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "duration_ms": 181544,
+      "name": "lowlife",
+      "url": "https://open.spotify.com/track/3T4Li9ZHJHFFRwENTPiwfh"
+    },
+    {
       "added_at": "2023-03-16 21:59:00",
       "album": {
         "name": "Rose-tinted",
@@ -232,7 +332,7 @@
           "url": "https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN"
         }
       ],
-      "duration_ms": 218386,
+      "duration_ms": 216853,
       "name": "Rose-tinted",
       "url": "https://open.spotify.com/track/6etwIyuLOsMobfxRdCWuru"
     },
@@ -319,26 +419,6 @@
       "duration_ms": 228000,
       "name": "Ndi a Ni Funa",
       "url": "https://open.spotify.com/track/2N1TKyUtiutH2AqBpF98t1"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Place To Be",
-        "url": "https://open.spotify.com/album/4mmtTJOL2e8ajFXzpH2VKr"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        },
-        {
-          "name": "Foreignlocal.",
-          "url": "https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Place To Be",
-      "url": "https://open.spotify.com/track/3fjEy2DBm2qiQbqr59yrIT"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -499,22 +579,6 @@
       "duration_ms": 281103,
       "name": "Midnight Fox",
       "url": "https://open.spotify.com/track/6fot9PD8atqMvbeeOhwamA"
-    },
-    {
-      "added_at": "2023-03-09 21:59:00",
-      "album": {
-        "name": "Safe In The Sound",
-        "url": "https://open.spotify.com/album/3JqGxFavm15jJRLmePzGve"
-      },
-      "artists": [
-        {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
-        }
-      ],
-      "duration_ms": 214090,
-      "name": "Safe In The Sound",
-      "url": "https://open.spotify.com/track/5o7Kgx1yYAV5mVTAlKToCS"
     },
     {
       "added_at": "2023-02-23 21:59:00",
@@ -877,22 +941,6 @@
       "url": "https://open.spotify.com/track/6RYcaBTvCwmQLiruPbOHbL"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Raven's Nest",
-        "url": "https://open.spotify.com/album/2w17nBHfQsOySWxJYBjsed"
-      },
-      "artists": [
-        {
-          "name": "Luka",
-          "url": "https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv"
-        }
-      ],
-      "duration_ms": 201886,
-      "name": "Raven's Nest",
-      "url": "https://open.spotify.com/track/6lYBx2xoLtFDDBsDjmbf64"
-    },
-    {
       "added_at": "2023-02-23 21:59:00",
       "album": {
         "name": "Everything Must Die",
@@ -907,22 +955,6 @@
       "duration_ms": 359262,
       "name": "Everything Must Die",
       "url": "https://open.spotify.com/track/3bhxNf9wOTld9oHQ59DSEN"
-    },
-    {
-      "added_at": "2023-02-09 21:59:00",
-      "album": {
-        "name": "Best Mistake",
-        "url": "https://open.spotify.com/album/4JBnjtHQyc2ZtmW6Y3ZwZ1"
-      },
-      "artists": [
-        {
-          "name": "Cailyn Shelby",
-          "url": "https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Best Mistake",
-      "url": "https://open.spotify.com/track/3jboUfnR6kBPs2tak6KaKb"
     },
     {
       "added_at": "2023-02-23 21:59:00",
@@ -975,22 +1007,6 @@
       "duration_ms": 247280,
       "name": "Come In",
       "url": "https://open.spotify.com/track/34miboJFpjvXcByUVTWGpC"
-    },
-    {
-      "added_at": "2023-01-12 21:59:00",
-      "album": {
-        "name": "Raise Me Up",
-        "url": "https://open.spotify.com/album/4f7DsT5qVrvPvMEcVWhVOp"
-      },
-      "artists": [
-        {
-          "name": "Yorxe",
-          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
-        }
-      ],
-      "duration_ms": 181631,
-      "name": "Raise Me Up",
-      "url": "https://open.spotify.com/track/4FYldB9dN6Emigix7ppAYO"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 136161,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/1sjnIv36iD8HHbBimsLlUk"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 167841,
-      "name": "lalala",
-      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
     },
     {
       "added_at": "2023-01-12 21:59:00",

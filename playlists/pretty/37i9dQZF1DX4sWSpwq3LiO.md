@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,952,560 likes - 306 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,955,575 likes - 306 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 305 | [Snowfall in a Forest](https://open.spotify.com/track/0DoZ4rU4WmaHcySIJHQY5A) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Snowfall in a Forest](https://open.spotify.com/album/2uL4hLPlY2MyJgKMtUKacZ) | 2:28 |
 | 306 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 |
 
-Snapshot ID: `MTY3OTMxMTQxOCwwMDAwMDAwMGQzZDBiNWMwYjQwNzk2YzFmYzVmNmU0ZTA3Yjk4NGQw`
+Snapshot ID: `MTY3OTMxMTQxOCwwMDAwMDAwMDU5MWUxNGYyMTY1YWY2NDliYmY0MmQ4N2FiOTk0MmUy`

@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-180 songs - 7 hr 7 min
+182 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/5EBcTHjNbzyTU8ESzD7bd8) | [intime](https://open.spotify.com/artist/7qRNFExHXMXcJtmjafPasi) | [Anti\-Hero](https://open.spotify.com/album/2NgYRdlV18RPqXnGSAh2L7) | 1:56 | 2022-12-09 |  |
 | [apologize](https://open.spotify.com/track/3uY0353AUilxbXFM0XW1KQ) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [apologize](https://open.spotify.com/album/00vaTeWGH1I7WaDUy049Po) | 1:55 | 2023-02-07 |  |
 | [As It Was](https://open.spotify.com/track/7dSoV6Suc4ye0JCoyNWJJR) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [As It Was](https://open.spotify.com/album/6SSGQmNoS5n0ojWzSHQTh3) | 2:30 | 2022-10-14 |  |
+| [bad day](https://open.spotify.com/track/4HHoCZQ9v7agD2ZTq72q3Y) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bad day](https://open.spotify.com/album/5NfqbPcvdYcR3inewdtRBc) | 2:17 | 2023-03-24 |  |
 | [Bad Habits](https://open.spotify.com/track/6XuohehgXJ3OLFFV3sdHMm) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [INDUSTRY BABY](https://open.spotify.com/album/5y9jSiiVOhg9Lw97EEVXUp) | 2:38 | 2023-01-13 |  |
 | [Bad Habits](https://open.spotify.com/track/7y161CHpc3KkKVMJZ1bNEQ) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Bad Habits](https://open.spotify.com/album/16XIxgGPr1Ispb6IJJ0AaW) | 1:28 | 2022-09-02 |  |
 | [beautiful](https://open.spotify.com/track/6jT6EJPndW8rDZZ1QZuFtK) | [Reggie Lume](https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km) | [beautiful](https://open.spotify.com/album/4TzUGKjAEbpIzrH9XlhN1P) | 1:56 | 2022-10-28 |  |
@@ -49,6 +50,7 @@
 | [Do It To It](https://open.spotify.com/track/5JzL1hreVuaZO4Ukl2NemJ) | [OnD\-tox](https://open.spotify.com/artist/2P1XPAaJbnw7MjbV2g9Vxz) | [Do It To It](https://open.spotify.com/album/5tFPmOK4QrhiMtoqratw9g) | 2:41 | 2022-11-11 |  |
 | [Dog Days Are Over \- Lofi Version](https://open.spotify.com/track/5G6D5WHf5weBJ7Z9WA6pyH) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Dog Days Are Over \(Lofi Version\)](https://open.spotify.com/album/7iqDk6pZdA7aPAZpoZzXve) | 2:15 | 2022-11-18 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5NptWVOhMkCcbeiHFVcEU3) | [<3BEAT](https://open.spotify.com/artist/1GXEDNbnO4Zq5DSNfayzN5) | [Feelin' Cute](https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12) | 4:15 | 2022-09-02 |  |
+| [don't know why](https://open.spotify.com/track/5V2azMg4sx0aDJ9WSWGHbB) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [don't know why](https://open.spotify.com/album/1njOiYAwrY46egkOpm4Kp2) | 2:07 | 2023-03-24 |  |
 | [don't speak](https://open.spotify.com/track/1UPLRT8BIUOn6K08YlnCAQ) | [Mushhi](https://open.spotify.com/artist/1NtM12STZroHO6boHGnnAk) | [don't speak](https://open.spotify.com/album/1lCpNYABTYW8fDKWBbkRLK) | 2:17 | 2022-11-11 |  |
 | [don't you worry child](https://open.spotify.com/track/3rWUFqb1tuwFY0kl7OUwuZ) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [don't you worry child](https://open.spotify.com/album/02Nu5KQ4VUHIiWB3KH3B2w) | 2:40 | 2022-12-02 |  |
 | [Don´t Stop me Now](https://open.spotify.com/track/4rnAbHyfJWhKraJs01UUCx) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Don´t Stop me Now](https://open.spotify.com/album/1fNxqpgalp51oWvmB0j6bG) | 2:39 | 2022-11-11 |  |

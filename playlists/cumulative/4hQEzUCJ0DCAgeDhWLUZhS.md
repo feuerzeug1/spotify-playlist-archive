@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-354 songs - 21 hr 7 min
+357 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Eyes](https://open.spotify.com/track/2Aynxq3QreZhoS58B7WU27) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Eyes](https://open.spotify.com/album/1W1uuyANBmfqBVQj9kbCIr) | 4:52 | 2022-04-08 |  |
 | [Father of All...](https://open.spotify.com/track/4r59yc67nric1MZQ2igkhx) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/33eDyKXqDYRHeu8cq8ToRl) | 2:31 | 2020-10-10\* | 2021-02-25 |
 | [Feel The Fire](https://open.spotify.com/track/17gyIfLbs9nWLtvgiXVswT) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Feel The Fire](https://open.spotify.com/album/1oHDmvOwjMoFT7VbG3zavN) | 4:07 | 2021-08-26 |  |
+| [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-24 |  |
 | [Fire, Ready, Aim](https://open.spotify.com/track/3I8Ri6tLa4QA11MMdZywtM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/1xIgeQeVlMe5fcAVpRjkaP) | 1:52 | 2020-10-10\* | 2021-05-13 |
 | [Flash Burns From Flashbacks](https://open.spotify.com/track/1SjA9fHunPkoeTgYMM4XnU) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [The Mars Volta](https://open.spotify.com/album/6teekrqj0fRPceftGFToBR) | 2:38 | 2022-09-16 |  |
 | [Flowers](https://open.spotify.com/track/7asY5GsK5NqAVh3Ux7ZkKG) | [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU) | [Flowers](https://open.spotify.com/album/4FXXzYJ9t5xVfwxslPUIWd) | 4:17 | 2021-09-17 |  |
@@ -133,6 +134,7 @@
 | [Here Comes the End \(feat\. Judith Hill\)](https://open.spotify.com/track/0klnCzWGjoRQBjoPYe44Gl) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Here Comes the End \(feat\. Judith Hill\)](https://open.spotify.com/album/6FiV1sKS2tKXj82g2iWEPv) | 3:31 | 2020-10-10\* | 2021-05-13 |
 | [High Time](https://open.spotify.com/track/37cUGI1BZADBtseJQJ4Nld) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:54 | 2022-11-18 |  |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-05-13 |  |
+| [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 |  |
 | [Holy](https://open.spotify.com/track/0xuLN9AJ6VVmkSwAGCbNt0) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:38 | 2020-10-10\* | 2021-02-25 |
 | [Holy Toledo! \(from the Original Motion Picture “Mark, Mary & Some Other People”\)](https://open.spotify.com/track/3fRK9qG08iZyWvqjOWkdKc) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Holy Toledo! \(from the Original Motion Picture “Mark, Mary & Some Other People”\)](https://open.spotify.com/album/1kDwdipqS6e3qy6WSj0WI0) | 3:09 | 2021-11-04 |  |
 | [Home Again](https://open.spotify.com/track/3jYltnWyiZPeIrfl6iwQOQ) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Shihad](https://open.spotify.com/album/6MgzZ3aSBhI23zqvx9ogdw) | 3:35 | 2020-12-18 | 2022-03-18 |
@@ -165,6 +167,7 @@
 | [Insanity](https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Insanity](https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm) | 3:03 | 2023-03-03 |  |
 | [Instant History \- Single Version](https://open.spotify.com/track/78Whqvk23AqxailSEMv83F) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Instant History](https://open.spotify.com/album/2zRS3sRmhixjg6MvO1yxh2) | 3:17 | 2020-10-10\* | 2022-03-18 |
 | [It Hurts](https://open.spotify.com/track/7ifjVxEB8dXO87GdLePzQn) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [It Hurts](https://open.spotify.com/album/5I67qMWdcDXUtWkHHPDkhd) | 3:18 | 2023-02-10 |  |
+| [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-24 |  |
 | [It's Its Own Heart](https://open.spotify.com/track/0a5ekAz2dYv0mKTNPfNWae) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [It's Its Own Heart](https://open.spotify.com/album/0lJOmZQeDqP10muCJra8tF) | 2:53 | 2020-10-10\* | 2021-02-25 |
 | [Jack](https://open.spotify.com/track/7jdhSMmLhuDgUamYxerPvR) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Jack](https://open.spotify.com/album/73qstoPswN2IsFHoYFKLv5) | 3:24 | 2022-10-14 |  |
 | [Jetlag](https://open.spotify.com/track/0AruFQCxgou0FaVFzdVMjO) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Jetlag](https://open.spotify.com/album/03VgPuslq0glCtWuLUqqRT) | 3:16 | 2023-03-13 |  |

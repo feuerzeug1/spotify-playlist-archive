@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Morgan Wallen
 
-327 songs - 16 hr 38 min
+328 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Hold My Horses](https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:00 | 2022-07-22 | 2022-10-09 |
 | [Hold My Horses](https://open.spotify.com/track/6JNxXz032aM8zcSHQAWiVv) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Hold My Horses](https://open.spotify.com/album/47OPSr5UHAyc2XG4M9utmq) | 3:00 | 2022-10-07 | 2022-11-07 |
 | [Holding Out For A Cowboy](https://open.spotify.com/track/3gMD6iX82HbPPzrfWywaIa) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [In This Kind Of Light](https://open.spotify.com/album/0Xgvy0oHafjU6zqJWrVfNO) | 3:30 | 2021-12-10 |  |
+| [Holy Cowboy](https://open.spotify.com/track/33Zj7C0fxd0uyh6o5KtQzY) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Holy Cowboy](https://open.spotify.com/album/3NJX8OzwxpFbVgT4k85tGd) | 2:39 | 2023-03-24 |  |
 | [Home For The Summer](https://open.spotify.com/track/3vlj2o1ahG1g6AM6Qnm2gu) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [Lord Lawrence](https://open.spotify.com/artist/5qlCQduWfylSo5aVFqiT7i) | [Home For The Summer](https://open.spotify.com/album/76hs4C3wpey6xz2lF03JCa) | 3:34 | 2021-12-10 | 2022-04-09 |
 | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/track/68GQ3ZhlzqDNvzq20bdg1o) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/album/30ULuUPigC0c89kztNco5s) | 3:25 | 2021-12-10 | 2022-02-26 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-12-10 | 2022-06-11 |

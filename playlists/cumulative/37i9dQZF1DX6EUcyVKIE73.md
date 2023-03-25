@@ -4,7 +4,7 @@
 
 > Selections of North Indian classical music.
 
-63 songs - 18 hr 47 min
+65 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 | 2021-12-06 |  |
 | [Chhayanat: Sakhi Mora in Rupak](https://open.spotify.com/track/5E4zz8g5IuX6hlWyuKRgEn) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Chhayanat: Sakhi Mora in Rupak](https://open.spotify.com/album/6HkB8bvQTWnPLkKThPiP0e) | 17:28 | 2022-07-04 |  |
 | [Dev Dev Sat Sang \- Khayal Vilambit \- Jhap Taal / Maanat Nahin \- Raag Sawani \- Khayal Drut \- Teentaal](https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz) | [Suresh Talwalkar](https://open.spotify.com/artist/61TBwoNacct3xrgHpQrP1r), [Anant Kunte](https://open.spotify.com/artist/2hCXIITSyyqPwgkaVNHN7D), [Pt\. Babanrao Manjrekar](https://open.spotify.com/artist/4zLwSdQIRKPFLWZ4H65agg), [Padma Talwalkar](https://open.spotify.com/artist/064zRRPqgyHoIO6KKSKC4e) | [Padma Talwalkar](https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T) | 27:13 | 2021-12-06 |  |
+| [Dheer Kaise: Raag Bageshri \(Drut Ektaal\)](https://open.spotify.com/track/5xmT8n8OpkGzuYe7Tp111F) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Dheer Kaise: Raag Bageshri \(Drut Ektaal\)](https://open.spotify.com/album/3tMVOSJYaRu0yIv6kGHaRB) | 7:29 | 2023-03-24 |  |
 | [Dhun \(Dadra And Fast Teental\) \- Live](https://open.spotify.com/track/68H7Gfjexf4wuGswkcwfdU) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 19:41 | 2021-12-06 |  |
 | [Dhun Mishra Kafi](https://open.spotify.com/track/1aOlzHtvRmpQaJqazySCPx) | [Rajeev Taranath](https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6) | [Reflections Around Noon](https://open.spotify.com/album/3bfkWGToZSFbFlGVmAJBjK) | 19:00 | 2021-12-06 |  |
 | [Dhun Pahari](https://open.spotify.com/track/6MrK3tQ2yLbRtQYfPQ22uS) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Ragas Vol\. 5](https://open.spotify.com/album/7w63VXXvPjQ0KGPRWoAODc) | 17:50 | 2021-12-06 | 2023-01-04 |
@@ -69,6 +70,7 @@
 | [Sur Sukh Khani, Natyageet](https://open.spotify.com/track/1GSYhLtmtU1hKqfk0GYf1U) | [Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk), [Purushottam Walawalkar](https://open.spotify.com/artist/7C5NA726B5bcUP5N4NHtZQ) | [Natyasangeet](https://open.spotify.com/album/6XI48xvEXJZ4djjqhmKWnj) | 13:33 | 2021-12-06 |  |
 | [Taaron Bhari Raat \- Raga Malkauns \- Raga Malkauns \- Drut Ektala](https://open.spotify.com/track/0DtWXjhnx8FMJhj8uTsZWB) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx) | [Taaron Bhari Raat \- Raga Malkauns](https://open.spotify.com/album/7pAJD1ZAIiHkkwYxQQazQI) | 10:25 | 2021-12-06 |  |
 | [Tabla Solo In Ektal \- Live](https://open.spotify.com/track/4FsUTO3VyjORPxOtcuuDRQ) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 6:19 | 2021-12-06 |  |
+| [Tarana Yaman](https://open.spotify.com/track/1lQpVO8T2CQETWCIVKBI9X) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Tarana Yaman](https://open.spotify.com/album/020y6hRQk2CaWSZ1IHAy5J) | 10:08 | 2023-03-24 |  |
 | [Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva \(8 beats\)](https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pure](https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl) | 17:25 | 2021-12-06 |  |
 | [Yaman Madhya Laya](https://open.spotify.com/track/0L0aaQxlUcRR7Yq62X9tnG) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Satyajit Talwalkar](https://open.spotify.com/artist/12i115642dNlreloDOzrtK), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Yaman Madhya Laya](https://open.spotify.com/album/7LYdyUiJp5MeO0l2Krp0zl) | 16:27 | 2022-09-09 |  |
 

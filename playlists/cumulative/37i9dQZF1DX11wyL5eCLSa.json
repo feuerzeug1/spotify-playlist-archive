@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Bruses en portada.",
+  "description": "Sangre fresca en las escenas del indie y el rock. El Mat\u00f3 a un Polic\u00eda Motorizado en portada.",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -56,6 +56,28 @@
       "duration_ms": 300821,
       "name": "4 del 20",
       "url": "https://open.spotify.com/track/6mVKbQnY3peMr8PovVEtF3"
+    },
+    {
+      "album": {
+        "name": "Mi Psic\u00f3loga Me Dijo Que Hiciera Este Disco",
+        "url": "https://open.spotify.com/album/3zLu80ETtlESfO9Lrldbux"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        },
+        {
+          "name": "Berdu",
+          "url": "https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139066,
+      "name": "90",
+      "url": "https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi"
     },
     {
       "album": {
@@ -301,6 +323,24 @@
     },
     {
       "album": {
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174303,
+      "name": "Billie Max",
+      "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
+    },
+    {
+      "album": {
         "name": "Brillando",
         "url": "https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6"
       },
@@ -410,7 +450,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 216525,
       "name": "Campamento Krusty",
       "url": "https://open.spotify.com/track/6kMXaluhWHgeZgLWw61dEP"
@@ -450,7 +490,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 184226,
       "name": "Claroscuro",
       "url": "https://open.spotify.com/track/5p5AhrRFj9HUaxqDXDL5rh"
@@ -508,7 +548,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 192432,
       "name": "Como Gelatina de Limon",
       "url": "https://open.spotify.com/track/4DtmjMhj8BVtwyMo7Yw8I1"
@@ -794,7 +834,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 223047,
       "name": "Daria",
       "url": "https://open.spotify.com/track/1N5gxXUVDRx7SIr6xN47zL"
@@ -1972,7 +2012,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 160363,
       "name": "Lo Que Siento por Ti",
       "url": "https://open.spotify.com/track/6kffxPk7W0kxvc1LDE9EFt"
@@ -1990,7 +2030,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 204228,
       "name": "LOBO HOMBRE EN PAR\u00cdS - GRANDES \u00c9XITOS VERSI\u00d3N SALVAJE",
       "url": "https://open.spotify.com/track/57fut1YLOHW3I3jkgMvA4l"
@@ -2246,7 +2286,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 199950,
       "name": "Me Haces Sonre\u00edr",
       "url": "https://open.spotify.com/track/5WC0OIk0R1cJIxEHeElAaJ"
@@ -2521,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1scara de Ni\u00f1a",
+        "url": "https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194148,
+      "name": "M\u00e1scara de Ni\u00f1a",
+      "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
+    },
+    {
+      "album": {
         "name": "M\u00e1scaras",
         "url": "https://open.spotify.com/album/2NtQlfrOXJLWiQL3EpvX7v"
       },
@@ -2732,6 +2790,24 @@
       "duration_ms": 228000,
       "name": "No Te Reconozco",
       "url": "https://open.spotify.com/track/3lTjnw3XxJqKomdvoKU9Yi"
+    },
+    {
+      "album": {
+        "name": "Cora Yako",
+        "url": "https://open.spotify.com/album/4X2t2lrSOdNNYzNU5ONWTm"
+      },
+      "artists": [
+        {
+          "name": "Cora Yako",
+          "url": "https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216344,
+      "name": "Noche Estelar",
+      "url": "https://open.spotify.com/track/4pIQkNojRthTjcoAlC8kFX"
     },
     {
       "album": {
@@ -3205,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "album": {
         "name": "Recovered Files",
         "url": "https://open.spotify.com/album/4JuXQGRqNVORHmI968HBkv"
       },
@@ -3466,6 +3560,24 @@
       "duration_ms": 234199,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288554,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf"
     },
     {
       "album": {
@@ -4154,6 +4266,24 @@
       "duration_ms": 241898,
       "name": "Vuelve A Empezar Sin M\u00ed",
       "url": "https://open.spotify.com/track/7DWdZdw7Rshp7b8LqRB9x4"
+    },
+    {
+      "album": {
+        "name": "lo har\u00eda todo de nuevo",
+        "url": "https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3"
+      },
+      "artists": [
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213614,
+      "name": "Ya nada es igual",
+      "url": "https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF"
     },
     {
       "album": {

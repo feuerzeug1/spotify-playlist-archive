@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 258600,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/6vcuJ0lxMSbIZDToFEfyFI"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 182400,
       "name": "Broken Promises",
       "url": "https://open.spotify.com/track/269deQv0LzWjMK4R1Zvb2b"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 272125,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/6r2n0bg792Lfn7AwH948OP"
@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -654,6 +672,28 @@
       "duration_ms": 196359,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
+    },
+    {
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/7I5mwcbF8WqYqT8NF1XrKZ"
+      },
+      "artists": [
+        {
+          "name": "Alain Clark",
+          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
+        },
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208200,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/63hl84qgcK7UAXYWtH1RcW"
     },
     {
       "album": {
@@ -820,6 +860,24 @@
       "duration_ms": 209192,
       "name": "High Five",
       "url": "https://open.spotify.com/track/1KNfDol8Thjs1dNXPPppBy"
+    },
+    {
+      "album": {
+        "name": "Hot Stuff",
+        "url": "https://open.spotify.com/album/31bKsiZ9ydgT6yhh2q5GfY"
+      },
+      "artists": [
+        {
+          "name": "Jack Jarryd",
+          "url": "https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199151,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/3IP5E8pxMDhLSGtjwV2y8C"
     },
     {
       "album": {
@@ -1206,7 +1264,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
@@ -1340,6 +1398,24 @@
       "duration_ms": 243332,
       "name": "Met Jou Kan Ik Het Aan",
       "url": "https://open.spotify.com/track/6Zdqcxtwx0TwkXhs7LwIru"
+    },
+    {
+      "album": {
+        "name": "Morgen Wordt Fantastisch",
+        "url": "https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158604,
+      "name": "Morgen Wordt Fantastisch",
+      "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
     },
     {
       "album": {
@@ -1802,7 +1878,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 203866,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5KwNUpElQKHRdWdeevn9ed"
@@ -1896,6 +1972,24 @@
       "duration_ms": 228893,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/1kplLFEcIjhCmdEGxfuU7R"
+    },
+    {
+      "album": {
+        "name": "Thank God I Do",
+        "url": "https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258812,
+      "name": "Thank God I Do",
+      "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
     },
     {
       "album": {
@@ -2080,7 +2174,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 191040,
       "name": "WDIA (Would Do It Again)",
       "url": "https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk"
@@ -2182,6 +2276,24 @@
       "duration_ms": 215913,
       "name": "Wiser",
       "url": "https://open.spotify.com/track/7dCCjVk2kAoXI8p9vGSV8S"
+    },
+    {
+      "album": {
+        "name": "You Are You",
+        "url": "https://open.spotify.com/album/5Fj9XdRrQutK1HfVKFXBPf"
+      },
+      "artists": [
+        {
+          "name": "Krezip",
+          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178921,
+      "name": "You Are You",
+      "url": "https://open.spotify.com/track/5v4NehPFLOhNRdK9T463Ux"
     },
     {
       "album": {

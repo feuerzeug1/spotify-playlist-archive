@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 160783,
       "name": "CALAMITY",
       "url": "https://open.spotify.com/track/7kgpzX6QHe5RaE26F8ITiP"
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 120435,
       "name": "Diamond Drift",
       "url": "https://open.spotify.com/track/39JwMiZTMfb9tMRBZl7wxA"
@@ -2368,6 +2368,24 @@
       "duration_ms": 96000,
       "name": "DRIVE",
       "url": "https://open.spotify.com/track/5H4pqmQbvIGYApiH4pXYKF"
+    },
+    {
+      "album": {
+        "name": "Drive Fast",
+        "url": "https://open.spotify.com/album/68moATTafeQtQzU6jOwd8V"
+      },
+      "artists": [
+        {
+          "name": "MTM",
+          "url": "https://open.spotify.com/artist/2KV2MNUKFN5ol1aipGtOsu"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169370,
+      "name": "Drive Fast",
+      "url": "https://open.spotify.com/track/7ft6UwJVSW97byyRlW43hG"
     },
     {
       "album": {
@@ -6626,7 +6644,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 103070,
       "name": "RITUAL",
       "url": "https://open.spotify.com/track/1VvldVWHEtvwzKlGx8ahOg"
@@ -6746,6 +6764,24 @@
       "duration_ms": 114666,
       "name": "S1KE",
       "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+    },
+    {
+      "album": {
+        "name": "SACRILEGE",
+        "url": "https://open.spotify.com/album/474O8hvb1PQ0ScEM7oNOHn"
+      },
+      "artists": [
+        {
+          "name": "GADOR",
+          "url": "https://open.spotify.com/artist/3WokMBuSQjBl6z0uyBqxT9"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "SACRILEGE",
+      "url": "https://open.spotify.com/track/2apZD9YIweiBwbjqcCpgLT"
     },
     {
       "album": {

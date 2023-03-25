@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 60829,
+  "num_followers": 61349,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgxMjExOCwwMDAwMDAwMGE4N2Y0N2NlNTc2ZDIyYzk0ZmIyNzk3NGRkNDVmOWFm",
+  "snapshot_id": "MTY3ODgxMjExOCwwMDAwMDAwMDc2YTcwZjUxNzk1MGU4Y2JkZDcwYjg1YjM1MDQ5MTI4",
   "tracks": [
     {
       "added_at": "2023-03-14 16:41:58",
@@ -387,18 +387,22 @@
     {
       "added_at": "2023-03-14 16:41:58",
       "album": {
-        "name": "\u9006\u5922",
-        "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
+        "name": "Debussy: Clair De Lune and Other Piano Favourites",
+        "url": "https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Martin Jones",
+          "url": "https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND"
         }
       ],
-      "duration_ms": 307666,
-      "name": "\u9006\u5922",
-      "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
+      "duration_ms": 268000,
+      "name": "Clair de Lune, L. 32",
+      "url": "https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL"
     },
     {
       "added_at": "2023-03-14 16:41:58",
@@ -419,22 +423,18 @@
     {
       "added_at": "2023-03-14 16:41:58",
       "album": {
-        "name": "Debussy: Clair De Lune and Other Piano Favourites",
-        "url": "https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe"
+        "name": "\u9006\u5922",
+        "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
       },
       "artists": [
         {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Martin Jones",
-          "url": "https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Clair de Lune, L. 32",
-      "url": "https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL"
+      "duration_ms": 307666,
+      "name": "\u9006\u5922",
+      "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
     },
     {
       "added_at": "2023-03-14 16:41:58",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-14 16:41:58",
       "album": {
-        "name": "YANKEE",
-        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 288013,
-      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
-      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
-    },
-    {
-      "added_at": "2023-03-14 16:41:58",
-      "album": {
         "name": "Spirited Away Soundtrack",
         "url": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 189800,
       "name": "One Summer Day",
       "url": "https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu"
+    },
+    {
+      "added_at": "2023-03-14 16:41:58",
+      "album": {
+        "name": "YANKEE",
+        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 288013,
+      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
+      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
     },
     {
       "added_at": "2023-03-14 16:41:58",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-03-14 16:41:58",
       "album": {
+        "name": "Howl's Moving Castle Soundtrack",
+        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 71800,
+      "name": "You're in Love",
+      "url": "https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3"
+    },
+    {
+      "added_at": "2023-03-14 16:41:58",
+      "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 91725,
       "name": "The Girl Who Fell From The Sky (Laputa)",
       "url": "https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX"
-    },
-    {
-      "added_at": "2023-03-14 16:41:58",
-      "album": {
-        "name": "Howl's Moving Castle Soundtrack",
-        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
-      },
-      "artists": [
-        {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        }
-      ],
-      "duration_ms": 71800,
-      "name": "You're in Love",
-      "url": "https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3"
     },
     {
       "added_at": "2023-03-14 16:41:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-14 16:41:58",
       "album": {
-        "name": "Deep down",
-        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Deep down",
-      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
-    },
-    {
-      "added_at": "2023-03-14 16:41:58",
-      "album": {
         "name": "\u7d04\u675f\u306e\u30cd\u30d0\u30fc\u30e9\u30f3\u30c9 Season1 Original Soundtrack",
         "url": "https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 149200,
       "name": "\u30a4\u30b6\u30d9\u30e9\u306e\u5504",
       "url": "https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8"
+    },
+    {
+      "added_at": "2023-03-14 16:41:58",
+      "album": {
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Deep down",
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
     },
     {
       "added_at": "2023-03-14 16:41:58",

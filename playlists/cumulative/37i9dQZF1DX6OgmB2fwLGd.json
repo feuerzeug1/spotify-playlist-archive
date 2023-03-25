@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "1-800-Bad-Bxtch",
+        "url": "https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154691,
+      "name": "1-800-Bad-Bxtch",
+      "url": "https://open.spotify.com/track/3AzmPUPk59zgO3XURjGJ8R"
+    },
+    {
+      "album": {
         "name": "1011 next up (homeless refix)",
         "url": "https://open.spotify.com/album/464Eyxc4WTHtt6Qpakyskc"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 130666,
       "name": ">one - greater than one",
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
@@ -2238,6 +2256,24 @@
       "duration_ms": 148615,
       "name": "Come Thru (feat. Shady Moon & Ciscaux)",
       "url": "https://open.spotify.com/track/7zjO4Hy7TjwyGTJmOwaYJs"
+    },
+    {
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/0OTPgVM3oUkFwyMwrXdp2B"
+      },
+      "artists": [
+        {
+          "name": "Slump6s",
+          "url": "https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107291,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3IM8sdoY61ppCc4l3edWdy"
     },
     {
       "album": {
@@ -4038,7 +4074,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 138319,
       "name": "Freestyle 2",
       "url": "https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV"
@@ -4521,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "Let Me Update My Status",
+        "url": "https://open.spotify.com/album/1yQ3aFEBqlKuqjTTaxQ0mk"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102661,
+      "name": "HeLiCoPtEr sWaG Pt4.Mp3",
+      "url": "https://open.spotify.com/track/1w9aOfHbcSbqEnxv6P3rVb"
+    },
+    {
+      "album": {
         "name": "Hell Yeah",
         "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
       },
@@ -4952,7 +5006,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 192240,
       "name": "I Am A Gummy Bear (English)",
       "url": "https://open.spotify.com/track/5YJfmBODXO0lL2zTDf8xlD"
@@ -5582,6 +5636,28 @@
       "duration_ms": 147722,
       "name": "Intro",
       "url": "https://open.spotify.com/track/6OoynwB0ZIefcMvWBsivXO"
+    },
+    {
+      "album": {
+        "name": "Iris Green (feat. Future)",
+        "url": "https://open.spotify.com/album/1ipqIxIEYoF4ZZkWtit0Ga"
+      },
+      "artists": [
+        {
+          "name": "Ghostluvme",
+          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179923,
+      "name": "Iris Green (feat. Future)",
+      "url": "https://open.spotify.com/track/31P1VMYqCR0L7Vcq8XRxE8"
     },
     {
       "album": {
@@ -6350,7 +6426,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 160829,
       "name": "LIVID",
       "url": "https://open.spotify.com/track/23q6bVeIuECLcUeYkwgbRZ"
@@ -7068,7 +7144,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -7764,6 +7840,24 @@
       "duration_ms": 166956,
       "name": "One Way!",
       "url": "https://open.spotify.com/track/2659CRCrqaXCaYBMtKrdYi"
+    },
+    {
+      "album": {
+        "name": "ONLY NEED MY BABY! (SMOAGT)",
+        "url": "https://open.spotify.com/album/6FcMYOv8OfISsNm6VRudsV"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99745,
+      "name": "ONLY NEED MY BABY! (SMOAGT)",
+      "url": "https://open.spotify.com/track/2lIPicEikuMfrsD5cP3Xyp"
     },
     {
       "album": {
@@ -8871,6 +8965,24 @@
     },
     {
       "album": {
+        "name": "rockhardt",
+        "url": "https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc"
+      },
+      "artists": [
+        {
+          "name": "Carbon",
+          "url": "https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158108,
+      "name": "rockhardt",
+      "url": "https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi"
+    },
+    {
+      "album": {
         "name": "Rocking A Cardigan in Atlanta",
         "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
       },
@@ -9006,6 +9118,28 @@
       "duration_ms": 82142,
       "name": "s3lf",
       "url": "https://open.spotify.com/track/59r61Bp9QribPoN9XizQhx"
+    },
+    {
+      "album": {
+        "name": "SCARING THE HOES",
+        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142825,
+      "name": "SCARING THE HOES",
+      "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
     },
     {
       "album": {
@@ -10200,7 +10334,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 146133,
       "name": "Texas",
       "url": "https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK"
@@ -11512,7 +11646,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 152450,
       "name": "you're a parasite",
       "url": "https://open.spotify.com/track/5CoMPjfMO8XnNc6aNKYSo1"

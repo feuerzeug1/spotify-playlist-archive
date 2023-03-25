@@ -4,7 +4,7 @@
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-79 songs - 5 hr 2 min
+80 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ainda É Cedo](https://open.spotify.com/track/7uscfoAoI65JcSY4NyHg1t) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Legião Urbana](https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k) | 3:57 | 2020-10-16 |  |
 | [Alice \(Não me escreva aquela carta de amor\)](https://open.spotify.com/track/7nBeVCe5XQ6sn6dzqFvglv) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Greatest Hits 80's](https://open.spotify.com/album/5bfaqFByhaSo0RmJzoaSdn) | 3:08 | 2020-10-16 |  |
 | [Alvorada Voraz \- Ao Vivo](https://open.spotify.com/track/4tjmnH63AMBjaPdtHOpq4Q) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Radio Pirata Ao Vivo](https://open.spotify.com/album/5Ke99MN8fbp22N3XHf5g3S) | 3:43 | 2020-10-16 |  |
-| [Areias escaldantes \- Remasterizado em 2001](https://open.spotify.com/track/1Vz4ToV1yqP7A9ossC71Fs) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 2:10 | 2020-10-16 |  |
+| [Areias escaldantes \- Remasterizado em 2001](https://open.spotify.com/track/1Vz4ToV1yqP7A9ossC71Fs) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 2:10 | 2020-10-16 | 2023-03-25 |
 | [Até Quando Esperar](https://open.spotify.com/track/6EdP9zpX8VaSBftaNeXiQQ) | [Plebe Rude](https://open.spotify.com/artist/2azqeHE13Y8hP8YAjew9zL) | [Almanaque Anos 80](https://open.spotify.com/album/1SpUegBxqTNoflsUpo93cN) | 4:28 | 2020-10-16 |  |
 | [Até Quando Esperar](https://open.spotify.com/track/0C71ubP3YGLAwOgUlbY3d0) | [Plebe Rude](https://open.spotify.com/artist/2azqeHE13Y8hP8YAjew9zL) | [O Concreto Já Rachou](https://open.spotify.com/album/24C4G6Kc0eMOm7HxW2MTjB) | 4:28 | 2020-10-16 | 2022-07-29 |
 | [Até Quando Esperar](https://open.spotify.com/track/41WxurIB75dOOtnNOLUg0z) | [Plebe Rude](https://open.spotify.com/artist/2azqeHE13Y8hP8YAjew9zL) | [Novidades Rock](https://open.spotify.com/album/6EHYZdXYXViqYETkxxRPt3) | 4:28 | 2020-10-16 | 2022-11-13 |
@@ -59,6 +59,7 @@
 | [Música Urbana \- Versão Alternativa](https://open.spotify.com/track/4C5xMKlNkmy5GOyimwR4Pc) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Rock Brazuca](https://open.spotify.com/album/5viT9nZcwfmLPvaVdZKYgU) | 3:31 | 2020-10-16 |  |
 | [Nem Luxo Nem Lixo](https://open.spotify.com/track/5Pn7ldcp8uOZmwPJ3rUf7b) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:05 | 2020-10-16 |  |
 | [Nós vamos invadir sua praia \- Avenida](https://open.spotify.com/track/7LgxYvP8zzKSapwngbxAeU) | [Ultraje a Rigor](https://open.spotify.com/artist/3zkkrMSBLHuTKMI6I3fDWi) | [O mundo encantado do Ultraje a Rigor](https://open.spotify.com/album/1smKZUszVuPtaDHFlGPEwY) | 4:14 | 2020-10-16 |  |
+| [O Beijo Da Mulher Aranha](https://open.spotify.com/track/63vwtGwmDC0oogDnALUg30) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [As Aventuras Da Blitz](https://open.spotify.com/album/40wuumo6MyuWUGBdZwcjGP) | 3:04 | 2023-03-24 |  |
 | [O último romântico](https://open.spotify.com/track/7MyJB1WvzUmbIQpwqLmvY6) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico 2](https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV) | 4:12 | 2020-10-16 |  |
 | [Olhar 43](https://open.spotify.com/track/1oar565TIGGsQXjAMoCJdK) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Revoluções por Minuto](https://open.spotify.com/album/1hbH0q0Ff3BRP2iuwLd5om) | 3:03 | 2020-10-16 |  |
 | [Pintura íntima](https://open.spotify.com/track/4s7Me2OrjR7tIeeiWmZnK5) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 4:25 | 2020-10-16 |  |

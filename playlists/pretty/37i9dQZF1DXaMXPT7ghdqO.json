@@ -1,12 +1,12 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 41485,
+  "num_followers": 41506,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1MTMwNSwwMDAwMDAwMGY5MWExYjIzNWViMjYzMGQ5NjNhZmNjMzBmYmFlNzBj",
+  "snapshot_id": "MTY3MTU1MTMwNSwwMDAwMDAwMGE4NGUyY2NmMzMxZDM5NmYyYjI4ZDU2ZDIzMjNiNmJm",
   "tracks": [
     {
       "added_at": "2022-12-20 15:48:25",
@@ -1267,18 +1267,26 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "\u30ca\u30df\u30c0\u30e1",
-        "url": "https://open.spotify.com/album/1zYayr9HkFUjZlbv4C4zUZ"
+        "name": "Strawberry Prince",
+        "url": "https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM"
       },
       "artists": [
         {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+          "name": "\u8389\u72ac",
+          "url": "https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L"
+        },
+        {
+          "name": "\u308b\u3045\u3068",
+          "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
+        },
+        {
+          "name": "\u3053\u308d\u3093",
+          "url": "https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ"
         }
       ],
-      "duration_ms": 238404,
-      "name": "\u30ca\u30df\u30c0\u30e1",
-      "url": "https://open.spotify.com/track/7eI11v0S0SpB896efwVkCX"
+      "duration_ms": 275840,
+      "name": "\u3058\u3083\u3080\u3058\u3083\u3080\u30b7\u30b0\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/2VG5lGbvYXqAHbK9PWydM9"
     }
   ],
   "unique_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",

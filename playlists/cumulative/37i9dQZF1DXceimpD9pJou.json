@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto:  Townix",
+  "description": "Las mejores nuevas canciones cristianas.  Foto:   <a href=\"https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz?si=866aav5sR2Ct6P4gtHZE4Q\">Lizzy Parra</a> y <a href=\"https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr?si=ErXcyeQyQLWgHVwaAEmLNQ\">Josh Gamez</a>",
   "name": "Novedades Cristianas",
   "tracks": [
     {
@@ -2843,6 +2843,28 @@
     },
     {
       "album": {
+        "name": "Creo En Ti",
+        "url": "https://open.spotify.com/album/05saXhPn1UlBIUEmM6dAO5"
+      },
+      "artists": [
+        {
+          "name": "Harold y Elena",
+          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308177,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/7n9WsrQiHlNeKuhjUAAKy1"
+    },
+    {
+      "album": {
         "name": "Cristiano No Perfecto",
         "url": "https://open.spotify.com/album/1QHmosczlIdiBOdIvKgudj"
       },
@@ -3308,7 +3330,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 500869,
       "name": "Deseamos M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/3WxpVdGnTwBgcGIB3iv73p"
@@ -3344,7 +3366,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 216671,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/5yAuXkVHgcpnmrD4jg9Twf"
@@ -6369,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "Hosanna (Versi\u00f3n en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/3ay6ya5PzGzzmGJKU0LeN8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy's",
+          "url": "https://open.spotify.com/artist/5wKWCZRVBErveTfC1y1vLJ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258867,
+      "name": "Hosanna - Versi\u00f3n en Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/4hh2N0qJcRs3OXF2QhV5mm"
+    },
+    {
+      "album": {
         "name": "Relevantes",
         "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
       },
@@ -6683,6 +6723,54 @@
     },
     {
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/6dA7bmE5iGLTDrTfCSmEKv"
+      },
+      "artists": [
+        {
+          "name": "Emsy",
+          "url": "https://open.spotify.com/artist/6WLYOmbe6S1nOe2IiL6DhR"
+        },
+        {
+          "name": "Defra",
+          "url": "https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq"
+        },
+        {
+          "name": "Adam J",
+          "url": "https://open.spotify.com/artist/5ehJu2PBe9ft4gWgaFzI8C"
+        },
+        {
+          "name": "Dek PG",
+          "url": "https://open.spotify.com/artist/2sMobJtSzF7GvOJz1jsafp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282377,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/00Ljbb0OUgLG5P7RTfEFPJ"
+    },
+    {
+      "album": {
+        "name": "Jam\u00e1s Me Rendir\u00e9",
+        "url": "https://open.spotify.com/album/6Jy9ykHUGs9A9X6wDaX3bx"
+      },
+      "artists": [
+        {
+          "name": "Aline Souza",
+          "url": "https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279149,
+      "name": "Jam\u00e1s Me Rendir\u00e9",
+      "url": "https://open.spotify.com/track/1xKaYpefzWujANkWWJvLO2"
+    },
+    {
+      "album": {
         "name": "X SIEMPRE",
         "url": "https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW"
       },
@@ -6720,6 +6808,24 @@
       "duration_ms": 226558,
       "name": "Jesucristo, Te Seguiremos",
       "url": "https://open.spotify.com/track/4sUJwHwiUHZcUu78Tz6osg"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas",
+        "url": "https://open.spotify.com/album/7sEA4hzMbebxKsBelGKlPU"
+      },
+      "artists": [
+        {
+          "name": "Pauneto",
+          "url": "https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227878,
+      "name": "Jes\u00fas",
+      "url": "https://open.spotify.com/track/6mUp5UEWAZtRfx6ZYDAlb2"
     },
     {
       "album": {
@@ -8209,6 +8315,28 @@
     },
     {
       "album": {
+        "name": "Matem\u00e1ticas",
+        "url": "https://open.spotify.com/album/39XOwtL5Ld7cDYrbbUTJrA"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Josh Gamez",
+          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205937,
+      "name": "Matem\u00e1ticas",
+      "url": "https://open.spotify.com/track/6hqLzdSDJ1J2wlLfDy4dsX"
+    },
+    {
+      "album": {
         "name": "Me Cuidas",
         "url": "https://open.spotify.com/album/3fSrY0JgVcd7zOsGhNNDTz"
       },
@@ -8246,7 +8374,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 194086,
       "name": "Me Da Paz - Reimagined",
       "url": "https://open.spotify.com/track/59IbI0oAVQMTPiYETAELbN"
@@ -8578,6 +8706,10 @@
         {
           "name": "Genesis Benavides",
           "url": "https://open.spotify.com/artist/263vDSDm2KrjNixcgZunAr"
+        },
+        {
+          "name": "Anyari Ramos",
+          "url": "https://open.spotify.com/artist/3D6UQObvEWddCL0rreB5U8"
         }
       ],
       "date_added": "2023-03-17",
@@ -9060,6 +9192,24 @@
       "duration_ms": 251500,
       "name": "Mi Valor",
       "url": "https://open.spotify.com/track/6CcfPdnr6nrM9SAbeCGZKt"
+    },
+    {
+      "album": {
+        "name": "Mil A\u00f1os",
+        "url": "https://open.spotify.com/album/4xiVea64QGfpNxnck2SeNw"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Miguez",
+          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "Mil A\u00f1os",
+      "url": "https://open.spotify.com/track/5auNgAv6ZQoRql3b33V7ko"
     },
     {
       "album": {
@@ -10111,6 +10261,24 @@
     },
     {
       "album": {
+        "name": "No Me Soltar\u00e1s",
+        "url": "https://open.spotify.com/album/5oZY9UuHrpDnnv9b477Qj3"
+      },
+      "artists": [
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "No Me Soltar\u00e1s",
+      "url": "https://open.spotify.com/track/3T1tkhDzRNBK8HsSj1qr3y"
+    },
+    {
+      "album": {
         "name": "No Necesito Doctor.",
         "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
       },
@@ -10440,7 +10608,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 204375,
       "name": "Nuevo Soy (La La La) - Remix",
       "url": "https://open.spotify.com/track/4wu17I8CIjOpE15SIt7XRn"
@@ -10466,7 +10634,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 204374,
       "name": "Nuevo Soy (Remix)",
       "url": "https://open.spotify.com/track/6zNM9MEcNy3pB5SFs8urlp"
@@ -10886,7 +11054,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 188499,
       "name": "Peleas Por M\u00ed",
       "url": "https://open.spotify.com/track/4OtOky1czpl4V8FgzRboWW"
@@ -12332,7 +12500,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 209600,
       "name": "Route 777",
       "url": "https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC"
@@ -12406,6 +12574,28 @@
       "duration_ms": 176533,
       "name": "Sala 23",
       "url": "https://open.spotify.com/track/4Lo7U29sxhDqn2d6KDD3bJ"
+    },
+    {
+      "album": {
+        "name": "Salmo 34",
+        "url": "https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252977,
+      "name": "Salmo 34",
+      "url": "https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l"
     },
     {
       "album": {
@@ -12924,7 +13114,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 186427,
       "name": "SIGO EN PIE",
       "url": "https://open.spotify.com/track/0QZFGW1DuIEyMIfYNMCSYq"
@@ -13180,6 +13370,24 @@
       "duration_ms": 270070,
       "name": "Sobre las Aguas",
       "url": "https://open.spotify.com/track/36dxoAE6Bj269tBwNSfi8p"
+    },
+    {
+      "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/1Btb63Xk8DqBgX2rlRlls0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209588,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/0zdBroYWFgu5ms2IlDB1ip"
     },
     {
       "album": {
@@ -16049,6 +16257,28 @@
     },
     {
       "album": {
+        "name": "Yakpa III",
+        "url": "https://open.spotify.com/album/6i9U9MCxoqQS6t5jPjpT2L"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Ada Betsabe",
+          "url": "https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149772,
+      "name": "Yakpa III",
+      "url": "https://open.spotify.com/track/59YX9nehdG1xCZQfEIx6Lo"
+    },
+    {
+      "album": {
         "name": "Yeshua el Sonido de Libertad",
         "url": "https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0"
       },
@@ -16206,6 +16436,24 @@
       "duration_ms": 197498,
       "name": "Yo estuve ah\u00ed",
       "url": "https://open.spotify.com/track/4Ii7OHbeWtFqoCjrGgxnJn"
+    },
+    {
+      "album": {
+        "name": "Yo No Temer\u00e9",
+        "url": "https://open.spotify.com/album/3lDkAp4lilGaYAuCsmBi9k"
+      },
+      "artists": [
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177739,
+      "name": "Yo No Temer\u00e9",
+      "url": "https://open.spotify.com/track/22K60SZD1yIoUtthohjI6s"
     },
     {
       "album": {

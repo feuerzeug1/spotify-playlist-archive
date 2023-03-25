@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 67143,
+  "num_followers": 67280,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzkwMzE1NSwwMDAwMDAwMDg4YzNlYmQxODA1NDk2NzAwMjNjNmFkYjk2NmNjMDNj",
+  "snapshot_id": "MTY3MzkwMzE1NSwwMDAwMDAwMDM4Y2MzY2JiMmEyYzFlZTgyZjU0ZWJlODljZTAzMWU0",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: Son House",
-        "url": "https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4"
+        "name": "Steakbone Slide Guitar",
+        "url": "https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
         }
       ],
-      "duration_ms": 259533,
-      "name": "Death Letter Blues",
-      "url": "https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e"
+      "duration_ms": 179160,
+      "name": "You Got to Move",
+      "url": "https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Steakbone Slide Guitar",
-        "url": "https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn"
+        "name": "Martin Scorsese Presents The Blues: Son House",
+        "url": "https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4"
       },
       "artists": [
         {
-          "name": "Mississippi Fred McDowell",
-          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
         }
       ],
-      "duration_ms": 179160,
-      "name": "You Got to Move",
-      "url": "https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB"
+      "duration_ms": 259533,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e"
     }
   ],
   "unique_name": "Slide Guitar Heroes",

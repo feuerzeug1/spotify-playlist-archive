@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Arthur's Theme",
+        "url": "https://open.spotify.com/album/6KrFogWw5iuEMSoONRFvtu"
+      },
+      "artists": [
+        {
+          "name": "Andreas Dalvik",
+          "url": "https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211954,
+      "name": "Arthur's Theme",
+      "url": "https://open.spotify.com/track/2Ft1pxvNweDBKxbntC15jr"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H"
       },
@@ -826,7 +844,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 253746,
       "name": "Beneath your beautiful",
       "url": "https://open.spotify.com/track/2man3BqdNICmahlzaSfybW"
@@ -2021,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/6mTjKtLwWk1vt48z998Foo"
+      },
+      "artists": [
+        {
+          "name": "Melvin Gale",
+          "url": "https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151387,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/7vdVksatKHCmcTVHaAwgBD"
+    },
+    {
+      "album": {
         "name": "Timeless Classics On Piano - Part IV",
         "url": "https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf"
       },
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 177846,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4SKDQlj3g2vIS9AD1C5No9"
@@ -2579,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/0moinVUWhkOZmD7JkvlrYh"
+      },
+      "artists": [
+        {
+          "name": "Trevor Potts",
+          "url": "https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129391,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/4oLyZoduYHjLuYgvC9ds07"
+    },
+    {
+      "album": {
         "name": "Bad Habits & Hey Jude (Piano)",
         "url": "https://open.spotify.com/album/6Je7JdE3y16Y6mysHv2MWJ"
       },
@@ -2590,7 +2644,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 189091,
       "name": "Hey Jude - Piano",
       "url": "https://open.spotify.com/track/04HZn55ZWEdksrHmM1REW5"
@@ -2778,6 +2832,24 @@
     {
       "album": {
         "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/36XmOrVk3emXrh5nG8RGPL"
+      },
+      "artists": [
+        {
+          "name": "Ciara Bess",
+          "url": "https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/7fMWxDPD58F8goBvmHheSe"
+    },
+    {
+      "album": {
+        "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/5j6RnmqRKSK5UgCFkTc5WD"
       },
       "artists": [
@@ -2788,7 +2860,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 175000,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/7pAnGyZ2j1BImyrTkUMmzQ"
@@ -4264,7 +4336,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213865,
       "name": "my future",
       "url": "https://open.spotify.com/track/3tj775u3IAgXrMxxMqtG8k"
@@ -4390,7 +4462,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 196857,
       "name": "One Kiss",
       "url": "https://open.spotify.com/track/45CmajdV7n9Swxqbcenfi7"
@@ -4642,7 +4714,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 170833,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/2L2QTOdjLXJ8sg0zF9JRa9"
@@ -4736,6 +4808,24 @@
       "duration_ms": 129147,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1crMg4ZtH1YqtHt0NJtiW2"
+    },
+    {
+      "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/2PxHELBN7MScNb6p6KAB6T"
+      },
+      "artists": [
+        {
+          "name": "Troy Mair",
+          "url": "https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/0bD02USbthuiIWVEjlGUlI"
     },
     {
       "album": {
@@ -5582,6 +5672,24 @@
       "duration_ms": 206999,
       "name": "Thank You For The Music",
       "url": "https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc"
+    },
+    {
+      "album": {
+        "name": "C\u00e9line Piano Covers",
+        "url": "https://open.spotify.com/album/7nJe5fPZkiHCxQ4OPGuj8k"
+      },
+      "artists": [
+        {
+          "name": "Diego Dumas",
+          "url": "https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "That's The Way It Is",
+      "url": "https://open.spotify.com/track/4xMDyCESzvK2wNxeslM8M5"
     },
     {
       "album": {
@@ -6810,6 +6918,24 @@
       "duration_ms": 239026,
       "name": "You Are The Reason - Piano Version",
       "url": "https://open.spotify.com/track/2F05YYG6v1eYXMRlJrPBLX"
+    },
+    {
+      "album": {
+        "name": "Acoustic Guitar Covers",
+        "url": "https://open.spotify.com/album/4gcOb5WxltsSyhSfXS5uzI"
+      },
+      "artists": [
+        {
+          "name": "Diego Bellucci",
+          "url": "https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149374,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/5WAQrNbnEDGOk1f3aLHOv6"
     },
     {
       "album": {

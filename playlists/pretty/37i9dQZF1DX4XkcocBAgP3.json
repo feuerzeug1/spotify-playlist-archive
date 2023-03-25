@@ -1,15 +1,15 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.\n",
-  "num_followers": 6079,
+  "num_followers": 624567,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ5NTkyNCwwMDAwMDAwMDE1MjgxN2NkMzgwOWRmNDQ4NGY5ZDU3NTY1ZTU2YmJh",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGM3Zjk5MjQ0OTg2MmZhYjI1OTVmYTI4OWQ4NzFiYTIw",
   "tracks": [
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "5 Leaf Clover",
         "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
-      "album": {
-        "name": "The Kind of Love We Make",
-        "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "The Kind of Love We Make",
-      "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
-    },
-    {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -73,7 +57,7 @@
       "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -89,7 +73,39 @@
       "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Kind of Love We Make",
+        "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Growin' Up and Gettin' Old",
         "url": "https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d"
@@ -121,7 +137,23 @@
       "url": "https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "Where the Wild Things Are",
+      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -137,7 +169,23 @@
       "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Joe",
+        "url": "https://open.spotify.com/album/3SfvfIU7ttLjbdRuu3L9fI"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Joe",
+      "url": "https://open.spotify.com/track/5epEhWhXug9oAjJZVgIMVS"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Doin' This",
         "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
@@ -153,7 +201,7 @@
       "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Tomorrow Me",
         "url": "https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE"
@@ -169,7 +217,7 @@
       "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
@@ -185,7 +233,7 @@
       "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -201,7 +249,7 @@
       "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -217,7 +265,7 @@
       "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -237,7 +285,7 @@
       "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -253,7 +301,7 @@
       "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -269,7 +317,7 @@
       "url": "https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -285,7 +333,7 @@
       "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -301,7 +349,23 @@
       "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 218173,
+      "name": "Hannah Ford Road",
+      "url": "https://open.spotify.com/track/5gy5oMthJa807ihJik4U3O"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -317,7 +381,23 @@
       "url": "https://open.spotify.com/track/1vmsUZWNYg41qrK76ZDcYj"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "You Found Yours",
+      "url": "https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "South On Ya",
         "url": "https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC"
@@ -333,7 +413,7 @@
       "url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -353,7 +433,23 @@
       "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Back 40 Back",
+      "url": "https://open.spotify.com/track/5inIeRExNFzOuqaYU7tpT9"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -369,7 +465,7 @@
       "url": "https://open.spotify.com/track/3jowVO7LtaViPc19EcAJKQ"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/1KUJKWXmE95TPXxeJecop9"
@@ -389,7 +485,7 @@
       "url": "https://open.spotify.com/track/3q3lSbfT5BnQlIvGwahgAD"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -409,7 +505,23 @@
       "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "The Beer, the Band, and the Barstool",
+      "url": "https://open.spotify.com/track/4xXLSKNYTHLN00eZEzbqLr"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
@@ -425,7 +537,7 @@
       "url": "https://open.spotify.com/track/0jcZ1uIHmvh6Is9T6hXOUk"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -441,10 +553,10 @@
       "url": "https://open.spotify.com/track/3bfuN2UbSYYqCLG3cdweGf"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Growin' Up",
-        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
@@ -452,12 +564,12 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 200093,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/3sPIJzHiDC420uQa8ZitF1"
+      "duration_ms": 203440,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6LuooOeUu4NOjkVOiT5CdS"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
@@ -477,7 +589,23 @@
       "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "A Song Was Born",
+      "url": "https://open.spotify.com/track/4AhZSJyGTfYqUnFjn5eGQa"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -493,7 +621,23 @@
       "url": "https://open.spotify.com/track/2h4fQzNmlhTrqJmwpGus0N"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Part",
+      "url": "https://open.spotify.com/track/3v8e2n4bFrAeKRKgy3nha1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
@@ -509,7 +653,7 @@
       "url": "https://open.spotify.com/track/3PwtBxiuJGVGHFfHjOjTpY"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Six Feet Apart",
         "url": "https://open.spotify.com/album/32lkvwsTJrI3SVQUuKTy2R"
@@ -525,7 +669,7 @@
       "url": "https://open.spotify.com/track/3aMUiKCIXJeurR5ppEMJZD"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
@@ -545,7 +689,7 @@
       "url": "https://open.spotify.com/track/3zxAw8PaqpeGZ3Pakkxv3J"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -561,7 +705,39 @@
       "url": "https://open.spotify.com/track/0wovagMoJqtU8LUvDQnewu"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "Take You With Me",
+      "url": "https://open.spotify.com/track/4tgKstWpyU8mtWVQp7ojbM"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3sPIJzHiDC420uQa8ZitF1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -577,7 +753,23 @@
       "url": "https://open.spotify.com/track/429Ok92eZTbjnH8e2ytGh8"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "My Song Will Never Die",
+      "url": "https://open.spotify.com/track/2bPOr33Dh8usjH01h1wa3N"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -593,7 +785,7 @@
       "url": "https://open.spotify.com/track/7vnYQ1R5XLWm9AgGbZmnKd"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -609,7 +801,7 @@
       "url": "https://open.spotify.com/track/0zK0C1rgdcZTVHtUCh2FPW"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -625,7 +817,23 @@
       "url": "https://open.spotify.com/track/6barxNSGzv0cRnD6Q2RfWu"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Tattoo on a Sunburn",
+      "url": "https://open.spotify.com/track/0V75hy6x3cToema5BdJaj9"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -641,7 +849,7 @@
       "url": "https://open.spotify.com/track/4403SJ69vRequRi3bV57e4"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -657,7 +865,7 @@
       "url": "https://open.spotify.com/track/14OiDZVhNtthziMLFViHoU"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -673,7 +881,7 @@
       "url": "https://open.spotify.com/track/273TiTHLlHSRe5zrzs7wvD"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -689,7 +897,23 @@
       "url": "https://open.spotify.com/track/1jdnhRcv4WN78ZB9RigUaR"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 245706,
+      "name": "See Me Now",
+      "url": "https://open.spotify.com/track/5WxQEQJtrOYzobMBTsdPBb"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -705,7 +929,7 @@
       "url": "https://open.spotify.com/track/4hRIRj7aJYKo14MxOb8ILh"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -721,7 +945,23 @@
       "url": "https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Fox in the Henhouse",
+      "url": "https://open.spotify.com/track/3GZSVedXaTqScGsewGuAyi"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -737,7 +977,7 @@
       "url": "https://open.spotify.com/track/38gbVnKWI8xEd7AnqS9aiZ"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -753,7 +993,7 @@
       "url": "https://open.spotify.com/track/1qUIg2DIRjuSFLBzwZ4QyE"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
@@ -769,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3owCCrMPs3IoEAkm0xo4K2"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -785,7 +1025,7 @@
       "url": "https://open.spotify.com/track/5k8m3ZCp3AP4TKd2IKzKO8"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -801,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -817,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
@@ -833,7 +1073,7 @@
       "url": "https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Used to You",
         "url": "https://open.spotify.com/album/6FsIVrMeaJPxJIxfx9tBZs"
@@ -849,7 +1089,7 @@
       "url": "https://open.spotify.com/track/2HR9wF4WR2sCJP4r6l9WVF"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -865,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5gfK6bZFaApxdSHsHXrwPD"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
@@ -881,7 +1121,7 @@
       "url": "https://open.spotify.com/track/02Ey48n33H3erWJRZAtTFj"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "The Way She Rides",
         "url": "https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ"
@@ -897,7 +1137,7 @@
       "url": "https://open.spotify.com/track/0TQ9Hf5DwI9crGZSIlq445"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -913,7 +1153,7 @@
       "url": "https://open.spotify.com/track/0h31TZMlv0ZLc5yppKngwk"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -929,7 +1169,7 @@
       "url": "https://open.spotify.com/track/3z1QH1O1h15lFROjcECqgi"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Can I Get an Outlaw",
         "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
@@ -945,7 +1185,7 @@
       "url": "https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -961,7 +1201,7 @@
       "url": "https://open.spotify.com/track/5FUKOLrwBWkUzJ0Du3dm5T"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Can I Get an Outlaw",
         "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
@@ -977,7 +1217,7 @@
       "url": "https://open.spotify.com/track/1NBJoYCz83qtBFGGPgfTkQ"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -993,7 +1233,7 @@
       "url": "https://open.spotify.com/track/5w5fbyYHo5129Ce4c7qeWa"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
@@ -1009,7 +1249,7 @@
       "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "The Way She Rides",
         "url": "https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ"
@@ -1025,7 +1265,7 @@
       "url": "https://open.spotify.com/track/05DejmhRYCktQogzOVX1H9"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Beautiful Crazy (feat. Leon Bridges) [Live]",
         "url": "https://open.spotify.com/album/6reqV1RJWoivSKTkJNjhQO"
@@ -1045,7 +1285,7 @@
       "url": "https://open.spotify.com/track/4uI6wu9V3heWDqweerxJYF"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -1061,7 +1301,7 @@
       "url": "https://open.spotify.com/track/2cLbHhoGUUDFygKYSksKHV"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -1077,7 +1317,7 @@
       "url": "https://open.spotify.com/track/2JPgcccyZ938uv9AjCGMWq"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -1093,7 +1333,7 @@
       "url": "https://open.spotify.com/track/72DdM3q1npvvRUoa1YQEOd"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Something Borrowed, Something New: A Tribute to John Anderson",
         "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
@@ -1109,7 +1349,7 @@
       "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Beautiful Crazy (Acoustic)",
         "url": "https://open.spotify.com/album/1rlTimWrsM4HYDhCVv5HMT"
@@ -1125,7 +1365,7 @@
       "url": "https://open.spotify.com/track/5v05DdK7dCqmImUj4PLxOE"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Beyond (feat. Luke Combs) [Live]",
         "url": "https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo"
@@ -1145,7 +1385,7 @@
       "url": "https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et"
     },
     {
-      "added_at": "2023-03-22 14:38:44",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "The Way She Rides",
         "url": "https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ"

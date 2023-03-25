@@ -1,13 +1,29 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Budjerah",
-  "num_followers": 5706,
+  "num_followers": 5701,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTYxMywzZmEyNDhlMjcxY2Y5NTU3ZmEzYmY1ZDhmY2UyMTc2MzNkY2E5MjU0",
+  "snapshot_id": "MTYxNixlNmM2MDc4M2FlZTRhNmQ4ODdlYmE5ZmQ5ZDg3NDVkZDc3MGViYzVj",
   "tracks": [
+    {
+      "added_at": "2023-03-24 04:43:28",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
     {
       "added_at": "2023-02-10 00:29:32",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 192103,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
+    },
+    {
+      "added_at": "2023-03-23 23:55:30",
+      "album": {
+        "name": "Jupiter and Mars",
+        "url": "https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh"
+      },
+      "artists": [
+        {
+          "name": "Carla Wehbe",
+          "url": "https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w"
+        }
+      ],
+      "duration_ms": 247966,
+      "name": "jupiter and mars",
+      "url": "https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d"
     },
     {
       "added_at": "2023-02-24 00:16:37",
@@ -199,6 +231,22 @@
       "duration_ms": 230141,
       "name": "Oil (feat. Stevie Nicks)",
       "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
+    },
+    {
+      "added_at": "2023-03-24 00:24:59",
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/2jy7MT4wzfw8Jys97LO47x"
+      },
+      "artists": [
+        {
+          "name": "Dami Im",
+          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
+        }
+      ],
+      "duration_ms": 183061,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/0jUvIB6lcKL5JpCKiRxuoF"
     },
     {
       "added_at": "2023-03-03 02:04:14",

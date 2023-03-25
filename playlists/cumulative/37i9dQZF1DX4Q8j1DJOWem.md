@@ -2,9 +2,9 @@
 
 ### [RADAR Thailand](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่\. ศิลปิน: Anatomy Rabbit
+> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่\. ศิลปิน: The White Hair Cut
 
-68 songs - 4 hr 19 min
+71 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,12 +42,13 @@
 | [ทิ้งไป](https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ทิ้งไป](https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl) | 5:47 | 2022-09-15 |  |
 | [ทุกความทรงจำ](https://open.spotify.com/track/3iJNeAiZwFxiPHWk456Bcw) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 4:35 | 2022-11-23 |  |
 | [นอนหน่อยไหม ?](https://open.spotify.com/track/1n7SJLokzGV1IoLUEmeOuZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [นอนหน่อยไหม ?](https://open.spotify.com/album/3Xiahop7bLCvr2CEHvaXX2) | 3:53 | 2023-01-18 |  |
+| [นักรอ](https://open.spotify.com/track/40gIsFZ7XR0y13f2AFzDAE) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [นักรอ](https://open.spotify.com/album/2yl29z5fk9BCv6HO06LNaF) | 3:13 | 2023-03-23 |  |
 | [นั้น](https://open.spotify.com/track/5CiAE9nLZkkNkFnMAjUgeD) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [นั้น](https://open.spotify.com/album/6xKKC6DregDGOqrUgkSZhA) | 3:20 | 2022-09-23 | 2023-01-11 |
-| [บังอร](https://open.spotify.com/track/1JUxXaTW7ihP7lnlaJbhb1) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [บังอร](https://open.spotify.com/album/6nTx2pg2TIjXZOGfKC2dtm) | 3:07 | 2023-01-10 |  |
+| [บังอร](https://open.spotify.com/track/1JUxXaTW7ihP7lnlaJbhb1) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [บังอร](https://open.spotify.com/album/6nTx2pg2TIjXZOGfKC2dtm) | 3:07 | 2023-01-10 | 2023-03-25 |
 | [ปลอดภัย](https://open.spotify.com/track/4Fer8UPWzhbdyVnccMzPcr) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ปลอดภัย](https://open.spotify.com/album/6GKmt2zllDvt3wlBZeZ3HL) | 3:53 | 2022-09-15 | 2023-01-11 |
 | [ผ่านไปอีกปีแล้วนะ \(Sadiversary\)](https://open.spotify.com/track/1T9p3fycDRc3KXl9nbhwkR) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [ผ่านไปอีกปีแล้วนะ \(Sadiversary\)](https://open.spotify.com/album/4p3UvZyHFLCwQLuA3fosr2) | 3:39 | 2022-09-15 |  |
 | [พะจัน](https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [พะจัน](https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4) | 3:03 | 2022-09-15 | 2022-09-24 |
-| [มันจะไม่มีอีกครั้ง](https://open.spotify.com/track/7jXFHwmcUVn62SdHkatPk7) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [มันจะไม่มีอีกครั้ง](https://open.spotify.com/album/0ya2sMCdsVp5FrnTr0agDF) | 2:56 | 2022-09-15 |  |
+| [มันจะไม่มีอีกครั้ง](https://open.spotify.com/track/7jXFHwmcUVn62SdHkatPk7) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [มันจะไม่มีอีกครั้ง](https://open.spotify.com/album/0ya2sMCdsVp5FrnTr0agDF) | 2:56 | 2022-09-15 | 2023-03-25 |
 | [มาๆหายๆ feat.Karn The Parkinson](https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [I GOT LOST BUT LOOK WHAT I FOUND](https://open.spotify.com/album/4P76Ypg17RLMlwr17EPWL6) | 3:10 | 2022-09-15 |  |
 | [ย้าย](https://open.spotify.com/track/0CqwvHOZeAP0kEEOR1NfnI) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [ย้าย](https://open.spotify.com/album/02XG7etkpra35FNMqAphWe) | 3:51 | 2022-09-15 | 2022-09-24 |
 | [รอวันเธอลืมเขา](https://open.spotify.com/track/7IhbsxmWUQi7Q6PSR8Ecq5) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [รอวันเธอลืมเขา](https://open.spotify.com/album/5KYd61ZcqKn5TyYpIHeP3B) | 3:58 | 2022-11-23 |  |
@@ -55,11 +56,13 @@
 | [ลาลับไป](https://open.spotify.com/track/7r2AEI9Ey8quvF0nt36y4o) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [JUEDJANG](https://open.spotify.com/artist/1QA9rYsSUnQlc9XNqtfMDo), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [ลาลับไป](https://open.spotify.com/album/0KQCPZz56DPPRPDS1MxNNk) | 3:58 | 2023-03-20 |  |
 | [ลืมแทบไม่ไหว](https://open.spotify.com/track/7DNNJcCstLheOvqLsiq2Qz) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [MaiMhon](https://open.spotify.com/artist/4eFeCIHTS2zPKAOPdaKTxg) | [ลืมแทบไม่ไหว](https://open.spotify.com/album/0n7QgYSZ3K4Brs1K2SB9Fk) | 5:54 | 2022-09-15 |  |
 | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6) | 4:22 | 2022-09-23 |  |
+| [ลูกเทวดา](https://open.spotify.com/track/37hVWVtSjHJjSSuEmeXdet) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ลูกเทวดา](https://open.spotify.com/album/1wA0Hk3CI8w8lrKNKfSb4a) | 2:01 | 2023-03-23 |  |
 | [วันนี้คือพรุ่งนี้ของเมื่อวาน \(Loop\)](https://open.spotify.com/track/0sy9KKtn79mAumL6ImSjoI) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [วันนี้คือพรุ่งนี้ของเมื่อวาน \(Loop\)](https://open.spotify.com/album/1CSCDhch6bUx2o8ibPTJAc) | 4:26 | 2022-09-15 | 2023-01-11 |
 | [หัวใจ \(The Reason Why I Live\)](https://open.spotify.com/track/63QIlrzh79BhQYrd9FuR5A) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [หัวใจ \(The Reason Why I Live\)](https://open.spotify.com/album/4ETXZZ3z3Q4OBTy2Jmnq3Q) | 4:39 | 2023-01-10 |  |
 | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/album/3VnwBDrzS0Ly8e3Q7nmOzy) | 3:42 | 2022-09-15 |  |
+| [อาบน้ำตา](https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [อาบน้ำตา](https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps) | 3:15 | 2023-03-23 |  |
 | [เทาหรือเปล่อ เธอหรือเปล่า](https://open.spotify.com/track/5rbRomil1aCyQGxT7RAnpu) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [เทาหรือเปล่อ เธอหรือเปล่า](https://open.spotify.com/album/3677ZTRAFynHYRu2rkgyFC) | 3:29 | 2023-03-20 |  |
-| [เธอทำให้ฉันกลายเป็นเด็ก](https://open.spotify.com/track/2jhMzVTUrycGnB1QzpWova) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [เธอทำให้ฉันกลายเป็นเด็ก](https://open.spotify.com/album/1m5YwT664K3xwfTwdBa5ex) | 3:33 | 2022-09-15 |  |
+| [เธอทำให้ฉันกลายเป็นเด็ก](https://open.spotify.com/track/2jhMzVTUrycGnB1QzpWova) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [เธอทำให้ฉันกลายเป็นเด็ก](https://open.spotify.com/album/1m5YwT664K3xwfTwdBa5ex) | 3:33 | 2022-09-15 | 2023-03-25 |
 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 | 2022-09-15 |  |
 | [เพื่อนที่ดี \(good old days\)](https://open.spotify.com/track/6qfpY6fSeF8X25XaEEmBHm) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [เพื่อนที่ดี \(good old days\)](https://open.spotify.com/album/11wS9KhiTUXdZhOAtBXn14) | 3:21 | 2022-09-15 |  |
 | [เลิกกันแล้ว\(แล้วยังไง\)](https://open.spotify.com/track/2L12dZiM8puWFJBVg7R0wn) | [I HATE MONDAY](https://open.spotify.com/artist/4bZFk69BTd1y2IsxIjO35M) | [เลิกกันแล้ว\(แล้วยังไง\)](https://open.spotify.com/album/5wlDk0JcNyQnJmfLWMWa2v) | 3:13 | 2022-09-15 | 2022-11-24 |

@@ -4,7 +4,7 @@
 
 > Feel\-good dance music! Adopting a dog will make you feel even better\. Go to <a href="http://www.adoptapet.com">adoptapet.com</a> to find a rescue dog near you \(US only\).
 
-335 songs - 17 hr 57 min
+336 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-22 |  |
 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 | 2022-08-26 | 2022-10-06 |
 | [Future Starts Now](https://open.spotify.com/track/3p2wS6G159mBIU50xl7uvc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Future Starts Now](https://open.spotify.com/album/0mhiYBnL1wLGc0CgMhvBe2) | 4:39 | 2021-12-03 | 2022-12-10 |
+| [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-03-10 |  |
 | [GOLDEN](https://open.spotify.com/track/6QWB8L8CgRGLxFi34PD382) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [GOLDEN](https://open.spotify.com/album/2GbsIk9c3vANdWCufpftWn) | 3:39 | 2021-12-03 | 2022-01-08 |
 | [Good Day Bad Day](https://open.spotify.com/track/2gvk0tcgT5cm97I1TWHAQa) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Good Day Bad Day](https://open.spotify.com/album/4wBJRggQfJF9Swtb9Y4qH6) | 3:14 | 2021-12-03 | 2021-12-31 |
 | [Good Dream](https://open.spotify.com/track/0uL65436R0LEWAmXS5QmzU) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [BLEM](https://open.spotify.com/artist/0TPjfhQmGHQ3O71ZdzklDB), [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz) | [Good Dream](https://open.spotify.com/album/3bE5bIj5rLKSWjjcC1SrlU) | 2:48 | 2021-12-03 | 2022-01-08 |
@@ -212,7 +213,7 @@
 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 | 2022-01-07 |  |
 | [More Than I Can Say](https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [More Than I Can Say](https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB) | 2:33 | 2022-11-18 |  |
 | [More Than I Can Say](https://open.spotify.com/track/7HjAWHKa7PURoZFHgjOA5O) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [More Than I Can Say](https://open.spotify.com/album/79vdDwERqObqv5rU1Io08H) | 2:33 | 2021-12-03 | 2022-11-16 |
-| [More Than I Want To](https://open.spotify.com/track/4dkQMweppOlQjOvxv5fQTy) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [More Than I Want To](https://open.spotify.com/album/6JBU6wA7ziYnoFPcULQBYy) | 2:47 | 2022-01-07 |  |
+| [More Than I Want To](https://open.spotify.com/track/4dkQMweppOlQjOvxv5fQTy) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [More Than I Want To](https://open.spotify.com/album/6JBU6wA7ziYnoFPcULQBYy) | 2:47 | 2022-01-07 | 2023-03-25 |
 | [Most Precious Love](https://open.spotify.com/track/5EOLXVT47Ardn1lRWndbF4) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [RE//CHOIRED](https://open.spotify.com/album/5MlKsggm84AWbOrDArZ1BE) | 3:54 | 2021-12-03 | 2022-01-08 |
 | [Move Your Body](https://open.spotify.com/track/3EAwcVzkJyIp481tAtYeR0) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Move Your Body](https://open.spotify.com/album/0eIn9Vlw8ZwN79RTZeibbp) | 3:21 | 2021-12-03 | 2022-01-06 |
 | [My Feelings For You \- Mark Knight Remix](https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [My Feelings For You \(Mark Knight Remix\)](https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF) | 3:44 | 2022-07-15 |  |

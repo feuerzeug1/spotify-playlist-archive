@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 220550,
       "name": "Blur",
       "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 212790,
       "name": "butterflies",
       "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 187898,
       "name": "comeoutside",
       "url": "https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu"
@@ -2406,6 +2406,24 @@
       "duration_ms": 124853,
       "name": "feelings are fatal",
       "url": "https://open.spotify.com/track/6GGdkwYk4NXuiIcQD16AZg"
+    },
+    {
+      "album": {
+        "name": "fickle.minds",
+        "url": "https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq"
+      },
+      "artists": [
+        {
+          "name": "lost spaces",
+          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "fickle.minds",
+      "url": "https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz"
     },
     {
       "album": {
@@ -3711,6 +3729,28 @@
     },
     {
       "album": {
+        "name": "I Choose U (feat. RINI)",
+        "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
+      },
+      "artists": [
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202706,
+      "name": "I Choose U (feat. RINI)",
+      "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
+    },
+    {
+      "album": {
         "name": "I Don't Like How Much I Like You",
         "url": "https://open.spotify.com/album/3ae8vmYLjucBzAXPn9VRsH"
       },
@@ -4320,7 +4360,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 305714,
       "name": "It's fine",
       "url": "https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb"
@@ -4627,6 +4667,24 @@
     },
     {
       "album": {
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "album": {
         "name": "late nite",
         "url": "https://open.spotify.com/album/1srxCzpKhsARgl6XTFVVm6"
       },
@@ -4642,6 +4700,24 @@
       "duration_ms": 196476,
       "name": "late nite",
       "url": "https://open.spotify.com/track/1sYp5bkjaiSKl1aOGOu3uw"
+    },
+    {
+      "album": {
+        "name": "lately",
+        "url": "https://open.spotify.com/album/7obFsECkREJyGc90vojKZ5"
+      },
+      "artists": [
+        {
+          "name": "Isaac Chan",
+          "url": "https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263323,
+      "name": "lately",
+      "url": "https://open.spotify.com/track/2V7Jvf0o9dhCoZ5QswlUoR"
     },
     {
       "album": {
@@ -4674,7 +4750,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 181256,
       "name": "Lay Your Head on Me",
       "url": "https://open.spotify.com/track/2TkHnzYwHEoTVgoyqf6UJ2"
@@ -4794,6 +4870,24 @@
       "duration_ms": 268002,
       "name": "Levia",
       "url": "https://open.spotify.com/track/3IGhQg2Kto8vFgj3cTVyNL"
+    },
+    {
+      "album": {
+        "name": "welcome to my mind",
+        "url": "https://open.spotify.com/album/00cjv8haUkTVHTrMB8ZWep"
+      },
+      "artists": [
+        {
+          "name": "liesl-mae",
+          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195493,
+      "name": "life as I know it",
+      "url": "https://open.spotify.com/track/4lQe11Y0Qu7EoCN9PVFd6P"
     },
     {
       "album": {
@@ -5416,6 +5510,24 @@
       "duration_ms": 174152,
       "name": "Maybe?",
       "url": "https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn"
+    },
+    {
+      "album": {
+        "name": "midnight rendezvous",
+        "url": "https://open.spotify.com/album/4XAi7fxJkMgdqS73Wjte5J"
+      },
+      "artists": [
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156857,
+      "name": "midnight rendezvous",
+      "url": "https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3"
     },
     {
       "album": {
@@ -6150,7 +6262,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 159485,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/4tOBkwkWLVdcpS8KznVcSx"
@@ -6545,6 +6657,24 @@
     },
     {
       "album": {
+        "name": "Please Excuse My Hesitation",
+        "url": "https://open.spotify.com/album/0tLw9YLSYDGKc28Eg5NegJ"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169352,
+      "name": "Please Excuse My Hesitation",
+      "url": "https://open.spotify.com/track/64939Q4L5IPEpiWd57yy30"
+    },
+    {
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/68DMCodGLgBv2W0EHbTFAr"
       },
@@ -6866,7 +6996,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 199935,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/19rYI8oRZAdz0gQIQ2yHld"
@@ -7416,7 +7546,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 183360,
       "name": "solo",
       "url": "https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2"
@@ -7554,6 +7684,28 @@
       "duration_ms": 200581,
       "name": "Sour",
       "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+    },
+    {
+      "album": {
+        "name": "space",
+        "url": "https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k"
+      },
+      "artists": [
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+        },
+        {
+          "name": "Teddy Aditya",
+          "url": "https://open.spotify.com/artist/4PTQkIfi5gNNENy976x1gc"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150428,
+      "name": "space (feat. Teddy Aditya)",
+      "url": "https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4"
     },
     {
       "album": {

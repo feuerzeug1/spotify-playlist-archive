@@ -4,7 +4,7 @@
 
 > manejando la tranquilidad 🏝  🥥  🏝
 
-225 songs - 13 hr 47 min
+226 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Calabria 2008](https://open.spotify.com/track/4MlfMyLq5REr81WoHM6y0N) | [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Shooting Star](https://open.spotify.com/album/3uqtp3GhusIlJ1wOpLJtEt) | 3:45 | 2022-02-04 | 2022-02-24 |
 | [Captain \(whistle\)](https://open.spotify.com/track/2GPh676erhgaOyMRmQNOc6) | [Nutcase22](https://open.spotify.com/artist/223shoqJ9oge1jE0QKyV1K) | [Captain \(whistle\)](https://open.spotify.com/album/32cbprgfOu2u1RoUzZ35mX) | 3:34 | 2022-02-04 | 2022-02-24 |
 | [Castigo](https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Castigo](https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ) | 2:58 | 2022-07-01 |  |
-| [Ceniza Fria](https://open.spotify.com/track/1Nvg0fsSlVzDWX5RxsWakm) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Exitos De](https://open.spotify.com/album/3FEcp8czY7hn9D2YAA9vLt) | 4:09 | 2022-07-01 |  |
+| [Ceniza Fria](https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:01 | 2022-07-01 |  |
+| [Ceniza Fria](https://open.spotify.com/track/1Nvg0fsSlVzDWX5RxsWakm) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Exitos De](https://open.spotify.com/album/3FEcp8czY7hn9D2YAA9vLt) | 4:09 | 2022-07-01 | 2023-03-25 |
 | [Ceniza Fria](https://open.spotify.com/track/1e8GcTUT0LmiCTNDlVJhRI) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Música Tropical de Colombia, Vol\. 10](https://open.spotify.com/album/796vZzmhjoEVYddOjT7apS) | 4:09 | 2022-07-01 | 2022-11-13 |
 | [Ceniza Fría](https://open.spotify.com/track/2uITXbT51Yz4YPgmbeMQtD) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Grandes Éxitos de los Chiches Vallenatos](https://open.spotify.com/album/5TGuRU1Rt8eeWaZ5jPh09s) | 4:01 | 2022-02-23 | 2022-07-29 |
 | [Chandelier](https://open.spotify.com/track/1Go9q6KaCpAsQ0wkZFGzY2) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/2mLsjWM9GyknWYlAXKZcOe) | 2:07 | 2022-02-04 | 2022-02-24 |

@@ -1,8 +1,42 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Funny Girl",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: Parade",
   "name": "Best of Broadway",
   "tracks": [
+    {
+      "album": {
+        "name": "1973 | Almost Famous - The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0KlUofZC29GRr69VlI9UMq"
+      },
+      "artists": [
+        {
+          "name": "Casey Likes",
+          "url": "https://open.spotify.com/artist/2y3sCYh34QgmPXj1HdUlsu"
+        },
+        {
+          "name": "Anika Larsen",
+          "url": "https://open.spotify.com/artist/19YjQcUwdG4DwtQkX7FdyL"
+        },
+        {
+          "name": "Emily Schultheis",
+          "url": "https://open.spotify.com/artist/0OcExg1pTQLJwlcR5mQXLi"
+        },
+        {
+          "name": "Daniel Sovich",
+          "url": "https://open.spotify.com/artist/1EsCfsJrZyD7zFqDqucMHG"
+        },
+        {
+          "name": "Original Broadway Cast of Almost Famous - The Musical",
+          "url": "https://open.spotify.com/artist/7ybNybQQDnJoGOP2Y9JyHG"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360120,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/2gOmt646rC7CXUUdDUIvEL"
+    },
     {
       "album": {
         "name": "The Best of Broadway, Vol. 3 (3-Pak Slipcover)",
@@ -28,6 +62,36 @@
       "duration_ms": 257666,
       "name": "A Chorus Line: Nothing",
       "url": "https://open.spotify.com/track/19Dtxh8v04vLB3pZMWG1Ir"
+    },
+    {
+      "album": {
+        "name": "Parade (2023 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1Q4VxidzNyBpzIZ11qnCP3"
+      },
+      "artists": [
+        {
+          "name": "Douglas Lyons",
+          "url": "https://open.spotify.com/artist/5D58ODYa8Vq0ekWGcuVLxt"
+        },
+        {
+          "name": "Courtnee Carter",
+          "url": "https://open.spotify.com/artist/4xtw3MtO6pgVQ1dWjLGqeX"
+        },
+        {
+          "name": "Eddie Cooper",
+          "url": "https://open.spotify.com/artist/148uPAec9UX5XUQZKtsKZU"
+        },
+        {
+          "name": "Danielle Lee Greaves",
+          "url": "https://open.spotify.com/artist/7tKdhQ9fES8ZQwzi4z2f5G"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211114,
+      "name": "A Rumblin\u2019 and a Rollin\u2019",
+      "url": "https://open.spotify.com/track/1g3qYpfx3UaJLxIwXZPbiz"
     },
     {
       "album": {
@@ -754,7 +818,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 143819,
       "name": "Giants In The Sky",
       "url": "https://open.spotify.com/track/3RDesmUopi3TgcFJdPAZnN"
@@ -2931,6 +2995,28 @@
     },
     {
       "album": {
+        "name": "Parade (2023 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1Q4VxidzNyBpzIZ11qnCP3"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Micaela Diamond",
+          "url": "https://open.spotify.com/artist/4cwza2NZPQtmTcXotvpwWq"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172150,
+      "name": "This Is Not Over Yet",
+      "url": "https://open.spotify.com/track/0D440Wh9nwpDhzF09blPfE"
+    },
+    {
+      "album": {
         "name": "The Music Man (Original Broadway Cast)",
         "url": "https://open.spotify.com/album/4O0zo2ULebkZ7PKZpFdPLJ"
       },
@@ -3398,6 +3484,24 @@
       "duration_ms": 349400,
       "name": "You Can't Stop the Beat - Medley",
       "url": "https://open.spotify.com/track/4WETOI0rRKTLF1NqJ8E5Xf"
+    },
+    {
+      "album": {
+        "name": "Parade (2023 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1Q4VxidzNyBpzIZ11qnCP3"
+      },
+      "artists": [
+        {
+          "name": "Micaela Diamond",
+          "url": "https://open.spotify.com/artist/4cwza2NZPQtmTcXotvpwWq"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141392,
+      "name": "You Don\u2019t Know This Man",
+      "url": "https://open.spotify.com/track/4W3EvxBwikKrEJA1h1fjY8"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 562659,
+  "num_followers": 563057,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMDVhYWQ2ZDA1NWEwNmYyM2NkMGVlMjA3MWMyYWU3Nzcw",
+  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMGI0MGJiOTI3NzUyMTcyNTU4YmEzNzM4MWE3OWVhNTgx",
   "tracks": [
     {
       "added_at": "2023-02-17 14:30:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Roda",
-        "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        }
-      ],
-      "duration_ms": 285123,
-      "name": "Roda",
-      "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "I WON'T STAY",
         "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Roda",
+        "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        }
+      ],
+      "duration_ms": 285123,
+      "name": "Roda",
+      "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -719,22 +719,22 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Be Here and Now",
-        "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
+        "name": "Nefertari",
+        "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
         },
         {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+          "name": "Patrice B\u00e4umel",
+          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
         }
       ],
-      "duration_ms": 209699,
-      "name": "Be Here and Now",
-      "url": "https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F"
+      "duration_ms": 241160,
+      "name": "Nefertari",
+      "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
+        "name": "Be Here and Now",
+        "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 209699,
+      "name": "Be Here and Now",
+      "url": "https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 221966,
       "name": "Silence",
       "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
-        "name": "Nefertari",
-        "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Patrice B\u00e4umel",
-          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Nefertari",
-      "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Sint Maarten",
         "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 271351,
       "name": "Sint Maarten",
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Future Memories",
-        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
-      },
-      "artists": [
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Soundexile",
-          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
-        }
-      ],
-      "duration_ms": 383250,
-      "name": "Teleport - Future Mix",
-      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Donde Chile",
         "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 446079,
       "name": "ut i rommet",
       "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Future Memories",
+        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Soundexile",
+          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
+        }
+      ],
+      "duration_ms": 383250,
+      "name": "Teleport - Future Mix",
+      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Second Line",
-        "url": "https://open.spotify.com/album/1urJXJzqJ3JkAz8V1kiZUO"
-      },
-      "artists": [
-        {
-          "name": "Set Mo",
-          "url": "https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj"
-        },
-        {
-          "name": "Sumner",
-          "url": "https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Second Line",
-      "url": "https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh"
-    },
-    {
-      "added_at": "2023-02-17 14:30:00",
-      "album": {
         "name": "Diving Into Minds",
         "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 403286,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"
+    },
+    {
+      "added_at": "2023-02-17 14:30:00",
+      "album": {
+        "name": "Second Line",
+        "url": "https://open.spotify.com/album/1urJXJzqJ3JkAz8V1kiZUO"
+      },
+      "artists": [
+        {
+          "name": "Set Mo",
+          "url": "https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj"
+        },
+        {
+          "name": "Sumner",
+          "url": "https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Second Line",
+      "url": "https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh"
     },
     {
       "added_at": "2023-02-17 14:30:00",
@@ -1519,22 +1519,18 @@
     {
       "added_at": "2023-02-17 14:30:00",
       "album": {
-        "name": "Cold Shoulder (Helsloot Remix)",
-        "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
       },
       "artists": [
         {
-          "name": "Words of Ni\u014d",
-          "url": "https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
         }
       ],
-      "duration_ms": 246466,
-      "name": "Cold Shoulder - Helsloot Remix",
-      "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
+      "duration_ms": 377225,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     }
   ],
   "unique_name": "Deep House Blend",

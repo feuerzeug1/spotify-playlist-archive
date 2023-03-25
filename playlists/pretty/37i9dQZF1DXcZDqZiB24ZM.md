@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,880 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,893 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 73 | [Dans L'trap](https://open.spotify.com/track/4ZaVq23ofISP4U9EChy7sN) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H), [E.Santana](https://open.spotify.com/artist/4xuP5XVUJPwlw7iP7eY0gQ) | [Encore Des Histoires De Trap](https://open.spotify.com/album/5f27f4CYjasBqMXVn6nbuw) | 3:39 |
 | 74 | [Sang Sur les Mains](https://open.spotify.com/track/0T3Fsro25pwNhZ4iVDnIiC) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [IMPRÉVU](https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE) | 4:21 |
 | 75 | [Basilic](https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8) | [Qualité Motel](https://open.spotify.com/artist/6GZTbbzfV1dP2hCgUcDynC), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Curieux Bégin](https://open.spotify.com/artist/0YBkOnbAd0384Cis3ur3HO), [Vinny Bombay](https://open.spotify.com/artist/1a20rLp5UIw3OOwYrL0jaH), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [C'est pas la qualité qui compte](https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX) | 2:39 |
-| 76 | [Aliens](https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO) | [Charlie Shulz](https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz), [Kamiyada](https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP) | [Aliens](https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke) | 3:00 |
+| 76 | [Bruce Wayne](https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Bonhomme Pendu \(Chapitre 2\)](https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl) | 3:55 |
 | 77 | [Parle\-Moé Don D'ça](https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb) | [Temple de la Renommée](https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A) | 3:47 |
-| 78 | [Bruce Wayne](https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Bonhomme Pendu \(Chapitre 2\)](https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl) | 3:55 |
+| 78 | [Aliens](https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO) | [Charlie Shulz](https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz), [Kamiyada](https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP) | [Aliens](https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke) | 3:00 |
 | 79 | [Faya](https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Faya](https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87) | 3:56 |
 | 80 | [Univers parallèle](https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Le set up](https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc) | 2:38 |
 | 81 | [Dollaz](https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Désirée \(feat\. Cape Tula & Yen Dough\)](https://open.spotify.com/track/6xOBm3J2uftXOZNzkI3vEf) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS), [Yen Dough](https://open.spotify.com/artist/3RNcfewLEd1Y5n8WtcoJXG), [Cape Tula](https://open.spotify.com/artist/7tZSgCNyyOgOdu6RvF0yAf) | [OUI \(tout, tout, tout, toutttte\)](https://open.spotify.com/album/7bRU8bH8jcOYzSA5NKd1QK) | 4:14 |
 | 100 | [Wow](https://open.spotify.com/track/3T1bB8PzL5Gi0XlvB9hDxU) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Soft](https://open.spotify.com/artist/24tG8onRIqNr5bFhVkROUF), [VNCE CARTER](https://open.spotify.com/artist/11zy6I3LeMtIrIztaTl5rO) | [Canicule, Vol.1](https://open.spotify.com/album/31u0rjLg49Ae8T7VHysfwP) | 2:25 |
 
-Snapshot ID: `MTY1NjUyNzU5MCwwMDAwMDAwMGY0OTBhODcwNzBhOGEzNjM3Y2ZiNjRkNGE0YTk4ODRh`
+Snapshot ID: `MTY1NjUyNzU5MCwwMDAwMDAwMGIxZDAxMWY0NzJjNjYzMGZhZWFiNTVhNDRlNmQ0NTli`

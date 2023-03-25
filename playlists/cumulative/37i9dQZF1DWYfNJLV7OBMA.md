@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-203 songs - 12 hr 8 min
+204 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Choon Paan \(Sata Pata Satta Padi\)](https://open.spotify.com/track/3XeOtn0z8mv2KksUjeOMOA) | [Ashen Senarathna](https://open.spotify.com/artist/3ErbfPl50cvw8lZqwLmwz3), [Dimi3](https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE) | [Choon Paan \(Sata Pata Satta Padi\)](https://open.spotify.com/album/1sLxbf3LekBrEasAMnSvQY) | 2:48 | 2022-11-04 | 2022-12-01 |
 | [Cordelia](https://open.spotify.com/track/4XpLYtjWVMOvyBv5VJHXZy) | [Stereomiinds](https://open.spotify.com/artist/24OHgf3gPyP5DomDcDVu8T) | [Cordelia](https://open.spotify.com/album/4fdayMEVgTXmZbgb3zYscT) | 3:31 | 2022-06-16 | 2022-12-01 |
 | [Dan Sepada](https://open.spotify.com/track/7vrOOXIHWlBN0lMO7GaAZg) | [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt) | [Dan Sepada](https://open.spotify.com/album/5apMcqrwxEK5vPAFsQ2esQ) | 2:55 | 2022-06-16 |  |
-| [Danena Thuru Maa](https://open.spotify.com/track/3fPCob1jPMN9QmYDXwikvx) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u) | [Danena Thuru Maa](https://open.spotify.com/album/4fA65iLnPvYCeYLvIMPizQ) | 3:55 | 2022-11-30 |  |
+| [Danena Thuru Maa](https://open.spotify.com/track/3fPCob1jPMN9QmYDXwikvx) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u) | [Danena Thuru Maa](https://open.spotify.com/album/4fA65iLnPvYCeYLvIMPizQ) | 3:55 | 2022-11-30 | 2023-03-25 |
+| [Danena Thuru Maa](https://open.spotify.com/track/0HSAlDJA3C54woJgIUPice) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Manuranga Wijesekara](https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw), [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u), [Amith Guru](https://open.spotify.com/artist/7n7yFD0oaBaphaVWZpfbbT) | [Danena Thuru Maa](https://open.spotify.com/album/0V3JnYuxmhAWEkNniY2lii) | 3:55 | 2023-02-27 |  |
 | [Dangale](https://open.spotify.com/track/5lahxN8MHTtTUzRSSkGUYG) | [Nilan Hettiarachchi](https://open.spotify.com/artist/7exMoM7exKf75tVyXQjOjq), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ) | [Dangale](https://open.spotify.com/album/3HS1tuzhahluJ2GnSTlms7) | 3:41 | 2022-08-12 | 2022-09-24 |
 | [Danune Adarayada](https://open.spotify.com/track/7wrD18hP4wlW6T8qNob74Y) | [Ranga Weerasekara](https://open.spotify.com/artist/5O5GGkxIFhi8fg5dvki1v1) | [Danune Adarayada](https://open.spotify.com/album/25qqYky34VOMlKuLiw1eYq) | 3:59 | 2022-06-16 | 2022-12-01 |
 | [Datha Dara](https://open.spotify.com/track/7Dl4H08P6ZsuQnN3rl3X5Q) | [NaadhaGama](https://open.spotify.com/artist/6OcxQ6JR8KBybmQOJNWvTU), [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN), [Dhanith Sri](https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs), [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x), [Dinupa Kodagoda](https://open.spotify.com/artist/1hIhsR8RdSlX4IVlxybhFj) | [Datha Dara](https://open.spotify.com/album/5ACrismOfjk5EW5n9oz4t6) | 3:10 | 2022-11-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Gabi Sklar
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,997 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,212 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [Space](https://open.spotify.com/track/0gZhb7dvu3xMvPQyF2AUoc) | [Caroline Lobb](https://open.spotify.com/artist/1pfxi1NJbyyu5H6qvuws5B) | [Space](https://open.spotify.com/album/6miksY7BC5soZNpPs3nVXM) | 4:12 |
 | 100 | [Your New Girlfriend](https://open.spotify.com/track/11PtLWTILZ7htNJd6hwSI2) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Your New Girlfriend](https://open.spotify.com/album/3S09y6fXnzBY52CsFv1OVT) | 1:58 |
 
-Snapshot ID: `MTY3OTQ1NzYwMCwwMDAwMDAwMDkyNjJiYmY2NDk5NTBiMWE3NzNmN2JjNzk5ZjUyZDI5`
+Snapshot ID: `MTY3OTQ1NzYwMCwwMDAwMDAwMDU2MDc4YTM3ZGE4OTVlMWVkYWFmZjllNDA1YTEzYjIz`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: Mike Shabb, Nicholas Craven",
+  "description": "Damn son, where'd ya find this? Cover: Hit-Boy, Nas",
   "name": "Raw & Uncut",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 120058,
       "name": "01 Freestyle",
       "url": "https://open.spotify.com/track/0DR8QBEGggmumpglPEguoB"
+    },
+    {
+      "album": {
+        "name": "101 Razors (feat. Method Man)",
+        "url": "https://open.spotify.com/album/4uuC3eLC3GabCWMjP1ZpzS"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "101 Razors (feat. Method Man)",
+      "url": "https://open.spotify.com/track/5gAzHHzDAnuq9Ubf49OOZL"
     },
     {
       "album": {
@@ -190,7 +212,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 199498,
       "name": "60 Days",
       "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
@@ -248,6 +270,24 @@
       "duration_ms": 215509,
       "name": "A.D.H.D",
       "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
+    },
+    {
+      "album": {
+        "name": "Above Water",
+        "url": "https://open.spotify.com/album/0ek3Mj5Ptxr1ens0OlhYnx"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Above Water",
+      "url": "https://open.spotify.com/track/1CukLFTHUU14jP0aCImrgs"
     },
     {
       "album": {
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 211087,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/4D3hcHpsFsiQFBNIKYgjui"
@@ -1906,7 +1946,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 202849,
       "name": "FAR (feat. T'nah)",
       "url": "https://open.spotify.com/track/1qJTwgAgVjBtVrk9w7Evfz"
@@ -2012,7 +2052,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 256333,
       "name": "Flex",
       "url": "https://open.spotify.com/track/2Xl3hWdRfJcFwQHDJfW78I"
@@ -2568,6 +2608,28 @@
       "duration_ms": 180826,
       "name": "Head High",
       "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
+    },
+    {
+      "album": {
+        "name": "To See A Sunset",
+        "url": "https://open.spotify.com/album/5rJ8SJ38ask8SN4ftwxvWS"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184847,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/03gTp2zMOTL36xDsfzgJlh"
     },
     {
       "album": {
@@ -3213,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Ways of Knowing",
+        "url": "https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201164,
+      "name": "Kill Switch",
+      "url": "https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y"
+    },
+    {
+      "album": {
         "name": "No Division Vol. 2",
         "url": "https://open.spotify.com/album/5iBJfpPsLzwlB91QhjmlOm"
       },
@@ -3370,7 +3450,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 211512,
       "name": "Limoncello",
       "url": "https://open.spotify.com/track/2PQ3gD9RdX7laM9djWj7V1"
@@ -4156,7 +4236,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 209655,
       "name": "One Life",
       "url": "https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA"
@@ -4237,6 +4317,32 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3c8EDoT5199n5XXwfgp3v4"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Flee Lord",
+          "url": "https://open.spotify.com/artist/3I6neO2jiyMa8arh6JBe7e"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111325,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2PDuJhsbXd88akE6VejIFK"
+    },
+    {
+      "album": {
         "name": "Summer 2002, Vol. 1",
         "url": "https://open.spotify.com/album/0oIsqseukvLwDI3Q0H5O83"
       },
@@ -4270,6 +4376,32 @@
       "duration_ms": 109813,
       "name": "Over You.",
       "url": "https://open.spotify.com/track/3a7tj41nj7S3LKmkGJB2zT"
+    },
+    {
+      "album": {
+        "name": "Palisades, CA",
+        "url": "https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192226,
+      "name": "Palisades, CA",
+      "url": "https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7"
     },
     {
       "album": {
@@ -4472,7 +4604,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 310733,
       "name": "Player's Anthem",
       "url": "https://open.spotify.com/track/6M984do6yn6wjCiSUlufPn"
@@ -4512,7 +4644,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 165898,
       "name": "Porsche Lights",
       "url": "https://open.spotify.com/track/3pCVonu1qfrDepmvGRXnfj"
@@ -4684,7 +4816,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 337760,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/0eK5y1c7WDyWwx6k9SFjbT"
@@ -4816,7 +4948,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 305693,
       "name": "Ring Ring Ring (Ha Ha Hey)",
       "url": "https://open.spotify.com/track/1zRW3vr3uw0tdG7iLWUZpn"
@@ -4896,7 +5028,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 185266,
       "name": "Rock Co.Kane Flow (feat. MF Doom)",
       "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
@@ -5627,6 +5759,28 @@
     },
     {
       "album": {
+        "name": "Subpar (with Method Man)",
+        "url": "https://open.spotify.com/album/5C9BiODFRpVGxAPDp042fO"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "Subpar (with Method Man)",
+      "url": "https://open.spotify.com/track/4ihDvBziAGDBtxggYujhks"
+    },
+    {
+      "album": {
         "name": "Ready to Die (The Remaster; 2015 Remaster)",
         "url": "https://open.spotify.com/album/2ymwUMeW3BySLhKNp8UQZ3"
       },
@@ -5756,6 +5910,36 @@
       "duration_ms": 175595,
       "name": "Switch Sides (Feat. Jadakiss, Eddy I, 5Th Pxwer)",
       "url": "https://open.spotify.com/track/5AccFIyJNVNwygPIsZd6Wn"
+    },
+    {
+      "album": {
+        "name": "Szechuan Capital",
+        "url": "https://open.spotify.com/album/6Wjkj7mbasv8jQKFssrWzn"
+      },
+      "artists": [
+        {
+          "name": "Meyhem Lauren",
+          "url": "https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95"
+        },
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303575,
+      "name": "Szechuan Capital",
+      "url": "https://open.spotify.com/track/5nK2Nmo5cNHB7FeBddWWTq"
     },
     {
       "album": {
@@ -6049,6 +6233,28 @@
     },
     {
       "album": {
+        "name": "SURF OR DROWN",
+        "url": "https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236730,
+      "name": "The Tide",
+      "url": "https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN"
+    },
+    {
+      "album": {
         "name": "The Title",
         "url": "https://open.spotify.com/album/2ZxNKF3uu9vW4auJRfSqx2"
       },
@@ -6064,6 +6270,28 @@
       "duration_ms": 163696,
       "name": "The Title",
       "url": "https://open.spotify.com/track/5AcNJ4zqJEDKjO4ZZhCUTS"
+    },
+    {
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3wktvqh1FbUuP3KMSeYvWA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Deep Thought",
+          "url": "https://open.spotify.com/artist/1CRTa2b81vACLSOWujVMbk"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4s9jU8Krr0ICOhOF7JoBGX"
     },
     {
       "album": {
@@ -6144,7 +6372,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
@@ -6346,6 +6574,28 @@
       "duration_ms": 130369,
       "name": "Trouble Man.",
       "url": "https://open.spotify.com/track/5jPtXvN5kdWaA1H5A7SfID"
+    },
+    {
+      "album": {
+        "name": "TURNIN' HEADS",
+        "url": "https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176982,
+      "name": "TURNIN' HEADS",
+      "url": "https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV"
     },
     {
       "album": {
@@ -6874,6 +7124,32 @@
       "duration_ms": 144222,
       "name": "Xfoliate (feat. General Fly)",
       "url": "https://open.spotify.com/track/52mQbcaJNiPIn8OaiEflxY"
+    },
+    {
+      "album": {
+        "name": "Essex Boys",
+        "url": "https://open.spotify.com/album/26MRWFBmtiE4dyop4mzuCp"
+      },
+      "artists": [
+        {
+          "name": "Roshin",
+          "url": "https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig"
+        },
+        {
+          "name": "Essex Boys",
+          "url": "https://open.spotify.com/artist/3LVjqBF6OlWuuCEaLiaYPP"
+        },
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205134,
+      "name": "Yellow Diamonds",
+      "url": "https://open.spotify.com/track/0VJnARijlKyC0jOvcQlYfE"
     },
     {
       "album": {

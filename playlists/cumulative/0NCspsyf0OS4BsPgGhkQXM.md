@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-709 songs - 1 day 14 hr 48 min
+710 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Flow](https://open.spotify.com/track/4ldB2NDmdmoZPy4ZgZ9i4Q) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 1:54 | 2022-05-06 | 2022-06-18 |
 | [Follow Me](https://open.spotify.com/track/1W1lgRwIEuSMFLkLg6tXm7) | [Levianth](https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H) | [Follow Me](https://open.spotify.com/album/0BCP5oNMo4U2zPjGB9gOEu) | 2:04 | 2022-09-07 | 2022-10-22 |
 | [For Tha Shot](https://open.spotify.com/track/4nkxVUmWW2sNVzSAmElsrp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [For Tha Shot](https://open.spotify.com/album/29xMerDSgERnGqXyU4VX0T) | 4:22 | 2022-12-16 | 2022-12-27 |
+| [Forgive Me](https://open.spotify.com/track/73UOjDMdNAOXM2FPC4nta0) | [WinWel](https://open.spotify.com/artist/6CbRlRjHH42aw6V6zbCAxb) | [Forgive Me](https://open.spotify.com/album/0DIvrO5E7V9RNym2JddrEh) | 2:16 | 2023-03-24 |  |
 | [Forgotten You](https://open.spotify.com/track/7jRCnqBjGvLyWBA7g0ZrCZ) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 4:10 | 2022-02-18 | 2022-06-04 |
 | [Forgotten You \- Fancy Monster Remix](https://open.spotify.com/track/5BXa0xyHFOg30mOHn4fMjc) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7), [Fancy Monster](https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:30 | 2022-07-29 | 2022-09-15 |
 | [Found You](https://open.spotify.com/track/22UhyRzrygZzLFJHkchvlk) | [ODEA](https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd), [VAUX](https://open.spotify.com/artist/30kxCU0wOt3JS75tZsYrZp) | [Found You](https://open.spotify.com/album/2EV0Y92S2OUlgxeAZjgSjB) | 4:05 | 2023-01-31 |  |

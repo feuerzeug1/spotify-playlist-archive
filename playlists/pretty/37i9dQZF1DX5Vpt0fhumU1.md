@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,210 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,455 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 9 | [Aux Vagues, Mix du Pelerinage](https://open.spotify.com/track/3Y1Mt1wDksUZXGTaY0jHGO) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO) | 4:57 |
 | 10 | [Mi barrio, ciudad sin ley](https://open.spotify.com/track/5kQyFHsAwgWrKGKv7dkWzj) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp) | 2:16 |
 | 11 | [Al alba](https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY) | [Jose Merce](https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8) | [Aire](https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk) | 4:16 |
-| 12 | [Lel\-lere\-bay\-bay](https://open.spotify.com/track/38hZfOZ0EWf33WLwcTh9tH) | [Chachi Ensemle, El](https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE) | [Manuel El Chachi Lopez\-Ruiz: Gypsy Rumba Flamenco](https://open.spotify.com/album/24dVmdybMczU8CmAmCDJ8E) | 3:17 |
+| 12 | [Lel\-Lere\-Bay\-Bay](https://open.spotify.com/track/3zeDaOPjtTDyJv1Gj7cwdk) | [Manuel Lopez\-Ruiz](https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo), [Chachi Ensemle, El](https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE) | [Gypsy Rumba Flamenco](https://open.spotify.com/album/5XbIzljPb6mwQcQpLnuIMQ) | 3:15 |
 | 13 | [Cal y Arena \(Lime and Sand\)](https://open.spotify.com/track/0ztlNAjWEX2n6EwU47nAWQ) | [Vasco Hernandez](https://open.spotify.com/artist/5qHWYMAzg5sEONXNtiqzAM), [Vanesa Lledo](https://open.spotify.com/artist/6db18gdaJ3buJIpjmAxaLP), [Diego el Gavi](https://open.spotify.com/artist/2FuC6pBl9eslfd4a8udMO9), [Mariano Martos](https://open.spotify.com/artist/4IJDMdZIPM7TrCRqG1mbxM), [Violeta Barrio](https://open.spotify.com/artist/312QqHYy6WuciQQCuWsguB), [Joao Balao](https://open.spotify.com/artist/2KZpjZrljn55KF40jzoqMr), [Carlos Mil\-Homens](https://open.spotify.com/artist/2H2PjehaUM4tOJY7BwTv0T) | [Luz De Otra Manera](https://open.spotify.com/album/6TVAcRyDCNLiE8Twv9JHq3) | 3:31 |
 | 14 | [Girasol](https://open.spotify.com/track/0Movfm8qJpJcmQrt3ZrQKH) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Rafa El Tachuela: Gypsy Rumba Flamenco](https://open.spotify.com/album/3MOuR4Uu3xqbvWbktOGODk) | 4:07 |
 | 15 | [Solea por Buleria](https://open.spotify.com/track/2dF6NArfoU0loSNs3VtRpa) | [Jaleo](https://open.spotify.com/artist/5Q48J2yjDOKzNIdmY0oExU) | [Jaleo: Flamenco Live](https://open.spotify.com/album/1UwLILJa8ApmLI5EAhy28w) | 9:29 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 50 | [Bumblebeat](https://open.spotify.com/track/0aiqrNJkcz1xDGUD8HLrRz) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Mosaico](https://open.spotify.com/album/6PAB5rJADQ7HFjp0fzKjba) | 4:34 |
 | 51 | [En la Mancha](https://open.spotify.com/track/6qixM3ocxbC7JzrDg2YwrD) | [Mari Nieto](https://open.spotify.com/artist/1kpBaXhyD5w2NMYoklvChj), [Juan Antonio Torres](https://open.spotify.com/artist/1JXR84Lo1dOJcc8re1H5lw), [Viguela](https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF) | [Temperamento: Traditional Music from Spain](https://open.spotify.com/album/7hlw3I2DL1JV4uw99h5BtC) | 5:50 |
 
-Snapshot ID: `MTY2MTg2NjczNiwwMDAwMDAwMGRjMzRkMTViYjlkOWVkMGIwOGM5MjM4YmVlNDU2Y2Jm`
+Snapshot ID: `MTY2MTg2NjczNiwwMDAwMDAwMDg2NmY0ODU0MjI5ZGYxZWJiMjkxMjBiNjZhYjk2M2I2`

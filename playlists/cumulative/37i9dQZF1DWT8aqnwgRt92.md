@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-556 songs - 1 day 11 hr 30 min
+557 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-08-30 | 2022-10-19 |
 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 | 2022-11-08 | 2023-01-13 |
 | [PSYCHO:LOGY](https://open.spotify.com/track/62BaD9fEhYmzRQxM3peM0O) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [PSYCHO:LOGY](https://open.spotify.com/album/7396ox4eZXw2eCJNpYIs7B) | 3:54 | 2022-10-11 | 2022-11-25 |
-| [Real Dawn](https://open.spotify.com/track/59R8fdA1xxNgnSLdSm9bES) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Real Dawn](https://open.spotify.com/album/3OPoxNYBVO2idFWeyzO8bv) | 3:46 | 2023-01-03 |  |
+| [Real Dawn](https://open.spotify.com/track/59R8fdA1xxNgnSLdSm9bES) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Real Dawn](https://open.spotify.com/album/3OPoxNYBVO2idFWeyzO8bv) | 3:46 | 2023-01-03 | 2023-03-25 |
 | [rebind](https://open.spotify.com/track/29TrJvPHW8SuL9Y7wg72Ui) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [rebind](https://open.spotify.com/album/0xaMjXAT0lpUKlZ3zV691n) | 4:42 | 2023-01-10 |  |
 | [RECONNECTION](https://open.spotify.com/track/048iLBE6b6aajmg74OdgJe) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/4SEmy9zV5o9BirnDSXYP4s) | 3:42 | 2023-01-10 |  |
 | [RECONNECTION](https://open.spotify.com/track/443HQtfWncB04hs3wuKD01) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/7I1WR1fKmdIFkykMVDGTpA) | 3:42 | 2023-01-10 | 2023-01-12 |
@@ -435,6 +435,7 @@
 | [ヨトギバナシ](https://open.spotify.com/track/5QpeqvtbIzy8wCWQLzBEf1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [ヨトギバナシ](https://open.spotify.com/album/7uoZJ3vla3xRXzn9quVO88) | 3:27 | 2023-01-10 |  |
 | [ラストシーン](https://open.spotify.com/track/76rwHMqKcw9v9IWBwQWItn) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ラストシーン](https://open.spotify.com/album/1vPjwkJ6P8GWadlPrlvYY3) | 3:11 | 2023-02-14 |  |
 | [ラナ](https://open.spotify.com/track/1iXN8j1ThITNhNOr2Tez8A) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [ラナ](https://open.spotify.com/album/3m5ZzghhvDyygAcIaJMrV3) | 3:21 | 2022-05-28 | 2022-07-06 |
+| [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/track/5Y6QHaJ2RljnPsIhoIcJVX) | [ラム\(CV:上坂すみれ\)](https://open.spotify.com/artist/5vlOkm94N3w3XhsqX4WITI) | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/album/4caUIm3cOfOZrDyFwylEcs) | 1:35 | 2023-03-23 |  |
 | [リナリア](https://open.spotify.com/track/1EcWKRFhvsDMkBSDjoOUav) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [リナリア](https://open.spotify.com/album/0PSl0xYeFCBe24VyQiOMEQ) | 4:08 | 2023-01-05 | 2023-03-22 |
 | [リライト \- from CrosSing](https://open.spotify.com/track/4K02Qepi2R08uz15q50vos) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [リライト \- from CrosSing](https://open.spotify.com/album/011upJam3OIlt6QT8qDRuS) | 3:48 | 2022-11-22 | 2022-11-24 |
 | [ルパン三世主題歌Ⅱ](https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ) | [山下穀雄](https://open.spotify.com/artist/2R2YOJvwaLrE32lLSkSqJI), [Otomo Yoshihide](https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [ルパン三世主題歌Ⅱ](https://open.spotify.com/album/2VrwFGVZVQ6K9qslrC8HLi) | 6:12 | 2023-01-31 | 2023-03-01 |

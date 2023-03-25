@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/0Ox2mL98gTE60wISy50RvS"
+      },
+      "artists": [
+        {
+          "name": "Craig Stickland",
+          "url": "https://open.spotify.com/artist/6wBV2mHGWBe2Mz4jZJi21K"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209529,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/0t42LUez8kMVvVc9Y1Qug3"
+    },
+    {
+      "album": {
         "name": "Coming Down the Mountain",
         "url": "https://open.spotify.com/album/0bDioLSH5nZjXpJLE9ZaUU"
       },
@@ -4508,6 +4526,24 @@
       "duration_ms": 233333,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
+    },
+    {
+      "album": {
+        "name": "We Used to Live Here",
+        "url": "https://open.spotify.com/album/0bxl4npQ89JSAmWyBg20ps"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "We Used to Live Here",
+      "url": "https://open.spotify.com/track/2YCR9u0VSDsAx9D6ItUMbu"
     },
     {
       "album": {

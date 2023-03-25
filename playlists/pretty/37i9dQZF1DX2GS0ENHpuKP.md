@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,930 likes - 55 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,092 likes - 55 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 31 | [Inner Vision](https://open.spotify.com/track/2VXMByMiRWsSfY53Qn9jj8) | [Chuks Ejelonu](https://open.spotify.com/artist/0wd8r1krS136gn1qP2kt6z) | [Inner Vision \(official re\-issue\)](https://open.spotify.com/album/2Th3bkhlh5ccJh0xfDkLsO) | 5:34 |
 | 32 | [The Time Is Come](https://open.spotify.com/track/67Ap9BKsZXan4gYWzCb3Pn) | [Effi Duke](https://open.spotify.com/artist/6TKG61vYDn0PmgoXUYkrOx), [The Love Family](https://open.spotify.com/artist/2PMQqmwNVSap6TxKMZRuMh) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:43 |
 | 33 | [C'è Più Samba \- 2001 Remaster](https://open.spotify.com/track/6l3rdwqA67H4aEvlW4Nxc2) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Mina Alla Bussola Dal Vivo](https://open.spotify.com/album/62GEeqP3R7TaeP1knNwauP) | 3:32 |
-| 34 | [Satan in Love](https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp) | 3:37 |
+| 34 | [Satan in Love](https://open.spotify.com/track/19BrvODRFitoD156Syg7nW) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/2n9PPXncxZeGFBGgWD6JT5) | 3:37 |
 | 35 | [Luna Lù](https://open.spotify.com/track/0vOSUXD0HooDmX1lZdc4xL) | [Antonio Sorrentino](https://open.spotify.com/artist/3bcYSJSQYuSKp5LoYD4VkM) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 4:33 |
 | 36 | [Femmes Pays Douces](https://open.spotify.com/track/7kOyqLYMy9H8nHWrlzYSbI) | [Raphaël Toiné](https://open.spotify.com/artist/2ddBIV2qOCQfX4lVnNZSJh) | [Ce Ta Ou / Sud Africa Révolution](https://open.spotify.com/album/2LVxgI3pFsT9qh0Di2xbx4) | 5:41 |
 | 37 | [Rebels](https://open.spotify.com/track/7KePwNA8puA4BX8unrPygx) | [Wild Fire](https://open.spotify.com/artist/3gzfJi6zhuDoEiDbzuEXEv) | [Dance Hits](https://open.spotify.com/album/4i37zBzxDyFam3nhhFeoPj) | 3:56 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il Vecchiaccio](https://open.spotify.com/track/7ozKNLwCWp6dIHR1li1Cbr) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le Mie Canzoni](https://open.spotify.com/album/3GmdCYyuxQpTmIq4kBlfrJ) | 3:45 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MTY1ODIxOTQ1OSwwMDAwMDAwMDcyYTNjZmFhMzcyYzk2YTkzMzZkMTU5ZDhlZjdmMTEy`
+Snapshot ID: `MTY1ODIxOTQ1OSwwMDAwMDAwMGQ4M2Y4MWRlZDRhNDI3MzQyODJmMWUwNjFlOTA2NjJi`

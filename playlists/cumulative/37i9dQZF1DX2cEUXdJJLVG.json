@@ -1473,6 +1473,32 @@
     },
     {
       "album": {
+        "name": "GEEK OUT!",
+        "url": "https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        },
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        },
+        {
+          "name": "The Breathing Effect",
+          "url": "https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "GEEK OUT!",
+      "url": "https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab"
+    },
+    {
+      "album": {
         "name": "Get It Right",
         "url": "https://open.spotify.com/album/0ZHtV08dK9qMw9g3cSCpz8"
       },
@@ -4466,6 +4492,24 @@
       "duration_ms": 177479,
       "name": "This Ain't Loving Without You",
       "url": "https://open.spotify.com/track/4TiPkI5PIqp0NkmlTuK48f"
+    },
+    {
+      "album": {
+        "name": "Tighten It Up",
+        "url": "https://open.spotify.com/album/1kehGGSk2pMh7UNkDe4Njt"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174896,
+      "name": "Tighten It Up",
+      "url": "https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u"
     },
     {
       "album": {

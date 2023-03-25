@@ -1,12 +1,12 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Covet",
-  "num_followers": 116464,
+  "num_followers": 116632,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGVmMTVmNWZlNDBkZjQyMTliOGY4MWRlY2Y3YWNjYWQw",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDc5NWRhNTNmMDhkNWE2OWE2MzI1N2ZiYjQ2MjU3YWM5",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -115,6 +115,34 @@
       "duration_ms": 251490,
       "name": "Projekt 13",
       "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Guitar Heroes Otb, Vol. 4",
+        "url": "https://open.spotify.com/album/6eJnjV0s4OOTsfPYOQzzte"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Doug Bossi",
+          "url": "https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4"
+        }
+      ],
+      "duration_ms": 397411,
+      "name": "Dirty Grease - Extended Version",
+      "url": "https://open.spotify.com/track/0tzv5R7yFjUHlLK1VcC4pA"
     },
     {
       "added_at": "2022-11-11 05:01:00",

@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-163 songs - 8 hr 37 min
+166 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2021-11-11 | 2023-03-10 |
 | [Billson](https://open.spotify.com/track/1QILyPPSrMfb10YjyFPH0r) | [Da Drüben](https://open.spotify.com/artist/1InvYRt2oX1GQPzlXaYXvT) | [Billson](https://open.spotify.com/album/5haOOaRphtK0iDs7eGHt13) | 2:45 | 2023-03-03 |  |
 | [Biscuit](https://open.spotify.com/track/5cPmiWqjOg48GPxBdKjzGo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Cool Sneakers](https://open.spotify.com/album/6CLLHgPGTWJ0HfNy9Ob8gD) | 2:59 | 2021-11-11 | 2022-09-02 |
+| [Biting](https://open.spotify.com/track/3VR8hpmEvOMxW3nM4TNoBM) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Biting](https://open.spotify.com/album/3wo2lUtYASfyHEQbYxEosQ) | 2:46 | 2023-03-24 |  |
 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 | 2021-11-11 |  |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2021-11-11 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2021-11-11 | 2023-03-10 |
@@ -87,6 +88,7 @@
 | [Keep Your Cool](https://open.spotify.com/track/2XRPJw4krhDLWjen7Z9wr0) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Keep Your Cool](https://open.spotify.com/album/0UuYZvNcoHQ6oBOkQKTpxW) | 3:19 | 2022-09-09 | 2023-03-10 |
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2021-11-11 |  |
 | [Late Night Drive](https://open.spotify.com/track/3NlSubv9Tt65poMGalbqiZ) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Late Night Drive](https://open.spotify.com/album/6ikx7SA8o6QkKFDNm49EVx) | 2:46 | 2021-11-11 |  |
+| [Lazy](https://open.spotify.com/track/5AiI3I1ayQFAhFvOG6N6Qh) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Lazy](https://open.spotify.com/album/1WBLkmlmYyxPMqnQii3s05) | 3:01 | 2023-03-24 |  |
 | [Lemuria](https://open.spotify.com/track/06Wpiu9VDi4WevoM8UgKOJ) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Lemuria](https://open.spotify.com/album/5fXjUp8yxkCVN8BR4Z86t0) | 2:49 | 2022-07-08 |  |
 | [Let You Go](https://open.spotify.com/track/6bt44gR5bahuDhY6WJaVJu) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Let You Go](https://open.spotify.com/album/6iUanbEtluQQ5dj38wpf6f) | 2:36 | 2021-11-11 | 2022-05-11 |
 | [Lickshot](https://open.spotify.com/track/775MgiY1RE3RVTegxgHwEQ) | [Saxon Monte](https://open.spotify.com/artist/416RME57I6fWDVrfbO7H8Z) | [Lickshot](https://open.spotify.com/album/2nUwhidPZlxBourcTFX283) | 3:24 | 2021-11-11 |  |
@@ -128,6 +130,7 @@
 | [Rhodes Night](https://open.spotify.com/track/42UrWODXMY270D6mVLdGnT) | [Dimitri G](https://open.spotify.com/artist/0c5iXSRogLrwZrZeU4gF6k) | [Rhodes Night](https://open.spotify.com/album/4sMeFxBYKqgEKIfePb9Y0q) | 3:46 | 2021-11-11 |  |
 | [Rich In Mind](https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Rich In Mind](https://open.spotify.com/album/1gWYZW7bfXIEL1OY9cdTkH) | 2:55 | 2021-11-11 | 2022-05-11 |
 | [Rooftop](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Rooftop](https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o) | 3:10 | 2021-11-11 |  |
+| [Saharan Nights](https://open.spotify.com/track/2xzGTbiRdVuRGnLISbZuQ4) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [My Everything](https://open.spotify.com/album/6LibNk6jpDCze0Zb7Y8QLi) | 2:44 | 2023-03-24 |  |
 | [Scuba](https://open.spotify.com/track/2p9EvU7lq9Aa0kPH9ZpMaR) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Scuba](https://open.spotify.com/album/1iqfJB94wDQkICP9m840RG) | 2:19 | 2022-11-25 |  |
 | [See Me](https://open.spotify.com/track/6jHI5mf1ahYvoSwx0tdbNB) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [See Me](https://open.spotify.com/album/4LOia9loCga2tcDc8HQU5J) | 3:48 | 2022-07-22 |  |
 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 | 2021-11-11 |  |

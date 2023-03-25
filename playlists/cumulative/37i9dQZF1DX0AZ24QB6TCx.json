@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Blissda",
+        "url": "https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343332,
+      "name": "Blissda",
+      "url": "https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/0TSx6t9ZxdVmH4r0kXHLbq"
       },
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 365069,
       "name": "Eyes Alive",
       "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
@@ -1547,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "Summer Someday",
+        "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
+      },
+      "artists": [
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229253,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "album": {
         "name": "Frisbee",
         "url": "https://open.spotify.com/album/5dT5JJf74yWciX8bI1PcLM"
       },
@@ -1664,6 +1700,32 @@
       "duration_ms": 332869,
       "name": "Graf Zahl",
       "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
+    },
+    {
+      "album": {
+        "name": "Gypsy Woman (She's Homeless) [Atmos Blaq & Chymamusique Remixes]",
+        "url": "https://open.spotify.com/album/1iML6kYmw5LThCd4ONdgtZ"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385203,
+      "name": "Gypsy Woman (She's Homeless) - Atmos Blaq Remix",
+      "url": "https://open.spotify.com/track/0OIkGLJOrJtrQ9pm805I5m"
     },
     {
       "album": {
@@ -2294,7 +2356,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213437,
       "name": "Just To Hear You Say",
       "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
@@ -4102,7 +4164,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 293701,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"

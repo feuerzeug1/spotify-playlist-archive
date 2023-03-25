@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Vincent Vissers & Jairzinho op de cover van d\u00e9 Nederpop playlist",
+  "description": "Acda en de Munnik op de cover van d\u00e9 Nederpop playlist",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 224731,
       "name": "Adembenemend",
       "url": "https://open.spotify.com/track/6fURvs3Mxsf0VqJdovbXfM"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 227000,
       "name": "Alles Beweegt",
       "url": "https://open.spotify.com/track/65z7C8iBVk8V2v4e0lP0AH"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 125056,
       "name": "Anorak",
       "url": "https://open.spotify.com/track/125nmYAaZVIwLXVyLf6PDc"
@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "De Nacht",
+        "url": "https://open.spotify.com/album/3dv4RT0OXHymMM3CdTgbTn"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150151,
+      "name": "De Nacht",
+      "url": "https://open.spotify.com/track/7KZpi0GsInoUQAtQu2952J"
+    },
+    {
+      "album": {
         "name": "De Pijp",
         "url": "https://open.spotify.com/album/4dDuG6FwR0vyX2ggIFZH0V"
       },
@@ -765,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Gevaarlijk",
+        "url": "https://open.spotify.com/album/5FZ2kafK488rGGza5KmfSM"
+      },
+      "artists": [
+        {
+          "name": "Stenfert",
+          "url": "https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122536,
+      "name": "Gevaarlijk",
+      "url": "https://open.spotify.com/track/1qk6ohO5zbnwtB4VmmJjlO"
+    },
+    {
+      "album": {
         "name": "gewoon een dag",
         "url": "https://open.spotify.com/album/5ayU1kzoAaMOC6BU5ObAGJ"
       },
@@ -830,7 +866,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 165773,
       "name": "Heimwee",
       "url": "https://open.spotify.com/track/3jTDCptomGx0Y7NF7T874P"
@@ -1319,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Meisje",
+        "url": "https://open.spotify.com/album/14mgKqbRjCSH7cv13SlnSw"
+      },
+      "artists": [
+        {
+          "name": "Huize Lucas",
+          "url": "https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199639,
+      "name": "Meisje",
+      "url": "https://open.spotify.com/track/7xcuQ0m5rSUgrjh2YVTUz4"
+    },
+    {
+      "album": {
         "name": "Mens",
         "url": "https://open.spotify.com/album/1I05faSGCNjViztAEPPgac"
       },
@@ -1364,7 +1418,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 146978,
       "name": "Met Een Reden",
       "url": "https://open.spotify.com/track/0XbGwHymFSaSSR1YTfMazd"
@@ -1528,7 +1582,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 171988,
       "name": "Mooi Geweest",
       "url": "https://open.spotify.com/track/5o2faEX74VH3rc1gKB6nx1"
@@ -1550,6 +1604,24 @@
       "duration_ms": 218499,
       "name": "Mooier Als Je Lacht",
       "url": "https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E"
+    },
+    {
+      "album": {
+        "name": "Morgen Wordt Fantastisch",
+        "url": "https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158604,
+      "name": "Morgen Wordt Fantastisch",
+      "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
     },
     {
       "album": {
@@ -1695,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Onder Invloed",
+        "url": "https://open.spotify.com/album/3qtu1t30eeSgoA0cgBTteg"
+      },
+      "artists": [
+        {
+          "name": "MAKSIM",
+          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177927,
+      "name": "Onder Invloed",
+      "url": "https://open.spotify.com/track/4hqxHQKbpDxh6lRmw6w2xR"
+    },
+    {
+      "album": {
         "name": "Onderweg",
         "url": "https://open.spotify.com/album/44KUJqwC7TJcUcQNqhMRAX"
       },
@@ -1746,7 +1836,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 136147,
       "name": "Op Een Dag",
       "url": "https://open.spotify.com/track/4JcYIvTfE9UhHJS94vFuoQ"
@@ -2376,7 +2466,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 199433,
       "name": "Wat Wil Je Van Mij",
       "url": "https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM"
@@ -2420,6 +2510,24 @@
       "duration_ms": 176842,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/4pGud1eTrk6mWSOUw33u9o"
+    },
+    {
+      "album": {
+        "name": "Ze Redt Zich Wel",
+        "url": "https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy"
+      },
+      "artists": [
+        {
+          "name": "Maya Shanti",
+          "url": "https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Ze Redt Zich Wel",
+      "url": "https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi"
     },
     {
       "album": {

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5QWoRFLjMx1SwW4fJaGoCT"
+      },
+      "artists": [
+        {
+          "name": "Kelley McRae",
+          "url": "https://open.spotify.com/artist/5jisWKblA5tIYYDLfTOKle"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240707,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/0OVAeW31O5lvcjtfTLIGrK"
+    },
+    {
+      "album": {
         "name": "Astronaut",
         "url": "https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O"
       },
@@ -1020,6 +1038,24 @@
       "duration_ms": 181400,
       "name": "The Bottom of It",
       "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
+    },
+    {
+      "album": {
+        "name": "The Natural",
+        "url": "https://open.spotify.com/album/3Or3QqOXWcbOSwj4RiYzMy"
+      },
+      "artists": [
+        {
+          "name": "Purr",
+          "url": "https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230680,
+      "name": "The Natural",
+      "url": "https://open.spotify.com/track/2Jq7MZGZaoZXOLfm2rGr1i"
     },
     {
       "album": {

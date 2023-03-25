@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Pupil Slicer
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Creeping Death
 
-359 songs - 23 hr 1 min
+365 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Death Cantation](https://open.spotify.com/track/3pAHBYxCvJ5GjkeTahTYgc) | [Yatra](https://open.spotify.com/artist/5siBVlARqSszzBborgWF7j) | [Death Cantation](https://open.spotify.com/album/7r1GY0QUqDh3Glxg59iqRD) | 3:56 | 2022-04-29 |  |
 | [Death Is A Relief](https://open.spotify.com/track/3rKVRJE0yFl7Un8fMt4l28) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Is A Relief](https://open.spotify.com/album/6zWFEJ9oUQZRyqqLdEnvNt) | 5:53 | 2022-03-18 |  |
 | [Death Ov Circumstance](https://open.spotify.com/track/4aMw1McEiSKcwVzW2qwt2c) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Death Ov Circumstance](https://open.spotify.com/album/6lXJ45JATRhRieaySjLApg) | 4:33 | 2022-12-02 |  |
+| [Death Won't Stop Me](https://open.spotify.com/track/6KfuErlMswYM7E1vfgfPfu) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Death Won't Stop Me](https://open.spotify.com/album/4zpaNtcVAhRuRmOOs4G774) | 4:26 | 2023-03-24 |  |
 | [DEATHWESTERN](https://open.spotify.com/track/70Uqyz7UjUfmCFQSQN9p6w) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/5yH2KEa6tVTfI9zTgwtVF1) | 3:26 | 2022-09-23 |  |
 | [Decider](https://open.spotify.com/track/1RDsaI3HmmqcCpAu6xjna3) | [City of Caterpillar](https://open.spotify.com/artist/6zRqJkcK9YW5muISa2kwZR) | [Decider](https://open.spotify.com/album/78opHBtvQxLJqlZ14uEHjW) | 4:29 | 2022-08-05 |  |
 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 | 2022-09-02 |  |
@@ -108,6 +109,7 @@
 | [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:41 | 2023-03-03 |  |
 | [Evil Finds Light](https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Evil Finds Light](https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu) | 2:07 | 2023-02-10 |  |
 | [Evolving](https://open.spotify.com/track/71GOYiaA8DUE8gflwvKxMT) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K), [Shaolin G](https://open.spotify.com/artist/646EtCZzz835whXJClaWtJ) | [Oni](https://open.spotify.com/album/4aYSMBE7Y3UDLCoxmVw0qH) | 2:56 | 2022-09-30 |  |
+| [Ex\-Sistere](https://open.spotify.com/track/79r7csfSLnySxGmMVE0miJ) | [Calligram](https://open.spotify.com/artist/5WtqFR0WBjrFtmr2HjUFA1) | [Ex\-Sistere](https://open.spotify.com/album/2OIZzK8ZhPYPq6Y1C5qnij) | 5:09 | 2023-03-24 |  |
 | [Exile](https://open.spotify.com/track/1oRdiP3GvlgYWfUa7n2M9h) | [No/Más](https://open.spotify.com/artist/2MdtQasDIeUoPKbes49HCK) | [Exile](https://open.spotify.com/album/0U9JvGl6Z0A9wSVXCv4ETj) | 1:22 | 2022-03-25 |  |
 | [Exodus](https://open.spotify.com/track/23ZCrmvUGs6jS5qu6aXn5I) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Exodus](https://open.spotify.com/album/3hVNt9cc7pMdICNEevVS8c) | 4:18 | 2022-11-11 |  |
 | [Extortion](https://open.spotify.com/track/2yIKuIZOyio39fRLexWyt1) | [Killing Pace](https://open.spotify.com/artist/35oHGxQhAMaExrcS9CPYOK) | [Killing Pace](https://open.spotify.com/album/6kh7J4Qvjgsm7yyasxQORY) | 2:02 | 2022-05-20 |  |
@@ -118,6 +120,7 @@
 | [Fear in Non Fiction](https://open.spotify.com/track/48qldcY9MIstCu7JxcAGGj) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX) | [Fear in Non Fiction](https://open.spotify.com/album/1wzFbbjthC4RwynzagKDJ1) | 3:24 | 2022-01-28 |  |
 | [Feel It Linger](https://open.spotify.com/track/61mPF8FLWs0b88T4HXlAgs) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Learning To Dissolve](https://open.spotify.com/album/6fvt916VE3qmh2NPCyfOfl) | 4:39 | 2022-08-19 |  |
 | [Fight Back](https://open.spotify.com/track/1KllUhrZirzSBJGZuc56Kp) | [Restraining Order](https://open.spotify.com/artist/4HXv1CWVOyIO8ZNvGOSyEy) | [Fight Back](https://open.spotify.com/album/5km5tzjw0EVU8RwqQMoICb) | 1:50 | 2022-09-30 |  |
+| [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-24 |  |
 | [Find My Way](https://open.spotify.com/track/5auwnL8w3b5x1XpkY7UbkT) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa) | [Find My Way](https://open.spotify.com/album/4L919YegQC47OlyGKBXpOr) | 3:42 | 2022-04-29 |  |
 | [fleahouse](https://open.spotify.com/track/5stza5CaQ0wUfeyghiG0Hu) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [fleahouse](https://open.spotify.com/album/0Ehs8YM7jw7rvNzpv8fwpE) | 3:02 | 2022-04-22 |  |
 | [Floating in Nothing](https://open.spotify.com/track/5nV2lzNlkFcd5MpIKWsfNG) | [Black Magnet](https://open.spotify.com/artist/7tCnRPnYBtpg4VmR5D01lf) | [Floating in Nothing](https://open.spotify.com/album/2Y49wvtSHuHfNtgDzU6e3w) | 3:59 | 2022-06-17 |  |
@@ -159,6 +162,7 @@
 | [Human Condition Above Human Opinion](https://open.spotify.com/track/1cmk1UlPbRIyrIThQudaLa) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Human Condition Above Human Opinion](https://open.spotify.com/album/7s4krYYgyLUIl6m4lxWI3t) | 2:39 | 2022-05-06 |  |
 | [I Don't Wanna Talk About It](https://open.spotify.com/track/7MmcCmu1q6a7PDgH1vJT3I) | [Candy Apple](https://open.spotify.com/artist/3EYZaeK8iJPw5PWdNyeFgy) | [I Don't Wanna Talk About It](https://open.spotify.com/album/0o0iQWO3Kb7w4FWcs46Odm) | 2:33 | 2022-09-09 |  |
 | [I Saw You Dancing](https://open.spotify.com/track/6S6KWV6SltScbAcOJU1arC) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [I Saw You Dancing](https://open.spotify.com/album/0PvgVoh30xJa3yicoZcwxx) | 3:51 | 2022-08-19 |  |
+| [I Would Die for You](https://open.spotify.com/track/6ACZ1lOkgxm1PUyMvU0cwm) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [John Wick: Chapter 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0TZNgMbhqhmcD6GUW8aGbM) | 4:39 | 2023-03-24 |  |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 |  |
 | [III](https://open.spotify.com/track/3ZdDBUhVms1TsoaB1FltXk) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [III](https://open.spotify.com/album/57SswxWv0xIHwwJNlQuF55) | 4:08 | 2022-05-06 |  |
 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 | 2022-01-28 |  |
@@ -168,6 +172,7 @@
 | [In the Way](https://open.spotify.com/track/4EixKLBcPtkqDGk2Z3zUAv) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [In the Way](https://open.spotify.com/album/0OQPHI8H2ET6FkX69ioanM) | 3:22 | 2022-04-08 |  |
 | [Inflict My Will](https://open.spotify.com/track/2GnJe9IOeYO5D2hNmn46Il) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU) | [Summer Offensive](https://open.spotify.com/album/2ZRuXZuYuxpwgdKKysPcQY) | 2:36 | 2022-06-24 |  |
 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 | 2022-03-18 |  |
+| [Intestinal Wrap](https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Intestinal Wrap](https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8) | 3:24 | 2023-03-24 |  |
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 |  |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 |  |
 | [Jesus is God](https://open.spotify.com/track/2CnfignhSXZI0gLCxASRlv) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [Jesus is God](https://open.spotify.com/album/3oaYa6fAwAcCOKtk2f8Sj9) | 2:03 | 2022-12-16 |  |
@@ -202,6 +207,7 @@
 | [names](https://open.spotify.com/track/4keVU1iG5gKDkp3gFnIMsM) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2), [Record Setter](https://open.spotify.com/artist/5dAHI3WBHJFGRaAyDm5VHT) | [names](https://open.spotify.com/album/4UDjMHGSpHxfRm6ABUsiCF) | 1:16 | 2022-04-01 |  |
 | [Napalm](https://open.spotify.com/track/5DCFs0BboOFVMCYWMpQfeH) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Napalm](https://open.spotify.com/album/7sJcgW8x73vH5vwhqEdsLz) | 2:30 | 2022-01-28 |  |
 | [Nauseating Despair](https://open.spotify.com/track/75l59IlC5Vnv950vbdB0X2) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Nauseating Despair](https://open.spotify.com/album/3ytulfN7eaFD9aIQikuM27) | 4:39 | 2022-07-08 |  |
+| [Never Die](https://open.spotify.com/track/4aLOfskYjNxBplJiQQwHA8) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Memories \- Never Die](https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn) | 2:13 | 2023-03-24 |  |
 | [Nevermore](https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75) | 4:35 | 2022-06-10 |  |
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-01 |  |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2022-09-16 |  |

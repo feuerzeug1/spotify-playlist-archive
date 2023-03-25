@@ -1130,10 +1130,32 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 162665,
       "name": "Giddy Up!",
       "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
+    },
+    {
+      "album": {
+        "name": "Giddy Up! (Malibu Babie Remix)",
+        "url": "https://open.spotify.com/album/6mIpPFIWUHCU1dG0dMprBo"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164658,
+      "name": "Giddy Up! - Malibu Babie Remix",
+      "url": "https://open.spotify.com/track/4A2CY9ZLMQe4PDUbQ48lVM"
     },
     {
       "album": {

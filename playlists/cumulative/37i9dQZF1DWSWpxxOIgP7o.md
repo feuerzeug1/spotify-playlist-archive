@@ -4,7 +4,7 @@
 
 > The official playlist for MO\. Watch now on Netflix!
 
-50 songs - 2 hr 35 min
+53 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,11 @@
 | [The Game Goes On](https://open.spotify.com/track/4oxuZmT8MZBDgmSKABVTfZ) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [K\-Rino](https://open.spotify.com/artist/4PNCV9uLP7AX5G0tWjbn5f), [Z\-Ro](https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq) | [The Legend](https://open.spotify.com/album/1Rj1Km93UOyuTPbQH1H1Lw) | 5:00 | 2022-08-30 |  |
 | [What It Do](https://open.spotify.com/track/6OehApq6QDWGEiLJK3C2ji) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi) | 1:53 | 2022-09-09 | 2022-11-17 |
 | [What It Do](https://open.spotify.com/track/6gvatEc0FeHHg7lyFQNkQk) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 1:53 | 2022-09-09 |  |
-| [Work All Day](https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Work All Day](https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP) | 4:17 | 2022-08-30 |  |
-| [زفة العرسان](https://open.spotify.com/track/48VEHup4JLbx5BkuC0W9HD) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp), [Wissam Habib](https://open.spotify.com/artist/125cWTvLaDz90ZdWaPmJbb) | [زفة العرسان](https://open.spotify.com/album/6QPfNudiDwHu9Rz3wm73XQ) | 2:56 | 2022-08-30 |  |
-| [لو شربوا البحر](https://open.spotify.com/track/4XGofstKHT8H7tmt68DnKw) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [لو شربوا البحر](https://open.spotify.com/album/24PtKjUywK5sFRY0w6TEGC) | 3:59 | 2022-08-30 |  |
+| [Work All Day](https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Wildhorse](https://open.spotify.com/album/2NQbvpUKnlLflLe2OJx0ii) | 4:17 | 2022-09-09 |  |
+| [Work All Day](https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Work All Day](https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP) | 4:17 | 2022-08-30 | 2023-03-25 |
+| [زفة العرسان](https://open.spotify.com/track/48VEHup4JLbx5BkuC0W9HD) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp), [Wissam Habib](https://open.spotify.com/artist/125cWTvLaDz90ZdWaPmJbb) | [زفة العرسان](https://open.spotify.com/album/6QPfNudiDwHu9Rz3wm73XQ) | 2:56 | 2022-08-30 | 2023-03-25 |
+| [زفة العرسان](https://open.spotify.com/track/68e3yP8jRE4OVSJt5BWNs5) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp), [Wissam Habib](https://open.spotify.com/artist/125cWTvLaDz90ZdWaPmJbb) | [زفة العرسان](https://open.spotify.com/album/6Eb5pZS6cVDkLqAJ2wtMDL) | 2:56 | 2022-09-09 |  |
+| [لو شربوا البحر](https://open.spotify.com/track/2XeFCR6w0xCu2jLicUEjdk) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [لو شربوا البحر](https://open.spotify.com/album/31VUxWowQcKDfLJ7NmnivK) | 3:59 | 2022-09-09 |  |
+| [لو شربوا البحر](https://open.spotify.com/track/4XGofstKHT8H7tmt68DnKw) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [لو شربوا البحر](https://open.spotify.com/album/24PtKjUywK5sFRY0w6TEGC) | 3:59 | 2022-08-30 | 2023-03-25 |
 
 \*This playlist was first scraped on 2022-08-31. Prior content cannot be recovered.

@@ -1,13 +1,77 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: dee holt",
-  "num_followers": 80499,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: nicole han",
+  "num_followers": 80570,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDExZjI0NmI5MjMxNmJjOWVkNDY5ZTQ0MjM5M2I1YTY1",
+  "snapshot_id": "MTY3OTYzMTI3NSwwMDAwMDAwMGNjZTU2ZmFjYTg4ZmVhZWJjNmI2NzExM2ZlZWNjMjJj",
   "tracks": [
+    {
+      "added_at": "2023-03-24 04:14:35",
+      "album": {
+        "name": "so it goes...",
+        "url": "https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "running shoes",
+      "url": "https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "realizations of a tightrope walker",
+        "url": "https://open.spotify.com/album/2yZCCFDuxI01TFm5UEdpoW"
+      },
+      "artists": [
+        {
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "robot boy",
+      "url": "https://open.spotify.com/track/0BQhoWkXkvx71p9w7EsF3c"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "If I Weren't Me",
+        "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "saw you in the paper",
+        "url": "https://open.spotify.com/album/5KS9M0MvpYIY0pqltF2uVs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Leggs",
+          "url": "https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5"
+        }
+      ],
+      "duration_ms": 140853,
+      "name": "saw you in the paper",
+      "url": "https://open.spotify.com/track/72YBXFD6wdyX1LyWdj9LfQ"
+    },
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
@@ -87,38 +151,6 @@
       "duration_ms": 178077,
       "name": "Call U After Rehab",
       "url": "https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "runaway",
-        "url": "https://open.spotify.com/album/0BFInEkCDlkmq5R7pNaDLr"
-      },
-      "artists": [
-        {
-          "name": "Daniel Leggs",
-          "url": "https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5"
-        }
-      ],
-      "duration_ms": 195130,
-      "name": "parasite",
-      "url": "https://open.spotify.com/track/5uryeSMcKUDIFVakxsjg6o"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Episode 1 \u2013 Come and Get It (Amazon Original Series)",
-        "url": "https://open.spotify.com/album/2KBIXYhRFWQsefg327wVVn"
-      },
-      "artists": [
-        {
-          "name": "Daisy Jones",
-          "url": "https://open.spotify.com/artist/0Ez39SlEHcxFV6TQu8JDdO"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/5wsm1izwR2UEWtBhkxnUP9"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -235,22 +267,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "What If I Still Miss You?",
-        "url": "https://open.spotify.com/album/2UPFK2Xdq6ZyDUVLj3aEc5"
-      },
-      "artists": [
-        {
-          "name": "Lily Williams",
-          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "What If I Still Miss You?",
-      "url": "https://open.spotify.com/track/34h9Wr114K0EjlFsjITrMW"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Elephant In The Room",
         "url": "https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 195893,
       "name": "Lose a Friend",
       "url": "https://open.spotify.com/track/3Uo3QGPMTpiyAbMkj9dqgd"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "people grow apart, people let me down",
-        "url": "https://open.spotify.com/album/7wKFa6pRf1IHLZOVADIqua"
-      },
-      "artists": [
-        {
-          "name": "nicole han",
-          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
-        }
-      ],
-      "duration_ms": 189652,
-      "name": "people grow apart, people let me down",
-      "url": "https://open.spotify.com/track/3wYXq5vKK4fhG15V6rklbS"
     },
     {
       "added_at": "2023-03-10 05:00:00",

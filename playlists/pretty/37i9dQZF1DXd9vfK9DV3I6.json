@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 237021,
+  "num_followers": 237488,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk4ODc3OCwwMDAwMDAwMDkwY2IyNzM5MGMyY2E4MWE3ODNhYTZiODJkYjU1ZTJm",
+  "snapshot_id": "MTY3OTY4ODA0MCwwMDAwMDAwMGNlM2Q0NDJmYjk0NGUyM2MzZDgxZjAxYjNjYWUwMjhi",
   "tracks": [
     {
       "added_at": "2023-03-16 17:46:18",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
     },
     {
+      "added_at": "2023-03-25 01:10:04",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H"
+      },
+      "artists": [
+        {
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG"
+    },
+    {
       "added_at": "2023-03-16 17:46:18",
       "album": {
         "name": "Ocean",
@@ -399,26 +415,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "My Name Is Tokyo",
-        "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
-      },
-      "artists": [
-        {
-          "name": "Ilkan Gunuc",
-          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
-        },
-        {
-          "name": "Emrah Turken",
-          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
-        }
-      ],
-      "duration_ms": 172216,
-      "name": "My Name Is Tokyo",
-      "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Schhh",
         "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
       },
@@ -439,22 +435,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Dle Yaman (116 Deep Mix)",
-        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
-      },
-      "artists": [
-        {
-          "name": "Hraach",
-          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
-        }
-      ],
-      "duration_ms": 438674,
-      "name": "Dle Yaman (116 Deep Mix)",
-      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
       },
@@ -471,6 +451,42 @@
       "duration_ms": 225226,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "My Name Is Tokyo",
+        "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
+      },
+      "artists": [
+        {
+          "name": "Ilkan Gunuc",
+          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
+        },
+        {
+          "name": "Emrah Turken",
+          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
+        }
+      ],
+      "duration_ms": 172216,
+      "name": "My Name Is Tokyo",
+      "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Dle Yaman (116 Deep Mix)",
+        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
+      },
+      "artists": [
+        {
+          "name": "Hraach",
+          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
+        }
+      ],
+      "duration_ms": 438674,
+      "name": "Dle Yaman (116 Deep Mix)",
+      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Painter",
-        "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Ocean",
-          "url": "https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn"
-        }
-      ],
-      "duration_ms": 203428,
-      "name": "Painter",
-      "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Bangladesh",
         "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 147806,
       "name": "Bangladesh",
       "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Painter",
+        "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Ocean",
+          "url": "https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn"
+        }
+      ],
+      "duration_ms": 203428,
+      "name": "Painter",
+      "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -683,26 +699,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Ksser Essouk",
-        "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
-      },
-      "artists": [
-        {
-          "name": "Momo Ryuk",
-          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
-        },
-        {
-          "name": "Salah Hammadi",
-          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
-        }
-      ],
-      "duration_ms": 326557,
-      "name": "Ksser Essouk",
-      "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Ya Ghayeb",
         "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
       },
@@ -719,6 +715,26 @@
       "duration_ms": 217211,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Ksser Essouk",
+        "url": "https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh"
+      },
+      "artists": [
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Salah Hammadi",
+          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
+        }
+      ],
+      "duration_ms": 326557,
+      "name": "Ksser Essouk",
+      "url": "https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Buddha Bar XVII",
-        "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
-      },
-      "artists": [
-        {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
-        }
-      ],
-      "duration_ms": 323720,
-      "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
-      "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 176164,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Buddha Bar XVII",
+        "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
+      },
+      "artists": [
+        {
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
+        }
+      ],
+      "duration_ms": 323720,
+      "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
+      "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1435,6 +1451,26 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
+        "name": "Angelic",
+        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
+      },
+      "artists": [
+        {
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "Ikonnya",
+          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
+        }
+      ],
+      "duration_ms": 269378,
+      "name": "Angelic",
+      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1455,26 +1491,6 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
-        "name": "Angelic",
-        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "Ikonnya",
-          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
-        }
-      ],
-      "duration_ms": 269378,
-      "name": "Angelic",
-      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
-      },
-      "artists": [
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Roots LP",
         "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 224262,
       "name": "Mra ou Mermora",
       "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1623,26 +1639,6 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
         "name": "Mandala",
         "url": "https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi"
       },
@@ -1679,6 +1675,26 @@
       "duration_ms": 198200,
       "name": "Mawjou3 Galbi",
       "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1743,6 +1759,22 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2023-03-16 17:46:18",
+      "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
@@ -1759,22 +1791,6 @@
       "duration_ms": 297593,
       "name": "Moulayiten",
       "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1879,22 +1895,22 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Mazrub",
-        "url": "https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi"
+        "name": "Hella EP",
+        "url": "https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT"
       },
       "artists": [
         {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+          "name": "Zigan Aldi",
+          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
         },
         {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+          "name": "Joy Tyson",
+          "url": "https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es"
         }
       ],
-      "duration_ms": 186184,
-      "name": "Mazrub",
-      "url": "https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH"
+      "duration_ms": 318617,
+      "name": "Hella feat. Joy Tyson",
+      "url": "https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2"
     },
     {
       "added_at": "2023-03-16 17:46:18",
@@ -1927,38 +1943,22 @@
     {
       "added_at": "2023-03-16 17:46:18",
       "album": {
-        "name": "Hella EP",
-        "url": "https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT"
+        "name": "Mazrub",
+        "url": "https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi"
       },
       "artists": [
         {
-          "name": "Zigan Aldi",
-          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
         },
         {
-          "name": "Joy Tyson",
-          "url": "https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es"
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
         }
       ],
-      "duration_ms": 318617,
-      "name": "Hella feat. Joy Tyson",
-      "url": "https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2"
-    },
-    {
-      "added_at": "2023-03-16 17:46:18",
-      "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
+      "duration_ms": 186184,
+      "name": "Mazrub",
+      "url": "https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH"
     }
   ],
   "unique_name": "mosaic",

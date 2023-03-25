@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 160000,
       "name": "10.03.2023",
       "url": "https://open.spotify.com/track/2uwdCyYYio0yplI31cLqqm"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -8836,7 +8836,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 110266,
       "name": "FROSTIES",
       "url": "https://open.spotify.com/track/4bGWT7GWjqaO1Sj9ZbUtEG"
@@ -10074,7 +10074,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -11858,7 +11858,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 165573,
       "name": "L'ARMOIRE",
       "url": "https://open.spotify.com/track/5R9ZGpFYnzW3WmVGk2uh4J"
@@ -17111,6 +17111,24 @@
     },
     {
       "album": {
+        "name": "EQUATEUR",
+        "url": "https://open.spotify.com/album/5JTIaFxUwxcK3ZqQ0KcFWR"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184810,
+      "name": "Nous Deux",
+      "url": "https://open.spotify.com/track/6GwokJMonhQsnN653VhE1V"
+    },
+    {
+      "album": {
         "name": "Stratos",
         "url": "https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL"
       },
@@ -21706,7 +21724,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -23240,7 +23258,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 166760,
       "name": "Tout seul",
       "url": "https://open.spotify.com/track/5ckT7n48jEi0X31Tit1fDF"

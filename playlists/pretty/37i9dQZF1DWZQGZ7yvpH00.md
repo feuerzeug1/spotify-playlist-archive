@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H & Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,386 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,525 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Tu Me Pagaste Mal](https://open.spotify.com/track/4xTGbTmqAz3xjrDN6z1Crp) | [Eskuela de Las Calles](https://open.spotify.com/artist/6V11W3tkCfXgwSEZ3VQGfR) | [Tu Me Pagaste Mal](https://open.spotify.com/album/2on49T2K8TXNsxGdIkidgF) | 3:49 |
 | 50 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
 
-Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMDY0NWExNjE4YjViNzE0ODVhODEyNTEwNmI4N2Y3Mjhh`
+Snapshot ID: `MTY3OTAzMjgwMCwwMDAwMDAwMDBjMTA4OGIxZmNiMjdjZGQ4NTY5NmQ5OTU2OThhNWRl`

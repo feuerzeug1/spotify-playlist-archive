@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 8053,
+  "num_followers": 8062,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDI1MGRhNzExYTU1ZGI5NGNlNTg1NzYyMzM1OTAyNjkw",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGNlMzdkZDRhOGVhYWIwY2QwMzZkMmE0NGFiODUwMWFj",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Courtepointes",
-        "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
-      },
-      "artists": [
-        {
-          "name": "Arseniq33",
-          "url": "https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Cit\u00e9 rock suicide",
-      "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Sur quelle plan\u00e8te",
         "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 323400,
       "name": "Dans les airs",
       "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Courtepointes",
+        "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
+      },
+      "artists": [
+        {
+          "name": "Arseniq33",
+          "url": "https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Cit\u00e9 rock suicide",
+      "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le silence des roses",
-        "url": "https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF"
-      },
-      "artists": [
-        {
-          "name": "France D'Amour",
-          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
-        }
-      ],
-      "duration_ms": 263640,
-      "name": "Si j'ai tort",
-      "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Thermoplastique",
         "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 173626,
       "name": "Thermoplastique",
       "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le silence des roses",
+        "url": "https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF"
+      },
+      "artists": [
+        {
+          "name": "France D'Amour",
+          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
+        }
+      ],
+      "duration_ms": 263640,
+      "name": "Si j'ai tort",
+      "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
     },
     {
       "added_at": "2020-06-23 14:47:30",

@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 178527,
       "name": "Be Yourself",
       "url": "https://open.spotify.com/track/2GV1Oif2Y3jDk380qfgsz8"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 205880,
       "name": "Blossoms",
       "url": "https://open.spotify.com/track/35mGoqObgsLbl91JQVYHic"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 276453,
       "name": "California",
       "url": "https://open.spotify.com/track/5vZWYzEZ14cPcsdAXezdQY"
@@ -2992,6 +2992,24 @@
       "duration_ms": 299126,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/7ypIT6petNtsufzVizemQp"
+    },
+    {
+      "album": {
+        "name": "Covered In Hether",
+        "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q"
     },
     {
       "album": {
@@ -5964,7 +5982,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174973,
       "name": "In Her Arms",
       "url": "https://open.spotify.com/track/5ZbBxrl5NBzZWtFkPNtNBt"
@@ -6588,7 +6606,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 168786,
       "name": "Konami",
       "url": "https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz"
@@ -6628,6 +6646,24 @@
       "duration_ms": 124213,
       "name": "Last Words - Extended Edit",
       "url": "https://open.spotify.com/track/2088esDCuzCzbCpjaFKriO"
+    },
+    {
+      "album": {
+        "name": "Late Riser",
+        "url": "https://open.spotify.com/album/7sDSRMs5TsaMdJa4e8PyAl"
+      },
+      "artists": [
+        {
+          "name": "Okey Dokey",
+          "url": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250664,
+      "name": "Late Riser",
+      "url": "https://open.spotify.com/track/470eRO1gcvW3zVf3HMlKTQ"
     },
     {
       "album": {
@@ -12171,6 +12207,24 @@
     },
     {
       "album": {
+        "name": "Ugly Duck",
+        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "To be, or not to be ugly",
+      "url": "https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c"
+    },
+    {
+      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/1z9DkBF5iZZl26UdbgOrKN"
       },
@@ -12743,6 +12797,24 @@
     },
     {
       "album": {
+        "name": "Waile",
+        "url": "https://open.spotify.com/album/6bB5RHwyIKq5jUzbVuS63Y"
+      },
+      "artists": [
+        {
+          "name": "WITCH",
+          "url": "https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315426,
+      "name": "Waile",
+      "url": "https://open.spotify.com/track/69V0oOacvu3NKhpuqDhkLk"
+    },
+    {
+      "album": {
         "name": "WAITING",
         "url": "https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48"
       },
@@ -12798,6 +12870,24 @@
       "duration_ms": 227640,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/6OIsmDiDLf4j9BZJcAaES2"
+    },
+    {
+      "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206012,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4E76b5eScYyjahibva76Bk"
     },
     {
       "album": {

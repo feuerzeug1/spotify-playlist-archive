@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: Romancham
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,710 likes - 65 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,888 likes - 65 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 64 | [Kugramame](https://open.spotify.com/track/3xXGMn7VTB2Zg74PEN3P9M) | [Vipin Raveendran](https://open.spotify.com/artist/02U0IdqBzAwQdBE7LRhSB9), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Minnal Murali](https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x) | 1:38 |
 | 65 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/0rzKjfUCW6jl9u4jOJHWns) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/7vUWdGwewQzd5S1HpgkBSC) | 3:38 |
 
-Snapshot ID: `MTY3ODg1NDQwMCwwMDAwMDAwMGNkMjY5NjQ0NjdmYmM1Yzg0YTdkNzhiZjY3MWRjYTU1`
+Snapshot ID: `MTY3ODg1NDQwMCwwMDAwMDAwMDUxNTBlMjk4NzIxY2UyYzRlMDhlMmUxZWM4N2E1ZDU4`

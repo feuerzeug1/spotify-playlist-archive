@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 387333,
+  "num_followers": 387797,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc1NjA5OSwwMDAwMDAwMDY2NWYxNjk3ODA5Mzk0OWQ0ZDY2MDlhY2E3N2E4OGNk",
+  "snapshot_id": "MTY3Nzc1NjA5OSwwMDAwMDAwMGFmNjk1YzhlZTE2MDhmNzQ1MzY3M2FiYWIxOTE3MWRh",
   "tracks": [
     {
       "added_at": "2023-03-02 11:21:39",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-03-02 11:21:39",
       "album": {
+        "name": "Melt Away",
+        "url": "https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "I'm a Kid",
+      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
+    },
+    {
+      "added_at": "2023-03-02 11:21:39",
+      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
-    },
-    {
-      "added_at": "2023-03-02 11:21:39",
-      "album": {
-        "name": "Melt Away",
-        "url": "https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "I'm a Kid",
-      "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
     },
     {
       "added_at": "2023-03-02 11:21:39",

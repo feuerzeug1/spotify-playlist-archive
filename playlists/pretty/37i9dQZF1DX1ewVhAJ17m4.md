@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Meet Me @ The Altar
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,575 likes - 88 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,854 likes - 88 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 87 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 |
 | 88 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 |
 
-Snapshot ID: `MTY3OTA1OTE3NiwwMDAwMDAwMDdmMTAzZGY0MzUwMDhmOGMyMTVmOTExY2NiNWQ0YWEz`
+Snapshot ID: `MTY3OTA1OTE3NiwwMDAwMDAwMDgxNzc1N2FlNzA3YTk4NWQ5YzljNGVlZmRhNDFmY2Rk`

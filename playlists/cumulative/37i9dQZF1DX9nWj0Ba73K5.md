@@ -4,7 +4,7 @@
 
 > In loving memory of songwriter <a href="https://open.spotify.com/playlist/37i9dQZF1EFIdYyRJP5AlN?si=69e48d764e2b49d1"> Kyle Jacobs</a>.
 
-225 songs - 13 hr 3 min
+227 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Girl Crush](https://open.spotify.com/track/1wPwNfgLh54akyMFRhkMzZ) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:25 | 2022-01-01 | 2023-03-11 |
 | [Girl Crush](https://open.spotify.com/track/0S5hQtbXJXfzQjXCPASHtZ) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Barry Dean](https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7) | [Girl Crush](https://open.spotify.com/album/5xYMK6JwHqIc0TCg6rB3tF) | 3:40 | 2023-03-10 |  |
 | [Give It Away](https://open.spotify.com/track/6y921kRVGQUZC1bYWk8Tsp) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh) | [Give It Away](https://open.spotify.com/album/2xk2LDAEFBTY684mmSToCj) | 3:19 | 2022-01-01 |  |
+| [Give Me Back My Hometown](https://open.spotify.com/track/0f4STU5cvvnIaGNrqpVB4d) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Barry Dean](https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7) | [Give Me Back My Hometown](https://open.spotify.com/album/5O3tkcFjCLyJlfYy6GEPv1) | 3:02 | 2023-03-24 |  |
 | [Good Friends](https://open.spotify.com/track/5hpgayozHqTQR2T8vraMHt) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [Music Row](https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw) | 3:12 | 2022-01-01 |  |
 | [Good Guys Win](https://open.spotify.com/track/776bUrQyDGPUwN2uthS2l8) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:28 | 2022-01-01 |  |
 | [Grocery Money](https://open.spotify.com/track/5LQwU32gKbx7jTRjT6QANj) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:25 | 2022-01-01 |  |
@@ -135,7 +136,8 @@
 | [New Wings](https://open.spotify.com/track/5S74K9DFZmkMYhr32h7Ica) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [New Wings](https://open.spotify.com/album/2KejjW4UZgG4LejGToYi9S) | 3:28 | 2022-01-01 |  |
 | [Night Shift](https://open.spotify.com/track/3ZjdOqo5c1PJNxDyKSv9Rf) | [Billy Montana](https://open.spotify.com/artist/6B68vYYyj4afbUqedI6Mqc) | [Night Shift](https://open.spotify.com/album/26xwbEdqscNEcQPrgDvW3Y) | 2:59 | 2022-01-01 | 2022-07-29 |
 | [Night Shift](https://open.spotify.com/track/4iHI9yGjIiDe9tmOz6Zben) | [Billy Montana](https://open.spotify.com/artist/6B68vYYyj4afbUqedI6Mqc) | [Night Shift](https://open.spotify.com/album/4b8lsGJcFSnRp6llbuFetG) | 2:59 | 2022-07-08 |  |
-| [No More of 'Em](https://open.spotify.com/track/42JOeAAVPFkUVjUckTTvbe) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [No More of 'Em](https://open.spotify.com/album/7tHHcmBNOH2LD0oNNYKAux) | 3:08 | 2022-02-28 |  |
+| [No More of 'Em](https://open.spotify.com/track/0o3dSb5poDTE1ae8io3w23) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [No More of 'Em](https://open.spotify.com/album/7BWtzTiVNhUrR2Xo46hBHt) | 3:08 | 2023-03-24 |  |
+| [No More of 'Em](https://open.spotify.com/track/42JOeAAVPFkUVjUckTTvbe) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [No More of 'Em](https://open.spotify.com/album/7tHHcmBNOH2LD0oNNYKAux) | 3:08 | 2022-02-28 | 2023-03-25 |
 | [Nobody But You](https://open.spotify.com/track/64zyVTT5sn3a4tJB91xxJV) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Spotify Singles](https://open.spotify.com/album/6p3jqERMCdhHa8sanNqvUD) | 3:09 | 2022-01-01 |  |
 | [Norwegian Wood](https://open.spotify.com/track/5saf8apVFYfrvplj03r6Xb) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 2:54 | 2022-01-01 |  |
 | [Nothin' On Us](https://open.spotify.com/track/7LEvJRyxRPQv5ECGKrqorl) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [Nothin' On Us](https://open.spotify.com/album/3fxBDwT6DSYb2kWCBE0zJc) | 2:43 | 2022-01-01 |  |

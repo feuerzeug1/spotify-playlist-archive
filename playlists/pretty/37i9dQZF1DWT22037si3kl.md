@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Mc Davi, MC GP
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,323 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,636 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 46 | [Drip Drip](https://open.spotify.com/track/34wNrOoymUk3WuTsmYleuT) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW), [Polo Boyd](https://open.spotify.com/artist/3xnDPeXHJnIhrpXUDLWPGx), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Drip Drip](https://open.spotify.com/album/0FO3trgqcrbJtIOJYOIebC) | 3:12 |
 | 47 | [Bulova](https://open.spotify.com/track/2utE4jw3WNuowCyUFxLbTf) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Ornellas](https://open.spotify.com/artist/27zOmTo3H5RpXpliGvS5vH) | [Bulova](https://open.spotify.com/album/2m3g0xp5U8fdwPrfWiHKXT) | 3:10 |
 | 48 | [Ford Ka](https://open.spotify.com/track/7g18mpJuwUeWhUIEczyFqw) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Ford Ka](https://open.spotify.com/album/35leKTbOBMKbwK9EPCMBfL) | 2:29 |
-| 49 | [Pretty](https://open.spotify.com/track/0ZYp40K08rnrfsL1GneMmx) | [Cauart](https://open.spotify.com/artist/37ABwEAZXTXfUkhoAKzgOP), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Roses](https://open.spotify.com/album/30Vz1yT9eAkZDlDcK1g6mJ) | 2:45 |
+| 49 | [Pretty](https://open.spotify.com/track/0ZYp40K08rnrfsL1GneMmx) | [Cauart](https://open.spotify.com/artist/37ABwEAZXTXfUkhoAKzgOP), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [KarpaBeats](https://open.spotify.com/artist/6D3sLCYbKtRoLsjmdFbdTh) | [Roses](https://open.spotify.com/album/30Vz1yT9eAkZDlDcK1g6mJ) | 2:45 |
 | 50 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 |
 
-Snapshot ID: `MTY3OTAyMjA2MCwwMDAwMDAwMGQwYjQ4NDMyNzE4MWM2MjhiYWJhZmQ0YjI0NjUwNzA4`
+Snapshot ID: `MTY3OTAyMjA2MCwwMDAwMDAwMDE3NThlZjY1YTcwYzBlMTdkYmIwNTMyY2NjMGRiNGVm`

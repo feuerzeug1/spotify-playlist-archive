@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,493 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,504 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 64 | [Closure](https://open.spotify.com/track/2FWpnZjDPW23wSRefDcVn9) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [Closure](https://open.spotify.com/album/5eRC43W4zUuunLZ4D3xZ2L) | 2:41 |
 | 65 | [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDIyMjFlODkzMjAwNDNjNWViMGQyZjEwM2Y4NDMyNDZj`
+Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDlhYzU0MGQ1ZTAxYTgzZGVkOWE0ZTEzZjllOTVhMGNj`

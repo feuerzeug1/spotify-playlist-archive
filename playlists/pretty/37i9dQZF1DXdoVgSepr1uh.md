@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Argentina en la casa! Foto: Salastkbron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,009 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,035 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 99 | [Yo Ya No](https://open.spotify.com/track/7MRcgzjHn9S2QSub2W4eED) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Hot Plug Beats](https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF) | [Yo Ya No](https://open.spotify.com/album/5yU2AfvdBBZ56eq2pYoz1N) | 2:56 |
 | 100 | [Fantastic](https://open.spotify.com/track/25VGPBzih52Ou2gyJkaV9e) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g), [Nico Melo](https://open.spotify.com/artist/3RRYZ1jmjvHKX6sxBP2ANo) | [Fantastic](https://open.spotify.com/album/7DrCJyYqlEVuoQi4zy27UH) | 2:47 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDU3NGVjNGNhM2ViZjQ3ZWU3MjA4NzgzMmM3OWY4NGEy`
+Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDdhN2YwNGFmZGU0MzhlYWExOWQ4ZDI3ZDg4ZGExZjM5`

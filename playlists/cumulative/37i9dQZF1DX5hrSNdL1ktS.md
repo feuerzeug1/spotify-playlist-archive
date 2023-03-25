@@ -2,7 +2,7 @@
 
 ### [Urbano Fresh](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Lo nuevo del popetón y reggaetón emergente en MX, con Ghetto Kids en portada.
+> Lo nuevo del popetón y reggaetón emergente en MX, con Yng Lvcas y Peso Pluma en portada.
 
 161 songs - 8 hr 19 min
 

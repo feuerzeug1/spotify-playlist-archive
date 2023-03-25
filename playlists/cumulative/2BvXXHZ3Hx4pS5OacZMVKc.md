@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-245 songs - 12 hr 49 min
+246 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [U](https://open.spotify.com/track/2ZuF3b1q0qEyPExUlNAyMB) | [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ) | [U](https://open.spotify.com/album/7v3jUWYgnd0WhKs466AGbo) | 2:54 | 2022-02-03 | 2022-09-15 |
 | [Uncharted](https://open.spotify.com/track/1cnSTD38cuS2rV0Xk01FAt) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ) | [Uncharted](https://open.spotify.com/album/3ROr8htOiQkOpuefZRLWmb) | 2:32 | 2022-02-03 | 2022-09-15 |
 | [Unforgivable](https://open.spotify.com/track/4zuZkPo9wVNTmuSWj5DaZk) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Unforgivable](https://open.spotify.com/album/3htLm8vM0bgKTSTy2b0cSs) | 3:00 | 2022-09-30 |  |
+| [Visions](https://open.spotify.com/track/6rf6y8M3qZDyFLBezkXZ2G) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Visions](https://open.spotify.com/album/63bnF1vs8NxwKZ7WjxLAcK) | 3:43 | 2023-03-24 |  |
 | [Voyage](https://open.spotify.com/track/0saZwRp7tEo7AiqmBhrnn4) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [DNAKM](https://open.spotify.com/artist/20N95on2Bu0e3AZyiEUMz1) | [Voyage](https://open.spotify.com/album/7FxFBjIT8RTKT23jHGUlSd) | 4:22 | 2022-02-03 | 2022-09-15 |
 | [Waiting For You](https://open.spotify.com/track/1TMABbejBbBNMd49DHFHdL) | [Fiko](https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq) | [Waiting For You](https://open.spotify.com/album/0EPcMNw5f3KFDzIhA3Rylx) | 2:45 | 2022-02-08 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-30 |  |

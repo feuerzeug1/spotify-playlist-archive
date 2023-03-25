@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-375 songs - 23 hr 47 min
+376 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Everything](https://open.spotify.com/track/2phv3kYwzfD1DHS65d6Hzm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/7tDSKSy3mb5Q9VdDov8YXf) | 3:17 | 2022-03-25 | 2022-04-21 |
 | [Everything I had](https://open.spotify.com/track/0k5szLN0SJYB1LdEBUFUIS) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Everything I had](https://open.spotify.com/album/7FGdBrnsFUgWNcppcDfkxU) | 4:06 | 2021-12-17 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:06 | 2022-06-10 | 2023-02-01 |
-| [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 | 2023-01-09 |  |
+| [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 | 2023-01-09 | 2023-03-25 |
 | [Faith](https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:37 | 2022-09-16 |  |
 | [Faith](https://open.spotify.com/track/5fLZQWarUISdz4attMFTXl) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:37 | 2022-03-25 | 2022-04-18 |
 | [Faith Healer](https://open.spotify.com/track/2hNXb6IDn3CvvHjjwauEM3) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Faith Healer](https://open.spotify.com/album/4poKpzHqjS4Ak1usjjNvvz) | 2:54 | 2021-12-17 | 2022-07-10 |
@@ -121,6 +121,7 @@
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2022-06-10 |  |
 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 | 2021-12-17 | 2022-07-27 |
 | [Gentle On My Mind](https://open.spotify.com/track/6zq5dLGKdvGoXn9FUvcJLC) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/7HLNwzaYWBgg9ttk1P7LyP) | 4:05 | 2021-12-17 | 2022-07-29 |
+| [Get It Back](https://open.spotify.com/track/29mhNauP6A7LSLqiMOWNlv) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Get It Back](https://open.spotify.com/album/1qUVp9K0Z7w4gMbpzq1wd3) | 3:24 | 2023-03-24 |  |
 | [Give a Little Love \(feat\. Sufjan Stevens\)](https://open.spotify.com/track/0FfcviVA8x0FaVIwwZVUJE) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Give a Little Love \(feat\. Sufjan Stevens\)](https://open.spotify.com/album/2cKV8sFWAalmxstxNrRsUX) | 3:37 | 2021-12-17 | 2022-04-20 |
 | [Give It Up](https://open.spotify.com/track/54x2yEQLwfcujRmAc8Vky7) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [Give It Up](https://open.spotify.com/album/4r26l1S2PtMLsPN0P5vX9m) | 3:44 | 2022-03-25 | 2022-04-20 |
 | [Gloria](https://open.spotify.com/track/3w4hSYOCUcsfk86JcjkO1a) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria](https://open.spotify.com/album/1wtcotBFIrPUocoICHcURo) | 3:47 | 2022-03-25 | 2022-04-13 |

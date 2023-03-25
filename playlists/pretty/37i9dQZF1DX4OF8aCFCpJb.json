@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 66115,
+  "num_followers": 66126,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDlkNWE2YTQyZWE5YTAwMTBmNDcyNDAzNWYxYTAxYTJj",
+  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDRkMzlkNzE5ODYzOGU3M2E0MjU5ZTk2M2U0NDk1Y2I1",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
+      },
+      "artists": [
+        {
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "Bonus P\u00e5 Kortet",
+      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Helt Off",
         "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 229960,
       "name": "Babylonsjukan",
       "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Som Salomos S\u00e5ng",
-        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Bonus P\u00e5 Kortet",
-      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
     },
     {
       "added_at": "2023-03-02 23:00:00",

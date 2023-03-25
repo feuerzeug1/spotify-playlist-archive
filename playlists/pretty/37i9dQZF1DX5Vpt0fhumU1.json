@@ -1,12 +1,12 @@
 {
   "description": "Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.",
-  "num_followers": 86210,
+  "num_followers": 86455,
   "original_name": "Spanish Tapas Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2NjczNiwwMDAwMDAwMGRjMzRkMTViYjlkOWVkMGIwOGM5MjM4YmVlNDU2Y2Jm",
+  "snapshot_id": "MTY2MTg2NjczNiwwMDAwMDAwMDg2NmY0ODU0MjI5ZGYxZWJiMjkxMjBiNjZhYjk2M2I2",
   "tracks": [
     {
       "added_at": "2022-08-30 13:38:56",
@@ -187,18 +187,22 @@
     {
       "added_at": "2022-08-30 13:38:56",
       "album": {
-        "name": "Manuel El Chachi Lopez-Ruiz: Gypsy Rumba Flamenco",
-        "url": "https://open.spotify.com/album/24dVmdybMczU8CmAmCDJ8E"
+        "name": "Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/5XbIzljPb6mwQcQpLnuIMQ"
       },
       "artists": [
+        {
+          "name": "Manuel Lopez-Ruiz",
+          "url": "https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo"
+        },
         {
           "name": "Chachi Ensemle, El",
           "url": "https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE"
         }
       ],
-      "duration_ms": 197146,
-      "name": "Lel-lere-bay-bay",
-      "url": "https://open.spotify.com/track/38hZfOZ0EWf33WLwcTh9tH"
+      "duration_ms": 195226,
+      "name": "Lel-Lere-Bay-Bay",
+      "url": "https://open.spotify.com/track/3zeDaOPjtTDyJv1Gj7cwdk"
     },
     {
       "added_at": "2022-08-30 13:38:56",

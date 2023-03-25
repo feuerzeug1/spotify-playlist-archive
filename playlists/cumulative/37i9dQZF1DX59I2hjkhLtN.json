@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 170000,
       "name": "A cidade e as serras",
       "url": "https://open.spotify.com/track/49ysYtESPG5TA4t8IvUiEl"
@@ -442,6 +442,24 @@
       "duration_ms": 183137,
       "name": "AirForce",
       "url": "https://open.spotify.com/track/364q8GPTYAz75IydZWBcXF"
+    },
+    {
+      "album": {
+        "name": "Alerta",
+        "url": "https://open.spotify.com/album/6vcJPZ5BL8tt9gwkhpJYkm"
+      },
+      "artists": [
+        {
+          "name": "Kenwhy",
+          "url": "https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Alerta",
+      "url": "https://open.spotify.com/track/49tNfvmbVcQUjUuy1kEzKd"
     },
     {
       "album": {
@@ -722,6 +740,24 @@
       "duration_ms": 236000,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/4VWadGkXMcUPstPbg8Oz08"
+    },
+    {
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/1rm8wxsO4JFwV3Qt4hVgtH"
+      },
+      "artists": [
+        {
+          "name": "Codie",
+          "url": "https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159394,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/7eavXubalNqQjOGnvDneKp"
     },
     {
       "album": {
@@ -1342,10 +1378,48 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 176326,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I"
+    },
+    {
+      "album": {
+        "name": "CypherFocus #1",
+        "url": "https://open.spotify.com/album/7zApBmmiuaQ2LRgDA46HVF"
+      },
+      "artists": [
+        {
+          "name": "Black Vision",
+          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
+        },
+        {
+          "name": "Ciri",
+          "url": "https://open.spotify.com/artist/0q6rGrv1f7h8BkZgV4IXY8"
+        },
+        {
+          "name": "Plut\u00e3o",
+          "url": "https://open.spotify.com/artist/77GVzpOWnSCVGQeGl7kpRO"
+        },
+        {
+          "name": "Juelson Marcos",
+          "url": "https://open.spotify.com/artist/1aQCsqTCVRagFq25FWRsme"
+        },
+        {
+          "name": "Filipe HPM",
+          "url": "https://open.spotify.com/artist/3LEEforMNXzVB0eJ5wrwKV"
+        },
+        {
+          "name": "Adelson Freitas",
+          "url": "https://open.spotify.com/artist/6FQYu2KuSX5uSTPTKtiHg1"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285957,
+      "name": "CypherFocus #1",
+      "url": "https://open.spotify.com/track/7fTaiCz7Jc2HKENi3niycX"
     },
     {
       "album": {
@@ -1962,7 +2036,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 131088,
       "name": "Empres\u00e1rio S/Fato",
       "url": "https://open.spotify.com/track/356wuMmWrVE8IBlxmNsxQM"
@@ -2462,6 +2536,42 @@
       "duration_ms": 153000,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/3K4IBBLia2tIyjFvFfK8ca"
+    },
+    {
+      "album": {
+        "name": "Freelancer",
+        "url": "https://open.spotify.com/album/2xoJ2usu0V8xUvi2vIkMB5"
+      },
+      "artists": [
+        {
+          "name": "Tieijci",
+          "url": "https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Freelancer",
+      "url": "https://open.spotify.com/track/3eTNYdzxrmeoxwtMnpEkkT"
+    },
+    {
+      "album": {
+        "name": "FREESTYLE",
+        "url": "https://open.spotify.com/album/6xJ6tx7e1qncF9543u0TGW"
+      },
+      "artists": [
+        {
+          "name": "YuriGotBandz",
+          "url": "https://open.spotify.com/artist/78y9L2lOJBsY4uUBcPsTu2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155941,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/0Z48gxf8RNpGFEm5wR7u2h"
     },
     {
       "album": {
@@ -3056,7 +3166,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 232277,
       "name": "I Need a Lot",
       "url": "https://open.spotify.com/track/2YAH1cMAJ1wfqFebEciLrS"
@@ -3736,7 +3846,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 107473,
       "name": "mal-me-quer",
       "url": "https://open.spotify.com/track/6r1oBhMARlpEotia4lbhqo"
@@ -3818,6 +3928,32 @@
       "duration_ms": 187116,
       "name": "Many Men - Special Version",
       "url": "https://open.spotify.com/track/5WTNKKVTvqWwgCVLdH7AhC"
+    },
+    {
+      "album": {
+        "name": "MARIPOSA",
+        "url": "https://open.spotify.com/album/1hwRmaHQ79ZOqSUHk9tTVf"
+      },
+      "artists": [
+        {
+          "name": "Holympo",
+          "url": "https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9"
+        },
+        {
+          "name": "C\u00f3smico",
+          "url": "https://open.spotify.com/artist/6DsNivzEk4uMuk0f4QjdSS"
+        },
+        {
+          "name": "Hyzer",
+          "url": "https://open.spotify.com/artist/48Uqot4YbHpPRt6ABUYiqP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "MARIPOSA",
+      "url": "https://open.spotify.com/track/2MWPhFv5k2Xjqt6Qea94nG"
     },
     {
       "album": {
@@ -3958,6 +4094,24 @@
       "duration_ms": 125471,
       "name": "Mente Chora",
       "url": "https://open.spotify.com/track/1IXZp0IZSK91o4locn1ghq"
+    },
+    {
+      "album": {
+        "name": "Mereces",
+        "url": "https://open.spotify.com/album/0jUehlIRWSQkj3XjQY1hSw"
+      },
+      "artists": [
+        {
+          "name": "Deni",
+          "url": "https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198300,
+      "name": "Mereces",
+      "url": "https://open.spotify.com/track/3GMiqQto55B9vjUhFUFYGK"
     },
     {
       "album": {
@@ -4334,6 +4488,28 @@
       "duration_ms": 142148,
       "name": "Na Zona",
       "url": "https://open.spotify.com/track/2nryvguh2EFGc7jjJxyM4e"
+    },
+    {
+      "album": {
+        "name": "Namorada",
+        "url": "https://open.spotify.com/album/4nyS1R2n9QKN5qSHbuIUml"
+      },
+      "artists": [
+        {
+          "name": "C-Jay Pharrell",
+          "url": "https://open.spotify.com/artist/1PcrxA9clS0kWu7zpa74tj"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226192,
+      "name": "Namorada",
+      "url": "https://open.spotify.com/track/3yEbvMet6d26Bj1C48w9Il"
     },
     {
       "album": {
@@ -4744,7 +4920,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 309022,
       "name": "N\u00e3o Maya",
       "url": "https://open.spotify.com/track/3qJxuThW0d1jkOsPerl7FG"
@@ -4998,7 +5174,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 122778,
       "name": "OKAY",
       "url": "https://open.spotify.com/track/4ZezQHKoB06CywwkQ2DPSD"
@@ -5309,6 +5485,24 @@
     },
     {
       "album": {
+        "name": "Phil Foden",
+        "url": "https://open.spotify.com/album/61dya1HZH90S9x91LOK5nv"
+      },
+      "artists": [
+        {
+          "name": "Carlito Lagangzz",
+          "url": "https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169665,
+      "name": "Phil Foden",
+      "url": "https://open.spotify.com/track/65ZeU61TxIXMBegL7iQQW8"
+    },
+    {
+      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/4fQ4XCMDohaE5BYJVMJojV"
       },
@@ -5494,7 +5688,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 202629,
       "name": "Primark",
       "url": "https://open.spotify.com/track/4livUQ1zlUSCladzHB7CkE"
@@ -6227,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "Se Mimar",
+        "url": "https://open.spotify.com/album/3Yc7oHvqKVFw7r4AjD2Gk4"
+      },
+      "artists": [
+        {
+          "name": "Biura",
+          "url": "https://open.spotify.com/artist/44rcxjQW1VnsJ9yOR5SJRP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183214,
+      "name": "Se Mimar",
+      "url": "https://open.spotify.com/track/7xTqiiz7Auh8pA1cljw89Y"
+    },
+    {
+      "album": {
         "name": "Sei para Onde Vou, Pt. 2",
         "url": "https://open.spotify.com/album/2DW2clrlidkgpdLOA2H5ml"
       },
@@ -6449,6 +6661,24 @@
     },
     {
       "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/4L0iOGCTy3luEr12Hi25kC"
+      },
+      "artists": [
+        {
+          "name": "Extrazen",
+          "url": "https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/11OtPiFmqLBLzTx0jyprCG"
+    },
+    {
+      "album": {
         "name": "So Sick",
         "url": "https://open.spotify.com/album/23KPZXrBoAA6Jmloc5rwex"
       },
@@ -6580,7 +6810,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 140571,
       "name": "SQ",
       "url": "https://open.spotify.com/track/4Q1yZFjkYfd35CiDTGMxV2"
@@ -7030,7 +7260,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 152888,
       "name": "Tudo Certo [C'est Carr\u00e9]",
       "url": "https://open.spotify.com/track/5qKPHuqZjPZRKBV0uPzrl5"
@@ -7658,7 +7888,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213901,
       "name": "You Know",
       "url": "https://open.spotify.com/track/7Mrr4DG9g2KejXyt85Bg4R"

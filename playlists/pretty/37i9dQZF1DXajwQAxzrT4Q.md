@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 ### [Jersey Club Heat](https://open.spotify.com/playlist/37i9dQZF1DXajwQAxzrT4Q)
 
-> Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Cookiee Kawaii
+> Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,414 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,841 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 24 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vibe \(If I Back It Up\)](https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0) | 1:23 |
 | 25 | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/track/6w9UIffgXbITL5Jsb5j14J) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/album/7nY4ha19e6NF6gJatEWjIO) | 2:10 |
 | 26 | [TON1GHT \- Jersey Club](https://open.spotify.com/track/0b1JCsboe1MKYslFePSK7m) | [KilSoSouth](https://open.spotify.com/artist/7zjVVZjY5P6hvIg0gOYc8N) | [TON1GHT](https://open.spotify.com/album/0vqloyHJ1ivHTBCQu0B1Fo) | 1:34 |
-| 27 | [Left Cheek \(Doo Doo Blick\)](https://open.spotify.com/track/1aKHgPHMKTJEmLkKmcbe3a) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Left Cheek \(Doo Doo Blick\)](https://open.spotify.com/album/2QCIxTKckQPH0slJpy7GV9) | 2:54 |
+| 27 | [make it jump \- Jersey Club Remix](https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a) | [Rrodney](https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n), [mcvertt](https://open.spotify.com/artist/1a0jOXZS58WPtXcVVYnz09), [@Temp.Gzz](https://open.spotify.com/artist/1PZaTfLviryWyyfDgqRMQ4) | [make it jump \(Jersey Club Remix\)](https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY) | 3:04 |
 | 28 | [\#miles \(OMG edit\)](https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles \(OMG edit\)](https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V) | 2:17 |
 | 29 | [Sticky](https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:03 |
-| 30 | [make it jump \- Jersey Club Remix](https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a) | [Rrodney](https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n), [mcvertt](https://open.spotify.com/artist/1a0jOXZS58WPtXcVVYnz09), [@Temp.Gzz](https://open.spotify.com/artist/1PZaTfLviryWyyfDgqRMQ4) | [make it jump \(Jersey Club Remix\)](https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY) | 3:04 |
+| 30 | [Left Cheek \(Doo Doo Blick\)](https://open.spotify.com/track/1aKHgPHMKTJEmLkKmcbe3a) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Left Cheek \(Doo Doo Blick\)](https://open.spotify.com/album/2QCIxTKckQPH0slJpy7GV9) | 2:54 |
 | 31 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 | 32 | [Level Up \(feat\. Missy Elliott & Fatman Scoop\) \- Remix](https://open.spotify.com/track/0aBsXZLJDvn0QWfcIqBXq8) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6), [Fanman Scoop](https://open.spotify.com/artist/3v7go923YVFTZQeS43TyWr) | [Level Up \(feat\. Missy Elliott & Fatman Scoop\) \[Remix\]](https://open.spotify.com/album/13iiYB1fvhrxbybtxNYrxw) | 3:49 |
 | 33 | [Cupid, Pt\. 2](https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Cupid, Pt\. 2](https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn) | 1:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 49 | [Saint Laurent](https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Saint Laurent](https://open.spotify.com/album/4eD8ndZc5zCAMSHpHm3Qzj) | 2:32 |
 | 50 | [Chicago \(Jersey Club\)](https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Chicago \(Jersey Club\)](https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX) | 1:58 |
 
-Snapshot ID: `MTY3OTM0MTUwNSwwMDAwMDAwMGM2M2MzMDVlNGYzYzljZTk0M2FjYjg2YTNkY2FjMWEx`
+Snapshot ID: `MTY3OTY3MzYwMCwwMDAwMDAwMGI5YmU1Y2U3NjBiMjk0NzhiYmFhMmQ5OGU0NWQyMDVm`

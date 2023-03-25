@@ -1,13 +1,297 @@
 {
   "description": "Curtis Waters makes anti pop",
-  "num_followers": 695567,
+  "num_followers": 695582,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ5MjYxOCwwMDAwMDAwMGZlZWQ3NWZmYzc1MDZmNjA4MWFiMDFlYjI3OGEwYjhi",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDZiYmViNzFlOTAyZDNlOWVmY2U4YTNkMzg3OGYwMjIw",
   "tracks": [
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "HIMBO/GOD'S LONELY MAN",
+        "url": "https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        }
+      ],
+      "duration_ms": 113170,
+      "name": "HIMBO",
+      "url": "https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/3O9r5PoJDRmhHHuH4NDsv6"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 181896,
+      "name": "Sports",
+      "url": "https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "nolademos",
+        "url": "https://open.spotify.com/album/3aXlTlKpRpnwTsjL0lXRIt"
+      },
+      "artists": [
+        {
+          "name": "Spencer.",
+          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
+        }
+      ],
+      "duration_ms": 195398,
+      "name": "4evaaa",
+      "url": "https://open.spotify.com/track/0uq8z2z0DUJNRgxv3DfqT3"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "a million messages",
+        "url": "https://open.spotify.com/album/4VUpB2haaJ2duXy2CaHhB8"
+      },
+      "artists": [
+        {
+          "name": "Nashon",
+          "url": "https://open.spotify.com/artist/12X1zDSQlW0c6uRXGoOzHi"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "a million messages",
+      "url": "https://open.spotify.com/track/2bzcI82YXck3xUFMGqqMTF"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "sf44",
+        "url": "https://open.spotify.com/album/1IAdT8AZhf9m9TKJDZUtlM"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 85826,
+      "name": "ready2go",
+      "url": "https://open.spotify.com/track/56oW1mdH5EYm1RMyFU77KE"
+    },
+    {
+      "added_at": "2023-03-20 15:16:43",
+      "album": {
+        "name": "Fortune Cookie",
+        "url": "https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp"
+        }
+      ],
+      "duration_ms": 141782,
+      "name": "Vexed",
+      "url": "https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij"
+    },
+    {
+      "added_at": "2023-03-17 18:20:40",
+      "album": {
+        "name": "Show Me The Money (with Tkay Maidza)",
+        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Show Me The Money (with Tkay Maidza)",
+      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "HI 5",
+        "url": "https://open.spotify.com/album/1ZPLF1NH79pCOPF7SlZxCB"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 172977,
+      "name": "HI 5",
+      "url": "https://open.spotify.com/track/0k9ynvL7RDuqNWiS7d7s8i"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Magician",
+        "url": "https://open.spotify.com/album/2D1vL8Bderynd1eiKOqddl"
+      },
+      "artists": [
+        {
+          "name": "Blaketheman1000",
+          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
+        }
+      ],
+      "duration_ms": 140079,
+      "name": "Magician",
+      "url": "https://open.spotify.com/track/4Vp4hbAyinBY8fnBNFmTKz"
+    },
+    {
+      "added_at": "2023-03-03 22:04:16",
+      "album": {
+        "name": "Gray",
+        "url": "https://open.spotify.com/album/1uJrYZjJX6KC7loEOaqPVF"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Gray",
+      "url": "https://open.spotify.com/track/5hm5tkdeZXi3O3mF5vf7Br"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Hotel Window",
+        "url": "https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "duration_ms": 123454,
+      "name": "Hotel Window",
+      "url": "https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Dizzy Vision",
+        "url": "https://open.spotify.com/album/2XOFL54zsynsBPicRY3dnX"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Dizzy Vision",
+      "url": "https://open.spotify.com/track/20LTZsoVpBQsbbwkgY9YPb"
+    },
+    {
+      "added_at": "2023-03-01 23:35:59",
+      "album": {
+        "name": "MAKER'S DESIGN",
+        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 186531,
+      "name": "THE SEASON (feat. PawPaw Rod)",
+      "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Muay Thai",
+        "url": "https://open.spotify.com/album/4NqPAgBIKynVJII8IhBFfO"
+      },
+      "artists": [
+        {
+          "name": "Uma",
+          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
+        }
+      ],
+      "duration_ms": 180196,
+      "name": "Muay Thai",
+      "url": "https://open.spotify.com/track/31Z7QbuOg3Ljv0vZI6f0eR"
+    },
+    {
+      "added_at": "2023-03-06 18:44:34",
+      "album": {
+        "name": ">one (greater than one)",
+        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": ">one - greater than one",
+      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "45",
+        "url": "https://open.spotify.com/album/3sF06O8MUi5xUWlLiqC631"
+      },
+      "artists": [
+        {
+          "name": "dba James",
+          "url": "https://open.spotify.com/artist/22kaRHzxgBdm1KiWv2cRl1"
+        }
+      ],
+      "duration_ms": 145256,
+      "name": "45",
+      "url": "https://open.spotify.com/track/22157lgXks8tQll1LQsCid"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Acting Funny",
+        "url": "https://open.spotify.com/album/2kR4SRc4Fi7SpfmbNxEvFk"
+      },
+      "artists": [
+        {
+          "name": "Sharktank",
+          "url": "https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K"
+        }
+      ],
+      "duration_ms": 191845,
+      "name": "H-A-P-P-Y",
+      "url": "https://open.spotify.com/track/7jseeQmEFs7vp8pIQcXkaO"
+    },
     {
       "added_at": "2023-03-22 13:43:38",
       "album": {
@@ -51,146 +335,6 @@
       "duration_ms": 174972,
       "name": "Adventure (feat. KIRBY)",
       "url": "https://open.spotify.com/track/6dOSdAbu3DW28z4cARUHLf"
-    },
-    {
-      "added_at": "2023-03-20 15:16:43",
-      "album": {
-        "name": "Fortune Cookie",
-        "url": "https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp"
-        }
-      ],
-      "duration_ms": 141782,
-      "name": "Vexed",
-      "url": "https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "HIMBO/GOD'S LONELY MAN",
-        "url": "https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq"
-      },
-      "artists": [
-        {
-          "name": "Curtis Waters",
-          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
-        }
-      ],
-      "duration_ms": 113170,
-      "name": "HIMBO",
-      "url": "https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "a million messages",
-        "url": "https://open.spotify.com/album/4VUpB2haaJ2duXy2CaHhB8"
-      },
-      "artists": [
-        {
-          "name": "Nashon",
-          "url": "https://open.spotify.com/artist/12X1zDSQlW0c6uRXGoOzHi"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "a million messages",
-      "url": "https://open.spotify.com/track/2bzcI82YXck3xUFMGqqMTF"
-    },
-    {
-      "added_at": "2023-03-03 22:04:16",
-      "album": {
-        "name": "Gray",
-        "url": "https://open.spotify.com/album/1uJrYZjJX6KC7loEOaqPVF"
-      },
-      "artists": [
-        {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Gray",
-      "url": "https://open.spotify.com/track/5hm5tkdeZXi3O3mF5vf7Br"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "MAKER'S DESIGN",
-        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
-      },
-      "artists": [
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 186531,
-      "name": "THE SEASON (feat. PawPaw Rod)",
-      "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Hotel Window",
-        "url": "https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm"
-      },
-      "artists": [
-        {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
-        }
-      ],
-      "duration_ms": 123454,
-      "name": "Hotel Window",
-      "url": "https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce"
-    },
-    {
-      "added_at": "2023-03-06 18:44:34",
-      "album": {
-        "name": ">one (greater than one)",
-        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": ">one - greater than one",
-      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
-    },
-    {
-      "added_at": "2023-03-17 18:20:40",
-      "album": {
-        "name": "Show Me The Money (with Tkay Maidza)",
-        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Show Me The Money (with Tkay Maidza)",
-      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
       "added_at": "2023-03-01 23:35:59",

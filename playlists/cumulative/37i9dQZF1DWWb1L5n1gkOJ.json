@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/7snyOPCc8KNIgAp4L92vLv"
+      },
+      "artists": [
+        {
+          "name": "Albert Lockwood",
+          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/4Nxdvb7Jk9TJCCCUc5wEgk"
+    },
+    {
+      "album": {
         "name": "More Than Anything",
         "url": "https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe"
       },

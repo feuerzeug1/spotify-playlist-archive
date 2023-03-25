@@ -4707,6 +4707,28 @@
     },
     {
       "album": {
+        "name": "When Eden Was My Girl (feat. Marcus King)",
+        "url": "https://open.spotify.com/album/3jR7qt6pFn6OBxRZDnyJqK"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "When Eden Was My Girl (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/3o34F9z7g0SDeIAKWir4PR"
+    },
+    {
+      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/3hBNP1QpE7MWs5OIInJxAG"
       },

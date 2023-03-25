@@ -2693,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "Wonderous",
+        "url": "https://open.spotify.com/album/0gzGROgM1iEcbo5pgYnoeA"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232898,
+      "name": "Wonderous",
+      "url": "https://open.spotify.com/track/0Vm86oLzpOUjdyEiGsi2hu"
+    },
+    {
+      "album": {
         "name": "Yalmi",
         "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
       },
@@ -2758,7 +2776,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 197217,
       "name": "\u200bLittle Star",
       "url": "https://open.spotify.com/track/0kb1zJmiRHPmP5MUXWKAiB"

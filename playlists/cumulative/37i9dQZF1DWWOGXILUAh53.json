@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Felix Cartal & Daya",
+  "description": "The hottest new pop with all the drops. Cover: ILLENIUM & JVKE",
   "name": "Fresh Dance Pop",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 194404,
       "name": "Alone At Midnight",
       "url": "https://open.spotify.com/track/1KULdGZrUxMQxcDBBIcD4g"
@@ -530,6 +530,28 @@
       "duration_ms": 189079,
       "name": "AM Gold - Tobtok Remix",
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
+    },
+    {
+      "album": {
+        "name": "AM:PM",
+        "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182950,
+      "name": "AM:PM",
+      "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
     },
     {
       "album": {
@@ -646,7 +668,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 168982,
       "name": "Anyway (feat. RuthAnne)",
       "url": "https://open.spotify.com/track/5TAlj8WBSEWPdzudunvu0B"
@@ -1505,6 +1527,28 @@
     },
     {
       "album": {
+        "name": "Chasing Shadows (MKJ Remix)",
+        "url": "https://open.spotify.com/album/581A12sUOEPtkOfw5eDjYy"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "MKJ",
+          "url": "https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Chasing Shadows - MKJ Remix",
+      "url": "https://open.spotify.com/track/3tBtteeU0d0YoHCMPSWTAD"
+    },
+    {
+      "album": {
         "name": "TECHNICOLOR: The Full Spectrum",
         "url": "https://open.spotify.com/album/4ighfmGTcRorYV1h22L7EO"
       },
@@ -2299,6 +2343,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Call Me",
+        "url": "https://open.spotify.com/album/04tMzSuHEiqxK8PY0CsKCy"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168170,
+      "name": "Don't Call Me",
+      "url": "https://open.spotify.com/track/3RpXk1LylSSMccjNwpc18F"
+    },
+    {
+      "album": {
         "name": "Don't Cry",
         "url": "https://open.spotify.com/album/5fP4Ys7OD25Tn0fKmGXFbV"
       },
@@ -2574,7 +2640,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 138094,
       "name": "Enough To Drink",
       "url": "https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP"
@@ -2906,7 +2972,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 192973,
       "name": "Fever (feat. Lukas Graham)",
       "url": "https://open.spotify.com/track/5tXDj9RcCvE0G7sWLlLZDB"
@@ -2946,7 +3012,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 178451,
       "name": "Firewalk",
       "url": "https://open.spotify.com/track/1NKpQ4bVY4rsTdUl7f4Cp7"
@@ -2990,7 +3056,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 187384,
       "name": "Forever (feat. Elley Duh\u00e9)",
       "url": "https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC"
@@ -3247,6 +3313,28 @@
     },
     {
       "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+    },
+    {
+      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
       },
@@ -3262,7 +3350,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 208604,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
@@ -3540,7 +3628,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 234418,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1NZKXJskXhXJivaH6JcwWa"
@@ -3774,6 +3862,24 @@
       "duration_ms": 176609,
       "name": "HISTORY",
       "url": "https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd"
     },
     {
       "album": {
@@ -4462,7 +4568,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 158909,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/0ACfiXjjR1eqnxbqPxrdIC"
@@ -4496,6 +4602,24 @@
       "duration_ms": 150476,
       "name": "In Your Arms (For An Angel)",
       "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
+    },
+    {
+      "album": {
+        "name": "Fictional Illustrations",
+        "url": "https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163738,
+      "name": "Infinitely Falling",
+      "url": "https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds"
     },
     {
       "album": {
@@ -5264,7 +5388,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 224615,
       "name": "Luv Me A Little",
       "url": "https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT"
@@ -5723,6 +5847,24 @@
     },
     {
       "album": {
+        "name": "YOU FEAR THE GOD THAT LOVES YOU",
+        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147568,
+      "name": "more than friends",
+      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
+    },
+    {
+      "album": {
         "name": "Most People",
         "url": "https://open.spotify.com/album/2XQR2HRnaF8F7NnTGVpWTt"
       },
@@ -5942,7 +6084,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 167419,
       "name": "Never Gonna Not Dance Again - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
@@ -6462,7 +6604,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 168094,
       "name": "Oops",
       "url": "https://open.spotify.com/track/7fdGGQpQQxwDhgurhKDWVL"
@@ -6974,7 +7116,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 195262,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK"
@@ -8086,7 +8228,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 173069,
       "name": "Something\u2019s Coming",
       "url": "https://open.spotify.com/track/4F17nB9GKTSPfocx9D7jHx"
@@ -8658,6 +8800,28 @@
       "duration_ms": 143000,
       "name": "Sweetest Pie - David Guetta Dance Remix",
       "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
+    },
+    {
+      "album": {
+        "name": "T-Shirt (Ty Sunderland Remix)",
+        "url": "https://open.spotify.com/album/6lYFxxTIYvyOMhNvoyJ8un"
+      },
+      "artists": [
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        },
+        {
+          "name": "Ty Sunderland",
+          "url": "https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166879,
+      "name": "T-Shirt - Ty Sunderland Remix",
+      "url": "https://open.spotify.com/track/5zHHUDly1sXAYC75TAWv7z"
     },
     {
       "album": {
@@ -9353,6 +9517,24 @@
     },
     {
       "album": {
+        "name": "Underneath My Raincoat",
+        "url": "https://open.spotify.com/album/3KCbQ55wsoOhnlTP5vHntQ"
+      },
+      "artists": [
+        {
+          "name": "Studio Killers",
+          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Underneath My Raincoat",
+      "url": "https://open.spotify.com/track/3xAzEO2IhH1OXctIwSYYBK"
+    },
+    {
+      "album": {
         "name": "Uninvited",
         "url": "https://open.spotify.com/album/1CRxGPP7ZLPOLlLVpSCqOj"
       },
@@ -9481,6 +9663,28 @@
     },
     {
       "album": {
+        "name": "Waiting (feat. Stephen Puth)",
+        "url": "https://open.spotify.com/album/1pbmnH9n46MSq7aTHRolQ4"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194763,
+      "name": "Waiting (feat. Stephen Puth)",
+      "url": "https://open.spotify.com/track/7yAk9XlktYexlz5RCMbfXl"
+    },
+    {
+      "album": {
         "name": "Waiting For A Lifetime",
         "url": "https://open.spotify.com/album/31x7YGZaSAiRhSBzh0uVZA"
       },
@@ -9562,6 +9766,28 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137999,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
     },
     {
       "album": {
@@ -10020,6 +10246,28 @@
       "duration_ms": 187258,
       "name": "Wish You Were Here (feat. John K)",
       "url": "https://open.spotify.com/track/0B5Ono47jEQSIPy8kuVCzp"
+    },
+    {
+      "album": {
+        "name": "With All My Heart",
+        "url": "https://open.spotify.com/album/7t2qYxQeNwbMVdc5wwaSNa"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "With All My Heart",
+      "url": "https://open.spotify.com/track/1ENQZlb9iVUnCoN2QtI77e"
     },
     {
       "album": {

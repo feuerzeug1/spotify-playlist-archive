@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 
 > Acoustic versions of well\-known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,775 likes - 94 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,812 likes - 94 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 87 | [Supermarket Flowers](https://open.spotify.com/track/10a6GUpyRLdfadUPRL5wBg) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw), [Sad Boy](https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC) | [Covers EP](https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs) | 2:25 |
 | 88 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 |
 | 89 | [Somewhere Only We Know](https://open.spotify.com/track/5AXyf6LS4D7QYp3JAJKW7F) | [Reneé Dominique](https://open.spotify.com/artist/2Xr7M6vawpp6zwKOMU7iBU) | [Somewhere Only We Know](https://open.spotify.com/album/7xIuo7UM59SF3bxvNODu7Q) | 3:49 |
-| 90 | [Happier](https://open.spotify.com/track/5lbN98X0C9JZUCWFUYO6wo) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/09zdHg6FMVu1njcLIpX65b) | 2:29 |
+| 90 | [Happier](https://open.spotify.com/track/5lbN98X0C9JZUCWFUYO6wo) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/09zdHg6FMVu1njcLIpX65b) | 2:29 |
 | 91 | [I'm the One \- Acoustic](https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx) | [Sunset & Highland](https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT) | [I'm the One \(Acoustic\)](https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe) | 3:53 |
 | 92 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/5PacEiW4GT9mLA1d0W95tA) | [Vivid Color](https://open.spotify.com/artist/4qXCADLD9pMWPUkOBCLQ9H) | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/album/4mR4c3Ljm6Ch58uEOiGk1N) | 3:17 |
 | 93 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 |
 | 94 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 |
 
-Snapshot ID: `MTY3ODk3Mjg2OSwwMDAwMDAwMGViYzVjNWY5ZGU3Yzk2NWE1OWMwOWM4NWIwODYzOTMx`
+Snapshot ID: `MTY3ODk3Mjg2OSwwMDAwMDAwMDJmZjQxNGZjYzViYTQ2YzBiZmMzMDBhMGQ2ZDI2ODRj`

@@ -3824,7 +3824,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 143396,
       "name": "Klosure",
       "url": "https://open.spotify.com/track/5JWemdcN2Tzdy1ElYYvSqM"
@@ -4110,7 +4110,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 246213,
       "name": "Love Sosa",
       "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
@@ -4388,6 +4388,32 @@
       "duration_ms": 149266,
       "name": "MEET ME THERE",
       "url": "https://open.spotify.com/track/4L7f6dW9LXDyqzaFOkMv0v"
+    },
+    {
+      "album": {
+        "name": "WAR LORD",
+        "url": "https://open.spotify.com/album/2fSrLZtl8ASjDyohkKT8LG"
+      },
+      "artists": [
+        {
+          "name": "Talibando",
+          "url": "https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203982,
+      "name": "Millions (feat. Veeze & LUCKI)",
+      "url": "https://open.spotify.com/track/4FueImbcTZOR7aC9FidrdT"
     },
     {
       "album": {
@@ -4838,7 +4864,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 175018,
       "name": "No L's",
       "url": "https://open.spotify.com/track/12CNybio0Bxean3F3uYugU"
@@ -5362,7 +5388,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 136455,
       "name": "Pay 2 Play",
       "url": "https://open.spotify.com/track/75Aulubu1vDk9qYLkDn2DB"
@@ -7215,6 +7241,24 @@
     },
     {
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172218,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
+    },
+    {
+      "album": {
         "name": "Back On Track",
         "url": "https://open.spotify.com/album/1A6RGXkdrjY5IKwaMU53OZ"
       },
@@ -7699,6 +7743,28 @@
     },
     {
       "album": {
+        "name": "Way Too Hot (feat. DCG Msavv)",
+        "url": "https://open.spotify.com/album/0ShHKHwRejTIbAG4BSkFIP"
+      },
+      "artists": [
+        {
+          "name": "DCG BROTHERS",
+          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
+        },
+        {
+          "name": "DCG Msavv",
+          "url": "https://open.spotify.com/artist/0UXXT0Mk3hY49GSk9VyUmU"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188466,
+      "name": "Way Too Hot (feat. DCG Msavv)",
+      "url": "https://open.spotify.com/track/0gbJ0BNVj4Oq2bV8abqnc3"
+    },
+    {
+      "album": {
         "name": "Way Too Petty",
         "url": "https://open.spotify.com/album/5jd5UY4vC6PoWb3Iw4owqF"
       },
@@ -7964,6 +8030,28 @@
       "duration_ms": 151275,
       "name": "Wicked Inna RaQ",
       "url": "https://open.spotify.com/track/6Qc6KIe2HMCtHAE8M7PC4s"
+    },
+    {
+      "album": {
+        "name": "Wicked Inna RaQ 2",
+        "url": "https://open.spotify.com/album/5sDveIPYQRR3qMI6KNV54x"
+      },
+      "artists": [
+        {
+          "name": "Lil Nuu",
+          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151099,
+      "name": "Wicked Inna RaQ 2 (with G Herbo)",
+      "url": "https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0"
     },
     {
       "album": {

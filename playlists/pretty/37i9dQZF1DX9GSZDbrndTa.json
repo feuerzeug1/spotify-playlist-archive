@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 79363,
+  "num_followers": 79481,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDBkMTkyMjc1OGI4OWZjZDI1ZjI0NWI2OTk3NmEyZmQz",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDZmOWY1OGJiZWU4MmRhMGQ2YjFlMTQ2NGUyNzRhNWQ2",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -503,18 +503,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Swiss Nights, Vol. 3",
-        "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
+        "name": "Clifford Brown And Max Roach",
+        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
         }
       ],
-      "duration_ms": 762666,
-      "name": "Tenor madness",
-      "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
+      "duration_ms": 414266,
+      "name": "The Blues Walk",
+      "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -535,22 +539,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Clifford Brown And Max Roach",
-        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
+        "name": "Swiss Nights, Vol. 3",
+        "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 414266,
-      "name": "The Blues Walk",
-      "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
+      "duration_ms": 762666,
+      "name": "Tenor madness",
+      "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
     },
     {
       "added_at": "2020-10-12 18:15:54",

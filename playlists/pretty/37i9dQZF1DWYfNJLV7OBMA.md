@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,256 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,330 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 31 | [Maa Nubata Pemkale](https://open.spotify.com/track/48KHBgC6d9sGXg7SLcoCF9) | [Dinesh Tharanga](https://open.spotify.com/artist/0JCmse6ZKrAURE9VcS0Mz1) | [Maa Nubata Pemkale](https://open.spotify.com/album/4X6E5jrpFM06LjxLYXi9Ey) | 4:33 |
 | 32 | [Sansarini](https://open.spotify.com/track/7iSpuul3P4BzaxFPVFFRkr) | [Yasas Medagedara](https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9) | [Sansarini](https://open.spotify.com/album/6gI0AFK6lYIS2pRzwTMZf9) | 5:05 |
 | 33 | [Api Nam Thawei](https://open.spotify.com/track/5UqShJ81oQHNO6BZL5m9Us) | [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2) | [Api Nam Thawei](https://open.spotify.com/album/1NH5RHIefdfS4NVE0xxDIx) | 3:27 |
-| 34 | [Danena Thuru Maa](https://open.spotify.com/track/3fPCob1jPMN9QmYDXwikvx) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u) | [Danena Thuru Maa](https://open.spotify.com/album/4fA65iLnPvYCeYLvIMPizQ) | 3:55 |
+| 34 | [Danena Thuru Maa](https://open.spotify.com/track/0HSAlDJA3C54woJgIUPice) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Manuranga Wijesekara](https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw), [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u), [Amith Guru](https://open.spotify.com/artist/7n7yFD0oaBaphaVWZpfbbT) | [Danena Thuru Maa](https://open.spotify.com/album/0V3JnYuxmhAWEkNniY2lii) | 3:55 |
 | 35 | [Your Eyes](https://open.spotify.com/track/5pebgx4IJ5YvZH2sYOHDRf) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [Taqiya Zaman](https://open.spotify.com/artist/0PabKDsomoLc4uPtBGNodI) | [Your Eyes](https://open.spotify.com/album/04NKJp5REYxjBzQdNAbByt) | 1:47 |
 | 36 | [Laga Lagatama](https://open.spotify.com/track/5wFA2pMbE1JkqWUf3SCqQ9) | [Thiwanka Dilshan](https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ) | [Laga Lagatama](https://open.spotify.com/album/74o0KKa42C3paQXeneQ8oz) | 3:13 |
 | 37 | [Ayemath Adaren](https://open.spotify.com/track/5AFdPg3PlQGncQLq0z1AWM) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Athma Liyanage](https://open.spotify.com/artist/5VCJFF8MGzfQI7EjbuV1nX) | [Ayemath Adaren](https://open.spotify.com/album/0VRegvF3mP3k0Blm3oD1HB) | 3:57 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 64 | [Pawela Kodu Akase](https://open.spotify.com/track/3IfseEvp5VAI6Bcc0NZWGe) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Samitha Mudunkotuwa](https://open.spotify.com/artist/4JZtZyM8iEjVLR56DgrI4c) | [Pawela Kodu Akase](https://open.spotify.com/album/5yM7fEWom6JO1g780noZ3d) | 3:57 |
 | 65 | [Heena Maka](https://open.spotify.com/track/1dC7Q5yBpQ063UrIWpAB3N) | [Harshadewa Ariyasinghe](https://open.spotify.com/artist/40v9sLBiwQOZdLwRhTUjQL), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Heena Maka](https://open.spotify.com/album/6Et4v4uBSdKMFYkGtIYLkm) | 4:17 |
 
-Snapshot ID: `MTY3NzQ4NDM5OSwwMDAwMDAwMDFjMWIyOTc1NWI3MWNjZDBmOGNkNzQ5MjJkYTYyN2I1`
+Snapshot ID: `MTY3NzQ4NDM5OSwwMDAwMDAwMDFlYmUwM2UzNDk1NGU3MDAwZTczMDZiZDFiZTU1NzIx`

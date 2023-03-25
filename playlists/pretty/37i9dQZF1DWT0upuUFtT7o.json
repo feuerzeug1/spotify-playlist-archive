@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: King Isis",
-  "num_followers": 172877,
+  "num_followers": 173022,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ0Njg1MSwwMDAwMDAwMDM3MTAxNDBhYzQ3ZWY5MjcyMTM0YWU1YmRhZmUzMmQ3",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDI1NTZkOWNiNzFmOTI0ZmRkYzU4ZTE5ZWFkY2RjNTdm",
   "tracks": [
     {
       "added_at": "2023-03-22 01:00:51",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Grapevines",
+        "url": "https://open.spotify.com/album/5bwjTOqi9KoP98e4vTOlQl"
+      },
+      "artists": [
+        {
+          "name": "Rozie Ramati",
+          "url": "https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H"
+        }
+      ],
+      "duration_ms": 149995,
+      "name": "Grapevines",
+      "url": "https://open.spotify.com/track/4BujvDe0uFwN7MC1yHuG6n"
+    },
+    {
       "added_at": "2023-03-22 01:00:51",
       "album": {
         "name": "number own",
@@ -119,6 +135,22 @@
       "duration_ms": 167086,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/2vFFhmfdiIRAgp1ZHWsBT2"
+    },
+    {
+      "added_at": "2023-03-23 22:13:49",
+      "album": {
+        "name": "little fingers/lungs (demo)",
+        "url": "https://open.spotify.com/album/40aWFH4lt0LIlqXc9v52Xa"
+      },
+      "artists": [
+        {
+          "name": "rockstar1000",
+          "url": "https://open.spotify.com/artist/78isn9U2jo3LrPkq3zPYEZ"
+        }
+      ],
+      "duration_ms": 259782,
+      "name": "little fingers - demo",
+      "url": "https://open.spotify.com/track/4kK2y1Mpfivr9gdWfh71kU"
     },
     {
       "added_at": "2023-03-15 04:37:29",
@@ -196,8 +228,8 @@
           "url": "https://open.spotify.com/artist/0pUSqI1qNoNmKcoijEeF81"
         },
         {
-          "name": "Cam the Chef",
-          "url": "https://open.spotify.com/artist/1089ucpwKxqO6tPog0dqkp"
+          "name": "Cam, the Chef",
+          "url": "https://open.spotify.com/artist/4Hy31yhFRij69QK5gWmRUB"
         },
         {
           "name": "As\u00e9 Simone",

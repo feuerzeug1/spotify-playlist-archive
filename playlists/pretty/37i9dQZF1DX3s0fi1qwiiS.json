@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1Njk5MSwwMDAwMDAwMGI0YzU3M2U5OTdlZmI2MTQ0ODlhYTBjZWM5NGMwNjkw",
+  "snapshot_id": "MTY2OTk1Njk5MSwwMDAwMDAwMGU5Y2FhNDQxYjU1MDY1ZTJkMDU0MmFlYjRlYjc4NmRm",
   "tracks": [
     {
       "added_at": "2022-12-02 04:56:31",
@@ -304,12 +304,12 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Pappy Kojo",
-          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
-        },
-        {
           "name": "Patapaa",
           "url": "https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9"
+        },
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
         }
       ],
       "duration_ms": 206829,

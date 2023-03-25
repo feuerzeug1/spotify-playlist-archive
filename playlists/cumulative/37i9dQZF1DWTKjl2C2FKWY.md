@@ -4,13 +4,14 @@
 
 > Soft acoustic sounds for your massage session.
 
-141 songs - 7 hr 58 min
+144 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Baby One More Time \- Acoustic Version](https://open.spotify.com/track/2ta83B4eCsS7PFuBpahkTV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [...Baby One More Time](https://open.spotify.com/album/0X8CWMaapiIEowia7TUbBM) | 3:40 | 2022-12-06 | 2023-02-18 |
 | [21 Guns](https://open.spotify.com/track/0lczO04vbk2ZiNvAqzUUQ0) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [21 Guns](https://open.spotify.com/album/2bhmc2HWr3SFTNKpGg9fxw) | 4:03 | 2022-08-29 | 2023-02-18 |
 | [A Sky Full of Stars](https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [A Sky Full of Stars](https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ) | 2:45 | 2022-08-29 |  |
+| [A Thousand Miles](https://open.spotify.com/track/3Pi5zbgCtaUN2uFCS8toqo) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [A Thousand Miles](https://open.spotify.com/album/1bde2esHMYQPdFAngKDrDz) | 3:51 | 2023-03-23 |  |
 | [A thousand Years \- Acoustic](https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:18 | 2022-10-14 |  |
 | [All of me \- Acoustic](https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [All of me \- Acoustic](https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd) | 4:28 | 2023-02-17 |  |
 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 | 2022-12-06 |  |
@@ -30,6 +31,7 @@
 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2022-10-14 |  |
 | [Blue Moon](https://open.spotify.com/track/2RwTeL5zb473lvRys6xtbZ) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Blue Moon](https://open.spotify.com/album/0luROvxmUzlDy7VwFRAw6D) | 2:04 | 2022-08-29 |  |
 | [breakeven](https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [breakeven](https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO) | 3:30 | 2023-01-05 |  |
+| [By Your Side](https://open.spotify.com/track/6rOVa2IctGd0B4mdP66Ym5) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [By Your Side](https://open.spotify.com/album/2P9MkaULMEtRZi8BWUpNZ1) | 3:48 | 2023-03-23 |  |
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-08-29 |  |
 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Call Me Maybe \- Acoustic](https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr) | 3:30 | 2022-12-06 |  |
 | [Capital Letters](https://open.spotify.com/track/7gIbckZg2u07UCx5GH1cyX) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [Kaitie Forbes](https://open.spotify.com/artist/0oT12Br0BVmBsLXE0Xg9Aa) | [Capital Letters](https://open.spotify.com/album/0XESanWE2FhR61CX3wBAWQ) | 3:42 | 2022-08-29 |  |
@@ -53,6 +55,7 @@
 | [Fred Astaire](https://open.spotify.com/track/2zBQEsCFb0OONLrMe7dUgi) | [Swimmingly](https://open.spotify.com/artist/5TwNdcFYWfZtvq3uUPKvTg) | [Fred Astaire](https://open.spotify.com/album/0rZkEAoPLNqUJbjxr7O0R6) | 2:46 | 2022-08-29 | 2023-02-15 |
 | [Fred Astaire](https://open.spotify.com/track/3ADwI3xhf3PW2TDHFN9Y4G) | [Swimmingly](https://open.spotify.com/artist/5TwNdcFYWfZtvq3uUPKvTg) | [Fred Astaire](https://open.spotify.com/album/0fJkgVfAzoT2Mfr4vpxD8x) | 2:46 | 2023-01-05 |  |
 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 | 2022-08-29 | 2022-12-07 |
+| [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ) | 2:20 | 2023-03-23 |  |
 | [Glycerine](https://open.spotify.com/track/5oyDs4s7zWcvPyOr6aenCW) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Glycerine](https://open.spotify.com/album/26RqcmCTKtxEo3W0ADbuSY) | 2:59 | 2022-08-29 |  |
 | [Got You \(Where I Want You\)](https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Got You \(Where I Want You\)](https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd) | 3:13 | 2022-08-29 |  |
 | [Grow as We Go](https://open.spotify.com/track/5M6FVA0CEuN7iNqcq6LkG3) | [Finding Us](https://open.spotify.com/artist/3tuF9lI7xxtzNKt33uqxho), [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep) | [Grow as We Go](https://open.spotify.com/album/19VfOkSCXKOQM5yvYOiWCX) | 4:23 | 2022-08-29 |  |

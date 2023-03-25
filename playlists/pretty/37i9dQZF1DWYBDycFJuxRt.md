@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 米津玄師 \*👉 <a href="https://spice.eplus.jp/articles/316198?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,997 likes - 78 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,208 likes - 78 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 77 | [花弁](https://open.spotify.com/track/1n59uD2gNZ3STjfpnHos99) | [リサイクルシテネ](https://open.spotify.com/artist/0QbU0rKktSe0TN7rDN8EnZ) | [花弁](https://open.spotify.com/album/6f20YADoL8lzkUCZ0pUp68) | 5:02 |
 | 78 | [ブルーグラス](https://open.spotify.com/track/4kuKGST6Pj4iMZBpO6BYl4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [LOSE LOOSE Day](https://open.spotify.com/album/6BXKCdnItF9gB7LfPZyQnY) | 4:24 |
 
-Snapshot ID: `MTY3OTQ4NjI5NCwwMDAwMDAwMDcyOTgyZTVmMzE3MDdjZTY2YjExYmFmZWM4OGI0MGIw`
+Snapshot ID: `MTY3OTQ4NjI5NCwwMDAwMDAwMDNlOWNjNWJjYTM1YThlYjc4YTU5OTgyNjY4Yzg2NDMz`

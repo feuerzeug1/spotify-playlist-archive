@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,003 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,137 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 60 | [My Life](https://open.spotify.com/track/62TzmJFxjBN8CjXfxN2P4n) | [Noriko Miyamoto](https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk), [Isao Suzuki](https://open.spotify.com/artist/19Jnq7URlFKcxRPe9cm1pb) | [Push](https://open.spotify.com/album/5CXBCsYUVcbeFHisHsBfnA) | 6:09 |
 | 61 | [Roda](https://open.spotify.com/track/3HShBNV3YuaHtp0LLgbtoe) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Samba, Jazz & Bossa](https://open.spotify.com/album/5K9kSr6Nb2DZuf0Ic7t6qZ) | 2:34 |
 | 62 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
-| 63 | [Dalkavuk \- Barış K Edit](https://open.spotify.com/track/0vNFCqtFXELQ7k9N8xHUUL) | [Şenay](https://open.spotify.com/artist/70C9Hem4LtSZElO9GTp42g), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [ISTANBUL70 : Disco, Psych, Folk Edits by Barış K Vol.5](https://open.spotify.com/album/3cTxSyG6EOTTkzcOE3XQS2) | 5:27 |
+| 63 | [Dalkavuk \- Barış K Edit](https://open.spotify.com/track/03QFsLCKVI0E9Ogh7gPYAI) | [Şenay](https://open.spotify.com/artist/70C9Hem4LtSZElO9GTp42g), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [ISTANBUL70 : Disco, Psych, Folk Edits by Barış K Vol.5](https://open.spotify.com/album/2JphzqkOWEIb2OSFl9MVzJ) | 5:27 |
 | 64 | [Ecology](https://open.spotify.com/track/0xilsk1U8P0bEgoYKfI43H) | [Anubis](https://open.spotify.com/artist/4fhyQnc4W80p5HEIxD6InR) | [Ecology](https://open.spotify.com/album/4PSuRfE6I4iCoH1qD5GABM) | 3:58 |
 | 65 | [I Know You Rider](https://open.spotify.com/track/3v85BrHUuCDd7Xwp04vMzB) | [Gale Garnett](https://open.spotify.com/artist/5cJgEhhKGk7kiSA6O8Qzyc) | [My Kind of Folk Songs](https://open.spotify.com/album/6oOUyNNmvvz3jwp7QRGbrt) | 2:23 |
 | 66 | [54\-46 That's My Number](https://open.spotify.com/track/5UDsHnUvshUv5EuPhDTRqb) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:21 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 101 | [Vidigal](https://open.spotify.com/track/4y2Va0sLjrmSb0iAovAkmP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Gafieira Universal](https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3) | 3:37 |
 | 102 | [Drum Song](https://open.spotify.com/track/1MbIiINcF2KPIHvEPoEz7m) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 5:10 |
 | 103 | [Hulla\-Hulla](https://open.spotify.com/track/2smK7YkC64AgY9B3BIeVz1) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Build Up](https://open.spotify.com/album/0pR1MJzQpndwio4YDWNvcF) | 3:04 |
-| 104 | [The Coffee Cola Song](https://open.spotify.com/track/3GYBtgclotwzSnd3u21VY7) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music \(1975\-1982\)](https://open.spotify.com/album/7w99Aae1tYSTSb1OiDnxYY) | 5:06 |
+| 104 | [The Coffee Cola Song](https://open.spotify.com/track/3Y9XSINHLe5C8XI5kNmCZI) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Afro Exotique \- Adventures In The Leftfield, Africa 1972\-82](https://open.spotify.com/album/06l60JOH4AVnCVX4UeIhXi) | 5:06 |
 | 105 | [Free My People](https://open.spotify.com/track/49qxdrRnO6980P99Ujl1Wz) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/4d3MEgvIZKX9J5oZmIDp9G) | 4:52 |
 | 106 | [Goca Dünya](https://open.spotify.com/track/7jnJSw2SKsNibByy0PeYLC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Goca Dünya](https://open.spotify.com/album/29PYALK2CuniRSxZQdeU1G) | 3:57 |
 | 107 | [Pontos De Luz](https://open.spotify.com/track/4ABzNwtzvzvXsQMBIrdF39) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [India](https://open.spotify.com/album/7bxZ0kvGIbJRvBGFrKooub) | 2:41 |
@@ -1026,7 +1026,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1016 | [Tierra de Poetas \- Dub Mix](https://open.spotify.com/track/2zN0CtuRn8Xj6mDHKcU5dD) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita \(El Fin del Mundo\), Vol\. II & III](https://open.spotify.com/album/6PxQh3kyXeo5kuWnefYaPZ) | 4:23 |
 | 1017 | [Rondando Tu Esquina](https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 2:38 |
 | 1018 | [Cantarito](https://open.spotify.com/track/5ubvcUYndr5yA09c1OynaB) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Cantarito](https://open.spotify.com/album/3hIoaR2EvrJqX8ZT78kwVb) | 5:24 |
-| 1019 | [Pienso En Ti](https://open.spotify.com/track/3JWvrmokQ2VUYqW1IUMDaH) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Pienso En Ti](https://open.spotify.com/album/373DEHk5WPJkSV2tqGw9xc) | 2:34 |
+| 1019 | [Pienso en Ti](https://open.spotify.com/track/5MTqGnSwYu60DcBOSmAXka) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Pienso en Ti](https://open.spotify.com/album/7l4bjoSXFSkUVtJZONiosI) | 2:34 |
 | 1020 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
 | 1021 | [Aloha! \(Main Title Theme\) \- from “The White Lotus: Season 1”](https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:19 |
 | 1022 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDdhYjJiODkxYTI1ZmIxMjY1NjhiMTg5NGE4MjI0NWVl`
+Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMGRjYzlhMGViMjc1YWM3NDc3YmQ5Y2ZlYjc3ZjVmZmEz`

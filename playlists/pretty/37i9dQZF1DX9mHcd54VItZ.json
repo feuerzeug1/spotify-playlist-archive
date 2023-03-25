@@ -1,12 +1,12 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR?si=-uklwWiaQ2GaNJ-TJp-SyQ\">SAKKIE</a> & <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=DouTRLXgTSGA1YhBwm4zhA\">Francois van Coke</a>",
-  "num_followers": 12449,
+  "num_followers": 12465,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNzQ3MSwwMDAwMDAwMDQ1YjAyMDI0YWU5MTdlMzQxMjA4YTYwMjUzMmUwZDMz",
+  "snapshot_id": "MTY3OTYwODc0MCwwMDAwMDAwMDI3NjI4NzY0Y2ExZjlmNzg5YjY1MGJlNmQ1N2ZmZWRk",
   "tracks": [
     {
       "added_at": "2023-03-16 21:59:00",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/6ehCbe3TFJmwqV5aNTYlCD"
     },
     {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Three of Swords",
+        "url": "https://open.spotify.com/album/3kT07KBVwJev5xdhxg8Sl2"
+      },
+      "artists": [
+        {
+          "name": "Saturn Return",
+          "url": "https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt"
+        }
+      ],
+      "duration_ms": 210881,
+      "name": "I Hate Your Shirt",
+      "url": "https://open.spotify.com/track/1o6pwsvHhE0siWoXUDkDiR"
+    },
+    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "Toe Roep Ek Jou Naam Velvet Blohm",
@@ -79,22 +95,6 @@
       "duration_ms": 225160,
       "name": "Toe Roep Ek Jou Naam",
       "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Bittersomerson",
-        "url": "https://open.spotify.com/album/4nBvLruXuk9NGPo8EeUwPt"
-      },
-      "artists": [
-        {
-          "name": "Gevoel van Veiligheid",
-          "url": "https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS"
-        }
-      ],
-      "duration_ms": 181728,
-      "name": "Bittersomerson",
-      "url": "https://open.spotify.com/track/7lC9qPhTnfYYjXqeSKun7y"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -127,6 +127,22 @@
       "duration_ms": 239812,
       "name": "Mans Best Friend",
       "url": "https://open.spotify.com/track/6U4udqe4YtkSnRwMoUkqTE"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/2TJlitKnHY894L95PfqLie"
+      },
+      "artists": [
+        {
+          "name": "3's and 7's",
+          "url": "https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H"
+        }
+      ],
+      "duration_ms": 201097,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/5YL0AEgbd1fYMS5Jrgw10E"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -185,6 +201,22 @@
       "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
     },
     {
+      "added_at": "2023-02-16 21:59:00",
+      "album": {
+        "name": "Bittersomerson",
+        "url": "https://open.spotify.com/album/4nBvLruXuk9NGPo8EeUwPt"
+      },
+      "artists": [
+        {
+          "name": "Gevoel van Veiligheid",
+          "url": "https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS"
+        }
+      ],
+      "duration_ms": 181728,
+      "name": "Bittersomerson",
+      "url": "https://open.spotify.com/track/7lC9qPhTnfYYjXqeSKun7y"
+    },
+    {
       "added_at": "2023-03-16 21:59:00",
       "album": {
         "name": "Right in Front of My Eyes",
@@ -231,6 +263,26 @@
       "duration_ms": 232902,
       "name": "Taste of Freedom",
       "url": "https://open.spotify.com/track/57z2oHMHeYZqjr3db5dspc"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Tell All Your Friends",
+        "url": "https://open.spotify.com/album/3oJrry8StQp0sbbSOdDRUb"
+      },
+      "artists": [
+        {
+          "name": "Brogan the band",
+          "url": "https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc"
+        },
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Tell All Your Friends",
+      "url": "https://open.spotify.com/track/4ppWkfiHPj9mAiH2KNW6wL"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -281,36 +333,20 @@
       "url": "https://open.spotify.com/track/6raknpOUrMns81fs28m5xl"
     },
     {
-      "added_at": "2023-03-16 21:59:00",
+      "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "Story of the year",
-        "url": "https://open.spotify.com/album/4Fv1oewYh21SU5TVTFQWxY"
+        "name": "Road Rage",
+        "url": "https://open.spotify.com/album/70cYROF5kbijI6nMeppkmd"
       },
       "artists": [
         {
-          "name": "Gangsterdam",
-          "url": "https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS"
+          "name": "Hawema",
+          "url": "https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK"
         }
       ],
-      "duration_ms": 199986,
-      "name": "Story of the year",
-      "url": "https://open.spotify.com/track/0YhlYDi66P9L6QaLib1h6t"
-    },
-    {
-      "added_at": "2023-02-21 08:56:24",
-      "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/3Bw3SUtousZqEFxBOM2PM3"
-      },
-      "artists": [
-        {
-          "name": "Oceans of Angels",
-          "url": "https://open.spotify.com/artist/043vNvW2Jlt2J03d0tJJPY"
-        }
-      ],
-      "duration_ms": 237875,
-      "name": "Loaded Gun",
-      "url": "https://open.spotify.com/track/2plDiIgkQP195XUrFRTlNj"
+      "duration_ms": 180375,
+      "name": "Road Rage",
+      "url": "https://open.spotify.com/track/3mMMCNWktpvnC25u96tZt0"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -327,22 +363,6 @@
       "duration_ms": 195117,
       "name": "Damwal",
       "url": "https://open.spotify.com/track/2JMDWqOSByeWD9f2SpyXtK"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Dead Man's Son",
-        "url": "https://open.spotify.com/album/253Z7aBKpm5kgYSKO1fEpI"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Son",
-          "url": "https://open.spotify.com/artist/56BAnDZ3dSkEonH2yShhSx"
-        }
-      ],
-      "duration_ms": 227931,
-      "name": "One Lane Road",
-      "url": "https://open.spotify.com/track/7jsZdatNbVONa1V6tF0Tm3"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -393,20 +413,20 @@
       "url": "https://open.spotify.com/track/41HTRLeK7GD9251tiuX1vX"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
+      "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "CUPID",
-        "url": "https://open.spotify.com/album/5kFsmjiNj6rH0iAL8EUNpF"
+        "name": "Carry The Sun",
+        "url": "https://open.spotify.com/album/12ipKJwW2eSQiYjmSpPUdS"
       },
       "artists": [
         {
-          "name": "Keanan Eksteen",
-          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+          "name": "4am",
+          "url": "https://open.spotify.com/artist/6Et1m4ITGVs524OB1tBr7Z"
         }
       ],
-      "duration_ms": 172760,
-      "name": "CUPID",
-      "url": "https://open.spotify.com/track/5JOQ7Gasb2n4pGPBskx2xl"
+      "duration_ms": 184325,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/3VdOVX3NblTOCcm7FmoXZe"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -565,6 +585,22 @@
       "url": "https://open.spotify.com/track/7vdiUC7BzKmBqsSEJsbnbr"
     },
     {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "STUPID",
+        "url": "https://open.spotify.com/album/33aejrX5zsSzKJTvNyMqvR"
+      },
+      "artists": [
+        {
+          "name": "Rachel Ralphs",
+          "url": "https://open.spotify.com/artist/45AKtfze9DRVc86JgbtMT6"
+        }
+      ],
+      "duration_ms": 175542,
+      "name": "STUPID",
+      "url": "https://open.spotify.com/track/5BQUqHbrXfVOkxPXk8wOA5"
+    },
+    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "Down",
@@ -579,6 +615,22 @@
       "duration_ms": 240133,
       "name": "Down",
       "url": "https://open.spotify.com/track/5HZHEJr2lB9UuJdTnJ2LlC"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Caligulater",
+        "url": "https://open.spotify.com/album/75a8zGSywMRtgsQlb1nQKM"
+      },
+      "artists": [
+        {
+          "name": "Acid Magus",
+          "url": "https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2"
+        }
+      ],
+      "duration_ms": 413153,
+      "name": "Caligulater",
+      "url": "https://open.spotify.com/track/6SK3qzRQe8xBo9xNgUhUsO"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -667,22 +719,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "Braambos Radio",
-        "url": "https://open.spotify.com/album/7DUqi6xcyUDNkdCS4gvKal"
-      },
-      "artists": [
-        {
-          "name": "Frans Karoo",
-          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "In Die Son",
-      "url": "https://open.spotify.com/track/3FWouV30HIUtD9cs89Aiou"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "Fight For Me",
         "url": "https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta"
       },
@@ -763,22 +799,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "Cherry Glitter",
-        "url": "https://open.spotify.com/album/7EqFfWWUmsqSI0csBwIasf"
-      },
-      "artists": [
-        {
-          "name": "Highway Apostles",
-          "url": "https://open.spotify.com/artist/66GDNl05VRYiOnkKgVfOEE"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Cherry Glitter",
-      "url": "https://open.spotify.com/track/2V57HqcRwmG9wYr8rcFbAa"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "IN TIME",
         "url": "https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl"
       },
@@ -791,22 +811,6 @@
       "duration_ms": 163100,
       "name": "IN TIME",
       "url": "https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Within the Margin of Error",
-        "url": "https://open.spotify.com/album/5qhaaBLxoGO2D7Gi4Rd6Dr"
-      },
-      "artists": [
-        {
-          "name": "Parable Fifteen",
-          "url": "https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg"
     },
     {
       "added_at": "2023-02-16 21:59:00",

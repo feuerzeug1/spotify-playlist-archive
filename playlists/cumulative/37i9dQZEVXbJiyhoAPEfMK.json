@@ -5532,7 +5532,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
@@ -7708,7 +7708,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 175797,
       "name": "Djalli",
       "url": "https://open.spotify.com/track/0g0p38SIuWCRjxdZSdWI32"
@@ -9948,7 +9948,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -12960,6 +12960,24 @@
       "duration_ms": 158463,
       "name": "I Didn't Change My Number",
       "url": "https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/7IQX2Omt6aRPYwLWtZYDWa"
+      },
+      "artists": [
+        {
+          "name": "LLUISA",
+          "url": "https://open.spotify.com/artist/7ur9WUsgFMxnJAKojdVBeg"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1CR43xdfE45HWWxB8jntj7"
     },
     {
       "album": {
@@ -24233,6 +24251,24 @@
     },
     {
       "album": {
+        "name": "Rain and thunder",
+        "url": "https://open.spotify.com/album/49XBlcUlXQWa76r53Vpn2M"
+      },
+      "artists": [
+        {
+          "name": "mazo7",
+          "url": "https://open.spotify.com/artist/6zN4pgzAh82Ww6X6sHan6R"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60055,
+      "name": "Rain and thunder",
+      "url": "https://open.spotify.com/track/2QfdP0f9nlZvxq0qtMAB8K"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -29378,7 +29414,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"

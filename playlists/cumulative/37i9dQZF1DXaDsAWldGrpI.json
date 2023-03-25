@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "29: Written In Stone (Live From Music City)",
+        "url": "https://open.spotify.com/album/67o5CFSmkDlqmeA2vkvZx8"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "29 - Live From Music City",
+      "url": "https://open.spotify.com/track/78ETXDXipfmM7S9uw0CSwC"
+    },
+    {
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/4uQJWohk7ZtN5yCIbWqIYm"
       },

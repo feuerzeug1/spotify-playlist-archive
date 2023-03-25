@@ -1,13 +1,45 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 43227,
+  "num_followers": 43300,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE2ODc0MywwMDAwMDAwMDQxNjVjN2ZlZjNkOTYyYjllMzFlNTQ0MmYxN2I3NzA2",
+  "snapshot_id": "MTY3OTY1NTk2MCwwMDAwMDAwMDZiYTE0NjE3ZGZmMDc0ZDIzMDlmYzJiZWY3ODE3OTI5",
   "tracks": [
+    {
+      "added_at": "2023-03-24 11:06:00",
+      "album": {
+        "name": "error",
+        "url": "https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "duration_ms": 181389,
+      "name": "error",
+      "url": "https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT"
+    },
+    {
+      "added_at": "2023-02-17 09:49:00",
+      "album": {
+        "name": "You (Are) Mean a Lot to Me",
+        "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
+      },
+      "artists": [
+        {
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+        }
+      ],
+      "duration_ms": 271764,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
+    },
     {
       "added_at": "2023-03-07 05:59:03",
       "album": {
@@ -27,6 +59,70 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
+    },
+    {
+      "added_at": "2023-02-17 09:49:00",
+      "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "AHORA QU\u00c9",
+      "url": "https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU"
+    },
+    {
+      "added_at": "2023-02-17 09:49:00",
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/4v5QB3bRarNaYvTcGzjvpN"
+      },
+      "artists": [
+        {
+          "name": "Umar Sirhan",
+          "url": "https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2K57EzR21M2VTV1qCEeCa7"
+    },
+    {
+      "added_at": "2023-02-17 09:49:00",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "added_at": "2023-02-17 09:49:00",
+      "album": {
         "name": "Sability",
         "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
       },
@@ -39,6 +135,22 @@
       "duration_ms": 166558,
       "name": "Sability",
       "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
+    },
+    {
+      "added_at": "2023-02-17 09:49:00",
+      "album": {
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -175,18 +287,18 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+        "name": "\u7532\u6d28\u65af\u4e01",
+        "url": "https://open.spotify.com/album/0JPLuTkTSLHLqIzyPSGFeK"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "KUNG \u9f94\u656c\u6587",
+          "url": "https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R"
         }
       ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+      "duration_ms": 200000,
+      "name": "\u6642\u9593",
+      "url": "https://open.spotify.com/track/1tFVSjwr5MNVvvb9W1Yk0u"
     },
     {
       "added_at": "2023-03-07 05:59:03",
@@ -207,18 +319,34 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "You (Are) Mean a Lot to Me",
-        "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
+        "name": "Na \u00c1rea dos Boys",
+        "url": "https://open.spotify.com/album/2jmPZdF7AqusFZRDDeHjBW"
       },
       "artists": [
         {
-          "name": "Blackbeans",
-          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         }
       ],
-      "duration_ms": 271764,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
+      "duration_ms": 225385,
+      "name": "Na \u00c1rea dos Boys",
+      "url": "https://open.spotify.com/track/2PYtXthvfINMFu1YWkAa4n"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -235,22 +363,6 @@
       "duration_ms": 195555,
       "name": "Shakerando",
       "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "AHORA QU\u00c9",
-      "url": "https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -299,22 +411,6 @@
       "duration_ms": 167248,
       "name": "FU In My Head",
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -655,22 +751,6 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -2871,22 +2951,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/4v5QB3bRarNaYvTcGzjvpN"
-      },
-      "artists": [
-        {
-          "name": "Umar Sirhan",
-          "url": "https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2K57EzR21M2VTV1qCEeCa7"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -3031,22 +3095,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "\u7532\u6d28\u65af\u4e01",
-        "url": "https://open.spotify.com/album/0JPLuTkTSLHLqIzyPSGFeK"
-      },
-      "artists": [
-        {
-          "name": "KUNG \u9f94\u656c\u6587",
-          "url": "https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "\u6642\u9593",
-      "url": "https://open.spotify.com/track/1tFVSjwr5MNVvvb9W1Yk0u"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "Itu Kamu",
         "url": "https://open.spotify.com/album/6Xl8CANrPQXIALJB1W2aNG"
       },
@@ -3111,38 +3159,6 @@
       "duration_ms": 134117,
       "name": "Por Encima Del Dinero",
       "url": "https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Na \u00c1rea dos Boys",
-        "url": "https://open.spotify.com/album/2jmPZdF7AqusFZRDDeHjBW"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 225385,
-      "name": "Na \u00c1rea dos Boys",
-      "url": "https://open.spotify.com/track/2PYtXthvfINMFu1YWkAa4n"
     },
     {
       "added_at": "2023-02-17 09:49:00",

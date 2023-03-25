@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Everybody Wants to Rule the World (Acoustic)",
+        "url": "https://open.spotify.com/album/42v30LBLeJfQDdedtZCD4a"
+      },
+      "artists": [
+        {
+          "name": "Kevin Simm",
+          "url": "https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144764,
+      "name": "Everybody Wants to Rule the World - Acoustic",
+      "url": "https://open.spotify.com/track/3wy5ytqKxQxUYFgx5NAFav"
+    },
+    {
+      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
       },
@@ -720,6 +738,24 @@
       "duration_ms": 261666,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR"
+    },
+    {
+      "album": {
+        "name": "Flowers (Acoustic)",
+        "url": "https://open.spotify.com/album/3FmAl6kjYy0nUwAgOhhjKn"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223712,
+      "name": "Flowers - Acoustic",
+      "url": "https://open.spotify.com/track/7uSAkK0jL8Go2YyO8T2kt6"
     },
     {
       "album": {
@@ -1536,7 +1572,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 183152,
       "name": "Lovefool - Acoustic",
       "url": "https://open.spotify.com/track/1tJCLF1hldhHVC7noH9l0U"
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 196941,
       "name": "Rise Up - Acoustic",
       "url": "https://open.spotify.com/track/1qmCoha1HrkCVInVnfhpPC"
@@ -2504,6 +2540,24 @@
       "duration_ms": 209900,
       "name": "Unchained Melody - Acoustic",
       "url": "https://open.spotify.com/track/3dpAowl81OJz8CinXr46Mn"
+    },
+    {
+      "album": {
+        "name": "Upside Down (Acoustic)",
+        "url": "https://open.spotify.com/album/78fjGqALsUEsAi5nuKI19m"
+      },
+      "artists": [
+        {
+          "name": "Laurence O\u2019Brien",
+          "url": "https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142682,
+      "name": "Upside Down - Acoustic",
+      "url": "https://open.spotify.com/track/1Bj7uQHtE5RfCzVMKhgskl"
     },
     {
       "album": {

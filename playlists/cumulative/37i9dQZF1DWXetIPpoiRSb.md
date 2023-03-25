@@ -2,9 +2,9 @@
 
 ### [New Pop Revolution](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> The freshest pop sounds\. Cover: Joy Oladokun
+> The freshest pop sounds\. Cover: Loreen
 
-1,001 songs - 2 day 2 hr 25 min
+1,003 songs - 2 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [I Won't](https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [I Won't](https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ) | 2:48 | 2022-08-05 | 2022-10-08 |
 | [I Wrote A Song](https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song](https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu) | 2:45 | 2023-03-10 |  |
 | [I'll Be Home Soon](https://open.spotify.com/track/72xzw4sk7CcgYIyQsj0pxn) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Marathon](https://open.spotify.com/album/4RQN3Cqkj3dHhEa5wa7Ag8) | 2:11 | 2021-03-14 | 2021-04-17 |
-| [I'll Scream \(All the Words\)](https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [I'll Scream \(All the Words\)](https://open.spotify.com/album/0OSl9jJB9FR0GrAvtRhw6A) | 3:13 | 2023-01-27 |  |
+| [I'll Scream \(All the Words\)](https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [I'll Scream \(All the Words\)](https://open.spotify.com/album/0OSl9jJB9FR0GrAvtRhw6A) | 3:13 | 2023-01-27 | 2023-03-25 |
 | [I'm Not In Love](https://open.spotify.com/track/0ODp4fhCOXpxdUMD6ghM3V) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/0I0OwIhuKkI10Whl0ByfRf) | 1:37 | 2021-08-07 | 2021-10-30 |
 | [I'm not Pretty](https://open.spotify.com/track/4pBhTGnL5N5KqsyqU58jee) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/0gEzvwL2JVcY0HJbiOSvxL) | 1:58 | 2021-01-16 | 2021-03-06 |
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2022-11-18 |  |
@@ -523,6 +523,7 @@
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-21 | 2022-03-26 |
 | [Lights Down](https://open.spotify.com/track/39RjOeRS1wwbJ3Ya1XuZsv) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [CECE](https://open.spotify.com/album/2srEXvWETNxPbjLgG8B1k1) | 3:13 | 2021-10-08 | 2022-01-29 |
 | [Like 1999](https://open.spotify.com/track/3aHYf6AXlWujDG9CzzT95i) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Like 1999](https://open.spotify.com/album/6CQwJn7tvfUKi4U85zuEu8) | 2:24 | 2021-02-13 | 2021-04-10 |
+| [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-24 |  |
 | [Like That](https://open.spotify.com/track/4alGi6HkNlpuRdlbtLnoIJ) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Like That](https://open.spotify.com/album/5gNzTV9reJppZOc3uTu0NQ) | 2:44 | 2020-10-13\* | 2020-10-24 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-03-27 | 2021-04-17 |
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-03-10 |  |
@@ -831,6 +832,7 @@
 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-29 | 2022-08-06 |
 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 | 2021-05-22 | 2021-07-24 |
 | [Sunflower](https://open.spotify.com/track/5uG1GyUcuTt5t3BPFHbEVV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Sunflower](https://open.spotify.com/album/44bSwfcWdkCMl8GdWMlF21) | 3:22 | 2022-07-08 | 2022-09-04 |
+| [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 | 2023-03-24 |  |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-12-17 | 2022-03-11 |
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-10-21 | 2023-01-14 |
 | [Sunshine \- From the Motion Picture “Ron’s Gone Wrong”](https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Sunshine \(From the Motion Picture “Ron’s Gone Wrong”\)](https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ) | 2:44 | 2021-08-28 | 2021-12-04 |
@@ -1008,6 +1010,6 @@
 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2020-10-13\* | 2021-02-13 |
 | [Your Skin](https://open.spotify.com/track/0B1el5NsXpCZGYAyimzlS3) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Your Skin \- EP](https://open.spotify.com/album/6z4Dx0dCKrBgEKZ8EDCECa) | 3:18 | 2022-05-13 | 2022-09-04 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-19 | 2022-09-17 |
-| [Yummy \(with Stefflon Don\)](https://open.spotify.com/track/5eJEXMXxTNUcFva4uQ4yUU) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Yummy \(with Stefflon Don\)](https://open.spotify.com/album/15gVZQfXliOi80uCa4fbxc) | 2:51 | 2023-01-06 |  |
+| [Yummy \(with Stefflon Don\)](https://open.spotify.com/track/5eJEXMXxTNUcFva4uQ4yUU) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Yummy \(with Stefflon Don\)](https://open.spotify.com/album/15gVZQfXliOi80uCa4fbxc) | 2:51 | 2023-01-06 | 2023-03-25 |
 
 \*This playlist was first scraped on 2020-10-13. Prior content cannot be recovered.

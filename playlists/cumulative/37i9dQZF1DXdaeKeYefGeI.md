@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-103 songs - 6 hr 34 min
+105 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Het Werd Zomer](https://open.spotify.com/track/7J7fNdedcP2urV48omGkHu) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Tussen Zomer En Winter \(Expanded Edition\)](https://open.spotify.com/album/6C1i4zs6YQtinLbZh9pz9u) | 4:07 | 2023-02-10 |  |
 | [Hou Van Mij](https://open.spotify.com/track/0p8NKK6n6wrvgPf0AUho6h) | [Bökkers](https://open.spotify.com/artist/4r9YVlVbFPpqo0vcCaKIE6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Hou Van Mij](https://open.spotify.com/album/4FnEHt85qGmedL41l7zErJ) | 3:13 | 2023-02-10 |  |
 | [Ik heb je vergeven](https://open.spotify.com/track/5eGNTkEgie3bPoQpuw07PE) | [Myra Pilar](https://open.spotify.com/artist/0XGEZus6caWFUFpPGYotPX) | [Ik heb je vergeven](https://open.spotify.com/album/0aEpho7U0oTDSQmophOKuH) | 3:32 | 2023-02-10 |  |
+| [Ik Hobbel](https://open.spotify.com/track/6tpeejrVeDYkU8WhLpmWuV) | [Theun met een H](https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I) | [Ik Hobbel](https://open.spotify.com/album/4Dp6OZeo6qDXlRWm3YRPhK) | 3:02 | 2023-03-23 |  |
 | [Ik Hou Van Mij](https://open.spotify.com/track/7sXPkx4uP9nGazTEe4VpIe) | [Harrie Jekkers](https://open.spotify.com/artist/4QAsKGyhi6ngDLGntc54ql) | [Mijn Ikken](https://open.spotify.com/album/2QwzUQVn18RHdDDCeqd5jd) | 2:35 | 2023-02-10 |  |
 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/5Txs0Hcm3Tr2tA5OOaGqDK) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/6h8rFFOtR2m6N8d4FKCYkW) | 3:54 | 2023-02-10 |  |
 | [Ik zou iets willen zeggen](https://open.spotify.com/track/5xnKi7AA2XY0oj1t6aXljJ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Ik zou iets willen zeggen](https://open.spotify.com/album/5QpPrVWPuqnY7EnIboBkQI) | 3:48 | 2023-02-10 |  |
@@ -72,6 +73,7 @@
 | [Mijn moeder het water](https://open.spotify.com/track/1vH0TQxVFEG7PasQSarzSW) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Mijn moeder het water](https://open.spotify.com/album/5SwUqpxiC5u7AfzgP8pG8e) | 4:07 | 2023-02-10 |  |
 | [Mijn Vlakke Land](https://open.spotify.com/track/58SuKWdEM7nr3E3Ak57Zf8) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Liefde aan de Sein](https://open.spotify.com/album/46kE3wBimtaWT8ZdFZMQhy) | 2:53 | 2023-02-10 |  |
 | [Mist](https://open.spotify.com/track/2J1WRAWKFtov5heklIgvkt) | [Vreemde Kostgangers](https://open.spotify.com/artist/5uLY3PL1Mrj4kusy2LOXMd) | [Mist](https://open.spotify.com/album/07xEXNRLs4r3VGLs1fEKL4) | 4:29 | 2023-03-16 |  |
+| [Mooi Geweest](https://open.spotify.com/track/5o2faEX74VH3rc1gKB6nx1) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Mooi Geweest](https://open.spotify.com/album/4pSWksRCcg369pG3LjChh2) | 2:51 | 2023-03-23 |  |
 | [Mooi Liedje](https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda & De Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 2:59 | 2023-02-10 |  |
 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 | 2023-02-10 |  |
 | [Niemand In De Stad](https://open.spotify.com/track/3dE95e0gGFeoPPRt4njApK) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 4:51 | 2023-02-10 |  |

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Addicted To You Rehearsal (432hz Live)",
+        "url": "https://open.spotify.com/album/1Wt988aKnqhcllzkzSQtah"
+      },
+      "artists": [
+        {
+          "name": "Christiano Can",
+          "url": "https://open.spotify.com/artist/41k5COVWW07O4xVBHSDkMj"
+        },
+        {
+          "name": "Nakeisha Godzone",
+          "url": "https://open.spotify.com/artist/5lDBIdDrDDshZvO58HHAGB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377568,
+      "name": "Addicted To You Rehearsal - 432hz Live",
+      "url": "https://open.spotify.com/track/7Jndt5DSBd6lDzCS4u1B66"
+    },
+    {
+      "album": {
         "name": "Dasein",
         "url": "https://open.spotify.com/album/2MkAYlPVkYBg0CmbkTBU6I"
       },
@@ -1325,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+    },
+    {
+      "album": {
         "name": "Soft Life",
         "url": "https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG"
       },
@@ -1738,6 +1778,24 @@
       "duration_ms": 197760,
       "name": "Who No Know Go Know",
       "url": "https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K"
+    },
+    {
+      "album": {
+        "name": "Working on You",
+        "url": "https://open.spotify.com/album/7tpq3j1GIJ2Ii1zvqiTU4u"
+      },
+      "artists": [
+        {
+          "name": "Alien Em",
+          "url": "https://open.spotify.com/artist/5ol84ORfazc9kNCz4V2ixt"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176443,
+      "name": "Working on You",
+      "url": "https://open.spotify.com/track/20elM8EhWy52VmxbjEWCkn"
     },
     {
       "album": {

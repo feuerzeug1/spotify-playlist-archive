@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,697 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,701 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Looking for you](https://open.spotify.com/track/1z28K6ExY4Ofh5dRCYtN8w) | [Sakepnk](https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf) | [Looking for you](https://open.spotify.com/album/08SJUuKIHuQ4Cjj5pqrBWa) | 3:32 |
 | 60 | [Soup \- TOMC’s Deep Ride Edit](https://open.spotify.com/track/1RTgVEuI4BPafggZ7jNBcp) | [Coldhot](https://open.spotify.com/artist/178wLpflQu05EwRZZVg18E), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Soup \(TOMC’s Deep Ride Edit\)](https://open.spotify.com/album/6GZaDJn0SqU6CH9nmyxWTS) | 5:48 |
 
-Snapshot ID: `MTY3OTM0NjcwMCwwMDAwMDAwMGM5MjMxYTljY2VjZGYxZDZjYzg4ZjE5MjExYWRjNGVk`
+Snapshot ID: `MTY3OTM0NjcwMCwwMDAwMDAwMDIyM2JkNzZlMjU5NTU3MjU1ZjNkNzlkZmE0NjM1MzIz`

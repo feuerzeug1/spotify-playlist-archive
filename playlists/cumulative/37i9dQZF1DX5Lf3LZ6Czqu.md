@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Covet
 
-118 songs - 8 hr 51 min
+119 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Crispy](https://open.spotify.com/track/2vk1jBINwK3jVquZ9RW84W) | [Prashant Aswani](https://open.spotify.com/artist/6SU64uhdQiF86cThcWLXy2) | [Visions](https://open.spotify.com/album/2sYv87uNv8EKyo3x5MFiIp) | 4:18 | 2021-05-04 |  |
 | [Dark Matter](https://open.spotify.com/track/3rjBROIs1VgeUPcAq6ALn2) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Modern Primitive](https://open.spotify.com/album/1QBwEou5SRg4nD9Ngd2loU) | 3:53 | 2021-05-04 |  |
 | [Dawn](https://open.spotify.com/track/6EYv1dAeBn93vg8djCiSrN) | [Joe Basilio](https://open.spotify.com/artist/7cgk7HhXl6qYMnVBCLqagN) | [Excelsis](https://open.spotify.com/album/1GGypapOEB2efPiNWKncKs) | 4:26 | 2021-05-04 |  |
+| [Dirty Grease \- Extended Version](https://open.spotify.com/track/0tzv5R7yFjUHlLK1VcC4pA) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Doug Bossi](https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4) | [Guitar Heroes Otb, Vol\. 4](https://open.spotify.com/album/6eJnjV0s4OOTsfPYOQzzte) | 6:37 | 2023-03-24 |  |
 | [Don't Give Up](https://open.spotify.com/track/2vnnaVWSugFKiiUQCR0ZlK) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Zac Zinger](https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J) | [Don't Give Up](https://open.spotify.com/album/7rnXDPgmb65BV6GAqLUooD) | 3:28 | 2023-03-03 |  |
 | [Dunia Duara](https://open.spotify.com/track/0LwSB5KbwWcDu1HbFip27U) | [Chris Buck](https://open.spotify.com/artist/6MKMSAadRiC0CB5D2vEtDn) | [3 Crows](https://open.spotify.com/album/7uGPN9GefcM4WEMhWAMcms) | 5:33 | 2021-05-04 |  |
 | [Earthguest](https://open.spotify.com/track/7wVAS3INpT4el1p6FJpY3x) | [Steroid Puppets](https://open.spotify.com/artist/1v39hJJ604GsEZWEqhrTko), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Earthguest](https://open.spotify.com/album/42bzv7lW3nN0jxt9ZG1ZVR) | 8:59 | 2022-05-20 |  |

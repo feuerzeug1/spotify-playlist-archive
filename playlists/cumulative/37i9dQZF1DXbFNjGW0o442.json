@@ -2050,7 +2050,7 @@
           "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164095,
@@ -3056,7 +3056,7 @@
           "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194470,
@@ -3206,6 +3206,24 @@
       "duration_ms": 243722,
       "name": "Proclama",
       "url": "https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W"
+    },
+    {
+      "album": {
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146668,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U"
     },
     {
       "album": {
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 218431,
       "name": "Si Me Canso de Callar",
       "url": "https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA"

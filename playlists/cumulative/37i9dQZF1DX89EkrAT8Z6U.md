@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-186 songs - 8 hr 14 min
+188 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2022-05-27 |  |
 | [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 | 2023-01-27 | 2023-02-10 |
 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 | 2023-02-24 |  |
-| [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 | 2022-05-25 |  |
+| [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 | 2022-05-25 | 2023-03-25 |
 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 | 2022-07-08 | 2022-09-03 |
 | [GODBREAKER](https://open.spotify.com/track/6IvI7Zs2Ca3QIecWc6YSyP) | [Jamar Rose](https://open.spotify.com/artist/5eRDVS3cobE2WOM8xrjdOw), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [PLOT TWIST](https://open.spotify.com/album/4JP8a119U8yQm6ttb0JsAB) | 2:33 | 2022-05-25 | 2022-07-20 |
 | [GOSHA](https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:00 | 2022-05-25 |  |
@@ -82,9 +82,10 @@
 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 | 2022-05-25 | 2023-03-14 |
 | [Iceberg \(Michael 2\)](https://open.spotify.com/track/6gU3XR7zZmbQAJZWSzUHB1) | [Diversify](https://open.spotify.com/artist/356W28yEFY8MEeYNUOLzJq) | [For the Fans](https://open.spotify.com/album/1a1ljc6WvVpytVTNqzX8LV) | 1:55 | 2022-07-08 | 2022-07-15 |
 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2022-05-25 | 2022-11-22 |
+| [innit](https://open.spotify.com/track/0vqY3GEoQZ3yuqvs9LT4p2) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [yenny's](https://open.spotify.com/album/1QSWGMnEVdonGej6XvCQxS) | 2:36 | 2023-03-24 |  |
 | [IVE BEEN BAD](https://open.spotify.com/track/6eGyxt8xWFy2vZ5Fc6jc23) | [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [B\-Train](https://open.spotify.com/artist/60357wYdsJUbrZVxuu4X4Q), [NOVO](https://open.spotify.com/artist/1nIpYhcmOMOMo2cYtbcyXX) | [2 IGNORANT](https://open.spotify.com/album/18KiSqhfa1vBgQdpgZWAgZ) | 2:54 | 2022-05-25 | 2022-07-23 |
 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 | 2022-05-25 |  |
-| [Jump!](https://open.spotify.com/track/5QfWgphE9zrEW3oeyKnQlG) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Jump!](https://open.spotify.com/album/1YoMiGIGyioxUiJPUZ38zJ) | 2:04 | 2023-02-17 |  |
+| [Jump!](https://open.spotify.com/track/5QfWgphE9zrEW3oeyKnQlG) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Jump!](https://open.spotify.com/album/1YoMiGIGyioxUiJPUZ38zJ) | 2:04 | 2023-02-17 | 2023-03-25 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-29 |  |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2022-05-25 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-14 |  |
@@ -167,6 +168,7 @@
 | [two fictitious stories \(alongside mine\)](https://open.spotify.com/track/1YMZ8RyeVqD8GslkDbnA8P) | [KevinKempt](https://open.spotify.com/artist/5rW6rpuV2MZfke72uiQe8a) | [two fictitious stories \(alongside mine\)](https://open.spotify.com/album/4bYDy0YixPRlX5MZbIPmWm) | 7:21 | 2022-07-08 | 2022-10-22 |
 | [uhh](https://open.spotify.com/track/3iDQnloxYVrnzE0eNZ85en) | [framed](https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ) | [Uhh](https://open.spotify.com/album/3PgoWZSSEFdI0f5gektpdn) | 1:23 | 2022-07-08 |  |
 | [uhh](https://open.spotify.com/track/73qtTW9MmYLc0PR5CQCTq5) | [framed](https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ) | [uhh](https://open.spotify.com/album/0cRZQBnOH50bpW2JHKJ47v) | 1:23 | 2022-05-25 | 2022-07-29 |
+| [Unbothered](https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:18 | 2023-03-24 |  |
 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 | 2023-03-03 |  |
 | [Unimportant](https://open.spotify.com/track/47c7UE5KeA9uetI6DGG2od) | [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn), [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Unimportant](https://open.spotify.com/album/6xJUTgwoTW6JB3QIe6PJgL) | 3:22 | 2022-05-25 | 2022-07-29 |
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2022-06-21 |  |

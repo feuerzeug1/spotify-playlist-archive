@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Jara Pol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,863 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,891 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 16 | [MARIMACHO](https://open.spotify.com/track/47FRRtqvuiWbdWIbAzat0y) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [MARIMACHO](https://open.spotify.com/album/3vVz5QDuHkRKefo1v9xU1o) | 2:48 |
 | 17 | [el verano pasará](https://open.spotify.com/track/2NvcXM4SYqyDZPL6ISZxus) | [After Tommy](https://open.spotify.com/artist/3HpKdarqsHASs1kRv1uENZ) | [el verano pasará](https://open.spotify.com/album/4tlZEx1Ro5bb77mVz7Yl7G) | 3:46 |
 | 18 | [Los días largos](https://open.spotify.com/track/69p6hi8ng4jf2t0hMo0ioj) | [Pena Máxima](https://open.spotify.com/artist/1gneQDkFzVuBfOYds0C8HI) | [Los días largos](https://open.spotify.com/album/1TQBwfBaNV0EGW9mdwQAuP) | 3:18 |
-| 19 | [HER](https://open.spotify.com/track/1oa59wbCneGEOW9xY5rsG1) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [HER](https://open.spotify.com/album/3ZCzshoGotDGce2P9szUUZ) | 2:14 |
+| 19 | [HER](https://open.spotify.com/track/1oa59wbCneGEOW9xY5rsG1) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ), [Amanda Deveil](https://open.spotify.com/artist/2oAbJEH2zPedm1msUWxwXv) | [HER](https://open.spotify.com/album/3ZCzshoGotDGce2P9szUUZ) | 2:14 |
 | 20 | [Estrella del pop](https://open.spotify.com/track/61ByBXM23WjcHRBX235liN) | [Alérgicas al Polen](https://open.spotify.com/artist/3r87HtM9xVejbpyVuFwrhb) | [Estrella del pop](https://open.spotify.com/album/5bd0bRdIxuxVUUHTC9P27I) | 2:19 |
 | 21 | [ROMEO](https://open.spotify.com/track/6NcWi1OMpFzpNwcLCof3yn) | [Freddie Flowers](https://open.spotify.com/artist/19cmzxQNqmxfcscNiXMbzn) | [ROMEO](https://open.spotify.com/album/0iJBZdIzxqYGerCCz7I4lx) | 3:18 |
 | 22 | [La Caída](https://open.spotify.com/track/2GAnsHcCraoNQkEgjks69G) | [ANTIFAN](https://open.spotify.com/artist/2UenZFehQbTQiiVlU9Sv35), [Fabianni](https://open.spotify.com/artist/4POeB6Dr0EsRigViBnsTgU) | [La Caída](https://open.spotify.com/album/0eVAscZdILIHysezJoBjbq) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Refugio](https://open.spotify.com/track/6YJLbtDIh3EchvQThsqFe6) | [Niños Luchando](https://open.spotify.com/artist/32ssrEXNswpY4dF56WYYZl) | [Refugio](https://open.spotify.com/album/0XCEsrMhctoxAk12h0lHb1) | 3:48 |
 | 50 | [SUPER MARIO](https://open.spotify.com/track/6fwUrBcaWOucX2czY6vici) | [shadi](https://open.spotify.com/artist/3csMcrQZxcD3YsQhmdQSzV) | [SUPER MARIO](https://open.spotify.com/album/4khwPW6DOhLRfV75H4Ja0H) | 2:36 |
 
-Snapshot ID: `MTY3OTQzOTYwMCwwMDAwMDAwMDQzZGViNjk5ZTliYjYxYzUwZDcwZTY4ODQ2ZGNkZThh`
+Snapshot ID: `MTY3OTQzOTYwMCwwMDAwMDAwMDUyYTQ2NDU0MTY1OWZlYzAzNjUwN2NhZGVlODgwMzFm`

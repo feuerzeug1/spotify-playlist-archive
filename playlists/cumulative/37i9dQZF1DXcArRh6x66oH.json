@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "bon aqua EP",
+        "url": "https://open.spotify.com/album/782C6iLDAvYgAjJfd6YmSA"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195346,
+      "name": "American Gothic (feat. Hailey Whitters)",
+      "url": "https://open.spotify.com/track/72vF5ESZ9UJEpVZkXNN8FL"
+    },
+    {
+      "album": {
         "name": "April Showers",
         "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
       },
@@ -142,7 +164,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 182346,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
@@ -203,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188386,
+      "name": "Blowin' Smoke",
+      "url": "https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI"
+    },
+    {
+      "album": {
         "name": "Raised",
         "url": "https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc"
       },
@@ -221,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Bring on the Neon",
+        "url": "https://open.spotify.com/album/2UTxlKf1ow8TylD4KeLz1v"
+      },
+      "artists": [
+        {
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261959,
+      "name": "Bring on the Neon",
+      "url": "https://open.spotify.com/track/5NaxaWrHLoeJjx8WVJMO8b"
+    },
+    {
+      "album": {
         "name": "Firewater",
         "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
       },
@@ -236,6 +294,24 @@
       "duration_ms": 346333,
       "name": "Broken Window Serenade",
       "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
+    },
+    {
+      "album": {
+        "name": "Coal River",
+        "url": "https://open.spotify.com/album/2QZMDKgCHgI5QXiERup8FL"
+      },
+      "artists": [
+        {
+          "name": "Logan Halstead",
+          "url": "https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221447,
+      "name": "Coal River",
+      "url": "https://open.spotify.com/track/1feNxzKDVyqTkGuJMrAzVF"
     },
     {
       "album": {
@@ -315,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182015,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ"
+    },
+    {
+      "album": {
         "name": "Sellout",
         "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
@@ -348,6 +442,24 @@
       "duration_ms": 186993,
       "name": "Dust",
       "url": "https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w"
+    },
+    {
+      "album": {
+        "name": "Eastern Kentucky",
+        "url": "https://open.spotify.com/album/4fbqrkjymL0LAtCAFxq7Wd"
+      },
+      "artists": [
+        {
+          "name": "Davisson Brothers Band",
+          "url": "https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214200,
+      "name": "Eastern Kentucky",
+      "url": "https://open.spotify.com/track/3KHv9f9K6pZRSv61z4SaRu"
     },
     {
       "album": {
@@ -553,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/1Eh2GN0KEBgCrMCDaTcAfQ"
+      },
+      "artists": [
+        {
+          "name": "Rob Baird",
+          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218706,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/3Wrbf7Ecb7wDL5nS7L9HL0"
+    },
+    {
+      "album": {
         "name": "Ian Munsick - EP",
         "url": "https://open.spotify.com/album/4SlHhLorpkGrQWiXLxhlLB"
       },
@@ -734,7 +864,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 194044,
       "name": "Leave this Bar",
       "url": "https://open.spotify.com/track/2cE1UhKqdVPjdKs4FxrXSj"
@@ -1166,7 +1296,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 212693,
       "name": "Pearson Road",
       "url": "https://open.spotify.com/track/1S5yRRnXYlNTp5x7Dipfdd"
@@ -1206,6 +1336,42 @@
       "duration_ms": 184949,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU"
+    },
+    {
+      "album": {
+        "name": "Ramblin Man",
+        "url": "https://open.spotify.com/album/0PXuJaAC2SrNE3RUdjtNn3"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167605,
+      "name": "Ramblin Man",
+      "url": "https://open.spotify.com/track/4a1oIFgu01B2nafpOHgvHZ"
+    },
+    {
+      "album": {
+        "name": "River Run",
+        "url": "https://open.spotify.com/album/3mBdZACUd5ArkYoWDRD2nW"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191386,
+      "name": "River Run",
+      "url": "https://open.spotify.com/track/5dXlTSS5qfLerFrdR32LXA"
     },
     {
       "album": {
@@ -1278,6 +1444,24 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/7Cmd1xEuyrUYtiLbbeBfgJ"
     },
     {
       "album": {

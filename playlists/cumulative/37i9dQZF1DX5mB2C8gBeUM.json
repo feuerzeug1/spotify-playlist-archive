@@ -2895,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Holy Cowboy",
+        "url": "https://open.spotify.com/album/3NJX8OzwxpFbVgT4k85tGd"
+      },
+      "artists": [
+        {
+          "name": "Renee Blair",
+          "url": "https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159831,
+      "name": "Holy Cowboy",
+      "url": "https://open.spotify.com/track/33Zj7C0fxd0uyh6o5KtQzY"
+    },
+    {
+      "album": {
         "name": "Home For The Summer",
         "url": "https://open.spotify.com/album/76hs4C3wpey6xz2lF03JCa"
       },

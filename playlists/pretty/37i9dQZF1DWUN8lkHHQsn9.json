@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: Lulu x Uaziuk",
-  "num_followers": 2748,
+  "num_followers": 2749,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1NTA4OSwwMDAwMDAwMGQ5YWMwYjg4MWQyMDg3NjJkNzE4MzQ2YTE0NTkyYTFl",
+  "snapshot_id": "MTY3OTA1NTA4OSwwMDAwMDAwMDc2YjI5MjRlOGM1OWYxOWNmODgyNzdkN2FjNzY1Y2Ix",
   "tracks": [
     {
       "added_at": "2023-03-17 12:11:29",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
+        "name": "Bolt",
+        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 216860,
+      "name": "Bolt",
+      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
         "name": "PINOKIO",
         "url": "https://open.spotify.com/album/1INLSAXzlp4hktzm4lWM6l"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 142053,
       "name": "PINOKIO",
       "url": "https://open.spotify.com/track/4kvWYKebH6wY9lXlOdoTLf"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
-        "name": "Bolt",
-        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 216860,
-      "name": "Bolt",
-      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "BSoD (Bluescreen)",
-        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "BSoD (Bluescreen)",
-      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
         "name": "Przed siebie",
         "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
       },
@@ -747,6 +731,38 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
+        "name": "Dla nas dom",
+        "url": "https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 250729,
+      "name": "R\u0119ce w udr\u0119ce",
+      "url": "https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
+        "name": "BSoD (Bluescreen)",
+        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "BSoD (Bluescreen)",
+      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2023-03-17 12:11:29",
+      "album": {
         "name": "OH WOW",
         "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-03-17 12:11:29",
       "album": {
-        "name": "Dla nas dom",
-        "url": "https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf"
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
       "artists": [
         {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
         }
       ],
-      "duration_ms": 250729,
-      "name": "R\u0119ce w udr\u0119ce",
-      "url": "https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK"
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
     },
     {
       "added_at": "2023-03-17 12:11:29",
@@ -799,22 +815,6 @@
       "duration_ms": 261818,
       "name": "Don't Collapse",
       "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
-    },
-    {
-      "added_at": "2023-03-17 12:11:29",
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
     },
     {
       "added_at": "2023-03-17 12:11:29",

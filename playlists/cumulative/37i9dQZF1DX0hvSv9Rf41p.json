@@ -206,7 +206,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 292071,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/0t9RRa08BNjaNfnKlY6mIU"
@@ -1473,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "CHOMP",
+        "url": "https://open.spotify.com/album/0OyIHyWq8U0NEE4GwFlHJ5"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        },
+        {
+          "name": "CHOMPO",
+          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198281,
+      "name": "CHOMP",
+      "url": "https://open.spotify.com/track/6ehkaqY90vXs9noImg2AVT"
+    },
+    {
+      "album": {
         "name": "close to the ground",
         "url": "https://open.spotify.com/album/0HE3Jrsok3ALc5XRPrpVxN"
       },
@@ -1484,7 +1506,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 165290,
       "name": "close to the ground",
       "url": "https://open.spotify.com/track/4c9I1KjgMjT5d5kTqr4kVs"
@@ -3133,6 +3155,32 @@
     },
     {
       "album": {
+        "name": "Flying (Pegboard Nerds Remix)",
+        "url": "https://open.spotify.com/album/2WhrRHs1WCqjgP4JHZM52m"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Eda Lovelace",
+          "url": "https://open.spotify.com/artist/3bOvxcNS1rpC7aN1tLAahr"
+        },
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "Flying (Pegboard Nerds Remix)",
+      "url": "https://open.spotify.com/track/70TjDtaV2yY4prx0gB35Bx"
+    },
+    {
+      "album": {
         "name": "Fool For Ya",
         "url": "https://open.spotify.com/album/36ZjyrSiKwq9wdR6p5j4yV"
       },
@@ -3440,6 +3488,24 @@
       "duration_ms": 364800,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7"
+    },
+    {
+      "album": {
+        "name": "Grenade",
+        "url": "https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248147,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
     },
     {
       "album": {
@@ -3938,6 +4004,24 @@
       "duration_ms": 270422,
       "name": "How To Feel",
       "url": "https://open.spotify.com/track/7JaHPMXlx37VACDtbROCUW"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/5iXNn0qS3oGyl4jnYW8Y8d"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160204,
+      "name": "Hyperdust",
+      "url": "https://open.spotify.com/track/1P3o5TUYsIN3Qx7u17iRBN"
     },
     {
       "album": {
@@ -5774,7 +5858,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 189737,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5mfwPQqeoP8jzGJCHwM3iF"
@@ -5884,7 +5968,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 173398,
       "name": "Operator",
       "url": "https://open.spotify.com/track/5JVHMRWlqPuqB331dVe5wl"

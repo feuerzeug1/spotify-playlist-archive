@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,026 likes - 54 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,107 likes - 54 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 53 | [من وين لك](https://open.spotify.com/track/3pmg5RPTBFLPHFE3LIAouB) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [من وين لك](https://open.spotify.com/album/6jTqc67zbsEmDuaGNjFmJ1) | 4:28 |
 | 54 | [ياعرب حنيت](https://open.spotify.com/track/1szjUAlwmyS5cCrz7yaoCf) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ياعرب حنيت](https://open.spotify.com/album/4IcitKb3SkUlfaqGKEvO70) | 3:04 |
 
-Snapshot ID: `MTY3ODgzODMyNCwwMDAwMDAwMDYwNThmMzQ0MzIzNjM3ODg1N2Q2NGRkYzNmZThmNjVk`
+Snapshot ID: `MTY3ODgzODMyNCwwMDAwMDAwMDQyMzM2MTIxYTY1MjhhZmM5Njk5NWQ0ZDkwNmFjODNj`

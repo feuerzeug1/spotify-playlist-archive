@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: CODE KUNST(\ucf54\ub4dc \ucfe4\uc2a4\ud2b8))",
+  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: OuiOui(\uc704\uc704))",
   "name": "K-Are & Be",
   "tracks": [
     {
@@ -1642,6 +1642,24 @@
       "duration_ms": 303893,
       "name": "I couldn't say it",
       "url": "https://open.spotify.com/track/0wjUPck5yAl1w5S1bkd5un"
+    },
+    {
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/2bBm0Jj6uyLCUMmqiwL2xY"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226120,
+      "name": "I feel",
+      "url": "https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN"
     },
     {
       "album": {
@@ -3352,6 +3370,24 @@
       "duration_ms": 183000,
       "name": "\uc0c1\uc790 Box",
       "url": "https://open.spotify.com/track/5G9tvHT1pkXLuBoSkBWZkm"
+    },
+    {
+      "album": {
+        "name": "\uc5ec\uc804\ud788 \uc5ec\uc804\ud574",
+        "url": "https://open.spotify.com/album/1muMVYqLEoTw2YUhCVvI0n"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225918,
+      "name": "\uc5ec\uc804\ud788 \uc5ec\uc804\ud574",
+      "url": "https://open.spotify.com/track/7u0Kn9xnwMCI42h8uGe3qc"
     },
     {
       "album": {

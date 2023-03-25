@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Biting",
+        "url": "https://open.spotify.com/album/3wo2lUtYASfyHEQbYxEosQ"
+      },
+      "artists": [
+        {
+          "name": "Znoijk",
+          "url": "https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166090,
+      "name": "Biting",
+      "url": "https://open.spotify.com/track/3VR8hpmEvOMxW3nM4TNoBM"
+    },
+    {
+      "album": {
         "name": "Blink Of An Eye",
         "url": "https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn"
       },
@@ -1435,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/1WBLkmlmYyxPMqnQii3s05"
+      },
+      "artists": [
+        {
+          "name": "RUN",
+          "url": "https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/5AiI3I1ayQFAhFvOG6N6Qh"
+    },
+    {
+      "album": {
         "name": "Lemuria",
         "url": "https://open.spotify.com/album/5fXjUp8yxkCVN8BR4Z86t0"
       },
@@ -2178,6 +2214,24 @@
       "duration_ms": 190458,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2ebN0r76upG4bTetGQk996"
+    },
+    {
+      "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/6LibNk6jpDCze0Zb7Y8QLi"
+      },
+      "artists": [
+        {
+          "name": "Soft Sea",
+          "url": "https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164397,
+      "name": "Saharan Nights",
+      "url": "https://open.spotify.com/track/2xzGTbiRdVuRGnLISbZuQ4"
     },
     {
       "album": {

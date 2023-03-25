@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 123915,
+  "num_followers": 123998,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDE2MzM2OTUwNTI2MDQyMjMxN2Y1MmM3ZDQzYTZmYzBm",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDdlODU2ZDMyNDJiMzAyZGM1YjAwMjhhMDdiM2YwNTQx",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Someday (Electric)",
-      "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
-    },
-    {
       "added_at": "2018-02-27 18:08:29",
       "album": {
         "name": "Shake My Hand",
@@ -375,6 +359,22 @@
       "duration_ms": 258399,
       "name": "Work With Me Annie",
       "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Someday (Electric)",
+      "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
     },
     {
       "added_at": "2018-02-27 18:08:29",

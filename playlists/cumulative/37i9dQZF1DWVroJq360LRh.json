@@ -1478,6 +1478,28 @@
     {
       "album": {
         "name": "Happier",
+        "url": "https://open.spotify.com/album/09zdHg6FMVu1njcLIpX65b"
+      },
+      "artists": [
+        {
+          "name": "City Sessions",
+          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
+        },
+        {
+          "name": "Citycreed",
+          "url": "https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149391,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/5lbN98X0C9JZUCWFUYO6wo"
+    },
+    {
+      "album": {
+        "name": "Happier",
         "url": "https://open.spotify.com/album/6YwrB6k9s7tZIlFDCGyu1y"
       },
       "artists": [
@@ -1510,24 +1532,6 @@
       "duration_ms": 149391,
       "name": "Happier",
       "url": "https://open.spotify.com/track/3cMNRFYGvnVoeK8f2qj4mq"
-    },
-    {
-      "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/09zdHg6FMVu1njcLIpX65b"
-      },
-      "artists": [
-        {
-          "name": "Citycreed",
-          "url": "https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc"
-        }
-      ],
-      "date_added": "2022-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149391,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/5lbN98X0C9JZUCWFUYO6wo"
     },
     {
       "album": {

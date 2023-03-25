@@ -4,7 +4,7 @@
 
 > Hear all of MINO's biggest and best hits in one playlist.
 
-46 songs - 2 hr 34 min
+47 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Hop in \(Feat\. DPR LIVE\)](https://open.spotify.com/track/3kj5wBL5h6ZSFJpXDS8AZd) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:21 | 2021-12-07 |  |
 | [HOPE](https://open.spotify.com/track/1OnJEQWeOLoSFfwd0gQbUE) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [유병재](https://open.spotify.com/artist/5WjqhIhlvR1zPfKPQwnMm1) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 4:18 | 2021-12-07 |  |
 | [I want to \(Feat\. meenoi\)](https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:33 | 2021-12-07 |  |
+| [Jumper \(Feat\. Gaeko, MINO\)](https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [mino](https://open.spotify.com/artist/79FL2Qclq9IrxOuEK7SY5X) | [Remember Archive](https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1) | 3:35 | 2023-03-24 |  |
 | [KILL](https://open.spotify.com/track/6u6LO5IHbaaS8wODwx8BGq) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 3:00 | 2021-12-07 |  |
 | [LANGUAGE \(feat\. BOBBY\)](https://open.spotify.com/track/05Wr1iNSvrliYhjxux5fzS) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 3:07 | 2021-12-07 |  |
 | [Limousine \(Feat\. MINO\) \(Prod\. GRAY\)](https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:40 | 2021-12-07 |  |

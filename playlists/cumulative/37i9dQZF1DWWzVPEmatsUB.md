@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-332 songs - 20 hr 11 min
+333 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Happy?](https://open.spotify.com/track/49jnjQA2w2gP7KTj9HzLaN) | [JJ](https://open.spotify.com/artist/2314UpIMdS8DMZyKiZ00Fs) | [Happy?](https://open.spotify.com/album/6il2yNDklvhFWzy2qBDhEA) | 2:34 | 2020-10-17 | 2022-04-21 |
 | [Hardware Store](https://open.spotify.com/track/7L8kWzZYrlXkSNwHgLjYo8) | [Victoria Victoria](https://open.spotify.com/artist/7HCC7kE2A7UW1IGOzajebg), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Hardware Store](https://open.spotify.com/album/2JqETGqzMgqVLHwFjhW29P) | 3:39 | 2022-08-12 | 2022-08-27 |
 | [Have It Your Way](https://open.spotify.com/track/7hGJ3EmVvVOrFciDx0P8vm) | [Nina Soro](https://open.spotify.com/artist/3uzkKm1uj1EWWY0uxkEqZA) | [Have It Your Way](https://open.spotify.com/album/46YLWCQYjiqZ3M1lC40fym) | 4:25 | 2020-10-17 | 2022-07-29 |
-| [Heal My Soul](https://open.spotify.com/track/1YKf5OBEMqkzHdB6Gad7U6) | [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Back 2](https://open.spotify.com/album/2kiliPhnagawKLt94zdrLa) | 2:52 | 2022-05-20 |  |
+| [Heal My Soul](https://open.spotify.com/track/1YKf5OBEMqkzHdB6Gad7U6) | [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Back 2](https://open.spotify.com/album/2kiliPhnagawKLt94zdrLa) | 2:52 | 2022-05-20 | 2023-03-25 |
 | [Heal My Soul](https://open.spotify.com/track/6jVRtQrPzknCbJmxO6DHaZ) | [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Heal My Soul](https://open.spotify.com/album/4iN0HCs9z0Ee6dwEgktmsq) | 2:52 | 2022-05-13 | 2022-07-20 |
 | [Hearts Don't Break Around Here](https://open.spotify.com/track/2dfHh7ECGxfNqZTQno09Vk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:08 | 2020-10-17 | 2023-02-04 |
 | [Here B4](https://open.spotify.com/track/4Pv7cz45vrALeaOqhqVELU) | [JNR WILLIAMS](https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk) | [Here B4](https://open.spotify.com/album/6aADEr2kdQbGTQ3Wgupzyr) | 3:53 | 2020-10-17 | 2022-07-28 |
@@ -154,6 +154,7 @@
 | [Ice Man](https://open.spotify.com/track/0c3cFBp7IzXAiQKx6ucHbi) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Stella, My Dear](https://open.spotify.com/album/0LwYhgUQAv5q9kBrc5yKQ0) | 3:12 | 2022-04-29 |  |
 | [Ice Man](https://open.spotify.com/track/42KkrT9sBd21DHog1JvzVr) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Ice Man](https://open.spotify.com/album/7h8OiD3ZlKFAdNTZmsZLE6) | 3:12 | 2022-04-22 | 2022-07-29 |
 | [Ice Man](https://open.spotify.com/track/7ws05CDZQsE3l4lHQnTLbA) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Stella, My Dear](https://open.spotify.com/album/1jkAaeHTQQ6D9xif7v1M0r) | 3:12 | 2022-04-29 | 2023-03-06 |
+| [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-03-24 |  |
 | [If Only](https://open.spotify.com/track/2vHUqWBW12TJqsE8lJGsK1) | [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [How Do We Get By](https://open.spotify.com/album/5ZLHkbCn4a3EtUzhkOSJsY) | 4:13 | 2020-10-17 | 2022-07-28 |
 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 |  |
 | [Jim and Pam \(feat\. Jada Banks\-Mace\)](https://open.spotify.com/track/5hvhdaR2rxzpXbvqIiQy6B) | [Cody Dear](https://open.spotify.com/artist/019crWCRkPjQjBnhKaafTV), [Jada Banks\-Mace](https://open.spotify.com/artist/2evQSV23UqGnRWAbWDQs5R) | [Songs Like These](https://open.spotify.com/album/6CyBHWNGfph10i6q4cRysI) | 4:35 | 2020-10-17 | 2022-05-03 |

@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-224 songs - 13 hr 17 min
+225 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Ananas](https://open.spotify.com/track/48Wa26EAi58eDeGIyBc3ws) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Salade de fruits](https://open.spotify.com/album/5KOEFLKdhPGyV4JNySth3U) | 4:38 | 2022-12-21 |  |
 | [Atrocities](https://open.spotify.com/track/2yyVDSrMXYMi1AgoXzwRpP) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Antony and the Johnsons](https://open.spotify.com/album/2Duq4scZlW8OTM3Bzhn1Zl) | 3:53 | 2022-05-20 |  |
 | [Baba Cool](https://open.spotify.com/track/03XS2cQQqVfgsuLU6KIWoo) | [Loui Sixteen](https://open.spotify.com/artist/7t7W4IEufSFVW5BVXaHbeM) | [Baba Cool](https://open.spotify.com/album/4Gfjfd3FyZLRGG3rBnfTjK) | 2:19 | 2022-05-20 |  |
-| [Back to Heaven](https://open.spotify.com/track/42n3sy0BZsVqlV7ZPFw7ma) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Back to Heaven](https://open.spotify.com/album/75A1ncCyzKwnIb3CtKJZuC) | 3:39 | 2022-12-21 |  |
+| [Back to Heaven](https://open.spotify.com/track/3tJ8ICMDwtw0oisXLiGhA7) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line](https://open.spotify.com/album/0IzRb9JqkitCfJaayIBkf4) | 3:39 | 2022-12-21 |  |
+| [Back to Heaven](https://open.spotify.com/track/42n3sy0BZsVqlV7ZPFw7ma) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Back to Heaven](https://open.spotify.com/album/75A1ncCyzKwnIb3CtKJZuC) | 3:39 | 2022-12-21 | 2023-03-25 |
 | [Bad Dreams](https://open.spotify.com/track/6lHwaw0LVZnYWKxIbWEPA9) | [John & The Volta](https://open.spotify.com/artist/5znsjqhosEm6eS7HwPcoHV) | [Low Life](https://open.spotify.com/album/75ZLGkWPtAjDry9Ebg8L7d) | 2:59 | 2022-05-20 |  |
 | [Banana Socks](https://open.spotify.com/track/7afoQRG04Pk9g2eRMlS2Vz) | [Bosco Rogers](https://open.spotify.com/artist/1oNSfCtInL4cMWKutAdeJK) | [French Kiss \- EP](https://open.spotify.com/album/1kHIDkSGsSmcrVEV4Gi84a) | 2:17 | 2022-05-20 |  |
 | [Beach Ball](https://open.spotify.com/track/5f7fOfoDAF6geSNb4tL5za) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6) | [1978](https://open.spotify.com/album/0U4O3WRWTi1vIzcKuvh4nQ) | 3:30 | 2022-05-20 |  |

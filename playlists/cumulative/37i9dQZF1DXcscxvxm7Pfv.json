@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Free your mind from disturbing sounds with white noise.",
-  "name": "Noise Cancelling",
+  "description": "Free your mind from distraction with calming white noise.",
+  "name": "Noise Canceling",
   "tracks": [
     {
       "album": {
@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Rumori Di Notte",
+        "url": "https://open.spotify.com/album/1S9SdBPsQCziWWoXSO8azE"
+      },
+      "artists": [
+        {
+          "name": "Natural Sample Makers",
+          "url": "https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150836,
+      "name": "Addormentarsi",
+      "url": "https://open.spotify.com/track/5CJwgyuXlhfXiZzJI53BUw"
+    },
+    {
+      "album": {
         "name": "Airplane Sleep",
         "url": "https://open.spotify.com/album/5bkoo0uYmf8YyGvNb8Bbq0"
       },
@@ -74,6 +92,24 @@
       "duration_ms": 149630,
       "name": "Airplane Sleep Pt.1",
       "url": "https://open.spotify.com/track/53PHCS3cgaXm3JCIlAw6z8"
+    },
+    {
+      "album": {
+        "name": "Lean Noise",
+        "url": "https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg"
+      },
+      "artists": [
+        {
+          "name": "Hovar",
+          "url": "https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123702,
+      "name": "Ambient White Tones",
+      "url": "https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE"
     },
     {
       "album": {
@@ -491,6 +527,24 @@
     },
     {
       "album": {
+        "name": "My White Noise",
+        "url": "https://open.spotify.com/album/7MmViEsPhKqmO2JAc8CGm7"
+      },
+      "artists": [
+        {
+          "name": "BCCF",
+          "url": "https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98439,
+      "name": "Deepest Noise",
+      "url": "https://open.spotify.com/track/4i564XRLtCHgVcOCLHbGsX"
+    },
+    {
+      "album": {
         "name": "Do You Mind?",
         "url": "https://open.spotify.com/album/5mkGpRwDHBuQsTtzeexCDy"
       },
@@ -758,6 +812,42 @@
       "duration_ms": 144471,
       "name": "Focus Waves",
       "url": "https://open.spotify.com/track/3x0EoMEp16dyEcraUR1beL"
+    },
+    {
+      "album": {
+        "name": "The Rhythm Of Noise",
+        "url": "https://open.spotify.com/album/5A2FT4FE0UZU06spwKPqox"
+      },
+      "artists": [
+        {
+          "name": "Noise Factory",
+          "url": "https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142278,
+      "name": "Forever Ambient Noise",
+      "url": "https://open.spotify.com/track/4Qs93QCHeZOsf01IVNQCBY"
+    },
+    {
+      "album": {
+        "name": "Fuori Zona",
+        "url": "https://open.spotify.com/album/3lTDHYbUaQxWlYrmKaNOM0"
+      },
+      "artists": [
+        {
+          "name": "Molecualar Binary",
+          "url": "https://open.spotify.com/artist/4jtz7FSoYdL5pUWD6jk6av"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141177,
+      "name": "Fuori Zona",
+      "url": "https://open.spotify.com/track/7efOZRH7Zu4oCvQwZ8ppIq"
     },
     {
       "album": {
@@ -1085,6 +1175,42 @@
     },
     {
       "album": {
+        "name": "Lean Noise",
+        "url": "https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg"
+      },
+      "artists": [
+        {
+          "name": "Hovar",
+          "url": "https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137820,
+      "name": "Lean Noise",
+      "url": "https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp"
+    },
+    {
+      "album": {
+        "name": "A Waterfall of Noise",
+        "url": "https://open.spotify.com/album/0Zwsr67zu7UodgvugtKzex"
+      },
+      "artists": [
+        {
+          "name": "Doctor Sleep",
+          "url": "https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135233,
+      "name": "Light Noises",
+      "url": "https://open.spotify.com/track/2t3BUtYNYGoPcCeHamofRy"
+    },
+    {
+      "album": {
         "name": "Deep Space Voyage",
         "url": "https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN"
       },
@@ -1096,7 +1222,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 150000,
       "name": "Low Earth Orbit",
       "url": "https://open.spotify.com/track/6iFY0bfr83RB6oq8V6MkSG"
@@ -1168,7 +1294,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 116810,
       "name": "Mid-Side White Noise",
       "url": "https://open.spotify.com/track/0rf0CVZqFGwOxte6Si5eGw"
@@ -1301,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Noise Waterfalls",
+        "url": "https://open.spotify.com/album/7By7Jo2T4WuFDwzW7MRc02"
+      },
+      "artists": [
+        {
+          "name": "Misa Bee",
+          "url": "https://open.spotify.com/artist/5JSgVFubDnbqYDUWPzl4tj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137077,
+      "name": "Noise Waterfalls",
+      "url": "https://open.spotify.com/track/0XymKofC03Psmdmjj8PnY3"
+    },
+    {
+      "album": {
         "name": "Noises Around Midnight",
         "url": "https://open.spotify.com/album/45EGDZMD2JrXFvgGiyOd1U"
       },
@@ -1312,7 +1456,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 147729,
       "name": "Noises Around Midnight",
       "url": "https://open.spotify.com/track/6hT8OIauskCyrXLnJFLleI"
@@ -1456,7 +1600,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 179933,
       "name": "Peaceful White",
       "url": "https://open.spotify.com/track/4hquUhrAj1UdqfxxR3WrYT"
@@ -1697,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Rumore Bianco",
+        "url": "https://open.spotify.com/album/4jY7LaVziSQk1t9oYXxuD2"
+      },
+      "artists": [
+        {
+          "name": "Relaxed Minds",
+          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136719,
+      "name": "Rumore Bianco",
+      "url": "https://open.spotify.com/track/6FrJELq39kHa0lllsUgyS4"
+    },
+    {
+      "album": {
         "name": "Suoni Rumorosi",
         "url": "https://open.spotify.com/album/3TLWgb3JPo553zbZ87lVHC"
       },
@@ -1906,7 +2068,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 170743,
       "name": "Sleep White Noise",
       "url": "https://open.spotify.com/track/2PIPYbLr08KnTEMySW4xUm"
@@ -1924,7 +2086,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 167861,
       "name": "Sleep White Noise",
       "url": "https://open.spotify.com/track/2rwewa4alXBTiwbjaBYL1U"
@@ -2147,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Noiseosphere",
+        "url": "https://open.spotify.com/album/2svgGn5ga86l9QNLWiSVOH"
+      },
+      "artists": [
+        {
+          "name": "Enhanced Audio",
+          "url": "https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110712,
+      "name": "Space Out Noise",
+      "url": "https://open.spotify.com/track/1HuGfsAKC57Rn93ZwyVsWq"
+    },
+    {
+      "album": {
         "name": "Spaceful White",
         "url": "https://open.spotify.com/album/515zYmtJFsXmp6TGYQUTE2"
       },
@@ -2198,6 +2378,24 @@
       "duration_ms": 136719,
       "name": "Steady White Noise - LRMax - B",
       "url": "https://open.spotify.com/track/3tdSExXPATAXtpV5fHlfuj"
+    },
+    {
+      "album": {
+        "name": "Fuori Zona",
+        "url": "https://open.spotify.com/album/3lTDHYbUaQxWlYrmKaNOM0"
+      },
+      "artists": [
+        {
+          "name": "Molecualar Binary",
+          "url": "https://open.spotify.com/artist/4jtz7FSoYdL5pUWD6jk6av"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148607,
+      "name": "Suoni Del Cielo",
+      "url": "https://open.spotify.com/track/1OnPfzm1vpln863WmYMgt6"
     },
     {
       "album": {
@@ -2291,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Tunnel Noise",
+        "url": "https://open.spotify.com/album/3yRleiOvW3vcp3gubkr7gk"
+      },
+      "artists": [
+        {
+          "name": "Ecstatix",
+          "url": "https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Tunnel Noise",
+      "url": "https://open.spotify.com/track/0KNJrBUU6A93gsBlPo9F7Q"
+    },
+    {
+      "album": {
         "name": "Velara (Ambient Noise)",
         "url": "https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX"
       },
@@ -2320,7 +2536,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 198250,
       "name": "vitt brus",
       "url": "https://open.spotify.com/track/3IijRfMzh0X9ZZ2uyJTh1s"
@@ -2356,7 +2572,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 149220,
       "name": "Waterfall White Noise",
       "url": "https://open.spotify.com/track/4Gkn6mILYAhpdL3U9MPybz"
@@ -2608,7 +2824,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 103282,
       "name": "White Noise - 5.400 Hz - Cutoff",
       "url": "https://open.spotify.com/track/2jXPGCahGcWQAu7xZW4vHq"
@@ -2788,7 +3004,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 207834,
       "name": "White Noise 1795Hz",
       "url": "https://open.spotify.com/track/5iLpROHgIqGmOZWmlbWTum"
@@ -2824,7 +3040,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 172000,
       "name": "White Noise 550Hz",
       "url": "https://open.spotify.com/track/3S2Zy3vdacf3AOU5SSWYLX"
@@ -3418,7 +3634,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 163525,
       "name": "White Noise Resort",
       "url": "https://open.spotify.com/track/6glqD1h7HKXKKGuBzVMIWj"

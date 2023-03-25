@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Cody Johnson
 
-112 songs - 7 hr 58 min
+113 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(If You're Not In It For Love\) I'm Outta Here! \- Live](https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:57 | 2021-07-22 |  |
 | [21 Summer \- Live](https://open.spotify.com/track/49dulUPJIGiADT4YFygPKw) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 3:38 | 2021-07-22 |  |
 | [21st Century Honky Tonk American Band \- Live From The Palomino](https://open.spotify.com/track/785wGEGspnkK6hkwwscdOT) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Live From The Palomino](https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T) | 4:51 | 2021-07-22 |  |
+| [29 \- Live From Music City](https://open.spotify.com/track/78ETXDXipfmM7S9uw0CSwC) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone \(Live From Music City\)](https://open.spotify.com/album/67o5CFSmkDlqmeA2vkvZx8) | 3:43 | 2023-03-24 |  |
 | [80s Mercedes \(Live from SXSW 2016\)](https://open.spotify.com/track/6iYIdaolmbPVqKPxcspOIs) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Spotify Sessions](https://open.spotify.com/album/4uQJWohk7ZtN5yCIbWqIYm) | 3:48 | 2021-07-22 |  |
 | [All About Tonight \- Live](https://open.spotify.com/track/2bqx5ywTyyiZMLdNG1tpJD) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 3:39 | 2021-07-22 |  |
 | [American Honey \- Live](https://open.spotify.com/track/1du44Cc6iz8uXBKvvu8N77) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:43 | 2021-07-22 |  |

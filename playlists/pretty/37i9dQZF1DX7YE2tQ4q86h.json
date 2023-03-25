@@ -1,12 +1,12 @@
 {
   "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Doja Cat",
-  "num_followers": 68016,
+  "num_followers": 68440,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA2ODUyMywwMDAwMDAwMDBkMmU5NjE0YzNhOGRkNGMzMDQ5ZmMzYmUzZjUzZTc0",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDYxMTFlN2IyNzlmZjU3ZmExYTZkY2FkMGZlZDVhNjhl",
   "tracks": [
     {
       "added_at": "2023-03-17 15:55:23",
@@ -23,6 +23,22 @@
       "duration_ms": 134239,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "1-800-Bad-Bxtch",
+        "url": "https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 154691,
+      "name": "1-800-Bad-Bxtch",
+      "url": "https://open.spotify.com/track/3AzmPUPk59zgO3XURjGJ8R"
     },
     {
       "added_at": "2023-03-17 15:55:23",
@@ -51,6 +67,38 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/0MpphkdrO0WciFt7MihbEC"
+      },
+      "artists": [
+        {
+          "name": "Laurell",
+          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0vuyiZejJnlgQpxy6XK7u2"
     },
     {
       "added_at": "2023-03-17 15:55:23",
@@ -101,40 +149,20 @@
       "url": "https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff"
     },
     {
-      "added_at": "2023-03-17 15:55:23",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "My Crystal Nails",
-        "url": "https://open.spotify.com/album/4ofey6tFX89zVipl1LKwhh"
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
       },
       "artists": [
         {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
         }
       ],
-      "duration_ms": 108695,
-      "name": "My Crystal Nails",
-      "url": "https://open.spotify.com/track/6zIBnhXLG3K95f0OsUCPm0"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
-        "name": "Unicorn",
-        "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
-          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
-        }
-      ],
-      "duration_ms": 170900,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
+      "duration_ms": 210708,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
     },
     {
       "added_at": "2023-03-17 15:55:23",
@@ -155,6 +183,58 @@
       "duration_ms": 159417,
       "name": "Who the Hell Is Edgar?",
       "url": "https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI"
+    },
+    {
+      "added_at": "2023-03-17 15:55:23",
+      "album": {
+        "name": "My Crystal Nails",
+        "url": "https://open.spotify.com/album/4ofey6tFX89zVipl1LKwhh"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 108695,
+      "name": "My Crystal Nails",
+      "url": "https://open.spotify.com/track/6zIBnhXLG3K95f0OsUCPm0"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "So Hard So Hot",
+        "url": "https://open.spotify.com/album/01ixXX3vEIf4hDOmCkztMY"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "duration_ms": 267546,
+      "name": "So Hard So Hot",
+      "url": "https://open.spotify.com/track/3EkWwQyUB220deoBPcBWZl"
+    },
+    {
+      "added_at": "2023-03-17 15:55:23",
+      "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
+        {
+          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
+        }
+      ],
+      "duration_ms": 170900,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
     },
     {
       "added_at": "2023-03-17 15:55:23",
@@ -275,22 +355,6 @@
     {
       "added_at": "2023-03-17 15:55:23",
       "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "SET ME FREE (ENG)",
-      "url": "https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
       },
@@ -339,6 +403,22 @@
       "duration_ms": 178010,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Baby Was A Dancer",
+        "url": "https://open.spotify.com/album/2zVnQDbAYM3BS0gXjehgW4"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "duration_ms": 159353,
+      "name": "Baby Was A Dancer",
+      "url": "https://open.spotify.com/track/1TJ2BnYssITgFEuOGE0oIv"
     },
     {
       "added_at": "2023-03-17 15:55:23",
@@ -655,42 +735,6 @@
     {
       "added_at": "2023-03-17 15:55:23",
       "album": {
-        "name": "Water Pistol",
-        "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 219582,
-      "name": "Water Pistol",
-      "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0lTVQwPiUOS7ut4U01nl1Y"
-      },
-      "artists": [
-        {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
-        },
-        {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        }
-      ],
-      "duration_ms": 228804,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7aIqS1ulAFezQjAlQDn0hd"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
         "name": "Sugar (feat. Soaky Siren)",
         "url": "https://open.spotify.com/album/5r4LmZOSMh4xN8tjg3WzkO"
       },
@@ -823,38 +867,6 @@
     {
       "added_at": "2023-03-17 15:55:23",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/71ksMhG7YqwphT30LMElRK"
-      },
-      "artists": [
-        {
-          "name": "ZEE MACHINE",
-          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2WP51KZ9ijZ6Kh68X5n3oc"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph"
       },
@@ -979,22 +991,6 @@
       "duration_ms": 185389,
       "name": "ALERGICA",
       "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
-    },
-    {
-      "added_at": "2023-03-17 15:55:23",
-      "album": {
-        "name": "Perfect For You",
-        "url": "https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 178398,
-      "name": "Perfect For You",
-      "url": "https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP"
     },
     {
       "added_at": "2023-03-17 15:55:23",

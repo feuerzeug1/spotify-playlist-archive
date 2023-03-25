@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Reyna Roberts, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,081 likes - 104 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,117 likes - 104 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 103 | [But Girl I Can Love You](https://open.spotify.com/track/4Si76irRpQlgEuUThYVL0S) | [Trey Pendley](https://open.spotify.com/artist/2oOEyLAK9imfmtCtg591wy) | [But Girl I Can Love You](https://open.spotify.com/album/5Osx5r7zxP9AhCmUmx4Mzl) | 4:58 |
 | 104 | [Where We Are](https://open.spotify.com/track/6h1SHWsJ81fkkgD7GQYpKu) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Where We Are](https://open.spotify.com/album/1felNBmqgzWA2hIX4NsyLy) | 2:57 |
 
-Snapshot ID: `MTY3OTQ5OTgxMiwwMDAwMDAwMDVkZjliYmQ1NzRmZDZjMTMyMjQzYTkzNTg1MThkZmE2`
+Snapshot ID: `MTY3OTQ5OTgxMiwwMDAwMDAwMDc3NDg5NmIwMzZhM2Q5ZDI1YTQ5OWY5YWYxZWFhNzQz`

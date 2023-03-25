@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Kidella
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,403 likes - 102 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,428 likes - 102 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 101 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
 | 102 | [Tears](https://open.spotify.com/track/080jw3mXLGUOFgW9RgqgJF) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Tears](https://open.spotify.com/album/5p9RvzuyeX63MZqHPyd42h) | 2:55 |
 
-Snapshot ID: `MTY3OTIzODAwMCwwMDAwMDAwMDE2NWRiNWYwYTU4ZWE1ZWQ4MzFhMjk3YWU1MjM1MjY3`
+Snapshot ID: `MTY3OTIzODAwMCwwMDAwMDAwMDU2NTcxYjAxNjM5NDhmZjc2M2E5N2NiMzc5MGViYjk3`

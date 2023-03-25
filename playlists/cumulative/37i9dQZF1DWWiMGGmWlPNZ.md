@@ -4,7 +4,7 @@
 
 > Reach inner tranquility with peaceful Hang and ambient.
 
-81 songs - 5 hr 21 min
+82 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bryophyta](https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Tranquility](https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL) | 3:30 | 2022-09-08 |  |
 | [C\# Pygmy](https://open.spotify.com/track/6Hxgat5RmLkRvctiIFDr0G) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [The Journey](https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75) | 8:36 | 2022-09-08 |  |
 | [Come Hang With Me](https://open.spotify.com/track/3nkVPQqsAnSVfcwJ2tHXh1) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [Come Hang With Me](https://open.spotify.com/album/6dhlzRNnvtYFO7lLomD8hS) | 1:55 | 2022-09-08 |  |
+| [Day Dream](https://open.spotify.com/track/4ySaCVsJqGuiMDinbNf4tU) | [HandpanSolo](https://open.spotify.com/artist/2pOoggox0xym6qeDd6QStQ) | [Day Dream](https://open.spotify.com/album/5bQ31vPL6DlRcQ3Y8BHE3z) | 3:47 | 2023-03-24 |  |
 | [Deep Breathe](https://open.spotify.com/track/4lJEvmc9Ae4XjBABuHlbCH) | [Spiritual Meditation Vibes](https://open.spotify.com/artist/1ZxiigDh7uW74TuFXlb5WP) | [Hang Drum Music \- Relaxing Ambient for Meditation Yoga and Relax](https://open.spotify.com/album/7pptSJSIxXsiAWFVeOl6kh) | 3:28 | 2022-09-08 |  |
 | [Deep Mind Reset](https://open.spotify.com/track/3joV2wF6j5xmpicapG4Zzz) | [Tibetan Meditation](https://open.spotify.com/artist/5UAgX4YftBF7I3DqNKazf5) | [Deep Hang Drum Meditation](https://open.spotify.com/album/1BOyKKykHGbfjL6FyjOVqx) | 10:24 | 2022-09-08 |  |
 | [Dream](https://open.spotify.com/track/0dWwpUf92x3NIO7EGNiTe1) | [Handpan Paradise](https://open.spotify.com/artist/3SUdfJgl34LM3ual6dkXE6) | [Paradise](https://open.spotify.com/album/4akdB5BgbeG6uvszCIWbDG) | 1:46 | 2022-09-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "L'autoroute des tubes fran\u00e7ais !",
-  "num_followers": 66442,
+  "num_followers": 66631,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMxNTY1NSwwMDAwMDAwMDJjOGU0OWRiMzU5OGIyOThmOTFhMWUxZjU3YmRiZTg2",
+  "snapshot_id": "MTY3OTMxNTY1NSwwMDAwMDAwMDUzYmMwYTU5NmRkZDA4Mjc3MmJhOTE2OTAwNTc5ZTAz",
   "tracks": [
     {
       "added_at": "2023-03-20 12:34:15",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Debout les yeux ouverts",
-        "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
-      },
-      "artists": [
-        {
-          "name": "Sins\u00e9milia",
-          "url": "https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Tout le bonheur du monde",
-      "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "Cure",
         "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
       },
@@ -255,18 +239,18 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
+        "name": "Debout les yeux ouverts",
+        "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
       },
       "artists": [
         {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+          "name": "Sins\u00e9milia",
+          "url": "https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY"
         }
       ],
-      "duration_ms": 178786,
-      "name": "Tiago",
-      "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
+      "duration_ms": 229426,
+      "name": "Tout le bonheur du monde",
+      "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -283,6 +267,22 @@
       "duration_ms": 273680,
       "name": "Encore et encore - Remastered",
       "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "Tiago",
+      "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "L'Ange De Mon D\u00e9mon",
-        "url": "https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0"
-      },
-      "artists": [
-        {
-          "name": "Ridan",
-          "url": "https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ulysse",
-      "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "L'attrape-r\u00eaves",
         "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 250480,
       "name": "Il est o\u00f9 le bonheur",
       "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "L'Ange De Mon D\u00e9mon",
+        "url": "https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0"
+      },
+      "artists": [
+        {
+          "name": "Ridan",
+          "url": "https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ulysse",
+      "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Palais d'argile",
-        "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
       "artists": [
         {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
         }
       ],
-      "duration_ms": 214464,
-      "name": "Monde Nouveau",
-      "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+        "name": "Palais d'argile",
+        "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
       },
       "artists": [
         {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+      "duration_ms": 214464,
+      "name": "Monde Nouveau",
+      "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Ailleurs Land",
-        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
-      },
-      "artists": [
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        }
-      ],
-      "duration_ms": 204546,
-      "name": "Ma libert\u00e9 de penser",
-      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "Sacha Distel: Crooner",
         "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "Ailleurs Land",
+        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
+      },
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "duration_ms": 204546,
+      "name": "Ma libert\u00e9 de penser",
+      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
-      },
-      "artists": [
-        {
-          "name": "Garou",
-          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Seul",
-      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "Brigitte Bardot",
         "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 155800,
       "name": "La madrague",
       "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Vari\u00e9ty",
-        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
+        "name": "Meilleurs souvenirs - Best Of",
+        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
       },
       "artists": [
         {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+          "name": "Les Innocents",
+          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
         }
       ],
-      "duration_ms": 219933,
-      "name": "Ding Dang Dong (Ringing at Your Bell)",
-      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+      "duration_ms": 249666,
+      "name": "L'autre finist\u00e8re",
+      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Meilleurs souvenirs - Best Of",
-        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
+        "name": "Vari\u00e9ty",
+        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
       "artists": [
         {
-          "name": "Les Innocents",
-          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
         }
       ],
-      "duration_ms": 249666,
-      "name": "L'autre finist\u00e8re",
-      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
+      "duration_ms": 219933,
+      "name": "Ding Dang Dong (Ringing at Your Bell)",
+      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
     },
     {
       "added_at": "2023-03-20 12:34:15",

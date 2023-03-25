@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : THABITI",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : GR OMEGA",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 238652,
       "name": "Alita (feat. Rounhaa)",
       "url": "https://open.spotify.com/track/2QpRNqd5FP0XQqRCYl2wno"
@@ -282,10 +282,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174808,
       "name": "ANNABA - Dysphoria",
       "url": "https://open.spotify.com/track/53QvbD37VhzV9huvVZ6eYL"
+    },
+    {
+      "album": {
+        "name": "AUDIOWAVE",
+        "url": "https://open.spotify.com/album/22UPiEUYQQdOM4kMzi94sC"
+      },
+      "artists": [
+        {
+          "name": "GR OMEGA",
+          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148487,
+      "name": "AUDIOWAVE",
+      "url": "https://open.spotify.com/track/7wodZKwS4F2IB1lPjHTMWx"
     },
     {
       "album": {
@@ -322,7 +340,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 201973,
       "name": "Avant la fin (feat. Zamdane)",
       "url": "https://open.spotify.com/track/19OckgD8qk3bmeT4xoJ3js"
@@ -851,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Sous l'averse",
+        "url": "https://open.spotify.com/album/4XXVV9QRUogm1ZU9oYHcwy"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "En bas de chez moi",
+      "url": "https://open.spotify.com/track/3OzkuO27kVWHxiQESqVvmw"
+    },
+    {
+      "album": {
         "name": "Encre noire",
         "url": "https://open.spotify.com/album/3RVlLLK6BbaGeNZBCAaGjO"
       },
@@ -916,7 +952,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 206082,
       "name": "Et Toi",
       "url": "https://open.spotify.com/track/1dKMbHYfQld5oGdGsKX3nP"
@@ -2563,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "QLT",
+        "url": "https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9"
+      },
+      "artists": [
+        {
+          "name": "sheng",
+          "url": "https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157837,
+      "name": "QLT",
+      "url": "https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT"
+    },
+    {
+      "album": {
         "name": "Regarde",
         "url": "https://open.spotify.com/album/223Z3aR3oXho7do2t6IPeY"
       },
@@ -2676,6 +2730,28 @@
       "duration_ms": 213840,
       "name": "R\u00eaves",
       "url": "https://open.spotify.com/track/4L97bPfGaKer70DbK9tgxM"
+    },
+    {
+      "album": {
+        "name": "Sablier",
+        "url": "https://open.spotify.com/album/70Nsk4X75Nmy4i9szdsHIw"
+      },
+      "artists": [
+        {
+          "name": "Bvnxx",
+          "url": "https://open.spotify.com/artist/2TwMqEV4AVSnr4o7vzl5jA"
+        },
+        {
+          "name": "ODM",
+          "url": "https://open.spotify.com/artist/4i9BI1ZsDeOLmvO012cFI9"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190772,
+      "name": "Sablier",
+      "url": "https://open.spotify.com/track/3fIZcRTmRhbEX4Yr0QItkU"
     },
     {
       "album": {
@@ -2824,7 +2900,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 185968,
       "name": "Si \u00e7a compte",
       "url": "https://open.spotify.com/track/2KGyvpsnb8PXovZx4ecfUF"
@@ -2860,7 +2936,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 197400,
       "name": "SKYLER",
       "url": "https://open.spotify.com/track/7eDBP5VI6Ouv7J39dHQo8V"
@@ -3030,6 +3106,24 @@
       "duration_ms": 237783,
       "name": "Temp\u00eate",
       "url": "https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa"
+    },
+    {
+      "album": {
+        "name": "Tout peut s'effacer",
+        "url": "https://open.spotify.com/album/3FPxbZhLbM2AJ7E0jthbco"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197441,
+      "name": "Tout peut s'effacer",
+      "url": "https://open.spotify.com/track/04lh5nf7uhCtzdD60ZtXHk"
     },
     {
       "album": {
@@ -3236,6 +3330,28 @@
       "duration_ms": 128000,
       "name": "\u00c9lastique (Freestyle BDLB #1)",
       "url": "https://open.spotify.com/track/5Qcl3FNCGGClPX9wz7pE7D"
+    },
+    {
+      "album": {
+        "name": "VAGALAME",
+        "url": "https://open.spotify.com/album/011c9UckMBRFQmp1ZgRA0P"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e"
+        },
+        {
+          "name": "J9ueve",
+          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "\u00c9T\u00c9 HIVER",
+      "url": "https://open.spotify.com/track/37dQuMCbUX9ikesEh9AP6A"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr"

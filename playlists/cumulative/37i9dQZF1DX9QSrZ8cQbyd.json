@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Mrs Frog's Daydream",
+        "url": "https://open.spotify.com/album/6eOknQiLxgdrGjAoU4iTjr"
+      },
+      "artists": [
+        {
+          "name": "Violet T. Fairy",
+          "url": "https://open.spotify.com/artist/6fXaDTtt60oFxjv14wZIDG"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102539,
+      "name": "Mrs Frog's Daydream",
+      "url": "https://open.spotify.com/track/0vXRZnhZxqGqZpOf0xKvrG"
+    },
+    {
+      "album": {
         "name": "My Best Friend (Music Box)",
         "url": "https://open.spotify.com/album/2HVBSZTbSpTlS3MFHWyyuL"
       },
@@ -2237,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Reach For The Sky",
+        "url": "https://open.spotify.com/album/3mYizGxsSChdHYtjKgvp6v"
+      },
+      "artists": [
+        {
+          "name": "Melina Lugn",
+          "url": "https://open.spotify.com/artist/2L4aEUABQWSMXk23DTxj5M"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Reach For The Sky",
+      "url": "https://open.spotify.com/track/7sFO8W8seBZPnL2fftJhFd"
+    },
+    {
+      "album": {
         "name": "See You Soon Racoon",
         "url": "https://open.spotify.com/album/18qy74Bj6I9aZEjSNK1eIS"
       },
@@ -2702,6 +2738,24 @@
       "duration_ms": 86486,
       "name": "The Rooster",
       "url": "https://open.spotify.com/track/3G691fRcbrkjBPeN5X2tO5"
+    },
+    {
+      "album": {
+        "name": "Music Box Fairytales",
+        "url": "https://open.spotify.com/album/6mLKdRWCbi1WlUu6afxwzr"
+      },
+      "artists": [
+        {
+          "name": "Aveline Auclair",
+          "url": "https://open.spotify.com/artist/6FL5lxsl1kpKAEUeDliRoC"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93272,
+      "name": "The Sleepy Elephant Song",
+      "url": "https://open.spotify.com/track/2ViNyGnb3YhNN2XYjg3IaJ"
     },
     {
       "album": {

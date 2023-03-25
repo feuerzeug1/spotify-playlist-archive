@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,319 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,318 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 52 | [Hielo](https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Hielo](https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u) | 3:08 |
 | 53 | [Metralleta](https://open.spotify.com/track/3L7RYCRoKOnqsgDL9cXdUD) | [Acuario Cosmico](https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY) | [Metralleta](https://open.spotify.com/album/5nY5psozTUXskeoczm947N) | 2:35 |
 | 54 | [La Luna Y Las Melodías](https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [La Luna Y Las Melodías](https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ) | 3:19 |
-| 55 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 |
+| 55 | [SAMURAI](https://open.spotify.com/track/2isPgaZRGBRCeOor7zrAzg) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [SAMURAI](https://open.spotify.com/album/7jsidCZ1BLRHJbsuN0TTkO) | 3:20 |
 | 56 | [Ceniza](https://open.spotify.com/track/0U0gXgyUw0QZ7rzLP2gRDQ) | [Joint Ravolta](https://open.spotify.com/artist/6iOXlI4iuOoXZO1gzp99UW) | [Ceniza](https://open.spotify.com/album/2LpgUOTVv0nFoaP9wuf4wq) | 3:06 |
 | 57 | [Liberarme](https://open.spotify.com/track/6Zjcuz6NxB4DLt9b02ZV4B) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Liberarme](https://open.spotify.com/album/2RXzMbdC6uYKV4oTMXdbw3) | 3:23 |
 | 58 | [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 69 | [ME QUIERO QUEDAR \- morko remix](https://open.spotify.com/track/6sHrSoKOTHwlZTJ9Pewwej) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Morko](https://open.spotify.com/artist/7ECK6zVWsnoTS1k3kH7mzt) | [NO VAYA A LA FIESTA REMIX](https://open.spotify.com/album/4rUFwIVoRO3shvDEs5N7ek) | 2:29 |
 | 70 | [malo](https://open.spotify.com/track/76U4q9ZuZAtk1BPN96H6Zz) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 3:03 |
 
-Snapshot ID: `MTY3MTc0NjEwMCwwMDAwMDAwMDVlNWE5ZTAwYjY3MTNhY2E5MjVkM2RlOWFhODMwMWM1`
+Snapshot ID: `MTY3MTc0NjEwMCwwMDAwMDAwMDg0OWJiZGEyYmQ0NjE1NTQ2ODU2MjY1NjIwMzhlMmM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Kat & Alex
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,913 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,956 likes - 99 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 22 | [Someone Just Like You](https://open.spotify.com/track/3QrLq2W0y6hWgr2cgiCTRF) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP), [Aria Fenix](https://open.spotify.com/artist/2037mdH5NiUF4UrZRBh5vb) | [Someone Just Like You](https://open.spotify.com/album/74omuBW8hpg3xNNW4wy5xX) | 2:34 |
 | 23 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 |
 | 24 | [Island of Heaven](https://open.spotify.com/track/0N3chwzAmCThKkFm6Hx6Y7) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Island of Heaven](https://open.spotify.com/album/7rRPMkwHsePa5fKYfb9zOW) | 3:21 |
-| 25 | [Hell in a Handbag](https://open.spotify.com/track/3AU9pWnplEeKOQP55P66kr) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/7El9JLvuISfaC9EZACDzX7) | 3:23 |
+| 25 | [Hell in a Handbag](https://open.spotify.com/track/4bzfqry6i0gBvGTh8mLg9M) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/38TOkbMjRxyTjkEFCNZsGs) | 3:24 |
 | 26 | [La Prisión De Folsom \(Folsom Prison Blues\) \- Live At Folsom Prison](https://open.spotify.com/track/6h23gt9orDwsnjl2R1MGpN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Tigres Del Norte At Folsom Prison \(Original Soundtrack/Live\)](https://open.spotify.com/album/3vEowTdZIpdcVdbLlqZc6q) | 3:19 |
 | 27 | [Late](https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:52 |
 | 28 | [Homesick](https://open.spotify.com/track/7esySixzBv7n9uM259kLeP) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Homesick](https://open.spotify.com/album/7BZblgdX1lrGf0sdu0MG3P) | 3:24 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 98 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 99 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDQyODEwMjVhM2E3NjIyNWNkZjI3MmVlYjgzNGUyOGVk`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDRiYTM4Y2VlNjQyMTJhNmE3MzE4YmZmYWE0OTgxYjQx`

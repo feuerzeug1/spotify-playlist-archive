@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-179 songs - 11 hr 34 min
+182 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Nobody Leaves The Same](https://open.spotify.com/track/5AkG5qu7FyslQ3svT9RdrF) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Before The Breakthrough](https://open.spotify.com/album/3Tg4oCrveWBzTLwrj9Bbxv) | 4:08 | 2022-08-19 |  |
 | [Note To Self](https://open.spotify.com/track/03jxYc3qHguRZ6FEwWJ7Oq) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Note To Self](https://open.spotify.com/album/0a1mn8XN8wdYDRqMpJ13Jh) | 3:06 | 2022-03-25 |  |
 | [Nothing Else](https://open.spotify.com/track/5KXVeVXTMuCJnkK8YSC3FC) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 6:33 | 2022-07-01 |  |
+| [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 | 2023-03-24 |  |
 | [Oasis](https://open.spotify.com/track/4v46PjKcRvS5UIzyOxwomh) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Stephen Stanley](https://open.spotify.com/album/52PGrNeJX0ICMI05KfAK7L) | 3:37 | 2022-02-17 | 2022-08-27 |
 | [On And On](https://open.spotify.com/track/1pECacoxvlJZUOaaZl3Qlv) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [On And On](https://open.spotify.com/album/1jtk79QrzBfGaswpzCjPBk) | 5:34 | 2022-04-29 |  |
 | [On Repeat](https://open.spotify.com/track/5Bi3QUmWibSNUnvAAQ1OmK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Jad Gillies](https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [On Repeat](https://open.spotify.com/album/2unrWe1Pnq59gnq35fhYfC) | 4:31 | 2022-02-17 |  |
@@ -169,6 +170,7 @@
 | [This Is How I Thank The Lord](https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9) | 3:10 | 2022-04-08 |  |
 | [This Is Living](https://open.spotify.com/track/6TCk1yecQRDU5sXG3vjTYj) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [This Is Living](https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc) | 3:30 | 2022-07-01 |  |
 | [Too Many Times](https://open.spotify.com/track/30IZvy8ndqVCUMohvLhcQu) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Too Many Times](https://open.spotify.com/album/3Pj5a3zsv1vJF9TYmXpUQR) | 3:25 | 2022-02-17 | 2022-08-27 |
+| [Trees We'll Never See](https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Trees We'll Never See](https://open.spotify.com/album/7aiVLC89sRra8FSVao9p0E) | 4:07 | 2023-03-24 |  |
 | [True Love](https://open.spotify.com/track/690c43quycAQBnis0vi4mY) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 2:55 | 2022-02-17 | 2022-08-27 |
 | [Unexpected Roads](https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Unexpected Roads](https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm) | 3:44 | 2022-03-11 |  |
 | [Waking Up](https://open.spotify.com/track/5jwakA3WYHMeucmgu0tjbD) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 5:16 | 2022-07-01 |  |
@@ -183,6 +185,7 @@
 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 | 2023-02-03 |  |
 | [Without You](https://open.spotify.com/track/5gdiTtT4acVSQb092WK7BH) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 3:29 | 2022-02-17 | 2022-08-27 |
 | [Worth The Risk](https://open.spotify.com/track/3pAitauaR81jvNaIOZADN2) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Worth The Risk](https://open.spotify.com/album/0ot0DHzWGM9sDU08ExesC3) | 3:16 | 2022-02-18 |  |
+| [Yes I Am](https://open.spotify.com/track/7IQYAlR6q2wGlaWvorpG26) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Yes I Am](https://open.spotify.com/album/1bHjY0S3ZXc6Nd6inraB6W) | 2:47 | 2023-03-24 |  |
 | [YOU](https://open.spotify.com/track/2Csxc3KRQIQvZZse0Mdu5O) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [YOU](https://open.spotify.com/album/24BVyQpCuwSATtq4oBJoON) | 4:05 | 2022-02-17 | 2022-08-27 |
 | [You](https://open.spotify.com/track/5Hi0fGAj0HPQtjkMwnlQ1u) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [You](https://open.spotify.com/album/1sq30FcNaSXJ0xMFPx7joK) | 3:00 | 2022-02-17 | 2022-08-27 |
 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 | 2022-08-05 |  |

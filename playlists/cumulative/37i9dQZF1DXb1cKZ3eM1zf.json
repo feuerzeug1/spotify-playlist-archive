@@ -154,7 +154,7 @@
     {
       "album": {
         "name": "Deleted Scenes From The Cutting Room Floor",
-        "url": "https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR"
+        "url": "https://open.spotify.com/album/7KYgUgJTrsxT4gkHRALi3R"
       },
       "artists": [
         {
@@ -165,6 +165,24 @@
       "date_added": "2019-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225931,
+      "name": "A Night Like This",
+      "url": "https://open.spotify.com/track/7nuBU1HCcOwG5f1orN4ByW"
+    },
+    {
+      "album": {
+        "name": "Deleted Scenes From The Cutting Room Floor",
+        "url": "https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        }
+      ],
+      "date_added": "2019-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
       "duration_ms": 225933,
       "name": "A Night Like This",
       "url": "https://open.spotify.com/track/4CGgcpgWRnAqJXK6PXQLB1"

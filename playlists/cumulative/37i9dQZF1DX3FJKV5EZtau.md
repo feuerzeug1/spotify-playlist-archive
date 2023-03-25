@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-346 songs - 20 hr 2 min
+347 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [PROTECT ME](https://open.spotify.com/track/25IKQf7q26ktWb3JluaM2U) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Yadosan](https://open.spotify.com/artist/1mCavamEMIEh1fnGcLSk3J) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 2:24 | 2023-02-17 |  |
 | [PROTECT ME](https://open.spotify.com/track/5lSGL6BnaHsW22aeOCq5ZU) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Yadosan](https://open.spotify.com/artist/1mCavamEMIEh1fnGcLSk3J) | [PROTECT ME](https://open.spotify.com/album/56kpqdHI02XgcKGzIF2V7c) | 2:24 | 2022-10-27 | 2023-02-26 |
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2022-07-14 | 2022-08-06 |
-| [pure boi](https://open.spotify.com/track/4NF5504D4wi9Mwhxxb6xRA) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [pure boi](https://open.spotify.com/album/1u5Brj1ITZoXD7dufOOWqY) | 3:28 | 2023-01-06 |  |
+| [pure boi](https://open.spotify.com/track/4NF5504D4wi9Mwhxxb6xRA) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [pure boi](https://open.spotify.com/album/1u5Brj1ITZoXD7dufOOWqY) | 3:28 | 2023-01-06 | 2023-03-25 |
 | [QUESTIONS](https://open.spotify.com/track/1meEjEL51PAhzfotkDrW0s) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [QUESTIONS](https://open.spotify.com/album/397RpEGxIhFpIXy43lWOwZ) | 3:05 | 2022-01-07 | 2022-07-28 |
 | [RAD](https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [RAD](https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ) | 4:00 | 2022-10-07 |  |
 | [Radio Silence](https://open.spotify.com/track/6dMqEBFNiMB55MeO4lYk9K) | [KERO](https://open.spotify.com/artist/1buRQJUaOGTgp36hBMda6y) | [Radio Silence](https://open.spotify.com/album/7dJWuurJbcRoyCoWMoXExd) | 3:28 | 2022-01-28 | 2022-07-29 |
@@ -289,6 +289,7 @@
 | [Silver Lining](https://open.spotify.com/track/0RfwOCCfixdYgdgQcEjw4G) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV) | [Silver Lining](https://open.spotify.com/album/3qpkXNBQQSP7DAYeBSOpnW) | 2:27 | 2022-01-07 |  |
 | [Sky Blue](https://open.spotify.com/track/0YBra1QGuIhdTWlEwnEkQY) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [Sky Blue](https://open.spotify.com/album/4ZSrFB51VBeLnT1guceWnm) | 3:07 | 2022-01-07 | 2022-07-13 |
 | [Skydive](https://open.spotify.com/track/1MxEjfa6CxBZTT1xDTaCcX) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [Skydive](https://open.spotify.com/album/3r8O0lCTxO7MOmSlgN5hBw) | 2:58 | 2022-04-15 | 2022-10-27 |
+| [skyscraper](https://open.spotify.com/track/4i87u5anIS97aQmulZU11D) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎skyscraper](https://open.spotify.com/album/78r14RCs0xkOIIM38usQXQ) | 1:25 | 2023-03-24 |  |
 | [Sleeping On My Own Again](https://open.spotify.com/track/0ADSxxXg91rM3jN6pd00h3) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Sleeping On My Own Again](https://open.spotify.com/album/39wx8VIgVvxyUsmoNCZpQr) | 3:15 | 2022-01-07 |  |
 | [Somebody Else](https://open.spotify.com/track/7qXFLa1RfT8aYBVvTHcfzH) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Somebody Else](https://open.spotify.com/album/0RzdjXDnexGsG8JM2oSGEl) | 4:02 | 2022-08-05 | 2022-08-30 |
 | [Someone Else’s Dream \(CASTLE\. Edit\)](https://open.spotify.com/track/56oC5buLanioZDYpK2q94t) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [CASTLE.](https://open.spotify.com/artist/6IcVDBaltKmVE8Asl4p8FM) | [Someone Else’s Dream](https://open.spotify.com/album/6Kr3T5LjvpUl4QKipF5qqs) | 4:06 | 2022-01-07 | 2022-07-29 |

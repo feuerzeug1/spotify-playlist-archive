@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Fanicko",
+  "description": "African dance party music from Paris to Abidjan. Photo : Obam's",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 206470,
       "name": "Coup\u00e9 D\u00e9cal\u00e9 SuperSonic",
       "url": "https://open.spotify.com/track/3WaX1ciQMCAuI9kAD8xpTQ"
@@ -602,6 +602,28 @@
       "duration_ms": 168756,
       "name": "DJAKOTO",
       "url": "https://open.spotify.com/track/4bbLwc6FSnibrV6iZeJ2hM"
+    },
+    {
+      "album": {
+        "name": "Do Do Do",
+        "url": "https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT"
+      },
+      "artists": [
+        {
+          "name": "Debordo Leekunfa",
+          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229340,
+      "name": "Do Do Do",
+      "url": "https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1"
     },
     {
       "album": {
@@ -1046,6 +1068,24 @@
       "duration_ms": 245084,
       "name": "Judas",
       "url": "https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo"
+    },
+    {
+      "album": {
+        "name": "Ketebo",
+        "url": "https://open.spotify.com/album/7qfS1oh8pMTb5mBwKbFA7A"
+      },
+      "artists": [
+        {
+          "name": "Jr La Melo",
+          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174762,
+      "name": "Ketebo",
+      "url": "https://open.spotify.com/track/2jQsq7YctsPXWrEqdBgLbU"
     },
     {
       "album": {
@@ -2240,7 +2280,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 236286,
       "name": "Zozo",
       "url": "https://open.spotify.com/track/1Syhx5tRxvICLuxeDVwHIp"

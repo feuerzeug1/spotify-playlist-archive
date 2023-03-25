@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,144 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,334 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 13 | [Mountain Dew \- Original King Recordings](https://open.spotify.com/track/4Ygk7VMmn6izMPf0TSBayF) | [Grandpa Jones](https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD) | [Complete King Recordings 1943\-1956 \- Volume 2 Of Four \(Original King Recordings\)](https://open.spotify.com/album/1TXPDEHNJspu6tL4xL0osA) | 2:45 |
 | 14 | [Home On the Range](https://open.spotify.com/track/1Hr94ZADw5cfltOCueNNPK) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:38 |
 | 15 | [I Want to Be a Cowboy's Sweetheart](https://open.spotify.com/track/1RIQw2QuIglFKwBgzRidIe) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG), [Prairie Ramblers](https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W) | [Patsy Montana \(Doxy Collection\)](https://open.spotify.com/album/6X7NzTn7L81LSlxSsHIGFD) | 3:10 |
-| 16 | [Tumbling Tumbleweeds \- Single Version](https://open.spotify.com/track/57D6AiyvWKSZppMyp8HNFl) | [Sons of the Pioneers](https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68) | [Tumbling Tumbleweeds](https://open.spotify.com/album/2agohVudwSuZZFarAjZmkh) | 3:16 |
+| 16 | [Tumbling Tumbleweeds \- Single Version](https://open.spotify.com/track/57D6AiyvWKSZppMyp8HNFl) | [Sons of the Pioneers](https://open.spotify.com/artist/05FDFpC7GMP5iLbBwpkJYs) | [Tumbling Tumbleweeds](https://open.spotify.com/album/2agohVudwSuZZFarAjZmkh) | 3:16 |
 | 17 | [The Great Speckled Bird](https://open.spotify.com/track/0SyItgjx7nI4uOb3a3Esh7) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [Greatest Hits](https://open.spotify.com/album/0wRceJqjya1BV4iV1dmHwF) | 2:43 |
 | 18 | [Take Me Back To Tulsa](https://open.spotify.com/track/74zBjPCZ1juar6yeglInYv) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:34 |
 | 19 | [Back In The Saddle Again](https://open.spotify.com/track/4eePcTiLO6o5W4ejSQ7uSn) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:35 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 106 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/6EGRx5TVuHAsmy3JKb8SRC) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5) | 3:23 |
 | 107 | [Fancy](https://open.spotify.com/track/1ecIqo8pOc8S6y3l80iGxd) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Best Of/20th Century](https://open.spotify.com/album/0Rb3coYXuUlgRLoi3UhADa) | 4:56 |
 
-Snapshot ID: `MTY3MzY0MjE3NCwwMDAwMDAwMGQ0OTNkNmZiMDk4ZmY0Y2JmMDJlMWQ1MDEyODMzZTk4`
+Snapshot ID: `MTY3MzY0MjE3NCwwMDAwMDAwMGNjZTMwOWEzNzM0MzFkYzEwZjdmYTE2MzJhYzhlM2Qw`

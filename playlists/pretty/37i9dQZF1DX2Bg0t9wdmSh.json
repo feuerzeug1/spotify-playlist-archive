@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 3172,
+  "num_followers": 3202,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGUzNmZjZGIwNGZkZDNkODY3MjEzYzJiYWMyNjIxN2Qz",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGNmN2NjN2MxYzA3MzZkNzNlODE5NDM1NDQ0MjYyNjY5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Beat Box",
-        "url": "https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si"
-      },
-      "artists": [
-        {
-          "name": "SpotemGottem",
-          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
-        }
-      ],
-      "duration_ms": 110497,
-      "name": "Beat Box",
-      "url": "https://open.spotify.com/track/3wCx8pwK7J1LVe13dFXjPm"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "B*tch From Da Souf",
         "url": "https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 144047,
       "name": "B*tch From Da Souf",
       "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Beat Box",
+        "url": "https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        }
+      ],
+      "duration_ms": 110497,
+      "name": "Beat Box",
+      "url": "https://open.spotify.com/track/3wCx8pwK7J1LVe13dFXjPm"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -703,26 +703,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Muwop (feat. Gucci Mane)",
-        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Muwop (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Shiesty Season",
         "url": "https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 276239,
       "name": "Walk (feat. Lil Baby & 42 Dugg)",
       "url": "https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Muwop (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Muwop (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -863,6 +863,42 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Twerksum",
+        "url": "https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 193515,
+      "name": "Twerksum",
+      "url": "https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "RNB (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "RNB (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "I Hit It First - Single",
         "url": "https://open.spotify.com/album/3SVqHW2Hq7hOtkN0AGU4RT"
       },
@@ -879,22 +915,6 @@
       "duration_ms": 205714,
       "name": "I Hit It First",
       "url": "https://open.spotify.com/track/6nJN1GYIHIdg1HQtrmJsqU"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Twerksum",
-        "url": "https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 193515,
-      "name": "Twerksum",
-      "url": "https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -931,26 +951,6 @@
       "duration_ms": 171500,
       "name": "Black Men Don't Cheat (feat. Charlamagne tha God)",
       "url": "https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "RNB (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "RNB (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
     }
   ],
   "unique_name": "Justin Laboy's Taste",

@@ -383,6 +383,32 @@
     },
     {
       "album": {
+        "name": "Grass Is Greener (feat. SEM)",
+        "url": "https://open.spotify.com/album/1T5wlktsoLB93xm6TobPk1"
+      },
+      "artists": [
+        {
+          "name": "Horizon Blue",
+          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196572,
+      "name": "Grass Is Greener (feat. SEM)",
+      "url": "https://open.spotify.com/track/1lvwGOKo5nT6W4wajlVCVu"
+    },
+    {
+      "album": {
         "name": "Hey Maria - EP",
         "url": "https://open.spotify.com/album/4zb7p3vznnnhJaihdKtxR6"
       },
@@ -1108,7 +1134,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 147750,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/2W0otyOuO6PixES66V4SgR"

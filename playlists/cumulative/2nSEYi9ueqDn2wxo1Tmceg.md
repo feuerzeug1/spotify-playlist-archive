@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-407 songs - 1 day 3 hr 34 min
+408 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Karaoke](https://open.spotify.com/track/4WCPrvhloByVBtR0A9hqoo) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Karaoke](https://open.spotify.com/album/4Wl09axz0nWF0XwdZn4TYJ) | 3:41 | 2022-07-27 | 2022-09-15 |
 | [Key To The City](https://open.spotify.com/track/3QAT8Y88JqW2nZWFYots94) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Key To The City](https://open.spotify.com/album/1iv4L6ZunwwdI1wbvdYH4L) | 3:40 | 2022-09-06 | 2022-10-21 |
 | [Kiss U](https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Kiss U](https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd) | 5:35 | 2022-09-12 | 2022-10-21 |
+| [Kiss U \- Ricardo Villalobos Remix](https://open.spotify.com/track/2BsDtdmu8H6ZlMWK4oPlL6) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4) | [♡ \(Ricardo Villalobos Remixes\)](https://open.spotify.com/album/09Sz1xnLiKWOXPz0BMxt51) | 13:16 | 2023-03-23 |  |
 | [Late Summer](https://open.spotify.com/track/2QHz1w5U0f1WH8ERUeaqTY) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [Late Summer](https://open.spotify.com/album/03W3LbVi8mDI8ROPCHFHMZ) | 3:22 | 2022-10-20 | 2022-12-08 |
 | [Lay Down Your Roses](https://open.spotify.com/track/62TP94nFhtUIkXu2lhMKXM) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Two Beauties](https://open.spotify.com/album/6cTVO4cyNK7bFGFh2ivUHQ) | 3:05 | 2022-06-08 | 2022-06-23 |
 | [Leavin](https://open.spotify.com/track/2pPKrqMneGx5WzIcOf13ja) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Leavin](https://open.spotify.com/album/1RHQm5DPitTEdZgS43L6GJ) | 2:57 | 2023-02-15 | 2023-03-23 |

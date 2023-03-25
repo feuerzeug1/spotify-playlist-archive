@@ -4,10 +4,11 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg?si=6odau6YDS9Sxgdo\-Vrpgsw"> Lindsey Abudei</a>
 
-93 songs - 5 hr 47 min
+96 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Addicted To You Rehearsal \- 432hz Live](https://open.spotify.com/track/7Jndt5DSBd6lDzCS4u1B66) | [Christiano Can](https://open.spotify.com/artist/41k5COVWW07O4xVBHSDkMj), [Nakeisha Godzone](https://open.spotify.com/artist/5lDBIdDrDDshZvO58HHAGB) | [Addicted To You Rehearsal \(432hz Live\)](https://open.spotify.com/album/1Wt988aKnqhcllzkzSQtah) | 6:17 | 2023-03-24 |  |
 | [Aduro](https://open.spotify.com/track/6rIWBggXDvvVMID5Zv2Hy3) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi) | [Dasein](https://open.spotify.com/album/2MkAYlPVkYBg0CmbkTBU6I) | 7:36 | 2022-06-23 |  |
 | [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2020-05-28 | 2022-12-09 |
 | [African Dreams \- Remix](https://open.spotify.com/track/1AzyicgmCSykHZPdoD4bne) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [African Dreams](https://open.spotify.com/album/3u0AbRSbiEA0AznlbtDrJZ) | 3:55 | 2022-12-08 |  |
@@ -76,6 +77,7 @@
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-06-30 |  |
 | [Sit](https://open.spotify.com/track/1hBrYBkodukH2i2rFoVMdU) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Sit](https://open.spotify.com/album/7iHjmNXtnx9n0V5gQkD151) | 2:26 | 2023-03-03 |  |
 | [Smile Before You Sleep](https://open.spotify.com/track/566lx0Fuz2OwQqmdr0PkIX) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 | 2022-09-30 |  |
+| [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 | 2023-03-24 |  |
 | [Soft Life](https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Soft Life](https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG) | 2:34 | 2022-08-26 |  |
 | [Soni Lene](https://open.spotify.com/track/2y9EC2nMGKwIqohE2eDFW0) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Soni Lene](https://open.spotify.com/album/1BSFzidGa1HoyMS4i3Kzvu) | 5:07 | 2023-02-16 |  |
 | [Stand Tall](https://open.spotify.com/track/5BPaHu1s9tntVtVnOQ5LL0) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [Stand Tall](https://open.spotify.com/album/3HyBcGrwhTgpdoxDUubucn) | 3:18 | 2022-09-09 | 2022-10-22 |
@@ -98,6 +100,7 @@
 | [WDYWFM \(feat\. L0la\)](https://open.spotify.com/track/48m7Kit1AFXmJuH244X4x7) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [L0la](https://open.spotify.com/artist/0Ba1FVGkH6ur9DLz6o9P62) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:01 | 2022-11-25 | 2022-12-02 |
 | [What You Want](https://open.spotify.com/track/1faFaJQTmGg6CV39W2RvSB) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [What You Want](https://open.spotify.com/album/6LNHDMFwWvS9LKJ0ArIVki) | 2:56 | 2020-09-10 | 2023-02-17 |
 | [Who No Know Go Know](https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Who No Know Go Know](https://open.spotify.com/album/1leaqx7QytYKi4CSgWQBYH) | 3:17 | 2020-12-10 | 2022-11-04 |
+| [Working on You](https://open.spotify.com/track/20elM8EhWy52VmxbjEWCkn) | [Alien Em](https://open.spotify.com/artist/5ol84ORfazc9kNCz4V2ixt) | [Working on You](https://open.spotify.com/album/7tpq3j1GIJ2Ii1zvqiTU4u) | 2:56 | 2023-03-24 |  |
 | [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 |  |
 | [Your Dream](https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Your Dream](https://open.spotify.com/album/0Gpl5YL9YKbvGbDe3xuGks) | 3:38 | 2022-04-21 | 2022-11-04 |
 | [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2022-11-17 |  |

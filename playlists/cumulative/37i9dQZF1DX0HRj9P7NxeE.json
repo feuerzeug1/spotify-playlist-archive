@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "1-800-Bad-Bxtch",
+        "url": "https://open.spotify.com/album/5O7UiT5zB3iC2gqbQGpUUP"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154691,
+      "name": "1-800-Bad-Bxtch",
+      "url": "https://open.spotify.com/track/3AzmPUPk59zgO3XURjGJ8R"
+    },
+    {
+      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/7cLNX0Y7s9pRfbEo9Zw1Eo"
       },
@@ -68,6 +86,28 @@
       "duration_ms": 134184,
       "name": "ABOW",
       "url": "https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj"
+    },
+    {
+      "album": {
+        "name": "AIN'T GONNA ANSWER",
+        "url": "https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187453,
+      "name": "AIN'T GONNA ANSWER",
+      "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
     },
     {
       "album": {
@@ -424,6 +464,24 @@
       "duration_ms": 121403,
       "name": "Body",
       "url": "https://open.spotify.com/track/4yHdLqovXDYG9LB2VDiJoB"
+    },
+    {
+      "album": {
+        "name": "Body Do",
+        "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142809,
+      "name": "Body Do",
+      "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
     },
     {
       "album": {
@@ -1150,7 +1208,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 121269,
       "name": "Feelin\u2019 Sexy",
       "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
@@ -2736,7 +2794,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 124904,
       "name": "Real Bitch (feat. Gloss Up)",
       "url": "https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32"
@@ -2864,7 +2922,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 144509,
       "name": "Seduce & Scheme (RAP SH!T: Soundtrack From The Max Original Series)",
       "url": "https://open.spotify.com/track/7soX1jrCsDhZdwikQiiibk"

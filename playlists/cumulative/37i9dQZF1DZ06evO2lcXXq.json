@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "What It Takes",
+        "url": "https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226584,
+      "name": "What It Takes (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO"
+    },
+    {
+      "album": {
         "name": "How Can It Be (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
       },

@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 152542,
       "name": "Belief",
       "url": "https://open.spotify.com/track/4NEQrLQUbGX5XZtJzlXkgP"
@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "building site outside",
+        "url": "https://open.spotify.com/album/1i2ep4HPrmAIM7xe3dmHs7"
+      },
+      "artists": [
+        {
+          "name": "piglet",
+          "url": "https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217997,
+      "name": "building site outside",
+      "url": "https://open.spotify.com/track/74UprT08Tdk1qnRldqwsbE"
+    },
+    {
+      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
@@ -780,6 +798,24 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "album": {
+        "name": "88 Keys",
+        "url": "https://open.spotify.com/album/2TayNgXuzr6cjgzZ885R0g"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100773,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/4Hmg3T2TbcDfdOtj46dlqW"
     },
     {
       "album": {
@@ -816,6 +852,28 @@
       "duration_ms": 237079,
       "name": "Candles",
       "url": "https://open.spotify.com/track/2bOalGfLHderIlSLeoc1TY"
+    },
+    {
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314520,
+      "name": "Candy Necklace (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96"
     },
     {
       "album": {
@@ -996,6 +1054,24 @@
       "duration_ms": 326000,
       "name": "Chopin: \u524d\u594f\u66f2 \u7b2c15\u756a \u5909\u30cb\u9577\u8abf \u4f5c\u54c128\u306e15\u300a\u96e8\u3060\u308c\u300b",
       "url": "https://open.spotify.com/track/1yfbcB4ZzZtkCnAAzzpqTA"
+    },
+    {
+      "album": {
+        "name": "Clouds Over Bourbon Street",
+        "url": "https://open.spotify.com/album/2ATy8fff9LsMoZb6mEsxu9"
+      },
+      "artists": [
+        {
+          "name": "Dnoir",
+          "url": "https://open.spotify.com/artist/68SVqaQHSh7L6xsSMd5L5S"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198848,
+      "name": "Clouds Over Bourbon Street",
+      "url": "https://open.spotify.com/track/6IoVv51HuCcifPmHY7VdCb"
     },
     {
       "album": {
@@ -2018,7 +2094,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 199152,
       "name": "I Wanna See You Smile",
       "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
@@ -2072,7 +2148,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 203166,
       "name": "Idaho Alien",
       "url": "https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP"
@@ -2459,6 +2535,32 @@
     },
     {
       "album": {
+        "name": "Stravinsky: The Rite of Spring & The Firebird",
+        "url": "https://open.spotify.com/album/00nSKllX1m5sYIaGiSw3Sf"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
+        },
+        {
+          "name": "Klaus M\u00e4kel\u00e4",
+          "url": "https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "Le sacre du printemps / Pt. 1: L'Adoration de la terre: I. Introduction",
+      "url": "https://open.spotify.com/track/6rDWYsrUT5AWGzKrd6HBcn"
+    },
+    {
+      "album": {
         "name": "Maurice RAVEL: Gaspard de la Nuit",
         "url": "https://open.spotify.com/album/4wT32sKqzocmqsIs80Xtnu"
       },
@@ -2736,7 +2838,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 260361,
       "name": "LOMP",
       "url": "https://open.spotify.com/track/5Au7IBDfjqXhhrFSu6AkOU"
@@ -3120,7 +3222,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 180057,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
@@ -3519,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/3HwldKeTaesvpyA8V56f4b"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349036,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/2Vxu4YbLsRwRe3f9iMqabD"
+    },
+    {
+      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1"
       },
@@ -3552,7 +3672,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 380266,
       "name": "PAVANE POUR UNE INFANTE DEFUNTE",
       "url": "https://open.spotify.com/track/6q0hW1XoEdPXCRCXHqGosw"
@@ -4595,6 +4715,24 @@
     },
     {
       "album": {
+        "name": "Starting Again",
+        "url": "https://open.spotify.com/album/6f2umrRIEGBL3e5JcPoaT3"
+      },
+      "artists": [
+        {
+          "name": "Timaeus",
+          "url": "https://open.spotify.com/artist/5DWCBR1B1PkfYbWtGq9wLT"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232150,
+      "name": "Starting Again",
+      "url": "https://open.spotify.com/track/1WRwWWwaxm9zJKysz91T31"
+    },
+    {
+      "album": {
         "name": "After the chaos",
         "url": "https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H"
       },
@@ -4944,7 +5082,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 295201,
       "name": "The Grants",
       "url": "https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze"
@@ -5104,6 +5242,24 @@
       "duration_ms": 817000,
       "name": "tsuru-tsuki",
       "url": "https://open.spotify.com/track/1Tuq0XiJO21YcG5B9ImhGX"
+    },
+    {
+      "album": {
+        "name": "Live at Bush Hall",
+        "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586506,
+      "name": "Turbines/Pigs - Live at Bush Hall",
+      "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"
     },
     {
       "album": {
@@ -6284,7 +6440,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 130483,
       "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
       "url": "https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5"

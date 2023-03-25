@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Chico malo",
+        "url": "https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159053,
+      "name": "Chico malo",
+      "url": "https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i"
+    },
+    {
+      "album": {
         "name": "TRAVEL",
         "url": "https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu"
       },

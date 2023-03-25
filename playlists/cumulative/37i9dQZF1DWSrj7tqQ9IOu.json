@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Emma Hoet",
+  "description": "The best French indie tracks right now. Cover: Alice et Moi",
   "name": "Made in France",
   "tracks": [
+    {
+      "album": {
+        "name": "THIS LAKE IS SUCCESSFUL",
+        "url": "https://open.spotify.com/album/4AgoGCem8ILqsZS63YTmo3"
+      },
+      "artists": [
+        {
+          "name": "Varnish La Piscine",
+          "url": "https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "\"CEVICHE\"...",
+      "url": "https://open.spotify.com/track/0Lhz8qMfRXQFoLYivW36cQ"
+    },
     {
       "album": {
         "name": "1964",
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 185913,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB"
@@ -530,6 +548,24 @@
       "duration_ms": 209626,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB"
+    },
+    {
+      "album": {
+        "name": "Bossa Supernova",
+        "url": "https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf"
+      },
+      "artists": [
+        {
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Bossa Supernova",
+      "url": "https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o"
     },
     {
       "album": {
@@ -1592,7 +1628,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 191573,
       "name": "For You",
       "url": "https://open.spotify.com/track/0op37JDMnP0HjclpLQiDn4"
@@ -3144,7 +3180,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 178253,
       "name": "Magique",
       "url": "https://open.spotify.com/track/27VZiMwOY5RrMT22shw1XY"
@@ -3372,7 +3408,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 167124,
       "name": "Morphine",
       "url": "https://open.spotify.com/track/0g8woFgSUJHgJ3tuKxMezr"
@@ -3488,6 +3524,24 @@
       "duration_ms": 216466,
       "name": "M\u00e9lodie (with DORA)",
       "url": "https://open.spotify.com/track/0t2zRI2lKyJOLsVqAVL6qi"
+    },
+    {
+      "album": {
+        "name": "The French Girl Effect",
+        "url": "https://open.spotify.com/album/2I83COQRwyk2FtG6SWYswM"
+      },
+      "artists": [
+        {
+          "name": "M.I.L.K.",
+          "url": "https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151626,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/471rodBEdeDSUbo4f57boM"
     },
     {
       "album": {
@@ -3743,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "Oracle Miracle",
+        "url": "https://open.spotify.com/album/2rIggJ0novBuMZhUfVlmDQ"
+      },
+      "artists": [
+        {
+          "name": "My Dear",
+          "url": "https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238585,
+      "name": "Oracle Miracle",
+      "url": "https://open.spotify.com/track/3Uq1pn9wDqiZsnHW3aDQ3E"
+    },
+    {
+      "album": {
         "name": "Orange Mountains",
         "url": "https://open.spotify.com/album/1QrJuxwQWh0NDz28apqavn"
       },
@@ -3844,7 +3916,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 197360,
       "name": "Paraiso",
       "url": "https://open.spotify.com/track/11kPRHkZCTgudM8Xyr1KXu"
@@ -3866,7 +3938,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 164525,
       "name": "Paris",
       "url": "https://open.spotify.com/track/1NqHsocjKaEmyjKhXJbIk8"
@@ -4224,7 +4296,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 170097,
       "name": "Rengaine",
       "url": "https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA"
@@ -4362,6 +4434,24 @@
       "duration_ms": 153099,
       "name": "Sexfriend",
       "url": "https://open.spotify.com/track/0vy0D33YYU4LdTRR5WrCYM"
+    },
+    {
+      "album": {
+        "name": "Shadam",
+        "url": "https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS"
+      },
+      "artists": [
+        {
+          "name": "Camp Claude",
+          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234760,
+      "name": "Shadam",
+      "url": "https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM"
     },
     {
       "album": {
@@ -5429,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Way Home",
+        "url": "https://open.spotify.com/album/50IewgySvPgiUeVvEJjHJs"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/5vBavF0DZKDeCEM1gZXTgW"
+    },
+    {
+      "album": {
         "name": "What A Life (j'fais ma life) [feat. Suzane]",
         "url": "https://open.spotify.com/album/5VDE8rAYryH4lTbGDvSMVQ"
       },
@@ -5542,6 +5650,32 @@
       "duration_ms": 195178,
       "name": "Yellow Car",
       "url": "https://open.spotify.com/track/1odBJEdR7AiENyd6w42kQU"
+    },
+    {
+      "album": {
+        "name": "You Make Me Feel So Good",
+        "url": "https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "You Make Me Feel So Good",
+      "url": "https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs"
     },
     {
       "album": {

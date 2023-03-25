@@ -4,7 +4,7 @@
 
 > Hear all of NMIXX's biggest and best hits in one playlist.
 
-29 songs - 50 min 49 sec
+34 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,16 +20,21 @@
 | [Hello, world!](https://open.spotify.com/track/3weS5CMqh3tVyxegxUgggu) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:26 | 2022-11-24 |  |
 | [Hey Gabby!](https://open.spotify.com/track/75wt0Zz73OfAaGUVY3n24U) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 1:59 | 2022-11-24 |  |
 | [Hey Gabby! \- Instrumental](https://open.spotify.com/track/2yV4cJxX4umiS90dTGfZ1U) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 1:59 | 2022-11-24 |  |
+| [HOME](https://open.spotify.com/track/5HtWf8hNpeg0endHaNFM17) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 2:40 | 2023-03-24 |  |
 | [Journey of NMIXX \(1\)](https://open.spotify.com/track/68JBXNz7K5v1mClE9W5Q9c) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:19 | 2022-11-24 |  |
 | [Journey of NMIXX \(2\)](https://open.spotify.com/track/6uLwXaG6yP97w1DiXAUnli) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:22 | 2022-11-24 |  |
+| [Just Did It](https://open.spotify.com/track/4gUSHUCZgCj2X46uwIIOyU) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 2:58 | 2023-03-24 |  |
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-11-24 |  |
 | [Kiss \- Instrumental](https://open.spotify.com/track/5q6aIgZDT81GyqZtlB562m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-11-24 |  |
+| [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-24 |  |
 | [Message from NMIXX \- HAEWON & SULLYOON](https://open.spotify.com/track/5FCKW0hOhAUbcZpqfZvBR7) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:21 | 2022-11-24 |  |
 | [Message from NMIXX \- JINNI & BAE](https://open.spotify.com/track/1Hycz3SSWy2z8v4yyL5tzN) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:18 | 2022-11-24 |  |
 | [Message from NMIXX \- JIWOO](https://open.spotify.com/track/2yHQYCc0Ubd3L52T68HEhn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:13 | 2022-11-24 |  |
 | [Message from NMIXX \- LILY & KYUJIN](https://open.spotify.com/track/1fpcnt5kVcYIyYZRHCm13K) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:13 | 2022-11-24 |  |
+| [My Gosh](https://open.spotify.com/track/77I6NcjXgtKX2s2qdDITYJ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:36 | 2023-03-24 |  |
 | [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-11-24 |  |
 | [O.O \(Inst.\)](https://open.spotify.com/track/4g7q1mmHaWcj9PkeUr4ghD) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-11-24 |  |
+| [PAXXWORD](https://open.spotify.com/track/4f8qVAD5rOWINdsT2rO4Mm) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:12 | 2023-03-24 |  |
 | [Sprinkle Party](https://open.spotify.com/track/501pyfeUUQCwU0W1WvgBQF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 |  |
 | [Sprinkle Party \- Instrumental](https://open.spotify.com/track/3MSimmvqsmIZ8gIkY2Lmws) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 |  |
 | [TANK](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:48 | 2022-11-24 |  |

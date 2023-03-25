@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Shane & Shane",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=tsgL1DVgTi2hXJ3qsbzeHA\">Elevation Worship</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 349560,
       "name": "Easy to Worship (Live in New Orleans)",
       "url": "https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ"
@@ -1478,6 +1478,28 @@
       "duration_ms": 503500,
       "name": "Everything Is Changing - Live",
       "url": "https://open.spotify.com/track/0OuEwptVO30M0Q4MJQCpyL"
+    },
+    {
+      "album": {
+        "name": "eyes locked on the King",
+        "url": "https://open.spotify.com/album/1Ckja7f8E9XFFfqVPu9ohP"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261318,
+      "name": "eyes locked on the King",
+      "url": "https://open.spotify.com/track/19Jl5Q60tGlp0aNBUIMnzO"
     },
     {
       "album": {
@@ -1670,7 +1692,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 304000,
       "name": "For My Good - Live",
       "url": "https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp"
@@ -3403,6 +3425,28 @@
     },
     {
       "album": {
+        "name": "Just One Drop (Live in New Orleans)",
+        "url": "https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD"
+      },
+      "artists": [
+        {
+          "name": "Bethany Music",
+          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
+        },
+        {
+          "name": "BJ Putnam",
+          "url": "https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384293,
+      "name": "Just One Drop - Live in New Orleans",
+      "url": "https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24"
+    },
+    {
+      "album": {
         "name": "Now (Live)",
         "url": "https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA"
       },
@@ -4023,6 +4067,32 @@
     },
     {
       "album": {
+        "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+        "url": "https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598622,
+      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim"
+    },
+    {
+      "album": {
         "name": "Morning By Morning (I Will Trust)",
         "url": "https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv"
       },
@@ -4110,7 +4180,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 192134,
       "name": "Nail Scarred Hands",
       "url": "https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo"
@@ -4334,7 +4404,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 263635,
       "name": "Nothing Is Impossible - Live In Manila",
       "url": "https://open.spotify.com/track/5sdeswrsYUIMTyYoOwc7jS"
@@ -4426,6 +4496,24 @@
       "duration_ms": 222968,
       "name": "Now Here - In Studio",
       "url": "https://open.spotify.com/track/4hgrcAj2dsBf9Nen7IV3kg"
+    },
+    {
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4"
+      },
+      "artists": [
+        {
+          "name": "Stockholm Worship",
+          "url": "https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286734,
+      "name": "Now To God - Live",
+      "url": "https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe"
     },
     {
       "album": {
@@ -5208,7 +5296,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 481802,
       "name": "Same God (feat. Jonsal Barrientes)",
       "url": "https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy"
@@ -5820,7 +5908,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 401813,
       "name": "The Detour - Live",
       "url": "https://open.spotify.com/track/7MXheyD5Stj50XiDpzzxmE"
@@ -6002,6 +6090,24 @@
       "duration_ms": 251872,
       "name": "The Risen Lamb Of God",
       "url": "https://open.spotify.com/track/1X360Z9pMatI2LOKGGgirG"
+    },
+    {
+      "album": {
+        "name": "The Rock",
+        "url": "https://open.spotify.com/album/40rYT8ALo7VLv6ZM3P7gXA"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228493,
+      "name": "The Rock",
+      "url": "https://open.spotify.com/track/3OLV0YgL61iJLi5Emuj4jv"
     },
     {
       "album": {

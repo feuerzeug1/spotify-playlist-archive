@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: Yemil
 
-136 songs - 8 hr 7 min
+137 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Influencer](https://open.spotify.com/track/5sLeFOCod0pJMxM8CzVc1v) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Influencer](https://open.spotify.com/album/02GbKkHjaMiG88C5Bceolb) | 3:20 | 2022-06-24 |  |
 | [INTOCABLES](https://open.spotify.com/track/4X4g4DpQAhEp21MC0kCc6N) | [Bin$ho](https://open.spotify.com/artist/0b0ghBgG9mQtHd9iWBKStQ), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY) | [INTOCABLES](https://open.spotify.com/album/5oshH0gM4WbVj9WXGnSxCZ) | 3:43 | 2022-09-02 | 2022-11-26 |
 | [Jamaica](https://open.spotify.com/track/4H7p2aGtZLMlZRKZxBlKN7) | [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [Jamaica](https://open.spotify.com/album/5R64qUMmWl4LeKOAq6tDbg) | 3:08 | 2022-05-20 |  |
-| [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/track/4MULhpFgyate8oE1KGCSd0) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/album/0rTt6YkFCoU9DlP92ih8Mk) | 6:04 | 2022-11-25 |  |
+| [Jiggiri](https://open.spotify.com/track/1eB4AigLRMLBzikAzHyyDx) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Jiggiri](https://open.spotify.com/album/4P9Mu330irhIpz3EdK8gFC) | 6:04 | 2023-03-17 |  |
+| [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/track/4MULhpFgyate8oE1KGCSd0) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/album/0rTt6YkFCoU9DlP92ih8Mk) | 6:04 | 2022-11-25 | 2023-03-25 |
 | [Jockey](https://open.spotify.com/track/01SMtfSbJlcxUdJvOofMOx) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Jockey](https://open.spotify.com/album/5whLdXZ586HK7NyNwItLtT) | 3:41 | 2022-03-11 | 2022-06-25 |
 | [Kiwi Fresa](https://open.spotify.com/track/2sHDyVva4IgO7ETfuhfV3z) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv) | [Kiwi Fresa](https://open.spotify.com/album/53rwtTyWs43mW083vNbrLH) | 2:06 | 2022-07-01 | 2022-07-30 |
 | [La del Tik Tok](https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [La del Tik Tok](https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC) | 4:17 | 2023-03-13 |  |

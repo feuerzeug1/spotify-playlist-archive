@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-306 songs - 21 hr 38 min
+308 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Here She Comes](https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Here She Comes](https://open.spotify.com/album/3YJsSNEY87S84ghTUPvCbk) | 3:39 | 2022-09-23 |  |
 | [High Heels](https://open.spotify.com/track/7KesmZG74pZzj69FUC57HK) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 4:09 | 2020-10-30 | 2022-03-18 |
 | [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 | 2022-07-01 |  |
-| [Hrs and Hrs](https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Hrs and Hrs](https://open.spotify.com/album/6V18NGCK4t7I0Nisj5lZcR) | 3:28 | 2022-02-25 |  |
+| [Hrs and Hrs](https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Hrs and Hrs](https://open.spotify.com/album/6V18NGCK4t7I0Nisj5lZcR) | 3:28 | 2022-02-25 | 2023-03-25 |
 | [I Can Let Go Now \- Instrumental Version](https://open.spotify.com/track/24UVZM3ETZsEKCLfkQ5INR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Steve Tavaglione](https://open.spotify.com/artist/24DYsjzmOJblWOhpdEDUJE), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4) | [I Can Let Go Now](https://open.spotify.com/album/2uXOfbXLXLOWOWRW7SrGl1) | 3:50 | 2020-10-30 | 2022-02-28 |
 | [I Wanna Be Down](https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [I Wanna Be Down](https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ) | 4:54 | 2022-06-03 |  |
 | [I'll Be There](https://open.spotify.com/track/3l1j42roicNXApsbTtebuo) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Collective II](https://open.spotify.com/album/0pvXCuppcMxYTi2vCXmGyW) | 4:08 | 2021-04-16 | 2022-03-03 |
@@ -187,6 +187,7 @@
 | [Midnight Sun](https://open.spotify.com/track/5SKkiQf5txTOdaxGJI4xUs) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Midnight Sun](https://open.spotify.com/album/5WutXamGne2s2rzOHpCptd) | 3:54 | 2021-04-30 | 2022-03-18 |
 | [Mo Jazzin](https://open.spotify.com/track/6CYUFaUjnGAlBGjVCl44ud) | [Johnny Britt](https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Mo Jazzin](https://open.spotify.com/album/3wHmVl5lU7Rt8PyT1jvCW9) | 3:40 | 2020-10-30 | 2022-03-17 |
 | [Monday](https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm) | [Philip Patterson](https://open.spotify.com/artist/3UgSv7DzbUESf5H4WPzaU7) | [Monday](https://open.spotify.com/album/1FnCDL2O2WM57ZdbE3Jmbu) | 4:14 | 2021-07-23 | 2022-09-06 |
+| [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 | 2023-03-24 |  |
 | [Motor City Moves \(feat\. Lin Rountree\)](https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Free](https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU) | 4:24 | 2022-10-07 |  |
 | [Movin' N Groovin](https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Movin' N Groovin](https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd) | 4:24 | 2022-03-25 | 2023-03-18 |
 | [My Love](https://open.spotify.com/track/5GbDy0yVyeHz0s6klHzfou) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Alone Together \(The Duets\)](https://open.spotify.com/album/5DpxfYMLNDr7wMI9fV87UD) | 4:47 | 2021-03-26 | 2022-03-17 |
@@ -235,7 +236,7 @@
 | [Set Sail](https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Set Sail](https://open.spotify.com/album/32WepNq3Z0hU5Ku7jJqu7u) | 3:29 | 2021-08-13 | 2022-09-17 |
 | [Shake It Off](https://open.spotify.com/track/0XvTGAT6FGTb7zGTtBBH6Y) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl), [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Evolution](https://open.spotify.com/album/0JSndWAAAsz0G6Nfb0indM) | 3:50 | 2021-04-30 | 2022-03-18 |
 | [Shine a Light](https://open.spotify.com/track/5tL6TAf1qxRZu5wfMCGQhQ) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Shine a Light](https://open.spotify.com/album/3B3k8AASfqJTK7TXlJkhTT) | 6:46 | 2023-02-10 |  |
-| [SHINE!](https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt) | 4:21 | 2022-01-21 |  |
+| [SHINE!](https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt) | 4:21 | 2022-01-21 | 2023-03-25 |
 | [Side by Side Radio Edit](https://open.spotify.com/track/0mWrMcMOWIB5w5ilmWKkwB) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Side by Side Radio Edit](https://open.spotify.com/album/74R005FKgC9qS7AniLVX0C) | 4:01 | 2020-10-30 | 2022-03-18 |
 | [Slick \- radio single](https://open.spotify.com/track/1v6OP1ljBqa2EGWL8FgDlL) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Slick](https://open.spotify.com/album/3keeHfxRE4zD6YahhiyEY8) | 4:11 | 2022-04-15 |  |
 | [Slingshot](https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Slingshot](https://open.spotify.com/album/0YocPxGvt5sccdAsZKqvgX) | 3:52 | 2021-10-15 | 2022-09-17 |
@@ -313,6 +314,7 @@
 | [With Every Turn](https://open.spotify.com/track/1wIkjr0Bkyng3CF2LIqp8t) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/7a97kS2X6XptzrTBK23Ea9) | 4:52 | 2021-03-26 | 2022-03-13 |
 | [Won't Let Go](https://open.spotify.com/track/4OxljjJyAU0FhvjincStMP) | [Phillip Doc Martin](https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp) | [Phillip Doc Martin](https://open.spotify.com/album/58r40GhiWWH5oCZ29CWcD1) | 4:08 | 2020-10-30 | 2022-03-18 |
 | [Workin'](https://open.spotify.com/track/73PMlacQVhln12IqZi16ep) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np) | 4:06 | 2022-05-13 |  |
+| [You Already Know](https://open.spotify.com/track/2BbDq3jIwUvdVtdbnwH9pr) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [You Already Know](https://open.spotify.com/album/4gyAy85HMpwucHztm9cVvY) | 3:54 | 2023-03-24 |  |
 | [You Got This](https://open.spotify.com/track/44VN2rjI4yzsHeQAKtjtRV) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [You Got This](https://open.spotify.com/album/6qSelofvvFp8RWrbyfLAcv) | 4:13 | 2020-10-30 | 2022-03-15 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc?si=zw_7vyQZQJawhW7I7mJhtQ\"> Tiwa Savage</a> ,  <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=PnUO-d-eQMGMLF0bLcmQ9Q\"> Ayra Starr</a>  and  <a href=\"https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=pbVgJVifRjS5eUw_K6BZJQ\"> Young Jonn </a>  ",
+  "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV?si=tbesToRZQU6IEMeDY2DPzA\"> Nonso Amadi</a> ",
   "name": "Afropop",
   "tracks": [
     {
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 162991,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
@@ -3149,6 +3149,28 @@
     },
     {
       "album": {
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
+      "album": {
         "name": "Idwala",
         "url": "https://open.spotify.com/album/2nBnaZl4NHAOZWjB1V5GbS"
       },
@@ -3770,7 +3792,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 146155,
       "name": "NANA",
       "url": "https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO"
@@ -4247,6 +4269,28 @@
     },
     {
       "album": {
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+    },
+    {
+      "album": {
         "name": "People (feat. Ayra Starr & Omah Lay) [Remix]",
         "url": "https://open.spotify.com/album/689njStjzEujqVZtSDlpha"
       },
@@ -4374,7 +4418,7 @@
           "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166556,
@@ -4560,7 +4604,7 @@
           "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159680,
@@ -4911,6 +4955,36 @@
     },
     {
       "album": {
+        "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
+        "url": "https://open.spotify.com/album/04fBNopmMepdbuk96REyzW"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252986,
+      "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
+      "url": "https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp"
+    },
+    {
+      "album": {
         "name": "Super Morio",
         "url": "https://open.spotify.com/album/2ZPizhglbQL7gSabTZFQnP"
       },
@@ -5054,7 +5128,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
@@ -5318,7 +5392,7 @@
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166956,

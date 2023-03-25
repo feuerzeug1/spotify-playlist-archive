@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KtT8t49L8p.md) - [plain]
 
 > Awaken and connect through meditation with Theta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448 likes - 53 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 627 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KtT8t49L8p.md) - [plain]
 | 52 | [5.5 Hz Theta Waves \- Reduce Hyperactivity](https://open.spotify.com/track/4otRnCtr0e3jkRIALpUEh5) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Binaural Beats \- Theta Waves for Mental Clarity \(4\-8 Hz\)](https://open.spotify.com/album/6FLVbqTVIlJYEVcpe3EYrz) | 1:33 |
 | 53 | [Binaural Theta Sinus 220Hz \- 226Hz](https://open.spotify.com/track/7MIq7As5oZfNjXhVzJugYN) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art Of Meditation and Creativity](https://open.spotify.com/album/05OdJyl7TctTFyUlHgg8EX) | 3:31 |
 
-Snapshot ID: `MTY3ODk4NzUyNSwwMDAwMDAwMGYzM2E5MDIzZDliNTM1Nzc3NGU4NTc4MzBiNTkzMzQy`
+Snapshot ID: `MTY3ODk4NzUyNSwwMDAwMDAwMGY1NzBkYjc1MTA5NDQ5M2ZiOTE5NmU1ZTRhMzQwZjk4`

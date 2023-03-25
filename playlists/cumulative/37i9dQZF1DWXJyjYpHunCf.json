@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "All the Things You'd Ruin (Sad Girl Version)",
+        "url": "https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179260,
+      "name": "All the Things You'd Ruin (Sad Girl Version)",
+      "url": "https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/0FO0CHC3r7HQJXWSXE3F3l"
       },
@@ -164,7 +182,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 189563,
       "name": "Always, Joni",
       "url": "https://open.spotify.com/track/61EzqOBuKeieLCgkO1xQv8"
@@ -1509,6 +1527,28 @@
     },
     {
       "album": {
+        "name": "Frightening Fishes (Main Title Theme from \"Shrinking\")",
+        "url": "https://open.spotify.com/album/0O0qqVsk0ISz2cu2pAI5jY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        },
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147337,
+      "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
+      "url": "https://open.spotify.com/track/487RnLlaejLyPI7l5B8lwm"
+    },
+    {
+      "album": {
         "name": "Mother\u2019s Milk",
         "url": "https://open.spotify.com/album/6WB2kQKKY1mq9zRrsKU46b"
       },
@@ -1830,7 +1870,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 262383,
       "name": "Help Me to Feel Again",
       "url": "https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn"

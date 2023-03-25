@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality blend ft. boygenius",
+  "description": "The highest quality blend ft. Hozier",
   "name": "Grade A",
   "tracks": [
     {
@@ -1693,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
         "name": "Certainty",
         "url": "https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw"
       },
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 187867,
       "name": "First High",
       "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
@@ -4050,7 +4068,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 196348,
       "name": "Hate Dancin'",
       "url": "https://open.spotify.com/track/6SYxCsqjVaOhEOIuKTfnJ0"
@@ -6635,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "Meshuggah",
+        "url": "https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277986,
+      "name": "Meshuggah",
+      "url": "https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex"
+    },
+    {
+      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/3wApCcYjKiRA68wVVF3V1n"
       },
@@ -8323,6 +8359,24 @@
     },
     {
       "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "album": {
         "name": "Q4",
         "url": "https://open.spotify.com/album/6TGNYqqV0CgruCKn7JC9Z4"
       },
@@ -8814,7 +8868,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 150845,
       "name": "Rubberband Man",
       "url": "https://open.spotify.com/track/7Aj4lvqrOA29OVHLnTlRwQ"
@@ -11990,6 +12044,28 @@
       "duration_ms": 210240,
       "name": "What\u2019s Done is Done",
       "url": "https://open.spotify.com/track/4Gnn0gDHzMFRNx5DmX6gK8"
+    },
+    {
+      "album": {
+        "name": "When Eden Was My Girl (feat. Marcus King)",
+        "url": "https://open.spotify.com/album/3jR7qt6pFn6OBxRZDnyJqK"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "When Eden Was My Girl (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/3o34F9z7g0SDeIAKWir4PR"
     },
     {
       "album": {

@@ -518,7 +518,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 276280,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 180986,
       "name": "Buckle of the Bible Belt",
       "url": "https://open.spotify.com/track/03zP9TiVkMyNul9NArPx6R"
@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 189657,
       "name": "Cowboys Don't Cry",
       "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 279796,
       "name": "Easy as Hello",
       "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
@@ -2812,6 +2812,24 @@
       "duration_ms": 229360,
       "name": "Grain of Salt",
       "url": "https://open.spotify.com/track/0Kv4Y5oOn41W93IFXsvcpY"
+    },
+    {
+      "album": {
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "album": {
@@ -4739,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "One of 'Em",
+        "url": "https://open.spotify.com/album/04wH6X2aDxsxp5dLeDp8eM"
+      },
+      "artists": [
+        {
+          "name": "Creed Fisher",
+          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158690,
+      "name": "One of 'Em",
+      "url": "https://open.spotify.com/track/44p9CEsVVIlKpBj8FF1QFe"
+    },
+    {
+      "album": {
         "name": "One Two Step Away",
         "url": "https://open.spotify.com/album/75M65qiiyw2tCGDIij7kZs"
       },
@@ -6345,6 +6381,24 @@
     },
     {
       "album": {
+        "name": "The Bar Guy",
+        "url": "https://open.spotify.com/album/4zVUFBJoGcli595MQJ7eEc"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Micaela",
+          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214519,
+      "name": "The Bar Guy",
+      "url": "https://open.spotify.com/track/1N7c1NQGE4LMMJMpUE9MSP"
+    },
+    {
+      "album": {
         "name": "The Biggest Life Worth Living Is the Small",
         "url": "https://open.spotify.com/album/79bCpLfoIWQe5PMsQSEpVf"
       },
@@ -7054,6 +7108,24 @@
       "duration_ms": 193371,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/19Z6brLH74EGuq2aVtqEdV"
+    },
+    {
+      "album": {
+        "name": "Warning Label",
+        "url": "https://open.spotify.com/album/11mQ0dkaWGpKoObMD4o5ne"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189433,
+      "name": "Warning Label",
+      "url": "https://open.spotify.com/track/61kduNHapiZb81roxGaeYA"
     },
     {
       "album": {

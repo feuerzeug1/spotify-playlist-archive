@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,361 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,421 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 17 | [Eu Odeio Amar Você](https://open.spotify.com/track/72ABPmfEqqoVGpPniqbuaC) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Odeio Amar Você](https://open.spotify.com/album/2F9ahQk5nNNyDLSzJmVWLu) | 3:22 |
 | 18 | [Solitário Vampiro](https://open.spotify.com/track/6fOvrxj71Ca9o3lxdzLDCb) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Solitário Vampiro](https://open.spotify.com/album/72wrW8pvGiNe0tHy3SjNn9) | 4:52 |
 | 19 | [Não É Papo de Amor](https://open.spotify.com/track/3JxYJnOrox7cNs1yv0JRZk) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [4555](https://open.spotify.com/artist/2g8MdRUUgyYMiQyXgz15pa), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Minha Alma Canta II](https://open.spotify.com/album/67iDr3vGh8OGgheIA6CkKS) | 2:42 |
-| 20 | [Eu Tentei](https://open.spotify.com/track/7LzWELj8YFDdQcoyfsmRW1) | [Ilowzzy](https://open.spotify.com/artist/5WPUWYSDTiArtucNN3LD6m), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Eu Tentei](https://open.spotify.com/album/1EEwQA8UnhcLDPtU2uReeu) | 3:10 |
+| 20 | [Eu Tentei](https://open.spotify.com/track/7LzWELj8YFDdQcoyfsmRW1) | [Ilowzz](https://open.spotify.com/artist/1QKcmNIGhlrhhJEDxCDbgw), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Eu Tentei](https://open.spotify.com/album/1EEwQA8UnhcLDPtU2uReeu) | 3:10 |
 | 21 | [Desculpa](https://open.spotify.com/track/3uF1c6XbqghSa4EcbQCGpQ) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Desculpa](https://open.spotify.com/album/6ZtSi94DuWf13gnaKncG7D) | 2:17 |
 | 22 | [Coração em Chamas](https://open.spotify.com/track/5eeCipd1BK56hbiA161l54) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Coração em Chamas](https://open.spotify.com/album/4fvJw6BWzxhqqNIjbzOhTl) | 2:40 |
 | 23 | [cansei de falar de amor](https://open.spotify.com/track/4hUyApGomeztSlvXijsI6P) | [gaefi](https://open.spotify.com/artist/2fNMhstQezqzVqfpZEHW5M) | [cansei de falar de amor](https://open.spotify.com/album/7ydUr2inEknqfGGk5s26sL) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 79 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 80 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MTY3MTA0ODk4OSwwMDAwMDAwMDZlYjY4N2QzYWZhMWYyZDkyYjFhZDRkMTU2M2VkYzAx`
+Snapshot ID: `MTY3MTA0ODk4OSwwMDAwMDAwMDM4YWVmM2NmZWY2MGEzNjc0MjhlYTZlMzIyMDZiODUx`

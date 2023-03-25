@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Excused",
+        "url": "https://open.spotify.com/album/711t4AGqeMZkLio6N8e3up"
+      },
+      "artists": [
+        {
+          "name": "Lowx",
+          "url": "https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143622,
+      "name": "Excused",
+      "url": "https://open.spotify.com/track/1dAUBCLkCrTbiOSk8iJ12b"
+    },
+    {
+      "album": {
         "name": "Plastician Presents - Wavepool 2",
         "url": "https://open.spotify.com/album/4fPasVJUT0Wp9skLi6EP3R"
       },
@@ -3840,6 +3858,28 @@
       "duration_ms": 198750,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/7xQGuSAJBWLYziIeUTsjUW"
+    },
+    {
+      "album": {
+        "name": "Walk Alone",
+        "url": "https://open.spotify.com/album/5EvWVv7sGSorTrLAQHRwvQ"
+      },
+      "artists": [
+        {
+          "name": "Lowx",
+          "url": "https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR"
+        },
+        {
+          "name": "TTM",
+          "url": "https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Walk Alone",
+      "url": "https://open.spotify.com/track/5Pn0C5E7oYHLcsr2llYzaZ"
     },
     {
       "album": {

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Beatbox (English Version)",
+        "url": "https://open.spotify.com/album/2tGDgitrzA7E4jaSlbD2p0"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "Beatbox - English Version",
+      "url": "https://open.spotify.com/track/6q7sF4ctWUSf76T6VJ6Bu9"
+    },
+    {
+      "album": {
         "name": "We Go Up",
         "url": "https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj"
       },

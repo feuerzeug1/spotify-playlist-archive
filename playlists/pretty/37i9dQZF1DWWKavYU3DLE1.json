@@ -1,15 +1,39 @@
 {
   "description": "Hear all of MINO's biggest and best hits in one playlist.",
-  "num_followers": 21870,
+  "num_followers": 21888,
   "original_name": "This Is MINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY0MjM3MCwwMDAwMDAwMGJiMmJlZDdmZTEyMDYzMjZiZmJiNjMxMWM1ZDE5MWFj",
+  "snapshot_id": "MTY3OTYzOTgxOCwwMDAwMDAwMDM2ZmE2MmY2ZjdhNGYzZDYwODc5Y2JmNmJhMGM1NTE4",
   "tracks": [
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
+      "album": {
+        "name": "Remember Archive",
+        "url": "https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "mino",
+          "url": "https://open.spotify.com/artist/79FL2Qclq9IrxOuEK7SY5X"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "Jumper (Feat. Gaeko, MINO)",
+      "url": "https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl"
+    },
+    {
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "Seoul Vibe (Original Soundtrack from The Netflix Film)",
         "url": "https://open.spotify.com/album/6uZBJUJZY1gkxBGxfksbHs"
@@ -29,7 +53,7 @@
       "url": "https://open.spotify.com/track/1tLPWvrnepX6TK7RDPoWMa"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -45,7 +69,7 @@
       "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -61,7 +85,7 @@
       "url": "https://open.spotify.com/track/6cjnezYQ8eJAKSlHPCpp7O"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -85,7 +109,7 @@
       "url": "https://open.spotify.com/track/7o0PjecCCOvotKHfAwI7MV"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -105,7 +129,7 @@
       "url": "https://open.spotify.com/track/05Wr1iNSvrliYhjxux5fzS"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -121,7 +145,7 @@
       "url": "https://open.spotify.com/track/6u6LO5IHbaaS8wODwx8BGq"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -137,7 +161,7 @@
       "url": "https://open.spotify.com/track/6A6expUttI6fpp4JnH1h5R"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -153,7 +177,7 @@
       "url": "https://open.spotify.com/track/1LYw8oOQ1gK5ic4QyaSjof"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -173,7 +197,7 @@
       "url": "https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -189,7 +213,7 @@
       "url": "https://open.spotify.com/track/3G5ffnNapBnhcM5hDxdLrp"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -209,7 +233,7 @@
       "url": "https://open.spotify.com/track/0OxwazYebgNjwxFgGh6bu9"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -225,7 +249,7 @@
       "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
@@ -245,7 +269,7 @@
       "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
@@ -269,7 +293,7 @@
       "url": "https://open.spotify.com/track/1cYDmIZtF2SGveyqhc7X1Y"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
@@ -289,7 +313,7 @@
       "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "Show Me the Money 4 Episode 6",
         "url": "https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN"
@@ -309,7 +333,7 @@
       "url": "https://open.spotify.com/track/1R6qeTvAvaxB7hydIYVIY8"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "2014 S/S",
         "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
@@ -325,7 +349,7 @@
       "url": "https://open.spotify.com/track/7LvZFvfo7Vr5i84GZ44JGr"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "The MOBB",
         "url": "https://open.spotify.com/album/6LwgGVAkFEmopo6EROaBpd"
@@ -341,7 +365,7 @@
       "url": "https://open.spotify.com/track/03D2t5wn77cpCxH8p99ZvA"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -357,7 +381,7 @@
       "url": "https://open.spotify.com/track/76hrR2MFK6Fei3BAz05Xgb"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -377,7 +401,7 @@
       "url": "https://open.spotify.com/track/7vuWBis1uxZNjiAHgG10nQ"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -397,7 +421,7 @@
       "url": "https://open.spotify.com/track/1Gj0xsP9nxrng7w7d1PQ3U"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -417,7 +441,7 @@
       "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -433,7 +457,7 @@
       "url": "https://open.spotify.com/track/7ESVZxudvtKFXz50jJAqtA"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -453,7 +477,7 @@
       "url": "https://open.spotify.com/track/3kj5wBL5h6ZSFJpXDS8AZd"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -469,7 +493,7 @@
       "url": "https://open.spotify.com/track/3wah4PDCUgctsqu7EJVZCR"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -485,7 +509,7 @@
       "url": "https://open.spotify.com/track/7fXD9SvV3bmFqZS5s0GoSd"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -505,7 +529,7 @@
       "url": "https://open.spotify.com/track/5nNXoQzBP94F79YZUIEwYZ"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -521,7 +545,7 @@
       "url": "https://open.spotify.com/track/3AneSYPZTGWVonpCy9yxAW"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
@@ -537,7 +561,7 @@
       "url": "https://open.spotify.com/track/6s4DENbSKzqF1muURP1o38"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -553,7 +577,7 @@
       "url": "https://open.spotify.com/track/6xsiMUXoJgVo0HY3RK3Y40"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -569,7 +593,7 @@
       "url": "https://open.spotify.com/track/6Tw2x3wavaWsboio2Cy44I"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -589,7 +613,7 @@
       "url": "https://open.spotify.com/track/1OnJEQWeOLoSFfwd0gQbUE"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -605,7 +629,7 @@
       "url": "https://open.spotify.com/track/4YEylY77eLVPJeEYWmSxKM"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -621,7 +645,7 @@
       "url": "https://open.spotify.com/track/0xhBYNgmGLJEyvfObiwAhq"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -641,7 +665,7 @@
       "url": "https://open.spotify.com/track/4voHM6VklIAJ33I3rBceIE"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -657,7 +681,7 @@
       "url": "https://open.spotify.com/track/3kGWJTZeGGBQW2MVss3W9z"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -673,7 +697,7 @@
       "url": "https://open.spotify.com/track/5aM2tyY7L4MQeBV0UazDZs"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/4PUktRHC4zIkqX7xeW5xaF"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -705,7 +729,7 @@
       "url": "https://open.spotify.com/track/1wnHJLmlQ6fUBgHnFSewBK"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -725,7 +749,7 @@
       "url": "https://open.spotify.com/track/1L7YNJ3inOkeTQueV47VFN"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
@@ -741,7 +765,7 @@
       "url": "https://open.spotify.com/track/7c89xwOTHIM57pvA3sMyr3"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "Show Me the Money 4 Episode 3",
         "url": "https://open.spotify.com/album/78VErwhEFgWJpwFHa35KN1"
@@ -765,7 +789,7 @@
       "url": "https://open.spotify.com/track/44673Rco6EaaSWbrsAeaM3"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "Show Me the Money 4 Episode 6",
         "url": "https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN"
@@ -789,7 +813,7 @@
       "url": "https://open.spotify.com/track/0PFtFcvzTQ82YgEtjzsHGa"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "Prison Playbook (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/0ON9mWyY2zv996HpPNx2LH"
@@ -809,7 +833,7 @@
       "url": "https://open.spotify.com/track/2b5GYIMnWfhoWWnc4UFfQf"
     },
     {
-      "added_at": "2022-09-20 02:52:50",
+      "added_at": "2023-03-24 06:36:58",
       "album": {
         "name": "Kang's Kitchen3",
         "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Alleen maar motion en good vibes. Cover: Bryan Mg",
+  "description": "Alleen maar motion en party vibes met PARTY SAM",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 170581,
       "name": "7 Dagen",
       "url": "https://open.spotify.com/track/5nU27RM0y7b9nh0mY1yjbF"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 154984,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/1TReXD3RjBnCxdbwCoD77u"
@@ -374,6 +374,24 @@
       "duration_ms": 166633,
       "name": "Air Max",
       "url": "https://open.spotify.com/track/5G65Qm4RBZM7VzsiP8tZ0P"
+    },
+    {
+      "album": {
+        "name": "All Eyes On You",
+        "url": "https://open.spotify.com/album/00PVcrGVColJqZdOohU0ZR"
+      },
+      "artists": [
+        {
+          "name": "Badboygoodvibes",
+          "url": "https://open.spotify.com/artist/1HIMRZqxPjlZLjzuWt3lR3"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "All Eyes On You",
+      "url": "https://open.spotify.com/track/2CvQycaLX8eGR46JOAhh8k"
     },
     {
       "album": {
@@ -615,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Aqua Asia",
+        "url": "https://open.spotify.com/album/4E2L4hzp2hSxww9RmN0JYp"
+      },
+      "artists": [
+        {
+          "name": "L CIANO",
+          "url": "https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Aqua Asia",
+      "url": "https://open.spotify.com/track/0ONJCxrC8AzB03HAEokaRi"
+    },
+    {
+      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -652,7 +688,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 223275,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/0HqEMF1lSEXSY16U9b3oK3"
@@ -692,6 +728,46 @@
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "album": {
+        "name": "PARTY SAM",
+        "url": "https://open.spotify.com/album/0OfEs4Ventri53Ps9kyOna"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125882,
+      "name": "Baby Momma",
+      "url": "https://open.spotify.com/track/1emiSCbzoWIpfqerJijIRS"
+    },
+    {
+      "album": {
+        "name": "Ik Zie Je",
+        "url": "https://open.spotify.com/album/6ih8KxlsA7M5a2gWikbPWP"
+      },
+      "artists": [
+        {
+          "name": "Nnelg",
+          "url": "https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Babyjet",
+      "url": "https://open.spotify.com/track/6GNugjWdqd1eZQYDTyE5ch"
     },
     {
       "album": {
@@ -912,7 +988,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 146400,
       "name": "Badman Badgyal Party",
       "url": "https://open.spotify.com/track/0fU3rEOzY7VbWwilsWIG3d"
@@ -1096,7 +1172,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 206319,
       "name": "Beetje Tijd",
       "url": "https://open.spotify.com/track/5y2gzxaKDbv2gyM2LwfGSj"
@@ -1575,6 +1651,28 @@
     },
     {
       "album": {
+        "name": "Broski\u2019s",
+        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179346,
+      "name": "Broski\u2019s",
+      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
+    },
+    {
+      "album": {
         "name": "Brown Skin",
         "url": "https://open.spotify.com/album/4AVMCFjiurZk9HLAaWtIa6"
       },
@@ -1794,7 +1892,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 149433,
       "name": "Champagnepapi",
       "url": "https://open.spotify.com/track/6CxRNe0C4QW18wzvAcOxkM"
@@ -2944,7 +3042,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 125561,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5859tGjNNx7e8eJMRkOHcZ"
@@ -3637,6 +3735,28 @@
     },
     {
       "album": {
+        "name": "Hartslag",
+        "url": "https://open.spotify.com/album/0cPOcQoo6rmXbqMJknD9MS"
+      },
+      "artists": [
+        {
+          "name": "Johnny 500",
+          "url": "https://open.spotify.com/artist/53phw2rwTqJEtpZ1LgsPgj"
+        },
+        {
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Hartslag",
+      "url": "https://open.spotify.com/track/77eq2DbNIS97yaib8nWHP7"
+    },
+    {
+      "album": {
         "name": "Hasikiboke (Reloaded)",
         "url": "https://open.spotify.com/album/1Hr7TaNC0zESeCArkSXcnU"
       },
@@ -3868,7 +3988,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
@@ -3890,7 +4010,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 225223,
       "name": "HUSHPUPPI",
       "url": "https://open.spotify.com/track/4nOQ63NPZPwjzrxOhWWsbc"
@@ -3926,7 +4046,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 166551,
       "name": "I DO",
       "url": "https://open.spotify.com/track/639dPPDcbxV9cRRDsNQGFg"
@@ -4354,7 +4474,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 142882,
       "name": "Japanese Eyes",
       "url": "https://open.spotify.com/track/6kcCoc0fVHxSGU3rKLmKnY"
@@ -4468,7 +4588,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 122972,
       "name": "Jini",
       "url": "https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x"
@@ -4582,7 +4702,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 173060,
       "name": "Khadiya",
       "url": "https://open.spotify.com/track/6CQqRYxhbmqOgOiE5obuQH"
@@ -4740,7 +4860,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 217254,
       "name": "LA HORA Y EL D\u00cdA",
       "url": "https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq"
@@ -5205,6 +5325,24 @@
     },
     {
       "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/2eOxVZZF7xUkblhC6W3kjs"
+      },
+      "artists": [
+        {
+          "name": "Giniio",
+          "url": "https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149452,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/1YgiXulBEnUINkEGDd4ngT"
+    },
+    {
+      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/2vxDwrcRdSzKfBFWuQA5pH"
       },
@@ -5271,6 +5409,32 @@
     },
     {
       "album": {
+        "name": "Loro Piana",
+        "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
+      },
+      "artists": [
+        {
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Loro Piana",
+      "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
+    },
+    {
+      "album": {
         "name": "LOS VAN",
         "url": "https://open.spotify.com/album/4c5n50pYkLcLW7RvwoMB2v"
       },
@@ -5308,6 +5472,24 @@
       "duration_ms": 142352,
       "name": "Lot A Lot A",
       "url": "https://open.spotify.com/track/0KLU7YiCi6aZYkYgL1ZuSf"
+    },
+    {
+      "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
     },
     {
       "album": {
@@ -6428,7 +6610,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 254693,
       "name": "No Money",
       "url": "https://open.spotify.com/track/3e0yFn74MouCqsAxTCKOUf"
@@ -7075,6 +7257,28 @@
     },
     {
       "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/3j4j3AakOx6CC3yyY6Yq7d"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143505,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/2BevMrVPQsDs6V7VZTdbhb"
+    },
+    {
+      "album": {
         "name": "Paro",
         "url": "https://open.spotify.com/album/7Kt404MeesjKF910O5fTop"
       },
@@ -7148,10 +7352,36 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 139672,
       "name": "Penalty",
       "url": "https://open.spotify.com/track/32flSlu3UjvNsC6Hxyw1tR"
+    },
+    {
+      "album": {
+        "name": "People (feat. Ayra Starr & Omah Lay) [Remix]",
+        "url": "https://open.spotify.com/album/689njStjzEujqVZtSDlpha"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184633,
+      "name": "People (feat. Ayra Starr & Omah Lay)",
+      "url": "https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr"
     },
     {
       "album": {
@@ -7214,6 +7444,32 @@
       "duration_ms": 237525,
       "name": "PLAYA DEL INGL\u00c9S",
       "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
+    },
+    {
+      "album": {
+        "name": "PARTY SAM",
+        "url": "https://open.spotify.com/album/0OfEs4Ventri53Ps9kyOna"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Vunzige Deuntjes Soundsystem",
+          "url": "https://open.spotify.com/artist/62YuFBPEU1YLmrYgOdL0Ci"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149052,
+      "name": "Poesje Lief (feat. Architrackz)",
+      "url": "https://open.spotify.com/track/1T8I1G5QPTx9GWpQAaBk0R"
     },
     {
       "album": {
@@ -7336,7 +7592,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 112647,
       "name": "POV",
       "url": "https://open.spotify.com/track/3gUyWMxsnhrEwPhQjL2W0L"
@@ -8669,6 +8925,24 @@
     },
     {
       "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
+    },
+    {
+      "album": {
         "name": "Tnawies & 10 T's",
         "url": "https://open.spotify.com/album/4v6bTXgnHijeFR5yOJjW1G"
       },
@@ -9048,7 +9322,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 181714,
       "name": "Verstoppertje",
       "url": "https://open.spotify.com/track/1anlPFtoqIqt80I5XVxauQ"

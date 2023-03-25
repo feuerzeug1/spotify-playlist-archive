@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=7ZBC78cQReWxx83z4DpS2Q\">Nikita Kering'</a> ",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg?si=L_TnsUhcTqutcsEV8Hpphg\">Merly Paige</a> ",
   "name": "NairoBae",
   "tracks": [
     {
@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Hivyo",
+        "url": "https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B"
+      },
+      "artists": [
+        {
+          "name": "Ethan Muziki",
+          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Hivyo",
+      "url": "https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW"
       },
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 200863,
       "name": "Mbali - Stripped Version",
       "url": "https://open.spotify.com/track/1XCI64DmbFXhxXKTWqILgG"
@@ -1282,6 +1300,28 @@
       "duration_ms": 231150,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/5OB9O4aHm8IlB1FOoQFRXm"
+    },
+    {
+      "album": {
+        "name": "DEDICATED",
+        "url": "https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ"
+      },
+      "artists": [
+        {
+          "name": "Meryl Paige",
+          "url": "https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg"
+        },
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "My Love Awaits",
+      "url": "https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27"
     },
     {
       "album": {
@@ -2070,7 +2110,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 242625,
       "name": "Tosheka",
       "url": "https://open.spotify.com/track/5g1YeZeEGyPOMwnz0TpGeO"

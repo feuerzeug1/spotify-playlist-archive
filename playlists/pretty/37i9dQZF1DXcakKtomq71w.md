@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,369 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,431 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Vette](https://open.spotify.com/track/39Oui3EXtdMLKQqQIFjRpa) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Vette / Leaving Home](https://open.spotify.com/album/4rDSAYMAsLVz7sJqxBCF1b) | 8:24 |
 | 50 | [Fortaleza](https://open.spotify.com/track/4GJJYTJyjyzPDeKtUhibsH) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD) | [Fortaleza](https://open.spotify.com/album/3hsslyZlOJ4OdxvOhn4UMd) | 2:45 |
 
-Snapshot ID: `MTY3OTQ0MTYzNSwwMDAwMDAwMDkzYjk4OWIxNWM1ZGJiZmE4YmVhODdiOTE0OTllNzQ1`
+Snapshot ID: `MTY3OTQ0MTYzNSwwMDAwMDAwMDRmNjEyOGQ2OWZiODk3N2IyY2Q0NjE4MjIyZjUyNWY4`

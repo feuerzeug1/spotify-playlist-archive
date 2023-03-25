@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-86 songs - 4 hr 27 min
+87 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Lowlands Away](https://open.spotify.com/track/0xQulEotE4SkbS4hpi9P9X) | [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Clayton Kennedy](https://open.spotify.com/artist/3ZBJsOEjp8s1b3aQn4sE4U), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition, Vol\. 2\) \[Original Game Soundtrack\]](https://open.spotify.com/album/3xIHHyUh7RTAzLzXUzksBB) | 2:53 | 2022-03-10 |  |
 | [Migalay Boat Song](https://open.spotify.com/track/5tbesmuXa9zGysiRzl3vra) | [The Fisherman’s Friends](https://open.spotify.com/artist/0cyEKEh8fQkksmpwLBlZV4) | [Home From The Sea](https://open.spotify.com/album/1zxO6AaHwxYyOsW4rf2NFm) | 2:52 | 2022-03-10 |  |
 | [Mingulay Boat Song](https://open.spotify.com/track/6Kh9uXCwBCaSJUaNI4IYBE) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rogue's Gallery: Pirate Ballads, Sea Song And Chanteys](https://open.spotify.com/album/2nEFRJfFVgdcPGKv9atYBg) | 4:13 | 2022-03-10 |  |
+| [My Mother Told Me \(A Cappella\)](https://open.spotify.com/track/4DEagfpGIqSIGOWSjBVVmu) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16) | [My Mother Told Me \(A Cappella\)](https://open.spotify.com/album/3u0tuar3QajQNJDGt3js8Y) | 2:03 | 2023-03-24 |  |
 | [Northwest Passage](https://open.spotify.com/track/4WKs2iDdrR2fA8T3hlCanB) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Northwest Passage](https://open.spotify.com/album/6GQskZhcw8OppDepxNSUSX) | 4:49 | 2022-06-29 |  |
 | [Northwest Passage](https://open.spotify.com/track/1LMJZeNGgZ5aqHR1yqd8Fy) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Northwest Passage \(Remastered\)](https://open.spotify.com/album/2bDui7IgyN8xbPNLEJfNcz) | 4:49 | 2022-03-10 | 2022-07-29 |
 | [Northwest Passage](https://open.spotify.com/track/2P1ql6npuP7bnsWMoisarq) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Northwest Passage \(Remastered\)](https://open.spotify.com/album/4vGCOoQXIorKp1u7zAfOqg) | 4:49 | 2022-06-29 | 2022-11-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Venus & the Flytraps \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,991 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,110 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Asking For It](https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC) | 2:19 |
 | 75 | [Tailspin](https://open.spotify.com/track/6UkOQiwJzi4lWnwh9uHToU) | [For You](https://open.spotify.com/artist/3x2FNEbwxd6Oc8pj2Q9lTa) | [Tailspin](https://open.spotify.com/album/7HrMeM4WYfbeZsQtzXvWsn) | 3:32 |
 
-Snapshot ID: `MTY3OTUwMDgwMCwwMDAwMDAwMGI3MzZkMjJjOGQ0MWRlNTI1ZjNhOTljYTMzYjU1Yzhm`
+Snapshot ID: `MTY3OTUwMDgwMCwwMDAwMDAwMGI4YjVhMjc1OWRiZmM3ZGU0ZWM2YWNjMDI5Y2ExMzEz`

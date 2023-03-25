@@ -4,7 +4,7 @@
 
 > 
 
-213 songs - 12 hr 45 min
+215 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Eternally Yours](https://open.spotify.com/track/3ju6S1v9i1s9hzOm7hMRQr) | [Klimeks](https://open.spotify.com/artist/5JQljNQvDpk1hhKpJHpwNU) | [wave 002](https://open.spotify.com/album/0S1PNLnoLH1CdncU5H724W) | 4:22 | 2019-05-26 |  |
 | [EUPHORIA SECRET](https://open.spotify.com/track/29aUIAviBlcr0yuIAjuzNn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [EUPHORIA SECRET](https://open.spotify.com/album/7zmGPpqRqLeH5MFUdGb7n4) | 2:19 | 2022-07-14 |  |
 | [Evoke](https://open.spotify.com/track/1wHJs0FZ2rfnF6WPbf7J9D) | [TIGEREYES](https://open.spotify.com/artist/3qWwKff78uoM5o717OkxZF) | [Time Lapse](https://open.spotify.com/album/2NdvZLJdMxls8T9tgGXIrh) | 2:48 | 2020-07-16 |  |
+| [Excused](https://open.spotify.com/track/1dAUBCLkCrTbiOSk8iJ12b) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR) | [Excused](https://open.spotify.com/album/711t4AGqeMZkLio6N8e3up) | 2:23 | 2023-03-23 |  |
 | [Expansion](https://open.spotify.com/track/6NCLQheJJDquZfIXMlhZn8) | [CLFRD](https://open.spotify.com/artist/6YoGAC3Z4jQdZHFlGu8Hlo) | [Plastician Presents \- Wavepool 2](https://open.spotify.com/album/4fPasVJUT0Wp9skLi6EP3R) | 3:14 | 2019-09-28 |  |
 | [FADE](https://open.spotify.com/track/7bhUywrgoZaEWXidXmx9bI) | [WHITE KATANA](https://open.spotify.com/artist/5OtyZM8MxtHrYqOPxetwji), [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [FADE](https://open.spotify.com/album/07jHrZSDK22RASyH0wR99s) | 3:46 | 2018-11-28 |  |
 | [Faith \- Rdmptn Remix](https://open.spotify.com/track/2R1p12DEuwMxE2GHOATyRL) | [CHVRN](https://open.spotify.com/artist/7rSykIe3Og1NMbIV6LOeVx), [Rdmptn](https://open.spotify.com/artist/3CtFUcibI889CZ5wcikiUi) | [Faith \(Rdmptn Remix\)](https://open.spotify.com/album/7sIHKSjWuiiRM1gfzg2qDB) | 4:33 | 2021-08-04 |  |
@@ -209,6 +210,7 @@
 | [Vale](https://open.spotify.com/track/4FR2wKI8PXFMRJVsekEj64) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [Scattering](https://open.spotify.com/album/1b0CSmlpQl7ztIcYe02wkM) | 4:13 | 2018-11-27 |  |
 | [Virus](https://open.spotify.com/track/4nVqKzVP6XPZPS4b34bHv1) | [Memphis.](https://open.spotify.com/artist/3ACzfvTTZISD00GrHxuGiv) | [Virus](https://open.spotify.com/album/5WxpjBOBwaoDlOCoIuh8G2) | 3:08 | 2020-06-27 |  |
 | [Wake Me Up](https://open.spotify.com/track/7xQGuSAJBWLYziIeUTsjUW) | [Lowly, Kim, Affectwave](https://open.spotify.com/artist/4W3IG9DQCjtsOzT6fiWcZV) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:18 | 2021-06-11 |  |
+| [Walk Alone](https://open.spotify.com/track/5Pn0C5E7oYHLcsr2llYzaZ) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR), [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE) | [Walk Alone](https://open.spotify.com/album/5EvWVv7sGSorTrLAQHRwvQ) | 2:51 | 2023-03-24 |  |
 | [Walking on the Abyss](https://open.spotify.com/track/4fFmCRa4lQKZMmPtmqwsZR) | [Øfdream](https://open.spotify.com/artist/70P3LvwslDBQicUfL2Ix02) | [Anthology, Pt\. 2](https://open.spotify.com/album/3n4SeHfULyCQNQSOhsEUoY) | 3:13 | 2019-02-06 |  |
 | [Want It](https://open.spotify.com/track/7pgFEZxfpZlVj0FGqjcIO1) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Want It](https://open.spotify.com/album/4NTODpamiuV9TtHzMhc49o) | 3:28 | 2021-04-12 |  |
 | [Waste](https://open.spotify.com/track/4gfKuH6rtBQB3ss6e2ClOp) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Waste](https://open.spotify.com/album/5f175t900VkavFUPSBvKiO) | 3:53 | 2018-11-27 |  |

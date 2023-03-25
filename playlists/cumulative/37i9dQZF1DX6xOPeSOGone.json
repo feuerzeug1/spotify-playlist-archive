@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 262693,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 181026,
       "name": "I Don't Believe In Miracles",
       "url": "https://open.spotify.com/track/4a0z0XNi6gPXZczkXUaP7w"
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 227000,
       "name": "I'm a Camera",
       "url": "https://open.spotify.com/track/6XbA5gVGJlza8v7ebAbUZ1"
@@ -5856,6 +5856,24 @@
       "duration_ms": 231546,
       "name": "This Is Not America (with The Pat Metheny Group) - 2014 Remastered Version",
       "url": "https://open.spotify.com/track/5kM7d84aHuT9gyRfGPpVWq"
+    },
+    {
+      "album": {
+        "name": "This Night Won't Last Forever",
+        "url": "https://open.spotify.com/album/25h67pU7Dl8JlUYuvtVoue"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265640,
+      "name": "This Night Won't Last Forever",
+      "url": "https://open.spotify.com/track/3KH39R9cO3ZWN6hqRbTKM3"
     },
     {
       "album": {

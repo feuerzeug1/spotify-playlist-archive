@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 144892,
       "name": "Binaural Gamma Sinus 200 Hz - 250 Hz",
       "url": "https://open.spotify.com/track/5y9hKet0kqGnbyIl47UYlw"
@@ -3408,6 +3408,24 @@
       "duration_ms": 245000,
       "name": "Gamma Binaural (78.3Hz -157.0Hz)",
       "url": "https://open.spotify.com/track/2Ch4AA1LTMHrzUTwGbWgwQ"
+    },
+    {
+      "album": {
+        "name": "Binaural Levitation",
+        "url": "https://open.spotify.com/album/6RwD0AuziBPY0zRodQcPWv"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165241,
+      "name": "Gamma Clarity 103 Hz - 143 Hz",
+      "url": "https://open.spotify.com/track/3qCvtu6V8kno7zCQuCl308"
     },
     {
       "album": {

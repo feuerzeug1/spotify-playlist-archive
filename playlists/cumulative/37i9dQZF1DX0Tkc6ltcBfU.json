@@ -3288,7 +3288,7 @@
     {
       "album": {
         "name": "Fat Racks Pt. 2",
-        "url": "https://open.spotify.com/album/5hYM8bF77qRIYoSztYb2cR"
+        "url": "https://open.spotify.com/album/72tHL4WxcC4A0YLIl1Jlmr"
       },
       "artists": [
         {
@@ -3303,6 +3303,28 @@
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223272,
+      "name": "Fat Racks Pt. 2",
+      "url": "https://open.spotify.com/track/2c4ticJc3SJRjnz6H9BKbp"
+    },
+    {
+      "album": {
+        "name": "Fat Racks Pt. 2",
+        "url": "https://open.spotify.com/album/5hYM8bF77qRIYoSztYb2cR"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
       "duration_ms": 223910,
       "name": "Fat Racks Pt. 2",
       "url": "https://open.spotify.com/track/7LWj7OYNxpBEnsc3kzezEj"

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: rhyu\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Sun Cell\. Artwork: Isu Kim.
 
-390 songs - 21 hr 29 min
+394 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [2020](https://open.spotify.com/track/13pFyKbT1u9gVUhNuODeO5) | [CURB](https://open.spotify.com/artist/16be15Aitv731NGEMWwt9V) | [2020](https://open.spotify.com/album/340SJshdx3n0fntzKCTioQ) | 3:54 | 2022-09-09 | 2023-03-10 |
 | [4FREE](https://open.spotify.com/track/79OyP5Q7m8pC8Js1Eybpgw) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [4FREE](https://open.spotify.com/album/72lp4Ez6x7GO7mZVTRrca3) | 3:06 | 2022-11-10 |  |
 | [666](https://open.spotify.com/track/755QVRdvubfL0ncGAXls5W) | [Nicco Homaili](https://open.spotify.com/artist/5sjvJdmkJqgxLqq94IsYEf) | [666](https://open.spotify.com/album/3SyR4NalqLfM2k94Ej3AFe) | 3:05 | 2022-06-16 | 2022-09-16 |
-| [abyss](https://open.spotify.com/track/0Cve3DjYpYYA8R4MNE79Zu) | [Eddi](https://open.spotify.com/artist/7g6DD786gs71isEOrIKy94) | [abyss](https://open.spotify.com/album/044ciJnjsQPMsSLgGvr4tE) | 3:05 | 2022-11-10 |  |
+| [abyss](https://open.spotify.com/track/0Cve3DjYpYYA8R4MNE79Zu) | [khayr](https://open.spotify.com/artist/3fZ2biq7TE8pYQLDGfRd2A) | [abyss](https://open.spotify.com/album/044ciJnjsQPMsSLgGvr4tE) | 3:05 | 2022-11-10 |  |
 | [act too nice, be too dumb](https://open.spotify.com/track/6d5Qo1pfi6f2dk3GI0H2ap) | [Sabrina Nicolette](https://open.spotify.com/artist/6DxUkGnJDY3BIubtX1afwj) | [act too nice, be too dumb](https://open.spotify.com/album/05pZcnUnfaI7ZLzSixe17n) | 3:13 | 2021-12-01 | 2022-01-14 |
 | [Adolescence](https://open.spotify.com/track/7kJF6LXAdGFFYIBG0ORnjv) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Adolescence](https://open.spotify.com/album/4GpeNL5ruYdieY9QLK2cTk) | 4:20 | 2022-01-13 | 2023-01-13 |
 | [Alibi](https://open.spotify.com/track/0137H45gM6qEPdZ3XDObo6) | [Shadow Puppet Theatre](https://open.spotify.com/artist/3Sn4O0kPAszlYmxYrguYGU) | [Alibi](https://open.spotify.com/album/5QHEAUkNy3h1VgSZ4ayN0s) | 3:51 | 2022-01-13 | 2022-06-17 |
@@ -162,6 +162,7 @@
 | [i knew you'd break me too](https://open.spotify.com/track/3GxfAIc71D0H34YjmRtN4C) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [i knew you'd break me too](https://open.spotify.com/album/7M9BIvJayv8lJAyP9EI8vD) | 3:06 | 2022-01-13 | 2022-06-17 |
 | [i like red](https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65) | [Charlene Su](https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD) | [i like red](https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj) | 2:02 | 2021-12-01 | 2022-01-14 |
 | [I Miss You](https://open.spotify.com/track/33bTQa936DdseMAkYG480W) | [After Mdnight](https://open.spotify.com/artist/3ep3ws1EvwD6SKeVjjorqT) | [I Miss You](https://open.spotify.com/album/2ZT0rNL2TyFN5w7DvmXl9a) | 3:10 | 2022-01-27 | 2023-01-13 |
+| [i miss you](https://open.spotify.com/track/2F6yCLZrsXP910MnC5K3TE) | [Toska](https://open.spotify.com/artist/3Y7o0EykMnj6Ll6vsF951H) | [i miss you](https://open.spotify.com/album/4n0BFspnQv8EaKwbI1ZymX) | 2:31 | 2023-03-23 |  |
 | [I Need](https://open.spotify.com/track/32Cwwxsfdt15oEQWHAjrrM) | [Opera Woo](https://open.spotify.com/artist/5MSpWEqTGTrf9XyHql7pJI) | [I Need](https://open.spotify.com/album/7qtq733WGadDuSWcAcHMK6) | 2:39 | 2022-06-30 | 2022-09-16 |
 | [I need u](https://open.spotify.com/track/7E4mIxuhnNL856aydrP0B7) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [I need u](https://open.spotify.com/album/4xq11IGu0neptVbyPbUDXn) | 3:19 | 2022-03-24 | 2023-01-13 |
 | [ice lemon tea freestyle](https://open.spotify.com/track/3KDtIiPkUvi8ByTSdJhERR) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Dan Rafaael](https://open.spotify.com/artist/0CzAGxgTgfwF5Z8QQnc6yi) | [ice lemon tea freestyle](https://open.spotify.com/album/150xerEonlyZpb9WPXSph9) | 2:04 | 2023-02-09 |  |
@@ -227,6 +228,7 @@
 | [Moon & The Sun](https://open.spotify.com/track/1YHnNk5C8MNLnzNLT7C3Ql) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Bil Musa](https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9) | [Moon & The Sun](https://open.spotify.com/album/0KaHXAtLJtHWAv4skCm7zT) | 3:24 | 2021-12-01 | 2023-01-13 |
 | [mosquitos in my room](https://open.spotify.com/track/0EjlC2TKUDCz0SuIkkP88Q) | [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL) | [mosquitos in my room](https://open.spotify.com/album/5wn5LHru9YcPYVpZRdLumA) | 3:26 | 2022-04-14 | 2023-01-13 |
 | [Move On](https://open.spotify.com/track/2CQSOR6ETLKlsfjfMS1rNn) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Things I Wished I'd Said](https://open.spotify.com/album/62UiCtWlr8X5sDkIFKiaE8) | 3:35 | 2021-12-01 | 2022-01-14 |
+| [mullet](https://open.spotify.com/track/1xvt7OdsqFXQPcg9xQ5KAk) | [Syamil](https://open.spotify.com/artist/2gYfOpC3v81qRZJdrsXuAD), [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq) | [mullet](https://open.spotify.com/album/6bwEr7NHlRowHbRPeD6PNc) | 3:14 | 2023-03-23 |  |
 | [My World Too](https://open.spotify.com/track/6v4Y98Y5nhelVwwjB0Xdbk) | [Fatia](https://open.spotify.com/artist/6cW6LQN8Jd1QtQLGy1TIOh) | [My World Too](https://open.spotify.com/album/4f1F2OfvY2ZsRUz7ic1Yfz) | 3:18 | 2022-01-13 | 2022-03-11 |
 | [Mysterious Interstellar Matter](https://open.spotify.com/track/2xlHbvu2g7YoGWGBMlr9rJ) | [Ky Den](https://open.spotify.com/artist/2LUQt3IqImFyupLVTie3Tk) | [Mysterious Interstellar Matter](https://open.spotify.com/album/680W5rwNNlx6ge7lItGcSt) | 2:11 | 2022-06-17 | 2022-09-23 |
 | [Nadia](https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Nadia](https://open.spotify.com/album/1dkVblyDuSDRjGfdL505Vf) | 3:21 | 2023-02-09 |  |
@@ -258,7 +260,7 @@
 | [OVER](https://open.spotify.com/track/4NmZMyrKqf37ST8Retl1TW) | [$ain't](https://open.spotify.com/artist/7xxicFvPSZeCwcUIENBQWH) | [OVER](https://open.spotify.com/album/2I4jJrYVLfL1rTT4syjmuu) | 2:21 | 2022-04-21 | 2022-07-08 |
 | [Over Overthinking](https://open.spotify.com/track/4pnbyipG5l8dTE1tnMc24d) | [Noa Angell](https://open.spotify.com/artist/50WeqTlp8tT6OnQCbZW0q8) | [Over Overthinking](https://open.spotify.com/album/4oOyFDgWnKk1HhPLoUuHx0) | 2:00 | 2022-01-13 | 2022-06-17 |
 | [Over The Moon](https://open.spotify.com/track/7MFMicI9kiV2QKmhSzhGTr) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Over The Moon](https://open.spotify.com/album/76ggCBGXOVOf3nru9bFccp) | 3:23 | 2022-03-24 | 2022-07-08 |
-| [Over You](https://open.spotify.com/track/2rPcyAVICh3MyhKrMLbeVt) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl), [Joshua Wong](https://open.spotify.com/artist/2IW3TsYtBaWuk15kyAIRdK) | [Over You](https://open.spotify.com/album/549aG93aYXXywD71wj36Sw) | 3:32 | 2023-03-09 |  |
+| [Over You](https://open.spotify.com/track/2rPcyAVICh3MyhKrMLbeVt) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl), [Joshua Wong](https://open.spotify.com/artist/2IW3TsYtBaWuk15kyAIRdK) | [Over You](https://open.spotify.com/album/549aG93aYXXywD71wj36Sw) | 3:32 | 2023-03-09 | 2023-03-25 |
 | [party](https://open.spotify.com/track/0YBOVHdZinVrNORmAOpYfr) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [michelle lawry](https://open.spotify.com/artist/24LXdeEckLgdufz8L07ud7) | [party](https://open.spotify.com/album/3e9d8HEaFr5Ma08KGGj1MW) | 3:38 | 2022-04-21 | 2022-09-23 |
 | [party](https://open.spotify.com/track/3lg8fTLCOWxgaudZXCyG3P) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [michelle lawry](https://open.spotify.com/artist/24LXdeEckLgdufz8L07ud7) | [GUARDIAN](https://open.spotify.com/album/6x7r7EgOxslreS1bEa8aPF) | 3:38 | 2022-11-30 | 2023-01-13 |
 | [pearl milk tea](https://open.spotify.com/track/0m1jFt1L6y69DKOtqRFw1G) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [pearl milk tea](https://open.spotify.com/album/0AWuIz8YvuqyaQ9wCRt8UI) | 3:02 | 2022-09-22 | 2023-03-18 |
@@ -292,6 +294,7 @@
 | [SAFETY FIRST](https://open.spotify.com/track/2qpQJOmQwANHsGToFrtOfO) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [SAFETY FIRST](https://open.spotify.com/album/6e3AFdBnFabQuxAUnjI2ph) | 2:48 | 2022-07-28 | 2022-09-23 |
 | [SAUCE!](https://open.spotify.com/track/7nqGdKjlt1X4hBuPB2Ccm4) | [FUDGY](https://open.spotify.com/artist/277YzxZXoTJUeJaH4cfmQL) | [SAUCE!](https://open.spotify.com/album/7wKL6WBL0lxZlo8h8thdDf) | 2:27 | 2022-02-10 | 2022-06-17 |
 | [see you soon](https://open.spotify.com/track/6NRZ7rvVhYhMUF575qdzcR) | [Darryl Sim](https://open.spotify.com/artist/0FbejZR1UoamwHNaZUXIDN), [Wren](https://open.spotify.com/artist/5l2UPekSc9efPGnfa43lKQ) | [see you soon](https://open.spotify.com/album/26K1hiMLrnuU63gdD19471) | 3:04 | 2022-09-15 | 2023-03-18 |
+| [Shackle](https://open.spotify.com/track/2BPyKPCI4MMzUishOYGYJu) | [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Shackle](https://open.spotify.com/album/0PMR3GiPKDrdJslDDoEgHN) | 3:16 | 2023-03-23 |  |
 | [Shadows](https://open.spotify.com/track/4aw1CYgrgWNUDWXmuXhtLK) | [Redwan Hamzah](https://open.spotify.com/artist/6gubGGxqITX4wIbRHqEMUE) | [Shadows](https://open.spotify.com/album/3vLoez9XAXujGBr7CQjavo) | 4:58 | 2022-01-27 | 2022-06-17 |
 | [Shape of Your Love](https://open.spotify.com/track/7zvCdlYkabM6T5E1V1OvVl) | [HE1ST](https://open.spotify.com/artist/3qaVa0rLcDzCWzKjpJdKCX) | [Shape of Your Love](https://open.spotify.com/album/4inJZlyjetZp8JmA3JpMOZ) | 3:14 | 2021-12-01 | 2022-01-14 |
 | [She A Rockstar](https://open.spotify.com/track/0tctuDVTPw6WSzfuFnPU9w) | [Jordan Queka](https://open.spotify.com/artist/3HedGQ0i6CJuYVmbuDIx3J) | [She A Rockstar](https://open.spotify.com/album/6R9qkU8LcYoAKLN3LeE51H) | 2:09 | 2022-08-18 | 2023-02-10 |
@@ -395,6 +398,7 @@
 | [you didn’t](https://open.spotify.com/track/5a9cvQ2osId4cQJN4WC1Ph) | [Jenaine](https://open.spotify.com/artist/1TumIwTtiH0pqf8tBvuZpI) | [you didn’t](https://open.spotify.com/album/31UwN6tODIwhVwcfBdw0XP) | 2:33 | 2023-03-02 |  |
 | [You're My Everything](https://open.spotify.com/track/77wZQJsPyqE4hYg2AXsNhu) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [You're My Everything](https://open.spotify.com/album/6S5BlJeryFRwxm6ApQ6ncz) | 3:32 | 2023-02-03 |  |
 | [YOUR EYES](https://open.spotify.com/track/7cKS9sDxGbbEe34KwagpoG) | [Kiyne](https://open.spotify.com/artist/1HTJf01tLwR7xXxaH3L92B) | [YOUR EYES](https://open.spotify.com/album/525LxSwLetm5KEbHEwo8ML) | 3:28 | 2022-04-28 |  |
+| [your house](https://open.spotify.com/track/25XLHOoj2IWaUyQ25Y70qu) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [your house](https://open.spotify.com/album/5pntsh2IcPL9enaBlv5OXl) | 2:52 | 2023-03-23 |  |
 | [Your Loss](https://open.spotify.com/track/24IE7WIUYYs9gmhbgPLULC) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Your Loss](https://open.spotify.com/album/7zWIsfNXYMTqckSbp21PjE) | 3:35 | 2022-01-13 | 2022-03-11 |
 | [내 사랑아 \(Oh, My Love\)](https://open.spotify.com/track/7KgRv7LzkNQ4EFeoMzC24G) | [mersie](https://open.spotify.com/artist/6NiLEHNy66fQkD5PNoQqoH) | [내 사랑아 \(Oh, My Love\)](https://open.spotify.com/album/3QNFlrECM7YmdCwpt1vQx1) | 3:36 | 2021-12-01 | 2023-01-13 |
 | [​play me](https://open.spotify.com/track/5626i04kNNcjKXLIpn7kYi) | [Agalia](https://open.spotify.com/artist/3SjO9XulRr2YjTkxQwuJKZ) | [​play me](https://open.spotify.com/album/2nrX1v6cePTohto7uIuhf6) | 3:49 | 2022-01-20 | 2022-06-17 |

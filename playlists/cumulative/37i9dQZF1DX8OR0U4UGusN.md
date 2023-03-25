@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-220 songs - 12 hr 8 min
+221 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Mood Swing](https://open.spotify.com/track/3wAebT0NtgPyCGYizWq2i5) | [Nick Vyner](https://open.spotify.com/artist/2gmFaEvoRIXAetLvWOVeI7) | [Mood Swing](https://open.spotify.com/album/4co1l5Win5qwsU6NcVwhH7) | 3:05 | 2021-08-05 | 2023-01-27 |
 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn) | 4:45 | 2022-03-04 | 2022-11-20 |
 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 | 2022-10-06 |  |
+| [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-03-23 |  |
 | [Mushrooms](https://open.spotify.com/track/5q5oNwAs28k9dtnkAliFdX) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Aries](https://open.spotify.com/album/297U8JOxqY4g4H1yNF5ofF) | 2:43 | 2021-08-05 | 2022-07-29 |
 | [My Demise](https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [My Demise](https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot) | 2:16 | 2022-10-14 | 2023-01-27 |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2022-03-31 | 2023-01-27 |
@@ -158,7 +159,7 @@
 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 | 2022-05-03 | 2022-07-02 |
 | [pretending](https://open.spotify.com/track/6JdsPCckuimQaRQgDhTpB9) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [then i'll be happy](https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s) | 1:38 | 2021-11-12 | 2022-07-22 |
 | [Pretty Face](https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Pretty Face](https://open.spotify.com/album/3mjjWk8njHR1KqYmWnRUUU) | 2:59 | 2022-06-03 | 2023-01-27 |
-| [Psychics in LA](https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends \(Deluxe\)](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w) | 3:26 | 2022-12-15 |  |
+| [Psychics in LA](https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends \(Deluxe\)](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w) | 3:26 | 2022-12-15 | 2023-03-25 |
 | [Psycho](https://open.spotify.com/track/4t7lpIdS2F527iGYuTZopQ) | [Jonah Roy](https://open.spotify.com/artist/0bhTD2sTUzxTEsgEUTAVQX), [Rome](https://open.spotify.com/artist/5EeWUtYiNzysDoDcISub49) | [Floating Head](https://open.spotify.com/album/4neSleLeckCi30cdozC6U7) | 2:59 | 2022-03-11 | 2023-01-27 |
 | [put the L in style!](https://open.spotify.com/track/0vPpdNrO38ObJs71ly8yL1) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [PASTIMES+](https://open.spotify.com/album/1oxM9aky7Q1YMXdKINqtjf) | 2:18 | 2022-03-02 | 2022-07-29 |
 | [Reflection](https://open.spotify.com/track/3Ka18NiN5T4gsCZaFq6RRn) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 4:00 | 2021-08-05 | 2023-01-27 |

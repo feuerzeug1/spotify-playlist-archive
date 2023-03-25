@@ -2,7 +2,7 @@
 
 ### [Chill Out Jazz](https://open.spotify.com/playlist/37i9dQZF1DXdk2DZvqpqJY)
 
-> Jazzy sounds with soft beats for relaxing and unwinding.
+> Swinging jazz and soft beats for relaxing and unwinding.
 
 324 songs - 20 hr 20 min
 

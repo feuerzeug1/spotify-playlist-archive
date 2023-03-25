@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "La Ni\u00f1a de los Ojos tristes",
+        "url": "https://open.spotify.com/album/2P9PHXR0KEBu9Wzcmm4r8B"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278067,
+      "name": "La Ni\u00f1a de los Ojos tristes",
+      "url": "https://open.spotify.com/track/5rMBBvl7sfvBhCvZsLwbxh"
+    },
+    {
+      "album": {
         "name": "Rodrigo - La leyenda continua",
         "url": "https://open.spotify.com/album/0wZB11wUoKMA0i9ZipWcVQ"
       },

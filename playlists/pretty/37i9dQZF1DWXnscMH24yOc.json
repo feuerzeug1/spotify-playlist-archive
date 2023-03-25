@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 429302,
+  "num_followers": 429502,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMGI5Mjc2MmE3ZTk5YjljNTI4OTg2NDA0YmM2OWM4MWYw",
+  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMDUwYjJjOGRjY2I3OWY4MDM2YTJjZmVjOGY3YmVhMDcz",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Funeral Singers",
         "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 179386,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Come As You Are",
         "url": "https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 165309,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Passionfruit",
         "url": "https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
       },
       "artists": [
         {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
         }
       ],
-      "duration_ms": 256798,
-      "name": "My City of Ruins",
-      "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
+      "duration_ms": 188346,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1319,6 +1303,22 @@
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 256798,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 190981,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 249440,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 190981,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY"
-      },
-      "artists": [
-        {
-          "name": "Jake McMullen",
-          "url": "https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Love on Top",
         "url": "https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 228000,
       "name": "Love on Top",
       "url": "https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY"
+      },
+      "artists": [
+        {
+          "name": "Jake McMullen",
+          "url": "https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9"
     },
     {
       "added_at": "2022-03-22 14:40:29",

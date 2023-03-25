@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
+  "description": "Les hits dancehall du moment. Photo : MadeInParis",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Bend It Over",
+        "url": "https://open.spotify.com/album/0NfwvKG89hS98kD3dCaVX1"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175521,
+      "name": "Bend It Over",
+      "url": "https://open.spotify.com/track/4kx5UasR27nS6Bw6huHhj1"
+    },
+    {
+      "album": {
         "name": "Big Machine",
         "url": "https://open.spotify.com/album/4TqK6M5ZV0ASYoubCujjjr"
       },
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 136481,
       "name": "Dancewall",
       "url": "https://open.spotify.com/track/4zvye7HkHMAvKPAi9qmVtl"
@@ -2171,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Jack Sparrow",
+        "url": "https://open.spotify.com/album/0sZoCbIisx21oR0cuQkEP1"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211285,
+      "name": "Jack Sparrow",
+      "url": "https://open.spotify.com/track/4qGP4DI9dHe9ZHWlCVccUn"
+    },
+    {
+      "album": {
         "name": "Jaye Pro",
         "url": "https://open.spotify.com/album/5MO2uVCYxhcCbRD2L1yRtj"
       },
@@ -2332,7 +2368,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 160421,
       "name": "Ki moun ki pli shatta",
       "url": "https://open.spotify.com/track/3avmFPZ3UaXyl5uGcl5QwA"
@@ -3708,7 +3744,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 176250,
       "name": "Roulman",
       "url": "https://open.spotify.com/track/6kuEgsXZ5KjidJfsq6hMFV"
@@ -4030,6 +4066,24 @@
       "duration_ms": 190000,
       "name": "Sos",
       "url": "https://open.spotify.com/track/0NvwdECwRxe8avnKphwO5o"
+    },
+    {
+      "album": {
+        "name": "SMOOVE KILLA",
+        "url": "https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/5PNLuATNp9KSGYIG7c1n0o"
     },
     {
       "album": {

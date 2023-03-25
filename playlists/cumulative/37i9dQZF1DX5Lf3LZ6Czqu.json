@@ -483,6 +483,36 @@
     },
     {
       "album": {
+        "name": "Guitar Heroes Otb, Vol. 4",
+        "url": "https://open.spotify.com/album/6eJnjV0s4OOTsfPYOQzzte"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Doug Bossi",
+          "url": "https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397411,
+      "name": "Dirty Grease - Extended Version",
+      "url": "https://open.spotify.com/track/0tzv5R7yFjUHlLK1VcC4pA"
+    },
+    {
+      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/7rnXDPgmb65BV6GAqLUooD"
       },

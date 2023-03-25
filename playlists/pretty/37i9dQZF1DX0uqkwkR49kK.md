@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,211 likes - 50 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,412 likes - 50 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 49 | [Messenger of All's Right](https://open.spotify.com/track/1uKNMSrOTs0PLETx8G5DPz) | [Echolyn](https://open.spotify.com/artist/4gDS6GaqnAnBXbTfGR6LhA) | [I Heard You Listening](https://open.spotify.com/album/3gFBs80PxbFpy8NISHTCy4) | 6:23 |
 | 50 | [Theme One \- Original Version / 2005 Remaster](https://open.spotify.com/track/5laKMHPXWIIJMsuMhSgnwV) | [Van Der Graaf Generator](https://open.spotify.com/artist/02frazNrWgZCxUEf4UTfHt) | [Pawn Hearts](https://open.spotify.com/album/5Lrsef2F6ZHNC5yIUEJouw) | 3:15 |
 
-Snapshot ID: `MTY3OTQ5NDA5OCwwMDAwMDAwMGRlMDBlNjk3MjdiZGY5Mzk1MDgzZjhhMmQ4MTE3MmRi`
+Snapshot ID: `MTY3OTQ5NDA5OCwwMDAwMDAwMDM1NzU5NTY3MDQyOWY5NzIzMDBhOWFiNmRlYmFkOTQ0`

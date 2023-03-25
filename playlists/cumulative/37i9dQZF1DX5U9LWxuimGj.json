@@ -692,10 +692,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 203540,
       "name": "Hell in a Handbag",
       "url": "https://open.spotify.com/track/3AU9pWnplEeKOQP55P66kr"
+    },
+    {
+      "album": {
+        "name": "Hell in a Handbag",
+        "url": "https://open.spotify.com/album/38TOkbMjRxyTjkEFCNZsGs"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Micaela",
+          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204875,
+      "name": "Hell in a Handbag",
+      "url": "https://open.spotify.com/track/4bzfqry6i0gBvGTh8mLg9M"
     },
     {
       "album": {

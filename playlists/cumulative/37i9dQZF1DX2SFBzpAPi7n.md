@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: So!YoON!\(황소윤\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LØREN\) \(핫한 국내 록 음악을 만나보세요!\)
 
-462 songs - 1 day 4 hr 29 min
+464 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Flame](https://open.spotify.com/track/1Qg4qHeb1DK1FdwjxgbGt6) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ) | [Military Prosecutor Doberman, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ruhTOVA7QJSkaNuLC4Xp2) | 3:22 | 2022-05-24 | 2022-05-30 |
 | [Flare](https://open.spotify.com/track/5qvCcpVLeYGwJSIP2aU5uP) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [PANORAMA](https://open.spotify.com/album/5KCwE9Ev3dhkvQOzPCR6Yx) | 6:03 | 2022-04-22 | 2022-07-27 |
 | [Fly!](https://open.spotify.com/track/2q4Y6cC3bv8UoXjVZEArgo) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Fly!](https://open.spotify.com/album/6H7O2x05Dg5toCVrSBJST4) | 2:58 | 2022-08-01 | 2022-08-13 |
+| [Folks](https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Put Up a Fight](https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG) | 3:21 | 2023-03-25 |  |
 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 | 2022-04-21 |  |
 | [For Pure Pleasure Only](https://open.spotify.com/track/7m4RetwzZtQICsuQyDRJE6) | [Captainrock](https://open.spotify.com/artist/4iAzTuQOAgDedLVgZcssvm) | [For Pure Pleasure Only](https://open.spotify.com/album/13swBIvuORDemR4ZpYE7xO) | 2:42 | 2022-05-03 | 2022-05-07 |
 | [Forever Dumb \(feat\. SAM KIM\)](https://open.spotify.com/track/6odIARTda4VMoX6j5VZfLc) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [So!YoON!](https://open.spotify.com/album/6YJX2PIub9Ek7LBfpezJG1) | 3:52 | 2022-06-20 | 2022-06-22 |
@@ -144,7 +145,7 @@
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-24 | 2022-07-29 |
 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 | 2022-04-12 | 2023-01-12 |
 | [Guess Who?](https://open.spotify.com/track/7LsHODr3Z7Q3AYgOyuQ2dx) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:59 | 2022-06-13 | 2022-07-02 |
-| [Gypsophila](https://open.spotify.com/track/6LA3jxPIsMLM4tpCGrb2B5) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Crash Course in Romance OST Part 1](https://open.spotify.com/album/0h2Mo9WsDtc23UqKcY1zUv) | 3:32 | 2023-02-24 |  |
+| [Gypsophila](https://open.spotify.com/track/6LA3jxPIsMLM4tpCGrb2B5) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Crash Course in Romance OST Part 1](https://open.spotify.com/album/0h2Mo9WsDtc23UqKcY1zUv) | 3:32 | 2023-02-24 | 2023-03-25 |
 | [HAPPENING](https://open.spotify.com/track/4bvIzUmw8dl9r1PDz6OGZv) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/2I4HYm29uKgBjRtPpiFULg) | 3:44 | 2022-04-12 | 2022-07-26 |
 | [Hate U](https://open.spotify.com/track/4ueUHXReK3sHdgRuxU45uY) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [Hate U](https://open.spotify.com/album/1YbnGOAtb3gBTElItID7TJ) | 2:43 | 2022-05-11 | 2022-06-14 |
 | [Heart Emoji \(feat\. BIGONE\)](https://open.spotify.com/track/5BhMBl7sVdjb8SOY7fwZjT) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Heart Emoji](https://open.spotify.com/album/3woPtSI7v4acRdHxKcjUvA) | 2:18 | 2023-01-26 | 2023-02-11 |
@@ -152,6 +153,7 @@
 | [Here I Am](https://open.spotify.com/track/1ICoFDPrfZJq0Q8x9PxWZV) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Here I Am](https://open.spotify.com/album/1PXRZirPD7AJSe05EwLe0s) | 4:01 | 2022-05-24 | 2022-06-26 |
 | [Hey Buddy](https://open.spotify.com/track/3M8wH1NBH8dwXtPA15a8kf) | [Lazybone](https://open.spotify.com/artist/6xP2saE1VcgnPlroMk0F8k) | [Hey Buddy](https://open.spotify.com/album/2HDFYIbqGYdkTNEl0gPrn3) | 2:47 | 2022-06-13 | 2022-06-19 |
 | [hey my love](https://open.spotify.com/track/1fTsLda2k2PHbJulJmiBiv) | [greener](https://open.spotify.com/artist/6WRFiRBH2m7RdV63sKxlzq) | [hey my love](https://open.spotify.com/album/1iO9rBXyLhEbNvsyK9jDXU) | 4:11 | 2022-04-21 | 2022-07-28 |
+| [Hey, Laveen!](https://open.spotify.com/track/4ZLNsus0VVwgPjTNCq1Wsq) | [LAVEEN](https://open.spotify.com/artist/0B0RJTEmbkPCAZ9SKGv8OI) | [Hey, Laveen!](https://open.spotify.com/album/0tvIgZl9v4yJoGAgx2wP3N) | 2:32 | 2023-03-25 |  |
 | [High Teen Star 하이틴 스타](https://open.spotify.com/track/0h82aIPBXFlt7zHIgDslkP) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [High Teen Star 하이틴 스타](https://open.spotify.com/album/6Cyv09QDAHZkvyd6ThE0YE) | 2:57 | 2022-05-24 | 2022-05-26 |
 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-17 |  |
 | [HIGHTEEN MOVIE \(feat\. Owen\)](https://open.spotify.com/track/4aZXG0TSetEpCgBtd1IElf) | [TRICKY](https://open.spotify.com/artist/0YoNqRwXw0WlR0pIKujBua), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [HIGHTEEN MOVIE](https://open.spotify.com/album/1yOWQFOvjS7ndkiCLPDnIS) | 2:51 | 2022-08-18 | 2022-09-06 |
@@ -400,7 +402,7 @@
 | [Tremolo](https://open.spotify.com/track/1TndoyXL6C0Mio69RAQLhR) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Tremolo](https://open.spotify.com/album/7g0jhiGnJvAMBQ6vRQFAPp) | 4:54 | 2022-07-22 | 2022-07-24 |
 | [TROUBLE MAKER](https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj) | [901DCOLA](https://open.spotify.com/artist/0OvaIuuU6DY7SRh0Gq9MUv) | [TROUBLE MAKER](https://open.spotify.com/album/53gExAk44UuhdZLKIc3q7l) | 3:30 | 2022-05-11 | 2022-07-02 |
 | [Twilight](https://open.spotify.com/track/6cVJX9UtgpKipNUCjpPJG8) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Twilight](https://open.spotify.com/album/4JMRCWEQ9RGYs1ta3YWU5c) | 4:43 | 2022-05-24 | 2022-06-14 |
-| [Unbelievable](https://open.spotify.com/track/6q4L77QLqOzilFDrLCWc5a) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSERT COIN](https://open.spotify.com/album/1IcPMPH0AAF4WKoXlMAhod) | 3:57 | 2023-02-23 |  |
+| [Unbelievable](https://open.spotify.com/track/6q4L77QLqOzilFDrLCWc5a) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSERT COIN](https://open.spotify.com/album/1IcPMPH0AAF4WKoXlMAhod) | 3:57 | 2023-02-23 | 2023-03-25 |
 | [Uncertainty Principle \(Feat\. Dawon\)](https://open.spotify.com/track/0qEt2Iw9yurShrf7fEjSut) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 31](https://open.spotify.com/album/6XqtegrzV6dqdPu35TBDtJ) | 2:49 | 2022-04-21 | 2022-07-28 |
 | [Under the Sea](https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Under the Sea](https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6) | 4:53 | 2023-03-06 |  |
 | [Ungodly Hour](https://open.spotify.com/track/3mB2Avm1nBMtxpZumvmdVy) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Ungodly Hour](https://open.spotify.com/album/1HEcdNKpssVwc7L25PTiul) | 2:59 | 2022-07-08 | 2022-07-29 |

@@ -1,13 +1,45 @@
 {
   "description": "The pulse of new indie rock. Featuring Slow Pulp.",
-  "num_followers": 844224,
+  "num_followers": 844272,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMyMzgwMywwMDAwMDAwMGIyNzZmNGY5ODYxNjJmM2E0N2ZiNGQyYzU0Yzk2YWRi",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDY1NGVlNDA4Njc2MjI5NTdiZTZmNGFkYjk4NGMwYWRk",
   "tracks": [
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Salivate",
+        "url": "https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 147171,
+      "name": "Salivate",
+      "url": "https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Ugly Duck",
+        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "To be, or not to be ugly",
+      "url": "https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c"
+    },
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
@@ -29,6 +61,38 @@
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
     },
     {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Eucalyptus",
+        "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Eucalyptus",
+      "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "WORTHLESS",
@@ -45,20 +109,20 @@
       "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
+      "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/16FLaxWATZYpPLEA9siZe6"
+        "name": "A lot to explain",
+        "url": "https://open.spotify.com/album/12N1jOVHxOp7dw5TnwMvbD"
       },
       "artists": [
         {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
         }
       ],
-      "duration_ms": 216650,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/3n5teaWGB99IrQwVo1oyCU"
+      "duration_ms": 133109,
+      "name": "A lot to explain",
+      "url": "https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -77,6 +141,70 @@
       "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
     },
     {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Moving Out",
+        "url": "https://open.spotify.com/album/7HDc3SiSRD6eBnRg4CyMXy"
+      },
+      "artists": [
+        {
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Moving Out",
+      "url": "https://open.spotify.com/track/6p5ra9aNCJXhuKxFRkboBn"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 145093,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Do You Feel It?",
+        "url": "https://open.spotify.com/album/4YexdPdPqNbt0wf4PJ8inn"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 126879,
+      "name": "Do You Feel It?",
+      "url": "https://open.spotify.com/track/0c54axqgjePfHBDx1rCNd0"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Dumb Like Daisies",
+        "url": "https://open.spotify.com/album/1Ira1dqfMJ0mBU31nBhMw9"
+      },
+      "artists": [
+        {
+          "name": "Nitefire",
+          "url": "https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl"
+        }
+      ],
+      "duration_ms": 166687,
+      "name": "Dumb Like Daisies",
+      "url": "https://open.spotify.com/track/1TF0Y8CmQnFZBYXcOHFHqV"
+    },
+    {
       "added_at": "2023-03-10 18:18:25",
       "album": {
         "name": "Wings Of Time (From the Motion Picture Dungeons & Dragons: Honor Among Thieves)",
@@ -91,6 +219,38 @@
       "duration_ms": 168786,
       "name": "Wings Of Time - From the Motion Picture Dungeons & Dragons: Honor Among Thieves",
       "url": "https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Days Move Slow",
+        "url": "https://open.spotify.com/album/5rC3BK6aGWCePOsQxbvGHO"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "Days Move Slow",
+      "url": "https://open.spotify.com/track/4zeGdv0J2HFfTaZIyUPwrq"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Free Woman",
+        "url": "https://open.spotify.com/album/5CtWyoH0Ln8Jol1XsjfLyX"
+      },
+      "artists": [
+        {
+          "name": "Rook Monroe",
+          "url": "https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED"
+        }
+      ],
+      "duration_ms": 172073,
+      "name": "Free Woman",
+      "url": "https://open.spotify.com/track/62ysIzrh0P90QROriGbVfK"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -109,6 +269,22 @@
       "url": "https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex"
     },
     {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "L-Trip",
+        "url": "https://open.spotify.com/album/6PPjJNSpggzj6xyB5ebU5i"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "L-Trip",
+      "url": "https://open.spotify.com/track/3wQj6B79bhlBVLzkMLN2im"
+    },
+    {
       "added_at": "2023-02-15 16:30:53",
       "album": {
         "name": "Call Me What You Like",
@@ -125,20 +301,84 @@
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
     },
     {
-      "added_at": "2023-03-03 05:01:00",
+      "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
+        "name": "Television Promises",
+        "url": "https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "BLOXX",
+          "url": "https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw"
         }
       ],
-      "duration_ms": 145093,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
+      "duration_ms": 219111,
+      "name": "Television Promises",
+      "url": "https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "TV in the Gas Pump",
+        "url": "https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 142999,
+      "name": "TV in the Gas Pump",
+      "url": "https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/16FLaxWATZYpPLEA9siZe6"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 216650,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/3n5teaWGB99IrQwVo1oyCU"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "4Runner",
+        "url": "https://open.spotify.com/album/7oJWGHkAOKDdnyvlNJj0i6"
+      },
+      "artists": [
+        {
+          "name": "Alix Page",
+          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
+        }
+      ],
+      "duration_ms": 167164,
+      "name": "4Runner",
+      "url": "https://open.spotify.com/track/4AwnxHny9z5m0ZHmYSpkGq"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4A0ZxURvsgkqHmL6CEatzi"
+      },
+      "artists": [
+        {
+          "name": "BUNGALOW",
+          "url": "https://open.spotify.com/artist/4df15LQWBysxTPYxoa9l6G"
+        }
+      ],
+      "duration_ms": 225391,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2VMhrbfj7f1lbJWOXrDaW9"
     },
     {
       "added_at": "2023-03-17 05:00:00",

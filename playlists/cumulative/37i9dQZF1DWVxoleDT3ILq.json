@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Benjamin Walker + F\u00e1rmacos",
+  "description": "Todo el sonido indie de Chile. Foto: Vicenta",
   "name": "Indie Chile",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 173026,
       "name": "Agosto",
       "url": "https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 183719,
       "name": "Camino",
       "url": "https://open.spotify.com/track/6eyZjd6qkNlxds7m6FKapL"
@@ -1055,6 +1055,28 @@
     },
     {
       "album": {
+        "name": "virgen suicida",
+        "url": "https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz"
+      },
+      "artists": [
+        {
+          "name": "Vicenta",
+          "url": "https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo"
+        },
+        {
+          "name": "Cabiria",
+          "url": "https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173689,
+      "name": "correr",
+      "url": "https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR"
+    },
+    {
+      "album": {
         "name": "Cruz Negra",
         "url": "https://open.spotify.com/album/5vsNUDgWHid7nuKQuwHdvG"
       },
@@ -1178,7 +1200,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 213859,
       "name": "DA2",
       "url": "https://open.spotify.com/track/7dRm6XxlK8c9ug3kt4AJjL"
@@ -1410,7 +1432,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 391125,
       "name": "diamantes (lorelei remix)",
       "url": "https://open.spotify.com/track/4gaFr7Df75y4fkp0lbHOCZ"
@@ -1831,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Ella Me Dijo",
+        "url": "https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187062,
+      "name": "Ella Me Dijo",
+      "url": "https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu"
+    },
+    {
+      "album": {
         "name": "Embriago",
         "url": "https://open.spotify.com/album/5WR3I7h22Dt5cYgU6VV0jX"
       },
@@ -2226,7 +2266,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 180500,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO"
@@ -2378,7 +2418,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 231403,
       "name": "Fuerzas Que Retroceden",
       "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
@@ -2570,7 +2610,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 282084,
       "name": "I Luz",
       "url": "https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX"
@@ -2650,6 +2690,24 @@
       "duration_ms": 264382,
       "name": "Interestellar",
       "url": "https://open.spotify.com/track/4oEU8liJYK8AFs3nu06A9h"
+    },
+    {
+      "album": {
+        "name": "Inventar",
+        "url": "https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Vicentes",
+          "url": "https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222544,
+      "name": "Inventar",
+      "url": "https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ"
     },
     {
       "album": {
@@ -2964,7 +3022,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 230541,
       "name": "Las Vueltas",
       "url": "https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk"
@@ -3112,7 +3170,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 184080,
       "name": "Los chicos est\u00e1n tristes",
       "url": "https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC"
@@ -3456,7 +3514,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 358792,
       "name": "Miraflor",
       "url": "https://open.spotify.com/track/3yYcOSB0WVJkpx1wgyOTVg"
@@ -4264,7 +4322,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 218997,
       "name": "pienso tanto en abrazarte",
       "url": "https://open.spotify.com/track/3xiqRbTKonu8IfhiWsjFx7"
@@ -4394,7 +4452,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 222542,
       "name": "Primera Fila",
       "url": "https://open.spotify.com/track/2L0596a5bepvjShPKuqYB0"
@@ -4864,7 +4922,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 229354,
       "name": "Se\u00f1alame la Fiesta",
       "url": "https://open.spotify.com/track/4wtgP5t1NxtekekW5XzDZ7"
@@ -4956,6 +5014,24 @@
       "duration_ms": 287019,
       "name": "Sin Ofender",
       "url": "https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik"
+    },
+    {
+      "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
+      },
+      "artists": [
+        {
+          "name": "Benji B",
+          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174654,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
     },
     {
       "album": {
@@ -5122,7 +5198,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 177405,
       "name": "sudreik",
       "url": "https://open.spotify.com/track/0H5ntnGLMwYbmhnHjicnYZ"
@@ -5198,6 +5274,28 @@
       "duration_ms": 249337,
       "name": "S\u00f3lo Vine a Bailar",
       "url": "https://open.spotify.com/track/6FA2rRogpLIOZ0ffho4uPL"
+    },
+    {
+      "album": {
+        "name": "TAMAGOTCHI",
+        "url": "https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn"
+      },
+      "artists": [
+        {
+          "name": "Heartgaze",
+          "url": "https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH"
+        },
+        {
+          "name": "Mart\u00edn Berr\u00edos",
+          "url": "https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199453,
+      "name": "TAMAGOTCHI",
+      "url": "https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p"
     },
     {
       "album": {
@@ -5310,7 +5408,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 251261,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
@@ -5534,7 +5632,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 229985,
       "name": "Tu Momento",
       "url": "https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1"
@@ -6108,7 +6206,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 202414,
       "name": "Ya Hablamos de Esto",
       "url": "https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e"

@@ -4,7 +4,7 @@
 
 > A collection of powerful voices and alluring siren songs.
 
-131 songs - 7 hr 56 min
+132 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Just for Fun](https://open.spotify.com/track/282p28Iff7PicfKaCpbl7F) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [Bon Adventure](https://open.spotify.com/album/7EGoVr8xneoTGBwPZTX1Ia) | 3:36 | 2022-12-02 |  |
 | [Keep Lying \(Demo\)](https://open.spotify.com/track/6jCuYSwolhXm9umvZvv6ko) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Keep Lying \(Demo\)](https://open.spotify.com/album/5KmFgc0v96LnHNmUdTs5WJ) | 4:14 | 2021-06-04 |  |
 | [Kill Of The Night](https://open.spotify.com/track/2m17BTWlZq0wtS9cpJsCfM) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Gravel & Wine](https://open.spotify.com/album/2HtT4gawEGgOvAPUO7tiU2) | 3:25 | 2021-06-04 |  |
+| [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-24 |  |
 | [Ladies](https://open.spotify.com/track/0jH0IsCBGackT3RmHBbSUI) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 5:25 | 2021-06-04 |  |
 | [Left With Someone Else](https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [The Sting](https://open.spotify.com/album/4BIAvFCoghxvGNnxDtBYZM) | 3:15 | 2022-07-22 | 2023-01-28 |
 | [Left With Someone Else](https://open.spotify.com/track/1IY75FIyPiGewmfc2AbPGa) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [The Sting](https://open.spotify.com/album/0x0oQar199TJE0AFSpYBbN) | 3:15 | 2021-06-04 | 2022-07-29 |
@@ -109,7 +110,7 @@
 | [Pain of Love](https://open.spotify.com/track/2QfXznx4Ex4btAsxNXYahZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Pain of Love](https://open.spotify.com/album/0sbDeWkNnMBLLNVSud5f26) | 3:31 | 2021-06-04 | 2022-07-29 |
 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 | 2022-07-22 | 2023-01-08 |
 | [Plastic](https://open.spotify.com/track/6lyjY05tO3zM1neukRGQ4K) | [Áine](https://open.spotify.com/artist/3pTb88yNTcIsydqTaUE0fE) | [Plastic](https://open.spotify.com/album/7fdqyoeiyeB8N55YVWsUBQ) | 3:35 | 2021-06-04 | 2022-07-28 |
-| [Presence](https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:51 | 2021-06-04 |  |
+| [Presence](https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:51 | 2021-06-04 | 2023-03-25 |
 | [Queen of Disaster](https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI) | 3:41 | 2022-07-22 |  |
 | [Queen of Disaster](https://open.spotify.com/track/7GF3Ma5xB7u5D3Olkspcqf) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/7bQBWT8dd1KdmyqpYkmrK5) | 3:41 | 2021-08-24 | 2022-07-29 |
 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 | 2021-06-04 |  |

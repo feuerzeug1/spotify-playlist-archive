@@ -1,13 +1,169 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!",
-  "num_followers": 8371,
+  "num_followers": 8370,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTk5Myw1Yjc5MDg0N2YyOTNmN2FmMzZiYzQyMGVmYjE4ODA1NmQxMjg3ZmIy",
+  "snapshot_id": "NjAxMCwxNjBmZGQ5Y2EwZmI4YWM5MzUxMGYxYmQ2NTNkYTQ3NDIzMmZiNDMw",
   "tracks": [
+    {
+      "added_at": "2023-03-24 13:53:05",
+      "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "added_at": "2023-03-24 13:56:14",
+      "album": {
+        "name": "Memento Mori",
+        "url": "https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 204650,
+      "name": "Wagging Tongue",
+      "url": "https://open.spotify.com/track/5g2GhW0Xdc0HHwUCaKkmRQ"
+    },
+    {
+      "added_at": "2023-03-24 13:54:53",
+      "album": {
+        "name": "Body Do",
+        "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 142809,
+      "name": "Body Do",
+      "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
+    },
+    {
+      "added_at": "2023-03-24 13:54:28",
+      "album": {
+        "name": "TWENTY SOMETHING: Messing It Up",
+        "url": "https://open.spotify.com/album/1Uyc48o6p2Dv1RfyZYztFS"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "goodbye looks good on you (feat. Mitchell Tenpenny)",
+      "url": "https://open.spotify.com/track/4K3tnAfDLPZPvc3lzsrjoq"
+    },
+    {
+      "added_at": "2023-03-24 13:56:56",
+      "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 254316,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
+    },
+    {
+      "added_at": "2023-03-24 13:57:43",
+      "album": {
+        "name": "crow's nest",
+        "url": "https://open.spotify.com/album/2hMXOaCFcRn3ZrZAIefdKE"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "crow's nest (feat. Ollie)",
+      "url": "https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko"
+    },
+    {
+      "added_at": "2023-03-24 13:53:44",
+      "album": {
+        "name": "ugly",
+        "url": "https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "ugly",
+      "url": "https://open.spotify.com/track/7b3zTnrvxQpkl0940SBF5W"
+    },
+    {
+      "added_at": "2023-03-24 13:55:39",
+      "album": {
+        "name": "I'm Certified",
+        "url": "https://open.spotify.com/album/72PnAtxV7VamcYTbkiWBsk"
+      },
+      "artists": [
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        }
+      ],
+      "duration_ms": 92016,
+      "name": "Straight Fire",
+      "url": "https://open.spotify.com/track/0I0rwQarvE2vr9JQCvW0oV"
+    },
+    {
+      "added_at": "2023-03-24 13:57:19",
+      "album": {
+        "name": "back in that mode",
+        "url": "https://open.spotify.com/album/36bUu8dlIesErfRqYHAaOo"
+      },
+      "artists": [
+        {
+          "name": "Jaybexo",
+          "url": "https://open.spotify.com/artist/2EiZrhJaUqMPjo8qlVC93L"
+        }
+      ],
+      "duration_ms": 108987,
+      "name": "back in that mode",
+      "url": "https://open.spotify.com/track/6SNQDnpACatvXLSijgYLl0"
+    },
     {
       "added_at": "2023-03-17 14:36:30",
       "album": {
@@ -23,94 +179,6 @@
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
-    },
-    {
-      "added_at": "2023-03-17 14:39:22",
-      "album": {
-        "name": "Help Is On The Way (Deluxe)",
-        "url": "https://open.spotify.com/album/6AB9OOUQJaPhZWADvpu5ab"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 214431,
-      "name": "Love Died",
-      "url": "https://open.spotify.com/track/4ZcOJracZ42iM1lbffdtUI"
-    },
-    {
-      "added_at": "2023-03-17 14:38:33",
-      "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 165161,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ"
-    },
-    {
-      "added_at": "2023-03-17 14:38:16",
-      "album": {
-        "name": "Always Never",
-        "url": "https://open.spotify.com/album/73jpbxXtDJj35UcwjctBdM"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 202608,
-      "name": "Always Never",
-      "url": "https://open.spotify.com/track/5wEh5jpOSZCZ8QpjKVrjRn"
-    },
-    {
-      "added_at": "2023-03-17 14:38:02",
-      "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 258113,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x"
-    },
-    {
-      "added_at": "2023-03-17 14:39:38",
-      "album": {
-        "name": "New Opp (DJ Smallz 732 - Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/2yJhtNahso0s6J4TQuV9Um"
-      },
-      "artists": [
-        {
-          "name": "Sha Gz",
-          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 83775,
-      "name": "New Opp (DJ Smallz 732 - Jersey Club Remix)",
-      "url": "https://open.spotify.com/track/4i1aHJLzTlqZJHpRofEnsB"
     },
     {
       "added_at": "2023-03-10 05:07:15",

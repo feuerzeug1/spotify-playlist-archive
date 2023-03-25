@@ -1,12 +1,12 @@
 {
   "description": "Quiet spring mornings, wake up early with the birds. \nTake a moment with nature for a positive start of your day.",
-  "num_followers": 2059,
+  "num_followers": 2114,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0Nzc0MCwwMDAwMDAwMGRmYWU0ZTY2NmRlMTEzNWE1MzNlNzRiNWVkY2MyODM2",
+  "snapshot_id": "MTY3Nzg0Nzc0MCwwMDAwMDAwMDRjMjI1N2U3YzFjYjcyZjI0MzQ2ZTRiOThlMzg1ZDg3",
   "tracks": [
     {
       "added_at": "2023-03-01 15:55:04",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/56IQIsik0oPXERemlFafdu"
     },
     {
+      "added_at": "2023-03-25 00:59:49",
+      "album": {
+        "name": "Highway Birds",
+        "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
+      },
+      "artists": [
+        {
+          "name": "Betweetle",
+          "url": "https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl"
+        }
+      ],
+      "duration_ms": 107839,
+      "name": "Highway Birds",
+      "url": "https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk"
+    },
+    {
       "added_at": "2023-03-01 15:55:04",
       "album": {
         "name": "Soothing Birds",
@@ -311,22 +327,6 @@
       "duration_ms": 158267,
       "name": "Kaupe Spring Birds",
       "url": "https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK"
-    },
-    {
-      "added_at": "2023-03-23 00:54:47",
-      "album": {
-        "name": "Highway Birds",
-        "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
-      },
-      "artists": [
-        {
-          "name": "Betweetle",
-          "url": "https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl"
-        }
-      ],
-      "duration_ms": 107839,
-      "name": "Highway Birds",
-      "url": "https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt"
     },
     {
-      "added_at": "2023-03-23 00:54:47",
+      "added_at": "2023-03-25 00:59:49",
       "album": {
         "name": "Warmer Seasons",
         "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY"
     },
     {
-      "added_at": "2023-03-23 00:54:47",
+      "added_at": "2023-03-25 00:59:49",
       "album": {
         "name": "In the Midst of Nature",
         "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ"
         }
       ],
-      "duration_ms": 123594,
-      "name": "Bird Sounds HD",
-      "url": "https://open.spotify.com/track/4CfWxs2ZmO9H34idCvfnvp"
+      "duration_ms": 140610,
+      "name": "Summer Breeze Bird",
+      "url": "https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y"
     },
     {
       "added_at": "2023-03-01 15:55:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,807 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,838 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 7 | [Filhas do Improvável](https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Filhas do Improvável](https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1) | 3:37 |
 | 8 | [Essencia de Cria](https://open.spotify.com/track/7avCMEM4HFM5XRP1Fw0Nkk) | [Mc Carol Zn](https://open.spotify.com/artist/4nJfaSO2g2sQRJzzP2Oo3S), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Essencia de Cria](https://open.spotify.com/album/79Ws9dyTig8iL6Naxgdlgd) | 2:11 |
 | 9 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
-| 10 | [Meia Nove](https://open.spotify.com/track/2Acp2ceOl3UEtdOqbZhR4M) | [Karla Eduarda](https://open.spotify.com/artist/3aOHEK1FMbgwRTTab4ZvNu), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Meia Nove](https://open.spotify.com/album/052UliwFtnf0RkIqDBDNGp) | 3:32 |
-| 11 | [O Corre](https://open.spotify.com/track/7z0eBvO3NlS8u1zPraGWrI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [O Corre](https://open.spotify.com/album/0VH0MFtMzmo4VtlhgOWl58) | 2:09 |
-| 12 | [Sonho da Braba](https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:04 |
-| 13 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 |
-| 14 | [quero ver tu me parar](https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [quero ver tu me parar](https://open.spotify.com/album/5itZBBrRvXtgX0IrRBcLS3) | 2:05 |
+| 10 | [Pode Deixar](https://open.spotify.com/track/2qpbgLG29GE0txiUItLV30) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Brunito Beats](https://open.spotify.com/artist/1VFaGpMOpsvoS7Y8thQsnO) | [Pode Deixar](https://open.spotify.com/album/4NGwIUW0uhniJIHSLcjLW9) | 2:06 |
+| 11 | [Meia Nove](https://open.spotify.com/track/2Acp2ceOl3UEtdOqbZhR4M) | [Karla Eduarda](https://open.spotify.com/artist/3aOHEK1FMbgwRTTab4ZvNu), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Meia Nove](https://open.spotify.com/album/052UliwFtnf0RkIqDBDNGp) | 3:32 |
+| 12 | [O Corre](https://open.spotify.com/track/7z0eBvO3NlS8u1zPraGWrI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [O Corre](https://open.spotify.com/album/0VH0MFtMzmo4VtlhgOWl58) | 2:09 |
+| 13 | [Sonho da Braba](https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:04 |
+| 14 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 |
 | 15 | [Era Final](https://open.spotify.com/track/74i1NNwzsVYNwqXraf5s1N) | [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Era Final](https://open.spotify.com/album/5CSLeYNdPXUCBBBUzRoDpy) | 3:02 |
 | 16 | [Sexy Gangsta](https://open.spotify.com/track/21yVqxCsflyyryXIP28l1t) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK) | [Sexy Gangsta](https://open.spotify.com/album/7gnMA5vsNq0uiIR63BU0AI) | 2:01 |
 | 17 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 |
 | 75 | [Autentik](https://open.spotify.com/track/0iakCJvnYl4a4O8OlZmIzH) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Autentik](https://open.spotify.com/album/6u3TylmFcGwrf1Hh67X1e8) | 2:51 |
 
-Snapshot ID: `MTY3OTAyMjA2MCwwMDAwMDAwMDM1YmY2ZTAxYmYzNWM0ZDUyMDJlN2QzYzY4ODZkMDcy`
+Snapshot ID: `MTY3OTYyNjg2MCwwMDAwMDAwMDE2YmE0OWQwYmZkNTE3NzFhYTE4NTZkZTY4ZjdlNTgz`

@@ -4,7 +4,7 @@
 
 > Relax and unwind to the soothing hum of the electric fan.
 
-151 songs - 7 hr 15 min
+157 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Baby Sleep: Ventilation & Fan Sound](https://open.spotify.com/track/3qjGV6pa9SaMrMFUDSa3fH) | [Fan Noise for Sleep](https://open.spotify.com/artist/2WP9EbBw6YPsZgaDewdgE3), [White Noise, Pink Noise, Brown Noise](https://open.spotify.com/artist/5REqVwrgxaSn4nhfisfnA0) | [Celestial Cosmic White Noise for Baby Sleep](https://open.spotify.com/album/0uG6NGUNsecKRdS7Z4tIkn) | 1:01 | 2022-07-29 | 2022-12-08 |
 | [Basement Fan Room](https://open.spotify.com/track/4lzKWF2qFvk6yUgpqPDchC) | [brozains](https://open.spotify.com/artist/7gUQb4sAvvLplz558JypaA) | [Basement Fan Room](https://open.spotify.com/album/0aUt1rguFr8zIQWrZebqh6) | 2:30 | 2022-11-14 |  |
 | [Bathroom Fan](https://open.spotify.com/track/19oXvWzjYzWEvoJlLScQA0) | [ASMR House](https://open.spotify.com/artist/0eyKdB5nGKUPj5AEzdvlWk) | [Relaxing Home](https://open.spotify.com/album/6yS7nwiBJzHzO7RgHsZXaB) | 4:00 | 2022-07-29 |  |
+| [Bedroom Sleep Sounds](https://open.spotify.com/track/6MFajIc3H8o6frZonyjd9K) | [ASMR HOME](https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM) | [Bedroom Sleep Sounds](https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd) | 2:44 | 2023-03-23 |  |
 | [Best Box Fan Sound \- Loopable with no fade](https://open.spotify.com/track/3gYjtASDIOrBZb4izoI8ts) | [Erik Eriksson](https://open.spotify.com/artist/2c5WYCqQGs0UttiLCzVfOe), [White Noise Sleep Sounds](https://open.spotify.com/artist/3q3dE3qsl5FYAZzzxBIVLI) | [Best White Noise \- Loopable](https://open.spotify.com/album/2JOO0Ta5UPolcWfxVkN4np) | 1:12 | 2022-07-29 | 2022-12-08 |
 | [Big Blow Fan](https://open.spotify.com/track/1qYyztFqHYgxJKNa8nMiAM) | [Silent Knights](https://open.spotify.com/artist/6XXL4cZkUvRIW1lD11xNt1) | [White Noise Fan Heaters](https://open.spotify.com/album/4CX2as3vojsBFgHbFmmhOT) | 3:32 | 2022-07-29 | 2022-12-08 |
 | [Big Fan Of Sleeping](https://open.spotify.com/track/3PzPW3QOvNs80KUmADFQ5j) | [Lucid](https://open.spotify.com/artist/4PDgHpILxXUfE71E7bIU2j) | [Dream Breeze](https://open.spotify.com/album/5lw1wXg6rtUvi76mk154Yx) | 1:52 | 2022-08-26 |  |
@@ -40,6 +41,7 @@
 | [Brown Noise Fan](https://open.spotify.com/track/3OxY25mxIc83yJnMUUnQWn) | [ASMR Deluxe](https://open.spotify.com/artist/6ymmMXSFB9EVMsSZykjkmm) | [Sleepy Fan Noise](https://open.spotify.com/album/3PoRDhSdc7td4ALL2xFlxV) | 2:36 | 2022-11-14 |  |
 | [Calm Fan](https://open.spotify.com/track/48FISy9hmvqREbJh6sdpSI) | [Home Sounds](https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI) | [Calming Fan Sounds](https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL) | 2:48 | 2023-02-23 |  |
 | [Calming Air Conditioner](https://open.spotify.com/track/04DX8cKaQFZkiy98uk4t5w) | [ASMR Mateo](https://open.spotify.com/artist/7uEuyUsDa6GZxIRiQOzfsX) | [Relaxing ASMR Sounds](https://open.spotify.com/album/6KRW1mWIkYjgUI9dnyfobT) | 5:07 | 2022-07-29 |  |
+| [Calming Bedroom Breeze Sounds](https://open.spotify.com/track/1noQJ6XAOz1iDJFkJnkTzN) | [ASMR HOME](https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM) | [Bedroom Sleep Sounds](https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd) | 2:56 | 2023-03-23 |  |
 | [Calming Rotating Fan](https://open.spotify.com/track/5msNX0K6XQ2p8VoMLmITa3) | [ASMR Deluxe](https://open.spotify.com/artist/6ymmMXSFB9EVMsSZykjkmm) | [Sleepy Fan Noise](https://open.spotify.com/album/3PoRDhSdc7td4ALL2xFlxV) | 2:37 | 2022-11-14 |  |
 | [Car Fan Lower Speed](https://open.spotify.com/track/4UKNWEU98EIZ820fficvUF) | [White Noise Doctor](https://open.spotify.com/artist/0Fk48JURmZQal1PvjuG4Ag) | [Car Fans For Deep Sleep](https://open.spotify.com/album/2Jvoiadtrr9KkLP1G1kIQG) | 1:18 | 2022-07-29 |  |
 | [Computer Room Sleep Therapy](https://open.spotify.com/track/1kG43SYO2QfcMXZyJGdLtB) | [Ventilate](https://open.spotify.com/artist/7vcZrTl9VTexsr8GcJF3wA) | [Computer Room Sleep Therapy](https://open.spotify.com/album/19BRrqPaBw8D41levHERoY) | 2:24 | 2022-11-14 |  |
@@ -52,6 +54,7 @@
 | [Desk Fan \- Loopable With No Fade](https://open.spotify.com/track/6TCuOBuCpf2eolEjf4qUVv) | [123 Sleep](https://open.spotify.com/artist/5p2DzA0n3Ewwr3iDTVKtx5) | [Noise for Sleep \(Loopable With No Fade\)](https://open.spotify.com/album/0GfZxXKuZBiBcdmZ0hDbHx) | 0:59 | 2022-07-29 | 2022-12-08 |
 | [Din of Desktop Computer](https://open.spotify.com/track/5R9nmLtAi5ZVRigA3739zH) | [Mind Tickle](https://open.spotify.com/artist/3G4BQXIQ09Rb0JWFtjoDzk) | [ASMR House](https://open.spotify.com/album/7mVRi3wpR3vNesav7ziSzi) | 4:23 | 2022-07-29 |  |
 | [Dream Breeze](https://open.spotify.com/track/48A4NSgozuyAKwfzGbsj8a) | [Lucid](https://open.spotify.com/artist/4PDgHpILxXUfE71E7bIU2j) | [Dream Breeze](https://open.spotify.com/album/5lw1wXg6rtUvi76mk154Yx) | 1:45 | 2022-08-26 |  |
+| [Dreamy AC Fan Sounds](https://open.spotify.com/track/3KENWEphynpCgEnX3kXk6h) | [ASMR HOME](https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM) | [Bedroom Sleep Sounds](https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd) | 3:16 | 2023-03-23 |  |
 | [Drowsing Fan](https://open.spotify.com/track/4rorNMIh6PEqMSTZLrKxbj) | [Erity](https://open.spotify.com/artist/252S10kCSN54mC9V1Q5xV6) | [Sleepy Winds](https://open.spotify.com/album/5ijg5JySc4tAxjJQtFdBv8) | 1:45 | 2022-11-14 |  |
 | [Easy Breezy](https://open.spotify.com/track/10vi5YmgjUpekWtufXWWsW) | [Sam Nova](https://open.spotify.com/artist/71zAAoSy2UVnKgnxP4s63g) | [Easy Breezy](https://open.spotify.com/album/1e872NLaoZQRMUEchyHsGl) | 2:00 | 2023-02-23 |  |
 | [Easy sleep fan noises](https://open.spotify.com/track/4mNac1V3y5RPFksZHPbGZI) | [All Night Fan Noises for Baby Easy Sleep](https://open.spotify.com/artist/4qrG02e1xRd57Z9MEs2Gpl) | [Healing Womb Sounds for Baby Falling Asleep](https://open.spotify.com/album/68sYLbAHiz1FydobQOMap1) | 1:01 | 2022-07-29 | 2022-12-08 |
@@ -102,6 +105,7 @@
 | [Mainframe Room](https://open.spotify.com/track/586PEGpYDmt1hotOlipJGH) | [Audio Hall](https://open.spotify.com/artist/2oE6i58qqic0JnyKf7rqtI) | [Server Room Sleep](https://open.spotify.com/album/0qgd74EN3Yz5wVl5gClMkS) | 2:55 | 2022-11-14 |  |
 | [Moviing Big Fan](https://open.spotify.com/track/1QQzN5ktJlUnnRmqrJQJ3p) | [XLD Library](https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q) | [Moviing Big Fan](https://open.spotify.com/album/3Yc0zeeWxAFXVNxK5mPaao) | 2:22 | 2022-11-14 |  |
 | [My Fantastic Fan](https://open.spotify.com/track/1CnECvwZu3t8BpTWSZwJLq) | [Doze Off](https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E) | [My Fantastic Fan](https://open.spotify.com/album/2RkgmYjVUP7PS9JjziLj8U) | 3:05 | 2022-11-14 |  |
+| [Next To The Fan](https://open.spotify.com/track/4YYTCd3XD5P4U7o3HNX7Tr) | [Soundiescape](https://open.spotify.com/artist/5DaXk2jDrc8Ohsj4oVXR4B) | [Your Biggest Fan](https://open.spotify.com/album/3Z03gGuuXpiML1L3UZb17M) | 2:38 | 2023-03-23 |  |
 | [Noises of Fan](https://open.spotify.com/track/3c2P05qBjXQrwRt2yT0gkh) | [Hair Dryer Sounds Collection](https://open.spotify.com/artist/4vKU8aFv9gOtjNnQ78SmZE) | [Hair Dryer Sound Noises](https://open.spotify.com/album/5GMXsaxBa6sp74OU8ggxuR) | 1:03 | 2022-07-29 | 2022-12-08 |
 | [Noisy Fan](https://open.spotify.com/track/7DHu5FqINNn4sUCpK00XuC) | [Noises Of Life](https://open.spotify.com/artist/3Z3rY8ZEQwe3mgMoDzqTWi) | [Oven Fans](https://open.spotify.com/album/7BR8pciWteOsfiYwES6N78) | 1:46 | 2022-07-29 | 2022-12-08 |
 | [Noisy Fan](https://open.spotify.com/track/6v26gYLZ1ItllcbSdP5jxF) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Light Winds](https://open.spotify.com/album/7JqK532hRp6n0n7nnOa38c) | 1:50 | 2022-09-23 |  |
@@ -136,6 +140,7 @@
 | [Soft Underground Furnace Fan](https://open.spotify.com/track/1A5HcJ0onbNnVDKcfVn29I) | [Inflament](https://open.spotify.com/artist/4LbVCzMpbfkyz5EsNBjQSv) | [Soft Underground Furnace Fan](https://open.spotify.com/album/0W48vGq4MYm1WS2UAwW0KA) | 2:38 | 2022-11-14 |  |
 | [Soothing Breeze](https://open.spotify.com/track/6jqdXdM6N8c2lbZ0B5kJ4C) | [Kali Sounds](https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c) | [Winds Of Sleep](https://open.spotify.com/album/20XsGyU1IpxYxCrdpycVq6) | 1:45 | 2022-08-26 |  |
 | [Soothing Fan](https://open.spotify.com/track/5HQ4kVXRn4UyPwc3NxgwDj) | [Home Sounds](https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI) | [Calming Fan Sounds](https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL) | 2:48 | 2023-02-23 |  |
+| [Soothing Flowing Air Sounds](https://open.spotify.com/track/60isuZHIb24zg1QKPg2NNw) | [ASMR HOME](https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM) | [Bedroom Sleep Sounds](https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd) | 2:20 | 2023-03-23 |  |
 | [Soothing Panning Box Fan \- Seamless](https://open.spotify.com/track/2Jef9t38xnPQ2sH8AGM0HY) | [ASMR Doze](https://open.spotify.com/artist/2LQxmUm6LgVqKlTWuiFp2D) | [Fan Hypnosis](https://open.spotify.com/album/4O3JywlUAKSETN8w8CrcJf) | 1:42 | 2022-07-29 |  |
 | [Soothing Wind](https://open.spotify.com/track/3b4P1sNNeBdPnt6FPBpZqb) | [Watts Recordings](https://open.spotify.com/artist/0Aamp8tFQ9spSUC6uUbA7L) | [Good Night Breeze](https://open.spotify.com/album/4So35rnEDebqG9JNEBDVmu) | 1:37 | 2022-11-14 |  |
 | [Sudden Winds Of Sleep](https://open.spotify.com/track/4A7py1e73Egn3G4JLnNHmw) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Light Winds](https://open.spotify.com/album/7JqK532hRp6n0n7nnOa38c) | 1:45 | 2022-09-23 |  |
@@ -157,6 +162,7 @@
 | [Window Fan on Low](https://open.spotify.com/track/4Wg5aVNXw4y0ajflDp7CIK) | [Fade Away Sleep Sounds](https://open.spotify.com/artist/5c7VpP33FVLibHz6LKoUgZ) | [The Fan Collection](https://open.spotify.com/album/1EfUnnXEA3h6DrQNd7HRdG) | 2:08 | 2022-07-29 | 2022-12-08 |
 | [Winds Of Sleep](https://open.spotify.com/track/6rT5Qb9ISDVPq7eQgJ1jRR) | [Kali Sounds](https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c) | [Winds Of Sleep](https://open.spotify.com/album/20XsGyU1IpxYxCrdpycVq6) | 1:58 | 2022-08-26 |  |
 | [Workspace Amp Fan](https://open.spotify.com/track/2Bn7Bju9DwkC9UIA6rPyWf) | [Noise Recorder](https://open.spotify.com/artist/4dP7FaHEym6UneIfaZhlSf) | [Workplace Fans](https://open.spotify.com/album/4DHcdRMpDZvWhHWE03Iicq) | 2:36 | 2022-11-14 |  |
+| [Your Biggest Fan](https://open.spotify.com/track/6um3MKS4JKEzrokNtJ7KOu) | [Soundiescape](https://open.spotify.com/artist/5DaXk2jDrc8Ohsj4oVXR4B) | [Your Biggest Fan](https://open.spotify.com/album/3Z03gGuuXpiML1L3UZb17M) | 2:49 | 2023-03-23 |  |
 | [Your Favourite Table Fan](https://open.spotify.com/track/6bVLQ2UHiManiwZdVhCL1D) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Fan Sounds Vol\. 1](https://open.spotify.com/album/0YEkPZ64ji8bJpu2ceIQce) | 2:37 | 2023-02-23 |  |
 | [Étude for Fan](https://open.spotify.com/track/6kGR1hnTx0pe9DeHVzEF26) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Everyday Tingles](https://open.spotify.com/album/0MOtTcCkbXp8gmaX8gQ7el) | 3:07 | 2022-07-29 |  |
 

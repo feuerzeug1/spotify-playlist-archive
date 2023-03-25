@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Zylva, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,439 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,464 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Deine Großmutter](https://open.spotify.com/track/30hYXOMkOuMXH1SnQh9Ms6) | [Jessovski](https://open.spotify.com/artist/2XoogShjNMoUmUtzTQ406F) | [Nie Wieder Drama](https://open.spotify.com/album/4egs9wn5oB1RzBzQ1M3jpN) | 3:39 |
 | 80 | [I Had It All](https://open.spotify.com/track/0zQIx6PWtZ7PtAFFkNR9LP) | [Sophie Hallberg](https://open.spotify.com/artist/5yXGV9tUS2AkJ8E464zwfF) | [I Had It All](https://open.spotify.com/album/0iDh4uktO7sKTrimguKfRU) | 3:01 |
 
-Snapshot ID: `MTY3OTQ4MjgwMCwwMDAwMDAwMDQ4ZjgyN2ZlMTNiMzk2MGM4MzYyZjgxOTZmZDUzZmFi`
+Snapshot ID: `MTY3OTQ4MjgwMCwwMDAwMDAwMGI1OGFmYjIzZmYwMDIwYWQzYmVjZmRjODI4NGI5Njc5`

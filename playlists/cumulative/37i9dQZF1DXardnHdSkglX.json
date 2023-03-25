@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Always on My Mind",
+        "url": "https://open.spotify.com/album/6rE8fgd7vzwTyAKbHLHyjF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Menescal",
+          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195759,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/3rzMh3yRuC9OuAU3IepUkQ"
+    },
+    {
+      "album": {
         "name": "Angel, Won't You Call Me",
         "url": "https://open.spotify.com/album/2JIG5AP8msXqmGskJ6qHQD"
       },
@@ -140,6 +158,24 @@
       "duration_ms": 170806,
       "name": "Angel, Won't You Call Me",
       "url": "https://open.spotify.com/track/1j8J1KmPM6qsFnyOBNomZw"
+    },
+    {
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/4s3v5S7Oy3CWdEBUWMStuy"
+      },
+      "artists": [
+        {
+          "name": "Pablo Cepeda",
+          "url": "https://open.spotify.com/artist/1uj8EOCKAXn4w2TR7CVnQb"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220750,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6IZnzJPUfIUaOiNx8sVgRg"
     },
     {
       "album": {
@@ -1052,6 +1088,28 @@
       "duration_ms": 264092,
       "name": "Green Light (Bossa Version)",
       "url": "https://open.spotify.com/track/22YXs3a3c8c6mOqUvi4Z98"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/35dGQlbOW6Z1jOBn9zAO6Z"
+      },
+      "artists": [
+        {
+          "name": "Style Project",
+          "url": "https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh"
+        },
+        {
+          "name": "Marianne Pretty",
+          "url": "https://open.spotify.com/artist/7itt3TRxFKHi5HXO9nqZKZ"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/31aRV5rb10gk4bw02WEV3s"
     },
     {
       "album": {
@@ -2541,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "Shake it off",
+        "url": "https://open.spotify.com/album/0gQgcdKcuTYWiQZWButlL0"
+      },
+      "artists": [
+        {
+          "name": "Bossa Players",
+          "url": "https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Shake it off",
+      "url": "https://open.spotify.com/track/5nNwRwb4ojpDMPmvdGa04f"
+    },
+    {
+      "album": {
         "name": "Bossa Covers",
         "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
       },
@@ -2560,6 +2636,28 @@
       "duration_ms": 214403,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/3FGjZhoaqR83UViLXk4boR"
+    },
+    {
+      "album": {
+        "name": "Sign Your Name Across My Heart",
+        "url": "https://open.spotify.com/album/1PXUyxo34edj0nByI1vzuD"
+      },
+      "artists": [
+        {
+          "name": "Lydia Gray",
+          "url": "https://open.spotify.com/artist/0VMYRZ6lRJtkOpIvFLomZ0"
+        },
+        {
+          "name": "Ed Eastridge",
+          "url": "https://open.spotify.com/artist/02VVc5i9QRuXc4qt0ajyVo"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290634,
+      "name": "Sign Your Name Across My Heart",
+      "url": "https://open.spotify.com/track/3ZnwYceO2sv5z0UcpaLicf"
     },
     {
       "album": {

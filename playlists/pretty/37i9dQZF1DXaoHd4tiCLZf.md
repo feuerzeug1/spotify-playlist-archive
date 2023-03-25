@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,593 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,170 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 85 | [Sexy](https://open.spotify.com/track/7H6prnTv8tLlZQSW3c50Q4) | [Blanche](https://open.spotify.com/artist/7r9SvYfMdBZECjHhwS9AmQ) | [Sexy](https://open.spotify.com/album/2CQFr1P0ullkVZiK3rUei3) | 2:33 |
 | 86 | [Dépêche\-toi](https://open.spotify.com/track/6tJz8gWCfs5amDvH7JTFyd) | [Weekend Affair](https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7) | [Quand vient la nuit](https://open.spotify.com/album/033hyagZK3RzlViVRIaW0f) | 3:16 |
 | 87 | [Dis\-moi où on va](https://open.spotify.com/track/0xpHgDh6JZbnjOKitcIz7h) | [Ferielle](https://open.spotify.com/artist/5mec3516HpwhOAlfoEmjKN) | [Dis\-moi où on va](https://open.spotify.com/album/4r5iY4vz9XaLuvYe1bmbMC) | 3:47 |
-| 88 | [Back to Heaven](https://open.spotify.com/track/42n3sy0BZsVqlV7ZPFw7ma) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Back to Heaven](https://open.spotify.com/album/75A1ncCyzKwnIb3CtKJZuC) | 3:39 |
+| 88 | [Back to Heaven](https://open.spotify.com/track/3tJ8ICMDwtw0oisXLiGhA7) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line](https://open.spotify.com/album/0IzRb9JqkitCfJaayIBkf4) | 3:39 |
 | 89 | [Dans les strass](https://open.spotify.com/track/3R4bENsQh9W0exzSiwobQ9) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Nuits sans sommeil](https://open.spotify.com/album/4C9Kpy7l6PPlPljLlwbKO2) | 3:24 |
 | 90 | [Burning Hour](https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Hyper Romance](https://open.spotify.com/album/08oR5PmpCJQ9FfWjsQtpXc) | 4:38 |
 | 91 | [Ma mère](https://open.spotify.com/track/4ecERcwxpyPezjg2vWbqRf) | [Bandit Voyage](https://open.spotify.com/artist/5U7JwReTzAJ9gVXkhlNBsW) | [Amour sur le disque \(Partie 1\)](https://open.spotify.com/album/3PoCaJ97vRDaCm9wZCZwRL) | 3:06 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMDA5MGNjNDEyYTg0NTFjMWNjN2NkY2RmMWY5NDYwODRl`
+Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMGZlZDQxMGE1NjE0MGY5YjY4ZmIxNDgyMjNkYzE3NTU3`

@@ -2,9 +2,9 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. Nsqk en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. Polimá Westcoast en portada.
 
-90 songs - 4 hr 53 min
+91 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [EL LOBBY](https://open.spotify.com/track/14gKV9ddDCAhm21tUngnY0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [EL LOBBY](https://open.spotify.com/album/0ihbQj0DqoCTxtuAc4ggJS) | 3:28 | 2022-04-25 |  |
 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 | 2022-04-25 |  |
 | [Eres un Arte](https://open.spotify.com/track/37i9NWAGKTyazstAz6nfos) | [Derian](https://open.spotify.com/artist/220SaLUhEtl59oRglesxcL), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Alexis Chaires](https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr), [Deack Lopez](https://open.spotify.com/artist/191vrwSKDKBZRG1u7NcMpo) | [Eres un Arte](https://open.spotify.com/album/2YlGzp6EFvKukhDHbKJhRR) | 3:53 | 2023-01-27 |  |
+| [ESQUE TÚ](https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X) | [ESQUE TÚ](https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8) | 3:05 | 2023-03-24 |  |
 | [Fango](https://open.spotify.com/track/4cIRzRikDWfeFskgAbC13R) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Fango](https://open.spotify.com/album/31vollZPe01eJhqLhugezp) | 3:03 | 2022-04-25 |  |
 | [Febrero Azul](https://open.spotify.com/track/11VHpYlyZsLhYfr66QUzPJ) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Febrero Azul](https://open.spotify.com/album/1VrhwgwkE6jjjJcweMdSoY) | 3:34 | 2022-04-25 |  |
 | [flores](https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [juan punto](https://open.spotify.com/artist/3JwWTwioPLjSKlnzv2vZzW) | [flores](https://open.spotify.com/album/3oBilaX7gnZ5RJreXT7DNj) | 2:27 | 2023-03-10 |  |

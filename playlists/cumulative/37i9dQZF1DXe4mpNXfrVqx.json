@@ -1953,6 +1953,28 @@
     },
     {
       "album": {
+        "name": "Pode Deixar",
+        "url": "https://open.spotify.com/album/4NGwIUW0uhniJIHSLcjLW9"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Brunito Beats",
+          "url": "https://open.spotify.com/artist/1VFaGpMOpsvoS7Y8thQsnO"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Pode Deixar",
+      "url": "https://open.spotify.com/track/2qpbgLG29GE0txiUItLV30"
+    },
+    {
+      "album": {
         "name": "Pra Te Envolver",
         "url": "https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1"
       },
@@ -2118,7 +2140,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 125977,
       "name": "quero ver tu me parar",
       "url": "https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO"

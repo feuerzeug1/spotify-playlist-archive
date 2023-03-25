@@ -2273,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Kinda Bar",
+        "url": "https://open.spotify.com/album/6M3sZd68dyKV2Q9gvWpSYj"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Kinda Bar",
+      "url": "https://open.spotify.com/track/3nQMjaLYxQHD1qEYkovZyo"
+    },
+    {
+      "album": {
         "name": "COUNTRY FUZZ",
         "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
       },
@@ -3790,7 +3808,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 177320,
       "name": "Train",
       "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"

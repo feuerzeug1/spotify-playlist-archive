@@ -4,7 +4,7 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-133 songs - 10 hr 31 min
+134 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Fiebre](https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Fiebre](https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj) | 4:27 | 2022-05-06 |  |
 | [Forerunner](https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde) | [Bertoldi](https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE) | [Ancient Astronauts](https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq) | 6:55 | 2022-05-06 |  |
 | [Free](https://open.spotify.com/track/45gL725w0jjpRv2L6QbR84) | [Turning Torso](https://open.spotify.com/artist/6j5BxXSPPlGZIMeWjMoIPQ) | [Apex](https://open.spotify.com/album/4xCHCE076GPoH7pW287i9Q) | 4:37 | 2022-05-06 | 2022-07-26 |
+| [Gato Negro \- Daniel Hokum & okuma Remix](https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Gato Negro \(Daniel Hokum & Okuma Remix\)](https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg) | 6:35 | 2023-03-25 |  |
 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 | 2022-05-06 |  |
 | [Gut Ritual](https://open.spotify.com/track/2N5ioUhGReJBPPwBvd55nR) | [AMAZONDOTCOM](https://open.spotify.com/artist/2wSYqnT1Cu1oQcFFspe0Ie) | [War Bride](https://open.spotify.com/album/4KudgFUONq9jrTsaClDhcW) | 4:59 | 2022-05-06 | 2022-07-25 |
 | [Hendidura](https://open.spotify.com/track/3ZUUCeA2W2CN17DZIbM7ef) | [Rodo](https://open.spotify.com/artist/53OJAFCNGs4t1FpphUxjPt), [Kathia Rudametkin](https://open.spotify.com/artist/4Jfq4lRAxklhQdmQNIboBp), [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Invisible Desert](https://open.spotify.com/album/6dU6llQx3HIc2MEMRXzKes) | 4:51 | 2022-12-21 | 2023-02-14 |
@@ -129,7 +130,7 @@
 | [The Most Foreign Country](https://open.spotify.com/track/6X5nXXndEwb7sjT6wacM5x) | [AMAZONDOTCOM](https://open.spotify.com/artist/2wSYqnT1Cu1oQcFFspe0Ie) | [War Bride](https://open.spotify.com/album/4KudgFUONq9jrTsaClDhcW) | 4:44 | 2022-05-06 | 2022-07-28 |
 | [The Walker](https://open.spotify.com/track/6SfmXA5DzFr9oLSNHE6aGE) | [German Moss](https://open.spotify.com/artist/1Eofl8Lu4zc0NCkkSJzguS) | [The Walker](https://open.spotify.com/album/22OzYAVfp7qVHRCxRz3MHK) | 5:43 | 2022-05-06 | 2022-07-19 |
 | [they told us it was hard, but they were wrong\. \- Edit](https://open.spotify.com/track/4eChGxuP1HLtOPpQFFXRbP) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [they told us it was hard, but they were wrong.](https://open.spotify.com/album/6PbCwsrFphZdHvDhDneO4v) | 3:45 | 2022-05-06 | 2023-03-23 |
-| [Tiburon](https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg) | [Dany F](https://open.spotify.com/artist/4E0D8VmVgWeyOtSZozgEYV) | [Tiburon](https://open.spotify.com/album/25kGnhGZgaWHsvlrcOaYL4) | 4:54 | 2022-05-06 |  |
+| [Tiburon](https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg) | [Dany F](https://open.spotify.com/artist/4E0D8VmVgWeyOtSZozgEYV) | [Tiburon](https://open.spotify.com/album/25kGnhGZgaWHsvlrcOaYL4) | 4:54 | 2022-05-06 | 2023-03-25 |
 | [Tiburon](https://open.spotify.com/track/6oQm36qxN24jwLijNMEmQA) | [Dany F](https://open.spotify.com/artist/4E0D8VmVgWeyOtSZozgEYV) | [Tiburon](https://open.spotify.com/album/5Y5FwP0BRXfnqd5unC80pK) | 4:54 | 2022-05-06 | 2022-07-29 |
 | [Todo](https://open.spotify.com/track/5uJX8Dn9dl7OWJvkQS5Q8s) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Temperatura](https://open.spotify.com/album/5oHvCZtymnTAZyO87Ek0CC) | 4:22 | 2022-05-06 | 2022-07-26 |
 | [Tonight](https://open.spotify.com/track/2sNjLLWPrN9mMgHEmU8m1p) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D), [Forecast in Rome](https://open.spotify.com/artist/59ifGC6bbnljNeGlYBdBLz) | [Tonight](https://open.spotify.com/album/1fXVpEP3lnHD7P1IOwzwcJ) | 4:22 | 2022-05-06 | 2022-07-29 |

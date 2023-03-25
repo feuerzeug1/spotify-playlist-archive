@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,030 songs - 2 day 5 hr 51 min
+1,031 songs - 2 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 | 2021-09-19 | 2021-09-26 |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2021-04-04 | 2021-04-30 |
 | [Calling My Phone](https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Calling My Phone](https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp) | 3:25 | 2021-03-27\* | 2021-04-04 |
+| [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-03-24 |  |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-11-28 |
 | [Casa](https://open.spotify.com/track/16UD1UGi9KD23Cvq8EVBMQ) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:47 | 2022-10-15 | 2022-10-19 |
 | [Casa](https://open.spotify.com/track/1xrrrpUGMhRNtnikmN7ygA) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 2:47 | 2022-10-18 | 2022-10-22 |
@@ -397,7 +398,7 @@
 | [HERE \(For Christmas\)](https://open.spotify.com/track/13S94fbOuw2M66UchaCz2k) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [HERE \(For Christmas\)](https://open.spotify.com/album/0i2Nwoa1gnjMmD6s6TLPiT) | 4:00 | 2021-12-09 | 2022-12-27 |
 | [HERE \(For Christmas\)](https://open.spotify.com/track/1Cth2nNUYYfCiSoIei6rCi) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [HERE \(For Christmas\)](https://open.spotify.com/album/1a8Dr6FUUhI7Z6dqSxS8hA) | 4:00 | 2021-11-28 | 2021-12-09 |
 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-14 |
-| [Hey Far](https://open.spotify.com/track/21QuUYO759V0ZSUrd2WGsO) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [Hey Far](https://open.spotify.com/album/0RISIahFTRxoN70cr3zqV1) | 2:51 | 2023-02-25 |  |
+| [Hey Far](https://open.spotify.com/track/21QuUYO759V0ZSUrd2WGsO) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [Hey Far](https://open.spotify.com/album/0RISIahFTRxoN70cr3zqV1) | 2:51 | 2023-02-25 | 2023-03-25 |
 | [Hey Ho \(feat\. Hedegaard\)](https://open.spotify.com/track/4CTIEUKezwBHWLsJsZjDw1) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Hey Ho \(feat\. Hedegaard\)](https://open.spotify.com/album/0YDzSlf2GwXJ0FdzugxSvf) | 3:15 | 2022-04-29 | 2022-05-15 |
 | [Hey Mor](https://open.spotify.com/track/0WWgeQQ4sklycJK1lR6fmB) | [Joey Moe](https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc) | [Vintertid](https://open.spotify.com/album/7Mxhdn7huwlRomQPuh0hFH) | 3:07 | 2021-11-30 | 2022-12-27 |
 | [High Fashion](https://open.spotify.com/track/5igXllDtxviBlTGn4cawA5) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:16 | 2022-02-19 | 2022-03-12 |

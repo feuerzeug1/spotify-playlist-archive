@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,299 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,387 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 28 | [Sometimes](https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:54 |
 | 29 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 30 | [The Best Rapper Alive](https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [The Best Rapper Alive](https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm) | 8:07 |
-| 31 | [Incapable](https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Róisín Machine](https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6) | 3:45 |
-| 32 | [Forever Man \(How Many Times\) \- Earth n Days Remix](https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii) | [Beatchuggers](https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR), [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj) | [Forever Man \(How Many Times\) \[Earth n Days Remix\]](https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9) | 3:01 |
+| 31 | [Forever Man \(How Many Times\) \- Earth n Days Remix](https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii) | [Beatchuggers](https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR), [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj) | [Forever Man \(How Many Times\) \[Earth n Days Remix\]](https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9) | 3:01 |
+| 32 | [Incapable](https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Róisín Machine](https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6) | 3:45 |
 | 33 | [Trouble’s Coming \- Purple Disco Machine Remix](https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Trouble’s Coming \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ) | 4:25 |
 | 34 | [Bourgie Bourgie](https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Bourgie Bourgie](https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga) | 6:32 |
 | 35 | [Everything Happens for a Reason](https://open.spotify.com/track/24XXMhcnFDkF7c1PAvt42b) | [Pool Attendant](https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur) | [Everything Happens for a Reason](https://open.spotify.com/album/1tKDdlmv0HPOEcwN3j7dmP) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Ghetto Rock](https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Hope](https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL) | 3:02 |
 | 60 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDY3M2VjZmNmOGIzYzc1OWZiYWI5OGIwNjRhMzYyOTY4`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGU2NDNjYjBjYzc1ZmRlMzNlYmRjMTJjMDViNWM1NTE5`

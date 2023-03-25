@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "livin' life in your 250 sq ft apt cover: Zeph",
+  "description": "livin' life in your 250 sq ft apt cover: FLO",
   "name": "young & free",
   "tracks": [
     {
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 192393,
       "name": "All That I'm Craving",
       "url": "https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 202524,
       "name": "Alright",
       "url": "https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b"
@@ -1574,6 +1574,24 @@
       "duration_ms": 156141,
       "name": "are you feeling it now",
       "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
+    },
+    {
+      "album": {
+        "name": "Are You Okay?",
+        "url": "https://open.spotify.com/album/0PlBi2u5RAmywsDJxc2wEJ"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Are You Okay?",
+      "url": "https://open.spotify.com/track/4BaFnIJJGI96NaxPyZ9HLy"
     },
     {
       "album": {
@@ -5875,6 +5893,24 @@
     },
     {
       "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
       },
@@ -6500,7 +6536,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 164566,
       "name": "Did It Hurt?",
       "url": "https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW"
@@ -7350,7 +7386,7 @@
           "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         }
       ],
-      "date_added": "2023-03-19",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 137440,
@@ -8410,7 +8446,7 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185552,
@@ -8768,6 +8804,28 @@
       "duration_ms": 192380,
       "name": "flowers",
       "url": "https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ"
+    },
+    {
+      "album": {
+        "name": "Fly Girl (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "Fly Girl (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
     },
     {
       "album": {
@@ -10054,7 +10112,7 @@
           "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170370,
@@ -10592,7 +10650,7 @@
           "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 127180,
@@ -11498,7 +11556,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -12437,6 +12495,24 @@
     },
     {
       "album": {
+        "name": "Hyperfixations",
+        "url": "https://open.spotify.com/album/6JmO57rWensoCLLngSqju1"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195221,
+      "name": "Hyperfixations",
+      "url": "https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR"
+    },
+    {
+      "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
       },
@@ -12743,6 +12819,24 @@
     },
     {
       "album": {
+        "name": "i love you, I'M NOT SORRY",
+        "url": "https://open.spotify.com/album/08KTTahjmotUyxQY49APM5"
+      },
+      "artists": [
+        {
+          "name": "Jades Goudreault",
+          "url": "https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "i love you, I'M NOT SORRY",
+      "url": "https://open.spotify.com/track/51K6VapRIoRAVRdjjQZ29j"
+    },
+    {
+      "album": {
         "name": "I LUV U",
         "url": "https://open.spotify.com/album/1u14LWDFohYHEqptZhDo8i"
       },
@@ -13000,7 +13094,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 189214,
       "name": "I Wish I Didn't Love You",
       "url": "https://open.spotify.com/track/6JuD8oygJeA3kfUH7BqXZg"
@@ -13680,7 +13774,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 202735,
       "name": "internet crush",
       "url": "https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY"
@@ -13974,7 +14068,7 @@
           "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 266400,
@@ -14798,7 +14892,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 177176,
       "name": "Late To The Party",
       "url": "https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn"
@@ -15622,7 +15716,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 164440,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/7neB4qd6tZxWoSOwaelq9s"
@@ -17078,7 +17172,7 @@
           "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177524,
@@ -19168,7 +19262,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 147025,
       "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
@@ -21378,7 +21472,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 193526,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12"
@@ -21522,7 +21616,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 212946,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
@@ -21742,7 +21836,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 151352,
       "name": "Sad in Hawaii",
       "url": "https://open.spotify.com/track/72EyF0eOgaQ7B8lJe2RocO"
@@ -22670,7 +22764,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 217258,
       "name": "SHOULD I BE OK?",
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
@@ -24310,7 +24404,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 156720,
       "name": "Story of a Boy",
       "url": "https://open.spotify.com/track/7cbmG4OPQ9ghcewYIlNiuS"
@@ -24472,7 +24566,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 117727,
       "name": "STRUT",
       "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
@@ -25420,7 +25514,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 165317,
       "name": "T.M.I",
       "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
@@ -26385,6 +26479,24 @@
     },
     {
       "album": {
+        "name": "Therapist",
+        "url": "https://open.spotify.com/album/18R7VI3JvO7576xdNNA4ni"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161091,
+      "name": "Therapist",
+      "url": "https://open.spotify.com/track/4vIYNMhW588JXOlBlEQqrq"
+    },
+    {
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5c0knxfQLKoNV5BwB7DKWH"
       },
@@ -26700,6 +26812,24 @@
       "duration_ms": 215163,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
+    },
+    {
+      "album": {
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211283,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
       "album": {
@@ -27242,7 +27372,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 250071,
       "name": "U Taste Like Sundays",
       "url": "https://open.spotify.com/track/7zSIaxd1mgB53fm4PNX7qA"
@@ -27290,6 +27420,24 @@
       "duration_ms": 142477,
       "name": "u4u",
       "url": "https://open.spotify.com/track/0SF3v9YjUz0PpU5vAUhVIF"
+    },
+    {
+      "album": {
+        "name": "ugly",
+        "url": "https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173066,
+      "name": "ugly",
+      "url": "https://open.spotify.com/track/7b3zTnrvxQpkl0940SBF5W"
     },
     {
       "album": {
@@ -27720,7 +27868,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 145386,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"

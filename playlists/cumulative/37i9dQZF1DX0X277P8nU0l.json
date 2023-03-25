@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
         "name": "Corner Of The Sky",
         "url": "https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH"
       },
@@ -298,7 +316,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 177426,
       "name": "Dark Side of the Moon",
       "url": "https://open.spotify.com/track/756BelaNgfNsSCCxfVjYaO"
@@ -356,7 +374,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 182857,
       "name": "Drunk On A Flight",
       "url": "https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd"
@@ -404,7 +422,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 207986,
       "name": "Family",
       "url": "https://open.spotify.com/track/6OnEsU4yuFEIuuK1pzZ0z5"
@@ -566,7 +584,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 188792,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB"
@@ -852,7 +870,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 233101,
       "name": "Little Boy",
       "url": "https://open.spotify.com/track/7ocg33uDEQMpymbOnmWsQc"
@@ -896,6 +914,42 @@
       "duration_ms": 214777,
       "name": "Monte Carlo",
       "url": "https://open.spotify.com/track/6nPXiWyjlfHfCT4TcMGJAM"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239216,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy"
+    },
+    {
+      "album": {
+        "name": "Young Hearts",
+        "url": "https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174573,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/2qKbdyJ0WKLWJv3yBj1RPs"
     },
     {
       "album": {
@@ -994,7 +1048,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 195078,
       "name": "Petty",
       "url": "https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo"
@@ -1198,6 +1252,24 @@
       "duration_ms": 238500,
       "name": "Sign Out",
       "url": "https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9"
+    },
+    {
+      "album": {
+        "name": "Love 2",
+        "url": "https://open.spotify.com/album/7vfCAXD0bK0i2r3LZa8zVg"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "Sing Sang Sung",
+      "url": "https://open.spotify.com/track/1TTz7vRGZEQgpL6HJOEhWo"
     },
     {
       "album": {
@@ -1471,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Therapist",
+        "url": "https://open.spotify.com/album/18R7VI3JvO7576xdNNA4ni"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161091,
+      "name": "Therapist",
+      "url": "https://open.spotify.com/track/4vIYNMhW588JXOlBlEQqrq"
+    },
+    {
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/5sMzsRvJjnJCJp53H4VFO3"
       },
@@ -1508,6 +1598,24 @@
       "duration_ms": 324959,
       "name": "Tramp Like You",
       "url": "https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ"
+    },
+    {
+      "album": {
+        "name": "Us Without Me",
+        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200039,
+      "name": "Us Without Me",
+      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
     },
     {
       "album": {

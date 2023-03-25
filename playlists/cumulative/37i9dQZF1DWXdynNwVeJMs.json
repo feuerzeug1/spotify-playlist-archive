@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Buraq",
+        "url": "https://open.spotify.com/album/6ECr1SbrqlO6LjzbTKUuXC"
+      },
+      "artists": [
+        {
+          "name": "Dishwasher_",
+          "url": "https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238480,
+      "name": "Buraq",
+      "url": "https://open.spotify.com/track/0GxohwzA5N4eHPKSLmC6yU"
+    },
+    {
+      "album": {
         "name": "Time Faded",
         "url": "https://open.spotify.com/album/4hcyzkUSY9tpmjnVLJpTHr"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Aggiornata ogni venerd\u00ec. Niky Savage in cover.",
+  "description": "La casa dello street rap italiano, con 50 Tony in cover.",
   "name": "Street Culto",
   "tracks": [
     {
@@ -265,6 +265,28 @@
     },
     {
       "album": {
+        "name": "DON DADA",
+        "url": "https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd"
+      },
+      "artists": [
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153878,
+      "name": "AMM\u00d2 (feat. Mikush)",
+      "url": "https://open.spotify.com/track/3XlqB2sJGExXgkA0RSRy1R"
+    },
+    {
+      "album": {
         "name": "Antipatico",
         "url": "https://open.spotify.com/album/1RG5XhKqqEeknEsc5P7eNv"
       },
@@ -499,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150731,
+      "name": "Avanti",
+      "url": "https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8"
+    },
+    {
+      "album": {
         "name": "Bagage",
         "url": "https://open.spotify.com/album/4eLAygvtyrT2Etom1JPVGq"
       },
@@ -632,7 +672,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 166120,
       "name": "BEBE (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/5BpDpH327X9ExEJr4Oa5UY"
@@ -744,7 +784,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174375,
       "name": "Big VROOM Big Ah Ah",
       "url": "https://open.spotify.com/track/0GXP7aq6Ec8b4tx1w8VNcu"
@@ -874,6 +914,24 @@
       "duration_ms": 183428,
       "name": "Blow (feat. Yung Snapp & MV Killa)",
       "url": "https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed"
+    },
+    {
+      "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
       "album": {
@@ -1434,7 +1492,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213506,
       "name": "Compare (feat. Lazza & Gu\u00e8)",
       "url": "https://open.spotify.com/track/6OR6CqkAWNK6rr7gmfpJNK"
@@ -2336,6 +2394,28 @@
       "duration_ms": 164087,
       "name": "Goyard",
       "url": "https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH"
+    },
+    {
+      "album": {
+        "name": "Ghettosuperstar",
+        "url": "https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN"
+      },
+      "artists": [
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        },
+        {
+          "name": "Voleur pnz",
+          "url": "https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O"
     },
     {
       "album": {
@@ -3466,7 +3546,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 151690,
       "name": "No Gangsta (feat. Diss Gacha)",
       "url": "https://open.spotify.com/track/7jchp8dvNtPolD0UJHjDLs"
@@ -3894,7 +3974,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 195662,
       "name": "Prefissi",
       "url": "https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L"
@@ -4495,6 +4575,24 @@
     },
     {
       "album": {
+        "name": "Snobbava",
+        "url": "https://open.spotify.com/album/0I4nw0CPX7J1MLRzy9jBXs"
+      },
+      "artists": [
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153008,
+      "name": "Snobbava",
+      "url": "https://open.spotify.com/track/7KGOocrNaKZBPQr4VLDz49"
+    },
+    {
+      "album": {
         "name": "Soldi Puliti",
         "url": "https://open.spotify.com/album/0EGdVToK2bi2arUQ1PWtY4"
       },
@@ -4764,7 +4862,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 170571,
       "name": "Take 4",
       "url": "https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6"

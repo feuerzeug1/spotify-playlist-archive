@@ -4,7 +4,7 @@
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-71 songs - 4 hr 46 min
+72 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Zheqt Ma'k](https://open.spotify.com/track/4JU641COvRgmsLmU3PL3Aj) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:41 | 2021-08-11 |  |
 | [اذا قررت](https://open.spotify.com/track/2d86kCZ5D5cTGRF7LLu6XK) | [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [اذا قررت](https://open.spotify.com/album/2yC4Kg394XMZTfe1VVeRSZ) | 4:29 | 2021-08-11 |  |
 | [البوليس مش بوليسنا](https://open.spotify.com/track/4vKaFSCHLVn4WvRHSPp9AO) | [Jowan Safadi](https://open.spotify.com/artist/58rk7WZCefjnDiaA15RzEs) | [إبعد عن الشرق وغنيله](https://open.spotify.com/album/6iMpF8ZtCQ7mZ2IG6WlCnX) | 3:22 | 2021-08-11 |  |
-| [بيتي العتيق](https://open.spotify.com/track/7zHLx1NIvAvrwfs89hKNvf) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS) | 4:25 | 2021-08-11 |  |
+| [بيتي العتيق](https://open.spotify.com/track/60mp1uLLrINpNLpqmcnTmt) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z) | 4:25 | 2021-08-11 |  |
+| [بيتي العتيق](https://open.spotify.com/track/7zHLx1NIvAvrwfs89hKNvf) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS) | 4:25 | 2021-08-11 | 2023-03-25 |
 | [تايهين](https://open.spotify.com/track/5LkH32Zqyxtd8XYeOOm7Pz) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [تايهين](https://open.spotify.com/album/3WoD2qqMCpXEe1hMPhF9M1) | 3:43 | 2021-08-11 |  |
 | [حوا](https://open.spotify.com/track/0Vru5wQyzTUSZnmz7MvjRS) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [انفصام](https://open.spotify.com/album/7he1Sqbz3Oi3sVBQZUZsHc) | 4:20 | 2021-08-11 |  |
 | [حوا](https://open.spotify.com/track/6REwNE1WsulU7hGP4lFHKU) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [حوا](https://open.spotify.com/album/1XTsj5TmscdQobqlqSQwq0) | 4:20 | 2021-08-11 | 2022-07-29 |

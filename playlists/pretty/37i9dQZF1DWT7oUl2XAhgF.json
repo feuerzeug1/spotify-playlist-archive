@@ -1,13 +1,61 @@
 {
-  "description": "A new take on a classic sound. Cover: Phillip-Michael Scales",
-  "num_followers": 181874,
+  "description": "A new take on a classic sound. Cover: Jalen Ngonda\n",
+  "num_followers": 182144,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDg5OTVjZjFiY2UwMzlkYzk3N2IwMjc4MzRhODQzYzJk",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDRhMjhiYTMyNWNiNjYyZDEyMDQ5MDUzYTc2ZWIxOWI4",
   "tracks": [
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/2364WrvPTUHobDNURudCbM"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/236G8bErE6jhTq1i912HQ9"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 262212,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/2Ysz3zB0xV1w96CxhYq0bR"
+    },
     {
       "added_at": "2023-03-17 04:01:00",
       "album": {
@@ -107,6 +155,26 @@
       "duration_ms": 216913,
       "name": "Thee Only One",
       "url": "https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/0U5ltIZ3Zyd0vqLSzFQNN9"
+      },
+      "artists": [
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        },
+        {
+          "name": "Kelsey Blackstone",
+          "url": "https://open.spotify.com/artist/394uQRigSFiNSRbA9dismJ"
+        }
+      ],
+      "duration_ms": 162110,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/3xSXtVecNOXQP4J1MP0O7K"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -751,22 +819,6 @@
       "duration_ms": 143606,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/2h6c3yoLPhiQKcuSW7pQDX"
-    },
-    {
-      "added_at": "2022-09-09 15:29:46",
-      "album": {
-        "name": "Just Like You Used To",
-        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 188155,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -1449,26 +1501,6 @@
       "url": "https://open.spotify.com/track/6ABbS6736nA9V73pEyKVzg"
     },
     {
-      "added_at": "2022-05-20 14:55:11",
-      "album": {
-        "name": "Red Balloon",
-        "url": "https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        },
-        {
-          "name": "The Ton3s",
-          "url": "https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "Communion in My Cup (feat. The Ton3s)",
-      "url": "https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Strange Illusion",
@@ -1577,22 +1609,6 @@
       "url": "https://open.spotify.com/track/7bfn8c7BGfEx5boZBrkBW5"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Good Day",
-        "url": "https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 187319,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj"
-    },
-    {
       "added_at": "2022-02-15 17:48:45",
       "album": {
         "name": "On My Line",
@@ -1675,22 +1691,6 @@
       "duration_ms": 229733,
       "name": "Heat Wave",
       "url": "https://open.spotify.com/track/7gkwA9D1GqsbecFEfLR1ka"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Never Forget My Love",
-        "url": "https://open.spotify.com/album/2SwBlWsPDm0zPkZHAN3Lae"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 213840,
-      "name": "Oh to Be Loved by You",
-      "url": "https://open.spotify.com/track/1TdDBVCRdIsnMMbwE1OteZ"
     },
     {
       "added_at": "2022-02-15 17:48:45",

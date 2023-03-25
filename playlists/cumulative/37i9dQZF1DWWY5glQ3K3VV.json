@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Canzoni rap per party fino al mattino! Cover: Gu\u00e8, ANNA, Sfera Ebbasta",
+  "description": "Canzoni rap per party fino al mattino! Cover: Tony Effe",
   "name": "Club Rap ",
   "tracks": [
     {
@@ -672,6 +672,24 @@
       "duration_ms": 159714,
       "name": "BOP",
       "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
       "album": {
@@ -3978,7 +3996,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174920,
       "name": "Thoiry Remix (feat. Gemitaiz, Quentin40, Puritano) - Samba Trap Vol. 3 - Mitraglia Rec",
       "url": "https://open.spotify.com/track/3Ej69N6aHGfSi4ERhwHRO8"

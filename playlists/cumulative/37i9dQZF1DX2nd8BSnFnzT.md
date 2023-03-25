@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Supercombo
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Plebe Rude
 
-303 songs - 16 hr 59 min
+305 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Complexo](https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Simples Como Tem Que Ser](https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb) | 2:45 | 2022-01-14 | 2023-03-11 |
 | [Conflitos](https://open.spotify.com/track/0W1i5vb0qmCgUwd3RPH6VX) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [Conflitos](https://open.spotify.com/album/3swynHE8l786dCRToj5OwS) | 3:09 | 2022-10-21 | 2023-03-18 |
 | [Contramão](https://open.spotify.com/track/13ytqWx0ClTspSuIWsMTYd) | [Wry](https://open.spotify.com/artist/3hUJEMJojO6OmzGWumutys) | [Contramão](https://open.spotify.com/album/2z33uZxRMmV0vve8z8PCQJ) | 2:42 | 2022-10-14 | 2023-01-14 |
+| [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [: \(UMA BAD UMA FARRA: \) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 | 2023-03-24 |  |
 | [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 | 2022-10-28 |  |
 | [Curandeiro](https://open.spotify.com/track/3VCx8gNuP1tG4G9UNBTD8w) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Dazaranha 30 Anos](https://open.spotify.com/album/7ooA9s3AbPyL2LhnqMBOaM) | 3:08 | 2022-09-30 | 2022-11-12 |
 | [CÉUMITÉRIO](https://open.spotify.com/track/0KW0jKVnoOWCuEpJBqoFWI) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [CÉUMITÉRIO](https://open.spotify.com/album/5R9UWzUQZFgjbDELvZTVSI) | 3:23 | 2022-01-14 | 2022-04-02 |
@@ -135,7 +136,7 @@
 | [Impossível de Ser Assim](https://open.spotify.com/track/2YRkVJ8oEfXME75J8DRsZh) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Impossível de Ser Assim](https://open.spotify.com/album/6Z0DzOwJwVCUlMhfjsmJd2) | 3:12 | 2022-01-14 | 2022-04-29 |
 | [Inabalável](https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn) | [Mattilha](https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU) | [Inabalável](https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw) | 4:23 | 2022-10-28 |  |
 | [Independente da Razão](https://open.spotify.com/track/5erOum9abFhuRW9YCwuOPj) | [Uill](https://open.spotify.com/artist/6pO2XYME0r2OPJ6Z5PMruj) | [Independente da Razão](https://open.spotify.com/album/2ovuSZfZRELsEwD2FT52iS) | 3:52 | 2022-09-02 | 2022-09-18 |
-| [Indigo Child](https://open.spotify.com/track/4MpaxLR4xcllymYh4isHoq) | [Black Circle](https://open.spotify.com/artist/6yPBZdrCrOjNqZmMLJzhRG) | [Pandora](https://open.spotify.com/album/6wSBQZzSSqeuvI66MNadGA) | 3:33 | 2022-10-14 |  |
+| [Indigo Child](https://open.spotify.com/track/4MpaxLR4xcllymYh4isHoq) | [Black Circle](https://open.spotify.com/artist/6yPBZdrCrOjNqZmMLJzhRG) | [Pandora](https://open.spotify.com/album/6wSBQZzSSqeuvI66MNadGA) | 3:33 | 2022-10-14 | 2023-03-25 |
 | [Insista](https://open.spotify.com/track/0980mKBfxJvhtSMY53IgRy) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Insane Trip](https://open.spotify.com/artist/6K8lSvzKBta3pZLT3jdMrI) | [Insista](https://open.spotify.com/album/5jU9NOnTqzMd5JDfiOq6Ad) | 4:12 | 2022-09-30 | 2023-01-14 |
 | [Intervenção](https://open.spotify.com/track/4DX27vK2TVab3xjm4lghF5) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Intervenção](https://open.spotify.com/album/3QygnjTFSXdP5cvNdOBDbs) | 3:33 | 2023-03-03 |  |
 | [Jimi](https://open.spotify.com/track/0aLlb5nrQaAsbygcnTRxrX) | [Varandão](https://open.spotify.com/artist/6szGc0bzf7tY6HXwBVyNZ0) | [Jimi](https://open.spotify.com/album/5B3IJVAnRAnWjL8KbrqvMP) | 2:30 | 2022-09-17 | 2022-10-01 |
@@ -193,6 +194,7 @@
 | [não sei se eu tô legal](https://open.spotify.com/track/0XqbOyc2hkSmrrrgo2SHsF) | [Manifeste](https://open.spotify.com/artist/0n7mf2UgleldV4ShP6VY7f) | [Não Sei Se Eu Tô Legal](https://open.spotify.com/album/0xjeqZlmUkzixDMvXvU6RD) | 3:56 | 2022-04-01 | 2022-04-23 |
 | [Não Tem Fim](https://open.spotify.com/track/4aOrlVeRIpFWstYelMfT8E) | [Ludov](https://open.spotify.com/artist/1oJr9YeNcCuMjUtB6lQDlp) | [Não Tem Fim](https://open.spotify.com/album/3s3ppgiKb1i30FmkLHB01O) | 2:25 | 2023-01-13 | 2023-02-25 |
 | [Não Vá](https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Ivy Martins](https://open.spotify.com/artist/3476OGjD0Wy1AKp6wJ7xtV) | [Não Vá](https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4) | 3:15 | 2023-02-03 |  |
+| [Não É Fácil Explicar para uma Criança](https://open.spotify.com/track/140SKZV6z5q1I6vPKL2b0U) | [Plebe Rude](https://open.spotify.com/artist/2azqeHE13Y8hP8YAjew9zL) | [Evolução, Vol\. 2](https://open.spotify.com/album/0FRBkaMVeWroXGrpBOmXxg) | 4:26 | 2023-03-24 |  |
 | [Não É Só Existir](https://open.spotify.com/track/2yqqf8Xa2oEPnRemRS5jsD) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY) | [Não É Só Existir](https://open.spotify.com/album/5o4HjtKdN8PXhdfMAJOFcn) | 3:49 | 2022-01-14 | 2022-12-17 |
 | [Nó](https://open.spotify.com/track/2NsoozYK2yr62Y9HoN1Hfk) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Nó](https://open.spotify.com/album/4gKgBctqVjoHhBbI7BK83t) | 3:11 | 2022-05-20 | 2022-07-16 |
 | [Nóias Normais](https://open.spotify.com/track/152RBkawH7f1tYkMaHZ5Ac) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Nóias Normais](https://open.spotify.com/album/5LEpx272eqxABbGxbYDLxL) | 3:28 | 2022-01-14 | 2022-02-05 |
@@ -243,7 +245,7 @@
 | [Queima!](https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY) | [Inocentes](https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2) | [Queima!](https://open.spotify.com/album/0y1eK5Qgz9md8R9SambB6h) | 2:30 | 2022-07-29 | 2022-08-02 |
 | [Quero Ser Eu Mesmo](https://open.spotify.com/track/4KRdoq2lJw8dKg9QvJkx07) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN), [Samurai Ghile](https://open.spotify.com/artist/3kSm6WL86cVmLKLTFS3G6N) | [Quero Ser Eu Mesmo](https://open.spotify.com/album/04YbltMjXDT4Kmv07nbxXO) | 3:26 | 2022-01-14 | 2022-04-16 |
 | [raiva](https://open.spotify.com/track/5ohmUHZRVYckbotO3zP30w) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [raiva](https://open.spotify.com/album/3ahG4lLXnrvZjc9Sb89BP1) | 3:15 | 2022-05-20 | 2022-09-24 |
-| [Real grandeza](https://open.spotify.com/track/4iYxIpgcAIUAGUaQLG9guW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [12 de Janeiro \(Edição Comemorativa 2023\)](https://open.spotify.com/album/5mC2qIZAOOVrmq8EwTvoa3) | 3:47 | 2023-01-13 |  |
+| [Real grandeza](https://open.spotify.com/track/4iYxIpgcAIUAGUaQLG9guW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [12 de Janeiro \(Edição Comemorativa 2023\)](https://open.spotify.com/album/5mC2qIZAOOVrmq8EwTvoa3) | 3:47 | 2023-01-13 | 2023-03-25 |
 | [Recomeço](https://open.spotify.com/track/4aviofk0mZZn81yLNHYY15) | [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly) | [Recomeço](https://open.spotify.com/album/6J1JucU1ItGgQ9BobRei8y) | 3:00 | 2023-01-27 |  |
 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 | 2022-01-14 | 2022-08-13 |
 | [Rico de Felicidade](https://open.spotify.com/track/6J09bDqLKudm9fjcbzC1Z0) | [Aliados](https://open.spotify.com/artist/5SYOxHCgu3aAfGMJ2RcP3w) | [Rico de Felicidade](https://open.spotify.com/album/4ddtUV4pKaz3v9UPUl362M) | 2:23 | 2023-03-10 |  |

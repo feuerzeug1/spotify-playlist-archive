@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Can't Trust No One",
+        "url": "https://open.spotify.com/album/6rOleL2fq14KTix1rLR6cn"
+      },
+      "artists": [
+        {
+          "name": "Mike Akox",
+          "url": "https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225312,
+      "name": "Can't Trust No One",
+      "url": "https://open.spotify.com/track/74CDK3OK2RLFYpG9pmAzPf"
+    },
+    {
+      "album": {
         "name": "CANADA",
         "url": "https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW"
       },
@@ -1916,7 +1934,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 202909,
       "name": "JE LE MI EDO",
       "url": "https://open.spotify.com/track/54wphs5eiAUUzQ7nfJGTk5"
@@ -2486,6 +2504,24 @@
       "duration_ms": 258113,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x"
+    },
+    {
+      "album": {
+        "name": "Low Low",
+        "url": "https://open.spotify.com/album/4r1E0iVTwez5YGvGu43qFi"
+      },
+      "artists": [
+        {
+          "name": "Craig Isto",
+          "url": "https://open.spotify.com/artist/6VpPEumiAuTa48CV90GzY9"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Low Low",
+      "url": "https://open.spotify.com/track/7kigTgnHMZWplJPGAjovHg"
     },
     {
       "album": {
@@ -4082,6 +4118,36 @@
       "duration_ms": 204755,
       "name": "Soundgasm",
       "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
+    },
+    {
+      "album": {
+        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
       "album": {

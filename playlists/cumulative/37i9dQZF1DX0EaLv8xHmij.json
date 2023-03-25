@@ -3419,6 +3419,32 @@
     },
     {
       "album": {
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/7ouaB0VfveBqkRsckeBR8r"
+      },
+      "artists": [
+        {
+          "name": "Corleone",
+          "url": "https://open.spotify.com/artist/6KC5SbVwchsIji35J7wGBb"
+        },
+        {
+          "name": "Maipo Beats",
+          "url": "https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx"
+        },
+        {
+          "name": "Fella Rap",
+          "url": "https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/5prIJikSCVovHL7wADbkB4"
+    },
+    {
+      "album": {
         "name": "Temporada De Ca\u00e7a",
         "url": "https://open.spotify.com/album/57gdtXezVDMVQhLAtpnrbh"
       },
@@ -3438,6 +3464,32 @@
       "duration_ms": 194000,
       "name": "Temporada De Ca\u00e7a",
       "url": "https://open.spotify.com/track/7oWXd23WF7vD6FROEHk063"
+    },
+    {
+      "album": {
+        "name": "Terrorista",
+        "url": "https://open.spotify.com/album/1SFltkPUm7oUiLqwPPLGGk"
+      },
+      "artists": [
+        {
+          "name": "Fac",
+          "url": "https://open.spotify.com/artist/2OQj8y2Ztj2ME4EN6b98Kt"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Og Parma",
+          "url": "https://open.spotify.com/artist/66dCNLjr6gMmGCcJmNhIVv"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178288,
+      "name": "Terrorista",
+      "url": "https://open.spotify.com/track/3btPxaizURmPq3bts3J57s"
     },
     {
       "album": {

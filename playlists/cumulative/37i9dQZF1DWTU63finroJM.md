@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-939 songs - 2 day 4 hr 28 min
+940 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 | 2022-03-24 | 2022-08-25 |
 | [Energy](https://open.spotify.com/track/1bj5ZFpxGFP5ooQcctNVB4) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Nadeem Din\-Gabisi](https://open.spotify.com/artist/4ckH39T1k1Dz6Lmo6dmno6) | [Energy](https://open.spotify.com/album/6sKrmGGTFELOes2uZ8LxUk) | 4:58 | 2022-09-15 |  |
 | [Enseñame](https://open.spotify.com/track/5cz12QiSo0AEtFlNobITug) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 3:49 | 2022-04-07 | 2022-04-12 |
+| [error](https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [error](https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7) | 3:01 | 2023-03-24 |  |
 | [Espiral](https://open.spotify.com/track/4YO4YRZ3xDzWdAHn0XJLFG) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 3:07 | 2023-02-08 |  |
 | [Estoy Bien](https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Estoy Bien](https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE) | 2:48 | 2022-03-24 | 2022-09-16 |
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2022-03-24 | 2022-09-16 |

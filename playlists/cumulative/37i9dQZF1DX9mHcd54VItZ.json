@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Caligulater",
+        "url": "https://open.spotify.com/album/75a8zGSywMRtgsQlb1nQKM"
+      },
+      "artists": [
+        {
+          "name": "Acid Magus",
+          "url": "https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413153,
+      "name": "Caligulater",
+      "url": "https://open.spotify.com/track/6SK3qzRQe8xBo9xNgUhUsO"
+    },
+    {
+      "album": {
         "name": "Cancelled",
         "url": "https://open.spotify.com/album/1BUsmvb1vytWr69VgR9hCX"
       },
@@ -618,7 +636,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 208250,
       "name": "Cherry Glitter",
       "url": "https://open.spotify.com/track/2V57HqcRwmG9wYr8rcFbAa"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 172760,
       "name": "CUPID",
       "url": "https://open.spotify.com/track/5JOQ7Gasb2n4pGPBskx2xl"
@@ -1329,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/2TJlitKnHY894L95PfqLie"
+      },
+      "artists": [
+        {
+          "name": "3's and 7's",
+          "url": "https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201097,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/5YL0AEgbd1fYMS5Jrgw10E"
+    },
+    {
+      "album": {
         "name": "Feast Or Famine",
         "url": "https://open.spotify.com/album/3E3xF6HFKSqhi9dT8hO1wq"
       },
@@ -1727,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Three of Swords",
+        "url": "https://open.spotify.com/album/3kT07KBVwJev5xdhxg8Sl2"
+      },
+      "artists": [
+        {
+          "name": "Saturn Return",
+          "url": "https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210881,
+      "name": "I Hate Your Shirt",
+      "url": "https://open.spotify.com/track/1o6pwsvHhE0siWoXUDkDiR"
+    },
+    {
+      "album": {
         "name": "I Never Listen When You Speak",
         "url": "https://open.spotify.com/album/1h5If2qALyxObLZv9Wd7jN"
       },
@@ -1756,7 +1810,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 225000,
       "name": "In Die Son",
       "url": "https://open.spotify.com/track/3FWouV30HIUtD9cs89Aiou"
@@ -2096,7 +2150,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 237875,
       "name": "Loaded Gun",
       "url": "https://open.spotify.com/track/2plDiIgkQP195XUrFRTlNj"
@@ -2504,7 +2558,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 227931,
       "name": "One Lane Road",
       "url": "https://open.spotify.com/track/7jsZdatNbVONa1V6tF0Tm3"
@@ -2594,7 +2648,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 194800,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg"
@@ -2858,6 +2912,24 @@
       "duration_ms": 169520,
       "name": "Risk",
       "url": "https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX"
+    },
+    {
+      "album": {
+        "name": "Road Rage",
+        "url": "https://open.spotify.com/album/70cYROF5kbijI6nMeppkmd"
+      },
+      "artists": [
+        {
+          "name": "Hawema",
+          "url": "https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180375,
+      "name": "Road Rage",
+      "url": "https://open.spotify.com/track/3mMMCNWktpvnC25u96tZt0"
     },
     {
       "album": {
@@ -3274,10 +3346,46 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 199986,
       "name": "Story of the year",
       "url": "https://open.spotify.com/track/0YhlYDi66P9L6QaLib1h6t"
+    },
+    {
+      "album": {
+        "name": "Carry The Sun",
+        "url": "https://open.spotify.com/album/12ipKJwW2eSQiYjmSpPUdS"
+      },
+      "artists": [
+        {
+          "name": "4am",
+          "url": "https://open.spotify.com/artist/6Et1m4ITGVs524OB1tBr7Z"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184325,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/3VdOVX3NblTOCcm7FmoXZe"
+    },
+    {
+      "album": {
+        "name": "STUPID",
+        "url": "https://open.spotify.com/album/33aejrX5zsSzKJTvNyMqvR"
+      },
+      "artists": [
+        {
+          "name": "Rachel Ralphs",
+          "url": "https://open.spotify.com/artist/45AKtfze9DRVc86JgbtMT6"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175542,
+      "name": "STUPID",
+      "url": "https://open.spotify.com/track/5BQUqHbrXfVOkxPXk8wOA5"
     },
     {
       "album": {
@@ -3404,6 +3512,28 @@
       "duration_ms": 235520,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/1RTBUEn7eJaL8mDaCBCVqe"
+    },
+    {
+      "album": {
+        "name": "Tell All Your Friends",
+        "url": "https://open.spotify.com/album/3oJrry8StQp0sbbSOdDRUb"
+      },
+      "artists": [
+        {
+          "name": "Brogan the band",
+          "url": "https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc"
+        },
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Tell All Your Friends",
+      "url": "https://open.spotify.com/track/4ppWkfiHPj9mAiH2KNW6wL"
     },
     {
       "album": {

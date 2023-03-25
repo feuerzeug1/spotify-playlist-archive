@@ -4,7 +4,7 @@
 
 > Love songs from your favorite films
 
-143 songs - 9 hr 53 min
+144 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Love Is All Around \- From "Four Weddings And A Funeral"](https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Picture This \(20th Anniversary Edition\)](https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY) | 4:06 | 2022-01-11 |  |
 | [Love You I Do](https://open.spotify.com/track/3LeSaLcjfyeVER5BIl634d) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Dreamgirls \(Music from the Motion Picture\)](https://open.spotify.com/album/5w3m2Moqe9dcVHSzIUfmsE) | 2:48 | 2022-01-11 |  |
 | [Love You I Do](https://open.spotify.com/track/4IjoD5u5E3Nv6ecnCpeWpy) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Dreamgirls \(Music from the Motion Picture\) \[Deluxe Edition\]](https://open.spotify.com/album/7x0K2KoVdoFy192loas5Sp) | 2:48 | 2022-01-11 |  |
-| [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 | 2022-01-11 |  |
+| [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 | 2023-01-06 |  |
+| [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 | 2022-01-11 | 2023-03-25 |
 | [Mamma Mia](https://open.spotify.com/track/5jfrTNTDBje8pF8y6T4C3X) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Disco Fire](https://open.spotify.com/album/0vt5wvXtXVTqgrs7haKh8K) | 3:32 | 2022-10-28 | 2022-11-13 |
 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 | 2022-01-11 |  |
 | [Mamma Mia](https://open.spotify.com/track/22NN4BS1AlqVbyKIWExgON) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/0C36RlW2Fa0C7n1JnWBBMP) | 3:35 | 2022-01-11 | 2022-07-29 |
@@ -119,9 +120,9 @@
 | [Stay \(I Missed You\)](https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Stay \(I Missed You\)](https://open.spotify.com/album/0candONErDvN9wWFhOWXrS) | 3:04 | 2022-01-11 |  |
 | [Stay \(I Missed You\)](https://open.spotify.com/track/1g9SayVNjwevZMAIupymgW) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [NOW That's What I Call The 90s](https://open.spotify.com/album/1XzFPnkfh8owZ91QSNFs0M) | 3:04 | 2022-10-28 | 2022-11-13 |
 | [Suddenly I See](https://open.spotify.com/track/532wD3vXCTH9mh7tgcGmhS) | [Heartfire](https://open.spotify.com/artist/7KDnTpoLWvGxB3CqgwbhrM) | [Pop\-Rock Hits Today](https://open.spotify.com/album/69fAowuUCVJKAHl8Rg3aUS) | 3:15 | 2022-10-28 | 2022-11-13 |
-| [Suddenly I See](https://open.spotify.com/track/51xAY9tR8iQm9I0KBFZfQ1) | [The Super Actives](https://open.spotify.com/artist/27N0scDxg764yxjSxQ8DKQ) | [Ultimate Housework Music Mix](https://open.spotify.com/album/0dCtvBJiL44jg8zTXaPvRN) | 3:15 | 2022-01-11 | 2023-03-23 |
+| [Suddenly I See](https://open.spotify.com/track/51xAY9tR8iQm9I0KBFZfQ1) | [The Super Actives](https://open.spotify.com/artist/27N0scDxg764yxjSxQ8DKQ) | [Ultimate Housework Music Mix](https://open.spotify.com/album/0dCtvBJiL44jg8zTXaPvRN) | 3:15 | 2022-01-11 |  |
 | [Suddenly I See \(from "The Devil Wears Prada"\)](https://open.spotify.com/track/0sip7n4ZI0VOQ3uQUnaz8Q) | [Movie Soundtrack All Stars](https://open.spotify.com/artist/1znlOXPazXVYQkl8LWxkiF) | [65 Best Songs from Chick Flicks](https://open.spotify.com/album/3eYXMlXWr7P28t5rw8DQKG) | 3:15 | 2022-01-11 | 2022-07-29 |
-| [Suddenly I See \- Cover](https://open.spotify.com/track/0lZL7QbPhLhKUeI1wM4cAg) | [LOVE BGM JPN](https://open.spotify.com/artist/2N7xrdZ10zV0pdSw1DcNWY) | [COOL & POP HIT CHART!!](https://open.spotify.com/album/2qfq9DSdF6BW2xXe8LMPWa) | 3:15 | 2023-01-06 |  |
+| [Suddenly I See \- Cover](https://open.spotify.com/track/0lZL7QbPhLhKUeI1wM4cAg) | [LOVE BGM JPN](https://open.spotify.com/artist/2N7xrdZ10zV0pdSw1DcNWY) | [COOL & POP HIT CHART!!](https://open.spotify.com/album/2qfq9DSdF6BW2xXe8LMPWa) | 3:15 | 2023-01-06 | 2023-03-25 |
 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/08Ydz81wvXimVnd9FcTTAt) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Best Summer Songs Ever: An Essential Summertime Playlist](https://open.spotify.com/album/2ex6SQgU1zY8PQMeAgmIpW) | 3:34 | 2022-10-28 | 2022-11-13 |
 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/1rqmjFbg6ODiHjSfQK0iQM) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Best Wedding Music](https://open.spotify.com/album/3AwViWMmXi0oxspOLyfs7Q) | 3:34 | 2022-01-11 | 2022-08-22 |
 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 | 2022-01-11 |  |

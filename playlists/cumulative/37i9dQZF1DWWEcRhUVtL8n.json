@@ -2301,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "bc i love you",
+        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237052,
+      "name": "bc i love you",
+      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
+    },
+    {
+      "album": {
         "name": "Be Sweet",
         "url": "https://open.spotify.com/album/1gEdYwz5hkFchccCnPlVyu"
       },
@@ -3720,7 +3738,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 167929,
       "name": "Bullshit on the Internet",
       "url": "https://open.spotify.com/track/2CeXJdvqhKyewp74pU674J"
@@ -5082,7 +5100,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 196560,
       "name": "Colour Me Blue",
       "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
@@ -6342,7 +6360,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 218000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf"
@@ -6776,6 +6794,24 @@
       "duration_ms": 215293,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/3ZwEZ53kYpL1S8TzXkk5XF"
+    },
+    {
+      "album": {
+        "name": "Marginalia (Deluxe)",
+        "url": "https://open.spotify.com/album/4hHP4S8QfwXBFyXUd5TOC9"
+      },
+      "artists": [
+        {
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141130,
+      "name": "Dog Years",
+      "url": "https://open.spotify.com/track/2o0G1uVhYPcZz4XcDICaCX"
     },
     {
       "album": {
@@ -10406,7 +10442,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 171925,
       "name": "HATELOVE",
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
@@ -15048,6 +15084,24 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
+    },
+    {
+      "album": {
+        "name": "Love / Lover / Friend",
+        "url": "https://open.spotify.com/album/3okMe9vhlmt1YLKDVybYGg"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241288,
+      "name": "Love / Lover / Friend",
+      "url": "https://open.spotify.com/track/3GU9knCMGMb7ZaylfVBdKi"
     },
     {
       "album": {
@@ -20201,6 +20255,24 @@
     },
     {
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4"
       },
@@ -22582,7 +22654,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 193749,
       "name": "Sore Eyes",
       "url": "https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD"
@@ -27666,6 +27738,32 @@
       "duration_ms": 183947,
       "name": "You Got The Part",
       "url": "https://open.spotify.com/track/2wG3vRFT68jYXaXZ9kB6qM"
+    },
+    {
+      "album": {
+        "name": "You Make Me Feel So Good",
+        "url": "https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "You Make Me Feel So Good",
+      "url": "https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs"
     },
     {
       "album": {

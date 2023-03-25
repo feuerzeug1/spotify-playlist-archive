@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 349506,
       "name": "Bad - Edit",
       "url": "https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z"
@@ -74,6 +74,24 @@
       "duration_ms": 368440,
       "name": "Bad - Remastered 2009",
       "url": "https://open.spotify.com/track/6TQ7XVKcCQcfCEmv0QYYV8"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331913,
+      "name": "Bad - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/2Xnbnmo8pIBbfkcgEBVydz"
     },
     {
       "album": {
@@ -484,7 +502,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 416533,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
@@ -704,7 +722,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 249595,
       "name": "Out Of Control - Songs Of Surrender",
       "url": "https://open.spotify.com/track/29KzsvzQFnaZ2qzH8E1vlk"

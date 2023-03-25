@@ -4945,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/63bnF1vs8NxwKZ7WjxLAcK"
+      },
+      "artists": [
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223389,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/6rf6y8M3qZDyFLBezkXZ2G"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/7FxFBjIT8RTKT23jHGUlSd"
       },

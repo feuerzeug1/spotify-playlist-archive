@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Remade In Misery",
+        "url": "https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202591,
+      "name": "Bleed Me Dry",
+      "url": "https://open.spotify.com/track/0yVroPkpn46h7QdEYkNAFg"
+    },
+    {
+      "album": {
         "name": "Flawed Design",
         "url": "https://open.spotify.com/album/59pOP9owt8GjGJ2aTVmcHG"
       },
@@ -846,6 +864,24 @@
       "duration_ms": 214293,
       "name": "Blood Moon",
       "url": "https://open.spotify.com/track/58WQKPZHIB4AntzOdKFTAz"
+    },
+    {
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/29q56s9HFBRPKUmSfkeFZx"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/2gYLeC5Ikd8DFSJfwGZJp3"
     },
     {
       "album": {
@@ -2209,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Restoring Force",
+        "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Feels Like Forever",
+      "url": "https://open.spotify.com/track/3iPMVDlzpkXuYkvsa1PRQj"
+    },
+    {
+      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
       },
@@ -2476,7 +2530,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174937,
       "name": "Gonna Be OK",
       "url": "https://open.spotify.com/track/76CcaywQzcbgbDj7ovwXUO"
@@ -3630,7 +3684,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 224929,
       "name": "Lost in a Wave",
       "url": "https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC"
@@ -4646,7 +4700,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 214986,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0"
@@ -5522,7 +5576,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 182893,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/4vpJYmoqQ2bGkC1IKVWeIG"
@@ -6352,7 +6406,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 167034,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/0KBRMpZVUTxrU8blRUBfm3"
@@ -6374,7 +6428,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 165891,
       "name": "Warrior (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz"
@@ -6414,6 +6468,24 @@
       "duration_ms": 225705,
       "name": "Wash It All Away",
       "url": "https://open.spotify.com/track/05QquCUFrpkKTHz5Sy09nc"
+    },
+    {
+      "album": {
+        "name": "Watch Me Burn",
+        "url": "https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218722,
+      "name": "Watch Me Burn",
+      "url": "https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p"
     },
     {
       "album": {

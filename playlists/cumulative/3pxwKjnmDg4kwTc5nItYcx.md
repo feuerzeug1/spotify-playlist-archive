@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-665 songs - 1 day 11 hr 51 min
+668 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/album/3hgBfbjG4TGdfjoqQZLjQi) | 3:06 | 2022-07-14 |  |
 | [Cold Summer](https://open.spotify.com/track/19itjIyWlRC8tzjRoHrsY2) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Cold Summer](https://open.spotify.com/album/0Muy06qfQDJet1xcZXnIzE) | 2:53 | 2019-08-27\* | 2019-11-11 |
 | [Coldhearted, Lately](https://open.spotify.com/track/36h4VQAWg8omwAOouJ98no) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [Strange Seasons](https://open.spotify.com/album/6x6FSsZcxOks9rCaaVJcyY) | 3:24 | 2020-01-28 | 2020-04-06 |
+| [Collide](https://open.spotify.com/track/0jUvIB6lcKL5JpCKiRxuoF) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Collide](https://open.spotify.com/album/2jy7MT4wzfw8Jys97LO47x) | 3:03 | 2023-03-24 |  |
 | [Come Home](https://open.spotify.com/track/1Q8WGsRo2su7DQivhdoVQ2) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Come Home](https://open.spotify.com/album/2n7Zg5GgdqKjHvB46QE3fr) | 2:48 | 2020-04-24 | 2021-05-12 |
 | [Come On Over](https://open.spotify.com/track/2LWpBjeKLT2EPeaZQmRaIL) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Come On Over](https://open.spotify.com/album/2nYCfxDSwk3FaH2uB4IAov) | 3:20 | 2020-12-11 |  |
 | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/track/27Mp1HAFIhnLBsGXdFcGXG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/album/1BLMrCc9WNdafvEVXxdOab) | 3:30 | 2021-08-27 |  |
@@ -166,6 +167,7 @@
 | [EX](https://open.spotify.com/track/1Ev3UNEWEszimFy4cvemGr) | [Ojikae](https://open.spotify.com/artist/3moDp3eFeUgBTCqUSxcPZF) | [EX](https://open.spotify.com/album/7JNzoZ4q7jg6gYNKcF3uLi) | 4:06 | 2019-08-27\* | 2019-11-11 |
 | [Eyes](https://open.spotify.com/track/6obZ6VtxLfuhjvGXeDMQEb) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Maybe This Was Supposed To Happen](https://open.spotify.com/album/2InHmhnC1fd6VSOcB1yHmW) | 2:59 | 2020-04-18 | 2021-05-12 |
 | [Eyes Blue Like The Atlantic, Pt\. 2 \(feat\. Powfu, Alec Benjamin & Rxseboy\)](https://open.spotify.com/track/1eCTQhsNA31FcwyNcJcf86) | [Sista Prod](https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Eyes Blue Like The Atlantic, Pt\. 2 \(feat\. Powfu, Alec Benjamin & Rxseboy\)](https://open.spotify.com/album/6TPB592COBp06IqFJVCrqb) | 2:36 | 2020-08-14 |  |
+| [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-24 |  |
 | [F You I Love You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/27aGlicHJKf5QY20looYlR) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Light of Mine \(Deluxe\)](https://open.spotify.com/album/4UYc2CKvpyr2e1moEY6TL0) | 3:56 | 2019-08-27\* | 2020-02-12 |
 | [Fake Pods](https://open.spotify.com/track/3jfomnmufV2Px34YndRvhj) | [99 Neighbors](https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0) | [Fake Pods](https://open.spotify.com/album/37dKNYRGC6VC4RY8XPnkAc) | 3:03 | 2019-08-27\* | 2020-02-12 |
 | [Fall Too Easily \- Acoustic](https://open.spotify.com/track/55LJxD8qjfEpIgApl2pG1X) | [Dylan Joel](https://open.spotify.com/artist/6PsZs1L8zuW49bEUbkQ4JD) | [Fall Too Easily \(Acoustic\)](https://open.spotify.com/album/4x77NRmIq1XbyX8EywKuTA) | 2:10 | 2020-08-07 | 2021-05-12 |
@@ -323,6 +325,7 @@
 | [Joke's On You](https://open.spotify.com/track/2D0FX6WiP1GKGL3yCdXxs7) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Joke's On You](https://open.spotify.com/album/2Eu9J7STgsK7ojEDgXVN0A) | 3:04 | 2020-01-20 | 2021-05-12 |
 | [JOY FOR YOUTH \(with Sir Chloe\)](https://open.spotify.com/track/7L6dDZgxFunFf7MlK96wXl) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [JOY FOR YOUTH \(with Sir Chloe\)](https://open.spotify.com/album/7DHLsED15ZC6RoCLIWIwmN) | 3:33 | 2021-08-14 |  |
 | [Jupiter](https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Jupiter](https://open.spotify.com/album/3U7jdirSqKYriJCSIucl10) | 3:11 | 2020-03-21 | 2021-05-12 |
+| [jupiter and mars](https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Jupiter and Mars](https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh) | 4:07 | 2023-03-23 |  |
 | [Just Give Me Your Love](https://open.spotify.com/track/1bPU8jzUkPzlF3TIdu9ElW) | [Monarchy](https://open.spotify.com/artist/4YXRO4slasYnty9nb73LrO) | [Just Give Me Your Love](https://open.spotify.com/album/5x5wWgh6ZKFiZwHi5wMmqh) | 3:25 | 2020-01-31 | 2020-05-19 |
 | [Kamikaze](https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Kamikaze](https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn) | 3:30 | 2020-09-11 | 2021-05-12 |
 | [keep me afraid](https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:44 | 2021-09-11 |  |

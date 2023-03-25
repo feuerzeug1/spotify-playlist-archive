@@ -1,13 +1,33 @@
 {
-  "description": "m\u00fasica para insubordinados. Los Blenders en portada. ",
-  "num_followers": 71966,
+  "description": "m\u00fasica para insubordinados. Blnko en portada. ",
+  "num_followers": 71998,
   "original_name": "lo hice por el punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg2OTA0MywwMDAwMDAwMDk0YzA5NmY0ZDVlZTFkMDBiNjdjYzkwYzU5Nzc4OWU4",
+  "snapshot_id": "MTY3OTYxMzY4NywwMDAwMDAwMDE0OGFhYjY3NDU2YjcwYzZmNDkzZTg0YzA1MDg5OWQ0",
   "tracks": [
+    {
+      "added_at": "2023-03-23 23:21:27",
+      "album": {
+        "name": "Mi Psic\u00f3loga Me Dijo Que Hiciera Este Disco",
+        "url": "https://open.spotify.com/album/3zLu80ETtlESfO9Lrldbux"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        },
+        {
+          "name": "Berdu",
+          "url": "https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl"
+        }
+      ],
+      "duration_ms": 139066,
+      "name": "90",
+      "url": "https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi"
+    },
     {
       "added_at": "2022-03-25 17:01:02",
       "album": {

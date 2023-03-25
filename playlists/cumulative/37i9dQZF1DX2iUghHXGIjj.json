@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Profit (Acoustic)",
+        "url": "https://open.spotify.com/album/1X9rApsojGChWUmi5eDyQR"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170353,
+      "name": "Profit - Acoustic",
+      "url": "https://open.spotify.com/track/6zZWw2nK4OgfPH7G03tovl"
+    },
+    {
+      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 222199,
       "name": "Shake It for Me",
       "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"

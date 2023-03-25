@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,366 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,386 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Time Machine](https://open.spotify.com/track/44pg0fUyO3Fbj99LiLOHKy) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [My Time Machine](https://open.spotify.com/album/6dHcdUtQyeUbYEe6o8CY8c) | 2:25 |
+| 1 | [My Time Machine](https://open.spotify.com/track/6w40Bu1m2RH5BDWgiE2dpy) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [My Time Machine](https://open.spotify.com/album/57p4EJ9fkRKvav7qTI6x2a) | 2:25 |
 | 2 | [Centre of The Universe](https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:10 |
 | 3 | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv) | 2:34 |
 | 4 | [Life Ain't Always Pretty](https://open.spotify.com/track/1BNvU8Mn5aHnq0SxBIUoV4) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [Life Ain't Always Pretty](https://open.spotify.com/album/1gclZGnEWXEl84IK0xRwb0) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [Pretty Blue View](https://open.spotify.com/track/5t9f0NGMiwHKF3D8mTWEyW) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Pretty Blue View \(Acoustic\)](https://open.spotify.com/album/61hocUPG68jPN1jDNHZ7mu) | 3:39 |
 | 100 | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/track/0uhnVe3CgAhOI4NnSeWxTm) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK) | 2:17 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGQ2MDQ0YjRhOGI5NWU0ZmUxZmEyMDZmY2ViZWJkMzQy`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDQ5MGM0OGM2NzNlNWJjNmRhNTkxY2Q3NTkzMWFmOWVl`

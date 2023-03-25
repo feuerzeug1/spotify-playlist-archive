@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,746 likes - 64 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,976 likes - 64 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 63 | [Beta Time 86,4 hz \-84,1 hz](https://open.spotify.com/track/2pGVCr1MRiSC5a4EeG7iOn) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 2:57 |
 | 64 | [Binaural Beta Sinus Beats](https://open.spotify.com/track/2lVAIA4kdj8ecjNwzrHj6q) | [Erwin Oscár](https://open.spotify.com/artist/1w1y7dpUPIsZovT5YAHG3v) | [Binaural Brain Waves](https://open.spotify.com/album/4S6iWJHAR9R5lNsH9kJbVI) | 2:39 |
 
-Snapshot ID: `MTY3ODk4NzQ4MCwwMDAwMDAwMDAxYTFlZTczNDUwY2Q5MGZlOGY2YTlhNWZlMDEyNDdj`
+Snapshot ID: `MTY3ODk4NzQ4MCwwMDAwMDAwMGMzNGY1YzNjMjBjYzc5NzUyZWYxYWFmMzNmYTZhYTQx`

@@ -4,13 +4,14 @@
 
 > Let these contemplative couplets take you away.
 
-80 songs - 8 hr 11 min
+82 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaj Jane Ki Zid Na Karo \(Live\)](https://open.spotify.com/track/4alS0xW23tUwqscT8CkPM3) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Farida Khanum In Concert \(Live\)](https://open.spotify.com/album/2LgI5h8no2UbfcEC09Nwws) | 7:29 | 2021-12-01 |  |
 | [Aankho Mein Raha](https://open.spotify.com/track/1wGxfpGFpx2vCajaRilihV) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7IQQ3Trjwr2Nmjj6VGqsng) | 7:54 | 2023-02-27 |  |
 | [Aapki Yaad Aati Rahi Raat Bhar](https://open.spotify.com/track/2bCwBISaRkGc0CUY5t7X87) | [Chhaya Ganguli](https://open.spotify.com/artist/4psVmgSgmjHIBM7MZuVQyY) | [Gaman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dF7QK9cY4JBCIqnRG7J8N) | 5:02 | 2021-12-01 |  |
+| [Agar Talash Karun](https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265) | [Sougata Banerjee](https://open.spotify.com/artist/1eF9TwBnbfEFQZvC98Lg56) | [Agar Talash Karun](https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6) | 6:30 | 2023-03-23 |  |
 | [Ahista](https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 7:13 | 2021-12-01 | 2023-01-28 |
 | [Ahista](https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 7:13 | 2023-01-24 |  |
 | [Awara](https://open.spotify.com/track/5ECnRRG6R0dNL1MpJ9lSeu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Horizon](https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg) | 6:22 | 2021-12-01 |  |
@@ -19,6 +20,7 @@
 | [Chandi Jaisa Rang \- Live In India/1984](https://open.spotify.com/track/0AhzeZYaFByVhvN7AP1Q1Y) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Hothon Se Chhu Lo Tum](https://open.spotify.com/album/7aU7dUrUsmYhPZeuUM61b5) | 6:39 | 2022-07-26 | 2023-02-17 |
 | [Chandi Jaisa Rang \- Live In India/1984](https://open.spotify.com/track/17PEMtVwg0DaC5sBjUBdAl) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 6:40 | 2023-02-16 |  |
 | [Chandni Ke Bagh Mein](https://open.spotify.com/track/6T4AUanQF0Nhs7WHoMXujI) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7IQQ3Trjwr2Nmjj6VGqsng) | 6:29 | 2023-02-27 |  |
+| [CHAUDHVI KI RAAT](https://open.spotify.com/track/3RfMPBxBTFpI1aLUdBVShO) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [CHAUDHVI KI RAAT](https://open.spotify.com/album/5LeOrQu0YDHEQrCyikAreV) | 4:10 | 2023-03-23 |  |
 | [Chhupana Bhi Nahin Aata \(From "Baazigar"\)](https://open.spotify.com/track/2oAy8P7WfjbZW0cWw6RnAG) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 5:22 | 2021-12-01 |  |
 | [Chitthi Aai Hai](https://open.spotify.com/track/09xLwwXCwGcNK9nU20cwQM) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Naam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DZpyKpCBKxRL8xRn0gKdz) | 7:14 | 2021-12-01 |  |
 | [Chupke Chupke Raat Din](https://open.spotify.com/track/02K9EZr0aJwXzHTclgNHL8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Nikaah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19uTzMdiFnYjNYXQsrkHc1) | 7:48 | 2021-12-01 |  |

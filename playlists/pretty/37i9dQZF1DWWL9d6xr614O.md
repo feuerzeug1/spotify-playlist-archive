@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,119 likes - 83 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,141 likes - 83 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 45 | [Let God](https://open.spotify.com/track/5rLxqWMkBul7VvrXKkXNMa) | [Lara Maigue](https://open.spotify.com/artist/6ipkg2AA87aARg3YLnHBWX) | [Let God](https://open.spotify.com/album/7GaTQ2O0gRXqM8deTXzrOw) | 4:01 |
 | 46 | [Here](https://open.spotify.com/track/4kMA31fDbWXxbIO7A5Zd13) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Together – EP](https://open.spotify.com/album/54CX7lXUMplryuXFTCjkbM) | 5:46 |
 | 47 | [Lubos](https://open.spotify.com/track/2jvC5YCDFuw0frV6BKKD6w) | [Mansville Worship](https://open.spotify.com/artist/0QEPHzdypXwFJStRnhHau0), [Glynis Gozo\-Mansueto](https://open.spotify.com/artist/0hRbanU6jFvWsiMlcBwm6D) | [Lubos](https://open.spotify.com/album/3ibXFdy7QhfzDD5qiPOnJu) | 4:16 |
-| 48 | [Nasaan Kaya Ako](https://open.spotify.com/track/1ylLUQy3WwGEUJ5p5PAyuJ) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Nasaan Kaya Ako](https://open.spotify.com/album/0rVyPpwmXgnvk7Z7bKYs7B) | 4:04 |
+| 48 | [Nasaan Kaya Ako](https://open.spotify.com/track/2ynqCIq6D7vJKL873GFQrt) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Nasaan Kaya Ako](https://open.spotify.com/album/0smW8euaOWK2X8o8j5Y3gy) | 4:04 |
 | 49 | [Living Water](https://open.spotify.com/track/2KCT1NuIYxKHSy8z6WLpgM) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Living Water](https://open.spotify.com/album/5WcZ6Do5YLPerJ6F8abx0E) | 5:44 |
 | 50 | [Kingdom Coming](https://open.spotify.com/track/4tWAElVjppLMaPE6tN52IW) | [imPULSE Worship](https://open.spotify.com/artist/0Y8uyspVmA4AACJrlNIrVj), [one vo1ce](https://open.spotify.com/artist/2XbrRvsnu4m56qwgBx5nnD), [Tim Be Told](https://open.spotify.com/artist/6L0mxhIWyV5ySKJvWrD70h) | [Kingdom Coming](https://open.spotify.com/album/1iLNh8DaRIhxWv4bTJU3ZK) | 3:56 |
 | 51 | [Lighthouse in the Storm](https://open.spotify.com/track/4ZNpAwmAFBjIkE49GUqDUm) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Lighthouse in the Storm](https://open.spotify.com/album/6ASnuC91fC5llmBogdwmg2) | 3:29 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 82 | [Where Would I Be](https://open.spotify.com/track/1QN30TGAZWHiGInfeR5o2Q) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/0n7GtDVbxR1GPJnDuxOQgv) | 4:04 |
 | 83 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `MTY3NzE0MTg2MCwwMDAwMDAwMDdmNDQ2MjllNmVkNWFlOTk2NWFiNTVlYWIyN2M0MDMw`
+Snapshot ID: `MTY3NzE0MTg2MCwwMDAwMDAwMGQzZGMwZmQ2MDI2YTU4NmQyYmQ2YTE4ZmQ4MzJkNmRj`

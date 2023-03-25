@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Yemil
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,847 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,059 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 3 | [Tu Loco](https://open.spotify.com/track/2KQj2OQo0UcJ2uFAe5LG47) | [Mole](https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Tu Loco](https://open.spotify.com/album/0t9xJs4Z8Po09tdPwg05xi) | 5:19 |
 | 4 | [Mojaita](https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1) | [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy), [Lh Da Produzza](https://open.spotify.com/artist/39GGxIMwluX0usfj3E1IhJ) | [Mojaita](https://open.spotify.com/album/2Ez4GzUBSFoqecJsG84nCB) | 3:54 |
 | 5 | [Casaya](https://open.spotify.com/track/4iRHjxLojZsyclcODm5NOv) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Coexistencia](https://open.spotify.com/album/2Z4R6v7ghh8fbO1xYrk3lW) | 3:26 |
-| 6 | [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/track/4MULhpFgyate8oE1KGCSd0) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/album/0rTt6YkFCoU9DlP92ih8Mk) | 6:04 |
+| 6 | [Jiggiri](https://open.spotify.com/track/1eB4AigLRMLBzikAzHyyDx) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Jiggiri](https://open.spotify.com/album/4P9Mu330irhIpz3EdK8gFC) | 6:04 |
 | 7 | [SECRETOS](https://open.spotify.com/track/7gzHBtLU0lYfIGcvEGbIz6) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [SECRETOS](https://open.spotify.com/album/0iFfe0UKXtRaeuaCTa3WOl) | 2:48 |
 | 8 | [ALBERTO NAVARRO \(feat\. Danny Yash\)](https://open.spotify.com/track/0jDkzYfkYI5faOTftiqydF) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [ALBERTO NAVARRO \(feat\. Danny Yash\)](https://open.spotify.com/album/3eYNNa322PLWcPtua9rOky) | 4:25 |
 | 9 | [Por Ley](https://open.spotify.com/track/3Zb2735n7CfJ8ZwKd69O01) | [LH](https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [EL ZETA](https://open.spotify.com/artist/5DF0mdf3uHRV1ojnyVFuo4), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Por Ley](https://open.spotify.com/album/27lo0482W5P6mkzkinHEJD) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 49 | [Pa Mí \- Remix](https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 6:00 |
 | 50 | [Me Mató \(feat\. Faster\)](https://open.spotify.com/track/74JdIMGaguuZqFdgoGfKeZ) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [faster](https://open.spotify.com/artist/3DfJjF4ki6BLK8stBeHysZ) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:20 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGI1OGJiYzdhNjE3MzE4NzI3Y2NmOTA1NjNhNDhiMzJl`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDFjODJmOGY0YTZkNTMzMjFmMjFiYTc0Mzk1ZDcxMzM4`

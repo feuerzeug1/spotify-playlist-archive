@@ -713,6 +713,28 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/21hyerYXEXL0rLnagGfTZ0"
+      },
+      "artists": [
+        {
+          "name": "Keith Ape",
+          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
+        },
+        {
+          "name": "PEEJAY",
+          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330480,
+      "name": "Ape Freestyle - Spotify Singles",
+      "url": "https://open.spotify.com/track/5yV2rps3tcEwxhuYZRJ38k"
+    },
+    {
+      "album": {
         "name": "Apollo 11 (feat. Jay Park)",
         "url": "https://open.spotify.com/album/560eyB9eHh656ZiDHnAsdl"
       },
@@ -2277,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Chico malo",
+        "url": "https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159053,
+      "name": "Chico malo",
+      "url": "https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i"
+    },
+    {
+      "album": {
         "name": "Child - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/4XGMXl3AMjb11YIKdeujj1"
       },
@@ -2490,7 +2530,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 175000,
       "name": "Close to You (feat. sunwoojunga)",
       "url": "https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F"
@@ -3637,6 +3677,28 @@
     },
     {
       "album": {
+        "name": "1st Single 'S.i.R'",
+        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Drowning (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
+    },
+    {
+      "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
@@ -3724,6 +3786,24 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE"
+    },
+    {
+      "album": {
+        "name": "History Of Kingdom: Pt. \u2165. Mujin",
+        "url": "https://open.spotify.com/album/5MtxPx9oyiXDH6x5r646Go"
+      },
+      "artists": [
+        {
+          "name": "KINGDOM",
+          "url": "https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214693,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/6tksGYo7SrnXF7Cj3sLWav"
     },
     {
       "album": {
@@ -4298,6 +4378,24 @@
       "duration_ms": 183146,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX"
+    },
+    {
+      "album": {
+        "name": "Put Up a Fight",
+        "url": "https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8REN",
+          "url": "https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201777,
+      "name": "Folks",
+      "url": "https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I"
     },
     {
       "album": {
@@ -6769,6 +6867,28 @@
     },
     {
       "album": {
+        "name": "[BILLION MUSIC PROJECT VOL.1]",
+        "url": "https://open.spotify.com/album/5WyawwlLnlCHeLGChPaJii"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/1z7X7lFkoF2KRoDaxUfN99"
+    },
+    {
+      "album": {
         "name": "Origine",
         "url": "https://open.spotify.com/album/5VzMQgh8F9GOgNPu7LcZUs"
       },
@@ -6976,7 +7096,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 192000,
       "name": "Look Where We Are",
       "url": "https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75"
@@ -7602,7 +7722,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 160941,
       "name": "MAPSI",
       "url": "https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG"
@@ -8026,7 +8146,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 161124,
       "name": "More",
       "url": "https://open.spotify.com/track/6VacU6Uf16RkcQWUv3Z5Vq"
@@ -8318,7 +8438,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 183360,
       "name": "Never Let Me Go (Korean Ver.)",
       "url": "https://open.spotify.com/track/53qhnJwezZdvrH2wyaG8hb"
@@ -9624,7 +9744,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 216680,
       "name": "Puzzle",
       "url": "https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ"

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 19961,
+  "num_followers": 19978,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMGY5ZTUzNDAwNDhjODlkODg1Zjk3MDNkOGJjNDBmYmYw",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMGE2ZDJlYWVmMTJjMzk1OTNiMGQ0ODA2YWQ5MDE4OWVk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "AZUL\u00c6",
         "url": "https://open.spotify.com/album/1h7GakzHHoyEYyWhvlmiWo"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 220750,
       "name": "7 O 9 - Ep. 11: Las vidas de los gato",
       "url": "https://open.spotify.com/track/2s5ZDuhEmW9wte8vCSrgev"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ay Coraz\u00f3n (Silencio)",
-        "url": "https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 232478,
-      "name": "Ay Coraz\u00f3n (Silencio)",
-      "url": "https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "La Flor",
         "url": "https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 186474,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ay Coraz\u00f3n (Silencio)",
+        "url": "https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 232478,
+      "name": "Ay Coraz\u00f3n (Silencio)",
+      "url": "https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Texas",
-        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 258946,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "La Pel\u00edcula",
         "url": "https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 198826,
       "name": "Estar Aqu\u00ed",
       "url": "https://open.spotify.com/track/5xeU3C13U7d8d6HOIhT8e4"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "duration_ms": 258946,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Serenidad",
+        "url": "https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Serenidad",
+      "url": "https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Corte Superior",
-        "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
+        "name": "Puede Ser Mortal",
+        "url": "https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2"
       },
       "artists": [
         {
-          "name": "Pablo Trujillo",
-          "url": "https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb"
+          "name": "Feroe",
+          "url": "https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Corte Superior",
-      "url": "https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ"
+      "duration_ms": 254834,
+      "name": "Puede Ser Mortal",
+      "url": "https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Puede Ser Mortal",
-        "url": "https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2"
+        "name": "Corte Superior",
+        "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
       },
       "artists": [
         {
-          "name": "Feroe",
-          "url": "https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a"
+          "name": "Pablo Trujillo",
+          "url": "https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb"
         }
       ],
-      "duration_ms": 254834,
-      "name": "Puede Ser Mortal",
-      "url": "https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo"
+      "duration_ms": 236000,
+      "name": "Corte Superior",
+      "url": "https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1479,22 +1495,6 @@
       "duration_ms": 225240,
       "name": "Honestidad",
       "url": "https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Serenidad",
-        "url": "https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Serenidad",
-      "url": "https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n"
     }
   ],
   "unique_name": "Lo Mejor del Indie/Alternativo 2020",

@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-148 songs - 11 hr 57 min
+149 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bechouiya 3la Galbi](https://open.spotify.com/track/073EMBsQPqd4j89yoztZ47) | [Rai Mix](https://open.spotify.com/artist/03sJ8qPVXuuOkHBdswV4pj) | [Dj ANes ReMix Rai](https://open.spotify.com/album/3e4hbnsuCNBmXPXdTDexzO) | 4:05 | 2021-10-19 | 2022-03-26 |
 | [Bghaw 3liya Yba3dok](https://open.spotify.com/track/0qgOUOYQrfWWYI42FLvxum) | [Cheb djalil](https://open.spotify.com/artist/2aTFw3gTDHVHXYYzgRf3xy) | [Bghaw 3liya Yba3dok](https://open.spotify.com/album/5Yhd5B4XDx6DVLdVa1jVnY) | 4:47 | 2023-02-27 |  |
 | [Bghitona natfarko](https://open.spotify.com/track/30SPX8Eue4UhihxU9cio7p) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [Bghitona natfarko](https://open.spotify.com/album/4baIAIwbTC2MqgKeIliPKU) | 2:33 | 2021-10-19 | 2022-09-21 |
+| [Brad Lgalb](https://open.spotify.com/track/200vD11oSSH2B8C73kXyRC) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheba Souad](https://open.spotify.com/artist/2mtGLDeonPnIV8HDyrxCfl) | [Brad Lgalb](https://open.spotify.com/album/1tKZOpA4RUscWGOgzgxZtK) | 3:43 | 2023-03-24 |  |
 | [Bravo](https://open.spotify.com/track/3v7uGitLi89jWMK5F6BUjh) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Bravo](https://open.spotify.com/album/6YZsunqkk3ZzwDsJtqZHvA) | 3:59 | 2021-10-19 | 2023-01-14 |
 | [Bye Bye](https://open.spotify.com/track/03bUz9jtzmYl0XjgxpYvyN) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Bye Bye](https://open.spotify.com/album/6QlLtCE9DUZJJnvLKXgIuv) | 3:31 | 2021-10-19 | 2022-12-26 |
 | [Bye Bye lmiziria](https://open.spotify.com/track/3KjVFfbEZPUj1076iJHdLA) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Bye Bye lmiziria](https://open.spotify.com/album/503UybXLd49aqSVhY8ufvd) | 5:29 | 2021-10-19 | 2022-12-27 |
@@ -38,7 +39,7 @@
 | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/track/4o9jA37PQmofMORu7TIlbm) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/album/0wrUX9IkbsTbyoCZOvA4Q7) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/track/2Z2orYLp8Ox5gnlVPP5oQY) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/album/58EVW8ZXLjD3ThafQaDCMy) | 4:45 | 2022-09-20 | 2023-01-26 |
 | [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 | 2021-10-19 | 2023-01-04 |
-| [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/track/4hQgTdJF1Z1PdDrhjYBiUC) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/album/2FN9F2iscX3gYpuqvsxAdD) | 5:25 | 2021-10-19 |  |
+| [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/track/4hQgTdJF1Z1PdDrhjYBiUC) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/album/2FN9F2iscX3gYpuqvsxAdD) | 5:25 | 2021-10-19 | 2023-03-25 |
 | [Corona](https://open.spotify.com/track/3FBCyQCJMBPzAMdtY6c1bP) | [Cheb Bello](https://open.spotify.com/artist/5Io1qNaw4iKM3t7kHgCsBo), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Corona](https://open.spotify.com/album/3xrsu3KBqRQ15AlDIjGkyL) | 4:02 | 2021-10-19 | 2022-05-12 |
 | [Célibataire Taajabni](https://open.spotify.com/track/5b1Ha5pzXLE5t6VjwJnbJz) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6) | [Célibataire Taajabni](https://open.spotify.com/album/73YRT6VgEfaPcS4mRoF2Er) | 5:03 | 2022-09-20 | 2022-12-01 |
 | [Denia keratni \- Va bene](https://open.spotify.com/track/4QpthEgd5SYqlYGPLoCPgU) | [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [Denia Keratni](https://open.spotify.com/album/6LEiREHxVTyoMGiDWWogu0) | 6:39 | 2021-10-19 | 2023-03-16 |

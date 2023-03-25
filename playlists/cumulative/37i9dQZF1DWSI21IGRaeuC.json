@@ -666,7 +666,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 407000,
       "name": "DJ Lover - Original Mix",
       "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
@@ -2848,6 +2848,24 @@
       "duration_ms": 348315,
       "name": "Untitled A",
       "url": "https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg"
+    },
+    {
+      "album": {
+        "name": "Walk The Line (Radio Edit)",
+        "url": "https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jonez",
+          "url": "https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Walk The Line - Radio Edit",
+      "url": "https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI"
     },
     {
       "album": {

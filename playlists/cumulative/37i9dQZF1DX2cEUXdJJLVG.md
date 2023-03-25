@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-235 songs - 14 hr 9 min
+237 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/track/4T4YHAdlrEzL5Jsb1XnbGA) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/album/5fE5bSpNQpqVPJ8k5RvAUP) | 3:37 | 2022-09-09 |  |
 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 | 2022-09-09 |  |
 | [Future Proof](https://open.spotify.com/track/6qaJAYN6r3uX20vLQ6MT7F) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Future Proof](https://open.spotify.com/album/24VbraVikV7y8QVALWIBKq) | 3:33 | 2022-10-14 |  |
+| [GEEK OUT!](https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES), [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [GEEK OUT!](https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X) | 3:04 | 2023-03-23 |  |
 | [Get It Right](https://open.spotify.com/track/1zB3PXJUnLtaKwh8BFgrPZ) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Get It Right](https://open.spotify.com/album/0ZHtV08dK9qMw9g3cSCpz8) | 3:08 | 2022-09-09 |  |
 | [Give It a Go](https://open.spotify.com/track/2aUPmWTy3eTfbVFx3BVaE9) | [Curtis Cole](https://open.spotify.com/artist/3nHifOdw3FgOxPAlg4kzTl), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Give It a Go](https://open.spotify.com/album/1z44wef0na78nNIvld0NcQ) | 2:46 | 2022-12-15 |  |
 | [Glorious Game](https://open.spotify.com/track/7s88KE6XfHDLyuQahHHuYk) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Glorious Game](https://open.spotify.com/album/0gsCTUrsjKnfF3TgYkgtEn) | 3:53 | 2023-03-20 |  |
@@ -222,6 +223,7 @@
 | [The Recipe](https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 | 2022-09-09 | 2022-10-15 |
 | [Therapy](https://open.spotify.com/track/7rO5L6Eo85xO0fBJ6YKK27) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Therapy](https://open.spotify.com/album/0Rbs0JsOZzn5cbVVePLNpJ) | 4:36 | 2022-09-29 |  |
 | [This Ain't Loving Without You](https://open.spotify.com/track/4TiPkI5PIqp0NkmlTuK48f) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Blue Note Re:imagined II](https://open.spotify.com/album/4o54aWSH3QaWkRjS5Pl2I6) | 2:57 | 2022-10-14 |  |
+| [Tighten It Up](https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Tighten It Up](https://open.spotify.com/album/1kehGGSk2pMh7UNkDe4Njt) | 2:54 | 2023-03-23 |  |
 | [Together](https://open.spotify.com/track/2Ke0t5CgPSFbdJcRF2GzFr) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Reason to Smile](https://open.spotify.com/album/0RkFiGprYwfyALDs4tQLMC) | 3:03 | 2022-12-12 |  |
 | [Tongue Tied](https://open.spotify.com/track/2NahLrPNy0tK7K97Nu8SFj) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [asante](https://open.spotify.com/artist/6bv2mTQTcpXQ4IEHv3Kv3a) | [Great Lakes Influence](https://open.spotify.com/album/5Xt0CWRI6jl03L58jdKoQj) | 7:04 | 2022-10-28 |  |
 | [Too Big \- Atjazz Remix](https://open.spotify.com/track/2PsqQ6h3BoK1nLoTsUqTUv) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Too Big \(Atjazz Remix\)](https://open.spotify.com/album/2Mpkl9q3cLbupeV9g3NeAs) | 4:08 | 2022-09-22 | 2022-09-28 |

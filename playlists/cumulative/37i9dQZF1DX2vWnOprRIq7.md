@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Alfonsina.
 
-85 songs - 5 hr 17 min
+87 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Corazon en Asteroides](https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Corazon en Asteroides](https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw) | 3:58 | 2023-03-17 |  |
 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2023-03-17 |  |
 | [Cuánto Falta](https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [Cuánto Falta](https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD) | 4:00 | 2023-03-17 |  |
-| [De Nada Sirve](https://open.spotify.com/track/17lgXGSt1GJ8M4Thl9dodV) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [De Nada Sirve](https://open.spotify.com/album/7a0I2kC5zlbuLb11m1gsdE) | 6:45 | 2023-03-17 |  |
+| [De Nada Sirve](https://open.spotify.com/track/17lgXGSt1GJ8M4Thl9dodV) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [De Nada Sirve](https://open.spotify.com/album/7a0I2kC5zlbuLb11m1gsdE) | 6:45 | 2023-03-17 | 2023-03-25 |
 | [Del Tiempo \- Original Mix](https://open.spotify.com/track/0gDKVCXvgaJj0tbf5TgyQ6) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Manu Ela](https://open.spotify.com/artist/0HelIc5UNdohCdMZY6fxWT) | [Les disques du bord de l'eau: Winter EP 2021](https://open.spotify.com/album/6PdsZ0lXptJ1cwutsHk7KL) | 5:10 | 2023-03-17 |  |
 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 | 2023-03-17 |  |
 | [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2023-03-17 |  |
@@ -38,8 +38,9 @@
 | [Extranjera](https://open.spotify.com/track/5xQ5TwGBRU8DmMnJaPq2d4) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Extranjera](https://open.spotify.com/album/2GLLUxEHe9E2nEY6bCQG3r) | 3:59 | 2023-03-17 |  |
 | [Extraño ser](https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [Extraño ser](https://open.spotify.com/album/4Wk4LntMYRIOVEquWr2HrU) | 4:07 | 2023-03-17 |  |
 | [Fiebre](https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF) | [DEFENSA](https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [7 canciones antes de que nos corten la luz](https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm) | 3:43 | 2023-03-17 |  |
+| [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 | 2023-03-25 |  |
 | [FRONTERAS](https://open.spotify.com/track/190JPM6ySJgA6BAilTqdXH) | [Yuls](https://open.spotify.com/artist/7p3xvTVisjvZnUBSFV5LMS) | [FRONTERAS](https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8) | 3:33 | 2023-03-17 |  |
-| [Futuro Perfecto](https://open.spotify.com/track/4qDeQ3x0NRbRWCBhhKr6YA) | [Tú No Existes](https://open.spotify.com/artist/6oKGdMwqEVmL5B0N2Jbk3B), [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [Futuro Perfecto Futuro](https://open.spotify.com/album/6uFyFgjOu7Bn4dfK05M1Fo) | 3:00 | 2023-03-17 |  |
+| [Futuro Perfecto](https://open.spotify.com/track/4qDeQ3x0NRbRWCBhhKr6YA) | [Tú No Existes](https://open.spotify.com/artist/6oKGdMwqEVmL5B0N2Jbk3B), [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [Futuro Perfecto Futuro](https://open.spotify.com/album/6uFyFgjOu7Bn4dfK05M1Fo) | 3:00 | 2023-03-17 | 2023-03-25 |
 | [Galactic Feelings](https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Galactic Feelings](https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X) | 4:10 | 2023-03-17 |  |
 | [hambre](https://open.spotify.com/track/2tZflzxvr7gqNqkKlOl0M4) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [mondomamba](https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS) | 3:32 | 2023-03-17 |  |
 | [Hondo](https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:57 | 2023-03-17 |  |
@@ -92,6 +93,7 @@
 | [Vital](https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Vital](https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK) | 3:02 | 2023-03-17 |  |
 | [Voladora de Papantla \- Hermetics Remix](https://open.spotify.com/track/1y36OpnIp7bIMyzWkCWn68) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Hermetics](https://open.spotify.com/artist/4FOl3ytTF0JV9hh9rsv03u) | [Voladora de Papantla \(Hermetics Remix\)](https://open.spotify.com/album/4YcZeTwbFEtHt5TBh9zjs1) | 6:07 | 2023-03-17 |  |
 | [Ya no quiero que me busques](https://open.spotify.com/track/2louDYW0pvu9weBWQHlAok) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Ya no quiero que me busques](https://open.spotify.com/album/218GxV0wEDmKR279AkeOae) | 3:00 | 2023-03-17 |  |
+| [Órbita](https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Órbita](https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT) | 3:17 | 2023-03-25 |  |
 | [último y primero](https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT) | 2:59 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

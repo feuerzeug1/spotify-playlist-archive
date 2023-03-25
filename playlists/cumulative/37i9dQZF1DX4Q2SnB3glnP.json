@@ -2113,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/7snyOPCc8KNIgAp4L92vLv"
+      },
+      "artists": [
+        {
+          "name": "Albert Lockwood",
+          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/4Nxdvb7Jk9TJCCCUc5wEgk"
+    },
+    {
+      "album": {
         "name": "Mood City",
         "url": "https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m"
       },
@@ -3186,7 +3204,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 226333,
       "name": "Receding Waves",
       "url": "https://open.spotify.com/track/5nkdxgonAeVjxg8NCptsuj"

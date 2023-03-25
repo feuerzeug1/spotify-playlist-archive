@@ -113,6 +113,32 @@
     },
     {
       "album": {
+        "name": "5 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/4wuar64MwT2fyw7wQQCeCg"
+      },
+      "artists": [
+        {
+          "name": "Makarraum",
+          "url": "https://open.spotify.com/artist/1J8A6wzCWSmdYBZo71tIkj"
+        },
+        {
+          "name": "P\u00eapa Beatmaker",
+          "url": "https://open.spotify.com/artist/0dfJo6kHqLEd8YYukoD5MD"
+        },
+        {
+          "name": "BLACKSTAGE",
+          "url": "https://open.spotify.com/artist/2Cnh0hbkscBAn6JMfy14eN"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "5 da Manh\u00e3",
+      "url": "https://open.spotify.com/track/10h5mqBbIqWRPuzcKxNIZe"
+    },
+    {
+      "album": {
         "name": "99",
         "url": "https://open.spotify.com/album/2k5OTp8WbijvFKnlypR11G"
       },
@@ -150,6 +176,32 @@
       "duration_ms": 181663,
       "name": "A Lua e Seu Olhar",
       "url": "https://open.spotify.com/track/748v7HYonNIeIWwryS8gr2"
+    },
+    {
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/6dzGb5CUeUWAfiH4TkxBEs"
+      },
+      "artists": [
+        {
+          "name": "Bonde das Maravilhas",
+          "url": "https://open.spotify.com/artist/3UZyjeKVvRv39UqBpeYX6d"
+        },
+        {
+          "name": "MC Nino GC",
+          "url": "https://open.spotify.com/artist/4u8vwUHgwLpKz1C0kFqNWy"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124878,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/2tjCd0Rdc4rjJSrps6wKZu"
     },
     {
       "album": {
@@ -1565,7 +1617,7 @@
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 232500,
+      "duration_ms": 234000,
       "name": "Cobras e Felinas",
       "url": "https://open.spotify.com/track/78OAMEWqre2yBnxFINNhLM"
     },
@@ -3458,7 +3510,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 157978,
       "name": "KICKFLIP",
       "url": "https://open.spotify.com/track/6DmCVSSqnJF8k7si1VVHSm"
@@ -7284,8 +7336,8 @@
           "url": "https://open.spotify.com/artist/63hfE92vmhBqSVXZIMUCRV"
         },
         {
-          "name": "BlakkClout",
-          "url": "https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq"
+          "name": "Clout",
+          "url": "https://open.spotify.com/artist/3QyIZkjWHBOtRIx8nmvvub"
         }
       ],
       "date_added": "2022-10-14",

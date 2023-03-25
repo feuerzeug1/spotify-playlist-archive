@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-271 songs - 17 hr 0 min
+272 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |
 | [What've I Done To Help](https://open.spotify.com/track/30kyfRMzJ7IxwQ5rEndvwn) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [What’ve I Done to Help](https://open.spotify.com/album/4woWpmM4ghIPQeo3bGmNSY) | 6:40 | 2021-12-17 | 2022-07-29 |
 | [What've I Done to Help](https://open.spotify.com/track/3t8IB18uEO2pebnfLUv7B0) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 6:40 | 2022-07-22 |  |
+| [When Eden Was My Girl \(feat\. Marcus King\)](https://open.spotify.com/track/3o34F9z7g0SDeIAKWir4PR) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [When Eden Was My Girl \(feat\. Marcus King\)](https://open.spotify.com/album/3jR7qt6pFn6OBxRZDnyJqK) | 4:25 | 2023-03-24 |  |
 | [When It Rains](https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/3hBNP1QpE7MWs5OIInJxAG) | 6:23 | 2021-12-17 | 2022-07-29 |
 | [When It Rains](https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/7MNdKioZBeUYQnpFP9mZiV) | 6:23 | 2022-07-22 |  |
 | [White House Road \- OurVinyl Sessions](https://open.spotify.com/track/55KHk8PhJC3HIpT3mA2smL) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/4kWFXcmFlcZTZVi68NMqKw) | 4:28 | 2021-12-17 | 2022-07-29 |

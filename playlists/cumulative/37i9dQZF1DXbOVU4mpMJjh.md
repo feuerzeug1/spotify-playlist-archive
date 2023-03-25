@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-611 songs - 1 day 21 hr 58 min
+612 songs - 1 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 6:13 | 2022-06-30 | 2022-10-08 |
 | [Isadora](https://open.spotify.com/track/5bF6crgJa5Q58IWgbdUbuO) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Introducing Christian Scott](https://open.spotify.com/album/5dFfrmCWp4rYbggmhYhakl) | 6:16 | 2022-04-14 | 2022-07-29 |
 | [It Ain’t Necessarily So](https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Mary Lou Williams Presents Black Christ of the Andes](https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy) | 4:45 | 2022-04-14 | 2022-10-08 |
+| [It Never Entered My Mind](https://open.spotify.com/track/0ndlTAGPCJ2Xy12Ncoc5rq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [It Never Entered My Mind](https://open.spotify.com/album/5iHpp0Os02Ae2LiX4ZICxA) | 3:44 | 2023-03-16 |  |
 | [It Never Entered my Mind](https://open.spotify.com/track/58VcgWixvxnMdt4bj29PdQ) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Richie Goods](https://open.spotify.com/artist/3vIV7TBZyCi5dGGaaFB6G6), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Sequel](https://open.spotify.com/album/387kMuzWWMPFsmvxpemQbA) | 6:31 | 2022-04-14 | 2022-07-29 |
 | [It Never Entered My Mind](https://open.spotify.com/track/1vP5Ceh1SrfOalU8Yc3XE9) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Wingspan](https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd) | [The Sequel](https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum) | 6:32 | 2022-06-30 | 2023-01-27 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-29 |  |
@@ -385,7 +386,7 @@
 | [New Orleans](https://open.spotify.com/track/2z6D5bIA9Wprdqi1B8nnVh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 5:40 | 2022-04-14 | 2022-10-03 |
 | [New Shoes](https://open.spotify.com/track/1CsB9h88MSlYaQGzDTX9Al) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 3:56 | 2022-09-29 |  |
 | [New York, New York](https://open.spotify.com/track/5sn5E8HsUitOsC70O26l4i) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [New York New York 1970\-72](https://open.spotify.com/album/6MxJ8JBBE3cf8W3IVoP6mq) | 2:48 | 2022-04-14 | 2022-05-03 |
-| [Nico's Dream](https://open.spotify.com/track/3WpC7BGVmokob8XLVLudsb) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Sophia Tomelleri](https://open.spotify.com/artist/0t6QqAU5H72iR1XyOEAPbM), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [On the Trail](https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8) | 4:21 | 2022-06-23 |  |
+| [Nico's Dream](https://open.spotify.com/track/3WpC7BGVmokob8XLVLudsb) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Sophia Tomelleri](https://open.spotify.com/artist/0t6QqAU5H72iR1XyOEAPbM), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [On the Trail](https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8) | 4:21 | 2022-06-23 | 2023-03-25 |
 | [Night And Day](https://open.spotify.com/track/7elvLJgwfx0XhmPv1A6VX6) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Night And Day](https://open.spotify.com/album/5yglxByn88hqATkjlMeAUL) | 4:38 | 2022-04-14 | 2022-05-25 |
 | [Nimble](https://open.spotify.com/track/1zu9xkOabMyxkXvGutY0Tf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Nimble](https://open.spotify.com/album/3TMKIfoKOKUfjOojRwV32p) | 3:33 | 2022-10-06 |  |
 | [Nostalgia](https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Nostalgia](https://open.spotify.com/album/40TSaISQjPsgp7y10MtdwD) | 3:41 | 2023-03-09 |  |

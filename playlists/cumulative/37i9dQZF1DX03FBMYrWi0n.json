@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Le Couleur",
+  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Half Moon Run",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 237000,
       "name": "Chambre d'\u00e9cho",
       "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 204413,
       "name": "Doux doux",
       "url": "https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D"
@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Puisque les heures nous manquent",
+        "url": "https://open.spotify.com/album/0V3mQctTFlwTEASUWVmRek"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Laforest",
+          "url": "https://open.spotify.com/artist/22pR3J0Y0WNrj8gS0TSaHb"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201711,
+      "name": "Fatigu\u00e9e",
+      "url": "https://open.spotify.com/track/6p5wW2wyB77K43YAqTeIma"
+    },
+    {
+      "album": {
         "name": "Le soleil et la mer",
         "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
       },
@@ -629,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Glam",
+        "url": "https://open.spotify.com/album/0limMkqQ5HILZa6E9zGMY2"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268544,
+      "name": "Glam",
+      "url": "https://open.spotify.com/track/4eguSwduvRXYMcHuPf6zYO"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
@@ -698,7 +734,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 226183,
       "name": "Je l\u00e8ve mon verre",
       "url": "https://open.spotify.com/track/6o16D1kBaq7QQUSw9QP0fv"
@@ -813,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Lance-Flamme Lance-Glace",
+        "url": "https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR"
+      },
+      "artists": [
+        {
+          "name": "YOCTO",
+          "url": "https://open.spotify.com/artist/6oL1PKTxXeIYiobQD30O3n"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181286,
+      "name": "Lance-Flamme Lance-Glace",
+      "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
+    },
+    {
+      "album": {
         "name": "Supermercado",
         "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
@@ -860,7 +914,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 171321,
       "name": "Lighter Fluid",
       "url": "https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW"
@@ -986,7 +1040,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 170920,
       "name": "Mourir au large - sunset version",
       "url": "https://open.spotify.com/track/2g9ZVSmnDT6q2uIIDeI5rC"
@@ -1098,7 +1152,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 243950,
       "name": "OMG (oiseau)",
       "url": "https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD"
@@ -1368,7 +1422,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 144906,
       "name": "Ta yeule, toute va ben",
       "url": "https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u"
@@ -1501,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "album": {
         "name": "whatwasthatwine",
         "url": "https://open.spotify.com/album/4r5raINIASmps1EZ090fio"
       },
@@ -1534,6 +1606,24 @@
       "duration_ms": 249072,
       "name": "Witness Protection",
       "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
+    },
+    {
+      "album": {
+        "name": "You Can Let Go",
+        "url": "https://open.spotify.com/album/5kC54Lqi95lrT1DRFCLtd2"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186402,
+      "name": "You Can Let Go",
+      "url": "https://open.spotify.com/track/4hB9ZXHn35AS2oZaS7oeKl"
     },
     {
       "album": {

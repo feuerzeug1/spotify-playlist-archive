@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 181090,
+  "num_followers": 181225,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDdlN2YwNzFhNTQ1MGZhOGFkOTk3M2MwZGE5OGVhNGY5",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDJkYTBmOWIyNzRiMjQ4ZTFkYzBlODBjZDAyODExZGQ3",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
-      },
-      "artists": [
-        {
-          "name": "Life Of Agony",
-          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Let's Pretend",
-      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Dedication",
         "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 210626,
       "name": "Get This Right!",
       "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Let's Pretend",
+      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
     },
     {
       "added_at": "2020-12-08 15:12:11",

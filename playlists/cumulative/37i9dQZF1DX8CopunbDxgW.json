@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "Airlock",
+        "url": "https://open.spotify.com/album/5UELvbnjZtBn1THizbSrcK"
+      },
+      "artists": [
+        {
+          "name": "99 Neighbors",
+          "url": "https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0"
+        },
+        {
+          "name": "maari",
+          "url": "https://open.spotify.com/artist/2rcrE3FRJak8QlN227dzg8"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161440,
+      "name": "Airlock",
+      "url": "https://open.spotify.com/track/5dHzoJDE1iIkjHl5Bku3Pl"
+    },
+    {
+      "album": {
         "name": "All Around The World (with Duckwrth)",
         "url": "https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt"
       },
@@ -3326,7 +3348,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 271795,
       "name": "EASY PREY - yeule & Kin Leonn Remix",
       "url": "https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh"
@@ -4386,6 +4408,24 @@
       "duration_ms": 255106,
       "name": "Fittipaldi",
       "url": "https://open.spotify.com/track/2SYqvFbaan8hg0M7wcRkRq"
+    },
+    {
+      "album": {
+        "name": "Flicker",
+        "url": "https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE"
+      },
+      "artists": [
+        {
+          "name": "Donna Missal",
+          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197302,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U"
     },
     {
       "album": {
@@ -11224,7 +11264,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 212557,
       "name": "Seeing Stars (feat. Frost Children)",
       "url": "https://open.spotify.com/track/4B4Sekpstoom4VdqDLatY1"
@@ -11242,7 +11282,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 153387,
       "name": "Seems Like The Feeling",
       "url": "https://open.spotify.com/track/6trDIo0btFbM3FwObpYlaa"
@@ -11904,6 +11944,28 @@
       "duration_ms": 223441,
       "name": "Staring at the Ceiling",
       "url": "https://open.spotify.com/track/1vPRVC9OhWpLUFmHwUCziG"
+    },
+    {
+      "album": {
+        "name": "Staring In The Dark",
+        "url": "https://open.spotify.com/album/2jxqw18TEVeQ2GhNMq7Ht3"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        },
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243521,
+      "name": "Staring In The Dark",
+      "url": "https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2"
     },
     {
       "album": {

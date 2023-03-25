@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-08-02",
-  "description": "A deep sound, combining electronic elements and organic instrumentation stemming from the folk music of Africa, Latin America and the Middle East.",
+  "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
   "name": "Org\u00e1nica",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 456745,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
@@ -1033,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Bekaboo",
+        "url": "https://open.spotify.com/album/1A05Xaf6VxzQVJpEiMsa75"
+      },
+      "artists": [
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Bekaboo",
+      "url": "https://open.spotify.com/track/1HYPIyMIgHN9Gmv12es0xd"
+    },
+    {
+      "album": {
         "name": "Aragatz",
         "url": "https://open.spotify.com/album/76ORVgHLwFHWHCnO0Z5i8D"
       },
@@ -1369,6 +1387,28 @@
     },
     {
       "album": {
+        "name": "Chaghaf",
+        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427000,
+      "name": "Chaghaf",
+      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
+    },
+    {
+      "album": {
         "name": "Chaouen",
         "url": "https://open.spotify.com/album/54UNY80YDJ1FmAkhlNReJk"
       },
@@ -1590,6 +1630,24 @@
       "duration_ms": 434543,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/7FNGHqa1mcxaBBqiCr22sK"
+    },
+    {
+      "album": {
+        "name": "Dancing Colours",
+        "url": "https://open.spotify.com/album/7zoVXfKEQorTWts3Lz3gmp"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296053,
+      "name": "Dancing Colours",
+      "url": "https://open.spotify.com/track/0u9kbAXLPGs7O95SuySqxc"
     },
     {
       "album": {
@@ -1914,7 +1972,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 382066,
       "name": "Earth",
       "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
@@ -2118,7 +2176,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 176839,
       "name": "Eliso Lyamu Katata",
       "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
@@ -2176,7 +2234,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 482715,
       "name": "Entrecote",
       "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
@@ -3172,7 +3230,7 @@
           "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226500,
@@ -3430,7 +3488,7 @@
           "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 465502,
@@ -3704,7 +3762,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 223637,
       "name": "Lotus - Radio Edit",
       "url": "https://open.spotify.com/track/3tx2LWG7qvk51C8A6d3qdg"
@@ -3962,7 +4020,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 359808,
       "name": "Marimba",
       "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
@@ -4238,7 +4296,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 451375,
       "name": "Mona Ki Ngi Xica - Everything Counts Remix",
       "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
@@ -4664,7 +4722,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 367636,
       "name": "Novicani",
       "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
@@ -4960,6 +5018,24 @@
       "duration_ms": 355084,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/2kscYCgdy8FP8D92hgsVIy"
+    },
+    {
+      "album": {
+        "name": "Pantarei",
+        "url": "https://open.spotify.com/album/0h6dsjcjf7sGbu0NSX88o3"
+      },
+      "artists": [
+        {
+          "name": "Latteo",
+          "url": "https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403373,
+      "name": "Pantarei",
+      "url": "https://open.spotify.com/track/2zoJ31xwDphl9m6LHo2u64"
     },
     {
       "album": {
@@ -5518,7 +5594,7 @@
           "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187118,
@@ -5680,7 +5756,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 264317,
       "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
       "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
@@ -5919,6 +5995,24 @@
     },
     {
       "album": {
+        "name": "Star Tripper",
+        "url": "https://open.spotify.com/album/4acnlgRObU8twYND7ktUc3"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293888,
+      "name": "Star Tripper",
+      "url": "https://open.spotify.com/track/2y1VCMCb4brGaqlnH0WFH3"
+    },
+    {
+      "album": {
         "name": "Global Entry 2",
         "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
@@ -6039,6 +6133,24 @@
     },
     {
       "album": {
+        "name": "Humanidad",
+        "url": "https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521547,
+      "name": "Tembo",
+      "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
+    },
+    {
+      "album": {
         "name": "Temple Dream",
         "url": "https://open.spotify.com/album/7jOqBniEJ1hn7nyPocGrVT"
       },
@@ -6148,7 +6260,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 282520,
       "name": "The Oracle",
       "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
@@ -6206,7 +6318,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
@@ -6692,7 +6804,7 @@
       ],
       "date_added": "2020-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 637455,
       "name": "Voodoo Guitar - Timboletti Remix",
       "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
@@ -6780,6 +6892,24 @@
       "duration_ms": 408023,
       "name": "Warbler",
       "url": "https://open.spotify.com/track/50nAU2kkU1ztMzZa2MBbC8"
+    },
+    {
+      "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "album": {

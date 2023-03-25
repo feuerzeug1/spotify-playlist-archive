@@ -1,12 +1,12 @@
 {
   "description": "Need a musical pick-me-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!",
-  "num_followers": 309135,
+  "num_followers": 309091,
   "original_name": "Happy Songs",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzQ0NSxjMGQ1MzFkZWJiMTJhNzdkYjdmNjBhN2I0M2ZmM2M5NGEzMzM0MGE3",
+  "snapshot_id": "MzQ0Niw4YTExOTJjNmM0MzRjNTE5NTY3MTZiMTNkZmExZWRjODQ3MmY1YzUz",
   "tracks": [
     {
       "added_at": "2023-03-15 20:18:21",
@@ -139,6 +139,22 @@
       "duration_ms": 196160,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+    },
+    {
+      "added_at": "2023-03-24 16:09:45",
+      "album": {
+        "name": "Greatest Hits '93 - '03",
+        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH"
     },
     {
       "added_at": "2023-03-15 20:18:21",

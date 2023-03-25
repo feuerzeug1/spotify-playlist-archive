@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "Heavy new bands you need to have an eye on. Cover: Scowl",
+  "description": "Heavy new bands you need to have an eye on. Cover: Heriot",
   "name": "New Blood",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 135000,
       "name": "Barbie & Ken",
       "url": "https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx"
@@ -276,6 +276,24 @@
       "duration_ms": 174842,
       "name": "BLOODSPORT",
       "url": "https://open.spotify.com/track/2k6EEOtVrrBa9lsvfruAVt"
+    },
+    {
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/6kO4SgxrKX2Bd2PvB5MGlz"
+      },
+      "artists": [
+        {
+          "name": "Pupil Slicer",
+          "url": "https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357997,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/15O24jtwGctHpUGzTq6YWV"
     },
     {
       "album": {
@@ -442,7 +460,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 162000,
       "name": "Can't Take This Away",
       "url": "https://open.spotify.com/track/69xZZJ0lSlw6PgDOXdIP3R"
@@ -460,10 +478,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 255186,
       "name": "Cathedrals of Blood (Twilight of the Idols)",
       "url": "https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5"
+    },
+    {
+      "album": {
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/4iKN4OU3KuzUfyAl4BfQcF"
+      },
+      "artists": [
+        {
+          "name": "Black Coast",
+          "url": "https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200655,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/1Rb9fJlTrtaSsdej39f3HS"
     },
     {
       "album": {
@@ -514,7 +550,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 193866,
       "name": "Coalescence",
       "url": "https://open.spotify.com/track/56s2fd2wlu2jt5hP1kopEl"
@@ -608,6 +644,24 @@
       "duration_ms": 208021,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/2zadmTSePlxYA2LYq81c8U"
+    },
+    {
+      "album": {
+        "name": "Demure",
+        "url": "https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj"
+      },
+      "artists": [
+        {
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289756,
+      "name": "Demure",
+      "url": "https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB"
     },
     {
       "album": {
@@ -878,10 +932,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 210445,
       "name": "Felt Like Home",
       "url": "https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/7AIA9j3BcSt4uI3n7uZuQa"
+      },
+      "artists": [
+        {
+          "name": "TOVA",
+          "url": "https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233223,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2OyBO7x26a0J92gicUgie5"
     },
     {
       "album": {
@@ -1256,7 +1328,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 149101,
       "name": "just like me",
       "url": "https://open.spotify.com/track/1RWXx2SsAE99IxaYtr7b0h"
@@ -1913,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/0xGDN7ZZD9cuRmg9HpBH3A"
+      },
+      "artists": [
+        {
+          "name": "Nobody Has Heart",
+          "url": "https://open.spotify.com/artist/2Jcxk0Vy05WM5tRAWMcJez"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151257,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/522MnoBIHF3f27a4epAH0w"
+    },
+    {
+      "album": {
         "name": "DEADGIRL",
         "url": "https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV"
       },
@@ -2058,6 +2148,24 @@
       "duration_ms": 252182,
       "name": "Slaughterhouse",
       "url": "https://open.spotify.com/track/6TbRUyqguhyHq4ZuM4Azf1"
+    },
+    {
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/2ITaw13oHCyBOYi22KMtBv"
+      },
+      "artists": [
+        {
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233643,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0uZCYK1sLwDbLtvx27HZdf"
     },
     {
       "album": {
@@ -2216,7 +2324,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 208760,
       "name": "Super Fiend",
       "url": "https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf"
@@ -2476,6 +2584,24 @@
       "duration_ms": 305000,
       "name": "The Third Pillar",
       "url": "https://open.spotify.com/track/0hLMMjNkhEPUTelmWDtqLg"
+    },
+    {
+      "album": {
+        "name": "The Weight of It All",
+        "url": "https://open.spotify.com/album/3eRxuVGr0PVyugK1L7MXa5"
+      },
+      "artists": [
+        {
+          "name": "Forlorn",
+          "url": "https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "The Weight of It All",
+      "url": "https://open.spotify.com/track/6E7trHVQxQsH6Ve3spYZyv"
     },
     {
       "album": {
@@ -2922,7 +3048,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 185930,
       "name": "Yenta",
       "url": "https://open.spotify.com/track/2Fm1b9cFtMU5e5AgUoYBkQ"
@@ -2962,6 +3088,24 @@
       "duration_ms": 189998,
       "name": "Yenta",
       "url": "https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg"
+    },
+    {
+      "album": {
+        "name": "alone again",
+        "url": "https://open.spotify.com/album/1xEDDtwENUcM84zAbIwOdu"
+      },
+      "artists": [
+        {
+          "name": "newshapes",
+          "url": "https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167852,
+      "name": "you'll never be alone again",
+      "url": "https://open.spotify.com/track/5cMB5jGfNCm6b65YXhSIEJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj"

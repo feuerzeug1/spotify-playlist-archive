@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: comment debord",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Fleece",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -897,6 +897,28 @@
     },
     {
       "album": {
+        "name": "Charlie",
+        "url": "https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186453,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW"
+    },
+    {
+      "album": {
         "name": "Choker",
         "url": "https://open.spotify.com/album/795cwI0M8cjrFb86T2dcqf"
       },
@@ -1670,7 +1692,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 198562,
       "name": "figure me out",
       "url": "https://open.spotify.com/track/0aW9tzWTluJpRqMrBzsrpB"
@@ -2391,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "It's The Life",
+        "url": "https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh"
+      },
+      "artists": [
+        {
+          "name": "Fleece",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157265,
+      "name": "It's The Life",
+      "url": "https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP"
+    },
+    {
+      "album": {
         "name": "J'ai pu de temps \u00e0 perdre!",
         "url": "https://open.spotify.com/album/01wwbyhHgcBxSQhHnMKwJ7"
       },
@@ -2510,7 +2550,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 226544,
       "name": "JD",
       "url": "https://open.spotify.com/track/4rODIAkyRLz9tYFN6YGHhI"
@@ -2586,7 +2626,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 177669,
       "name": "Keep Hiding (way back)",
       "url": "https://open.spotify.com/track/24jKuK0iTLqc6Fbywv1pYu"
@@ -3020,7 +3060,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 210531,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/6L2SG3kZwT61N1IhYrTKRa"
@@ -4777,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/5rtzuc9i65JU8u90cOOFPr"
+      },
+      "artists": [
+        {
+          "name": "Laroie",
+          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Stuck Here",
+      "url": "https://open.spotify.com/track/3Y0No5lXAS30OlN84b6NWv"
+    },
+    {
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy"
       },
@@ -4926,6 +4984,24 @@
       "duration_ms": 202347,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c"
+    },
+    {
+      "album": {
+        "name": "The Leash",
+        "url": "https://open.spotify.com/album/5D6d0Wvf10kBGqhf4kHzsz"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252116,
+      "name": "The Leash",
+      "url": "https://open.spotify.com/track/19xJaRGgOTrrQ7f75MaSkL"
     },
     {
       "album": {

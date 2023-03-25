@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 405566,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/17lgXGSt1GJ8M4Thl9dodV"
@@ -581,6 +581,28 @@
     },
     {
       "album": {
+        "name": "FLAPS",
+        "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        },
+        {
+          "name": "ELET\u00c9",
+          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "Flaps",
+      "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
+    },
+    {
+      "album": {
         "name": "FRONTERAS",
         "url": "https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8"
       },
@@ -614,7 +636,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 180161,
       "name": "Futuro Perfecto",
       "url": "https://open.spotify.com/track/4qDeQ3x0NRbRWCBhhKr6YA"
@@ -1626,6 +1648,32 @@
       "duration_ms": 180489,
       "name": "Ya no quiero que me busques",
       "url": "https://open.spotify.com/track/2louDYW0pvu9weBWQHlAok"
+    },
+    {
+      "album": {
+        "name": "\u00d3rbita",
+        "url": "https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        },
+        {
+          "name": "ELET\u00c9",
+          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
+        },
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "\u00d3rbita",
+      "url": "https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo"
     },
     {
       "album": {

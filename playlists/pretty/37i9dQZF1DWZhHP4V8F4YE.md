@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,055 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,149 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Stimela](https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd) | [2Point1](https://open.spotify.com/artist/6Z6xrqezBTUUDnCinhPwCO), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Nthabi Sings](https://open.spotify.com/artist/2JN2Yx7wsJaGHbtzoAE4k7) | [Stimela](https://open.spotify.com/album/6j3BUkIFmKkXGIZiyEpZ71) | 5:14 |
 | 50 | [Abracadabra \- Remix](https://open.spotify.com/track/7CDmOoIXrtknQN5zcpHRBr) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Abracadabra \(Remix\)](https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3) | 2:52 |
 
-Snapshot ID: `MTY3OTMwNjMxNiwwMDAwMDAwMDlkMjMwOTM5OTFkNmY3NWE4YjM2YjJjZDdjNjI2OTEw`
+Snapshot ID: `MTY3OTMwNjMxNiwwMDAwMDAwMGJkYjhmNjc2NzZmZDA4NWY2YmVjYzk4ZTBmMTNiZTMy`

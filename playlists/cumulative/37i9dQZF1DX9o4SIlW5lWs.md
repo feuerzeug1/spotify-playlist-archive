@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-299 songs - 17 hr 12 min
+300 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [El Polvito Del Amor](https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:08 | 2023-03-10 |  |
 | [El Precio De Tu Engaño](https://open.spotify.com/track/3JlEgwaSShOSUDABcM8Byg) | [La Silver Chance](https://open.spotify.com/artist/3pt4SBQDDGMWhR1YNakp9Q), [Toma 2](https://open.spotify.com/artist/4R8tEiRjYy5OkYzDM2u097) | [El Precio De Tu Engaño](https://open.spotify.com/album/5UCxLELhUP9Gz07Q4qqqgK) | 3:59 | 2022-04-15 | 2022-05-20 |
 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 | 2022-01-14 |  |
-| [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 | 2022-01-14 |  |
+| [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 | 2022-01-14 | 2023-03-25 |
 | [El Último Romántico](https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Último Romántico](https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT) | 4:11 | 2022-10-28 |  |
 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 | 2022-01-14 |  |
 | [Ella Es Mi Todo](https://open.spotify.com/track/7MLFa0eKyW4FfDjXNY4Qnr) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Ella Es Mi Todo](https://open.spotify.com/album/2Diitd6eEo8ttiRAK9KJdL) | 3:22 | 2022-01-14 | 2022-07-27 |
@@ -284,6 +284,7 @@
 | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87) | 4:03 | 2023-01-27 |  |
 | [Y Yo Sin Ti](https://open.spotify.com/track/6ZafhodntQlhMfzHOwlmxw) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Y Yo Sin Ti](https://open.spotify.com/album/2hWhnJTo0ollElLB8rPIjR) | 3:04 | 2023-03-10 |  |
 | [Ya Fue](https://open.spotify.com/track/4ZG6OIlBkKrSGTUgXyp0l7) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Ya Fue](https://open.spotify.com/album/1qg4HdLx0TOOeQjwFGNfwn) | 2:23 | 2022-03-11 | 2022-04-16 |
+| [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 | 2023-03-10 |  |
 | [Ya Llegó el Sabor](https://open.spotify.com/track/6L7yows5K4HrSZnz3yppeC) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:37 | 2022-01-14 | 2023-03-13 |
 | [Ya Me Entere](https://open.spotify.com/track/7IqU3VnEGCta6yVb7peofO) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [Grupo Oxigeno](https://open.spotify.com/artist/6w5pguQ6jVMJJ9f5JkNpUp) | [Ya Me Enteré](https://open.spotify.com/album/2gFnDWTl31Zr4jfQ5qIR12) | 3:33 | 2022-01-14 | 2022-07-07 |
 | [Ya No Caigo Más](https://open.spotify.com/track/7dTz3Y350lyH2LT20MxrkV) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Ya No Caigo Más](https://open.spotify.com/album/1izsLMD0QzeIDzrIyKUUkT) | 4:12 | 2022-01-21 | 2022-07-14 |

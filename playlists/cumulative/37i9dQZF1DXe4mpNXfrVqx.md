@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-127 songs - 5 hr 41 min
+128 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 | 2022-03-18 |  |
 | [Perfil \#86 \- Mpif](https://open.spotify.com/track/2wp6XCZIzphvjYvwngYfAJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#86 \- Mpif](https://open.spotify.com/album/5xy7S2y8QkzH5Zq8mBFVUI) | 3:29 | 2022-03-18 |  |
 | [Perigosa](https://open.spotify.com/track/6A7LrLiFhsji2cHwxCldXt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Perigosa](https://open.spotify.com/album/7gACjYQTZYYKNxZWHonXZg) | 2:32 | 2022-03-18 | 2022-04-23 |
+| [Pode Deixar](https://open.spotify.com/track/2qpbgLG29GE0txiUItLV30) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Brunito Beats](https://open.spotify.com/artist/1VFaGpMOpsvoS7Y8thQsnO) | [Pode Deixar](https://open.spotify.com/album/4NGwIUW0uhniJIHSLcjLW9) | 2:06 | 2023-03-24 |  |
 | [Pra Te Envolver](https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Pra Te Envolver](https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1) | 2:15 | 2022-03-18 |  |
 | [Princesinha 220v](https://open.spotify.com/track/6BBxKxvZC6oI01ujBVeI5a) | [Thaiga](https://open.spotify.com/artist/2pah7gsh8SfyngWVHzvsY4), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY) | [Princesinha 220v](https://open.spotify.com/album/6JtCRz1ZnHQWMLpqQrw5c2) | 3:27 | 2022-10-14 |  |
 | [Pula em Mim](https://open.spotify.com/track/3hIc3UgiyAF8290nR24149) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Volúpia](https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8) | 2:17 | 2022-03-18 | 2022-05-14 |
@@ -107,7 +108,7 @@
 | [Qual Teu Preço](https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Qual Teu Preço](https://open.spotify.com/album/40AYtqXg2H4S0Q37slXaBK) | 2:35 | 2022-09-23 |  |
 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 | 2022-03-18 |  |
 | [Quero Ver Pegar](https://open.spotify.com/track/4lwzCs6SGC97ha4OvW4TU1) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Quero Ver Pegar](https://open.spotify.com/album/2KCX9iuSV51vkp3vMnPQYY) | 2:10 | 2022-09-30 | 2023-03-11 |
-| [quero ver tu me parar](https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [quero ver tu me parar](https://open.spotify.com/album/5itZBBrRvXtgX0IrRBcLS3) | 2:05 | 2023-01-13 |  |
+| [quero ver tu me parar](https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [quero ver tu me parar](https://open.spotify.com/album/5itZBBrRvXtgX0IrRBcLS3) | 2:05 | 2023-01-13 | 2023-03-25 |
 | [Refém](https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Eva Grão](https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F) | 3:26 | 2022-03-18 | 2022-11-12 |
 | [Remember](https://open.spotify.com/track/1CXIJfsvPU8TQYmi6LGmNn) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Remember](https://open.spotify.com/album/0u6DBct3cUq9S9xEtTiv47) | 2:01 | 2022-08-05 | 2022-09-03 |
 | [Respeita as Minas](https://open.spotify.com/track/12eokSUVGbuNJpYZE07W8b) | [Somos um Só Banca](https://open.spotify.com/artist/6NH95N14iT8vk07LI7JoxL), [Liz Mc](https://open.spotify.com/artist/7eRDqAb3G1WpQdOq2Oxpnt), [MC Brendah](https://open.spotify.com/artist/1zcVZK6ImeqEX9vOJkSEaw), [Nubia Chris](https://open.spotify.com/artist/5IWKMNYQ8H9IuRCWOtBB1Z), [Andressa MC](https://open.spotify.com/artist/5rQZxNji6HtjNrQOeOVjas) | [Respeita as Minas](https://open.spotify.com/album/071sm1lfCvgoKA0kstQJUg) | 4:06 | 2022-03-18 | 2022-04-23 |

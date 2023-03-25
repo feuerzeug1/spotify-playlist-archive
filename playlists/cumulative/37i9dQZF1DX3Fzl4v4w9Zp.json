@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "3D Country",
+        "url": "https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313577,
+      "name": "3D Country",
+      "url": "https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr"
+    },
+    {
+      "album": {
         "name": "662",
         "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
       },
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 210840,
       "name": "C'mon Baby, Cry",
       "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
@@ -1324,6 +1342,24 @@
       "duration_ms": 285261,
       "name": "Claim Your Prize",
       "url": "https://open.spotify.com/track/6xzKyJSvApqLTlBIYDM3Jb"
+    },
+    {
+      "album": {
+        "name": "Coal River",
+        "url": "https://open.spotify.com/album/2QZMDKgCHgI5QXiERup8FL"
+      },
+      "artists": [
+        {
+          "name": "Logan Halstead",
+          "url": "https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221447,
+      "name": "Coal River",
+      "url": "https://open.spotify.com/track/1feNxzKDVyqTkGuJMrAzVF"
     },
     {
       "album": {
@@ -5834,7 +5870,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 203480,
       "name": "South Dakota Wild One",
       "url": "https://open.spotify.com/track/0BJlcD5MNOzlHZr4IeFGnj"
@@ -5986,6 +6022,28 @@
       "duration_ms": 183551,
       "name": "Still Dreaming",
       "url": "https://open.spotify.com/track/58sTNGOgZvtVanBay1EStD"
+    },
+    {
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/45f44m26ubro0tEMbeLV6T"
+      },
+      "artists": [
+        {
+          "name": "Rissi Palmer",
+          "url": "https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ"
+        },
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222839,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/4sFf1zh6NkOG3YyfE8LcBD"
     },
     {
       "album": {
@@ -7136,7 +7194,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 192706,
       "name": "We Shall Rise",
       "url": "https://open.spotify.com/track/2jSjTgkkjRfWP9EWyIiwZY"

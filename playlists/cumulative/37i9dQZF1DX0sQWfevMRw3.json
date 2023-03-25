@@ -189,6 +189,28 @@
     },
     {
       "album": {
+        "name": "Aldrig bakis (Mozby Remix)",
+        "url": "https://open.spotify.com/album/4suXqKlcnqtRByQZx1x3fx"
+      },
+      "artists": [
+        {
+          "name": "JulleMeck",
+          "url": "https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32"
+        },
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Aldrig bakis - Mozby Remix",
+      "url": "https://open.spotify.com/track/5JjSecXTv5UcyeOpqjviX6"
+    },
+    {
+      "album": {
         "name": "ALICE P\u00c5 EFTERFEST",
         "url": "https://open.spotify.com/album/6Ju6Hsiuu6bmGRLvpVT3nu"
       },
@@ -1092,7 +1114,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 166062,
       "name": "BUBBEL P\u00c5 BALKONGEN",
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
@@ -2523,6 +2545,28 @@
     },
     {
       "album": {
+        "name": "EFTERFEST",
+        "url": "https://open.spotify.com/album/14p1RDyBybTZKiSE97s4rj"
+      },
+      "artists": [
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        },
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189565,
+      "name": "EFTERFEST",
+      "url": "https://open.spotify.com/track/7MaX85drPQMBlIQrpDiU28"
+    },
+    {
+      "album": {
         "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
         "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
@@ -2730,6 +2774,32 @@
       "duration_ms": 118075,
       "name": "EN TJEI I MITT LIV",
       "url": "https://open.spotify.com/track/5RKaSx9Erfsvr0MlJTKy8f"
+    },
+    {
+      "album": {
+        "name": "EPA-DUNK",
+        "url": "https://open.spotify.com/album/0HpruUo3vf4av80uOam0Nv"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "JeppsoN",
+          "url": "https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "EPA-DUNK",
+      "url": "https://open.spotify.com/track/2xmecrRjtbkNYGxI092NVW"
     },
     {
       "album": {
@@ -3062,7 +3132,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 148615,
       "name": "Fem Komma Tv\u00e5an",
       "url": "https://open.spotify.com/track/0NqCZdt2xjbmlK87XwfZXC"
@@ -3080,7 +3150,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 127629,
       "name": "FESTA HELA NATTEN",
       "url": "https://open.spotify.com/track/5t7HXhpi1baZ0XRfuZqICh"
@@ -3545,6 +3615,24 @@
     },
     {
       "album": {
+        "name": "Fullst\u00e4ndiga r\u00e4ttigheter",
+        "url": "https://open.spotify.com/album/27DskzlhXBvfku02Y67MiP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Kontant",
+          "url": "https://open.spotify.com/artist/7DIGdL2MQip9hjAq5XL9bK"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135096,
+      "name": "Fullst\u00e4ndiga r\u00e4ttigheter",
+      "url": "https://open.spotify.com/track/0bkcUcdog9rxwyXRJgv5NO"
+    },
+    {
+      "album": {
         "name": "Fun",
         "url": "https://open.spotify.com/album/0tLw6l374Kc8Mm574NUeFI"
       },
@@ -3578,7 +3666,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 152000,
       "name": "FYLLA I BILEN",
       "url": "https://open.spotify.com/track/5yCnmCXFbfXoXugaxG3VgT"
@@ -3770,6 +3858,32 @@
       "duration_ms": 140886,
       "name": "GE MIG BIRA",
       "url": "https://open.spotify.com/track/4Pxdfycx6QyWRX97hKYnJu"
+    },
+    {
+      "album": {
+        "name": "GE MIG EN \u00d6L!",
+        "url": "https://open.spotify.com/album/5xdTYgIElXmH8OdWk94NuD"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "BR\u00d6DERNA",
+          "url": "https://open.spotify.com/artist/4a6DvPdDlrWhE2JuxL3eyT"
+        },
+        {
+          "name": "Lurifaks",
+          "url": "https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "GE MIG EN \u00d6L!",
+      "url": "https://open.spotify.com/track/7LXJDK4XRMOtQPlLWZjUKL"
     },
     {
       "album": {
@@ -4176,7 +4290,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 153896,
       "name": "Guld och gr\u00f6na skogar",
       "url": "https://open.spotify.com/track/47a6WikXgLuoinsW1aqZ11"
@@ -4450,7 +4564,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 136000,
       "name": "Helt J\u00e4vla Dum",
       "url": "https://open.spotify.com/track/2duXCmf44h6zbBV8fVGcfC"
@@ -4502,6 +4616,32 @@
       "duration_ms": 188981,
       "name": "HEMK\u00d6RT",
       "url": "https://open.spotify.com/track/14WpHJ2bjbMJ6t0HPAlTif"
+    },
+    {
+      "album": {
+        "name": "Hemmafest",
+        "url": "https://open.spotify.com/album/79X3g6aYPvBs2uUp3nHR4u"
+      },
+      "artists": [
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        },
+        {
+          "name": "Mojnz",
+          "url": "https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st"
+        },
+        {
+          "name": "NORDB\u00d8YZ",
+          "url": "https://open.spotify.com/artist/0uUeZp50KXx1WCREiEop8y"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159026,
+      "name": "Hemmafest",
+      "url": "https://open.spotify.com/track/5qkhIwHsI8alxOPn9Cycxe"
     },
     {
       "album": {
@@ -7220,7 +7360,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 130560,
       "name": "N\u00c4R RADION D\u00c5NAR",
       "url": "https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1"
@@ -8125,6 +8265,32 @@
     },
     {
       "album": {
+        "name": "RAGGARGUBBE",
+        "url": "https://open.spotify.com/album/3tspwZY812pq1B7t0SVXvD"
+      },
+      "artists": [
+        {
+          "name": "BR\u00d6DERNA",
+          "url": "https://open.spotify.com/artist/4a6DvPdDlrWhE2JuxL3eyT"
+        },
+        {
+          "name": "Preb",
+          "url": "https://open.spotify.com/artist/5ivRokF2N9UsI4d4p7N8nG"
+        },
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150193,
+      "name": "RAGGARGUBBE",
+      "url": "https://open.spotify.com/track/4SbnBHlGC5N0XZfNbm0Agm"
+    },
+    {
+      "album": {
         "name": "RAGGARHIMLEN",
         "url": "https://open.spotify.com/album/2YQ2wXQ9xvjCyn62zhA5Zy"
       },
@@ -8224,7 +8390,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 131571,
       "name": "Raggen m\u00e5ste g\u00e5",
       "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
@@ -9195,6 +9361,24 @@
     },
     {
       "album": {
+        "name": "Smell",
+        "url": "https://open.spotify.com/album/29Z4Ntz0A0FKQ3y4X0hyYq"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153982,
+      "name": "Smell",
+      "url": "https://open.spotify.com/track/3Q2IqIcvSIfm3bBvlHnZMO"
+    },
+    {
+      "album": {
         "name": "Sm\u00e5stadsbarn",
         "url": "https://open.spotify.com/album/02KeH86FYjuw8Td8c1vhb5"
       },
@@ -9280,6 +9464,32 @@
       "duration_ms": 125624,
       "name": "SNURRAR SOM ETT HJUL",
       "url": "https://open.spotify.com/track/08TmjaKrRDvnRfuMWccWsN"
+    },
+    {
+      "album": {
+        "name": "SN\u00c4LLA SOV MED MIG",
+        "url": "https://open.spotify.com/album/3B7bHqA4GSfqCZcx5hyxkL"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        },
+        {
+          "name": "Mr. P",
+          "url": "https://open.spotify.com/artist/5K6cIE6i4ZIWFlrpzi2T5u"
+        },
+        {
+          "name": "Jofa",
+          "url": "https://open.spotify.com/artist/3Wis8lYSGuybe6pMwUT7Ug"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136870,
+      "name": "SN\u00c4LLA SOV MED MIG",
+      "url": "https://open.spotify.com/track/2tLlVy7fuuoLyunFDoKiUZ"
     },
     {
       "album": {
@@ -9866,7 +10076,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 178148,
       "name": "SUPA",
       "url": "https://open.spotify.com/track/4gORd3Ws62ueWU2tQ2Fe16"

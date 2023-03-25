@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "27 Club",
+        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214137,
+      "name": "27 Club",
+      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
+    },
+    {
+      "album": {
         "name": "3am",
         "url": "https://open.spotify.com/album/1sMVWxsUWC5UKxKFQYMAKM"
       },
@@ -478,6 +496,24 @@
       "duration_ms": 155109,
       "name": "Bonsai",
       "url": "https://open.spotify.com/track/2Js2COGl7htc00CjZ2L2CO"
+    },
+    {
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189624,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
     },
     {
       "album": {
@@ -1228,10 +1264,28 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 196985,
       "name": "De ma Tour",
       "url": "https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389948,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
     },
     {
       "album": {
@@ -1246,7 +1300,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 178146,
       "name": "Delicadeza",
       "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
@@ -1657,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400037,
+      "name": "Earth To Sea",
+      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+    },
+    {
+      "album": {
         "name": "Electric Dream",
         "url": "https://open.spotify.com/album/6x6ldV8SHiyOLGXvYodN3d"
       },
@@ -1892,6 +1964,42 @@
       "duration_ms": 226041,
       "name": "Fortunes",
       "url": "https://open.spotify.com/track/0sKMqfLQfT5py9Rzo3w0ge"
+    },
+    {
+      "album": {
+        "name": "French Movie",
+        "url": "https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb"
+      },
+      "artists": [
+        {
+          "name": "Bubble Tea and Cigarettes",
+          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "French Movie",
+      "url": "https://open.spotify.com/track/5neke7wAgH6BT43KoYgowg"
+    },
+    {
+      "album": {
+        "name": "Silver Lake Listening Companion",
+        "url": "https://open.spotify.com/album/0l1A462jfLO3ZYWMzZcZH0"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141187,
+      "name": "From the Subway Train - Extended Version",
+      "url": "https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy"
     },
     {
       "album": {
@@ -2520,7 +2628,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 173476,
       "name": "In Manchester",
       "url": "https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI"
@@ -2646,7 +2754,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 203992,
       "name": "Irrational",
       "url": "https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z"
@@ -2880,7 +2988,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 160262,
       "name": "Just Like Fireflies",
       "url": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q"
@@ -3255,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+    },
+    {
+      "album": {
         "name": "Cabin Fever Dreams",
         "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
@@ -3595,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "Notice Me",
+        "url": "https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce"
+    },
+    {
+      "album": {
         "name": "Now It's Gone",
         "url": "https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr"
       },
@@ -3610,6 +3754,24 @@
       "duration_ms": 245826,
       "name": "Now It's Gone",
       "url": "https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9"
+    },
+    {
+      "album": {
+        "name": "number own",
+        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159032,
+      "name": "number own",
+      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
     },
     {
       "album": {
@@ -3848,7 +4010,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 279423,
       "name": "Overseas/BACK 2 U",
       "url": "https://open.spotify.com/track/0lb6PK0emykiClk9cB1Gw2"
@@ -4472,6 +4634,24 @@
       "duration_ms": 318612,
       "name": "Seems Like Forever",
       "url": "https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv"
+    },
+    {
+      "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294640,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
     },
     {
       "album": {
@@ -5260,7 +5440,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 235653,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
@@ -5278,7 +5458,7 @@
       ],
       "date_added": "2020-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 277492,
       "name": "The Heart",
       "url": "https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd"
@@ -5458,7 +5638,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 239260,
       "name": "Under the Sea",
       "url": "https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE"
@@ -6036,7 +6216,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 204178,
       "name": "\u00c9lan Vital (feat. \u4e45\u4fdd\u7530\u30ea\u30e7\u30a6\u30d8\u30a4)",
       "url": "https://open.spotify.com/track/6aOE6O7Q6F9DBD1Gx6hztn"

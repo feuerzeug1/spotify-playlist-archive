@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-57 songs - 4 hr 53 min
+58 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Riflessione finale](https://open.spotify.com/track/1rlFvwrdtu1dO7iB8ZoBUl) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Sfinge](https://open.spotify.com/album/35JBlxCx7XjzZDD5XbR76s) | 4:26 | 2022-07-19 |  |
 | [Sabato Italiano](https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Sabato italiano](https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD) | 4:33 | 2022-07-19 |  |
 | [Sage comme une image](https://open.spotify.com/track/7oGjw4xAObRO7Px0mmbTFu) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Sage comme une image](https://open.spotify.com/album/51vYwR3DFOurYyO7kOcTCT) | 3:42 | 2022-07-19 |  |
-| [Satan in Love](https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp) | 3:37 | 2022-07-19 |  |
+| [Satan in Love](https://open.spotify.com/track/19BrvODRFitoD156Syg7nW) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/2n9PPXncxZeGFBGgWD6JT5) | 3:37 | 2022-07-19 |  |
+| [Satan in Love](https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp) | 3:37 | 2022-07-19 | 2023-03-25 |
 | [Se Tu Vuoi](https://open.spotify.com/track/0YDc4kVUW7J0Yr908XFEUa) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Canto Per Te](https://open.spotify.com/album/2T4GTTm7POJdcUfRKn4EC1) | 3:40 | 2022-07-19 |  |
 | [Sexy Pummarola](https://open.spotify.com/track/6gXj04PNcGzYS0LjNVrxNh) | [Gibo & Pummarola Band](https://open.spotify.com/artist/7fDyEm4yGOFMKnWv9GFRXA) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 3:31 | 2022-07-19 |  |
 | [Song for You](https://open.spotify.com/track/0u8ZMXcwzcKqQnWqcCAvLB) | [Popcorn](https://open.spotify.com/artist/1OjLkKWa1sOm8onEQUrZLQ) | [Prime Choice](https://open.spotify.com/album/3w6kQTZlkeOk28IVFwirEt) | 4:33 | 2022-07-19 |  |

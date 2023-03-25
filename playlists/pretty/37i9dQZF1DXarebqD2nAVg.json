@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 413857,
+  "num_followers": 414170,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMDg1MWZlNTBkMDA5ZDMxY2MzZGM3MGY0Y2MxOWNmNjVi",
+  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMGMzOTAxMDliODg3MDg0YWU3ZGM1Njc2NDE5YzhkMTcx",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -115,6 +115,26 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "I'll Keep You Safe",
+        "url": "https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX"
+      },
+      "artists": [
+        {
+          "name": "sagun",
+          "url": "https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "I'll Keep You Safe",
+      "url": "https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "i'm closing my eyes",
         "url": "https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w"
       },
@@ -203,22 +223,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "[oops]",
-        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "[oops]",
-      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
       },
@@ -267,6 +271,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "[oops]",
+        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "[oops]",
+      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "I Can't Tell You How Much It Hurts",
         "url": "https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 97050,
       "name": "You're in My Head",
       "url": "https://open.spotify.com/track/6xLeyTBwtgC1hQWFJ1vlC2"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Safe (feat. Shiloh)",
-        "url": "https://open.spotify.com/album/6r33t1qiEt1UfJrByhcdn9"
-      },
-      "artists": [
-        {
-          "name": "Bra Dy",
-          "url": "https://open.spotify.com/artist/6tTaHSgwQ4Ld5lBKAc93Bd"
-        },
-        {
-          "name": "Shiloh",
-          "url": "https://open.spotify.com/artist/2hkB8tem6WtX6015adeOXU"
-        }
-      ],
-      "duration_ms": 185898,
-      "name": "Safe (feat. Shiloh)",
-      "url": "https://open.spotify.com/track/0TMez4fjyOAciXn4VefMNU"
     },
     {
       "added_at": "2023-02-16 22:50:07",

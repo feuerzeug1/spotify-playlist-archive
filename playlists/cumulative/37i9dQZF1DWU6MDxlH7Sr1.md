@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-225 songs - 15 hr 0 min
+229 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,10 @@
 | [Dog Day](https://open.spotify.com/track/1XMZnGBdPepIKvMFai5v2f) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Dog Day](https://open.spotify.com/album/6XaCeKX8eXfyQQWseBzknI) | 3:39 | 2022-10-06 |  |
 | [Dolphin Dance](https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 4:54 | 2022-04-26 | 2023-01-20 |
 | [Dream A Little Dream](https://open.spotify.com/track/4WTZZfZC8DUontKybMe0ls) | [Tom Lewis Band](https://open.spotify.com/artist/2RJB1Zbmj9IK6f3OPHUBVx) | [Dream A Little Dream](https://open.spotify.com/album/4MU6tyhz6jdSLdR8wo4f9H) | 3:44 | 2022-04-26 | 2022-12-09 |
+| [Early Mornings](https://open.spotify.com/track/4a0p3YclRTqjojqSG75XLK) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:35 | 2023-03-23 |  |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-06 |  |
 | [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 | 2022-04-26 | 2022-12-24 |
+| [Endless Winter](https://open.spotify.com/track/3EkZ1haTIg5HuKPD3oTBsJ) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Longing](https://open.spotify.com/album/5rsGpNrx2eRG3Q4f6smqcC) | 3:56 | 2023-03-23 |  |
 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-08 |  |
 | [Everytime We Fall](https://open.spotify.com/track/4ZGlMy7TmvZNYTacuIyqSo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Everytime We Fall](https://open.spotify.com/album/7DCCFRB1jWvUpP9lDZh03Y) | 3:43 | 2023-02-09 |  |
 | [Exactly Like You](https://open.spotify.com/track/4gogxeItIt50DZFZrzCqqt) | [Ray Brown Trio](https://open.spotify.com/artist/3kcjzDWaSVR3VqgEIBZIdo), [Gene Harris](https://open.spotify.com/artist/7HZokAjDop6Gjgtghfr8lp), [Phil Edwards](https://open.spotify.com/artist/1L6YiOqUa0q8GJmgF8xqUd) | [Soular Energy](https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8) | 5:45 | 2022-04-26 | 2022-11-18 |
@@ -134,6 +136,7 @@
 | [Love Walked In](https://open.spotify.com/track/1H460eor4CG8p8OAz7TGYM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Love Walked In](https://open.spotify.com/album/47lb71I4VeNVfdXZma2o3M) | 3:40 | 2022-05-17 |  |
 | [Lucky To Be Me](https://open.spotify.com/track/4mTBd1yNfpjivl5lHorkiw) | [Ten Thirty Trio](https://open.spotify.com/artist/5bMQvYFq5ic1QxUDaGPyeb) | [Lucky To Be Me](https://open.spotify.com/album/2SlisjeQUgoA3qCocBRzcp) | 3:43 | 2022-04-26 | 2022-09-07 |
 | [Ludlow](https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:03 | 2022-12-22 |  |
+| [Lunar Eclipse](https://open.spotify.com/track/0Q9gFXZfjSQKXgjnqhgmnm) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:32 | 2023-03-23 |  |
 | [Makin' Whoopee](https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 4:31 | 2022-04-26 | 2022-10-28 |
 | [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-09-29 | 2023-02-03 |
 | [Manhattan](https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Brass/Trio](https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon) | 4:30 | 2022-04-26 | 2022-08-31 |
@@ -183,7 +186,7 @@
 | [Socks And Sandals](https://open.spotify.com/track/33HRgQotoW6raDZVZs3Rxk) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Socks And Sandals](https://open.spotify.com/album/1dWIVAbxe91cDNhrMJ5fFV) | 3:39 | 2022-04-26 | 2023-01-06 |
 | [Softly As In A Morning Sunrise \- Remastered](https://open.spotify.com/track/3DZShPBwoWAfFgPKBUcFFJ) | [Sonny Clark Trio](https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw) | [Sonny Clark Trio \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH) | 6:33 | 2022-04-26 | 2022-11-18 |
 | [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-02-23 |  |
-| [Sommar och äng](https://open.spotify.com/track/7CVoy8EgYOlKv3utyu8bcF) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Sommar & äng](https://open.spotify.com/album/1MRmHT0n0XjI6GJYgYVrG4) | 3:00 | 2022-08-10 |  |
+| [Sommar och äng](https://open.spotify.com/track/7CVoy8EgYOlKv3utyu8bcF) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Sommar & äng](https://open.spotify.com/album/1MRmHT0n0XjI6GJYgYVrG4) | 3:00 | 2022-08-10 | 2023-03-25 |
 | [Soon](https://open.spotify.com/track/2fAydkC38qWCHMDz5WjhGk) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Soon](https://open.spotify.com/album/4Zj16QaY58OccNy2W9ohpE) | 4:21 | 2022-08-10 | 2023-03-02 |
 | [Souvenir](https://open.spotify.com/track/47yAskmqMUSR3W0lte2E1v) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja), [Scott Colley](https://open.spotify.com/artist/2xXlVRnJO7vxdGV8Z2nWjb), [Dennis Mackrel](https://open.spotify.com/artist/3PUIxfK6P8boslOXGpZPoK) | [Souvenir](https://open.spotify.com/album/3brxc2ayHoVUxk8PhXFZ8A) | 7:56 | 2022-04-26 | 2022-09-21 |
 | [Speak Low](https://open.spotify.com/track/4qY2rgB6SJM9F1RPaLeGcz) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:41 | 2022-04-26 |  |
@@ -200,6 +203,7 @@
 | [That Old Feeling](https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Cool Imagination](https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY) | 5:45 | 2022-06-29 | 2023-02-03 |
 | [That Old Feeling](https://open.spotify.com/track/42Tiidz9wZVBQSm9HZlcQv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 5:46 | 2022-04-26 | 2022-07-29 |
 | [That´s All](https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [That´s All](https://open.spotify.com/album/07jtuEoMDVUHQLvXs3IoFN) | 3:16 | 2022-08-30 |  |
+| [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-23 |  |
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-05 |  |
 | [The Best Thing for You \(Would Be Me\)](https://open.spotify.com/track/6D7Eeu0HEa6f08wNIfCe1Q) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [The Best Thing for You \(Would Be Me\)](https://open.spotify.com/album/73hmWKPyXjuoWz1GYUFJ7Y) | 3:38 | 2022-04-26 | 2023-02-03 |
 | [The Boy Next Door](https://open.spotify.com/track/0A3gD0jTXt9p3Nnc8cCUsI) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [The Boy Next Door](https://open.spotify.com/album/4HfzExis74eBJwbxyX7QHD) | 3:10 | 2022-10-27 |  |

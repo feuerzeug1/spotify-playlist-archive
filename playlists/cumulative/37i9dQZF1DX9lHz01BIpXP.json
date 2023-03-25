@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 119301,
       "name": "Hi Mitchell",
       "url": "https://open.spotify.com/track/0W1f1HfOqPyBQ5VLoc9lgL"
@@ -1107,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "Sal Alright is",
+        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
+      },
+      "artists": [
+        {
+          "name": "Shameel Afrikaans Music",
+          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
+        },
+        {
+          "name": "BIGDMUZIC",
+          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252395,
+      "name": "Sal Alright is",
+      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
+    },
+    {
+      "album": {
         "name": "Sex in Afrikaans",
         "url": "https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e"
       },
@@ -1226,7 +1248,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 197725,
       "name": "Syfers",
       "url": "https://open.spotify.com/track/0ZpttaASCFswJdD8sJprbJ"
@@ -1292,6 +1314,24 @@
       "duration_ms": 183062,
       "name": "There It Is",
       "url": "https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS"
+    },
+    {
+      "album": {
+        "name": "Big Cee",
+        "url": "https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz"
+      },
+      "artists": [
+        {
+          "name": "Cee Jay Zondagh",
+          "url": "https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Trap In Die Hood",
+      "url": "https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym"
     },
     {
       "album": {

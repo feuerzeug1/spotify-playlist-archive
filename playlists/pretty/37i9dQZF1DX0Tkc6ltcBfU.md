@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,327 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,540 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 16 | [Dirt](https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dirt](https://open.spotify.com/album/2sqLz4jIy1GU7tVXMqxgD2) | 3:19 |
 | 17 | [UNDEFEATED](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [UNDEFEATED](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 |
 | 18 | [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 |
-| 19 | [Fat Racks Pt\. 2](https://open.spotify.com/track/7LWj7OYNxpBEnsc3kzezEj) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/5hYM8bF77qRIYoSztYb2cR) | 3:43 |
+| 19 | [Fat Racks Pt\. 2](https://open.spotify.com/track/2c4ticJc3SJRjnz6H9BKbp) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/72tHL4WxcC4A0YLIl1Jlmr) | 3:43 |
 | 20 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:20 |
 | 21 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 |
 | 22 | [Worldwide](https://open.spotify.com/track/3LPRQj9WTRnpCBVPy5kKTn) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Worldwide](https://open.spotify.com/album/2N8XuavIz610jzUVbdsNHf) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [On Site](https://open.spotify.com/track/2x3lGxurMUvLFEzFwlbxu9) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [On Site](https://open.spotify.com/album/4PPVPIBL5d0h5EzSwfhIgK) | 3:08 |
 | 50 | [Bend It Over](https://open.spotify.com/track/3L29JZ7rEnfAxigaQvWr69) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Bend It Over](https://open.spotify.com/album/2Q1xSOvzYNO9tS5rpxJ0SS) | 2:55 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDgzMjEzZDFlMWYxM2ZlNzhjOWYwMTBmODBiZWZiMjNm`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDJkMDVkMjRkMjMxNWYxNGQ3M2JiYTI3M2IwMTQ1NGIw`

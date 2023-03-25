@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: ALO
 
-106 songs - 10 hr 10 min
+107 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Another Plan of Attack](https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Another Plan of Attack](https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k) | 6:34 | 2022-12-09 |  |
 | [Arcadia](https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Moon Cabin](https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg) | 6:35 | 2022-06-23 |  |
 | [Babyman](https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Circles Around the Sun](https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy) | 5:57 | 2022-06-23 | 2023-03-18 |
+| [Bittersweet Ending \(Kev Rowe\)](https://open.spotify.com/track/3G5ZL9PIMtZxVs8TfG3L3p) | [Kev Rowe](https://open.spotify.com/artist/1hTerDFNMFDQGcwDMJHAVm) | [Bittersweet Ending \(Kev Rowe\)](https://open.spotify.com/album/2IWYnfeMxqlzIMVcRx8vfI) | 3:38 | 2023-03-24 |  |
 | [Blow You Away](https://open.spotify.com/track/6dbqL8257GSYfwiAVGD5W4) | [Daniel Hardin](https://open.spotify.com/artist/4qWbNJklW8aRvZSb8gCi22), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Blow You Away](https://open.spotify.com/album/70MEaXYusonEFxCPoKnvsi) | 4:49 | 2022-06-23 |  |
 | [Burning the Hardwood Floor \(Live\)](https://open.spotify.com/track/1zgPMQXv5YtUUn5GA3njWj) | [Airshow](https://open.spotify.com/artist/2USLUiPGlv1amJy3gUszGw) | [Live 02.05.22 \(High Cotton Brewing Company \- Memphis, TN\)](https://open.spotify.com/album/068pAkEPmPbbaSTCfN8tef) | 8:49 | 2022-09-16 |  |
 | [Chapanga](https://open.spotify.com/track/4h2SJ0PCKNa6y02KofNSIm) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Cycles](https://open.spotify.com/album/1XmsC5vZ8s9kLp0RqYHN3y) | 5:41 | 2022-06-23 |  |
@@ -86,7 +87,7 @@
 | [So Hi](https://open.spotify.com/track/61pEdaki064tmSbbmaS276) | [Florida Man](https://open.spotify.com/artist/0HLjLkTibYsCmYZAKOvycy) | [So Hi // So Lo](https://open.spotify.com/album/4H0JNm9NuL5vdpsVEk6mdu) | 4:48 | 2022-12-09 |  |
 | [Song for Us](https://open.spotify.com/track/57lOagpbrS9oL3pHcXQONR) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:41 | 2022-06-23 |  |
 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 | 2022-08-12 |  |
-| [Sparrow](https://open.spotify.com/track/0ZbXD5Y9Q0siy3q0dzHHCU) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Sparrow](https://open.spotify.com/album/1amMcbuQSjgMcAE8dHM6qb) | 4:51 | 2023-02-10 |  |
+| [Sparrow](https://open.spotify.com/track/0ZbXD5Y9Q0siy3q0dzHHCU) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Sparrow](https://open.spotify.com/album/1amMcbuQSjgMcAE8dHM6qb) | 4:51 | 2023-02-10 | 2023-03-25 |
 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 | 2022-06-23 |  |
 | [Staircase](https://open.spotify.com/track/4L5BJVlGVFCnd79kRxo2lH) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Staircase](https://open.spotify.com/album/1kTFnkAx4RVkjuh1rNtWFD) | 4:30 | 2023-02-17 |  |
 | [Sweater Weather](https://open.spotify.com/track/67PW34NuiTcwvLJzTHJF5k) | [Desmond Jones](https://open.spotify.com/artist/0UU2zglZ7Rk4v2FIY9OMOv) | [Rays of Light and Stardust](https://open.spotify.com/album/4ILXLVxldlo4VkvJNQz09S) | 3:49 | 2022-09-09 |  |

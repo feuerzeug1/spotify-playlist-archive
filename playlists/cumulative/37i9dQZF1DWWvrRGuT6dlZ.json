@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: rhyu. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: Sun Cell. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -100,8 +100,8 @@
       },
       "artists": [
         {
-          "name": "Eddi",
-          "url": "https://open.spotify.com/artist/7g6DD786gs71isEOrIKy94"
+          "name": "khayr",
+          "url": "https://open.spotify.com/artist/3fZ2biq7TE8pYQLDGfRd2A"
         }
       ],
       "date_added": "2022-11-10",
@@ -2961,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "i miss you",
+        "url": "https://open.spotify.com/album/4n0BFspnQv8EaKwbI1ZymX"
+      },
+      "artists": [
+        {
+          "name": "Toska",
+          "url": "https://open.spotify.com/artist/3Y7o0EykMnj6Ll6vsF951H"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151640,
+      "name": "i miss you",
+      "url": "https://open.spotify.com/track/2F6yCLZrsXP910MnC5K3TE"
+    },
+    {
+      "album": {
         "name": "I Need",
         "url": "https://open.spotify.com/album/7qtq733WGadDuSWcAcHMK6"
       },
@@ -4199,6 +4217,28 @@
     },
     {
       "album": {
+        "name": "mullet",
+        "url": "https://open.spotify.com/album/6bwEr7NHlRowHbRPeD6PNc"
+      },
+      "artists": [
+        {
+          "name": "Syamil",
+          "url": "https://open.spotify.com/artist/2gYfOpC3v81qRZJdrsXuAD"
+        },
+        {
+          "name": "F.Rider",
+          "url": "https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "mullet",
+      "url": "https://open.spotify.com/track/1xvt7OdsqFXQPcg9xQ5KAk"
+    },
+    {
+      "album": {
         "name": "My World Too",
         "url": "https://open.spotify.com/album/4f1F2OfvY2ZsRUz7ic1Yfz"
       },
@@ -4800,7 +4840,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 212500,
       "name": "Over You",
       "url": "https://open.spotify.com/track/2rPcyAVICh3MyhKrMLbeVt"
@@ -5438,6 +5478,28 @@
       "duration_ms": 184388,
       "name": "see you soon",
       "url": "https://open.spotify.com/track/6NRZ7rvVhYhMUF575qdzcR"
+    },
+    {
+      "album": {
+        "name": "Shackle",
+        "url": "https://open.spotify.com/album/0PMR3GiPKDrdJslDDoEgHN"
+      },
+      "artists": [
+        {
+          "name": "MSPUIYI",
+          "url": "https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul"
+        },
+        {
+          "name": "NYK",
+          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196992,
+      "name": "Shackle",
+      "url": "https://open.spotify.com/track/2BPyKPCI4MMzUishOYGYJu"
     },
     {
       "album": {
@@ -7388,6 +7450,24 @@
       "duration_ms": 208235,
       "name": "YOUR EYES",
       "url": "https://open.spotify.com/track/7cKS9sDxGbbEe34KwagpoG"
+    },
+    {
+      "album": {
+        "name": "your house",
+        "url": "https://open.spotify.com/album/5pntsh2IcPL9enaBlv5OXl"
+      },
+      "artists": [
+        {
+          "name": "Sun Cell",
+          "url": "https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172017,
+      "name": "your house",
+      "url": "https://open.spotify.com/track/25XLHOoj2IWaUyQ25Y70qu"
     },
     {
       "album": {

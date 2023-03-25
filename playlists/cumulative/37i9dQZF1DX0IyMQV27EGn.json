@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "album": {
         "name": "Fetch The Bolt Cutters",
         "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
       },
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 171173,
       "name": "Presence",
       "url": "https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o"

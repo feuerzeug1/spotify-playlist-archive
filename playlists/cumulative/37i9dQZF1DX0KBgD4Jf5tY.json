@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente, aggiornata ogni venerd\u00ec. Cover: <a href=\"spotify:artist:4OcuLUpqOjSYlrZN8W87Qn\">comeilmiele</a>",
+  "description": "Solo musica indipendente, aggiornata ogni venerd\u00ec. Cover: <a href=\"spotify:artist:2QwnSHVij7aOFnIb1UVAF6\">NARA</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 120208,
       "name": "2022",
       "url": "https://open.spotify.com/track/2axmOv5CUQUxScqDMitFII"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174600,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/49oB919DH3ZLueMATRryr1"
@@ -850,6 +850,24 @@
       "duration_ms": 181578,
       "name": "Amati e vai avanti",
       "url": "https://open.spotify.com/track/5GEYjGhSYeuBwTG9ke2kDw"
+    },
+    {
+      "album": {
+        "name": "Amazzonia",
+        "url": "https://open.spotify.com/album/2797Y9YsTfPKJe2Zsr6HKJ"
+      },
+      "artists": [
+        {
+          "name": "segreta",
+          "url": "https://open.spotify.com/artist/4QaGDM9EzCr3OeAjTJ6vE9"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223371,
+      "name": "Amazzonia",
+      "url": "https://open.spotify.com/track/24JzyZfhorPNXmbVDnw0Do"
     },
     {
       "album": {
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 179500,
       "name": "Astri",
       "url": "https://open.spotify.com/track/5MsS8cB8oV3MkcwGM4UWcu"
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 160722,
       "name": "BUCO DI PERIFERIA",
       "url": "https://open.spotify.com/track/0bN7OS49bUnAXYBeL7ZOZG"
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 153620,
       "name": "Circuito Cielo",
       "url": "https://open.spotify.com/track/5Ehm0YntXCJ86d9Ki5cdKE"
@@ -3251,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "Domani",
+        "url": "https://open.spotify.com/album/2PhVDxa44VelBbDiMH7E0x"
+      },
+      "artists": [
+        {
+          "name": "NYX",
+          "url": "https://open.spotify.com/artist/1RzE3e8u66CAb4tAyhqK6i"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197636,
+      "name": "Domani",
+      "url": "https://open.spotify.com/track/0dkfRcKYEPI1FQahL1M4Ro"
+    },
+    {
+      "album": {
         "name": "Domani (Yakamoz)",
         "url": "https://open.spotify.com/album/6cA9My1RZ08CxpdR29VQFX"
       },
@@ -3685,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/6R3eEigsJw7Jngjbmd0glX"
+      },
+      "artists": [
+        {
+          "name": "D'Amore",
+          "url": "https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147214,
+      "name": "FACE",
+      "url": "https://open.spotify.com/track/4F2kVTCr769etEgD8uvmeh"
+    },
+    {
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/2RGUJun6AQFdrsZ29xy37C"
       },
@@ -3864,7 +3918,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 163894,
       "name": "Figli dei fiori",
       "url": "https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf"
@@ -3890,6 +3944,32 @@
       "duration_ms": 168000,
       "name": "Figlio d'Arte",
       "url": "https://open.spotify.com/track/4Ah0my37c8Aj6RVucNF4c5"
+    },
+    {
+      "album": {
+        "name": "FILM",
+        "url": "https://open.spotify.com/album/2immDl2yt5w1PfvL0Cqwr4"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e8s Las",
+          "url": "https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO"
+        },
+        {
+          "name": "Dalu",
+          "url": "https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi"
+        },
+        {
+          "name": "Draw Ice",
+          "url": "https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "FILM",
+      "url": "https://open.spotify.com/track/5nPOa1NCVgZ55VmVoYYL6E"
     },
     {
       "album": {
@@ -4216,7 +4296,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 151500,
       "name": "fujiko",
       "url": "https://open.spotify.com/track/5MO0H6qxFTLOmjQbLrp3tm"
@@ -4490,7 +4570,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 360000,
       "name": "Gomma",
       "url": "https://open.spotify.com/track/5yMdGPcrZZ9vd6xp5DJjP9"
@@ -4978,7 +5058,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 169000,
       "name": "IN 7",
       "url": "https://open.spotify.com/track/5SRhy7NvDOD7VBFbW78Wd1"
@@ -5380,7 +5460,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 188531,
       "name": "Kucina Disco Dance",
       "url": "https://open.spotify.com/track/0DUxLdVsLX5PSqC8ZGNEqG"
@@ -7699,6 +7779,24 @@
     },
     {
       "album": {
+        "name": "Non \u00e8 cosa mia",
+        "url": "https://open.spotify.com/album/1Y33ljafYTHjloEma10wdF"
+      },
+      "artists": [
+        {
+          "name": "Superbia",
+          "url": "https://open.spotify.com/artist/75jvHnOAwUxO98kv35UVg9"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144915,
+      "name": "Non \u00e8 cosa mia",
+      "url": "https://open.spotify.com/track/1DcWP1xyJXHzg07MeJdkUo"
+    },
+    {
+      "album": {
         "name": "non \u00e8 giusto x me",
         "url": "https://open.spotify.com/album/6yj68pJiY2jiGUDlA1DVaq"
       },
@@ -7768,7 +7866,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 199500,
       "name": "Not Like You",
       "url": "https://open.spotify.com/track/7jQ635H5m7V2s46g1wiQJ0"
@@ -8564,7 +8662,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 197579,
       "name": "Piove Dentro",
       "url": "https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk"
@@ -9826,7 +9924,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 248300,
       "name": "Screenlight",
       "url": "https://open.spotify.com/track/6fJaEOy0lnMPdULAu6vFLP"
@@ -10312,6 +10410,32 @@
       "duration_ms": 190942,
       "name": "Solo Insieme",
       "url": "https://open.spotify.com/track/7FTRmUthoMgAWpwUiDb1X8"
+    },
+    {
+      "album": {
+        "name": "Solo Pollo",
+        "url": "https://open.spotify.com/album/14qMVgdkBj3snOeLWwSYZO"
+      },
+      "artists": [
+        {
+          "name": "Giovane Feddini",
+          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
+        },
+        {
+          "name": "Ric de Large",
+          "url": "https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu"
+        },
+        {
+          "name": "Drimer",
+          "url": "https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266858,
+      "name": "Solo Pollo",
+      "url": "https://open.spotify.com/track/4jsCuELpXvxCFYPAlHnGcd"
     },
     {
       "album": {
@@ -11169,6 +11293,24 @@
     },
     {
       "album": {
+        "name": "the island",
+        "url": "https://open.spotify.com/album/4DvOCQKXzCF7XzEd56OWJy"
+      },
+      "artists": [
+        {
+          "name": "YONIRO",
+          "url": "https://open.spotify.com/artist/1i8LCo49iaXGwXOHKwPAxq"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "the island",
+      "url": "https://open.spotify.com/track/4CPaFknSA4EcipfNiw4z9Y"
+    },
+    {
+      "album": {
         "name": "The Waves Are Calling Us",
         "url": "https://open.spotify.com/album/7Ac7px1tf2hVYgCy5kIDLt"
       },
@@ -11232,6 +11374,24 @@
       "duration_ms": 141920,
       "name": "TMF",
       "url": "https://open.spotify.com/track/6Za2ZF3ctanRniLU1hXJ3M"
+    },
+    {
+      "album": {
+        "name": "Stuck in Shymode (Bedroom Sessions)",
+        "url": "https://open.spotify.com/album/51Gxtkrw9UZa2xu1MLnwfz"
+      },
+      "artists": [
+        {
+          "name": "Lilla Shy",
+          "url": "https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187973,
+      "name": "To Do List",
+      "url": "https://open.spotify.com/track/77yabhfbs18eMrBFp8Ci9T"
     },
     {
       "album": {
@@ -11738,7 +11898,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 156000,
       "name": "UNA RAPINA",
       "url": "https://open.spotify.com/track/39gNEi6O7BuA4LZdizJa4b"
@@ -12180,6 +12340,28 @@
       "duration_ms": 156809,
       "name": "WHATEVER",
       "url": "https://open.spotify.com/track/6Kwa6AkqHzo8XEk3KKdtKj"
+    },
+    {
+      "album": {
+        "name": "Will you come?",
+        "url": "https://open.spotify.com/album/6RaLeuLs21e0vnE9aC53B6"
+      },
+      "artists": [
+        {
+          "name": "Trust The Mask",
+          "url": "https://open.spotify.com/artist/4QzZ1csaFZmC5N2tOvtQR6"
+        },
+        {
+          "name": "Matteo Vallicelli",
+          "url": "https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147933,
+      "name": "Will you come?",
+      "url": "https://open.spotify.com/track/6lwrSCgFoucyAtezdsLfIr"
     },
     {
       "album": {

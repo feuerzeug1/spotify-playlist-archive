@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-599 songs - 1 day 9 hr 22 min
+600 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [LOVE](https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:35 | 2022-05-11 | 2022-06-03 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-21 |  |
 | [Love Maze](https://open.spotify.com/track/645YBsxhFPSOKxGep3uHLv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 3:41 | 2021-12-29 | 2022-07-29 |
-| [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-21 |  |
+| [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-21 | 2023-03-25 |
+| [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-25 |  |
 | [Love my stereo](https://open.spotify.com/track/2HURvzRbnwCdOBfToQ5Rns) | [Red House](https://open.spotify.com/artist/4VsMli3t4LtmPPGCHcyfON) | [Perpetual](https://open.spotify.com/album/15eHMRz0ch6UgRMBcinFAy) | 3:08 | 2022-03-24 | 2022-04-15 |
 | [Love Paranoia](https://open.spotify.com/track/3ej4aFOFyt0EoxXZHBHVyP) | [LUNA](https://open.spotify.com/artist/24czKkgx0KoQ239m9tvDyk) | [Love Paranoia](https://open.spotify.com/album/1D9utBj0lUeNuJsyXNcZgT) | 3:38 | 2022-02-03 | 2022-07-17 |
 | [Love Signal](https://open.spotify.com/track/54xCQxSzYmi01mO1Kz4UNt) | [roomer](https://open.spotify.com/artist/20zFJZ21BJrOTytnwoNUgp), [Oul](https://open.spotify.com/artist/57JZZuDhppSQr6uyJNzKSa) | [In My Room : Vol.5 \(Our Diary\)](https://open.spotify.com/album/3TVWdZ8J8g1ZW6NWx2aulz) | 3:01 | 2022-03-24 | 2022-04-17 |

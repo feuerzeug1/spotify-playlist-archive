@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/3b1JSBQRkgUFJsS0n7x5bK"
+      },
+      "artists": [
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142124,
+      "name": "27",
+      "url": "https://open.spotify.com/track/7E20kJmoke3aQhtzZrKimq"
+    },
+    {
+      "album": {
         "name": "3 Tage am Meer",
         "url": "https://open.spotify.com/album/5TOXyNzX3TA44g9xizRrNQ"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 144892,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/4VO308OQwkdwwVnHBAgNg2"
@@ -410,7 +428,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 188982,
       "name": "Blaues Licht",
       "url": "https://open.spotify.com/track/0hGZIJS3gjfQPMLGmUiGtn"
@@ -656,6 +674,24 @@
       "duration_ms": 144076,
       "name": "Der neue Stil meiner Generation",
       "url": "https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM"
+    },
+    {
+      "album": {
+        "name": "Die Pointe",
+        "url": "https://open.spotify.com/album/3F23UM3HxW2aUPiGBEKlxK"
+      },
+      "artists": [
+        {
+          "name": "Kicker Dibs",
+          "url": "https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155920,
+      "name": "Die Pointe",
+      "url": "https://open.spotify.com/track/3iDAQwDWJVGYAPpXbams8J"
     },
     {
       "album": {
@@ -955,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Fluch",
+        "url": "https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh"
+      },
+      "artists": [
+        {
+          "name": "BECKS",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127866,
+      "name": "Fluch",
+      "url": "https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI"
+    },
+    {
+      "album": {
         "name": "Formel 1",
         "url": "https://open.spotify.com/album/2fM6wcB1fc1xmn0IULxGrI"
       },
@@ -1172,7 +1226,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 215267,
       "name": "Geruch von Koks (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/3RC8VtoWlLcwYoZbz3zpBX"
@@ -1450,7 +1504,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 120000,
       "name": "Hoffe du hasst mich",
       "url": "https://open.spotify.com/track/5XhQAJuecAGN1jNKy3ypTp"
@@ -1586,7 +1640,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 221767,
       "name": "Im Walzerschritt Fahrradfahren",
       "url": "https://open.spotify.com/track/7DxjsdLPvzWgScr1XggOBe"
@@ -1630,6 +1684,24 @@
       "duration_ms": 129945,
       "name": "iPhone X",
       "url": "https://open.spotify.com/track/6xqiepkcqK9Imi4GP1lFyS"
+    },
+    {
+      "album": {
+        "name": "Von all dem nichts gewusst",
+        "url": "https://open.spotify.com/album/5NQSuJvKv3GHBQYjo3HzBk"
+      },
+      "artists": [
+        {
+          "name": "Paul Weber",
+          "url": "https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231985,
+      "name": "Ist schon ok",
+      "url": "https://open.spotify.com/track/2bj4uIB30s0hm9G4d5wo6b"
     },
     {
       "album": {
@@ -2712,7 +2784,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 169500,
       "name": "Stadtpark Insomnia",
       "url": "https://open.spotify.com/track/2AegBY2u1iOIY5dpWgb1EQ"
@@ -3125,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "Vorbei",
+        "url": "https://open.spotify.com/album/24QFAb6sXmkDuaiDXw3MfQ"
+      },
+      "artists": [
+        {
+          "name": "Nauplia",
+          "url": "https://open.spotify.com/artist/2iWLvtf0O9f4Xgwx1ojVTZ"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177931,
+      "name": "Vorbei",
+      "url": "https://open.spotify.com/track/7b7upfyHj7CcfWK9OyXcHE"
+    },
+    {
+      "album": {
         "name": "Wahnsinn mich zu lieben",
         "url": "https://open.spotify.com/album/6WFKsMRaWcmwG7SRxYGHmD"
       },
@@ -3230,6 +3320,24 @@
       "duration_ms": 182500,
       "name": "Weh",
       "url": "https://open.spotify.com/track/1MMWwmZBRbtfRCfbPoGzCG"
+    },
+    {
+      "album": {
+        "name": "Wein",
+        "url": "https://open.spotify.com/album/3lUgsGEHXNJGlOnBVBPScX"
+      },
+      "artists": [
+        {
+          "name": "Feliks",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143953,
+      "name": "Wein",
+      "url": "https://open.spotify.com/track/0TLBZTNPNFMimB5JTBDvEG"
     },
     {
       "album": {

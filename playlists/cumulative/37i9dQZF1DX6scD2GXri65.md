@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-111 songs - 6 hr 18 min
+112 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Futurepower](https://open.spotify.com/track/5BEeBEAsRWIhAw18rkun9F) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Futurepower](https://open.spotify.com/album/2MG0xLJezHQAAlmpCVf7h6) | 4:06 | 2022-12-08 |  |
 | [Get Psycho](https://open.spotify.com/track/2qSbdjBKV4Ooa0yxZtA0px) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Alter Ego](https://open.spotify.com/artist/455mf4vICIi2dYQrH59xh8) | [Get Psycho](https://open.spotify.com/album/4eqnUJrLMljVfSbomWiVgG) | 2:15 | 2022-12-08 | 2023-02-28 |
 | [Ghost Town](https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Ghost Town](https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO) | 3:24 | 2022-12-08 |  |
-| [Go Down Low](https://open.spotify.com/track/6QCs2VEwYeSrhutMPGw5Vs) | [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [Go Down Low](https://open.spotify.com/album/7tWUHSKe7LYJGSNT1NFLTb) | 3:32 | 2023-02-09 |  |
+| [Go Down Low](https://open.spotify.com/track/6QCs2VEwYeSrhutMPGw5Vs) | [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [Go Down Low](https://open.spotify.com/album/7tWUHSKe7LYJGSNT1NFLTb) | 3:32 | 2023-02-09 | 2023-03-25 |
 | [Go Mental](https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Go Mental](https://open.spotify.com/album/15A99aAZGYFpTuwvzQsjsu) | 2:45 | 2022-12-08 |  |
 | [GO STUPID](https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [GO STUPID](https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q) | 3:37 | 2022-12-08 | 2023-02-10 |
 | [Goodbye \(feat\. Xillions\) \- Crude Intentions & Dr\. Rude Remix](https://open.spotify.com/track/4Fn9Z5LVGc4f0Qq6L53eEg) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW), [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09) | [Goodbye \(feat\. Xillions\) \[Crude Intentions & Dr\. Rude Remix\]](https://open.spotify.com/album/6p0ibrMdpqhsMu67uNEQuq) | 2:55 | 2022-12-08 |  |
@@ -102,6 +102,7 @@
 | [Time Machine](https://open.spotify.com/track/24Yh9vNFl3CXhdiRVRNZ7E) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [MC Stretch](https://open.spotify.com/artist/6oIpax63yT9ajyekkcqv0L) | [Time Machine](https://open.spotify.com/album/6poLhdSD49CU6bNffCUFKF) | 3:53 | 2022-12-08 | 2023-02-23 |
 | [Together We Grow](https://open.spotify.com/track/0Q9oI3atBARDyEWRr1C2H6) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Together We Grow](https://open.spotify.com/album/6LrvsgRIi1Hy1LBsrrt6rw) | 2:45 | 2022-12-08 | 2023-02-10 |
 | [TOUCH IT \(Don't Stop\)](https://open.spotify.com/track/2G5hIhJ61ENNcqUW1n1oTn) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Dynamite](https://open.spotify.com/artist/4yCk57xvx6iOnHerejzV9c), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [TOUCH IT \(Don't Stop\)](https://open.spotify.com/album/0736rP0PqNdxlnJ9khJ55P) | 2:56 | 2022-12-22 | 2023-02-10 |
+| [Trip To Mars \(Astronauts\)](https://open.spotify.com/track/7kUBocchlTtTZVNplR9ZJI) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Trip To Mars \(Astronauts\)](https://open.spotify.com/album/29wNHESljXnFzohiGMCRMs) | 3:02 | 2023-03-25 |  |
 | [TRIPPY SPACE](https://open.spotify.com/track/6kflmGIF2bbdkz56YPDees) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [TRIPPY SPACE](https://open.spotify.com/album/3EUt1sPYHfAOjo7wLLYfia) | 2:58 | 2023-02-09 | 2023-02-25 |
 | [Twerk Anthem](https://open.spotify.com/track/0cZ6KOvnLf0C0GKLti31No) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Twerk Anthem](https://open.spotify.com/album/3cWHRG6B0GYAgusM50re31) | 2:50 | 2023-01-12 |  |
 | [Undefeatable](https://open.spotify.com/track/6ib2JAMQv9rqCKXFWL04hj) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Uncaged](https://open.spotify.com/artist/2HDeehZ2osQxtP45Q1asqo) | [Undefeatable](https://open.spotify.com/album/0at5Hi9dHwEpci3JucukBZ) | 2:57 | 2023-03-13 |  |

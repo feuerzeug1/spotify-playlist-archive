@@ -868,7 +868,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 186533,
       "name": "Didn't Even Date (feat. Roman Alexander)",
       "url": "https://open.spotify.com/track/2EvA9kbBy7MHWf3rmHGihD"
@@ -1266,6 +1266,28 @@
       "duration_ms": 174557,
       "name": "Good Person",
       "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
+    },
+    {
+      "album": {
+        "name": "TWENTY SOMETHING: Messing It Up",
+        "url": "https://open.spotify.com/album/1Uyc48o6p2Dv1RfyZYztFS"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "goodbye looks good on you (feat. Mitchell Tenpenny)",
+      "url": "https://open.spotify.com/track/4K3tnAfDLPZPvc3lzsrjoq"
     },
     {
       "album": {
@@ -2309,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Western",
+        "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195459,
+      "name": "Made",
+      "url": "https://open.spotify.com/track/2S9s6QYCdmSmXQDKpCtK6I"
+    },
+    {
+      "album": {
         "name": "Made",
         "url": "https://open.spotify.com/album/4h4ZmlKntuJzWox0Ci3Q0i"
       },
@@ -2392,7 +2432,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213066,
       "name": "Me Myself and Why",
       "url": "https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj"

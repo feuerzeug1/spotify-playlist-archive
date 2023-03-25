@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Tiago PZK en la casa del Trap de Argentino.
+> Lucho SSJ, Neo Pistea, C.R.O & Obie Wanshot en la casa del Trap de Argentino.
 
-184 songs - 9 hr 1 min
+185 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Water](https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ) | 3:10 | 2022-07-21 |  |
 | [Water](https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa) | 3:10 | 2022-01-21 | 2022-07-29 |
 | [West Side](https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [West Side](https://open.spotify.com/album/1EFPBMgpUspW5wp7JUkwIV) | 2:31 | 2022-01-21 |  |
+| [WOW](https://open.spotify.com/track/7dnWwiWTF7JSEAXhmeUBpa) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [WOW](https://open.spotify.com/album/6vFeKKeRjOrndZ4OT80E7g) | 3:37 | 2023-03-24 |  |
 | [XL](https://open.spotify.com/track/3pEg3izEeG5LzBHZkykbMH) | [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [44 Kid](https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb), [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [XL](https://open.spotify.com/album/10IBYtlp0KVqhNF6W44A65) | 3:19 | 2022-08-05 | 2022-11-10 |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-420 songs - 18 hr 50 min
+421 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2021-11-10 | 2022-06-10 |
 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 | 2022-01-21 |  |
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2021-11-10 | 2022-02-11 |
+| [Lightning](https://open.spotify.com/track/0Zl59CK613Aeb6TEoqVTNA) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Lightning](https://open.spotify.com/album/2v1ZMg2udU7qXEsZEsZVWn) | 2:14 | 2023-03-24 |  |
 | [lights out](https://open.spotify.com/track/4VPY9FS6kOmJSBu60bHn32) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [lights out](https://open.spotify.com/album/7omdHaoEHAkSTLh9VVUmdJ) | 3:05 | 2023-01-06 |  |
 | [Lightweight](https://open.spotify.com/track/75kGb3NugyzVZ2JOyEV6gN) | [Going North](https://open.spotify.com/artist/7inHxv9DhiskK3UJOU3FXA) | [Lightweight](https://open.spotify.com/album/7FRiFJTmFTnEDbODaZlAZM) | 2:53 | 2022-11-25 |  |
 | [Limoncello](https://open.spotify.com/track/3hiMfIXRuD4OAjD6F5VLQb) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Limoncello](https://open.spotify.com/album/1mUX9DSCKssZvL9SAJiaR3) | 2:26 | 2022-07-15 |  |

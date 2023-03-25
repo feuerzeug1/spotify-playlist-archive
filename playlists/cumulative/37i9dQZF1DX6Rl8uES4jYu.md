@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-361 songs - 20 hr 28 min
+362 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Kind Of Freak](https://open.spotify.com/track/6pskPJ0O1dr5ziM9Oyo4Ui) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Kind of Freak](https://open.spotify.com/album/48zZsra0i4FCVPAbTRAEkg) | 3:45 | 2021-05-14 | 2022-07-28 |
 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 | 2020-11-13 | 2022-01-06 |
 | [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-02-04 | 2023-02-18 |
+| [LCM \(feat\. Travis Thompson\)](https://open.spotify.com/track/4PujovNXLSQVdgR68ghABE) | [Abstract](https://open.spotify.com/artist/7lkYBcrLM4JmVgeha1xNl6), [ELLIS!](https://open.spotify.com/artist/3GPPLSi7KokwrVlLlTMYgC), [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc) | [LCM \(feat\. Travis Thompson\)](https://open.spotify.com/album/0FGDo6e67E8b9734slNHlZ) | 2:24 | 2023-03-24 |  |
 | [Let Love Go](https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Let Love Go](https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj) | 2:53 | 2022-07-01 |  |
 | [Let's Roll](https://open.spotify.com/track/2VudmwJAV5GA9bqijpLmEP) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Let's Roll](https://open.spotify.com/album/5yIa1Vgl9zZn368RoIGSXG) | 3:36 | 2021-05-14 | 2022-04-21 |
 | [Light As Anything](https://open.spotify.com/track/0Y8kxAuBh8Oc8n6cyDTQ8Q) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Robbie Wulfsohn](https://open.spotify.com/artist/5lxA6SlNrU3NJgiFzrnelc) | [The Optimist](https://open.spotify.com/album/0A8cq3cjiMMP8lI1SeG4GN) | 4:51 | 2020-11-13 | 2022-03-15 |
@@ -215,7 +216,7 @@
 | [Nick Of Time](https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Nick Of Time](https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX) | 4:10 | 2022-07-18 | 2023-02-18 |
 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 | 2022-08-19 |  |
 | [Night Moves](https://open.spotify.com/track/7iOSaQAmLZNege7dXunnsE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Night Moves](https://open.spotify.com/album/26HYYCUQFcYbQHGKnDabuW) | 3:08 | 2022-08-19 | 2022-08-27 |
-| [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-01-28 |  |
+| [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-01-28 | 2023-03-25 |
 | [No News No Blues](https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:53 | 2022-01-21 |  |
 | [No News No Blues](https://open.spotify.com/track/7bxogppnXd6dJB2rSCjegk) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [No News No Blues](https://open.spotify.com/album/1KIeBsHpINXrAEUWKtli8E) | 3:53 | 2022-01-14 | 2022-05-25 |
 | [Noa Noa](https://open.spotify.com/track/27OctETisMkxIypWYruUUG) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Emilia Anastazja](https://open.spotify.com/artist/0cKNOYRTUF2PeSXJCb3jOr) | [Noa Noa](https://open.spotify.com/album/6j5P4RVziXXAql965dFXCp) | 4:08 | 2021-09-21 | 2022-07-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Pop Evil",
+  "description": "The hardest songs, loud. Very loud. Cover: Nita Strauss",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 209596,
       "name": "A Disappearing Act",
       "url": "https://open.spotify.com/track/04flu1A6UXP4Stissk3G1l"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 225706,
       "name": "A World Afraid Of Tomorrow",
       "url": "https://open.spotify.com/track/0faXSK5Uqk8vzLb2x88HR4"
@@ -486,6 +486,24 @@
       "duration_ms": 244364,
       "name": "Animals",
       "url": "https://open.spotify.com/track/1Td7TGT1XtK2ojUjz1mGUV"
+    },
+    {
+      "album": {
+        "name": "Another Celebration at the End of the World",
+        "url": "https://open.spotify.com/album/3LOcvq0COUOnftohINoJAD"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275827,
+      "name": "Another Celebration at the End of the World",
+      "url": "https://open.spotify.com/track/4k6NV1b3icM8BRCkT57oPV"
     },
     {
       "album": {
@@ -911,6 +929,28 @@
     },
     {
       "album": {
+        "name": "BEST TIMES (feat. Lacey Sturm)",
+        "url": "https://open.spotify.com/album/2mdLMyyP9Qia1BPS7HaafD"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223977,
+      "name": "BEST TIMES (feat. Lacey Sturm)",
+      "url": "https://open.spotify.com/track/1jZosfYphLClzldEiQdRde"
+    },
+    {
+      "album": {
         "name": "Better Dayz",
         "url": "https://open.spotify.com/album/2lSEaJEqr7hmvX7oyREwOr"
       },
@@ -1056,7 +1096,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 164176,
       "name": "Black Rhino",
       "url": "https://open.spotify.com/track/6r8Q1qpPkfUN2lQnepsmzq"
@@ -2900,7 +2940,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 254129,
       "name": "DEEP CUTS",
       "url": "https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk"
@@ -4195,6 +4235,24 @@
     },
     {
       "album": {
+        "name": "Fighting Myself",
+        "url": "https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2"
+    },
+    {
+      "album": {
         "name": "Fingernails",
         "url": "https://open.spotify.com/album/3V00aSV8gcalGAwjOkauKN"
       },
@@ -4278,7 +4336,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 193549,
       "name": "Fog Machine",
       "url": "https://open.spotify.com/track/3n0rrjFlZyNSjkYkI3GCdy"
@@ -5833,6 +5891,24 @@
     },
     {
       "album": {
+        "name": "It's Hell Down Here",
+        "url": "https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240082,
+      "name": "It's Hell Down Here",
+      "url": "https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH"
+    },
+    {
+      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
       },
@@ -6008,6 +6084,24 @@
       "duration_ms": 195306,
       "name": "K.M.B.",
       "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
+    },
+    {
+      "album": {
+        "name": "Keep Your Mouth Shut",
+        "url": "https://open.spotify.com/album/2uf3cAx0kR27d4rZzDoIJ3"
+      },
+      "artists": [
+        {
+          "name": "OFF!",
+          "url": "https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105656,
+      "name": "Keep Your Mouth Shut",
+      "url": "https://open.spotify.com/track/6MQQhRfedFeOUydGYXurNj"
     },
     {
       "album": {
@@ -8113,6 +8207,24 @@
     },
     {
       "album": {
+        "name": "Pain // Happiness",
+        "url": "https://open.spotify.com/album/20yzGvOcgJQWzJJx7nIXtL"
+      },
+      "artists": [
+        {
+          "name": "Rain Paris",
+          "url": "https://open.spotify.com/artist/10TCOjSPs9ywBN1Q083BnB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Pain // Happiness",
+      "url": "https://open.spotify.com/track/3eCpH7rYjareU4NBxlG91G"
+    },
+    {
+      "album": {
         "name": "Paranoid (Crash & Burn)",
         "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
       },
@@ -8554,6 +8666,42 @@
       "duration_ms": 183989,
       "name": "Plastic Heart",
       "url": "https://open.spotify.com/track/3RflU6XdclibViyZ50ZQts"
+    },
+    {
+      "album": {
+        "name": "Play My Favourite Song",
+        "url": "https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155603,
+      "name": "Play My Favourite Song",
+      "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
+    },
+    {
+      "album": {
+        "name": "Poison Pill",
+        "url": "https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Poison Pill",
+      "url": "https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM"
     },
     {
       "album": {
@@ -9128,7 +9276,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 244395,
       "name": "Sacred Kiss",
       "url": "https://open.spotify.com/track/3zRZjDl3t6kwKzK9lKdo5N"
@@ -9930,6 +10078,24 @@
       "duration_ms": 281374,
       "name": "Smile Thief",
       "url": "https://open.spotify.com/track/6PyLzAka8YA6f2g4tZl6ZO"
+    },
+    {
+      "album": {
+        "name": "Snake In The Grass",
+        "url": "https://open.spotify.com/album/03PP8plAoML5JYtp55htjB"
+      },
+      "artists": [
+        {
+          "name": "ALPHAMEGA",
+          "url": "https://open.spotify.com/artist/5Jo80kcSLQNYiwgu7A68EI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174318,
+      "name": "Snake In The Grass",
+      "url": "https://open.spotify.com/track/7ziq4cBxm5xZ0GsyBJxAq9"
     },
     {
       "album": {
@@ -11098,7 +11264,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 226520,
       "name": "The Game",
       "url": "https://open.spotify.com/track/5DcGna4pyRg04Qc1ySDQco"
@@ -11188,7 +11354,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 220862,
       "name": "The Perfume of Decay",
       "url": "https://open.spotify.com/track/7cGKdI3BvJOKYzs9dRdvFj"
@@ -11244,7 +11410,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 242336,
       "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Asking Alexandria, Ice Nine Kills, From Ashes To New)",
       "url": "https://open.spotify.com/track/3iEmgajStVBooooNaltdOv"
@@ -11534,7 +11700,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 139787,
       "name": "THIRST4VIOLENCE (feat. Freddie Dredd & Silverstein)",
       "url": "https://open.spotify.com/track/6fQaD9UaCJPLceCxfS8fpH"
@@ -11958,7 +12124,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 214028,
       "name": "Until We Break (feat. Matty Mullins of Memphis Mayfire)",
       "url": "https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb"
@@ -12847,6 +13013,46 @@
     },
     {
       "album": {
+        "name": "Winner Takes All (feat. Alice Cooper)",
+        "url": "https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ"
+      },
+      "artists": [
+        {
+          "name": "Nita Strauss",
+          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205570,
+      "name": "Winner Takes All (feat. Alice Cooper)",
+      "url": "https://open.spotify.com/track/0zfjIcTc40MVFSGmGjHI9V"
+    },
+    {
+      "album": {
+        "name": "Heavener",
+        "url": "https://open.spotify.com/album/0OUb9GCxls0erHrS98Htv1"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257532,
+      "name": "Without a Whisper",
+      "url": "https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9"
+    },
+    {
+      "album": {
         "name": "Without Me",
         "url": "https://open.spotify.com/album/1ipW5HgZMdwxXFDNdTDePU"
       },
@@ -13006,7 +13212,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 248946,
       "name": "YOU DON'T KNOW WHAT LOVE MEANS",
       "url": "https://open.spotify.com/track/5SYugUCqLTkFfInqpIMTY7"

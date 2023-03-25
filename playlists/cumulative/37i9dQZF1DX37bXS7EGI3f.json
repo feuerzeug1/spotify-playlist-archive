@@ -817,6 +817,28 @@
     },
     {
       "album": {
+        "name": "Dark Waters",
+        "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Paolo Ribaldini",
+          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299076,
+      "name": "Beneath (feat. Paolo Ribaldini)",
+      "url": "https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5"
+    },
+    {
+      "album": {
         "name": "Emerge",
         "url": "https://open.spotify.com/album/4jLwGSX4k8voH5XNijvY2F"
       },
@@ -1056,7 +1078,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 224200,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G"
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 253919,
       "name": "Chambers of Fire",
       "url": "https://open.spotify.com/track/6PA2md3VXaenegsw75b0nR"
@@ -1384,7 +1406,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 314000,
       "name": "Charcoal",
       "url": "https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz"
@@ -2618,7 +2640,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 346238,
       "name": "Eternal Darkness",
       "url": "https://open.spotify.com/track/5KF33B01qnGgBYIp35LD6f"
@@ -2654,10 +2676,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 253920,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/7zAy7zxQ3089UVtT8iopo1"
+    },
+    {
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
     },
     {
       "album": {
@@ -5529,6 +5569,24 @@
     },
     {
       "album": {
+        "name": "Nomad's Luck",
+        "url": "https://open.spotify.com/album/4hu6ynojW3eaL7Bp5tDi5A"
+      },
+      "artists": [
+        {
+          "name": "Ignea",
+          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Nomad's Luck",
+      "url": "https://open.spotify.com/track/0Riwsy1sSuL5uCOlTvEAnH"
+    },
+    {
+      "album": {
         "name": "Northwest Passage",
         "url": "https://open.spotify.com/album/7aKwMRfEricZ79KMU1kip9"
       },
@@ -5848,6 +5906,28 @@
       "duration_ms": 221573,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/7ujhUYjJCoBcEKLJQ0DiRB"
+    },
+    {
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        },
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347800,
+      "name": "Opus of the Night (Ghost Requiem) (feat. Tina Guo)",
+      "url": "https://open.spotify.com/track/08yNiukGEc21at2TakEvQT"
     },
     {
       "album": {
@@ -6247,6 +6327,28 @@
     },
     {
       "album": {
+        "name": "Queen of Shadow",
+        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Paolo Ribaldini",
+          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242146,
+      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
+      "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
+    },
+    {
+      "album": {
         "name": "Ragnars Kv\u00e6\u00f0i",
         "url": "https://open.spotify.com/album/2lqs4ZS94ZkM4MwysxMevG"
       },
@@ -6572,7 +6674,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 277586,
       "name": "Revel in Time",
       "url": "https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1"
@@ -7495,6 +7597,24 @@
     },
     {
       "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
+    },
+    {
+      "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
@@ -7750,6 +7870,24 @@
       "duration_ms": 185884,
       "name": "The Fire and the Sinner",
       "url": "https://open.spotify.com/track/7n5VVe0Sya3ZeM3DcZqvs5"
+    },
+    {
+      "album": {
+        "name": "The Gates of Time",
+        "url": "https://open.spotify.com/album/32keP0AvWGw1HknYoHQGV8"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275146,
+      "name": "The Gates of Time",
+      "url": "https://open.spotify.com/track/7htJHIpqvekWbUvy3mDQAZ"
     },
     {
       "album": {
@@ -8042,6 +8180,24 @@
       "duration_ms": 351613,
       "name": "The Prelude to Bereavement",
       "url": "https://open.spotify.com/track/559Y7yDP8HXuuVb3FGHxGf"
+    },
+    {
+      "album": {
+        "name": "The Raven's Cry",
+        "url": "https://open.spotify.com/album/6AV2YW66ESlkPDRE8aD6qG"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "The Raven's Cry",
+      "url": "https://open.spotify.com/track/0CKj88bTUht7lafuwhgI7m"
     },
     {
       "album": {
@@ -9134,7 +9290,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 694225,
       "name": "What Was Dreamt and Lived",
       "url": "https://open.spotify.com/track/3mJvoWmfeg8zUjdjCqHlqv"
@@ -9390,7 +9546,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 266000,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/3bm1cNf31qW8Q0mzt5XrGS"

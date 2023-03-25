@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Holding Pattern",
+        "url": "https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185816,
+      "name": "Holding Pattern",
+      "url": "https://open.spotify.com/track/5rR0Xg7Jn31EqbdueZYS3h"
+    },
+    {
+      "album": {
         "name": "Violet Light",
         "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },

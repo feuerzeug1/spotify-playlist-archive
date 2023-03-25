@@ -3073,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "\u6b67\u7fa9\u7a2e\u5b50",
+        "url": "https://open.spotify.com/album/7ulGonGDgcrJnmmnyPDwSa"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214524,
+      "name": "\u6b67\u7fa9\u7a2e\u5b50",
+      "url": "https://open.spotify.com/track/6v6LW9PslX7RiXoaBfAduq"
+    },
+    {
+      "album": {
         "name": "\u6b78\u96f6",
         "url": "https://open.spotify.com/album/4qqcdAk38QXTenIwAo4ezW"
       },

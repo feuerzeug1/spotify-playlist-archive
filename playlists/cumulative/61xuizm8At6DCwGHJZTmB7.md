@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-252 songs - 1 day 0 hr 26 min
+254 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV) | 5:09 | 2022-02-17 | 2022-03-16 |
 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 5:09 | 2022-03-15 |  |
 | [A Thousand Hallelujahs \- Radio Version](https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs](https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C) | 3:42 | 2023-02-10 |  |
+| [Abide \- Live](https://open.spotify.com/track/4Bo1QB23vxppx9TklFsmKw) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/5u3wyUEBom81pTF57qjwZW) | 6:00 | 2023-03-24 |  |
 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 | 2022-09-02 |  |
 | [All About You \- Live From Passion 2023](https://open.spotify.com/track/3N0aOVY4xR4sOP3hUCKiWN) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5KvkvQqiXctKJJPUPTUUtV) | 6:21 | 2023-02-24 |  |
 | [All My Hope](https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [All My Hope](https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe) | 3:52 | 2022-04-05 | 2022-10-20 |
@@ -165,6 +166,7 @@
 | [Nothing Else \- Live](https://open.spotify.com/track/57dUp3vW3nluggWiA6WQlQ) | [Rick Pino](https://open.spotify.com/artist/1qTF7MRkOV8LNFgxejBPD5), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Nothing Else \(Live\)](https://open.spotify.com/album/2qmfvjhGKvjSLj3nmDC3Mg) | 9:09 | 2022-02-17 | 2022-04-02 |
 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 | 2022-08-26 |  |
 | [Now I See](https://open.spotify.com/track/0kNc1boEFyhIp9HEnzlf0c) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK) | [Whatever May Come \(Deluxe\)](https://open.spotify.com/album/1ub4VbbnapiajjUCskwGLe) | 4:53 | 2022-02-17 | 2022-06-10 |
+| [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 | 2023-03-24 |  |
 | [O Lord, You’re Beautiful \(with Steffany Gretzinger\)](https://open.spotify.com/track/37Ms9rdo26omDpCINsHhui) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [O Lord, You're Beautiful](https://open.spotify.com/album/6gIib347YLlHGDMqpOHBL8) | 3:55 | 2022-08-12 | 2022-09-30 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2022-05-27 |  |
 | [Oceans \(Where Feet May Fail\) \- Live from Madison Square Garden](https://open.spotify.com/track/0GTfVXhvbhO4AhaEfzPhU6) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The People Tour: Live from Madison Square Garden](https://open.spotify.com/album/2KAJsrTtWloQtFaStadvbB) | 7:23 | 2022-02-17 | 2022-05-28 |

@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-389 songs - 20 hr 22 min
+390 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-02 |  |
 | [Light Wings](https://open.spotify.com/track/35InIo8y15nRhxFhXlE9KG) | [Darlan Vado](https://open.spotify.com/artist/5V2NXfQ1354qTgxy8r00kl) | [Light Wings](https://open.spotify.com/album/6YKV9jMAqOso3QRCsVwmC2) | 2:24 | 2022-05-26 |  |
 | [Little Nocturne](https://open.spotify.com/track/0kCPKFSme4AMah0o6CJMPz) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Siesta](https://open.spotify.com/album/4e1cIbl8RzlZTekDctsAwm) | 1:38 | 2022-05-26 | 2022-12-31 |
-| [Lonley Sea](https://open.spotify.com/track/2C0yGv2SPRTfb0O6FMIEb5) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Lonley Sea](https://open.spotify.com/album/5bwGcChnF5bLKfOZISQ5u9) | 3:30 | 2022-05-26 |  |
+| [Lonley Sea](https://open.spotify.com/track/2C0yGv2SPRTfb0O6FMIEb5) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Lonley Sea](https://open.spotify.com/album/5bwGcChnF5bLKfOZISQ5u9) | 3:30 | 2022-05-26 | 2023-03-25 |
 | [Lost at Sea](https://open.spotify.com/track/13TlLMjvV0pZqBF7DKIs94) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Wandering the Coast](https://open.spotify.com/album/2ufoGt7vrupWII9nAa2pfa) | 3:12 | 2022-05-26 |  |
 | [Lost In Thought](https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 1:55 | 2022-11-22 |  |
 | [Lucid](https://open.spotify.com/track/3TKabaNGBzTez8EOGbdxrs) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 3:25 | 2022-05-26 |  |
@@ -316,6 +316,7 @@
 | [Slumbers](https://open.spotify.com/track/3BSKxVvda7WjfYIm3rhOgY) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [Ring Revolutions](https://open.spotify.com/album/23B8w3QuiaMhX0r5OFWeIu) | 3:31 | 2022-05-26 |  |
 | [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 | 2023-01-09 |  |
 | [Solar Eclipse](https://open.spotify.com/track/4pcp7p5lioqQ6996nyjdd5) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Solar Eclipse](https://open.spotify.com/album/7BrTQS2tjIaezPAYB9Gmp6) | 4:01 | 2022-05-26 |  |
+| [Solar Origins](https://open.spotify.com/track/4SXa8oXmCwK2k5CTFOCBYW) | [Blauberg Calm](https://open.spotify.com/artist/78Z2LNd3NigoMoYVYBSi8P) | [Gradient On Path](https://open.spotify.com/album/6ZJkNffgdfqNqCbXRqFyLq) | 3:12 | 2023-03-23 |  |
 | [Solitary minds](https://open.spotify.com/track/7jj1D2ltdxesJOy4n3Z6dg) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Solitary minds](https://open.spotify.com/album/3uQisjl6dSY4WnxXxv4GLF) | 3:59 | 2022-05-26 | 2023-03-18 |
 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Somewhere Else](https://open.spotify.com/track/5pE4svRKo7XAXlxclmO9t1) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [Somewhere Else](https://open.spotify.com/album/0mHXN4UA7yTQj976qxyBnr) | 3:40 | 2022-05-26 |  |

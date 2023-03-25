@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-148 songs - 7 hr 48 min
+150 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Ex Wako Hawezi](https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Ex Wako Hawezi](https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc) | 3:48 | 2022-03-10 |  |
 | [Fair Game](https://open.spotify.com/track/0N6jiFbnIPADb0ywO2Chqs) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Fair Game](https://open.spotify.com/album/1IxoYVkTwUXmMnfnPpxQXo) | 2:12 | 2022-01-27 | 2022-08-06 |
 | [Fall In Love](https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Fall In Love](https://open.spotify.com/album/1Ity1cTX8gNylmJi5CNtcf) | 1:14 | 2022-04-28 | 2023-02-24 |
-| [Feel A Vibe](https://open.spotify.com/track/3sDAbZpJWBxgxry5ATbW9g) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br) | [Feel A Vibe](https://open.spotify.com/album/4EjSGOjlSpwN4Kdv3gvALp) | 2:59 | 2021-12-09 |  |
+| [Feel A Vibe](https://open.spotify.com/track/3sDAbZpJWBxgxry5ATbW9g) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br) | [Feel A Vibe](https://open.spotify.com/album/4EjSGOjlSpwN4Kdv3gvALp) | 2:59 | 2021-12-09 | 2023-03-25 |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-02-24 | 2022-04-02 |
 | [Filthy Rich](https://open.spotify.com/track/0HRJK34PPIPWu3mEQHgDD9) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Filthy Rich](https://open.spotify.com/album/2xWZiT64H6JH8NSV3kHs0l) | 2:46 | 2022-01-13 |  |
 | [Fireflies](https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Fireflies](https://open.spotify.com/album/6WfB9YEC9FDRhJCrNd5sah) | 2:21 | 2022-07-08 |  |
@@ -89,6 +89,7 @@
 | [Minutes](https://open.spotify.com/track/6f7KmU1InKkiW3UegkWj09) | [Shully](https://open.spotify.com/artist/4os0GkCkfwC8HUjKn7wULI), [Yuzko](https://open.spotify.com/artist/2WkJBd6ga7SI7QTcQVydEG) | [Minutes](https://open.spotify.com/album/6etqTIrfFLoRxslu3kbwZC) | 3:32 | 2022-07-08 |  |
 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 | 2022-08-05 |  |
 | [Move \- Acoustic](https://open.spotify.com/track/39Y8tJOuclCLZaCDD8M4kk) | [Shwento](https://open.spotify.com/artist/1kujXfGrKwSU4xOaUtZBdZ) | [Shwento 2020](https://open.spotify.com/album/3Yzp0vJY1qmQZwoUfwdCik) | 2:47 | 2021-10-15 | 2022-01-28 |
+| [My Darling](https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [My Darling](https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD) | 3:06 | 2023-03-24 |  |
 | [My Heart Is Yours](https://open.spotify.com/track/5FKRgg3w4e4uKOiLxttCSY) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:05 | 2021-10-15 | 2022-02-05 |
 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 | 2022-05-05 |  |
 | [Nakujali](https://open.spotify.com/track/2d2ogRrGa1wLEkRXiUwB7a) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nakujali](https://open.spotify.com/album/24ltQJTER5RRMF0zrK90wu) | 2:09 | 2022-06-02 |  |
@@ -111,6 +112,7 @@
 | [Perfection // T r u s t](https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh) | 4:00 | 2021-10-15 | 2022-07-29 |
 | [Perfection // T r u s t](https://open.spotify.com/track/72d92oIlrhVcRILDWSk20R) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/5Kiuk1QzG3PmhDucI9M3Nw) | 4:00 | 2021-10-15 | 2022-10-14 |
 | [Pleasure Riddim](https://open.spotify.com/track/4ev6HfOvSGIWysAYaqyPdS) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Pleasure Riddim](https://open.spotify.com/album/5RSh4SiFXncnAnheuqLp7i) | 2:10 | 2022-02-04 |  |
+| [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 | 2023-03-24 |  |
 | [Quick Fix](https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Quick Fix](https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV) | 3:13 | 2022-06-24 |  |
 | [rektless](https://open.spotify.com/track/53ieS7pA76pdBS3dig8Vuk) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [rektless](https://open.spotify.com/album/6IGKWpDBZDwntsLmdGIrCT) | 2:14 | 2021-10-15 | 2022-03-18 |
 | [Restart](https://open.spotify.com/track/6eZ4hwftRrwmEHlWIoiUD8) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Restart](https://open.spotify.com/album/0Gtt1qKIGPdmiK1pI1OMtz) | 3:53 | 2021-12-16 | 2022-05-20 |
@@ -125,7 +127,7 @@
 | [Slow wine](https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow wine](https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5) | 2:03 | 2022-08-25 | 2022-11-01 |
 | [Slow Wine](https://open.spotify.com/track/09zqopRV6IPEzq3ZUEP75B) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 2:04 | 2022-08-25 |  |
 | [Slow Wine \- Radio Edit](https://open.spotify.com/track/6xbMVHYWWtfbNNgLeACExm) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow Wine \(Radio Edit\)](https://open.spotify.com/album/0v7UOCkhnimTEBAs8OUlnM) | 2:04 | 2022-08-25 | 2023-02-27 |
-| [Solo](https://open.spotify.com/track/3UwxFtfHmrllZzm8bExvRb) | [Kash Kaaria](https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Strings Attached](https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq) | 3:07 | 2021-11-25 |  |
+| [Solo](https://open.spotify.com/track/3UwxFtfHmrllZzm8bExvRb) | [Kash Kaaria](https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Strings Attached](https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq) | 3:07 | 2021-11-25 | 2023-03-25 |
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2021-10-15 | 2023-03-18 |
 | [Sugar My](https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [Sugar My](https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf) | 3:06 | 2022-03-31 |  |
 | [SUMMER VIBES](https://open.spotify.com/track/6veOKwqP7YI8x6wo5QVDMU) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [Dimensions EP](https://open.spotify.com/album/4ji7UdgCUjKilYq8qjteek) | 2:51 | 2021-10-15 | 2022-03-11 |

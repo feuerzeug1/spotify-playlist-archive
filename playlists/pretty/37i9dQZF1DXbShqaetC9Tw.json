@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 83818,
+  "num_followers": 83937,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU3OTQyNCwwMDAwMDAwMGZlOTEzN2U2ZmVmYjg4NmY4ODMxMzdiMzgxMjZjOThl",
+  "snapshot_id": "MTY3NzU3OTQyNCwwMDAwMDAwMDQ4ZDEwNTBlOTA0NTI5YmVkNjY0OTdhY2MzZjFkM2Ey",
   "tracks": [
     {
       "added_at": "2023-02-28 10:17:04",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
+        "name": "you won't be there for me",
+        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 182645,
+      "name": "you won't be there for me",
+      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 199578,
       "name": "U",
       "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
-        "name": "you won't be there for me",
-        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 182645,
-      "name": "you won't be there for me",
-      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "Take You Down",
-        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "When Dawn Comes Again (feat. BAEKHYUN)",
         "url": "https://open.spotify.com/album/7wgyRpzVueGdjV9yozlIYj"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 240265,
       "name": "When Dawn Comes Again (feat. BAEKHYUN)",
       "url": "https://open.spotify.com/track/3K5LF6pX2oTzIQA62t6qnK"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "Take You Down",
+        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "A Song Nobody Knows",
-      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "That's Why I Can't Talk About Love",
         "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "A Song Nobody Knows",
+      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
         "name": "wandering (feat. george)",
         "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
       },
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "One Snowy Day",
-        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "One Snowy Day (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "OFOSUN",
         "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
       },
@@ -567,18 +547,22 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE"
+        "name": "One Snowy Day",
+        "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Please Love Me",
-      "url": "https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n"
+      "duration_ms": 240800,
+      "name": "One Snowy Day (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -611,6 +595,22 @@
       "duration_ms": 370659,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
-      },
-      "artists": [
-        {
-          "name": "LEEBADA",
-          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "Mondegreen",
         "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 199186,
       "name": "Blanche",
       "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Black & White Film (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "Yearbook 2022",
         "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
     },
     {
       "added_at": "2023-02-28 10:17:04",

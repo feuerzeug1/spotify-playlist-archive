@@ -796,7 +796,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 141342,
       "name": "Clima Quente",
       "url": "https://open.spotify.com/track/6pdoVDeAMcYS9l6dOLoAVU"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 135384,
       "name": "FDP",
       "url": "https://open.spotify.com/track/3LbPOVdMrVm8yBMDcb5s2F"
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 161345,
       "name": "Foge Comigo",
       "url": "https://open.spotify.com/track/3jhkAmFUVIA0MuRAaE1gLO"
@@ -1680,6 +1680,32 @@
       "duration_ms": 185310,
       "name": "Lux\u00faria",
       "url": "https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm"
+    },
+    {
+      "album": {
+        "name": "VIL\u00c3",
+        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "Malvadona",
+      "url": "https://open.spotify.com/track/4GST2I05FoZuNVpYliZYvK"
     },
     {
       "album": {
@@ -2111,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Oriental",
+        "url": "https://open.spotify.com/album/1b4y5zvXbOQrFfQaBFeTio"
+      },
+      "artists": [
+        {
+          "name": "SV",
+          "url": "https://open.spotify.com/artist/6fgtFTpCDLz7xDyS6OVQgh"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158644,
+      "name": "Oriental",
+      "url": "https://open.spotify.com/track/2p84551ijesweM1w0xQsd8"
+    },
+    {
+      "album": {
         "name": "Pack em D\u00f3lar",
         "url": "https://open.spotify.com/album/3HvUFUZCuGLKEAeVAUqzh4"
       },
@@ -2190,6 +2238,32 @@
       "duration_ms": 168298,
       "name": "Paris 6",
       "url": "https://open.spotify.com/track/6YNF9sgteqvAVzglcs0p9k"
+    },
+    {
+      "album": {
+        "name": "Perna Bamba",
+        "url": "https://open.spotify.com/album/1m0PMbtxRIIAEvK4F4L61u"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Perna Bamba",
+      "url": "https://open.spotify.com/track/0p0X3eZfy33Gc91M8FRsli"
     },
     {
       "album": {

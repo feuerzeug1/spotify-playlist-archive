@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-274 songs - 14 hr 1 min
+275 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Binaural Gamma Sinus 120 Hz \- L 170 Hz \- R](https://open.spotify.com/track/1GTXIO4QB8SPKD307QYJuw) | [Focus Chamber](https://open.spotify.com/artist/4b8d1kdioxpVJbBX8weQwi) | [Binaural Gamma Sinus 120 Hz \- L 170 Hz \- R](https://open.spotify.com/album/5A9dfWh9SfmlNGd8tjD6kB) | 2:15 | 2021-06-04 |  |
 | [Binaural Gamma Sinus 120 Hz \- L 170 Hz \- R](https://open.spotify.com/track/0HiEEHbPGm4IOCXSukswoF) | [Les Bois Noirs](https://open.spotify.com/artist/3ob7uVjfjBY0d7fLQq5QV0) | [Binaural Beats Gamma](https://open.spotify.com/album/5YZepyspUI11y9V9eCxXcR) | 3:36 | 2020-12-03 | 2020-12-08 |
 | [Binaural Gamma Sinus 131Hz \- 171Hz](https://open.spotify.com/track/6BPBWr22soFpPGQC2AJjqX) | [Am Steg](https://open.spotify.com/artist/2RgrenSU5aFzYB5GJNBrik) | [Focus & Concentration](https://open.spotify.com/album/34bVZePgyL1uFZpMGNN8Zo) | 2:42 | 2020-05-14 | 2022-11-24 |
-| [Binaural Gamma Sinus 200 Hz \- 250 Hz](https://open.spotify.com/track/5y9hKet0kqGnbyIl47UYlw) | [Sort of Speak](https://open.spotify.com/artist/5l9xTwNi7RjxvJnDRdid38) | [Binaural Theta Sinus 150 Hz \- 156 Hz](https://open.spotify.com/album/76HG7VMcJbs8PP3gugRSNv) | 2:24 | 2021-06-18 |  |
+| [Binaural Gamma Sinus 200 Hz \- 250 Hz](https://open.spotify.com/track/5y9hKet0kqGnbyIl47UYlw) | [Sort of Speak](https://open.spotify.com/artist/5l9xTwNi7RjxvJnDRdid38) | [Binaural Theta Sinus 150 Hz \- 156 Hz](https://open.spotify.com/album/76HG7VMcJbs8PP3gugRSNv) | 2:24 | 2021-06-18 | 2023-03-25 |
 | [Binaural Gamma Sinus 200 Hz \- L 250 Hz \- R](https://open.spotify.com/track/5Aqc0sZLEf4yBMXzIeO7xy) | [Focus Chamber](https://open.spotify.com/artist/4b8d1kdioxpVJbBX8weQwi) | [Binaural Gamma Sinus 120 Hz \- L 170 Hz \- R](https://open.spotify.com/album/5A9dfWh9SfmlNGd8tjD6kB) | 2:39 | 2021-06-04 | 2021-09-16 |
 | [Binaural Gamma Sinus 300 Hz \- 350 Hz](https://open.spotify.com/track/1CQI0C8YWCrzWmEhfJrWB3) | [Lufhavn](https://open.spotify.com/artist/3KIcZFbsQVwU104SaP5OdL) | [Binaural Gamma Sinus 300 Hz \- 350 Hz](https://open.spotify.com/album/6hedBnLOIG36YlNsTwM10X) | 2:08 | 2021-06-18 |  |
 | [Binaural Gamma Sinus 300 Hz \- L 350 Hz \- R](https://open.spotify.com/track/5toNvmY1QmLepVZ6aQz2FG) | [Divine Diva](https://open.spotify.com/artist/0mZrUhF9LH0zriAyKGSZgZ) | [Binaural Gamma Sinus 300 Hz \- L 350 Hz \- R](https://open.spotify.com/album/6kv7vvbSOC30git3N3RrAG) | 2:21 | 2021-06-04 | 2022-09-07 |
@@ -197,6 +197,7 @@
 | [Gamma Air 34 Hz](https://open.spotify.com/track/4uZV7LGieE3kbuwFMUK3SO) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 2:25 | 2022-09-06 | 2022-11-24 |
 | [Gamma Beat](https://open.spotify.com/track/4oqdeNmaKSnsIARStWVrNk) | [Aural](https://open.spotify.com/artist/34VeKEzoz1rUrWPZNLD0Px) | [Binaural Relaxation](https://open.spotify.com/album/3ygaPFYfIt6myJzA36AV2c) | 3:24 | 2021-01-08 | 2021-06-18 |
 | [Gamma Binaural \(78.3Hz \-157.0Hz\)](https://open.spotify.com/track/2Ch4AA1LTMHrzUTwGbWgwQ) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Gamma Binaural \(78.3Hz \-157.0Hz\)](https://open.spotify.com/album/4i9TzNUdMF67MGVnxIWBuO) | 4:05 | 2022-02-16 | 2022-08-23 |
+| [Gamma Clarity 103 Hz \- 143 Hz](https://open.spotify.com/track/3qCvtu6V8kno7zCQuCl308) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Binaural Levitation](https://open.spotify.com/album/6RwD0AuziBPY0zRodQcPWv) | 2:45 | 2023-03-24 |  |
 | [Gamma Colours](https://open.spotify.com/track/3CkSw7Bh0TEgCfCmkrHpMR) | [Floating](https://open.spotify.com/artist/7KDM32NeA8v5WRh86a8BSL) | [Binaural Recovering](https://open.spotify.com/album/56RT701Bh814YZ4xWr37Rf) | 3:23 | 2020-06-03 | 2021-08-18 |
 | [Gamma Conciousness 36Hz](https://open.spotify.com/track/0ko2yxEMKrDcaIqlXTo0Vg) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Pure Binaural](https://open.spotify.com/album/2NQvL0k2qWVeZ4tss0XeXw) | 4:00 | 2020-06-17 | 2020-12-08 |
 | [Gamma Freq Pads](https://open.spotify.com/track/1yOlQ6v0E3Jgo9iY0dtMyQ) | [Masters of Binaurality](https://open.spotify.com/artist/6em3rrtKhjff80iJWE6m6K) | [Total Sleep And Relaxation](https://open.spotify.com/album/11mWqnd5PEdfYuQYEHa2to) | 3:40 | 2019-05-26\* | 2021-06-18 |

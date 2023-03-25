@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "ELA ME TEM",
+        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "ELA ME TEM",
+      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
+    },
+    {
+      "album": {
         "name": "Ela N\u00e3o Cansa",
         "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
       },
@@ -949,7 +967,7 @@
         },
         {
           "name": "Meucci",
-          "url": "https://open.spotify.com/artist/7q5inmN8Sb3wfNtaLYZf8G"
+          "url": "https://open.spotify.com/artist/4RNxtZ5OVhG07g8uySfl1c"
         },
         {
           "name": "Agatha",
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 201142,
       "name": "INVADIMO O LITORAL",
       "url": "https://open.spotify.com/track/3Y5Mj6VW06khuUscQ1ibtW"
@@ -1158,6 +1176,32 @@
       "duration_ms": 202989,
       "name": "Jogador Caro",
       "url": "https://open.spotify.com/track/0bnoK8bzj5qUEZEFut5gud"
+    },
+    {
+      "album": {
+        "name": "Kim Kardashian",
+        "url": "https://open.spotify.com/album/2uR4bQsoZYglGFScjf0UYO"
+      },
+      "artists": [
+        {
+          "name": "DISC WRLD",
+          "url": "https://open.spotify.com/artist/5DGC2CAXIeGzehdbsoreuo"
+        },
+        {
+          "name": "Gohann",
+          "url": "https://open.spotify.com/artist/7eZNIBBTvCkF2aG5VdvlQc"
+        },
+        {
+          "name": "Yung Drum",
+          "url": "https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "Kim Kardashian",
+      "url": "https://open.spotify.com/track/5vEd02O4TMOKhZ1K9cSY64"
     },
     {
       "album": {
@@ -1827,6 +1871,28 @@
     },
     {
       "album": {
+        "name": "Pelo Mundo",
+        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        },
+        {
+          "name": "Jef Rodriguez",
+          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166865,
+      "name": "Pelo Mundo",
+      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
+    },
+    {
+      "album": {
         "name": "Perto do Sol",
         "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
       },
@@ -2293,6 +2359,40 @@
     },
     {
       "album": {
+        "name": "SSA",
+        "url": "https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "VANDAL",
+          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        },
+        {
+          "name": "ajcookin",
+          "url": "https://open.spotify.com/artist/3dPBvWJ7dL5kKn74P2ys0F"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221359,
+      "name": "SSA",
+      "url": "https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9"
+    },
+    {
+      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
       },
@@ -2470,7 +2570,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 183560,
       "name": "Vamo Pra Praia",
       "url": "https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd"
@@ -2504,7 +2604,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 233328,
       "name": "Vem Pra C\u00e1",
       "url": "https://open.spotify.com/track/7zSVVDqYlQUxKkAiM3Jkb3"
@@ -2626,7 +2726,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 135445,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/5fzo9MLujhCxZYIPJ29nNH"

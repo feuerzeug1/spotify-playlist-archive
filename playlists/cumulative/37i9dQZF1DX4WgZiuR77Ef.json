@@ -163,6 +163,44 @@
     },
     {
       "album": {
+        "name": "B Side Ft. Fred Wesley - Xtended Mix",
+        "url": "https://open.spotify.com/album/0ZQ01132OLcip3FakPJUDf"
+      },
+      "artists": [
+        {
+          "name": "Smudge All Stars",
+          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "Fred Wesley",
+          "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
+        },
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        },
+        {
+          "name": "Mary Pearce",
+          "url": "https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg"
+        },
+        {
+          "name": "Charlotte Kelly",
+          "url": "https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4"
+        },
+        {
+          "name": "Richie Stevens",
+          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "B Side Ft. Fred Wesley - Xtended Mix",
+      "url": "https://open.spotify.com/track/3zylRbtWMhzHbfFazm2qeM"
+    },
+    {
+      "album": {
         "name": "B What U R",
         "url": "https://open.spotify.com/album/3E9k29nIhPhVgpxFAvqrxA"
       },
@@ -1678,7 +1716,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 302560,
       "name": "Jam On",
       "url": "https://open.spotify.com/track/1ePjiM953NQc7FfRTNjxsq"

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/1bde2esHMYQPdFAngKDrDz"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231647,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/3Pi5zbgCtaUN2uFCS8toqo"
+    },
+    {
+      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6"
       },
@@ -410,6 +428,24 @@
       "duration_ms": 210783,
       "name": "breakeven",
       "url": "https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP"
+    },
+    {
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2P9MkaULMEtRZi8BWUpNZ1"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228970,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/6rOVa2IctGd0B4mdP66Ym5"
     },
     {
       "album": {
@@ -828,6 +864,24 @@
       "duration_ms": 172992,
       "name": "Girls Just Wanna Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
+    },
+    {
+      "album": {
+        "name": "Girls Just Want To Have Fun (Acoustic)",
+        "url": "https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140442,
+      "name": "Girls Just Want To Have Fun - Acoustic",
+      "url": "https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m"
     },
     {
       "album": {

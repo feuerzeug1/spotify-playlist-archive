@@ -262,7 +262,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 278000,
       "name": "Abl Mawsalek",
       "url": "https://open.spotify.com/track/6382iMgZk6yyPg3htCkpB5"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 241852,
       "name": "Ana Negm",
       "url": "https://open.spotify.com/track/6CU68VwcV10VfulVQMfj3X"
@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 264109,
       "name": "Ghasb Anny",
       "url": "https://open.spotify.com/track/20MpmTGEcFIfMxxqobnxnl"
@@ -6553,6 +6553,28 @@
     },
     {
       "album": {
+        "name": "Awdet El Ebn El Dal",
+        "url": "https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb"
+      },
+      "artists": [
+        {
+          "name": "Karim Osama",
+          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168005,
+      "name": "Nazlet Seman",
+      "url": "https://open.spotify.com/track/3kvFynFheCVVecaJLKketl"
+    },
+    {
+      "album": {
         "name": "NDA",
         "url": "https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29"
       },
@@ -7345,6 +7367,24 @@
     },
     {
       "album": {
+        "name": "Ramadan Karim",
+        "url": "https://open.spotify.com/album/2dKT9YPw3ZBnw2Acglq70D"
+      },
+      "artists": [
+        {
+          "name": "Hakim",
+          "url": "https://open.spotify.com/artist/5sTW6xhUuMh7cnDkg65P9p"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "Ramadan Karim",
+      "url": "https://open.spotify.com/track/6kC8PTMYaP5X3e5Zu0QyM0"
+    },
+    {
+      "album": {
         "name": "RAPSTAR",
         "url": "https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV"
       },
@@ -7374,7 +7414,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 158400,
       "name": "Rased El Satr",
       "url": "https://open.spotify.com/track/4ageOMHYR3Nw14OKnSx3X2"
@@ -7414,6 +7454,24 @@
       "duration_ms": 192000,
       "name": "Ra\u2019sa Slow",
       "url": "https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224005,
+      "name": "Rehla",
+      "url": "https://open.spotify.com/track/61krPxyIuTV8tpzMxHEWJh"
     },
     {
       "album": {
@@ -7860,7 +7918,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-20",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Ser Alsada ( Mountain View)",
       "url": "https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m"
@@ -8336,6 +8394,24 @@
       "duration_ms": 182163,
       "name": "Strangers By Nature",
       "url": "https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq"
+    },
+    {
+      "album": {
+        "name": "Sunnet El Hayah (orange Ramadan 2020)",
+        "url": "https://open.spotify.com/album/6nEAMZsj8M7BPLVH8BBNAu"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Sunnet El Hayah (orange Ramadan 2020)",
+      "url": "https://open.spotify.com/track/4Yhx7H7UOXbwsyXwm8ASm7"
     },
     {
       "album": {
@@ -10420,7 +10496,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 145714,
       "name": "\u062e\u0636\u0631\u0647 - \u0645\u062a\u064a \u0627\u0634\u0648\u0641\u0643",
       "url": "https://open.spotify.com/track/50VIdPGBGBsE9K4RyNf56A"
@@ -11182,7 +11258,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 163121,
       "name": "\u0644\u0650\u0644\u0651\u064a",
       "url": "https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf"
@@ -11208,6 +11284,24 @@
       "duration_ms": 168437,
       "name": "\u0645\u062a\u063a\u0627\u0638 \u0639\u0627\u0631\u0641\u0643 \u064a\u0644\u0627 \u0645\u0646\u0646\u0627 \u0645\u062a\u063a\u0627\u0638",
       "url": "https://open.spotify.com/track/0sRMA5RMTncLpfZ6Uk9Wi1"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0631\u062d\u0628 \u0634\u0647\u0631 \u0627\u0644\u0635\u0648\u0645",
+        "url": "https://open.spotify.com/album/2qwjTs4ZIBzIkxfc0ev3cE"
+      },
+      "artists": [
+        {
+          "name": "Abd El Aziz Mahmoud",
+          "url": "https://open.spotify.com/artist/0Ck6zEWZW4tN5exqSWrrGq"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506938,
+      "name": "\u0645\u0631\u062d\u0628 \u0634\u0647\u0631 \u0627\u0644\u0635\u0648\u0645",
+      "url": "https://open.spotify.com/track/2dukxPxYLqSL8p0JqAEeFG"
     },
     {
       "album": {

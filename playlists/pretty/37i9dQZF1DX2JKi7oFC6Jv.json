@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 98649,
+  "num_followers": 98678,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDg4ZDdiNjMxZTQyMWUyY2I5YjFhODU5ZWY5MmExMzMw",
+  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMGJkNGNmMjdjNGNkZWViYTJmYjNkNjkyNzc3MDU5MmE0",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Song Feel",
-        "url": "https://open.spotify.com/album/5x0YjKmysDAXaAjxq8HLip"
-      },
-      "artists": [
-        {
-          "name": "Girl Unit",
-          "url": "https://open.spotify.com/artist/3Jq7bBEptoqWjGQwrkLTWp"
-        },
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "WYWD - Remix",
-      "url": "https://open.spotify.com/track/3Q6AwSkDHoNVDqNrfwuQPG"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "My Circle (Remix)",
         "url": "https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 260000,
       "name": "My Circle - Remix",
       "url": "https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Song Feel",
+        "url": "https://open.spotify.com/album/5x0YjKmysDAXaAjxq8HLip"
+      },
+      "artists": [
+        {
+          "name": "Girl Unit",
+          "url": "https://open.spotify.com/artist/3Jq7bBEptoqWjGQwrkLTWp"
+        },
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "WYWD - Remix",
+      "url": "https://open.spotify.com/track/3Q6AwSkDHoNVDqNrfwuQPG"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "African Warrior",
+      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "Gabryelle (Refix)",
         "url": "https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 291500,
       "name": "Gabryelle (Refix)",
       "url": "https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "Sensei EP",
-        "url": "https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf"
-      },
-      "artists": [
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        }
-      ],
-      "duration_ms": 281063,
-      "name": "Feeling Funky",
-      "url": "https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "Sensei EP",
+        "url": "https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        }
+      ],
+      "duration_ms": 281063,
+      "name": "Feeling Funky",
+      "url": "https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "Volumes:One",
         "url": "https://open.spotify.com/album/60unLuchirb55pFWGSi5WX"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 425638,
       "name": "Emotions (feat. Nikki)",
       "url": "https://open.spotify.com/track/7m3jySZj6AMGqoUHm1gLl8"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "Party Hard",
-        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "African Warrior",
-      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Free (SHOSH Remix)",
-        "url": "https://open.spotify.com/album/2LyZGafhIiMOj79CRvSll2"
-      },
-      "artists": [
-        {
-          "name": "Back N Fourth",
-          "url": "https://open.spotify.com/artist/7wLHr4NmAvAwukWyqyOpsX"
-        },
-        {
-          "name": "Disclaimr",
-          "url": "https://open.spotify.com/artist/1cdEKMoODPHtrqkmRqxBAX"
-        },
-        {
-          "name": "SHOSH",
-          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
-        }
-      ],
-      "duration_ms": 159402,
-      "name": "Free - SHOSH Remix",
-      "url": "https://open.spotify.com/track/5EInT0bE9SArgmUAMmN39O"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/3ECz7PCncaV9aWNA9XVWVv"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 284506,
       "name": "Lush - Fuzzy Logik Remix",
       "url": "https://open.spotify.com/track/70sPvzZcGOYK0CnxzYrGC7"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Free (SHOSH Remix)",
+        "url": "https://open.spotify.com/album/2LyZGafhIiMOj79CRvSll2"
+      },
+      "artists": [
+        {
+          "name": "Back N Fourth",
+          "url": "https://open.spotify.com/artist/7wLHr4NmAvAwukWyqyOpsX"
+        },
+        {
+          "name": "Disclaimr",
+          "url": "https://open.spotify.com/artist/1cdEKMoODPHtrqkmRqxBAX"
+        },
+        {
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
+        }
+      ],
+      "duration_ms": 159402,
+      "name": "Free - SHOSH Remix",
+      "url": "https://open.spotify.com/track/5EInT0bE9SArgmUAMmN39O"
     },
     {
       "added_at": "2022-04-13 15:03:02",

@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-281 songs - 13 hr 10 min
+282 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Moment of Reflection](https://open.spotify.com/track/15msDW5lW6xONIUtKAfaPC) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Ma Belle](https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n) | 3:04 | 2021-12-10 |  |
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2021-12-10 |  |
 | [Above the Horizon](https://open.spotify.com/track/2WdSNu3lf2rujezHg0FmcI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Above the Horizon](https://open.spotify.com/album/12y2nb8I6xA1ptwjBEY1JJ) | 3:24 | 2021-12-10 |  |
-| [Aesthetic](https://open.spotify.com/track/0i1dfTENGrNNBWeZlknUf4) | [Gyr](https://open.spotify.com/artist/2A1jbcxHxyQkW1uukhPrFQ) | [Aesthetic](https://open.spotify.com/album/71FyFTipWq6kbUmtBWw2oZ) | 2:09 | 2022-04-08 |  |
+| [Aesthetic](https://open.spotify.com/track/0i1dfTENGrNNBWeZlknUf4) | [Gyr](https://open.spotify.com/artist/2A1jbcxHxyQkW1uukhPrFQ) | [Aesthetic](https://open.spotify.com/album/71FyFTipWq6kbUmtBWw2oZ) | 2:09 | 2022-04-08 | 2023-03-25 |
 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 | 2021-12-10 |  |
 | [All Around Us](https://open.spotify.com/track/5jFQb4HLIsyOpClpUNDKqy) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [All Around Us](https://open.spotify.com/album/2wL1Qgbzh1v5NDF4kpMbQC) | 2:50 | 2021-12-10 |  |
 | [Alone and Together](https://open.spotify.com/track/1rdFI1lGwGZucoxDRqHW9U) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 2:44 | 2021-12-10 |  |
@@ -118,6 +118,7 @@
 | [In the Stillness](https://open.spotify.com/track/3chX0o1istmZdfm53dCksb) | [Ruben Galloway](https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX) | [In The Stillness](https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK) | 3:06 | 2021-12-10 | 2022-10-15 |
 | [Intermezzo](https://open.spotify.com/track/1rAv3gMViglWehdm1baqcF) | [Levi Stills](https://open.spotify.com/artist/1SsPpMBBiD7g5iVFkJepaO) | [Intermezzo](https://open.spotify.com/album/5PZtdr51jXLW3oLFBFVQkg) | 2:02 | 2021-12-10 | 2022-08-13 |
 | [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 | 2022-09-13 |  |
+| [Kagami](https://open.spotify.com/track/2BrItROmGsiRavrz0K2llR) | [Purple Decades](https://open.spotify.com/artist/08lg5wRQNrKKJZzvWTynlv) | [Journey Test](https://open.spotify.com/album/45P14PPyN1or3llI8OH0jN) | 2:52 | 2023-03-23 |  |
 | [Kama](https://open.spotify.com/track/1SCV472JdWgdTVieHOEale) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Kama](https://open.spotify.com/album/5NNGEQOYsonnzf3fwEiwj3) | 3:40 | 2021-12-10 |  |
 | [Kissing the Ambience](https://open.spotify.com/track/3ge3sVwiK7csDa3QKb9Xqm) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Kissing the Ambience](https://open.spotify.com/album/5POHqBiKAdGSvvLtIE8AZP) | 3:06 | 2021-12-10 |  |
 | [Krönet](https://open.spotify.com/track/7pYIvYaxVn7OWW8MmKGlBc) | [Vindeln](https://open.spotify.com/artist/4oss3KkMU3mcmvNuRez01Y) | [Krönet](https://open.spotify.com/album/3c9LsBPNicwU5GWEbH7Otw) | 2:33 | 2022-02-25 |  |

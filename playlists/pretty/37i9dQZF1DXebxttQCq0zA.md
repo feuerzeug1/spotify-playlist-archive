@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,327 likes - 210 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,656 likes - 210 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 209 | [Healing Memories](https://open.spotify.com/track/05MWiaG0YFAEQDN0wPRGla) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Yoga Music](https://open.spotify.com/album/3midw5wgEjQrtSeNv7MVwx) | 3:22 |
 | 210 | [Newborn Soul](https://open.spotify.com/track/61I4iLWIWmmx7knqM6f5HL) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:36 |
 
-Snapshot ID: `MTY3ODk4NTY4NSwwMDAwMDAwMDQ4ZDY2MjEzOTEzNmI1ZmU0NjgyNjFjODFjMzM0MTIx`
+Snapshot ID: `MTY3ODk4NTY4NSwwMDAwMDAwMGEwYmM2ZmE0MDViODk3MTUwZWU0ZmNlODU2MGU2MzEz`

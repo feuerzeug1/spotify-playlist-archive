@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-124 songs - 8 hr 11 min
+125 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,10 +85,11 @@
 | [Sickening](https://open.spotify.com/track/0yO8JKlIOY6phGSlzFpKcm) | [Alsace Carcione](https://open.spotify.com/artist/43oMOJeZr8shNmaBvgvAKr) | [Sickening](https://open.spotify.com/album/2ZrjxpBRyOH2TdWntgXEre) | 3:11 | 2022-02-04 |  |
 | [Sip of My Sip](https://open.spotify.com/track/0aKXCCuh6cE84wjcVeSFXG) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Sevndeep](https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V) | [Sip of My Sip](https://open.spotify.com/album/4kOrknTNxgXp2oVhnt8VnM) | 3:18 | 2022-07-01 |  |
 | [Slap My B\*tt](https://open.spotify.com/track/3ScUXRzJN51KS5BLYcYf28) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [One Trick Pony](https://open.spotify.com/album/3DsBrHTjrvPVLDK05kqy93) | 6:10 | 2021-11-19 |  |
+| [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 | 2023-03-24 |  |
 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 | 2021-11-19 |  |
 | [Soda \- MikeQ & Divoli S’vere Daughter’s Ha Remix](https://open.spotify.com/track/0QK0irAOp7fPqyD5Cg7pXw) | [Boody](https://open.spotify.com/artist/64yfjhFPMATyVqtB7knCCH), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [Mike Q](https://open.spotify.com/artist/5wXyvG2EDTKhvjfWhQvMHl), [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [Liquid](https://open.spotify.com/album/5fb77zmnjz3yEZm589aCBC) | 3:29 | 2021-11-19 |  |
 | [SOFT](https://open.spotify.com/track/6S7nkEdQy2y4N28scZxec4) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [CKUNTINOMKSZ](https://open.spotify.com/album/2YzChAOzMjwskZWWuSXXcI) | 2:29 | 2021-11-19 |  |
-| [Some Type Of Way](https://open.spotify.com/track/7GQNJ4CPmz1HnZJufDfnGR) | [Gregg Evisu XL](https://open.spotify.com/artist/6aededuMz6UqTaWXyMopQs), [Jay R Neutron](https://open.spotify.com/artist/5vU33oQSK9YGIF60NySECr) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:30 | 2021-11-19 |  |
+| [Some Type Of Way](https://open.spotify.com/track/7GQNJ4CPmz1HnZJufDfnGR) | [Gregg Evisu XL](https://open.spotify.com/artist/6aededuMz6UqTaWXyMopQs), [Jay R Neutron](https://open.spotify.com/artist/5vU33oQSK9YGIF60NySECr) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:30 | 2021-11-19 | 2023-03-25 |
 | [Soulshaka \(Revised Mix\)](https://open.spotify.com/track/4YtMUIE1UtO4mHsg2gvkFv) | [Angel X](https://open.spotify.com/artist/6OKQsKcXP50ebq9CznrfxF), [Jan Driver](https://open.spotify.com/artist/4V9KFnehXmCaeMWJS3p0MM) | [LEGEND](https://open.spotify.com/album/4GBqE6VnmfTnINsgu56RuI) | 9:01 | 2021-11-19 |  |
 | [Step Ya Pussy Up](https://open.spotify.com/track/4UtQrsyUkuVCxWvSeRQGcA) | [Ts Madison](https://open.spotify.com/artist/4t8qRr48RwXk9mlzuiriy8) | [The New Supreme](https://open.spotify.com/album/6rzwAD74MGX9adNWuZj4tr) | 3:18 | 2021-11-19 |  |
 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 | 2021-11-19 |  |

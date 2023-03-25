@@ -325,6 +325,32 @@
     },
     {
       "album": {
+        "name": "Remember Archive",
+        "url": "https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "mino",
+          "url": "https://open.spotify.com/artist/79FL2Qclq9IrxOuEK7SY5X"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "Jumper (Feat. Gaeko, MINO)",
+      "url": "https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl"
+    },
+    {
+      "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Tiny Habits \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,040 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,163 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Tuesday](https://open.spotify.com/track/2q8zxeRrvQa8ZTnlcamkVO) | [Mary Elizabeth Remington](https://open.spotify.com/artist/1OpHneno1p46i9jXB1Vk6T) | [In Embudo](https://open.spotify.com/album/3b0EBKuiYUmmpBevbOcRZZ) | 4:01 |
 | 100 | [dickhead blues](https://open.spotify.com/track/0b1MDxh1MD1dwHs3nczuW7) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [dickhead blues / brain](https://open.spotify.com/album/27VaG4zOTs26E4CavIht7R) | 5:25 |
 
-Snapshot ID: `MTY3OTUwNDU3OCwwMDAwMDAwMGExNmY1NzU1ZTE5YzAxY2FlZTdiN2RhMjNhNTdhMzQ2`
+Snapshot ID: `MTY3OTUwNDU3OCwwMDAwMDAwMDc5NzRjMzkyMjEyZDczNWVhMjA5M2MxOTliODcyNTMy`

@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17290,
+  "num_followers": 17291,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDllMWQyNmIyN2I3ZWY2OThlYmIxOTY1MWJkYjgwZGM0",
+  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDA2ZDk0NWFhZGRkMzkxMDk0ODQ4YmQ0YzdiNjQyOGY5",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Freedom's Goblin",
-        "url": "https://open.spotify.com/album/5BInay8c4KClHpYL94IBed"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 232386,
-      "name": "My Lady's On Fire",
-      "url": "https://open.spotify.com/track/5EbTamOuKNYlEsOUGc51kE"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Our Love To Admire",
         "url": "https://open.spotify.com/album/1gsoIHeBan6QywhysNgApK"
       },
@@ -459,8 +443,24 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Sundown Syndrome / Remember Me",
-        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
+        "name": "Freedom's Goblin",
+        "url": "https://open.spotify.com/album/5BInay8c4KClHpYL94IBed"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 232386,
+      "name": "My Lady's On Fire",
+      "url": "https://open.spotify.com/track/5EbTamOuKNYlEsOUGc51kE"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 261040,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
+      "duration_ms": 271720,
+      "name": "Lucidity",
+      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -619,8 +619,8 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+        "name": "Sundown Syndrome / Remember Me",
+        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 271720,
-      "name": "Lucidity",
-      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
+      "duration_ms": 261040,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
     },
     {
       "added_at": "2021-04-09 06:19:31",

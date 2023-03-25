@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 
 > Tune in, resonate and manifest at 432 hertz..\. <br/>A positive solfeggio frequency to meditate to
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,407 likes - 101 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,806 likes - 101 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 16 | [Nu Och Då](https://open.spotify.com/track/6NFfWWPPT29ZlkJrEwC2JN) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [Nu Och Då](https://open.spotify.com/album/495epNYdGBDMYDF7tU6PWT) | 2:24 |
 | 17 | [432 Hz Freeflow](https://open.spotify.com/track/3qOHsHsf6psxEYRhd1D0fu) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [432 Hz Freeflow](https://open.spotify.com/album/5Htgtwd3ZCw0bZweZ0QzTP) | 2:24 |
 | 18 | [Horizon 432 Hz](https://open.spotify.com/track/1Bx7lYFiELwI8z2jQOTfwm) | [Arina Ferora](https://open.spotify.com/artist/2tfYLaE1d6o1E8pEJ7VFWx) | [Horizon 432 Hz](https://open.spotify.com/album/0My8VVHdidIu0Ad5ZO6QQf) | 3:11 |
-| 19 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/5ZbjwPQo6CocT2OdJyUsc9) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 |
+| 19 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 |
 | 20 | [Nature's Path 432 Hz](https://open.spotify.com/track/6rpxhxT1FNSEwkSgBONMSZ) | [Madna Eúra](https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe) | [Euryn 432 Hz](https://open.spotify.com/album/7bom5ok0ZE4XZNK1TnobIx) | 2:56 |
 | 21 | [Transitions 432 Hz](https://open.spotify.com/track/5RWycEYAUhOpVGoett7wts) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:22 |
 | 22 | [Evolution 432 Hz](https://open.spotify.com/track/4cmAtPYgq5QFwWy5DAZwI4) | [Stellanova](https://open.spotify.com/artist/29isfMEaWmykULDpeyBXlk) | [Evolution 432 Hz](https://open.spotify.com/album/5tMq4z8ztf9ZK1VVSsyjwa) | 2:52 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 37 | [432 Hz Shooting Star](https://open.spotify.com/track/1Jw1bYkNYiGQYYTegh1Fwq) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [432 & 528 Hz Intuition](https://open.spotify.com/album/2AamrEPNMZkmMknDSYlgMm) | 3:07 |
 | 38 | [432 Hz Dreamers](https://open.spotify.com/track/7jRF5JKsOFaM52gxT4uiLZ) | [Cypress West](https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL) | [432 Hz Dreamers](https://open.spotify.com/album/2oQIyex3ZkEIO3YXJ9lLuk) | 2:24 |
 | 39 | [432hz Mindfullness in Vibration](https://open.spotify.com/track/0lqBP5R70k1RQj9sRts2Er) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [432hz Mindfullness in Vibration](https://open.spotify.com/album/7fk3syaNrQMqrSn8bTC0mB) | 2:25 |
-| 40 | [Suave 432Hz](https://open.spotify.com/track/77JePQLKbLkZ44rLLcYa1G) | [Drömlandskap](https://open.spotify.com/artist/3uu3KXOhLex6QVzd8t9kD3) | [Suave 432Hz](https://open.spotify.com/album/6wW4aQ3Ss00chsrjE6vwzf) | 2:13 |
+| 40 | [Suave 432Hz](https://open.spotify.com/track/77JePQLKbLkZ44rLLcYa1G) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Suave 432Hz](https://open.spotify.com/album/6wW4aQ3Ss00chsrjE6vwzf) | 2:13 |
 | 41 | [Warm Winds 432 Hz](https://open.spotify.com/track/5S6ndFms2N6gJjyvjnLehA) | [Madna Eúra](https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe) | [Euryn 432 Hz](https://open.spotify.com/album/7bom5ok0ZE4XZNK1TnobIx) | 3:11 |
 | 42 | [432 Hz Curative](https://open.spotify.com/track/0YeY2qQEqbZvyf4zh661tp) | [Underscores And Drones](https://open.spotify.com/artist/4o2si54bTht8Zqe73sAHJb) | [432 Hz Atmospheres for Relaxation](https://open.spotify.com/album/0AQZHqspI1y7i4sk06nHsG) | 2:40 |
 | 43 | [Collecting Collectiveness \- 432Hz](https://open.spotify.com/track/2Jj2zIUQKZxBH9PdxbEhFA) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [4 Healers](https://open.spotify.com/album/447422gTeox2hkk8cRk8pB) | 3:22 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 73 | [Comforting 432hz](https://open.spotify.com/track/6pecbIcNuLhePHZxxfdDuS) | [Deep Allure](https://open.spotify.com/artist/7BSP7jTW5vRe9uUiRBcZFU) | [Comforting 432hz](https://open.spotify.com/album/4oE5FUPog7P1krcayn9opN) | 2:33 |
 | 74 | [Norrsken 432 Hz](https://open.spotify.com/track/7c3nGga7iJrHwRn44BWVa4) | [Bhoden](https://open.spotify.com/artist/50r9orcLB8VFXYHTE6nZ85) | [Norrsken 432 Hz](https://open.spotify.com/album/5dRgKbCgwpkA2UEjhAHyVN) | 2:43 |
 | 75 | [Just Look at You](https://open.spotify.com/track/62X7ld1sa8RHl4zRtSvfHf) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [432 Water Crystals](https://open.spotify.com/album/6jSQXGouXgIfiwa9icJO68) | 3:07 |
-| 76 | [Archipelago \(432 Hz\)](https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK) | [Drömlandskap](https://open.spotify.com/artist/2maTvFNXG3K8yvfKTjSjVM) | [Archipelago](https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21) | 2:48 |
+| 76 | [Archipelago \(432 Hz\)](https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Archipelago](https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21) | 2:48 |
 | 77 | [432 Hz Deep Relaxation](https://open.spotify.com/track/31zMh1puMmcjTt7sCj7G0J) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4) | [432 Hz Deep Healing](https://open.spotify.com/album/0sw9KB288QlPN5Oy6993FD) | 2:29 |
 | 78 | [Trul Khor](https://open.spotify.com/track/2Lo9XrtMUAnl9XsElp0PYp) | [Divijata Ash](https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg) | [Trul Khor](https://open.spotify.com/album/6EPg16Obi0b5ccQ9qGE5Jp) | 3:43 |
 | 79 | [432 Hz Harmonic Intonation](https://open.spotify.com/track/6uhKWEURfotAPUl4gsZ4FI) | [Particle Guidance](https://open.spotify.com/artist/2Ol6nr2IZ1Jqs1scycbjLZ) | [Harmonic Intonation](https://open.spotify.com/album/4L17rtwyeMNeQJDnoxwgET) | 3:07 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 100 | [432 Hz Calm Down](https://open.spotify.com/track/4akwXGgZFoFluoLdNYE6As) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [432 Hz Recovery](https://open.spotify.com/album/7zhD1a20UknFtOrI6dWiZL) | 2:57 |
 | 101 | [432hz Manara \(Lighthouse\)](https://open.spotify.com/track/4Q3jMkeCcW0HQlDIAzQYBN) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Manara \(Lighthouse\)](https://open.spotify.com/album/44Bv426Wz9k6NjE9Boh5cG) | 3:01 |
 
-Snapshot ID: `MTY3ODQ1MTQyMSwwMDAwMDAwMGJjOGM1MGViNmExOTU2ZGJlMTU2OTgxM2ZiYjFhMDgw`
+Snapshot ID: `MTY3ODQ1MTQyMSwwMDAwMDAwMGU5NjIxZTI5MjlkZjY3N2VlMmJkYjNlMzZiNzNkYzky`

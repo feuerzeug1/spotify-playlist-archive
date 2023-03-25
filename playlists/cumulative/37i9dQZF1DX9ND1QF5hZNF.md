@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-54 songs - 2 hr 47 min
+55 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [For You](https://open.spotify.com/track/7AN0hFYz8HBixfNKRn1sls) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 5:22 | 2022-12-20 |  |
 | [Forms Of Love](https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Forms Of Love](https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg) | 6:03 | 2022-12-20 |  |
 | [Free To Love](https://open.spotify.com/track/3Z9wiXDPADfxgovNa2I6ph) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX), [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [BIMINI](https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx) | [Free To Love](https://open.spotify.com/album/4SCP4LS7vx12sdeZ95LLkK) | 2:35 | 2022-12-20 |  |
+| [Grass Is Greener \(feat\. SEM\)](https://open.spotify.com/track/1lvwGOKo5nT6W4wajlVCVu) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Grass Is Greener \(feat\. SEM\)](https://open.spotify.com/album/1T5wlktsoLB93xm6TobPk1) | 3:16 | 2023-03-24 |  |
 | [Hey Maria \- Elderbrook Remix](https://open.spotify.com/track/7v7teR4FtyiZzkc1tX2a4V) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Hey Maria \- EP](https://open.spotify.com/album/4zb7p3vznnnhJaihdKtxR6) | 3:33 | 2022-12-20 |  |
 | [Highs & Lows](https://open.spotify.com/track/2oakI4aTZTOXPjL2jy4b94) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Highs & Lows](https://open.spotify.com/album/2WltsSNLIaFLNkXwM8M2XR) | 3:04 | 2022-12-20 |  |
 | [Jungle](https://open.spotify.com/track/5f4ZzMG8zZXYXjBwLmd0aq) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Jungle](https://open.spotify.com/album/5wWAu59EvtfplSILL5S2mi) | 3:04 | 2022-12-20 |  |
@@ -60,7 +61,7 @@
 | [Welcome Home](https://open.spotify.com/track/4bDbcJrUfGXbgEpzzlGKOw) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Welcome Home](https://open.spotify.com/album/3xXkf8NdxsZWdPesmDoEJt) | 2:44 | 2022-12-20 |  |
 | [What A Wonderful World](https://open.spotify.com/track/5vxumGUQQAKNzE0osbTecZ) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [What A Wonderful World](https://open.spotify.com/album/1iTccmhnjuEyE2wzkEGALD) | 3:25 | 2022-12-20 |  |
 | [Yellow](https://open.spotify.com/track/6qGiXMtDuZiItgekdecWsd) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [Yellow](https://open.spotify.com/album/1AWfn2bdgCCoc1ufl0qsSE) | 3:02 | 2022-12-20 |  |
-| [You've Got The Love](https://open.spotify.com/track/2W0otyOuO6PixES66V4SgR) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [You've Got The Love](https://open.spotify.com/album/1uc2h6yfp4xyIrVSeHLNsn) | 2:27 | 2022-12-20 |  |
+| [You've Got The Love](https://open.spotify.com/track/2W0otyOuO6PixES66V4SgR) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [You've Got The Love](https://open.spotify.com/album/1uc2h6yfp4xyIrVSeHLNsn) | 2:27 | 2022-12-20 | 2023-03-25 |
 | [Your Light](https://open.spotify.com/track/3xwNqcWd3fGL5z0hhtMBmE) | [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [MLY](https://open.spotify.com/artist/0Olk5iLDJdsyf6csDCqtGk) | [Your Light](https://open.spotify.com/album/0VNiTeefqQ66bbMumnVzQh) | 2:49 | 2022-12-20 |  |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Mc Poze do Rodo",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Arthurzin",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 186666,
       "name": "20G",
       "url": "https://open.spotify.com/track/69Flz1PeHxdGW0trMUNjll"
@@ -523,6 +523,28 @@
     },
     {
       "album": {
+        "name": "Ai Ai Ai",
+        "url": "https://open.spotify.com/album/2IWjtNIo56K5l3JaE9bpgb"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "Langris",
+          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118413,
+      "name": "Ai Ai Ai",
+      "url": "https://open.spotify.com/track/1zaPLy70EDETZvhErzb9VL"
+    },
+    {
+      "album": {
         "name": "Joias do Bairro",
         "url": "https://open.spotify.com/album/4FbcW3acqCCa64ePx1fKOr"
       },
@@ -809,6 +831,32 @@
     },
     {
       "album": {
+        "name": "Favorito de Deus (Mixtape)",
+        "url": "https://open.spotify.com/album/41P9OKjJY0HkTEAqHm8db8"
+      },
+      "artists": [
+        {
+          "name": "OG BEBEL",
+          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
+        },
+        {
+          "name": "Young World",
+          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
+        },
+        {
+          "name": "Mestre B",
+          "url": "https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193207,
+      "name": "Aqui N\u00e3o \u00e9 o Meu Lugar",
+      "url": "https://open.spotify.com/track/3JfdJ59PIe1QlYK6bSpVoN"
+    },
+    {
+      "album": {
         "name": "AR-10",
         "url": "https://open.spotify.com/album/4Lf5vrx2tBJWFR44lfBYUR"
       },
@@ -968,6 +1016,32 @@
       "duration_ms": 215423,
       "name": "Assalto",
       "url": "https://open.spotify.com/track/6k5q9iTIXChxyqo4B8IKTD"
+    },
+    {
+      "album": {
+        "name": "Assunto Particular",
+        "url": "https://open.spotify.com/album/2ul05472ZKutZcmEx4Rk2j"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Assunto Particular",
+      "url": "https://open.spotify.com/track/44v9eNGRuwFDXzPWu2GkHP"
     },
     {
       "album": {
@@ -1481,6 +1555,32 @@
     },
     {
       "album": {
+        "name": "Baw Baw",
+        "url": "https://open.spotify.com/album/7lBIr3DeMX63iy0C9FMCJP"
+      },
+      "artists": [
+        {
+          "name": "Oreozin",
+          "url": "https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "A Matilha",
+          "url": "https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "Baw Baw",
+      "url": "https://open.spotify.com/track/3WkQB4dC44RqD7P33z0Ck9"
+    },
+    {
+      "album": {
         "name": "Beleza Ex\u00f3tica",
         "url": "https://open.spotify.com/album/5kfRrdhHmQ5fHgKtz351Yt"
       },
@@ -1668,6 +1768,28 @@
       "duration_ms": 180000,
       "name": "Blusa De Time",
       "url": "https://open.spotify.com/track/4yRQGwJHwd5BgvrJXqfdYc"
+    },
+    {
+      "album": {
+        "name": "Bomberman",
+        "url": "https://open.spotify.com/album/1cDJseX9ci0XFtVYyTIQu0"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        },
+        {
+          "name": "Th3agu",
+          "url": "https://open.spotify.com/artist/1BSyYgyxKlccjpmya2pNYB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Bomberman",
+      "url": "https://open.spotify.com/track/7Do4nLeovfGLfOsUZosklV"
     },
     {
       "album": {
@@ -3297,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "Do Alto da Laje",
+        "url": "https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159048,
+      "name": "Daqui de Cima",
+      "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
+    },
+    {
+      "album": {
         "name": "DARK",
         "url": "https://open.spotify.com/album/3FRGl2nyw3JWWApx8uHeyx"
       },
@@ -3964,7 +4104,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 136750,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
@@ -4522,7 +4662,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 320000,
       "name": "Enquanto Ela Rebola",
       "url": "https://open.spotify.com/track/6NXRalvBaumJsaCzq4Q2aE"
@@ -5750,7 +5890,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 178000,
       "name": "Frank Lampard ;7",
       "url": "https://open.spotify.com/track/5qjuPmGH9mwEd2tLfQoWTF"
@@ -6185,6 +6325,24 @@
     },
     {
       "album": {
+        "name": "Gest\u00e3o Inteligente 2",
+        "url": "https://open.spotify.com/album/5kPN4sQuSyukkmqmZj52lH"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135240,
+      "name": "Gest\u00e3o Inteligente 2",
+      "url": "https://open.spotify.com/track/0L0QchpcV0BtpuuCgJNVRb"
+    },
+    {
+      "album": {
         "name": "Ginasta",
         "url": "https://open.spotify.com/album/7HZwAnNf4R4n1LTdqenkWY"
       },
@@ -6208,7 +6366,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 197203,
       "name": "Ginasta",
       "url": "https://open.spotify.com/track/4VxNDfNfU2C0XigRKpSDLV"
@@ -9065,6 +9223,32 @@
     },
     {
       "album": {
+        "name": "MIMA",
+        "url": "https://open.spotify.com/album/16UWegTwrxPtaYUjKUoOz0"
+      },
+      "artists": [
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        },
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149470,
+      "name": "MIMA",
+      "url": "https://open.spotify.com/track/7jkmggINXon9pbhTlx4wnT"
+    },
+    {
+      "album": {
         "name": "Mimos",
         "url": "https://open.spotify.com/album/59sZdRkWb71F0pU1v8unwF"
       },
@@ -11693,6 +11877,28 @@
     },
     {
       "album": {
+        "name": "POKAZIDEIA",
+        "url": "https://open.spotify.com/album/5JBXitOArUwgN2LQL1Ot0i"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136334,
+      "name": "POKAZIDEIA",
+      "url": "https://open.spotify.com/track/7xdTUQQpYsMxgCj1LZqsaD"
+    },
+    {
+      "album": {
         "name": "Polo Play",
         "url": "https://open.spotify.com/album/51hxm6Dr0sVaRUMR3si2LI"
       },
@@ -12451,6 +12657,28 @@
     },
     {
       "album": {
+        "name": "Quem \u00e9 o Boss?",
+        "url": "https://open.spotify.com/album/2YccYZpDhS02H6B6F1rpmw"
+      },
+      "artists": [
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "Quem \u00e9 o Boss?",
+      "url": "https://open.spotify.com/track/1Xi4kbi4uVVI4RvjWDbeL0"
+    },
+    {
+      "album": {
         "name": "Quent\u00e3o",
         "url": "https://open.spotify.com/album/3cTWF7pFfp5V6CH2tkCtxr"
       },
@@ -12657,6 +12885,32 @@
     },
     {
       "album": {
+        "name": "Red Dot",
+        "url": "https://open.spotify.com/album/1ImUpotlDDUWdmevkE192Y"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Red Dot",
+      "url": "https://open.spotify.com/track/5O4dyvMVJaGcxvawaCGQDy"
+    },
+    {
+      "album": {
         "name": "Refil de Whisky",
         "url": "https://open.spotify.com/album/0I7xtMV4J2DNfBwvDpZ6Cw"
       },
@@ -12788,7 +13042,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 133193,
       "name": "Reverse",
       "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
@@ -13124,7 +13378,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 260168,
       "name": "Salva\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7ksIihEPQIicSZs9rd6Q3v"
@@ -13447,6 +13701,24 @@
     },
     {
       "album": {
+        "name": "Senha do WIFI",
+        "url": "https://open.spotify.com/album/1nF5Xo8Zb1E1JJp38gA4y8"
+      },
+      "artists": [
+        {
+          "name": "MISAEL",
+          "url": "https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185178,
+      "name": "Senha do WIFI",
+      "url": "https://open.spotify.com/track/0wAp5d4Nl3V0ZHy6NqZhZx"
+    },
+    {
+      "album": {
         "name": "Sequestro",
         "url": "https://open.spotify.com/album/5rq1soVKaDW0yTvFb5s23N"
       },
@@ -13624,7 +13896,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 200865,
       "name": "sigLa de Bando pT1",
       "url": "https://open.spotify.com/track/5iZLV3ZrelCFeXK71AhXnK"
@@ -13798,7 +14070,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 155534,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/26PTgHGUM16hMn5DEBQN35"
@@ -14688,7 +14960,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 144761,
       "name": "Tiro Foto, Mas N\u00e3o Posto",
       "url": "https://open.spotify.com/track/2zytQKmpGW9dvhEGnXiBTP"
@@ -14714,7 +14986,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 162711,
       "name": "Tiro no Escuro",
       "url": "https://open.spotify.com/track/3qiTn3yOHSPm2YKZILI4b9"
@@ -14938,7 +15210,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 220689,
       "name": "Treinada",
       "url": "https://open.spotify.com/track/4fTSZ7lua13zvOLryH9uNO"
@@ -15166,7 +15438,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 200666,
       "name": "T\u00e1 de Viagem",
       "url": "https://open.spotify.com/track/5z4SuqauJWLE3TTRiFZylH"
@@ -16198,6 +16470,44 @@
       "duration_ms": 172631,
       "name": "Z1000",
       "url": "https://open.spotify.com/track/6RJsM1UVeFtlb4uWXLG37T"
+    },
+    {
+      "album": {
+        "name": "Zidane",
+        "url": "https://open.spotify.com/album/6j0CTG6WzlXLfMp8MVO1M6"
+      },
+      "artists": [
+        {
+          "name": "Frost",
+          "url": "https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "YOVANCE!",
+          "url": "https://open.spotify.com/artist/5xekWu0d327YLtbYFhhDGu"
+        },
+        {
+          "name": "sickobabyxo",
+          "url": "https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL"
+        },
+        {
+          "name": "YG Saull",
+          "url": "https://open.spotify.com/artist/5JsdUwOF1q652VQpSdeC5Z"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Zidane",
+      "url": "https://open.spotify.com/track/1Byvv0RuG4JaJwRzdNoWqn"
     },
     {
       "album": {

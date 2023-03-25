@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Mc Taya
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,056 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,126 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Neurose](https://open.spotify.com/track/30H19lwk43YYwrzpgKK9xz) | [Mika Mc](https://open.spotify.com/artist/7Dtyvrw9EwQcMgHuBaOZJn), [Paola Spena](https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX) | [Neurose](https://open.spotify.com/album/1eq2mPYo4Pozh1a4sILQxg) | 2:34 |
 | 50 | [Apostas e Contratos \- Ao Vivo](https://open.spotify.com/track/79mrh2ByWxSh24uV8I6pIc) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Ashira No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea) | 3:32 |
 
-Snapshot ID: `MTY3OTAyMjA2MCwwMDAwMDAwMDNlOGRlM2U1YjkyZDZlMmFlZmVlYjNlZWNkNWJhNTdh`
+Snapshot ID: `MTY3OTAyMjA2MCwwMDAwMDAwMDVmYjlmNDBkMjQ1MmYyNDNhOGRjZmY0NDIwZmYyNWE3`

@@ -2,9 +2,9 @@
 
 ### [Club Rap ](https://open.spotify.com/playlist/37i9dQZF1DWWY5glQ3K3VV)
 
-> Canzoni rap per party fino al mattino! Cover: Guè, ANNA, Sfera Ebbasta
+> Canzoni rap per party fino al mattino! Cover: Tony Effe
 
-194 songs - 9 hr 49 min
+195 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Blueface \(feat\. Izi, Tedua\)](https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Glory Days EP](https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI) | 3:42 | 2022-05-01 |  |
 | [Boogieman \(feat\. Salmo\)](https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:39 | 2022-05-01 |  |
 | [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 | 2022-05-01 |  |
+| [BOSS](https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [BOSS](https://open.spotify.com/album/3sMOvpUohugjixq44SynQG) | 2:24 | 2023-03-23 |  |
 | [Bossoli](https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bossoli](https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq) | 2:58 | 2022-05-01 |  |
 | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp) | 2:44 | 2022-06-09 |  |
 | [C'est la rue](https://open.spotify.com/track/4uAbCVyHM56DlMM7qYj1AY) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [C'est la rue](https://open.spotify.com/album/7eWZqUMC43TaQgu4TW2KAN) | 2:17 | 2022-05-12 | 2022-07-29 |
@@ -183,7 +184,7 @@
 | [Tardi insieme](https://open.spotify.com/track/0jyF2iogsnyhZd5BGFtics) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Tardi insieme](https://open.spotify.com/album/7d66CkPBNjrzsAVDpRbQvT) | 2:09 | 2022-05-12 | 2022-05-15 |
 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:49 | 2022-05-01 |  |
 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 | 2022-05-01 |  |
-| [Thoiry Remix \(feat\. Gemitaiz, Quentin40, Puritano\) \- Samba Trap Vol\. 3 \- Mitraglia Rec](https://open.spotify.com/track/3Ej69N6aHGfSi4ERhwHRO8) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma), [Puritano](https://open.spotify.com/artist/1DRmznzLP5EnFFGo4h1ZyW) | [Pour l'amour](https://open.spotify.com/album/7248m1lfoXH1fmy61NujXg) | 2:54 | 2022-08-26 |  |
+| [Thoiry Remix \(feat\. Gemitaiz, Quentin40, Puritano\) \- Samba Trap Vol\. 3 \- Mitraglia Rec](https://open.spotify.com/track/3Ej69N6aHGfSi4ERhwHRO8) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma), [Puritano](https://open.spotify.com/artist/1DRmznzLP5EnFFGo4h1ZyW) | [Pour l'amour](https://open.spotify.com/album/7248m1lfoXH1fmy61NujXg) | 2:54 | 2022-08-26 | 2023-03-25 |
 | [Thoiry Remix \(Samba Trap Vol\. 3 \- Mitraglia Rec\) \(feat\. Gemitaiz, Quentin40 & Puritano\)](https://open.spotify.com/track/2l9XbXBbKoEfc1JdCvSz4n) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma), [Puritano](https://open.spotify.com/artist/1DRmznzLP5EnFFGo4h1ZyW) | [Pour l'amour](https://open.spotify.com/album/5YUj2Pnxql2GV3AWnwJJgb) | 2:54 | 2022-05-26 | 2022-06-01 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-12-30 | 2023-01-11 |
 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 | 2022-05-01 | 2022-11-19 |

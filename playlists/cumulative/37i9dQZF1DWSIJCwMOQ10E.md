@@ -4,7 +4,7 @@
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: La Mambanegra
 
-165 songs - 11 hr 24 min
+166 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD) | 4:39 | 2022-07-01 |  |
 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/6iXhpv1V5Ve5FSlJ4fpRsg) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Dos Decadas de Oro](https://open.spotify.com/album/5USvOUEgQWWhZ7CTEpfWsA) | 4:39 | 2022-08-12 | 2022-11-13 |
 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/4ee1fUrPVok1bEyj1cm4Rv) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/7C0OfgbApcvYfMJEgfUxyE) | 4:39 | 2021-10-01 | 2022-07-29 |
-| [El Pan De Estefanía](https://open.spotify.com/track/16FefzVT7e93dO2CWeuOFW) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 1:49 | 2023-02-14 |  |
+| [El Pan De Estefanía](https://open.spotify.com/track/16FefzVT7e93dO2CWeuOFW) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 1:49 | 2023-02-14 | 2023-03-25 |
 | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8) | 3:59 | 2021-10-01 | 2023-02-15 |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 | 2021-10-01 |  |
 | [En Silencio Te Amaré](https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [30 Mejores: El Combo de las Estrellas](https://open.spotify.com/album/1z7GXxwkXxAlJz1m6Rh14v) | 3:57 | 2022-07-01 | 2023-02-15 |
@@ -83,6 +83,7 @@
 | [La Noche Pinta Buena](https://open.spotify.com/track/6kRdDtXzVavPnQHOdwesss) | [Pacific Broders](https://open.spotify.com/artist/4eSxDx3Bqn3iahMM9yVxgq), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Noche Pinta Buena](https://open.spotify.com/album/6EEIFn4Um2eEPs6zBHNOvE) | 3:18 | 2021-10-01 | 2023-02-15 |
 | [La Oficial \- Remix](https://open.spotify.com/track/5JpUhPdInQTkknuw1wYoA1) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Oficial \(Remix\)](https://open.spotify.com/album/2CytLArktzEP6k1ran6G7j) | 3:39 | 2021-10-01 |  |
 | [La Paloma](https://open.spotify.com/track/5gtATfNv0ZcjAcdhzOabpp) | [Sara Acosta](https://open.spotify.com/artist/0eeDIOHmWdnzreYkSWLC61) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 4:03 | 2021-10-01 | 2022-07-02 |
+| [La Rompecorazones \- Remix](https://open.spotify.com/track/3FG6mOgYu6VuVdZLmUHWnQ) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [La Rompecorazones \(Remix\)](https://open.spotify.com/album/1jl55tnfPtXGxLFFJXeMW9) | 3:47 | 2023-03-25 |  |
 | [La Rumba Va Sola](https://open.spotify.com/track/2Tq7LsEmUR2tRIEn3tRkOt) | [Los Traviesos](https://open.spotify.com/artist/1CPCBrE4lAOlw4zbrqeCIL) | [Los Traviesos](https://open.spotify.com/album/4izIdqJ64ACWh2GVGQzNGB) | 3:31 | 2022-07-01 | 2023-02-15 |
 | [La Rumba Va Sola](https://open.spotify.com/track/4yKKY7Q6lJbN2vZoHOg6QE) | [Los Traviesos](https://open.spotify.com/artist/1CPCBrE4lAOlw4zbrqeCIL) | [Los Traviesos](https://open.spotify.com/album/2JgsIKv7TLCNALP6Xj1xqj) | 3:31 | 2021-10-01 | 2022-07-29 |
 | [La Vamo a Tumbá](https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [La Vamo a Tumbá](https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV) | 4:20 | 2021-10-01 | 2023-02-15 |

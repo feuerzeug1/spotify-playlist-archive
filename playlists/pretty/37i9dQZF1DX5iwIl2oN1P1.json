@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 76247,
+  "num_followers": 76406,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDM0MTM3Mjk2Zjg1YmZlNzM4MzEyZGM4NzUyNDU5OTIx",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDc5Njk1NDJmMmE2NTg5Mzg3MGU4YzYxZGYwMTFiM2Y3",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -943,6 +943,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Deitrick Haddon & Hill City Worship Camp",
+        "url": "https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 458498,
+      "name": "A Billion People",
+      "url": "https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Bigger Than Me",
         "url": "https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 295063,
       "name": "Blessings on Blessings",
       "url": "https://open.spotify.com/track/3VBq4uuOxikF23PWXPCuGu"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Deitrick Haddon & Hill City Worship Camp",
-        "url": "https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 458498,
-      "name": "A Billion People",
-      "url": "https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K"
     },
     {
       "added_at": "2020-06-03 14:33:10",

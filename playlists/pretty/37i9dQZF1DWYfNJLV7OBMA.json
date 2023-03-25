@@ -1,12 +1,12 @@
 {
   "description": "Trending Sinhalese pop hits. Cover - DILU Beats",
-  "num_followers": 23256,
+  "num_followers": 23330,
   "original_name": "Sinhala Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzQ4NDM5OSwwMDAwMDAwMDFjMWIyOTc1NWI3MWNjZDBmOGNkNzQ5MjJkYTYyN2I1",
+  "snapshot_id": "MTY3NzQ4NDM5OSwwMDAwMDAwMDFlYmUwM2UzNDk1NGU3MDAwZTczMDZiZDFiZTU1NzIx",
   "tracks": [
     {
       "added_at": "2023-02-27 07:53:19",
@@ -652,7 +652,7 @@
       "added_at": "2023-02-27 07:53:19",
       "album": {
         "name": "Danena Thuru Maa",
-        "url": "https://open.spotify.com/album/4fA65iLnPvYCeYLvIMPizQ"
+        "url": "https://open.spotify.com/album/0V3JnYuxmhAWEkNniY2lii"
       },
       "artists": [
         {
@@ -660,13 +660,21 @@
           "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
         },
         {
+          "name": "Manuranga Wijesekara",
+          "url": "https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw"
+        },
+        {
           "name": "Kanchana Anuradhi",
           "url": "https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u"
+        },
+        {
+          "name": "Amith Guru",
+          "url": "https://open.spotify.com/artist/7n7yFD0oaBaphaVWZpfbbT"
         }
       ],
       "duration_ms": 235312,
       "name": "Danena Thuru Maa",
-      "url": "https://open.spotify.com/track/3fPCob1jPMN9QmYDXwikvx"
+      "url": "https://open.spotify.com/track/0HSAlDJA3C54woJgIUPice"
     },
     {
       "added_at": "2023-02-27 07:53:19",

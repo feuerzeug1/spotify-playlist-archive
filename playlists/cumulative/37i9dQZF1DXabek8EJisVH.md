@@ -4,7 +4,7 @@
 
 > Soothing ambient and Hang to gently focus the mind.
 
-98 songs - 6 hr 33 min
+99 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [C\# Pygmy](https://open.spotify.com/track/6Hxgat5RmLkRvctiIFDr0G) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [The Journey](https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75) | 8:36 | 2022-09-08 |  |
 | [Calm Upon You \(Hang Solo\)](https://open.spotify.com/track/513r5uBhTWKwmyFyHLH812) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 5:01 | 2022-03-03 |  |
 | [Cloudy](https://open.spotify.com/track/2CIVH51v2nsuG1ATdm1lXq) | [Alfredo Rhahimi](https://open.spotify.com/artist/3n7qMfthPFCbwNtyrWAtNv) | [Cloudy](https://open.spotify.com/album/4IpD9tBjpYSqcOD702U1Tm) | 2:34 | 2022-03-25 |  |
+| [Day Dream](https://open.spotify.com/track/4ySaCVsJqGuiMDinbNf4tU) | [HandpanSolo](https://open.spotify.com/artist/2pOoggox0xym6qeDd6QStQ) | [Day Dream](https://open.spotify.com/album/5bQ31vPL6DlRcQ3Y8BHE3z) | 3:47 | 2023-03-24 |  |
 | [Deep Breathe](https://open.spotify.com/track/4lJEvmc9Ae4XjBABuHlbCH) | [Spiritual Meditation Vibes](https://open.spotify.com/artist/1ZxiigDh7uW74TuFXlb5WP) | [Hang Drum Music \- Relaxing Ambient for Meditation Yoga and Relax](https://open.spotify.com/album/7pptSJSIxXsiAWFVeOl6kh) | 3:28 | 2022-03-03 |  |
 | [Drishti](https://open.spotify.com/track/1nzf2NBv5Yvdkc7EcvqgXQ) | [Hang Drum Player](https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb) | [Purity](https://open.spotify.com/album/5uZ9dMjQ7WYbQngdA33vET) | 2:45 | 2022-06-29 |  |
 | [Drishti](https://open.spotify.com/track/6FevNGOJBHBRJv8ktN7wUe) | [Hang Drum Player](https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb) | [Purity](https://open.spotify.com/album/7wmJodLJHok1hRhWvrlRWK) | 2:45 | 2022-03-03 | 2022-07-29 |

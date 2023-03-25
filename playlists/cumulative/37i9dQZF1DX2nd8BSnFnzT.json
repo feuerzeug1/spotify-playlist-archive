@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Supercombo",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Plebe Rude",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -1237,6 +1237,24 @@
     },
     {
       "album": {
+        "name": ": (UMA BAD UMA FARRA: ) [Deluxe]",
+        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207070,
+      "name": "CORPO FECHADO",
+      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
+    },
+    {
+      "album": {
         "name": "Conflitos",
         "url": "https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7"
       },
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213786,
       "name": "Indigo Child",
       "url": "https://open.spotify.com/track/4MpaxLR4xcllymYh4isHoq"
@@ -3559,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Evolu\u00e7\u00e3o, Vol. 2",
+        "url": "https://open.spotify.com/album/0FRBkaMVeWroXGrpBOmXxg"
+      },
+      "artists": [
+        {
+          "name": "Plebe Rude",
+          "url": "https://open.spotify.com/artist/2azqeHE13Y8hP8YAjew9zL"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266726,
+      "name": "N\u00e3o \u00c9 F\u00e1cil Explicar para uma Crian\u00e7a",
+      "url": "https://open.spotify.com/track/140SKZV6z5q1I6vPKL2b0U"
+    },
+    {
+      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 Existir",
         "url": "https://open.spotify.com/album/5o4HjtKdN8PXhdfMAJOFcn"
       },
@@ -4558,7 +4594,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 227725,
       "name": "Real grandeza",
       "url": "https://open.spotify.com/track/4iYxIpgcAIUAGUaQLG9guW"

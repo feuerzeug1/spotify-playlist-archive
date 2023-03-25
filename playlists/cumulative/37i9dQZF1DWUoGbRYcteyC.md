@@ -2,7 +2,7 @@
 
 ### [Amor Amor](https://open.spotify.com/playlist/37i9dQZF1DWUoGbRYcteyC)
 
-> Qué bonito se siente el amor 💘
+> Qué bonito se siente el amor\. 💘
 
 217 songs - 12 hr 55 min
 

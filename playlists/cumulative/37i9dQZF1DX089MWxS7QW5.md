@@ -2,9 +2,9 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: CODE KUNST\(코드 쿤스트\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: OuiOui\(위위\)\)
 
-172 songs - 9 hr 49 min
+174 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [HUGS](https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [HUGS](https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl) | 3:44 | 2022-09-05 | 2022-12-16 |
 | [I \(feat\. MINSEO\)](https://open.spotify.com/track/0OmPQqX1CajqAZ4MkBz6tb) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [I \(feat\. MINSEO\)](https://open.spotify.com/album/7wcgA4iskyzVb8s4w7St3e) | 4:00 | 2022-05-28 | 2022-06-10 |
 | [I couldn't say it](https://open.spotify.com/track/0wjUPck5yAl1w5S1bkd5un) | [Sunghoon](https://open.spotify.com/artist/0F1NqsLCxTrKyFClJgtSUZ) | [CRONICLE](https://open.spotify.com/album/4YMtCMITwcAMvLfeywZ7ry) | 5:03 | 2022-07-04 | 2022-11-07 |
+| [I feel](https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [I feel](https://open.spotify.com/album/2bBm0Jj6uyLCUMmqiwL2xY) | 3:46 | 2023-03-23 |  |
 | [I JUST WANNA KNOW](https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 2:52 | 2022-05-28 | 2022-07-28 |
 | [I'm Your Puppy \- 2021](https://open.spotify.com/track/3ZnK8D6A0oO6mPmg9Id4R6) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [December](https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4) | 4:54 | 2022-05-28 | 2022-06-21 |
 | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ) | 4:56 | 2022-05-28 | 2022-08-03 |
@@ -179,6 +180,7 @@
 | [Zero gravity \(feat\. Blueday\)](https://open.spotify.com/track/4CHZmHfpzinqUwWiSYWPn7) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Zero gravity](https://open.spotify.com/album/1EyyquQhOTZzRuuwcN1VCF) | 3:16 | 2022-10-04 |  |
 | [겨울길 \(feat\. 영준\)](https://open.spotify.com/track/7s9ueFmPRPZvu2WnKJPeI9) | [Ray Hill](https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [나의 겨울](https://open.spotify.com/album/7m8rPBnClStMMpVT7BXt9y) | 3:59 | 2022-12-15 |  |
 | [상자 Box](https://open.spotify.com/track/5G9tvHT1pkXLuBoSkBWZkm) | [leanon](https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ) | [상자 Box](https://open.spotify.com/album/0omnobec3mXOettF99CQTu) | 3:03 | 2023-01-10 |  |
+| [여전히 여전해](https://open.spotify.com/track/7u0Kn9xnwMCI42h8uGe3qc) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [여전히 여전해](https://open.spotify.com/album/1muMVYqLEoTw2YUhCVvI0n) | 3:45 | 2023-03-23 |  |
 | [이른 겨울\(Feat\. Gist, 기원\(Giwon\)\)](https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [기원 \(Giwon\)](https://open.spotify.com/artist/1sf52yxej6A0Yso1Gv7vdY) | [이른 겨울](https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu) | 2:52 | 2022-12-15 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

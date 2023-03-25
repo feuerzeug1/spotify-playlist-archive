@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "You Are Freaking Me Out",
+        "url": "https://open.spotify.com/album/156UQKw2A5cse62sv0g2Sr"
+      },
+      "artists": [
+        {
+          "name": "Samiam",
+          "url": "https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Factory",
+      "url": "https://open.spotify.com/track/18N6ZTGXwZenUwtCOoLlp0"
+    },
+    {
+      "album": {
         "name": "You're Freaking Me Out",
         "url": "https://open.spotify.com/album/06KigeTnRtnm7YS0hjIVl8"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 210666,
       "name": "Factory",
       "url": "https://open.spotify.com/track/5hns2g1le2bQDkQaUJPRvB"

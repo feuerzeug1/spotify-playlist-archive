@@ -1,12 +1,12 @@
 {
   "description": "Artistas independientes emergentes, cada mi\u00e9rcoles. Foto: Jara Pol.",
-  "num_followers": 7863,
+  "num_followers": 7891,
   "original_name": "Fresh Finds Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQzOTYwMCwwMDAwMDAwMDQzZGViNjk5ZTliYjYxYzUwZDcwZTY4ODQ2ZGNkZThh",
+  "snapshot_id": "MTY3OTQzOTYwMCwwMDAwMDAwMDUyYTQ2NDU0MTY1OWZlYzAzNjUwN2NhZGVlODgwMzFm",
   "tracks": [
     {
       "added_at": "2023-03-21 23:00:00",
@@ -306,6 +306,10 @@
         {
           "name": "Sugarcrush",
           "url": "https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ"
+        },
+        {
+          "name": "Amanda Deveil",
+          "url": "https://open.spotify.com/artist/2oAbJEH2zPedm1msUWxwXv"
         }
       ],
       "duration_ms": 134794,

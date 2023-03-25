@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 180094,
       "name": "Almost True",
       "url": "https://open.spotify.com/track/4w52RAqrs2KipmS8b2PByU"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 147664,
       "name": "Big Spender",
       "url": "https://open.spotify.com/track/79b8nEVYn7Od2cqY1EhPrL"
@@ -2691,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "Plays Well With Others",
+        "url": "https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235757,
+      "name": "Don't Fence Me In / Strollin'",
+      "url": "https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk"
+    },
+    {
+      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/18vf3tVt6CZCJyaJ9Y3plh"
       },
@@ -3922,7 +3944,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 344840,
       "name": "House of Reflections",
       "url": "https://open.spotify.com/track/0rCWwMbw2a6YtelxX4Ro7v"
@@ -3962,6 +3984,24 @@
       "duration_ms": 318280,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
+    },
+    {
+      "album": {
+        "name": "How High the Moon",
+        "url": "https://open.spotify.com/album/0OJBWjLYBjfYpp5tWqbStP"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170306,
+      "name": "How High the Moon",
+      "url": "https://open.spotify.com/track/3C3VHurxO0DQibbmDs9tvD"
     },
     {
       "album": {
@@ -4814,7 +4854,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174066,
       "name": "I'm in a Mess (feat. Samara Joy)",
       "url": "https://open.spotify.com/track/67EzBKdJSiSZmq9q5Ustyz"
@@ -6032,7 +6072,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 303266,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/2eLtQAYHNzglYKH2nGaBrn"
@@ -7157,6 +7197,24 @@
     },
     {
       "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/65UnTcy15RkjNnPGQXpx7u"
+      },
+      "artists": [
+        {
+          "name": "Mathew V",
+          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159294,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/2I7LnGwzorTgRFn7FymQRg"
+    },
+    {
+      "album": {
         "name": "My Cardiologist",
         "url": "https://open.spotify.com/album/63UkG5pD5GJyWACqQ1BVR1"
       },
@@ -7340,10 +7398,36 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 193887,
       "name": "M\u00e9lusine",
       "url": "https://open.spotify.com/track/11xHFmZ9IuwLjciHW3alnF"
+    },
+    {
+      "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555"
+      },
+      "artists": [
+        {
+          "name": "Lennart Ricard",
+          "url": "https://open.spotify.com/artist/477Kac69blOYChn7cvOb87"
+        },
+        {
+          "name": "Josephine Philip",
+          "url": "https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275857,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/5AJKyrzyp9O2TurdqMh1JT"
     },
     {
       "album": {
@@ -7362,6 +7446,24 @@
       "duration_ms": 311423,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/2m7mn0YHBcPLfZaNwmzBp8"
+    },
+    {
+      "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/5jwAJkrOO8IDT3l4VChY9F"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/6qb2rhcuK47JxLkyVAqbyA"
     },
     {
       "album": {
@@ -7604,6 +7706,28 @@
       "duration_ms": 325455,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/18piOBRPMJS16dqW3BiJ4P"
+    },
+    {
+      "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/0SuDfLmKL0ssHmajwKGZ8G"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/5Ke5AnORQzHKS1xkvXG0uI"
     },
     {
       "album": {
@@ -7900,6 +8024,24 @@
       "duration_ms": 285306,
       "name": "Perhaps You'll Wonder Why",
       "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
+    },
+    {
+      "album": {
+        "name": "M\u00e9lusine",
+        "url": "https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140686,
+      "name": "Petite musique terrienne",
+      "url": "https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY"
     },
     {
       "album": {
@@ -8436,7 +8578,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 284066,
       "name": "September Song",
       "url": "https://open.spotify.com/track/5lD1atAiuVUmmo3etvpGT0"
@@ -9544,7 +9686,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 278773,
       "name": "Thank You for the Heartbreak",
       "url": "https://open.spotify.com/track/0FUm0D50IIAu8D7QLpKCzO"
@@ -10322,6 +10464,24 @@
       "duration_ms": 158850,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/0V3RUFrfJ71hezlZOgEXTI"
+    },
+    {
+      "album": {
+        "name": "They Say It's Spring",
+        "url": "https://open.spotify.com/album/6kshTowa1Ikhg1rLcHDhPX"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288128,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/6i5utOAbdSFJL88NeaKTmD"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Nia Archives
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Elkka
 
-139 songs - 10 hr 20 min
+144 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-03-16 |  |
 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 | 2023-03-16 |  |
 | [Count Dubwise](https://open.spotify.com/track/0YUzgQ48gp5WhSNBacDmBP) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Count Dubwise](https://open.spotify.com/album/6Gc0nUJTHbvxkT1MlGldaL) | 5:01 | 2023-03-16 |  |
+| [Cry Cry Cry](https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Cry Cry Cry](https://open.spotify.com/album/76swTUVCbbVU1pZHr2YMrO) | 3:22 | 2023-03-23 |  |
 | [Day After A Night With U](https://open.spotify.com/track/7y8pAk4nCXztVFlfX9bjXv) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/3aAdl6Divum9GxEWGTdjEj) | 5:59 | 2023-03-16 | 2023-03-21 |
 | [DB](https://open.spotify.com/track/0rR0Jb0IfO9ounxbGYSCzN) | [Rave Racers](https://open.spotify.com/artist/7cAx8raTkmzauwfJqGj0Ug), [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Overtake.](https://open.spotify.com/album/5T0w38lAoRUZ1qtT9nafEt) | 3:27 | 2023-03-16 |  |
 | [DEEP IN VOGUE \- feat\. Sophie Ellis\-Bextor](https://open.spotify.com/track/3RtT4bWTzrgAldm9ksoOME) | [RHYME SO](https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [DEEP IN VOGUE \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/album/0FdtnL6SUuctP8bq8WNYhI) | 4:12 | 2023-03-16 |  |
@@ -56,11 +57,13 @@
 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 | 2023-03-16 |  |
 | [finish line](https://open.spotify.com/track/0kRFW9RsJa47yjr9ZNLpwT) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [finish line](https://open.spotify.com/album/5eBI8MKTlqeHGmHLevQ0ZP) | 2:21 | 2023-03-20 |  |
 | [FLOATER](https://open.spotify.com/track/7uIEejcIle42pGpcoRn2lu) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [FLOATER](https://open.spotify.com/album/2AaOpbSgugircmKoV2NxZ4) | 6:30 | 2023-03-16 |  |
+| [Foggy Morning](https://open.spotify.com/track/2K3CQS80oYdLDLEmQnEk8B) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Foggy Morning](https://open.spotify.com/album/1YcTybk2o4IELX4vG55rZ0) | 4:16 | 2023-03-23 |  |
 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 | 2023-03-16 |  |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-03-16 |  |
 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 | 2023-03-20 |  |
 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 | 2023-03-16 |  |
 | [Groovin'](https://open.spotify.com/track/6K0gMnFO7HgrKGJKmGL1Wm) | [KTTK](https://open.spotify.com/artist/6twl7VzHH1aK1FFkOgaIyJ), [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [Groovin'](https://open.spotify.com/album/4YdSc00ZUmKc0GibiyMxhm) | 3:44 | 2023-03-16 |  |
+| [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 | 2023-03-23 |  |
 | [Higher Elevation](https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/1D4EJmfAi8VJbMocGS5MaC) | 6:13 | 2023-03-16 |  |
 | [Highway](https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g) | 5:28 | 2023-03-16 |  |
 | [Home](https://open.spotify.com/track/3Unshf7Oguqu9kuCXWsIUg) | [Maurice Lessing](https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r) | [Home](https://open.spotify.com/album/7bQ1ECZni7uBx1o44CC3er) | 3:56 | 2023-03-16 |  |
@@ -131,6 +134,7 @@
 | [The Way To Do It](https://open.spotify.com/track/18gn195iZFHDeLX7PiBkfp) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [The Way To Do It](https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ) | 5:20 | 2023-03-16 |  |
 | [Time](https://open.spotify.com/track/0TM0ZhX3ue9P3vj26MHeVd) | [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Time](https://open.spotify.com/album/0BSOgnavLMmMdUh1J6YdEa) | 3:23 | 2023-03-16 |  |
 | [Tivoli](https://open.spotify.com/track/4gRhss10Km9aMS5Qyz8WpT) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [360 Pop Shove It](https://open.spotify.com/album/2q5edUjF1UctSXrxbg2M2U) | 5:32 | 2023-03-16 |  |
+| [Ton Tan](https://open.spotify.com/track/04D3cKeSy2oiMEYXQ0QByH) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Ton Tan](https://open.spotify.com/album/5h7FMG8z43wfbxVdThqz49) | 4:33 | 2023-03-23 |  |
 | [Top Cats](https://open.spotify.com/track/6jMtARKUU23buhnTsVJrzH) | [Golan](https://open.spotify.com/artist/3v51DcP9QFy7yTdtMy5suW) | [II](https://open.spotify.com/album/6gRqPfNdY6oa7WIhMKYdH3) | 4:56 | 2023-03-16 | 2023-03-21 |
 | [Traps](https://open.spotify.com/track/251gYtF1RLhOhspRtYMcCR) | [&lez](https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq) | [Traps](https://open.spotify.com/album/5FbON3pXzWlUeZt5JvXr5W) | 7:44 | 2023-03-16 |  |
 | [Unfolding \(Momentum 73\) \- Ron Trent Remix](https://open.spotify.com/track/5eSKAYrvRTXpLxGrAirVZ5) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Unfolding \(Momentum 73\) \[Ron Trent Remix\]](https://open.spotify.com/album/28xecaf0DFRLkdhgcdsWOS) | 8:32 | 2023-03-16 |  |
@@ -138,6 +142,7 @@
 | [updown](https://open.spotify.com/track/06vDTKSGYDtZpXt8q0S5Zb) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [updown](https://open.spotify.com/album/2OXEwDrbFYYhTFf2WiNwOJ) | 2:45 | 2023-03-16 |  |
 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 | 2023-03-16 |  |
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2023-03-16 |  |
+| [We Are One \- Radio Edit](https://open.spotify.com/track/4oXB7yalnzh5fXIXVLNmkl) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7) | [We Are One \(Radio Edit\)](https://open.spotify.com/album/62b4WLsGyNKsfBu3AI7Wb5) | 3:12 | 2023-03-23 |  |
 | [We Still Believe](https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [We Still Believe](https://open.spotify.com/album/4U5Eel8ZnGcI15TLj33QYe) | 3:50 | 2023-03-16 |  |
 | [West Side](https://open.spotify.com/track/4vkhFAwrhdY7qVbKxrAtQi) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Belle Humble](https://open.spotify.com/artist/5Uh9Oco0Khv18UvTo2PucM) | [West Side](https://open.spotify.com/album/41ZjM11DQjpLEj8VJ8wPxK) | 3:20 | 2023-03-16 |  |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-03-16 |  |

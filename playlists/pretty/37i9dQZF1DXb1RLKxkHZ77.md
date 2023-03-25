@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Dalia Farhana
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,772 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,047 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Cincin](https://open.spotify.com/track/1EJg6foawSmh0vWKuIhm3m) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD), [Raffa Affar](https://open.spotify.com/artist/7JqV001XBrSr1Iyt66VPGk) | [Cincin](https://open.spotify.com/album/0U7tFuSVBKSbhuc2msgeq0) | 3:51 |
 | 50 | [janji kita bertemu lagi](https://open.spotify.com/track/5JO9dDda0tqXhPOhA6y4VL) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [janji kita bertemu lagi](https://open.spotify.com/album/24GLmkNtjkUQaEUFQsjoDB) | 4:18 |
 
-Snapshot ID: `MTY3OTQ2NDc5OSwwMDAwMDAwMDIwNDQzMzRhZGE3YTAyM2U0ZTBhZTFkNTZlNTgxOTMy`
+Snapshot ID: `MTY3OTQ2NDc5OSwwMDAwMDAwMDA1YTAxYzNjYTc4ZDE1YjhiMTlkNTI3YjlhODYxNTY1`

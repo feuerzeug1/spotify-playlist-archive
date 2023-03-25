@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,341 likes - 60 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,424 likes - 60 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 26 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 |
 | 27 | [Strong God](https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:05 |
 | 28 | [Days of Elijah \- Live](https://open.spotify.com/track/0t32E01dieVWKQqHKr0P6W) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:51 |
-| 29 | [Good Grace \- Live](https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/5r7TYE2HhPqC5emV9WXW9c), [Matt Crocker](https://open.spotify.com/artist/6t0nNBhziyctl7T6BmAcl0) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:53 |
+| 29 | [Good Grace \- Live](https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/5r7TYE2HhPqC5emV9WXW9c), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:53 |
 | 30 | [Glad](https://open.spotify.com/track/5A0oGUmevPWPolAKjKgQFn) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Heaven on Earth](https://open.spotify.com/album/3aSdQoCb6zZZJXMFFiSi8a) | 3:56 |
 | 31 | [Hallelujah](https://open.spotify.com/track/6CkaTdwbpVVeC6XHbhuzcF) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Faith](https://open.spotify.com/album/6JUI72oFpMhRDAlFAMDkZO) | 5:27 |
 | 32 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 59 | [Glory to Jesus](https://open.spotify.com/track/6xTrc6cdCG4swyK75GfOmk) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk), [The Full Gospel Ministry of Worship](https://open.spotify.com/artist/1m9u6bfLWyFzDsV3zK0MTV), [Bishop William Murphy](https://open.spotify.com/artist/6SQCM4MqvXTzLEWovhqG6b) | [A Month of Sundays](https://open.spotify.com/album/6GPwNqo4wJrrsy3DPv94jR) | 5:11 |
 | 60 | [Yeshua](https://open.spotify.com/track/37T7RYTyUFprERyvcVgKXR) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Yeshua](https://open.spotify.com/album/55bIedlvdE17Lc5xS1kliN) | 3:19 |
 
-Snapshot ID: `MTY3Njk5MDAwMCwwMDAwMDAwMDk1MmVmMTY2MTU5NzBhODE0Mjg2NTdjMzkxNGM1MDE3`
+Snapshot ID: `MTY3Njk5MDAwMCwwMDAwMDAwMDBkZDkyODBkZTIwNTM0Njk3MTlkMjBmZjA5ODNjMmU2`

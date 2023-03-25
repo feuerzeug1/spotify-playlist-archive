@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,992 likes - 325 songs - 13 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,069 likes - 325 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -334,4 +334,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 324 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 |
 | 325 | [Dorceto](https://open.spotify.com/track/2EEkvvplJVKLql7FrdUv2T) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Dorceto](https://open.spotify.com/album/5QcHQNocj4pf5FmM3DzwYH) | 3:01 |
 
-Snapshot ID: `MTY3OTM5NTI5NSwwMDAwMDAwMDU0YjQxMTI1ZTliYjJjYmI5NTFhMjNlMTExNzc3ZmEy`
+Snapshot ID: `MTY3OTM5NTI5NSwwMDAwMDAwMDViMGUxNzdlZjg1MWViOWQ0MzMwMTVmNDAwZTEzMTMz`

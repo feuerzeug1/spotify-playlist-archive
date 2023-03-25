@@ -1,13 +1,65 @@
 {
   "description": "drip down",
-  "num_followers": 496187,
+  "num_followers": 496441,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQyMTg2MiwwMDAwMDAwMGNjNzQ0ZTc4NzkzY2YwNzY4MWY5MGZmZGUwYTQxMGM3",
+  "snapshot_id": "MTY3OTU5Nzg1NywwMDAwMDAwMDNlMjFlMmQ0N2NiNTQwYjE2MWQ3ZmYwMWQ2OWU5YTE4",
   "tracks": [
+    {
+      "added_at": "2023-03-23 18:57:37",
+      "album": {
+        "name": "bbq",
+        "url": "https://open.spotify.com/album/0Vk3buSg00AcSP3vv0cBEG"
+      },
+      "artists": [
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "duration_ms": 122352,
+      "name": "bbq",
+      "url": "https://open.spotify.com/track/5TIVr1YDRbTmVoPDZRbGDN"
+    },
+    {
+      "added_at": "2023-03-23 18:57:37",
+      "album": {
+        "name": "Show Me The Money (with Tkay Maidza)",
+        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Show Me The Money (with Tkay Maidza)",
+      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
+    },
+    {
+      "added_at": "2023-03-23 18:48:41",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 152593,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
+    },
     {
       "added_at": "2023-03-03 16:17:37",
       "album": {
@@ -27,30 +79,6 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2023-03-03 16:17:37",
-      "album": {
-        "name": "froge.mp3",
-        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        }
-      ],
-      "duration_ms": 135386,
-      "name": "on & on",
-      "url": "https://open.spotify.com/track/5mfGEs5n647v4WE3K5YmBy"
     },
     {
       "added_at": "2023-03-03 16:17:37",
@@ -175,6 +203,30 @@
       "duration_ms": 155800,
       "name": "The Most Wanted Person In The United States",
       "url": "https://open.spotify.com/track/3txrp0QdO0wiF4yqiofzJv"
+    },
+    {
+      "added_at": "2023-03-03 16:17:37",
+      "album": {
+        "name": "froge.mp3",
+        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "duration_ms": 135386,
+      "name": "on & on",
+      "url": "https://open.spotify.com/track/5mfGEs5n647v4WE3K5YmBy"
     },
     {
       "added_at": "2023-03-03 19:32:35",

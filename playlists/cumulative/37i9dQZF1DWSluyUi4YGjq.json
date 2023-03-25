@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "All That I've Wasted",
+        "url": "https://open.spotify.com/album/76O4Nw778B7Xa34TASnvA8"
+      },
+      "artists": [
+        {
+          "name": "Aodhan",
+          "url": "https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "All That I've Wasted",
+      "url": "https://open.spotify.com/track/2tHAj5Py3sXE8pJyh5ouPz"
+    },
+    {
+      "album": {
         "name": "Love Addict",
         "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 204202,
       "name": "Blaster",
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
@@ -706,6 +724,24 @@
       "duration_ms": 338000,
       "name": "Bloodhail",
       "url": "https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/76LGx54WGptsGBHL497A3k"
+      },
+      "artists": [
+        {
+          "name": "Glare",
+          "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139663,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe"
     },
     {
       "album": {
@@ -1160,7 +1196,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 240678,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
@@ -1182,6 +1218,24 @@
       "duration_ms": 335200,
       "name": "Confeti",
       "url": "https://open.spotify.com/track/6td6C7NuSCqYgrP3XrBC8a"
+    },
+    {
+      "album": {
+        "name": "Cranekiss",
+        "url": "https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230408,
+      "name": "Cranekiss",
+      "url": "https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1"
     },
     {
       "album": {
@@ -1524,6 +1578,24 @@
       "duration_ms": 387065,
       "name": "Drag Me into the Woods",
       "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
+    },
+    {
+      "album": {
+        "name": "See You In The Dark",
+        "url": "https://open.spotify.com/album/4TtZH64f81Pv1Y7rpwqDBe"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202207,
+      "name": "Drain",
+      "url": "https://open.spotify.com/track/4sGNbU1Yso426z6mmhtdVv"
     },
     {
       "album": {
@@ -1938,7 +2010,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 153746,
       "name": "Frame Of Reference",
       "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
@@ -2439,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "The Moth, The Lizard, And The Secret Machines",
+        "url": "https://open.spotify.com/album/21dYzZhlxvBeHShNB26zHu"
+      },
+      "artists": [
+        {
+          "name": "Secret Machines",
+          "url": "https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271521,
+      "name": "I Think It's Light Outside",
+      "url": "https://open.spotify.com/track/0VFtbHmwmD2aZ3MjfOyipM"
+    },
+    {
+      "album": {
         "name": "idk how to luv",
         "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
       },
@@ -2522,7 +2612,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 234706,
       "name": "In Your Way",
       "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
@@ -2756,7 +2846,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 293160,
       "name": "Keen on Boys",
       "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
@@ -3412,7 +3502,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 183221,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4saJggfntxQyb3Ro8mk03U"
@@ -3942,6 +4032,24 @@
       "duration_ms": 280230,
       "name": "Reel",
       "url": "https://open.spotify.com/track/1SHkhQfzSnMFOAYlrJjVKA"
+    },
+    {
+      "album": {
+        "name": "reina de primavera",
+        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245840,
+      "name": "reina de primavera",
+      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
     },
     {
       "album": {
@@ -4543,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "te odio",
+        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "te odio",
+      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
+    },
+    {
+      "album": {
         "name": "Big Sonic Chill",
         "url": "https://open.spotify.com/album/4AHs5grKVa8hEZ5QC2acDd"
       },
@@ -4670,7 +4796,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 198773,
       "name": "This Time",
       "url": "https://open.spotify.com/track/6YQSQ6CQN4pIcXEiOqoH8x"
@@ -4760,7 +4886,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 275253,
       "name": "Too Wild",
       "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
@@ -4969,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122812,
+      "name": "Where I Met U",
+      "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
+    },
+    {
+      "album": {
         "name": "While My Waves Wonder",
         "url": "https://open.spotify.com/album/14y51JzZl0GaKz19SNGcJM"
       },
@@ -5034,7 +5178,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 241533,
       "name": "Who's Counting",
       "url": "https://open.spotify.com/track/1UMij8I1SjJi3Syusg35sp"
@@ -5142,7 +5286,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 187326,
       "name": "\u041f\u0435\u0441\u043d\u044f \u043e \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ"

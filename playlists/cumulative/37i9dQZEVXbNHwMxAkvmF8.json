@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 170100,
       "name": "3 Nap",
       "url": "https://open.spotify.com/track/0R7YvZPeHphkV48ffoGmsl"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -3530,7 +3530,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
@@ -4562,7 +4562,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 136286,
       "name": "Gett\u00f3 csirke",
       "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
@@ -4990,6 +4990,28 @@
       "duration_ms": 152024,
       "name": "Hajnal",
       "url": "https://open.spotify.com/track/0kLmLucTuugT9s12lZ3iWj"
+    },
+    {
+      "album": {
+        "name": "Hajnali 2",
+        "url": "https://open.spotify.com/album/3gKXbVGcmQgSV9cbj2QA57"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "APU",
+          "url": "https://open.spotify.com/artist/3631P73c0HmNeHWmDlUoTM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Hajnali 2",
+      "url": "https://open.spotify.com/track/1gwphQDBqnWXO37xTMdbCN"
     },
     {
       "album": {
@@ -7134,7 +7156,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 168800,
       "name": "Lej",
       "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
@@ -11812,7 +11834,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 211022,
       "name": "Spanom",
       "url": "https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ"
@@ -13650,7 +13672,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 154500,
       "name": "voltm\u00e1rkicsi",
       "url": "https://open.spotify.com/track/0faYxc8g09uniud0ToGDRb"

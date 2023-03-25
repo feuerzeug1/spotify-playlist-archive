@@ -823,6 +823,28 @@
     },
     {
       "album": {
+        "name": "Devil Came Down the Dance Floor (feat. Amber Martin)",
+        "url": "https://open.spotify.com/album/7xTI7cBnfrV97YIfZ7ExZb"
+      },
+      "artists": [
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        },
+        {
+          "name": "Amber Martin",
+          "url": "https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224813,
+      "name": "Devil Came Down the Dance Floor (feat. Amber Martin)",
+      "url": "https://open.spotify.com/track/0oOqx0hphAQLKu2Xa5C0G2"
+    },
+    {
+      "album": {
         "name": "Different Directions",
         "url": "https://open.spotify.com/album/4VOq3YC6cWd1kULS0oKEKL"
       },
@@ -1516,7 +1538,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 216000,
       "name": "Imagine You",
       "url": "https://open.spotify.com/track/02zo8sphd3hpK65FyJolj9"
@@ -1568,6 +1590,32 @@
       "duration_ms": 444172,
       "name": "In The Mood To Groove - Dave Lee Extended Mix",
       "url": "https://open.spotify.com/track/1ZAgfz1nuysUBaqOcpxGG2"
+    },
+    {
+      "album": {
+        "name": "In This Life (Cassara Remix)",
+        "url": "https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Mandy Jones",
+          "url": "https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ"
+        },
+        {
+          "name": "Cassara",
+          "url": "https://open.spotify.com/artist/6zg5DXDe11supw2zNxGMck"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381639,
+      "name": "In This Life - Cassara Remix",
+      "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
     },
     {
       "album": {
@@ -3150,7 +3198,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 278426,
       "name": "Too Much Music",
       "url": "https://open.spotify.com/track/0WwJffrixdTk9m74Gr5K1N"
@@ -3288,7 +3336,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
@@ -3416,6 +3464,32 @@
       "duration_ms": 211205,
       "name": "You Keep Saying",
       "url": "https://open.spotify.com/track/7ebT6YZGAkTCRyCbfGX0I4"
+    },
+    {
+      "album": {
+        "name": "You Make Me Feel So Good",
+        "url": "https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "You Make Me Feel So Good",
+      "url": "https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1113135,
+  "num_followers": 1113633,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMDFmYTExZjU1YjY5NDU5OWQwYWQwYjZjMThiMTgzZmRl",
+  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMGI5MjE5NGI5YjNmZTM3NjRmYmQ0NmI3ZTc0OTE2YzRh",
   "tracks": [
     {
       "added_at": "2022-08-12 03:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Necesito",
-      "url": "https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
         "name": "Pappo's Blues, Vol.8: Caso Cerrado",
         "url": "https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 186906,
       "name": "Ruta 66",
       "url": "https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Necesito",
+      "url": "https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7"
     },
     {
       "added_at": "2022-08-12 03:00:00",

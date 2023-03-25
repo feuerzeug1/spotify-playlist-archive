@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "BLOODPUDDLE",
+        "url": "https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "BLOODPUDDLE",
+      "url": "https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO"
+    },
+    {
+      "album": {
         "name": "Brainfreeze",
         "url": "https://open.spotify.com/album/7eEbep8JcpiguccrgdNcms"
       },
@@ -910,7 +928,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 187813,
       "name": "Face is Gone",
       "url": "https://open.spotify.com/track/3nyRCnIVyv3LyGCESLMnrp"
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 148053,
       "name": "GASLIGHT!",
       "url": "https://open.spotify.com/track/4sqsaID1vck0Sxis6EPzci"
@@ -1249,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "HATE PARTY",
+        "url": "https://open.spotify.com/album/6L4voUmXNjOw6fTimrXJnn"
+      },
+      "artists": [
+        {
+          "name": "bodyimage",
+          "url": "https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148591,
+      "name": "HATE PARTY",
+      "url": "https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z"
+    },
+    {
+      "album": {
         "name": "HATEFUCK",
         "url": "https://open.spotify.com/album/2JN7YYzP0l4WkIlHIeFfIa"
       },
@@ -1268,6 +1308,24 @@
       "duration_ms": 196880,
       "name": "HATEFUCK",
       "url": "https://open.spotify.com/track/2G6AOP03YY7hCCxvskZLb4"
+    },
+    {
+      "album": {
+        "name": "Haylo",
+        "url": "https://open.spotify.com/album/7t9bnEaLxctp8lexAFEb5F"
+      },
+      "artists": [
+        {
+          "name": "Teenage Disaster",
+          "url": "https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79707,
+      "name": "Haylo",
+      "url": "https://open.spotify.com/track/5ih8rs2vdkf3jDpKQ8Dc6L"
     },
     {
       "album": {
@@ -2315,6 +2373,28 @@
     },
     {
       "album": {
+        "name": "Pay the Butcher's Bill",
+        "url": "https://open.spotify.com/album/3Nf0NKxvznQwcly521Zj7a"
+      },
+      "artists": [
+        {
+          "name": "Angelspit",
+          "url": "https://open.spotify.com/artist/7Coo58A8U3BCpCl4nQ3pda"
+        },
+        {
+          "name": "4th Wall",
+          "url": "https://open.spotify.com/artist/21vsckiGZoMCydfJIR69qz"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247821,
+      "name": "Pay the Butcher's Bill",
+      "url": "https://open.spotify.com/track/42yx5VJxrEzRqkXDGIEnbF"
+    },
+    {
+      "album": {
         "name": "peachy",
         "url": "https://open.spotify.com/album/70hyK14y20n2Eooh8RyOv7"
       },
@@ -2402,7 +2482,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 171013,
       "name": "PORN ACTING*",
       "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"

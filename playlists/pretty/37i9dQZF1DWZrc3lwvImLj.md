@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad and moody piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,037 likes - 216 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,214 likes - 216 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 215 | [Waltz For Olivia](https://open.spotify.com/track/5OPVL9eRJePaHRxuULUGju) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:40 |
 | 216 | [Un sogno tutto mio](https://open.spotify.com/track/09MOGGltE3OpP7e5V0XLej) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Un sogno tutto mio](https://open.spotify.com/album/4RoP7tZyamHdU49ZI17BFb) | 2:40 |
 
-Snapshot ID: `MTY3ODc5NDUyMSwwMDAwMDAwMGM2Y2Q0Y2Q2OTE3MzJjOGE2OTc3ZjkyMTZlN2YxZDQw`
+Snapshot ID: `MTY3ODc5NDUyMSwwMDAwMDAwMGIxMWYxNmEyNjFmMjIwODE2MzA1NTNjMzllMWMxNGM0`

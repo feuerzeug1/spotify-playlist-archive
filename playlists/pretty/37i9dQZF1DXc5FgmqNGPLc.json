@@ -1,13 +1,29 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 5266,
+  "num_followers": 5290,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGEyYjdjOTIwZmZmZjA5MDQyN2FkOTVhNzBjMjQ1NDVi",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDVlNjQ2OGQzNTgzMmJkNjZkNDM3MGMwMDY3MzAyMDFi",
   "tracks": [
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Live at Fabrik Hamburg 1981, Vol. 1",
+        "url": "https://open.spotify.com/album/7JBQQD8VDvqSacOz4NsQYg"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 573398,
+      "name": "Bluesbird Blues - Live",
+      "url": "https://open.spotify.com/track/4wgMRK5oV43WPIKeq9F5b7"
+    },
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
@@ -27,6 +43,26 @@
       "duration_ms": 498000,
       "name": "First Light - Live",
       "url": "https://open.spotify.com/track/3uXFvzREIaJ4vupIMyIaOx"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Smile (Live)",
+        "url": "https://open.spotify.com/album/5zGvj76mc5eqobiqYiRq2U"
+      },
+      "artists": [
+        {
+          "name": "Shirley Scott",
+          "url": "https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI"
+        },
+        {
+          "name": "George Coleman",
+          "url": "https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH"
+        }
+      ],
+      "duration_ms": 559600,
+      "name": "Smile - Live",
+      "url": "https://open.spotify.com/track/0OlyfGCXmgPfSQvwJLuqqv"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -547,38 +583,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "I Do It For Your Love",
-        "url": "https://open.spotify.com/album/5S1AvsNiHQm4Ynt0KHdGI4"
-      },
-      "artists": [
-        {
-          "name": "Joris Teepe",
-          "url": "https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        },
-        {
-          "name": "Don Braden",
-          "url": "https://open.spotify.com/artist/6qppe86GWNyVd8KeAbvg1o"
-        },
-        {
-          "name": "Bruce Cox",
-          "url": "https://open.spotify.com/artist/5alxENWo4vQJNNNbjvuSf6"
-        }
-      ],
-      "duration_ms": 381335,
-      "name": "I Do It For Your Love",
-      "url": "https://open.spotify.com/track/4Rnob7gKR2aLS7sm1IeJKO"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Live in Paris",
         "url": "https://open.spotify.com/album/6UeVvu9ou7G4ZhZIE5rSRn"
       },
@@ -849,22 +853,6 @@
       "url": "https://open.spotify.com/track/6XMBsqFCKYGBeydljl78gM"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Love Is For Real (Live in New York City, February 8, 1975)",
-        "url": "https://open.spotify.com/album/6YrBa9ZMQN2DkvvQAFaxFM"
-      },
-      "artists": [
-        {
-          "name": "Alan Braufman",
-          "url": "https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H"
-        }
-      ],
-      "duration_ms": 281493,
-      "name": "Love Is For Real - Live in New York City, February 8, 1975",
-      "url": "https://open.spotify.com/track/2T2VyRuyVlYt4uzy8ALJm6"
-    },
-    {
       "added_at": "2021-12-01 18:23:52",
       "album": {
         "name": "Nightconcert",
@@ -971,22 +959,6 @@
       "duration_ms": 467693,
       "name": "Perdido - Live",
       "url": "https://open.spotify.com/track/5Z6cjKT9giCudItSjdDRM9"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "Chant (Live in New York City, February 8, 1975)",
-        "url": "https://open.spotify.com/album/7MksN41NTRhxmEqKJoTqVs"
-      },
-      "artists": [
-        {
-          "name": "Alan Braufman",
-          "url": "https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H"
-        }
-      ],
-      "duration_ms": 273653,
-      "name": "Chant - Live in New York City, February 8, 1975",
-      "url": "https://open.spotify.com/track/0Lw72hrW5ARR7Q0VR0lmFF"
     },
     {
       "added_at": "2021-11-26 05:01:00",

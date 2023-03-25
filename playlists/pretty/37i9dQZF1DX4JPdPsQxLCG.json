@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49720,
+  "num_followers": 49729,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDBhOTM0ZWNhMGEzNWI4NjUzZjc1ZTBjOWIyOTIzM2Yy",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDRhMjAzNjc1MDRhMWI3N2U0ODNlYzExNDNiODc3ODFm",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Honeymoon Suite",
-        "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
-      },
-      "artists": [
-        {
-          "name": "Honeymoon Suite",
-          "url": "https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "New Girl Now",
-      "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 248200,
       "name": "Don't Forget Me (When I'm Gone)",
       "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Honeymoon Suite",
+        "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
+      },
+      "artists": [
+        {
+          "name": "Honeymoon Suite",
+          "url": "https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "New Girl Now",
+      "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
     },
     {
       "added_at": "2022-09-13 21:55:44",

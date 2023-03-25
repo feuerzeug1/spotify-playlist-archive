@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Pau Mueller\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,214 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,240 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 19 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 |
 | 20 | [Los ojos](https://open.spotify.com/track/7myGZGiVdiN0LH5Oa0k3Bg) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Los ojos](https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk) | 3:34 |
 | 21 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
-| 22 | [CORAZON DE NIEVE](https://open.spotify.com/track/6jKdi3HZuPTpr8BPap6D2b) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [SINCERAMENTE, BEBE](https://open.spotify.com/album/5pRyuC3CDcSZkJbg3KUFut) | 2:48 |
-| 23 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
+| 22 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
+| 23 | [CORAZON DE NIEVE](https://open.spotify.com/track/6jKdi3HZuPTpr8BPap6D2b) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [SINCERAMENTE, BEBE](https://open.spotify.com/album/5pRyuC3CDcSZkJbg3KUFut) | 2:48 |
 | 24 | [Complejo de Martir](https://open.spotify.com/track/5xVAjvnDSbjEQjTX3LXQKB) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Complejo de Martir](https://open.spotify.com/album/7anGWpldwOfPvADPqdoPq4) | 3:15 |
-| 25 | [Pelicula](https://open.spotify.com/track/0uqPbGs9P2GH8nS4EdT4WZ) | [J Reboll](https://open.spotify.com/artist/6yEEfhFfsrrYeOHLYOW8HB) | [Pelicula](https://open.spotify.com/album/1N9omVg4wsBZjEbH7LkA5s) | 2:19 |
-| 26 | [Tus Te Quieros](https://open.spotify.com/track/7LrK8wbofELyG7kauy79fe) | [toni duart](https://open.spotify.com/artist/72d2PLgnOXyDT1HIGXC9Ls), [CCF](https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx), [Sara Mostaza](https://open.spotify.com/artist/64izd9xKBPFn7P1qNsaBQ9) | [Tus Te Quieros](https://open.spotify.com/album/2lZWw0bI5MHJ5W5S2uQYy7) | 2:44 |
-| 27 | [Agua Marfil](https://open.spotify.com/track/4Flixyfpct0RIHOJYmdWMT) | [Matt Austin](https://open.spotify.com/artist/5KaReYdLy02ztF4gIzF6sQ) | [Agua Marfil](https://open.spotify.com/album/1eJfqN8tPmyM8cK9uXEOrI) | 2:51 |
-| 28 | [Luna \- Versión Acústica](https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi) | [Mireia De La Torre](https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG) | [Luna Rota](https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5) | 2:31 |
-| 29 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
-| 30 | [Lo Que Pudo Ser](https://open.spotify.com/track/7ampr6A59qFGZD3R9pfvNp) | [Hermanos De La Vibra](https://open.spotify.com/artist/24iikwybit4U9z1Jv1pzNm) | [Lo Que Pudo Ser](https://open.spotify.com/album/1nsmvF9N6I8wlcfAfV2CjI) | 3:18 |
-| 31 | [Otro Sitio](https://open.spotify.com/track/6wjO8o4XgHOIAB1StF86oj) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Otro Sitio](https://open.spotify.com/album/3VTJit9hMdZmQfaa082S9u) | 2:44 |
+| 25 | [Agua Marfil](https://open.spotify.com/track/4Flixyfpct0RIHOJYmdWMT) | [Matt Austin](https://open.spotify.com/artist/5KaReYdLy02ztF4gIzF6sQ) | [Agua Marfil](https://open.spotify.com/album/1eJfqN8tPmyM8cK9uXEOrI) | 2:51 |
+| 26 | [Pelicula](https://open.spotify.com/track/0uqPbGs9P2GH8nS4EdT4WZ) | [J Reboll](https://open.spotify.com/artist/6yEEfhFfsrrYeOHLYOW8HB) | [Pelicula](https://open.spotify.com/album/1N9omVg4wsBZjEbH7LkA5s) | 2:19 |
+| 27 | [Tus Te Quieros](https://open.spotify.com/track/7LrK8wbofELyG7kauy79fe) | [toni duart](https://open.spotify.com/artist/72d2PLgnOXyDT1HIGXC9Ls), [CCF](https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx), [Sara Mostaza](https://open.spotify.com/artist/64izd9xKBPFn7P1qNsaBQ9) | [Tus Te Quieros](https://open.spotify.com/album/2lZWw0bI5MHJ5W5S2uQYy7) | 2:44 |
+| 28 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
+| 29 | [Lo Que Pudo Ser](https://open.spotify.com/track/7ampr6A59qFGZD3R9pfvNp) | [Hermanos De La Vibra](https://open.spotify.com/artist/24iikwybit4U9z1Jv1pzNm) | [Lo Que Pudo Ser](https://open.spotify.com/album/1nsmvF9N6I8wlcfAfV2CjI) | 3:18 |
+| 30 | [Otro Sitio](https://open.spotify.com/track/6wjO8o4XgHOIAB1StF86oj) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Otro Sitio](https://open.spotify.com/album/3VTJit9hMdZmQfaa082S9u) | 2:44 |
+| 31 | [Luna \- Versión Acústica](https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi) | [Mireia De La Torre](https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG) | [Luna Rota](https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5) | 2:31 |
 | 32 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
 | 33 | [I Want 2](https://open.spotify.com/track/6jd3IIlPej4QU0cSKUehsx) | [Banana Leaf Boy](https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY) | [I Want 2](https://open.spotify.com/album/4Vc751bJD0eQkOdqc4IiSj) | 4:33 |
 | 34 | [Lo Que Digan](https://open.spotify.com/track/7K29ZLNVx0Aho10dUGokMN) | [Sait](https://open.spotify.com/artist/3r5sW8MhWdRpmaCMjoewj8) | [Lo Que Digan](https://open.spotify.com/album/20mEhq8olsKXr88puOgbzi) | 3:18 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 39 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
 | 40 | [Oh Oh Oh](https://open.spotify.com/track/4UvSZCODfJZxXylXPKkY3p) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 3:10 |
 | 41 | [Tráfico Tijuana](https://open.spotify.com/track/53VnCnIL7QLhFWkEva9vcI) | [Loquera Tradición](https://open.spotify.com/artist/4CL91yZfIPYIo2Ov5iibGR) | [Tráfico Tijuana](https://open.spotify.com/album/2iNzx7rK9i394JvIPMYwbZ) | 3:11 |
-| 42 | [NUBE](https://open.spotify.com/track/1P1yx8BHKYWHR6Sh6LmQnJ) | [Ceressa](https://open.spotify.com/artist/0iAiRbVaLk4vZWUhoMo6wU) | [NUBE](https://open.spotify.com/album/2tTokV1HFIcNXG5pNGZ885) | 3:11 |
-| 43 | [Sos Todo Lo Que No Necesito](https://open.spotify.com/track/49ubndtIzCq58R2hwgOcfF) | [martuli](https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc) | [Sos Todo Lo Que No Necesito](https://open.spotify.com/album/6BCZ9Z7odGkJbzxfZt6XVc) | 3:40 |
-| 44 | [ISLA DEL PERREO](https://open.spotify.com/track/4c4qamGkrpiGJGjOn2Z1cV) | [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [ISLA DEL PERREO](https://open.spotify.com/album/2Z8HSoRG4W9SBCzG9aFCxl) | 2:17 |
-| 45 | [DEMIOS](https://open.spotify.com/track/23DG3OLjKIieOJNCoz1ute) | [Bong È Dam](https://open.spotify.com/artist/5JRjYEAk1iT5ql5i678w3l) | [DEMIOS](https://open.spotify.com/album/0F1Hpo1UEpyZpq8RsoRLFK) | 3:37 |
+| 42 | [Sos Todo Lo Que No Necesito](https://open.spotify.com/track/49ubndtIzCq58R2hwgOcfF) | [martuli](https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc) | [Sos Todo Lo Que No Necesito](https://open.spotify.com/album/6BCZ9Z7odGkJbzxfZt6XVc) | 3:40 |
+| 43 | [NUBE](https://open.spotify.com/track/1P1yx8BHKYWHR6Sh6LmQnJ) | [Ceressa](https://open.spotify.com/artist/0iAiRbVaLk4vZWUhoMo6wU) | [NUBE](https://open.spotify.com/album/2tTokV1HFIcNXG5pNGZ885) | 3:11 |
+| 44 | [La Culebra](https://open.spotify.com/track/5amzhRZcpT9RSkGJVdnlRR) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [La Culebra](https://open.spotify.com/album/7dUAcht0jlp9S3mTCc9ye9) | 3:52 |
+| 45 | [ISLA DEL PERREO](https://open.spotify.com/track/4c4qamGkrpiGJGjOn2Z1cV) | [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [ISLA DEL PERREO](https://open.spotify.com/album/2Z8HSoRG4W9SBCzG9aFCxl) | 2:17 |
 | 46 | [Cuando Tu Te Vas](https://open.spotify.com/track/4Y1rqUsP3gZzkLRJWre2bt) | [Randdex](https://open.spotify.com/artist/4CbkC2Gxqvrq3i0p8lXIfU) | [Ventix](https://open.spotify.com/album/7eumCUDzzboq9eisPpqWtF) | 2:20 |
-| 47 | [La Culebra](https://open.spotify.com/track/5amzhRZcpT9RSkGJVdnlRR) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [La Culebra](https://open.spotify.com/album/7dUAcht0jlp9S3mTCc9ye9) | 3:52 |
+| 47 | [DEMIOS](https://open.spotify.com/track/23DG3OLjKIieOJNCoz1ute) | [Bong È Dam](https://open.spotify.com/artist/5JRjYEAk1iT5ql5i678w3l) | [DEMIOS](https://open.spotify.com/album/0F1Hpo1UEpyZpq8RsoRLFK) | 3:37 |
 | 48 | [La Trampa](https://open.spotify.com/track/4fFoxalUsWW1qraPLpnb1T) | [Carla Cune](https://open.spotify.com/artist/1eJCiBiU5FzMEXBxrsNxkd) | [La Trampa](https://open.spotify.com/album/5xzOHndFvxS9b9VQrcYoFH) | 2:39 |
-| 49 | [Insomnio](https://open.spotify.com/track/0Q40XCyV51hOZunQbicmUX) | [Ripoll](https://open.spotify.com/artist/40GV6ITFe1i4SZymeH6jo7) | [Marinero Sentimiento](https://open.spotify.com/album/0RSIbS9P4BvOTJGOArgr6w) | 3:08 |
-| 50 | [A Pair of Eyes/Sway](https://open.spotify.com/track/0c7VhDF9H0MN5qrCGgpVwx) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [A Pair of Eyes/Sway](https://open.spotify.com/album/0N1RqNWH9148zU6gcYHtga) | 3:19 |
+| 49 | [A Pair of Eyes/Sway](https://open.spotify.com/track/0c7VhDF9H0MN5qrCGgpVwx) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [A Pair of Eyes/Sway](https://open.spotify.com/album/0N1RqNWH9148zU6gcYHtga) | 3:19 |
+| 50 | [Insomnio](https://open.spotify.com/track/0Q40XCyV51hOZunQbicmUX) | [Ripoll](https://open.spotify.com/artist/40GV6ITFe1i4SZymeH6jo7) | [Marinero Sentimiento](https://open.spotify.com/album/0RSIbS9P4BvOTJGOArgr6w) | 3:08 |
 
-Snapshot ID: `MTY3OTQ2NDgwMCwwMDAwMDAwMDVhYzNiOTU5NDNjMmQxMzZkMzg2MDc3MTJlOGMzOWVl`
+Snapshot ID: `MTY3OTQ2NDgwMCwwMDAwMDAwMDIxNGU1YmQxY2E2MWFmZGEzODBhYTZlY2UyNzQ0N2Zk`

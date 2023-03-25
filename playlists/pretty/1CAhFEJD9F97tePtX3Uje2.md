@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 356 likes - 213 songs - 12 hr 45 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 356 likes - 215 songs - 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,5 +221,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 211 | [Forever](https://open.spotify.com/track/3AvllZd4og3ZaxildemX4O) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Forever](https://open.spotify.com/album/5gTC1VPmpEG0yq3wK5bLBA) | 4:40 |
 | 212 | [Never Leave](https://open.spotify.com/track/37xPHUDhcmt8ezVkqsotdM) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [Never Leave](https://open.spotify.com/album/0XxgmHPqu2K9QrObH6trsm) | 3:09 |
 | 213 | [Slow Drift](https://open.spotify.com/track/5jy9axQdjfOuDYGbIpX7WE) | [CRXSS](https://open.spotify.com/artist/1IQERBgPfRnsJ5b8RWTyZo), [Xyla](https://open.spotify.com/artist/2iaMZQyl8mOWr1eCMpRTqN) | [Slow Drift](https://open.spotify.com/album/3mVbkQbsyLR2KBz8yyhfJZ) | 2:48 |
+| 214 | [Excused](https://open.spotify.com/track/1dAUBCLkCrTbiOSk8iJ12b) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR) | [Excused](https://open.spotify.com/album/711t4AGqeMZkLio6N8e3up) | 2:23 |
+| 215 | [Walk Alone](https://open.spotify.com/track/5Pn0C5E7oYHLcsr2llYzaZ) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR), [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE) | [Walk Alone](https://open.spotify.com/album/5EvWVv7sGSorTrLAQHRwvQ) | 2:51 |
 
-Snapshot ID: `MjI5LDcyOTZiYzYyMGQ1ZDBkNmU4MDQ2MmU0YjJkODM1MmUyZTg1NDIyYTQ=`
+Snapshot ID: `MjMxLDBkY2E0MzEyYzE2ZjZhZTA0ZWYwZWYzNzkxOGE0ZTA0YWM2ZDUxMDA=`

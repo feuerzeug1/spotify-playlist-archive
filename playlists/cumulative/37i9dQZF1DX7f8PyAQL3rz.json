@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "love song do L7 derrete geral",
+  "description": "mais brabo que a mclaren do ret",
   "name": "creme",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 150610,
       "name": "212",
       "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
@@ -324,7 +324,7 @@
           "url": "https://open.spotify.com/artist/20MbZeDJcbXxkcZWumh9rC"
         }
       ],
-      "date_added": "2023-03-22",
+      "date_added": "2023-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 152888,
@@ -854,6 +854,28 @@
       "duration_ms": 115846,
       "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
       "url": "https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8"
+    },
+    {
+      "album": {
+        "name": "Deus Perdoa",
+        "url": "https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Deus Perdoa",
+      "url": "https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "All the indescribable feelings that music gives you. cover: Ryan Beatty",
+  "description": "All the indescribable feelings that music gives you. cover: The Japanese House",
   "name": "Lorem",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP"
@@ -10512,7 +10512,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
@@ -13055,6 +13055,24 @@
     },
     {
       "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/4C3xU3ky500oslwuJPv16X"
+      },
+      "artists": [
+        {
+          "name": "Lonely Pirate Committee",
+          "url": "https://open.spotify.com/artist/2vsjCgyBZaH29ekrJRrpf2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162090,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk"
+    },
+    {
+      "album": {
         "name": "Georgia Peach (Sketch)",
         "url": "https://open.spotify.com/album/6EoZjS60umuw3aoEDr2kbA"
       },
@@ -14506,6 +14524,24 @@
       "duration_ms": 152116,
       "name": "Gum",
       "url": "https://open.spotify.com/track/4LEjWglTBWv0YVZ64CepPO"
+    },
+    {
+      "album": {
+        "name": "GUNSHY",
+        "url": "https://open.spotify.com/album/6wX62dyMRRxU8ZTHWfQEbS"
+      },
+      "artists": [
+        {
+          "name": "Allie Kelly",
+          "url": "https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "GUNSHY",
+      "url": "https://open.spotify.com/track/5OCVZihJVu2qk1r1ck2Prs"
     },
     {
       "album": {
@@ -16879,6 +16915,24 @@
     },
     {
       "album": {
+        "name": "Allison's Songs",
+        "url": "https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH"
+      },
+      "artists": [
+        {
+          "name": "Florence Pugh",
+          "url": "https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242773,
+      "name": "I Hate Myself",
+      "url": "https://open.spotify.com/track/0c0S1M4ik3EnhHdqH43VTv"
+    },
+    {
+      "album": {
         "name": "I Hate U",
         "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
@@ -17958,6 +18012,24 @@
       "duration_ms": 226933,
       "name": "In Between Plans",
       "url": "https://open.spotify.com/track/4T59PtRxilhsLFWxWabCEm"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212625,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
     },
     {
       "album": {
@@ -24593,6 +24665,36 @@
     },
     {
       "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234933,
+      "name": "Not Strong Enough",
+      "url": "https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e"
+    },
+    {
+      "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/71DrmZf8omc52ca1mdoyeF"
       },
@@ -30374,6 +30476,24 @@
       "duration_ms": 226539,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/3sip0psKnaeJ8kbG4rs0Ps"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
     },
     {
       "album": {
@@ -37176,6 +37296,24 @@
       "duration_ms": 185023,
       "name": "Warm",
       "url": "https://open.spotify.com/track/40Otjn8rGe8T5tbjK0eTbo"
+    },
+    {
+      "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206012,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4E76b5eScYyjahibva76Bk"
     },
     {
       "album": {

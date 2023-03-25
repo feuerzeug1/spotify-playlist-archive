@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,677 likes - 136 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,753 likes - 136 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 124 | [I Want It That Way](https://open.spotify.com/track/6ifRkrDOVOl894U1YuuTfM) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa), [Francis Greg](https://open.spotify.com/artist/3M4HosBeaD82iQkv8HVnzB) | [I Want It That Way](https://open.spotify.com/album/51WvNWrY4yu9Ek3RGBZHiy) | 3:11 |
 | 125 | [Landslide](https://open.spotify.com/track/4BoLz4MolURQlaSjCRuZ4c) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6y5HsiDyAI8t9r2sWiSFtK) | 3:38 |
 | 126 | [Help!](https://open.spotify.com/track/54aVuDTgpImivXNxanNnCG) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Help!](https://open.spotify.com/album/2q3DDnj2Dob01ZHzlHVlVJ) | 3:56 |
-| 127 | [Happier](https://open.spotify.com/track/5lbN98X0C9JZUCWFUYO6wo) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/09zdHg6FMVu1njcLIpX65b) | 2:29 |
+| 127 | [Happier](https://open.spotify.com/track/5lbN98X0C9JZUCWFUYO6wo) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/09zdHg6FMVu1njcLIpX65b) | 2:29 |
 | 128 | [Thank You Next \- Bossa Nova](https://open.spotify.com/track/0oDaCDJSz9K878vbIOmQsT) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Thank You Next \- Bossa Nova](https://open.spotify.com/album/4cpGMTeSx4MyAbDgfW51ih) | 3:47 |
 | 129 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 |
 | 130 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 135 | [I Don't Care \- Acoustic Version](https://open.spotify.com/track/6npKFnNEMN65CrS2BYf9nd) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [I Don't Care \(Acoustic Version\)](https://open.spotify.com/album/4Gn2Zma5G5bpVr8XlUCYzI) | 3:39 |
 | 136 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |
 
-Snapshot ID: `MTY3NjU5NTYwMCwwMDAwMDAwMGQwMTJjMmIzNDBhZjQ3Yjc0MTI3NWQzZTg1MzcxZTYw`
+Snapshot ID: `MTY3NjU5NTYwMCwwMDAwMDAwMGUxZWU0NmJjNWUwMjcyYTRlMTYwNjEyM2ExNTg1OTlh`

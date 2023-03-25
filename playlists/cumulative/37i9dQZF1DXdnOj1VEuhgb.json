@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ezhel",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive x Cairo x Narco",
   "name": "NKVT",
   "tracks": [
     {
@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "D\u00fcnya",
+        "url": "https://open.spotify.com/album/1L8vKc7MwocrgtHl0uFgt7"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "D\u00fcnya",
+      "url": "https://open.spotify.com/track/2yH4M3DAPx5E4zEWK9vE12"
+    },
+    {
+      "album": {
         "name": "D\u00fcnya Fani",
         "url": "https://open.spotify.com/album/64V9p8p4BqCA08eZRolk9l"
       },
@@ -326,6 +344,32 @@
       "duration_ms": 149249,
       "name": "FLEX SO HARD RMX",
       "url": "https://open.spotify.com/track/599TAkOSDn1CRTXziWACAX"
+    },
+    {
+      "album": {
+        "name": "GANG",
+        "url": "https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId"
+        },
+        {
+          "name": "Narco",
+          "url": "https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190442,
+      "name": "GANG",
+      "url": "https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3"
     },
     {
       "album": {
@@ -442,7 +486,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 148000,
       "name": "GHETTOMAN",
       "url": "https://open.spotify.com/track/3hbWiGDEItdBZLtTCueewe"
@@ -464,6 +508,24 @@
       "duration_ms": 156000,
       "name": "Gitme Beb\u00e9",
       "url": "https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h"
+    },
+    {
+      "album": {
+        "name": "CELONAPS",
+        "url": "https://open.spotify.com/album/0jIpyQRQ0SPecKpKajBqoO"
+      },
+      "artists": [
+        {
+          "name": "Critical",
+          "url": "https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169195,
+      "name": "GLOCK",
+      "url": "https://open.spotify.com/track/29snI08I9CoJuHhSFI682u"
     },
     {
       "album": {
@@ -554,10 +616,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 178605,
       "name": "G\u00fcnleri Sayd\u0131m",
       "url": "https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx"
+    },
+    {
+      "album": {
+        "name": "HAN\u00c7ER",
+        "url": "https://open.spotify.com/album/5RW7KSlHEC9w1qTTUWadtq"
+      },
+      "artists": [
+        {
+          "name": "Patron",
+          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143343,
+      "name": "HAN\u00c7ER",
+      "url": "https://open.spotify.com/track/1HtUpVQAOS8fWcWRYHaCXV"
     },
     {
       "album": {
@@ -953,6 +1033,28 @@
     },
     {
       "album": {
+        "name": "Koleksiyoner",
+        "url": "https://open.spotify.com/album/00lG7bXzbDDApmB3kupSrf"
+      },
+      "artists": [
+        {
+          "name": "Burry Soprano",
+          "url": "https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD"
+        },
+        {
+          "name": "Vio",
+          "url": "https://open.spotify.com/artist/6jTpCdn1rLOY8OPiTlG7Yt"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187434,
+      "name": "Multi-Milyoner",
+      "url": "https://open.spotify.com/track/2IHJ2GtzgmQXFjJ4x2ZAQY"
+    },
+    {
+      "album": {
         "name": "NEY LAN",
         "url": "https://open.spotify.com/album/4qHNw6BDaSsFzLeiBJ7xwc"
       },
@@ -1226,6 +1328,24 @@
       "duration_ms": 119230,
       "name": "Randuman / Ring Ring Ring",
       "url": "https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu"
+    },
+    {
+      "album": {
+        "name": "Sahibinden",
+        "url": "https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123629,
+      "name": "Sahibinden",
+      "url": "https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn"
     },
     {
       "album": {
@@ -1582,6 +1702,28 @@
       "duration_ms": 171641,
       "name": "ZOR",
       "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"
+    },
+    {
+      "album": {
+        "name": "\u00c7EK (feat. Strick)",
+        "url": "https://open.spotify.com/album/2tJ3W32WmVxCUUcQCZOVWY"
+      },
+      "artists": [
+        {
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        },
+        {
+          "name": "Strick",
+          "url": "https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201613,
+      "name": "\u00c7EK (feat. Strick)",
+      "url": "https://open.spotify.com/track/1j8LzWBV8n4LvTjwuSu3CS"
     },
     {
       "album": {

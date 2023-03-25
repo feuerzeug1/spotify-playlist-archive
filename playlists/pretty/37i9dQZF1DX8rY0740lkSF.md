@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 
 > Music from "Tales of Series!"\. 『テイルズ オブ』シリーズの楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,585 likes - 56 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,609 likes - 56 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 | 55 | [Night & Light \- Destruction \-](https://open.spotify.com/track/4dCUiuIsLjMxnCV1eMRcC3) | [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98), [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Soundtrack\)](https://open.spotify.com/album/74coE6457t07plLwF26Bmo) | 3:23 |
 | 56 | [One Strike, One Beat](https://open.spotify.com/track/6PNN8O5235I7kaOt1GjQz3) | [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98), [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Soundtrack\)](https://open.spotify.com/album/74coE6457t07plLwF26Bmo) | 7:18 |
 
-Snapshot ID: `MTY3NjQ3MzIwMCwwMDAwMDAwMDcwYTJlMmFiNTlkODZjMzAzNWMzZTFlMmNlZDRhNzdh`
+Snapshot ID: `MTY3NjQ3MzIwMCwwMDAwMDAwMGUyZmIxZjc5ODk1MGMxN2VjODExNTA4ODRhMjdkNDQ5`

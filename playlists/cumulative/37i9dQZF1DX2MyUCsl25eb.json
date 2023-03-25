@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 222080,
       "name": "All I Really Wanna Do",
       "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 172607,
       "name": "All That\u2019s Left of Me Is You",
       "url": "https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 189453,
       "name": "Aren't You Tired (La Di Da)",
       "url": "https://open.spotify.com/track/6GPy7ZN7SGEtMG3sM3uCpP"
@@ -1522,6 +1522,28 @@
       "duration_ms": 190560,
       "name": "Can't Fight",
       "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+    },
+    {
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314520,
+      "name": "Candy Necklace (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96"
     },
     {
       "album": {
@@ -2761,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
+      "album": {
         "name": "FACE MYSELF",
         "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
       },
@@ -3346,7 +3386,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
@@ -5425,6 +5465,24 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/0OLtyGpv64VUc6xIUIGiZf"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158362,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4vZvJQwSd7dYw6iNr6r5h7"
+    },
+    {
+      "album": {
         "name": "Let The Water Flow",
         "url": "https://open.spotify.com/album/6sR6F22eksE1nykJLRn1aK"
       },
@@ -5858,7 +5916,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 200951,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/7E6jdcJTGDpYmjHFnXu3vG"
@@ -6143,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "Young Hearts",
+        "url": "https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174573,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/2qKbdyJ0WKLWJv3yBj1RPs"
+    },
+    {
+      "album": {
         "name": "The Search for Everything",
         "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
       },
@@ -6418,7 +6494,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
@@ -6638,6 +6714,24 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "album": {
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/53tM3SgIOr8w2p5Qv2CMiP"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hawley",
+          "url": "https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214274,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/6dRTgr0gVZB17BEpTvi8gJ"
     },
     {
       "album": {
@@ -7302,7 +7396,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 187759,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
@@ -7537,6 +7631,24 @@
     },
     {
       "album": {
+        "name": "Right Kind Of Crazy",
+        "url": "https://open.spotify.com/album/54tYlijLSOg5gMJKjodjD8"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232920,
+      "name": "Right Kind Of Crazy",
+      "url": "https://open.spotify.com/track/2aNQ1uGJStNsnIRsb2p6YS"
+    },
+    {
+      "album": {
         "name": "Right on Time",
         "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
       },
@@ -7682,6 +7794,24 @@
       "duration_ms": 211886,
       "name": "Running from the Dawn",
       "url": "https://open.spotify.com/track/7jb6FDwrUuTgcgeE1iMGi4"
+    },
+    {
+      "album": {
+        "name": "Running Theme",
+        "url": "https://open.spotify.com/album/5B2z2x0lIP5y07vro6oJex"
+      },
+      "artists": [
+        {
+          "name": "MEAGAN SKY",
+          "url": "https://open.spotify.com/artist/2zPUeDa7TWrDrMRHPvdP9G"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309455,
+      "name": "Running Theme",
+      "url": "https://open.spotify.com/track/6zfx7XrT95qwpeXChmjkzX"
     },
     {
       "album": {
@@ -8500,10 +8630,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 183272,
       "name": "Stop Calling Me (Acoustic)",
       "url": "https://open.spotify.com/track/0ouUnebxKTVkoQMBGY3YZp"
+    },
+    {
+      "album": {
+        "name": "Stop Calling Me (Acoustic)",
+        "url": "https://open.spotify.com/album/6WvuOSA21xZ4BYPl1esySV"
+      },
+      "artists": [
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Stop Calling Me (Acoustic)",
+      "url": "https://open.spotify.com/track/37LuQXfIG7zM1Khf880KoV"
     },
     {
       "album": {

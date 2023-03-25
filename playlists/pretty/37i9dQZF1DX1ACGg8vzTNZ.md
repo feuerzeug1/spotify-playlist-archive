@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,032 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,184 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 39 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 |
 | 40 | [Wandering II](https://open.spotify.com/track/1XPUfZx0Nhl7Tl1AT2LKos) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 2:39 |
 
-Snapshot ID: `MTY3ODg5MjU4MiwwMDAwMDAwMGZlODIxN2MwMjI3ZjA0NGY1MDk0M2FhNWUxOWQ5NDAy`
+Snapshot ID: `MTY3ODg5MjU4MiwwMDAwMDAwMDM0NDgzNWFiM2RmYjkyZDFiYTBmNWYyM2YxNmZjZGNk`

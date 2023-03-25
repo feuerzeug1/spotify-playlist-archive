@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 6880,
+  "num_followers": 6893,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMGY0OTBhODcwNzBhOGEzNjM3Y2ZiNjRkNGE0YTk4ODRh",
+  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMGIxZDAxMWY0NzJjNjYzMGZhZWFiNTVhNDRlNmQ0NTli",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1419,26 +1419,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Aliens",
-        "url": "https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke"
+        "name": "Bonhomme Pendu (Chapitre 2)",
+        "url": "https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl"
       },
       "artists": [
         {
-          "name": "Charlie Shulz",
-          "url": "https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI"
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
         },
         {
-          "name": "TrippyThaKid",
-          "url": "https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz"
-        },
-        {
-          "name": "Kamiyada",
-          "url": "https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP"
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
         }
       ],
-      "duration_ms": 180983,
-      "name": "Aliens",
-      "url": "https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO"
+      "duration_ms": 235075,
+      "name": "Bruce Wayne",
+      "url": "https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1459,22 +1455,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Bonhomme Pendu (Chapitre 2)",
-        "url": "https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl"
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke"
       },
       "artists": [
         {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+          "name": "Charlie Shulz",
+          "url": "https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI"
         },
         {
-          "name": "Izzy-S",
-          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
+          "name": "TrippyThaKid",
+          "url": "https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz"
+        },
+        {
+          "name": "Kamiyada",
+          "url": "https://open.spotify.com/artist/178pxGCx631sen6g9vqvxP"
         }
       ],
-      "duration_ms": 235075,
-      "name": "Bruce Wayne",
-      "url": "https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj"
+      "duration_ms": 180983,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO"
     },
     {
       "added_at": "2022-03-11 05:02:00",

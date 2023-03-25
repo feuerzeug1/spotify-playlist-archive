@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-158 songs - 9 hr 54 min
+159 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Pray For Rain](https://open.spotify.com/track/1lE2aVjpBPUcDO1XlmD0yu) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Blues for the Modern Daze](https://open.spotify.com/album/7F73Pr637O5lVlXUsPgUFJ) | 3:14 | 2020-08-11 |  |
 | [Pray For Rain](https://open.spotify.com/track/6TTV5D4GL999sZZgDSHLQU) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Blues for the Modern Daze](https://open.spotify.com/album/6Hc2RIipiqxuxYD1C7DdAZ) | 3:14 | 2020-08-11 | 2022-07-29 |
 | [Prisoner](https://open.spotify.com/track/17fAhKyok3ZImAd3mcqtGx) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh) | [Together](https://open.spotify.com/album/0i7k4eoj7BaJTEckmsismQ) | 4:09 | 2020-08-11 |  |
+| [Profit \- Acoustic](https://open.spotify.com/track/6zZWw2nK4OgfPH7G03tovl) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Profit \(Acoustic\)](https://open.spotify.com/album/1X9rApsojGChWUmi5eDyQR) | 2:50 | 2023-03-24 |  |
 | [Push The Blues Away](https://open.spotify.com/track/3XV3dGbHJGBCmgDl4A4oh5) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:29 | 2020-11-13 |  |
 | [Push The Blues Away](https://open.spotify.com/track/6U1c5I3iixRjilhhMzzx2m) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:29 | 2020-11-13 | 2022-11-27 |
 | [Quarter On The Ground \( A Song For Uncle Joe\)](https://open.spotify.com/track/6qDDv9vMjxxmhc4Jqh8nbL) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Free Man/Quarter On The Ground](https://open.spotify.com/album/0qzSJZMuzzsPC6zQUVSx5g) | 3:36 | 2020-08-11 | 2022-07-29 |
@@ -133,7 +134,7 @@
 | [See That My Grave Is Kept Clean](https://open.spotify.com/track/7vdcotQVRcTBwNiI4ZFNfz) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Miles To Go](https://open.spotify.com/album/2qYDJzQe2Y0EoV2y4TpVDW) | 3:03 | 2020-08-11 |  |
 | [Seven Hours Of Light](https://open.spotify.com/track/1dsdV2Rjbc69aQKCWvUAjH) | [Otis Taylor](https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T) | [Respect the Dead](https://open.spotify.com/album/0ApfREM6XMT4MQpgme6ynU) | 3:35 | 2020-08-11 | 2022-07-29 |
 | [Seven Hours Of Light](https://open.spotify.com/track/67aqYLBHQsN18Y6ifzbXqC) | [Otis Taylor](https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T) | [Respect the Dead](https://open.spotify.com/album/6PiyC1fabaZwH9sdnB6nYs) | 3:35 | 2020-08-11 | 2022-07-30 |
-| [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 | 2020-08-11 |  |
+| [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 | 2020-08-11 | 2023-03-25 |
 | [Ships in the Night](https://open.spotify.com/track/08pCnq3MdYsbEjubAWBdCt) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Ships in the Night](https://open.spotify.com/album/6m1eIQQFgZx0n5PkM3dKdx) | 3:41 | 2020-08-11 |  |
 | [Should've Learnt My Lesson \- Deuce Album Session / Alternative Acoustic Take / 1971](https://open.spotify.com/track/3TLHIqYpEdtjivr3IN1dMB) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blues](https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB) | 3:04 | 2020-08-11 |  |
 | [Should've Learnt My Lesson \- Deuce Session / Alternative Acoustic Take / 1971](https://open.spotify.com/track/3FXuf8Xy906gEYERZMHlsG) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Should've Learnt My Lesson \(Deuce Session / Alternative Acoustic Take / 1971\)](https://open.spotify.com/album/75AvgyhRwWC33BhWwPKkNd) | 3:04 | 2020-08-11 | 2022-07-29 |

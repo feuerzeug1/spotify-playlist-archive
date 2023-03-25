@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,646 likes - 520 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,798 likes - 520 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -529,4 +529,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 519 | [F\*32 Paris](https://open.spotify.com/track/5T4vtrvqxHuFGvedb1psz2) | [Fox and Hounds](https://open.spotify.com/artist/1SSyBpR4c7ItGstC9MR3s3) | [U Do and U Don't](https://open.spotify.com/album/124Pg71SU4cwKsuHEAu1Lx) | 2:27 |
 | 520 | [Told U So](https://open.spotify.com/track/6fy3emRuJwUBTs2mdOfePc) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Told U So](https://open.spotify.com/album/71ZBfDPYIS9pQvqjc590hn) | 2:06 |
 
-Snapshot ID: `MTY3OTMwODgzMywwMDAwMDAwMGQzYThkYjdiYTdjOTViOGJlZTU1Y2U0ZDE3Mzk4M2U0`
+Snapshot ID: `MTY3OTMwODgzMywwMDAwMDAwMGEzYmMyZGViZDYyYzRjNjM1Y2Q5YzEyMTMyNDYwMWRm`

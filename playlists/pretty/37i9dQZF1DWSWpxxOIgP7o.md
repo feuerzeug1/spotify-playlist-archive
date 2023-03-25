@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 
 > The official playlist for MO\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,442 likes - 42 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,466 likes - 42 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 | 2 | [Emta Njawzak Yamma](https://open.spotify.com/track/3tKP4uEWIbOhsFzPBkSumU) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Ben Haana Wa Maana](https://open.spotify.com/album/6Xjqp2NNwKN2gQM9PQBglt) | 4:28 |
 | 3 | [Sittin' Sidewayz \(feat\. Big Pokey\)](https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Big Pokey](https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8) | [The People's Champ](https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr) | 3:48 |
 | 4 | [Parking Lot](https://open.spotify.com/track/67GL6xJlgzOaD7CU6T4v5z) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 1:01 |
-| 5 | [لو شربوا البحر](https://open.spotify.com/track/4XGofstKHT8H7tmt68DnKw) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [لو شربوا البحر](https://open.spotify.com/album/24PtKjUywK5sFRY0w6TEGC) | 3:59 |
-| 6 | [Work All Day](https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Work All Day](https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP) | 4:17 |
+| 5 | [لو شربوا البحر](https://open.spotify.com/track/2XeFCR6w0xCu2jLicUEjdk) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [لو شربوا البحر](https://open.spotify.com/album/31VUxWowQcKDfLJ7NmnivK) | 3:59 |
+| 6 | [Work All Day](https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Wildhorse](https://open.spotify.com/album/2NQbvpUKnlLflLe2OJx0ii) | 4:17 |
 | 7 | [Mo Escapes Gunfire](https://open.spotify.com/track/2kFzVTBAGAhHMbMTVyvOeH) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 0:45 |
 | 8 | [Hommage À La Vielle Garde \(Pour Lafarge Et Rinaldi\)](https://open.spotify.com/track/6V107UaAxQkw6JJb7qy8n8) | [Jahari Massamba Unit](https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Pardon My French](https://open.spotify.com/album/0Oei3ZeGpEyq73E5PnPmvZ) | 4:48 |
 | 9 | [Rudeboi \(feat\. Lil Wayne\)](https://open.spotify.com/track/67s1bLy25GxjEgAuHRaQr4) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Return of the Trill](https://open.spotify.com/album/2zJwPCX53y4xeWjvcKAO17) | 4:04 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 | 32 | [Intro to Shamstep](https://open.spotify.com/track/0DWUQlg6LVJiroEudYaORI) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:34 |
 | 33 | [My Person](https://open.spotify.com/track/0e2xssjHY1uBbkDHDFxHZp) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [My Person](https://open.spotify.com/album/0YgTXxeHnrkpszlSMEMnYJ) | 3:09 |
 | 34 | [Sunday Dreaming](https://open.spotify.com/track/3TclLf5lQhBdvtZ0VMENRr) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Shirelles \(Bonus Track Version\)](https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG) | 3:16 |
-| 35 | [زفة العرسان](https://open.spotify.com/track/48VEHup4JLbx5BkuC0W9HD) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp), [Wissam Habib](https://open.spotify.com/artist/125cWTvLaDz90ZdWaPmJbb) | [زفة العرسان](https://open.spotify.com/album/6QPfNudiDwHu9Rz3wm73XQ) | 2:56 |
+| 35 | [زفة العرسان](https://open.spotify.com/track/68e3yP8jRE4OVSJt5BWNs5) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp), [Wissam Habib](https://open.spotify.com/artist/125cWTvLaDz90ZdWaPmJbb) | [زفة العرسان](https://open.spotify.com/album/6Eb5pZS6cVDkLqAJ2wtMDL) | 2:56 |
 | 36 | [My Mind Went Blank](https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Point Blank](https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham) | [All Screwed Up, Vol\. II](https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge) | 6:37 |
 | 37 | [Bayara](https://open.spotify.com/track/3I3n1uoTzDGw2qiTR3zBhs) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH) | [Hassan Sabi](https://open.spotify.com/album/0NtEHDs6K85QbceqGIqKaR) | 2:04 |
 | 38 | [Masâr](https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 4:56 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 | 41 | [Overdose \- From the Netflix Series "Mo"](https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Overdose \(From the Netflix Series "Mo"\)](https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI) | 2:54 |
 | 42 | [End Credits](https://open.spotify.com/track/4S87bBXeAsMPuGFgPckCQP) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 1:48 |
 
-Snapshot ID: `MTY2MjcyODE5NiwwMDAwMDAwMDVjYTk5MzQ4ZjNkM2Y4OTMxOTI0N2JjODNmODM3MjE3`
+Snapshot ID: `MTY2MjcyODE5NiwwMDAwMDAwMGYwM2IyNjNhY2U1NzU5M2Y5ZjIyZDJmYTk0MWQxOGI2`

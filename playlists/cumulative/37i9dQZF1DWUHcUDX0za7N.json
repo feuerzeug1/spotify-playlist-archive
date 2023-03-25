@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=j11QL6MsRaSneLxTbjw4Eg\" > Zlatan </a> ",
+  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=etL81vA_Qsmu3lQ2SG7Cfw\" > Odumodublvck </a> ",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 143220,
       "name": "Ball Till We Fall",
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
@@ -434,7 +434,7 @@
           "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178599,
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 111106,
       "name": "Bougie and Thick",
       "url": "https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3"
@@ -598,6 +598,46 @@
       "duration_ms": 100736,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4lZyW9fqQxD6K2FC3XcD6t"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t Explain",
+        "url": "https://open.spotify.com/album/5hnys7CwXZ2uTLp0x3nfkC"
+      },
+      "artists": [
+        {
+          "name": "Peddygree",
+          "url": "https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170883,
+      "name": "CAN\u2019T EXPLAIN",
+      "url": "https://open.spotify.com/track/53fPdKhyo7IVl0jKBTyqfb"
+    },
+    {
+      "album": {
+        "name": "Yours Unfaithfully",
+        "url": "https://open.spotify.com/album/4xvlrR1wtd9unOqq1xMkEN"
+      },
+      "artists": [
+        {
+          "name": "Jake Doe",
+          "url": "https://open.spotify.com/artist/6ya83yRCbdYDSSMHWp8wWU"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151437,
+      "name": "CHANGE AM",
+      "url": "https://open.spotify.com/track/6sDacNyxcOBkYQ5URsVd24"
     },
     {
       "album": {
@@ -678,6 +718,24 @@
       "duration_ms": 196657,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD"
+    },
+    {
+      "album": {
+        "name": "Cold Feet",
+        "url": "https://open.spotify.com/album/66PmhCyBUndD6HmxKq7bDH"
+      },
+      "artists": [
+        {
+          "name": "Acebergtm",
+          "url": "https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212112,
+      "name": "Cold Feet",
+      "url": "https://open.spotify.com/track/4bX7mMAAnHCUPE9MXELTv8"
     },
     {
       "album": {
@@ -806,6 +864,24 @@
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/6ilJ5I8xWC4CjCvgLA91Fy"
+    },
+    {
+      "album": {
+        "name": "Declan Rice",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Declan Rice",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "album": {
@@ -1092,7 +1168,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 158608,
       "name": "Fun for Love",
       "url": "https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv"
@@ -1307,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "Highest Student",
+        "url": "https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK"
+      },
+      "artists": [
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        },
+        {
+          "name": "Masiano",
+          "url": "https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "Highest Student",
+      "url": "https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H"
+    },
+    {
+      "album": {
         "name": "Holy Gee",
         "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
       },
@@ -1454,7 +1552,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 209454,
       "name": "Kilode (In Particular)",
       "url": "https://open.spotify.com/track/0MCO9Iggfh5eB8N9lx0dvs"
@@ -1678,7 +1776,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 175000,
       "name": "Mama Maradona",
       "url": "https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr"
@@ -1700,7 +1798,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 161379,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
@@ -1860,7 +1958,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 186435,
       "name": "Never stopping",
       "url": "https://open.spotify.com/track/7bsexASUxrALdLNClTjjvJ"
@@ -2082,7 +2180,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 134635,
       "name": "On My Grind",
       "url": "https://open.spotify.com/track/6MTOvHuqJcw0HN6xDHiVNQ"
@@ -2252,7 +2350,7 @@
           "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166556,
@@ -2673,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x"
+      },
+      "artists": [
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241738,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz"
+    },
+    {
+      "album": {
         "name": "Soundtrack To The Good Life",
         "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
       },
@@ -2728,6 +2844,28 @@
       "duration_ms": 135256,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/54Bvt0UE6yMPQBWb2TYSKc"
+    },
+    {
+      "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/3TZIgQWteQktQ1HLS5776X"
+      },
+      "artists": [
+        {
+          "name": "Bizzonthetrack",
+          "url": "https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG"
+        },
+        {
+          "name": "Bliizzy",
+          "url": "https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Soro",
+      "url": "https://open.spotify.com/track/6q85h6RomSM8STj1Qbpk3E"
     },
     {
       "album": {
@@ -3030,6 +3168,32 @@
       "duration_ms": 178741,
       "name": "True Life Story",
       "url": "https://open.spotify.com/track/1m7ffYVHFhtOUF6pYHGqCC"
+    },
+    {
+      "album": {
+        "name": "TURN THE LIGHTS ON",
+        "url": "https://open.spotify.com/album/4U0WHiCDdvYJ6CuphEVi0Z"
+      },
+      "artists": [
+        {
+          "name": "Wale Effect",
+          "url": "https://open.spotify.com/artist/1muXn5C9U67nXPzPYDxbjH"
+        },
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "AFT",
+          "url": "https://open.spotify.com/artist/4QhnZcQhWgx4kkR9kTLGr9"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182439,
+      "name": "TURN THE LIGHTS ON",
+      "url": "https://open.spotify.com/track/2HALiTg5hzBA3z3zRKzdGQ"
     },
     {
       "album": {
@@ -3402,7 +3566,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 123806,
       "name": "Wild Side",
       "url": "https://open.spotify.com/track/6jplKm9eFCulH6CQZKeDhd"
@@ -3500,6 +3664,24 @@
       "duration_ms": 208695,
       "name": "YKTFV (You Know The Fvcking Vibe)",
       "url": "https://open.spotify.com/track/4Xaq0vPaePG4RrcuTgf5gf"
+    },
+    {
+      "album": {
+        "name": "You Go Know",
+        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142135,
+      "name": "You Go Know",
+      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
     },
     {
       "album": {

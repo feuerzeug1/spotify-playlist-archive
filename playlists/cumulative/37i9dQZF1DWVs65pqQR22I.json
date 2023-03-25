@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Black Noise for Inner Peace",
+        "url": "https://open.spotify.com/album/6xGyGZ5YoMEByVmdVge96G"
+      },
+      "artists": [
+        {
+          "name": "No Shapes Island",
+          "url": "https://open.spotify.com/artist/2yllrSykto1kVMIOhbwed4"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119629,
+      "name": "Black Noise for Inner Peace",
+      "url": "https://open.spotify.com/track/1Cz9wBvWLeop8IWZuJTAnO"
+    },
+    {
+      "album": {
         "name": "Black Noise for Insomnia",
         "url": "https://open.spotify.com/album/74foFH0uTQQ7JIiikT5AfD"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 65000,
       "name": "Black Screen White Noise",
       "url": "https://open.spotify.com/track/5NdWzrFWmL5eDMATHfia6B"

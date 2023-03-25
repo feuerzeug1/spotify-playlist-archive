@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Skinny in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Il Ghost in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -546,6 +546,24 @@
       "duration_ms": 113877,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5AcsGDFaLi9t576So8hFZQ"
+    },
+    {
+      "album": {
+        "name": "ALBV",
+        "url": "https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "ALBV",
+      "url": "https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79"
     },
     {
       "album": {
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174375,
       "name": "Big VROOM Big Ah Ah",
       "url": "https://open.spotify.com/track/0GXP7aq6Ec8b4tx1w8VNcu"
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 183380,
       "name": "Bussola",
       "url": "https://open.spotify.com/track/2kNF8cF9KQhmGxNrVm8PAi"
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 134000,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/3ShpGGdrnqUwnh920D70MD"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 142776,
       "name": "Demod\u00e8",
       "url": "https://open.spotify.com/track/59XPghPNocTlJlp6mKnjCh"
@@ -3464,6 +3482,32 @@
       "duration_ms": 235477,
       "name": "FIGLI DELLE VIBES",
       "url": "https://open.spotify.com/track/5gOt8eY9kIxp5DnKLeTnfD"
+    },
+    {
+      "album": {
+        "name": "FILM",
+        "url": "https://open.spotify.com/album/2immDl2yt5w1PfvL0Cqwr4"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e8s Las",
+          "url": "https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO"
+        },
+        {
+          "name": "Dalu",
+          "url": "https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi"
+        },
+        {
+          "name": "Draw Ice",
+          "url": "https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "FILM",
+      "url": "https://open.spotify.com/track/5nPOa1NCVgZ55VmVoYYL6E"
     },
     {
       "album": {
@@ -4414,7 +4458,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 146776,
       "name": "HOT",
       "url": "https://open.spotify.com/track/6VEEoOaX6CXy8eejTQw40J"
@@ -5990,7 +6034,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 169568,
       "name": "MI CHIAMO GABRI",
       "url": "https://open.spotify.com/track/4YwAD8Tr0wID3Se1agEqX6"
@@ -6146,7 +6190,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 147200,
       "name": "Money Up!",
       "url": "https://open.spotify.com/track/2KzcgMKFe948PbcbSmoDWj"
@@ -6837,6 +6881,24 @@
     },
     {
       "album": {
+        "name": "Ohh mama",
+        "url": "https://open.spotify.com/album/0RbUmgxIWpKBzywTnnMdZR"
+      },
+      "artists": [
+        {
+          "name": "hmizo",
+          "url": "https://open.spotify.com/artist/364qkrUT2TKnSW6YmIfeai"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164543,
+      "name": "Ohh mama",
+      "url": "https://open.spotify.com/track/6x5Onig2VvZR96vzD5QG5B"
+    },
+    {
+      "album": {
         "name": "OMC 1",
         "url": "https://open.spotify.com/album/3lv09vp2TtuXze4OoezrXh"
       },
@@ -7270,6 +7332,28 @@
       "duration_ms": 154926,
       "name": "PLAYA",
       "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
+    },
+    {
+      "album": {
+        "name": "Polizia",
+        "url": "https://open.spotify.com/album/2RnBTvII7lXZgqk9N1qtwR"
+      },
+      "artists": [
+        {
+          "name": "4m",
+          "url": "https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3"
+        },
+        {
+          "name": "Hicham",
+          "url": "https://open.spotify.com/artist/7yPHguk7KYWINERqIQSVAq"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126614,
+      "name": "Polizia",
+      "url": "https://open.spotify.com/track/2GOUFt7GPYXSA4UDEqrhGy"
     },
     {
       "album": {
@@ -8368,7 +8452,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 193043,
       "name": "Sergio Tacchini",
       "url": "https://open.spotify.com/track/0YPRUXY8E083xNY75J3ZSq"
@@ -8882,7 +8966,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 143125,
       "name": "Still Runnin",
       "url": "https://open.spotify.com/track/5Zl6mXtuM8xbcDtiEh5GN8"
@@ -9090,7 +9174,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 181714,
       "name": "TCHOP",
       "url": "https://open.spotify.com/track/7bn2VpaP4jMnaqZMWwuFxf"
@@ -9402,7 +9486,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 168124,
       "name": "TRAPHOUSE",
       "url": "https://open.spotify.com/track/3LxBLcewFoznQcFef8spcV"
@@ -9614,6 +9698,24 @@
       "duration_ms": 98666,
       "name": "Uzi",
       "url": "https://open.spotify.com/track/5OAa4e22LQglEWHvV5BjvZ"
+    },
+    {
+      "album": {
+        "name": "Vada come vada",
+        "url": "https://open.spotify.com/album/1uiCVnEYRbmcRACX7cfq8S"
+      },
+      "artists": [
+        {
+          "name": "167 Gang",
+          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Vada come vada",
+      "url": "https://open.spotify.com/track/5bJKrpclp5ZwxHjgMHQD9O"
     },
     {
       "album": {

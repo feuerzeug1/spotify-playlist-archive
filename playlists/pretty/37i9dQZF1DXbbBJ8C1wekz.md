@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,883 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,089 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 50 | [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 |
 | 51 | [Trap de Cria](https://open.spotify.com/track/4UWCqKIWKAmdahy3X4xDkA) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Trap de Cria](https://open.spotify.com/album/2GzS8QreFNrXifx59Jh8Ww) | 1:57 |
 | 52 | [Bvlgari](https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [4tune](https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ) | [Bvlgari](https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS) | 3:08 |
-| 53 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
+| 53 | [Maleta](https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Maleta](https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD) | 4:07 |
 | 54 | [Meu Corre](https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meu Corre](https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr) | 2:50 |
-| 55 | [Maleta](https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Maleta](https://open.spotify.com/album/24blqOj4cEuM66nAcemOHD) | 4:07 |
+| 55 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
 | 56 | [Oclin e Evoque](https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Oclin e Evoque](https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7) | 3:32 |
 | 57 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
 | 58 | [Clima Diferente](https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Clima Diferente](https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig) | 3:30 |
 | 59 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
 | 60 | [Lui Lui](https://open.spotify.com/track/3CPror2JNhqGuS8AjaAoKu) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 4:41 |
 
-Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMGVlZjBhNzRkMmZkOTFkMmUzMWFkYzk1ZTc5ZGY2MTFm`
+Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMDE5MDQ4ZGNlZDk0Yjk5NDRiYmRmYzRhZTNmOTdlYzJi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 447040,
       "name": "Amour m\u2019a le cuer mis (Ballade)",
       "url": "https://open.spotify.com/track/6THfQ2uSdqmUTOScQIpZ5B"
@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2019-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 450666,
       "name": "Canto del Dio Pane e i suoi Silvani",
       "url": "https://open.spotify.com/track/4aUvVhNafPnRUzP2Qf64x6"
@@ -3170,7 +3170,7 @@
       ],
       "date_added": "2019-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 419373,
       "name": "Carmina qui quondam",
       "url": "https://open.spotify.com/track/4R1VEypKnSxy12z396Trur"
@@ -4227,6 +4227,36 @@
     },
     {
       "album": {
+        "name": "Vox Iberica I: Donners\u00f6hne - Sons of Thunder",
+        "url": "https://open.spotify.com/album/0PI1s1bpSq90hzp67dgvI3"
+      },
+      "artists": [
+        {
+          "name": "Magister Albertus Parisiensis",
+          "url": "https://open.spotify.com/artist/2p9BUsy0e0JcuNjBZFlNLv"
+        },
+        {
+          "name": "Sequentia",
+          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
+        },
+        {
+          "name": "Barbara Thornton",
+          "url": "https://open.spotify.com/artist/4P50YH9GHjydDBKdNVbPy4"
+        },
+        {
+          "name": "Benjamin Bagby",
+          "url": "https://open.spotify.com/artist/2Ltb7aYsFI8hLa0esqiMxD"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344146,
+      "name": "Congaudeant catholici - Music for St. James the Apostle from Codex Calixtinus, Santiago de Compostela, 12th Century",
+      "url": "https://open.spotify.com/track/0Z0tRv5iPURg9HV7r8u2sf"
+    },
+    {
+      "album": {
         "name": "Magnificat",
         "url": "https://open.spotify.com/album/46CwCEEfKeVGHliOImE3cj"
       },
@@ -4408,7 +4438,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 185133,
       "name": "Da Perugia: La greygnour bien",
       "url": "https://open.spotify.com/track/0cxbQqHg35BQ0X7lVOhkfE"
@@ -4460,7 +4490,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 822226,
       "name": "Dame d\u2019onour (Ballade)",
       "url": "https://open.spotify.com/track/7aItXFxzu8Uc4DztLPkFCX"
@@ -6734,7 +6764,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 206053,
       "name": "Go To Sea No More (Arr. by Se\u00e1n Dagher and Nelson Carter)",
       "url": "https://open.spotify.com/track/32TIeJgYIl63FGxYbemcbM"
@@ -6946,7 +6976,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 357920,
       "name": "Hodie clarissimam - Olim promissus - Forma speciosissimus - Olim quem vates",
       "url": "https://open.spotify.com/track/6AyksliTShvT5gIQF3tPgP"
@@ -8287,6 +8317,32 @@
     },
     {
       "album": {
+        "name": "Dowland in Dublin",
+        "url": "https://open.spotify.com/album/1or57cuWik53WpKia1Ca54"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "La Nef",
+          "url": "https://open.spotify.com/artist/44zM5sBndzzOBAPdbNa2fQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Kemp\u2019s Jig / Mistress Winter\u2019s Jump / My Lady Hunsdon\u2019s Puff",
+      "url": "https://open.spotify.com/track/4Ik9gn29GS48RDqYgBRhbY"
+    },
+    {
+      "album": {
         "name": "H\u00f6r, Kristenhait!",
         "url": "https://open.spotify.com/album/4p5Gt8k0BALwsBDZmIalXo"
       },
@@ -8824,7 +8880,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 222866,
       "name": "Lambardi: Toccata e gagliarda",
       "url": "https://open.spotify.com/track/1M2s3IqLcABhrgG9YeRwQB"
@@ -9815,6 +9871,32 @@
     },
     {
       "album": {
+        "name": "Gothic Italy: Johannes Ciconia, Matteo da Perugia, Zaccara da Teramo",
+        "url": "https://open.spotify.com/album/2ZYMwxXWFyYoqtCKIAfDeP"
+      },
+      "artists": [
+        {
+          "name": "Matteo da Perugia",
+          "url": "https://open.spotify.com/artist/4SkBP6kMUXCL01R0R7c0Vz"
+        },
+        {
+          "name": "Mala Punica",
+          "url": "https://open.spotify.com/artist/6XsuXZjZmnYxWSBOqRAUv0"
+        },
+        {
+          "name": "Pedro Memelsdorff",
+          "url": "https://open.spotify.com/artist/4a4kjVU5kUK7AiaBehvRsf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477373,
+      "name": "Matteo da Perugia: H\u00e9las avril",
+      "url": "https://open.spotify.com/track/3zKQ8PUZ4vve0O3Bc5yjsI"
+    },
+    {
+      "album": {
         "name": "Neidhart Von Reuental: Vocal Music",
         "url": "https://open.spotify.com/album/3HMuLkErtTr38rovup48C1"
       },
@@ -10166,6 +10248,32 @@
       "duration_ms": 189720,
       "name": "Miri It Is (Dance)",
       "url": "https://open.spotify.com/track/2ltbNJ7et312sgr1huRrZw"
+    },
+    {
+      "album": {
+        "name": "Gothic Italy: Johannes Ciconia, Matteo da Perugia, Zaccara da Teramo",
+        "url": "https://open.spotify.com/album/2ZYMwxXWFyYoqtCKIAfDeP"
+      },
+      "artists": [
+        {
+          "name": "Matteo da Perugia",
+          "url": "https://open.spotify.com/artist/4SkBP6kMUXCL01R0R7c0Vz"
+        },
+        {
+          "name": "Mala Punica",
+          "url": "https://open.spotify.com/artist/6XsuXZjZmnYxWSBOqRAUv0"
+        },
+        {
+          "name": "Pedro Memelsdorff",
+          "url": "https://open.spotify.com/artist/4a4kjVU5kUK7AiaBehvRsf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436826,
+      "name": "Missa cantilena: Ave sancta mundi salus panis - Agnus Dei (From Modena, Biblioteca estense MS M.5.24)",
+      "url": "https://open.spotify.com/track/01TLrcWUV0i9z0UtK8JJcd"
     },
     {
       "album": {
@@ -12902,7 +13010,7 @@
       ],
       "date_added": "2020-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 674047,
       "name": "Puisque la mort (Ballade (6v-7r)",
       "url": "https://open.spotify.com/track/3YzRSkvfGSg3Do0CcDKg9N"
@@ -13946,7 +14054,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 223893,
       "name": "Sancti spiritus",
       "url": "https://open.spotify.com/track/6IZMJJn2k29OiqDH6gPIHF"

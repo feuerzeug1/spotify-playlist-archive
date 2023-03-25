@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "All To Jesus (Live)",
+        "url": "https://open.spotify.com/album/5u3wyUEBom81pTF57qjwZW"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360690,
+      "name": "Abide - Live",
+      "url": "https://open.spotify.com/track/4Bo1QB23vxppx9TklFsmKw"
+    },
+    {
+      "album": {
         "name": "Ain't Nobody",
         "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
       },
@@ -3304,6 +3322,24 @@
       "duration_ms": 293333,
       "name": "Now I See",
       "url": "https://open.spotify.com/track/0kNc1boEFyhIp9HEnzlf0c"
+    },
+    {
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4"
+      },
+      "artists": [
+        {
+          "name": "Stockholm Worship",
+          "url": "https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286734,
+      "name": "Now To God - Live",
+      "url": "https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe"
     },
     {
       "album": {

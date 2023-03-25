@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Taj Mahal
+> The best in blues right now\. Cover: Robert Finley
 
-260 songs - 17 hr 38 min
+262 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [I’m Yours And I’m Hers](https://open.spotify.com/track/1CvB0rh0CgCi4ixnbVE6Zh) | [The Blue Quarantinos](https://open.spotify.com/artist/74IHkbIwZfF1D0bH6Usfyd), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Vince Fossett Jr.](https://open.spotify.com/artist/1jV1E6qOXs9NJLH5CPk3mM) | [Phoning It In](https://open.spotify.com/album/5pGCCCUVVmfUGAZ2tz60Rd) | 3:24 | 2021-04-23 | 2022-04-23 |
 | [Judicator Blues](https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD) | [Micki Free](https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Turquoise Blue](https://open.spotify.com/album/4QBaAT90iqQxoR9TS2izPF) | 3:43 | 2022-02-04 |  |
 | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe) | 4:40 | 2022-09-09 | 2023-02-11 |
-| [Keep The Faith](https://open.spotify.com/track/2AfGLVa5rzRqnPm23bPMLk) | [Gaye Alegbalola](https://open.spotify.com/artist/1P3kpd7uIblcLvcIFA4Nmo) | [Keep The Faith](https://open.spotify.com/album/6pSAFmBfO36ji39xuYu10r) | 3:28 | 2022-04-05 |  |
+| [Keep The Faith](https://open.spotify.com/track/2AfGLVa5rzRqnPm23bPMLk) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Keep The Faith](https://open.spotify.com/album/6pSAFmBfO36ji39xuYu10r) | 3:28 | 2022-04-05 |  |
 | [Keep Your Light on Mama](https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Traveler's Blues](https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd) | 3:23 | 2021-10-22 |  |
 | [Last Call](https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 3:13 | 2022-04-08 |  |
 | [Last One To Know](https://open.spotify.com/track/7avd94T3BZcvcSiRl3gWGM) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Ice Cream In Hell](https://open.spotify.com/album/6dopecoqDNzo58krvM3NO4) | 4:44 | 2020-12-14 | 2022-02-26 |
@@ -164,6 +164,7 @@
 | [Old Time Used to Be](https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 5:17 | 2020-12-14 | 2022-02-26 |
 | [On Fire Like Zsa Zsa](https://open.spotify.com/track/1jkRCIT4lbw927QNmt0NGh) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad) | 3:21 | 2020-12-14 | 2022-02-26 |
 | [One Foot On The Path](https://open.spotify.com/track/5HsIqCxxHalal6VyepSWll) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [Aquarius](https://open.spotify.com/album/7jyTCVY16r5YsIjQTjE9nu) | 3:35 | 2021-07-02 | 2022-06-11 |
+| [One Monkey Can Stop a Show](https://open.spotify.com/track/1bqc5cCLaJj2QYqkJcmZRJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [One Monkey Can Stop a Show](https://open.spotify.com/album/1785Aty0XBeXkqP8jpWICN) | 3:41 | 2023-03-24 |  |
 | [Oscar's Motel](https://open.spotify.com/track/65qVWbRkA4ObUGsCpHZeAx) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Oscar's Motel](https://open.spotify.com/album/7anpP5D532as0LuzKLSsLS) | 2:46 | 2023-02-17 | 2023-03-22 |
 | [Out Of My Head](https://open.spotify.com/track/7KzCDlgiVOY8sQOKlbUy1m) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Out Of My Head](https://open.spotify.com/album/3hK0Qi59tuXjInHFnEIC0r) | 3:58 | 2021-08-20 | 2022-04-23 |
 | [Outside \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:58 | 2022-01-28 |  |
@@ -216,6 +217,7 @@
 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 | 2020-12-14 | 2022-02-26 |
 | [Sunshine City](https://open.spotify.com/track/4PpF9xvXBP5kH7IOBPkwBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Sunshine City](https://open.spotify.com/album/1MxTTpJSDtNjni0SF5zIMt) | 4:17 | 2021-10-15 | 2022-02-26 |
 | [Take Me Back](https://open.spotify.com/track/5Ft33jkZFk4vtCURt4BaHX) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S) | [New Morning](https://open.spotify.com/album/2TTXWDSbuk0LDVDEUNnsCh) | 5:36 | 2021-04-23 | 2022-04-23 |
+| [Tell Everybody](https://open.spotify.com/track/2NGMAdhKhuQzk2Q5VqJLO0) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Tell Everybody](https://open.spotify.com/album/2RweVc8OqVklZTWuSORVeG) | 4:58 | 2023-03-24 |  |
 | [Tell Mamala](https://open.spotify.com/track/3jq1QrrDci8STyApQBHLft) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Tell Mamala](https://open.spotify.com/album/2GuHcm724OD7ANh9ZAKLdW) | 3:05 | 2021-10-22 | 2022-04-23 |
 | [Tenere Den](https://open.spotify.com/track/7ytOQ3MLqno1gpctggPRTU) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Tenere Den](https://open.spotify.com/album/6Kn1FZXSVW4ydCAelpLpei) | 3:32 | 2023-03-17 |  |
 | [That's What Love Will Make You Do](https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [That's What Love Will Make You Do](https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp) | 4:05 | 2023-01-13 |  |

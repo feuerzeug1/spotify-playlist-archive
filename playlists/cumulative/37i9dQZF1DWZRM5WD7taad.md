@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Young Miko en portada.
 
-160 songs - 8 hr 23 min
+164 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [FREAKY](https://open.spotify.com/track/6TK7mdz3wlm45P5s0zeDSl) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [FREAKY](https://open.spotify.com/album/1dIzO2VMoz2AuyXbFt0FXH) | 2:30 | 2021-12-13 |  |
 | [Freestyle Battle](https://open.spotify.com/track/3UHBsNMEmsFDGkFamrPNKa) | [Martha Heredia](https://open.spotify.com/artist/4NVLjSxgnzrCweDkMWUTEv), [MelyMel](https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y) | [FreeStyle Battle](https://open.spotify.com/album/5n8ZkO6LW3bxWhtpuYfrR6) | 2:00 | 2023-03-10 |  |
 | [Fuck You](https://open.spotify.com/track/2e4NdNHHR8gNWPMnMgQydk) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Fuck You](https://open.spotify.com/album/2nd8KGiesKxYRHgK7Rpqt4) | 3:24 | 2021-12-13 | 2022-02-04 |
+| [Fuera de Juego](https://open.spotify.com/track/7IZHqbElo3bY7FS8IBon74) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [SOTAN](https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O) | [Fuera de Juego](https://open.spotify.com/album/4ohrUceIP0BeRfYJBW8VxQ) | 2:32 | 2023-03-24 |  |
 | [Historika](https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU) | 4:26 | 2022-06-27 |  |
 | [Historika](https://open.spotify.com/track/3zFa7TqRFNNZPjxJ1jkwkZ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/5OjA7BRUSj9msWXXRGQqsj) | 4:26 | 2021-12-13 | 2022-07-29 |
 | [HOEHIPHOP](https://open.spotify.com/track/348NgnWNjXqG8vMO3KusxW) | [MAR](https://open.spotify.com/artist/4vBFex92UAoPQdSqrzdpNd) | [HOEHIPHOP](https://open.spotify.com/album/3Tf3zB3CF9SySnTZiNg4E7) | 3:31 | 2022-03-08 |  |
@@ -100,6 +101,7 @@
 | [LQRA Session \#11](https://open.spotify.com/track/7cXBDGIVAIiedhz7WTjywb) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [LQRA Session \#11](https://open.spotify.com/album/0iqqE9b6fEhBmF6h8kd5aC) | 4:06 | 2023-02-20 |  |
 | [Lucha Como Mujer](https://open.spotify.com/track/0Mg7ZvxW1vAHAE4T7Q8sbo) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Lucha Como Mujer](https://open.spotify.com/album/2PjpsMtaD4VvNoImmSlHVC) | 2:30 | 2023-02-20 |  |
 | [Luciérnagas](https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Luciérnagas](https://open.spotify.com/album/0PhgzFFEXpSfDC0tmoESVf) | 4:16 | 2022-11-08 |  |
+| [M4KYNA](https://open.spotify.com/track/33BdopezTOy1DwusGG2GuB) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [M4KYNA](https://open.spotify.com/album/3cP5gKulWySdg1pwA7vbVB) | 2:54 | 2023-03-24 |  |
 | [Madre Mía](https://open.spotify.com/track/1V822HJJSnH20A5mxxXpQX) | [Beelial](https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k) | [Madre Mía](https://open.spotify.com/album/35Xa7O65iOCPZcXqKjApKh) | 3:10 | 2021-12-13 | 2022-07-29 |
 | [Madre Mía](https://open.spotify.com/track/4wREpwAeOahQ37NBO47QqT) | [Beelial](https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k) | [Madre Mía](https://open.spotify.com/album/6mWj8CTUKbpTqYHmJShw7j) | 3:10 | 2022-06-27 | 2023-03-11 |
 | [Mala Vida](https://open.spotify.com/track/3SzBLvShr2FKp1qSaqK6cm) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Mala Vida](https://open.spotify.com/album/1MQWpXacjrqP583eW6ntG1) | 2:40 | 2021-12-13 |  |
@@ -115,6 +117,7 @@
 | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole: Bzrp Music Sessions, Vol\. 13](https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n) | 2:23 | 2021-12-13 |  |
 | [No Estoy](https://open.spotify.com/track/2WkJqdOBHuGi44d8dnSHuK) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Estoy](https://open.spotify.com/album/0LiFjBoSemLpzSCOsGXTOF) | 3:58 | 2022-06-27 |  |
 | [No Estoy](https://open.spotify.com/track/4HhOasqIGURvWe4jRDfMOc) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Estoy](https://open.spotify.com/album/5B8WkZ5IfTZRKAmhQQ7owH) | 3:58 | 2021-12-13 | 2022-07-29 |
+| [No Me Pueden Parar](https://open.spotify.com/track/5NWqum4G4GsjHyU2D8UTt0) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [No Me Pueden Parar](https://open.spotify.com/album/7AZeHp1ggYt5RlupEJuoJK) | 3:28 | 2023-03-24 |  |
 | [No Puedes Parar](https://open.spotify.com/track/0S6bK0SXy9NZxidqc2SERP) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Mujer De Fuego](https://open.spotify.com/album/70JgCMpy5oRmrNSXUWegPY) | 3:36 | 2021-12-13 |  |
 | [No Soy Criminal](https://open.spotify.com/track/3VGWGVOAUcoCpiHqqdrxb3) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [No Soy Criminal](https://open.spotify.com/album/6SSxecieX6s6mTmCnm0Cno) | 3:37 | 2021-12-13 | 2023-02-21 |
 | [Nunca Supiste](https://open.spotify.com/track/0C7ydVc1JJyw3kkthMiGLg) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Nunca Supiste](https://open.spotify.com/album/3bIRrdw5Hjvlb59eiT6Ldo) | 3:56 | 2021-12-13 |  |
@@ -142,6 +145,7 @@
 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 | 2021-12-13 | 2022-03-09 |
 | [Shock](https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [La Bala](https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF) | 3:30 | 2021-12-13 |  |
 | [Simulación](https://open.spotify.com/track/0TQq1pjlkRQqesydJ5xbof) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Simulación](https://open.spotify.com/album/1WYsLijpXeD1aTIb1L0433) | 2:52 | 2023-01-26 |  |
+| [SIN UN PLAN](https://open.spotify.com/track/0w3VooVHnwqRSCVXc9L3Bd) | [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh), [Esse Delgado](https://open.spotify.com/artist/0EbyCaJGcegI7KdTTWKuW0) | [SIN UN PLAN](https://open.spotify.com/album/5jJrIgfr6jyhOsIsNU16MU) | 3:21 | 2023-03-24 |  |
 | [Siéntelo](https://open.spotify.com/track/4TV10FOELGJGeySkhEtCAY) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Siéntelo](https://open.spotify.com/album/5RyjVm7MbDW2wBAj7MZCnk) | 2:24 | 2022-11-25 | 2023-03-11 |
 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an) | 2:57 | 2021-12-13 | 2022-10-02 |
 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7) | 2:57 | 2022-08-16 |  |

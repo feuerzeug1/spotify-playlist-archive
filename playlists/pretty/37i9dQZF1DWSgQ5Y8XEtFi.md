@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,884 likes - 30 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,610 likes - 30 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 29 | [Rocket](https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe) | [Sogno](https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG) | 1:46 |
 | 30 | [Team](https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y) | [Team](https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887) | 2:06 |
 
-Snapshot ID: `MTY3OTAwNzc0MiwwMDAwMDAwMGQ5NGQ4YjMyMDhjOWVmNTkwNzE1YzFkZTYyZjM2NzI4`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDc0YTUzYzU4ZjNhMDNhMjYwOWU4NTA5YTM1MWUyNGY4`

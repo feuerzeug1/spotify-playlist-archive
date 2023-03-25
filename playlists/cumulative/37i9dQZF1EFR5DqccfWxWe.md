@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 9 hr 47 min
+176 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,10 +91,12 @@
 | [Hace una Hora](https://open.spotify.com/track/0j1P2u3vu2E625VuHTZtrw) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:53 | 2022-06-04 |  |
 | [HERMANITA](https://open.spotify.com/track/2TT4dPryN7Ztazy4eGLNjc) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [POR EMPEZAR](https://open.spotify.com/album/5InAJ1YTxx2sxxmDtxFGsU) | 3:28 | 2023-02-26 |  |
 | [Hermanita](https://open.spotify.com/track/5ucBog38SckwcP50HuB9o6) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [Hermanita](https://open.spotify.com/album/53iAsM8Emp4V0KnOGgXqCo) | 3:28 | 2022-06-04 | 2023-02-27 |
-| [How I Used To Be](https://open.spotify.com/track/6f19F5WXT49qOlsyJSspSn) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence](https://open.spotify.com/album/1ZQ3n54DZU7aFmDbtbyLcO) | 4:12 | 2022-06-04 |  |
+| [How I Used To Be](https://open.spotify.com/track/6f19F5WXT49qOlsyJSspSn) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence](https://open.spotify.com/album/1ZQ3n54DZU7aFmDbtbyLcO) | 4:12 | 2022-06-04 | 2023-03-25 |
+| [How I Used To Be](https://open.spotify.com/track/0qUxNibbKBKJpjiYZVIl9r) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence – The Encore](https://open.spotify.com/album/57AWuy87CIWGd131a6UUKg) | 4:12 | 2023-03-24 |  |
 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 | 2022-06-04 |  |
 | [Hoy](https://open.spotify.com/track/7Lr4gFCiSMCyESWoGxjW6W) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 4:17 | 2022-06-04 |  |
-| [I Am](https://open.spotify.com/track/1lFXDLZ7kGEZsAodmVmQi7) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence](https://open.spotify.com/album/1ZQ3n54DZU7aFmDbtbyLcO) | 4:01 | 2022-06-04 |  |
+| [I Am](https://open.spotify.com/track/1lFXDLZ7kGEZsAodmVmQi7) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence](https://open.spotify.com/album/1ZQ3n54DZU7aFmDbtbyLcO) | 4:01 | 2022-06-04 | 2023-03-25 |
+| [I Am](https://open.spotify.com/track/25gTd2sJzYkaf6WfNX1OVA) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence – The Encore](https://open.spotify.com/album/57AWuy87CIWGd131a6UUKg) | 4:01 | 2023-03-24 |  |
 | [Insurrection \- Original Mix](https://open.spotify.com/track/47ISEXL75IDwq66o5rJp9i) | [Gavyn Mytchel](https://open.spotify.com/artist/2nlNYg3U58ou69PDD3QFmH), [Mnemonic](https://open.spotify.com/artist/61zFhsgCBSLEcgZiyZyyW2) | [Insurrection](https://open.spotify.com/album/1QSbSzZdkM7ecZvYSYi80W) | 7:36 | 2022-06-04 |  |
 | [Invisible](https://open.spotify.com/track/0AOWcj2gimRPELGyvX0Pvo) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 3:10 | 2022-06-04 |  |
 | [Irreparable](https://open.spotify.com/track/3RlB1qa1FXbRSw0etTVqoS) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:03 | 2022-06-04 |  |

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-02-13 |  |
-| [Archipelago \(432 Hz\)](https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK) | [Drömlandskap](https://open.spotify.com/artist/2maTvFNXG3K8yvfKTjSjVM) | [Archipelago](https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21) | 2:48 | 2022-12-12 |  |
+| [Archipelago \(432 Hz\)](https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Archipelago](https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21) | 2:48 | 2022-12-12 |  |
 | [Aura Bowls](https://open.spotify.com/track/13SfgjQv7gtBhewnS4Vcp3) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Droning Bowls](https://open.spotify.com/album/7Mm1anxbwaKYrq3xHEmjLL) | 2:14 | 2022-12-12 |  |
 | [Bheetar dekho](https://open.spotify.com/track/5h0CaDOGz03xtjBEERCpKi) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Chup rahen](https://open.spotify.com/album/3wwWKjuWGGcAGZ4jcAhxka) | 4:11 | 2023-02-13 |  |
 | [Bodhisattva \(Sound Bath\)](https://open.spotify.com/track/1VpB6JKz3hN1sAZVLtgVie) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT) | 3:28 | 2022-12-12 |  |

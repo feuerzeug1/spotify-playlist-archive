@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 134523,
       "name": "Incredibly Annoying",
       "url": "https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 280903,
       "name": "JGS",
       "url": "https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv"
@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Exodus the North Star",
+        "url": "https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162813,
+      "name": "munerah",
+      "url": "https://open.spotify.com/track/21mWEFHpAdR6k0KvmtXmRE"
+    },
+    {
+      "album": {
         "name": "Harmonic Frequencies",
         "url": "https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7"
       },
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 166021,
       "name": "on the pisces moon",
       "url": "https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ"
@@ -2253,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "Live at Bush Hall",
+        "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586506,
+      "name": "Turbines/Pigs - Live at Bush Hall",
+      "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"
+    },
+    {
+      "album": {
         "name": "Untethered",
         "url": "https://open.spotify.com/album/4Vt4MU6r8NarsGofjJ6Bhv"
       },
@@ -2268,6 +2304,24 @@
       "duration_ms": 216568,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/316Co4rvVxEFZ40FY8BbK8"
+    },
+    {
+      "album": {
+        "name": "Live at Bush Hall",
+        "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260493,
+      "name": "Up Song - Live at Bush Hall",
+      "url": "https://open.spotify.com/track/3b6suhvxtWPIF0tZe5xDCL"
     },
     {
       "album": {

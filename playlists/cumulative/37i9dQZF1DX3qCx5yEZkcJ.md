@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-453 songs - 18 hr 28 min
+454 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/3eoWq5oqHA72MObemar3xY) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/0fzPd8PH6TQR8BQBkxQDRZ) | 2:52 | 2022-07-28 | 2023-01-13 |
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/4AhZSWtLMK6X9ckhFcyhCh) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/5qa0XEgENHFDpO8PEGxPvP) | 2:52 | 2022-03-24 | 2022-04-21 |
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/5aD97KsD4tekRetjMLbL4i) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/1kPXMfD3dMb8G7PCnP4af4) | 2:52 | 2023-03-09 |  |
-| [Bubble Beat](https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Bubble Beat](https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u) | 3:27 | 2020-06-19 |  |
+| [Bubble Beat](https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Bubble Beat](https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u) | 3:27 | 2020-06-19 | 2023-03-25 |
 | [busking](https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [busking](https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq) | 2:20 | 2019-05-26\* | 2023-02-05 |
 | [Caffeine](https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Caffeine](https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd) | 1:28 | 2022-07-28 |  |
 | [Caffeine](https://open.spotify.com/track/5knGjzsCFJVQBrsCBa4ref) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Caffeine](https://open.spotify.com/album/6w4lwaXOlqil1qGkC673Ao) | 1:28 | 2019-07-26 | 2022-07-16 |
@@ -355,6 +355,7 @@
 | [Singing sad](https://open.spotify.com/track/78CuCBf5R2eecbA8cBXBDE) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Rough Sketch](https://open.spotify.com/album/1Otsaxr8Anm1g3JLKevkxg) | 3:07 | 2021-05-10 | 2021-09-10 |
 | [Sit At The Piano](https://open.spotify.com/track/6dquDJGHcJVIrPYnm01gOf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Sit At The Piano](https://open.spotify.com/album/6AEiOA6DRaotdYeI9564tP) | 2:51 | 2019-05-26\* | 2019-06-15 |
 | [Skies the Limit](https://open.spotify.com/track/26mpkkyZBtcWJz3LiWCr4K) | [Goodge](https://open.spotify.com/artist/7ChpiDDHfolxNhgmjoPnJB) | [Skies the Limit](https://open.spotify.com/album/5ljrbXsoNN1fUoe8iIh86R) | 4:32 | 2020-11-06 | 2022-07-29 |
+| [Slow Jam](https://open.spotify.com/track/4Vobs6itOWf1ylmTfu1IMd) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Little Bit Blues](https://open.spotify.com/album/75VH43yE690hoaEvImFv5T) | 1:40 | 2023-03-23 |  |
 | [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 | 2022-04-28 |  |
 | [Smiling World](https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Smiling World](https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS) | 2:06 | 2021-10-29 | 2022-08-26 |
 | [Smoke Rings](https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [smwhere, smtime](https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8) | 1:56 | 2020-03-27 | 2022-06-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,152 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,213 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 32 | [L'idole des jeunes](https://open.spotify.com/track/0S4HOFZx606Zv6bEutTEez) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:28 |
 | 33 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/2CLeotsLhEUu0qkj56vbUj) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 2:55 |
 | 34 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 |
-| 35 | [Butterfly](https://open.spotify.com/track/72rLswhYvQz9LRx3LogMIW) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Butterfly](https://open.spotify.com/album/72O3ydJomCcEjETdt0UtIq) | 3:25 |
+| 35 | [Butterfly](https://open.spotify.com/track/5zkZI5JT6pAOJ1q4nvDhXg) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Souvenirs De La France](https://open.spotify.com/album/2J8U1ZM3bWFz943PjdmU6Q) | 3:25 |
 | 36 | [Le petit pain au chocolat](https://open.spotify.com/track/2VRLDyUSV5krEJOjFwsWas) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 3:23 |
 | 37 | [Les elucubrations d'Antoine](https://open.spotify.com/track/6898KjBwWLdsJUH1Tu9rI7) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [Trésors 60's](https://open.spotify.com/album/406ITkSun3uzXzUwqLKneX) | 3:26 |
 | 38 | [Comment te dire adieu \- Remasterisé en 2016](https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Comment te dire adieu \(Remasterisé en 2016\)](https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAwMDhhYTI2ZDhiYWFlOTdjZWY3MjcyNDNmZTY0NDIzODMw`
+Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAwMDAzNmI0ZGZlODA2NDNiYmNkM2Q4NWY5NDc3ZGM2YTRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7BiX5U19t.md) - [plain]
 
 > 2023年3月24日\(金\), 25日\(土\)に来日公演<a href="https://harrystylesjapantour.com/">"Love On Tour"</a>を開催するHarry Stylesを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 340 likes - 35 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 673 likes - 35 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7BiX5U19t.md) - [plain]
 | 34 | [Woman](https://open.spotify.com/track/33bURv895AN4FkBvgFo2dx) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:38 |
 | 35 | [Meet Me in the Hallway](https://open.spotify.com/track/4u9Y4Z9i9VaAbBK7rW1Rha) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:47 |
 
-Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMDI1ZjM1M2RiNjRmNWViZjljMWMwYjgzMjMzNWZmMzIw`
+Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMGY4NTE2ZWEzOTE1MzEwMjExZDY3OGE3YjE0ZGZmZmVi`

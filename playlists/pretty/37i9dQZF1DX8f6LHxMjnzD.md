@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,771 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,039 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Not A Beanie](https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Not A Beanie](https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v) | 2:16 |
 | 40 | [Love You More](https://open.spotify.com/track/6m233M73tZHzRiUrNdBXOp) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You More](https://open.spotify.com/album/2eCzscuLn8UWrA4vMJo8CZ) | 3:01 |
 
-Snapshot ID: `MTY3OTM0NzcwMSwwMDAwMDAwMGVkMjAzYzRmMDE0Y2Y5ZTBmYTgzNGY2NDFiNGQ0NGQ1`
+Snapshot ID: `MTY3OTM0NzcwMSwwMDAwMDAwMDQ2NTQ0MGQ2Y2MwZTY2NWVkODQ1MjlmZTAzMWFkMDMx`

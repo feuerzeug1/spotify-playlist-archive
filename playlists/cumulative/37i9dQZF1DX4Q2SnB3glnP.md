@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-265 songs - 14 hr 8 min
+266 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Lemuria](https://open.spotify.com/track/3U10BbfZtZxMmiaEVuievr) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Awaken](https://open.spotify.com/album/39Ip3deSTOqNZzSRc8kSsm) | 2:47 | 2022-08-05 |  |
 | [Lifted](https://open.spotify.com/track/0CQwD2KxIfQUAGz4WChZZw) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Book Of Calmness](https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4) | 3:56 | 2021-12-08 |  |
 | [Light Wings](https://open.spotify.com/track/35InIo8y15nRhxFhXlE9KG) | [Darlan Vado](https://open.spotify.com/artist/5V2NXfQ1354qTgxy8r00kl) | [Light Wings](https://open.spotify.com/album/6YKV9jMAqOso3QRCsVwmC2) | 2:24 | 2021-12-08 |  |
+| [Limerence](https://open.spotify.com/track/4Nxdvb7Jk9TJCCCUc5wEgk) | [Albert Lockwood](https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY) | [Limerence](https://open.spotify.com/album/7snyOPCc8KNIgAp4L92vLv) | 3:10 | 2023-03-23 |  |
 | [Little Rock Quiet](https://open.spotify.com/track/5G2qcVeufPAqg3tdCnjjTz) | [Lightning Free](https://open.spotify.com/artist/5gKstbAvksymwjaGWknRH9) | [Mood City](https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m) | 4:17 | 2021-12-08 | 2022-04-22 |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2021-12-08 |  |
 | [Liven](https://open.spotify.com/track/1C5muG3s6lQuIExxm1jItV) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [LiKKma](https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d) | 3:42 | 2021-12-08 |  |
@@ -183,7 +184,7 @@
 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 | 2022-11-11 |  |
 | [Reaching](https://open.spotify.com/track/0KvgYjNjdjpgjanBhUnSfO) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Reaching](https://open.spotify.com/album/1coFYbyXU2dxO3lrUsbdIy) | 2:56 | 2021-12-08 | 2022-12-31 |
 | [Rebirth](https://open.spotify.com/track/4GlveryProx302jQ9hHjqe) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Awakening](https://open.spotify.com/album/3FsbKE5tluUBXyYygoxFYe) | 3:23 | 2021-12-08 |  |
-| [Receding Waves](https://open.spotify.com/track/5nkdxgonAeVjxg8NCptsuj) | [Tales from Jupiter](https://open.spotify.com/artist/0kY9PVjCD1q3Vfhp1Jjzzh) | [Adelaide](https://open.spotify.com/album/0yROHeSwgFi2suADVfGxvT) | 3:46 | 2021-12-08 |  |
+| [Receding Waves](https://open.spotify.com/track/5nkdxgonAeVjxg8NCptsuj) | [Tales from Jupiter](https://open.spotify.com/artist/0kY9PVjCD1q3Vfhp1Jjzzh) | [Adelaide](https://open.spotify.com/album/0yROHeSwgFi2suADVfGxvT) | 3:46 | 2021-12-08 | 2023-03-25 |
 | [Reflections](https://open.spotify.com/track/3emkA27hwU4zVJoIzi2SLp) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:13 | 2021-12-08 |  |
 | [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 | 2021-12-08 |  |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2021-12-08 |  |

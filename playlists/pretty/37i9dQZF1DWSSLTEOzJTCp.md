@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,158 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,219 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [Within The Boundaries](https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [EMBRACE](https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M) | 3:16 |
 | 50 | [Captive](https://open.spotify.com/track/6ZvgvFGY2Pv5iL8u0ptduc) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Captive](https://open.spotify.com/album/6Lqrl0jg68hcV4GhGTYT4H) | 3:19 |
 
-Snapshot ID: `MTY2OTgxOTgzOCwwMDAwMDAwMGY0OTQ5MzI1MjJlODQ2ZmM5MzVlNmU3N2E1MDkwZGVk`
+Snapshot ID: `MTY2OTgxOTgzOCwwMDAwMDAwMGM2ZmNkMzY4N2ZhNWI3YjkwNDhlMTZlMmI5MmU0ZjM1`

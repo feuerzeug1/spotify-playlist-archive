@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw?si=bqCPE3uJSnyCMJSmbCeJcA\">Senior Oat</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p?si=rs1OfjvcRHmONcvSTZKuSg\">Karyendasoul</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 134880,
       "name": "All Nighter",
       "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
@@ -3091,6 +3091,28 @@
     },
     {
       "album": {
+        "name": "Can You See Me",
+        "url": "https://open.spotify.com/album/1pMViL7L8nQOIHkuBsLcuv"
+      },
+      "artists": [
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        },
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254330,
+      "name": "Can You See Me",
+      "url": "https://open.spotify.com/track/5fbgFotZD68RuoPM0JmJe6"
+    },
+    {
+      "album": {
         "name": "Can't Wait (feat. Aubrey Qwana)",
         "url": "https://open.spotify.com/album/4QtX3HhLYYVrKURW5Lqxip"
       },
@@ -3540,7 +3562,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
@@ -5084,7 +5106,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 169090,
       "name": "Forget You (feat. Gabry Ponte) [LUM!X VIP MIX]",
       "url": "https://open.spotify.com/track/0HTTYoAKHZOOybFJH24lbv"
@@ -5314,6 +5336,28 @@
       "duration_ms": 249756,
       "name": "Good Ending - Original Mix",
       "url": "https://open.spotify.com/track/0lbl2Rs58LYQ0VfXxshXKc"
+    },
+    {
+      "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
     },
     {
       "album": {
@@ -5868,7 +5912,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 195000,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/5m279pklGxu1ba2OV6OgOx"
@@ -5964,7 +6008,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 182918,
       "name": "Hungry Heart ft. Hayley Kiyoko",
       "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
@@ -7282,6 +7326,28 @@
       "duration_ms": 450437,
       "name": "iVolovolo",
       "url": "https://open.spotify.com/track/1JLoqwDcNStb1HgHAyxWsM"
+    },
+    {
+      "album": {
+        "name": "Jacaranda",
+        "url": "https://open.spotify.com/album/20haQolPNjMtxDaN8561KL"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372005,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/5gxbSGshbeAUqLzSsxUKFA"
     },
     {
       "album": {
@@ -9141,6 +9207,28 @@
     },
     {
       "album": {
+        "name": "Masungulo",
+        "url": "https://open.spotify.com/album/4yJRndmtIQfYzCTlMKg8GU"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "M\u00f6rda",
+          "url": "https://open.spotify.com/artist/7elJ7SSC2yLiDadOBLykdS"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287669,
+      "name": "Masungulo",
+      "url": "https://open.spotify.com/track/6QoWZJrELFnejwIV0c9OgM"
+    },
+    {
+      "album": {
         "name": "Mavulindlela",
         "url": "https://open.spotify.com/album/6FItZLFgZaZHtGhviVtEOZ"
       },
@@ -10957,6 +11045,28 @@
     },
     {
       "album": {
+        "name": "Oral Music",
+        "url": "https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK presents NLW",
+          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
+        },
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200483,
+      "name": "Oral Music",
+      "url": "https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA"
+    },
+    {
+      "album": {
         "name": "Osama",
         "url": "https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T"
       },
@@ -11360,7 +11470,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 203834,
       "name": "Polkadots - Sven Fields & Chasner Remix",
       "url": "https://open.spotify.com/track/76dve3XjNXy9ITOcIyg7wz"
@@ -12344,7 +12454,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 190476,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/2nBswif1hr0AS3ialfIRgy"
@@ -13871,6 +13981,28 @@
     },
     {
       "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Temporary (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
+    },
+    {
+      "album": {
         "name": "Temptations",
         "url": "https://open.spotify.com/album/3apV0xvM4R1TnPtJiUR5LQ"
       },
@@ -14402,6 +14534,24 @@
       "duration_ms": 156059,
       "name": "There\u2019s No Escape (feat. Reverse Prime)",
       "url": "https://open.spotify.com/track/2uDxYAwmCpsBSCn1BIALmi"
+    },
+    {
+      "album": {
+        "name": "Thief in the Night",
+        "url": "https://open.spotify.com/album/68kvBTr6IGmwdnREeT22Wb"
+      },
+      "artists": [
+        {
+          "name": "Jonas Apollo",
+          "url": "https://open.spotify.com/artist/7lD3p5VqwrhFUse5uzAEGq"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Thief in the Night",
+      "url": "https://open.spotify.com/track/0avpmSbbka5qicmcPSyRNg"
     },
     {
       "album": {
@@ -15628,7 +15778,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 199687,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/17IEdpDXGZdtrJxjTWoZIL"
@@ -15752,6 +15902,28 @@
       "duration_ms": 384845,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/2P9gK2kFtgnivroCcfYBrL"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137999,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
-96 songs - 6 hr 14 min
+97 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Earthquakes and Sharks](https://open.spotify.com/track/7jATtiR7Sjfke3qKdA5HEd) | [Brandtson](https://open.spotify.com/artist/4wlNIqMnqGY8g2lcFTkzsY) | [Hello, Control.](https://open.spotify.com/album/6vfntMjrhjePcDe48vXOwz) | 2:57 | 2021-06-28 | 2023-03-15 |
 | [Eleven to Your Seven](https://open.spotify.com/track/1hxLx1gmWfsCSpDp8cJOl0) | [Hey Mercedes](https://open.spotify.com/artist/0R8uN7rVUuKGfTXQHjvB5U) | [Everynight Fire Works](https://open.spotify.com/album/7yBqFEyyKAzCJYoEmyuyTl) | 3:54 | 2021-06-28 | 2023-03-15 |
 | [Everyone Is My Friend](https://open.spotify.com/track/5BcarBozJi3Gv0ncP721y5) | [OWLS](https://open.spotify.com/artist/57sqenSxpn1IL2G0im58dj) | [Owls](https://open.spotify.com/album/2BcDHOiwrttJkcyzvuOnEr) | 3:26 | 2021-06-28 | 2023-03-15 |
-| [Factory](https://open.spotify.com/track/5hns2g1le2bQDkQaUJPRvB) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [You're Freaking Me Out](https://open.spotify.com/album/06KigeTnRtnm7YS0hjIVl8) | 3:30 | 2021-06-28 |  |
+| [Factory](https://open.spotify.com/track/18N6ZTGXwZenUwtCOoLlp0) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [You Are Freaking Me Out](https://open.spotify.com/album/156UQKw2A5cse62sv0g2Sr) | 3:30 | 2023-03-14 |  |
+| [Factory](https://open.spotify.com/track/5hns2g1le2bQDkQaUJPRvB) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [You're Freaking Me Out](https://open.spotify.com/album/06KigeTnRtnm7YS0hjIVl8) | 3:30 | 2021-06-28 | 2023-03-25 |
 | [For Me This Is Heaven](https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 4:06 | 2021-06-28 |  |
 | [For The Workforce, Drowning](https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:16 | 2023-03-14 |  |
 | [For Want Of](https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 3:10 | 2022-06-09 |  |

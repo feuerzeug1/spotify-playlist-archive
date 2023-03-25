@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 205066,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/11MsssZqYQYa0clVJfffQj"
@@ -2296,6 +2296,24 @@
       "duration_ms": 194533,
       "name": "Hurts (But It Goes Away)",
       "url": "https://open.spotify.com/track/0ZjKlvWb93Ey2OyQki02nT"
+    },
+    {
+      "album": {
+        "name": "Hyperfixations",
+        "url": "https://open.spotify.com/album/6JmO57rWensoCLLngSqju1"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195221,
+      "name": "Hyperfixations",
+      "url": "https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR"
     },
     {
       "album": {

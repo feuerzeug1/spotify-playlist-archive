@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: DawaMafia, Random, Mody
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,787 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,806 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Harry Potter](https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Harry Potter](https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7) | 3:55 |
-| 2 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 |
-| 3 | [On L'Fait](https://open.spotify.com/track/1d15a5d3w0JBIslTS9N8Ex) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:40 |
-| 4 | [Le Game A Des Codes](https://open.spotify.com/track/60bJbhPsIsZhQqKKcFGkG1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Le Game A Des Codes](https://open.spotify.com/album/5JJjKKExk3HLXFBC1mgr8D) | 1:57 |
-| 5 | [Ghini](https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Ghini](https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu) | 2:29 |
-| 6 | [Friday Night](https://open.spotify.com/track/1Edza42w05Qq7cz5K6r658) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Friday Night](https://open.spotify.com/album/3SrVZQpgpvIaQ1HErGygdQ) | 2:41 |
-| 7 | [Holla](https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Holla](https://open.spotify.com/album/5C9ivT1fN9yRG73t18040F) | 2:52 |
-| 8 | [Ours en cage](https://open.spotify.com/track/2UygN6kuMAaDHFXGywnB4Q) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE), [Gxlden](https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo) | [Ours en cage](https://open.spotify.com/album/2NbGxEzsahYMFpnp95IPCt) | 2:21 |
-| 9 | [1942](https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [1942](https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm) | 3:39 |
-| 10 | [BOSSLAB](https://open.spotify.com/track/3slmbjKKWuyQUKHzbZPbEc) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [BOSSLAB](https://open.spotify.com/album/6OOu5f0k8Fa4bwSPjMm2oQ) | 4:32 |
+| 1 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 |
+| 2 | [Harry Potter](https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Harry Potter](https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7) | 3:55 |
+| 3 | [Le Game A Des Codes](https://open.spotify.com/track/60bJbhPsIsZhQqKKcFGkG1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Le Game A Des Codes](https://open.spotify.com/album/5JJjKKExk3HLXFBC1mgr8D) | 1:57 |
+| 4 | [On L'Fait](https://open.spotify.com/track/1d15a5d3w0JBIslTS9N8Ex) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:40 |
+| 5 | [Friday Night](https://open.spotify.com/track/1Edza42w05Qq7cz5K6r658) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Friday Night](https://open.spotify.com/album/3SrVZQpgpvIaQ1HErGygdQ) | 2:41 |
+| 6 | [Ours en cage](https://open.spotify.com/track/2UygN6kuMAaDHFXGywnB4Q) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE), [Gxlden](https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo) | [Ours en cage](https://open.spotify.com/album/2NbGxEzsahYMFpnp95IPCt) | 2:21 |
+| 7 | [BOSSLAB](https://open.spotify.com/track/3slmbjKKWuyQUKHzbZPbEc) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [BOSSLAB](https://open.spotify.com/album/6OOu5f0k8Fa4bwSPjMm2oQ) | 4:32 |
+| 8 | [Ghini](https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Ghini](https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu) | 2:29 |
+| 9 | [Holla](https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Holla](https://open.spotify.com/album/5C9ivT1fN9yRG73t18040F) | 2:52 |
+| 10 | [1942](https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [1942](https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm) | 3:39 |
 | 11 | [Ranceur](https://open.spotify.com/track/2uxbDrFDIOLlq3GwSkZJvn) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Ranceur](https://open.spotify.com/album/5CSa2WyuVissQJkQ3qI2cz) | 2:30 |
 | 12 | [Ça commence bien](https://open.spotify.com/track/6XoFiwrYXq8bTaRFYzAwjw) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [la mort attendra](https://open.spotify.com/album/1PIr15iOvcl1JLmIvWMoJ1) | 2:45 |
 | 13 | [Mew](https://open.spotify.com/track/0XyFWTz62YHIppuJHsdCXS) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Mew](https://open.spotify.com/album/7z4jZcsp7l9U6j5Q5ydhrW) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Écart type](https://open.spotify.com/track/7elFP749giV9I0f1LQHeFM) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Astronaute](https://open.spotify.com/album/2A41RCTjlR4P888t6OfM89) | 2:54 |
 | 75 | [Hold Up](https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 3:33 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMDY5YTQxNzNmMjEyYzA2ZTZmNWYzMTk5MDlhNzc5ZTQ0`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDE2NDJjZTRhMzU3YTljZTVkM2UyYjc3OWE4ZGZjMDI2`

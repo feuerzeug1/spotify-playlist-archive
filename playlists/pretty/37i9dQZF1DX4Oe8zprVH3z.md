@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 
 > Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,548 likes - 71 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,849 likes - 71 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sandesh](https://open.spotify.com/track/3kpkB2326UhsSncNxiVsUC) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Sandesh](https://open.spotify.com/album/5rsPOyuIJrmFBxESU4FN55) | 3:09 |
 | 2 | [Whispering Dryad](https://open.spotify.com/track/3IqatHS3VQu8WWZpCBh6f5) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:19 |
-| 3 | [Archipelago \(432 Hz\)](https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK) | [Drömlandskap](https://open.spotify.com/artist/2maTvFNXG3K8yvfKTjSjVM) | [Archipelago](https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21) | 2:48 |
+| 3 | [Archipelago \(432 Hz\)](https://open.spotify.com/track/1QFfumreyLnZ4qtxCx6cpK) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Archipelago](https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21) | 2:48 |
 | 4 | [Sentiment \- Sound Bath](https://open.spotify.com/track/6NCBhoJxrycWkrkjM3TgFP) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Sound Bath](https://open.spotify.com/album/4iRyKexSdcfqJIff3i1W5j) | 2:42 |
 | 5 | [Where Water Flows](https://open.spotify.com/track/6eaW0e9LlYcWtvvzkrmZ9E) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Where Water Flows](https://open.spotify.com/album/0WIe9rx99rBd7VWDZ4veCG) | 2:50 |
 | 6 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 | 70 | [Tibetan Meditation Sound \(Sound Bath\)](https://open.spotify.com/track/5w9QsXkeT7nJ0kv3adurH6) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/1RkIzOVRLMe6VJezRD32c6) | 3:26 |
 | 71 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 |
 
-Snapshot ID: `MTY3OTMxNTIzNCwwMDAwMDAwMDhmZDlhYzk0M2ZiNGFmZmUyOTg1NGYzYzNkNWEyZTdk`
+Snapshot ID: `MTY3OTMxNTIzNCwwMDAwMDAwMGFkYjU1ZjliMDc5MDRhNmE5ODQwODc3N2VjYWY2OWNk`

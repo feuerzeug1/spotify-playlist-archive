@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Live at Fabrik Hamburg 1981, Vol. 1",
+        "url": "https://open.spotify.com/album/7JBQQD8VDvqSacOz4NsQYg"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573398,
+      "name": "Bluesbird Blues - Live",
+      "url": "https://open.spotify.com/track/4wgMRK5oV43WPIKeq9F5b7"
+    },
+    {
+      "album": {
         "name": "Bright Evenings (Live in New York City, February 8, 1975)",
         "url": "https://open.spotify.com/album/4PH7anaZ0DmyUzBDMAqbA9"
       },
@@ -310,7 +328,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 273653,
       "name": "Chant - Live in New York City, February 8, 1975",
       "url": "https://open.spotify.com/track/0Lw72hrW5ARR7Q0VR0lmFF"
@@ -894,7 +912,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 381335,
       "name": "I Do It For Your Love",
       "url": "https://open.spotify.com/track/4Rnob7gKR2aLS7sm1IeJKO"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 281493,
       "name": "Love Is For Real - Live in New York City, February 8, 1975",
       "url": "https://open.spotify.com/track/2T2VyRuyVlYt4uzy8ALJm6"
@@ -1606,6 +1624,28 @@
       "duration_ms": 518093,
       "name": "Sierre - Live",
       "url": "https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz"
+    },
+    {
+      "album": {
+        "name": "Smile (Live)",
+        "url": "https://open.spotify.com/album/5zGvj76mc5eqobiqYiRq2U"
+      },
+      "artists": [
+        {
+          "name": "Shirley Scott",
+          "url": "https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI"
+        },
+        {
+          "name": "George Coleman",
+          "url": "https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559600,
+      "name": "Smile - Live",
+      "url": "https://open.spotify.com/track/0OlyfGCXmgPfSQvwJLuqqv"
     },
     {
       "album": {

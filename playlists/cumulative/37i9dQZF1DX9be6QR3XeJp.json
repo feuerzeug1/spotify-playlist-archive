@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Gretel H\u00e4nlyn",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Kaleem Taylor",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -3344,6 +3344,24 @@
       "duration_ms": 174000,
       "name": "Use You",
       "url": "https://open.spotify.com/track/7LHdg8zRyjdwiV2RpBKL8x"
+    },
+    {
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN"
+      },
+      "artists": [
+        {
+          "name": "Kaleem Taylor",
+          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu"
     },
     {
       "album": {

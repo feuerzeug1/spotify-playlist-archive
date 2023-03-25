@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-922 songs - 2 day 8 hr 24 min
+923 songs - 2 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Inevitable](https://open.spotify.com/track/60NQTrNoB45fZEX1L7pGoh) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Inevitable](https://open.spotify.com/album/5LXwLUlmxurHpg5vRpLKmZ) | 2:59 | 2022-04-01 | 2022-04-14 |
 | [Instrucciones para Ver el Sol \- Acustico](https://open.spotify.com/track/1NXga0YX3tfANvWj5YJxDO) | [Gigio&spiker](https://open.spotify.com/artist/2wxDtL8blvAzPuZsXT6qdO), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Instrucciones para Ver el Sol \(Acustico\)](https://open.spotify.com/album/5GxdstIcUQztMipuklDoSz) | 4:07 | 2022-04-08 | 2022-04-15 |
 | [International Love](https://open.spotify.com/track/6WnHvniJIHbDGe9Re8c591) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [International Love](https://open.spotify.com/album/4BsnVbmnvKel6j1bR3lCeS) | 4:37 | 2022-04-08 | 2022-04-17 |
+| [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 | 2023-03-17 |  |
 | [Irresponsables \- En Vivo](https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Repuesto de Fe \(En Vivo\)](https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc) | 2:44 | 2022-03-24 | 2022-04-20 |
 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 | 2022-04-08 | 2022-04-19 |
 | [It's a Shame](https://open.spotify.com/track/2g3YrAu9dB8fRkSN61wdon) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossanova Dinner](https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf) | 3:47 | 2022-04-01 | 2022-04-15 |
@@ -843,7 +844,7 @@
 | [TUNA](https://open.spotify.com/track/06kZbAkPevdwrQDa1Y41UM) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:41 | 2023-02-02 |  |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2021-12-24 |  |
 | [Tú](https://open.spotify.com/track/1m7i1H4AeNZ4OLUKgSzqRy) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Tú](https://open.spotify.com/album/1VWUNv00kcEVsdD5CGGfCZ) | 3:07 | 2022-07-07 | 2022-07-16 |
-| [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 | 2022-03-24 |  |
+| [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 | 2022-03-24 | 2023-03-25 |
 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn) | 4:28 | 2022-03-11 | 2022-05-17 |
 | [Umbrella \- Acoustic Version](https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Umbrella \(Acoustic Version\)](https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6) | 2:58 | 2022-04-01 | 2022-04-07 |
 | [Un Beso Tuyo](https://open.spotify.com/track/319Gag1zq0amHN4APzdts7) | [Cóndor Sbarbati](https://open.spotify.com/artist/6MR2IdgCSFxDvRvD0SNDZz), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Rabia al Silencio](https://open.spotify.com/album/42NfSPhQ0xfPcxPt3Ie4wR) | 3:36 | 2022-04-13 | 2022-04-17 |

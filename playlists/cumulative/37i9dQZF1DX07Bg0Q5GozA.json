@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: M83",
+  "description": "New music off the beaten track. Cover: LIE NING",
   "name": "OFF POP",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 323210,
       "name": "A Place To Lie",
       "url": "https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 200243,
       "name": "Act One - Edit",
       "url": "https://open.spotify.com/track/65uNCvnsgLI8O7JriMZ6Wi"
@@ -278,6 +278,32 @@
       "duration_ms": 243354,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU"
+    },
+    {
+      "album": {
+        "name": "Amplify",
+        "url": "https://open.spotify.com/album/2fnEK9AF3DqYemVCER91js"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        },
+        {
+          "name": "RJLA",
+          "url": "https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf"
+        },
+        {
+          "name": "Liset Alea",
+          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288737,
+      "name": "Amplify",
+      "url": "https://open.spotify.com/track/3qzAlgyrmiCXz2o66lW589"
     },
     {
       "album": {
@@ -576,7 +602,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 241914,
       "name": "Burning Bridges",
       "url": "https://open.spotify.com/track/5vDkKykIOkzmx7ExSux8kd"
@@ -900,6 +926,24 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+    },
+    {
+      "album": {
+        "name": "Cry Cry Cry",
+        "url": "https://open.spotify.com/album/76swTUVCbbVU1pZHr2YMrO"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202159,
+      "name": "Cry Cry Cry",
+      "url": "https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT"
     },
     {
       "album": {
@@ -1347,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "error",
+        "url": "https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181389,
+      "name": "error",
+      "url": "https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT"
+    },
+    {
+      "album": {
         "name": "Radical Romantics",
         "url": "https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe"
       },
@@ -1376,7 +1438,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 187632,
       "name": "Even It Out",
       "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
@@ -1420,7 +1482,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 440106,
       "name": "Everyday - Jennifer Cardini Remix",
       "url": "https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf"
@@ -1522,7 +1584,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 247853,
       "name": "Flight from Angkor",
       "url": "https://open.spotify.com/track/1KGPPuM4jbFy5DEWr3bXWg"
@@ -1982,10 +2044,32 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 153289,
       "name": "I Know, I Know",
       "url": "https://open.spotify.com/track/6NWBt3dF86G49ZL9Cg3DUm"
+    },
+    {
+      "album": {
+        "name": "If Love Is A Skill & Georgia",
+        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217708,
+      "name": "If Love Is A Skill",
+      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
     },
     {
       "album": {
@@ -2000,7 +2084,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 169175,
       "name": "imstillhere",
       "url": "https://open.spotify.com/track/2ZaedaaAXQ6S3Duio0S2J9"
@@ -2479,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "LIMBO",
+        "url": "https://open.spotify.com/album/15ag11HpiYHEEI5H3ub88F"
+      },
+      "artists": [
+        {
+          "name": "UMME BLOCK",
+          "url": "https://open.spotify.com/artist/6o8ur7884OGIluc3crtSAk"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/2eQSBR1jT5VhosvPkz90BD"
+    },
+    {
+      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J"
       },
@@ -2896,6 +2998,24 @@
       "duration_ms": 341088,
       "name": "Moonbeam, Midnight, Howl",
       "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
+    },
+    {
+      "album": {
+        "name": "Secret Weapons Part 15",
+        "url": "https://open.spotify.com/album/3iR7Xk7a6CYcPL3Jf6qXt6"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324520,
+      "name": "Moonwalk",
+      "url": "https://open.spotify.com/track/3uqOtjZRUIyNwGT2A2CRoZ"
     },
     {
       "album": {
@@ -3360,7 +3480,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 320473,
       "name": "Paradise Circus (Fallen Sun Version)",
       "url": "https://open.spotify.com/track/1Fg1XSeE1aSqOD0EkQAAvn"
@@ -3590,7 +3710,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 214539,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv"
@@ -3648,7 +3768,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 232304,
       "name": "Running",
       "url": "https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2"
@@ -4029,6 +4149,24 @@
     },
     {
       "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/3O9r5PoJDRmhHHuH4NDsv6"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181896,
+      "name": "Sports",
+      "url": "https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM"
+    },
+    {
+      "album": {
         "name": "Xtra",
         "url": "https://open.spotify.com/album/4Moj5LDMB4UGaWVo51y1RH"
       },
@@ -4194,6 +4332,46 @@
       "duration_ms": 379845,
       "name": "Surfside Sex",
       "url": "https://open.spotify.com/track/1popQOfGkea2VJ1VQLDL2X"
+    },
+    {
+      "album": {
+        "name": "Take a Chance",
+        "url": "https://open.spotify.com/album/5FGc2Uy94y4BVsRSkxmOkZ"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "Take a Chance",
+      "url": "https://open.spotify.com/track/5YKHh24xKQNW7XT29gNIRp"
+    },
+    {
+      "album": {
+        "name": "Take It Or Leave It",
+        "url": "https://open.spotify.com/album/3BGvWKf4IdoJxrktOZgdUC"
+      },
+      "artists": [
+        {
+          "name": "Mulay",
+          "url": "https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54"
+        },
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154794,
+      "name": "Take It Or Leave It",
+      "url": "https://open.spotify.com/track/1o50D29tsnzInFW2ACAwjN"
     },
     {
       "album": {
@@ -4365,6 +4543,24 @@
     },
     {
       "album": {
+        "name": "Tighten It Up",
+        "url": "https://open.spotify.com/album/1kehGGSk2pMh7UNkDe4Njt"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174896,
+      "name": "Tighten It Up",
+      "url": "https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u"
+    },
+    {
+      "album": {
         "name": "Private Sunshine",
         "url": "https://open.spotify.com/album/3U4y8fFJ2HOCW81meqtKhX"
       },
@@ -4434,6 +4630,28 @@
       "duration_ms": 345643,
       "name": "Tru Dancing",
       "url": "https://open.spotify.com/track/0M5nj7eG7QcDrdlzOv86c3"
+    },
+    {
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/6fCdtGCowSifh43OPqO9t3"
+      },
+      "artists": [
+        {
+          "name": "Corine",
+          "url": "https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ"
+        },
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "Tutta sola (feat. Pino D'Angi\u00f2)",
+      "url": "https://open.spotify.com/track/4hKObAIM0nMRqLOYaO15fm"
     },
     {
       "album": {

@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Oaks Are Real",
+        "url": "https://open.spotify.com/album/4qIxKQMmCNGyXZWH7Bel54"
+      },
+      "artists": [
+        {
+          "name": "Chimi Berry",
+          "url": "https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172769,
+      "name": "Oaks Are Real",
+      "url": "https://open.spotify.com/track/7KoQlaxIbg3FhBABlBTKEt"
+    },
+    {
+      "album": {
         "name": "ocean walk",
         "url": "https://open.spotify.com/album/6IxeXdhmaOPk66JJcWDVur"
       },
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 200000,
       "name": "ocean walk",
       "url": "https://open.spotify.com/track/34WwE20Cawvpowutt29ieG"

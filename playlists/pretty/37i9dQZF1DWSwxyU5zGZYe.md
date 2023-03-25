@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,560 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,691 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 35 | [Kahaani \(Aankhon Ke Pardon Pe\)](https://open.spotify.com/track/7Ja9xfr9nlVNCfpwTZfx37) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Udaan](https://open.spotify.com/album/675yMfRB6Diis4V1bJi4KL) | 3:27 |
 | 36 | [Luka Chuppi](https://open.spotify.com/track/500H9ENeR5AYbKU1ScK6ME) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 6:36 |
 | 37 | [Aazaadiyan \(Pairon Ki Bediyan\)](https://open.spotify.com/track/5VbZt5Tp8qUGFMRXctKdIi) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Udaan](https://open.spotify.com/album/675yMfRB6Diis4V1bJi4KL) | 5:37 |
-| 38 | [Mera Mann Kehne Laga](https://open.spotify.com/track/1niVgR76UPobOED5cXfADq) | [Falak Shabir](https://open.spotify.com/artist/5ukKEZTqhAC7zXPLowAJuk) | [Nautanki Saala !](https://open.spotify.com/album/1QpPhM0ZUV9OX1bfHYMJxV) | 3:47 |
+| 38 | [Mera Mann Kehne Laga](https://open.spotify.com/track/1niVgR76UPobOED5cXfADq) | [Falak Shabbir](https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM) | [Nautanki Saala !](https://open.spotify.com/album/1QpPhM0ZUV9OX1bfHYMJxV) | 3:47 |
 | 39 | [Kyon](https://open.spotify.com/track/1sYC1fG7s4p0pTykrJqmgW) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 4:26 |
 | 40 | [Iktara](https://open.spotify.com/track/3jtKSUiVDowKNBqVQbWaig) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:13 |
 | 41 | [Ek Charraiya \- Unplugged](https://open.spotify.com/track/780UgU7JF1TJZp9zjpzjFi) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl) | [Citylights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Hn2O2s9NQ5EaPtwAc665L) | 4:47 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 48 | [Channa Mereya \- Unplugged](https://open.spotify.com/track/0xHvmWCpz9Pnn1sDvRehAs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 2:45 |
 | 49 | [Roobaroo](https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 4:42 |
 
-Snapshot ID: `MTY3NjAwMjg0NywwMDAwMDAwMDRmYWM0OTRkMWE4NDIxZTc4MzhmOGExMDdlMDU1OGM1`
+Snapshot ID: `MTY3NjAwMjg0NywwMDAwMDAwMGIyZmZmNGQ4MTVlNTg4YzBiMzMwMjZjMzNmYjMyYmQ3`

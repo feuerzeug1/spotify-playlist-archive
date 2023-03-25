@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Good Company, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,627 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,776 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Flight of Time](https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2) | [Juno](https://open.spotify.com/artist/65cCRej79ekIxVA81UtCJD) | [Flight of Time](https://open.spotify.com/album/1RRhXcBViJOhNHSDeFKmhB) | 4:00 |
 | 50 | [Hostage](https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b) | [Areej](https://open.spotify.com/artist/08Dn6q1Vgbc3Vg16tRx2Ef) | [GBOF EP](https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP) | 3:38 |
 
-Snapshot ID: `MTY3OTQyOTEwMCwwMDAwMDAwMDNmYjVlN2EwYzM0OWU0NTg2NTZiZDRjMDI0YjQ4NTFk`
+Snapshot ID: `MTY3OTQyOTEwMCwwMDAwMDAwMGJhNDM3MzlkZGY0MzVjZTRiZTg0NTc3ZGMyMjc0YjZh`

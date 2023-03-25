@@ -1,13 +1,29 @@
 {
   "description": "The Midwest is always on time. Cover: Kash Doll",
-  "num_followers": 103442,
+  "num_followers": 103503,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMzNDg4NCwwMDAwMDAwMDQwMzFjNGI2ZThmZGI0MTdkMTFlYzkzYzU1ZWJkNjk0",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDM1NTNkOTkyNGM2NzFhNTU3MWNhNzc3ZTlhMzFjNTQz",
   "tracks": [
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 172218,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
+    },
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 205893,
       "name": "Hanging With Wolves",
       "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Coochie Goat",
-        "url": "https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr"
-      },
-      "artists": [
-        {
-          "name": "YN Jay",
-          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
-        }
-      ],
-      "duration_ms": 154932,
-      "name": "Perc & Sex",
-      "url": "https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -59,6 +59,26 @@
       "duration_ms": 132000,
       "name": "Boom Pt. 2 (feat. Latto)",
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Wicked Inna RaQ 2",
+        "url": "https://open.spotify.com/album/5sDveIPYQRR3qMI6KNV54x"
+      },
+      "artists": [
+        {
+          "name": "Lil Nuu",
+          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 151099,
+      "name": "Wicked Inna RaQ 2 (with G Herbo)",
+      "url": "https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -95,6 +115,22 @@
       "duration_ms": 222500,
       "name": "OH BOY",
       "url": "https://open.spotify.com/track/4lhinIXb37RqJRnbnTgOcg"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Out On Bond",
+        "url": "https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 80352,
+      "name": "Out On Bond",
+      "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -137,6 +173,26 @@
       "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
     },
     {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "GOMD",
@@ -151,6 +207,22 @@
       "duration_ms": 171872,
       "name": "GOMD",
       "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Coochie Goat",
+        "url": "https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "duration_ms": 154932,
+      "name": "Perc & Sex",
+      "url": "https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -197,6 +269,26 @@
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Way Too Hot (feat. DCG Msavv)",
+        "url": "https://open.spotify.com/album/0ShHKHwRejTIbAG4BSkFIP"
+      },
+      "artists": [
+        {
+          "name": "DCG BROTHERS",
+          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
+        },
+        {
+          "name": "DCG Msavv",
+          "url": "https://open.spotify.com/artist/0UXXT0Mk3hY49GSk9VyUmU"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "Way Too Hot (feat. DCG Msavv)",
+      "url": "https://open.spotify.com/track/0gbJ0BNVj4Oq2bV8abqnc3"
+    },
+    {
       "added_at": "2023-02-21 16:21:10",
       "album": {
         "name": "2 Effortless",
@@ -229,6 +321,26 @@
       "url": "https://open.spotify.com/track/2IEAEeX4LtxiYPdqt0C08y"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Rich Junkie (feat. Skilla Baby)",
+        "url": "https://open.spotify.com/album/0uGdwXTZ9Eubd2JjpTGIb6"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Rich Junkie (feat. Skilla Baby)",
+      "url": "https://open.spotify.com/track/1YJ1ZgksxlYQEBy6cfhV7h"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Insubordination",
@@ -247,22 +359,6 @@
       "duration_ms": 243352,
       "name": "Insubordination",
       "url": "https://open.spotify.com/track/2geW0ZSZzuJYzlyi95kAl9"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "DC Dahmer",
-        "url": "https://open.spotify.com/album/5V8t1NiBX31tLIV3MRd4cB"
-      },
-      "artists": [
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/2vIBxrS00rAslgAhL4mqHY"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -285,20 +381,28 @@
       "url": "https://open.spotify.com/track/3121hwDUvifw2mi5cj8dfP"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Out On Bond",
-        "url": "https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi"
+        "name": "WAR LORD",
+        "url": "https://open.spotify.com/album/2fSrLZtl8ASjDyohkKT8LG"
       },
       "artists": [
         {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+          "name": "Talibando",
+          "url": "https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
         }
       ],
-      "duration_ms": 80352,
-      "name": "Out On Bond",
-      "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
+      "duration_ms": 203982,
+      "name": "Millions (feat. Veeze & LUCKI)",
+      "url": "https://open.spotify.com/track/4FueImbcTZOR7aC9FidrdT"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -335,22 +439,6 @@
       "duration_ms": 133953,
       "name": "Wonderful Wayne & Jackie Boy",
       "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Finally Rich",
-        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "Love Sosa",
-      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -403,26 +491,6 @@
       "duration_ms": 134265,
       "name": "Kome On",
       "url": "https://open.spotify.com/track/11NLXN1vcW8CZbrW3hZC8c"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Mad Max",
-      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -549,26 +617,6 @@
       "url": "https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Rich Junkie (feat. Skilla Baby)",
-        "url": "https://open.spotify.com/album/0uGdwXTZ9Eubd2JjpTGIb6"
-      },
-      "artists": [
-        {
-          "name": "Tay B",
-          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Rich Junkie (feat. Skilla Baby)",
-      "url": "https://open.spotify.com/track/1YJ1ZgksxlYQEBy6cfhV7h"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Leather Belt",
@@ -583,6 +631,22 @@
       "duration_ms": 189113,
       "name": "Leather Belt",
       "url": "https://open.spotify.com/track/1uEzrWbDQqZJKMC1yUuNq4"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "DC Dahmer",
+        "url": "https://open.spotify.com/album/5V8t1NiBX31tLIV3MRd4cB"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/2vIBxrS00rAslgAhL4mqHY"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -655,22 +719,6 @@
       "duration_ms": 159973,
       "name": "2 Million Up",
       "url": "https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "4eva In My Bag (Deluxe)",
-        "url": "https://open.spotify.com/album/6WwJ1POM4DxE9GvdFHNCPl"
-      },
-      "artists": [
-        {
-          "name": "Tay B",
-          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
-        }
-      ],
-      "duration_ms": 136455,
-      "name": "Pay 2 Play",
-      "url": "https://open.spotify.com/track/75Aulubu1vDk9qYLkDn2DB"
     },
     {
       "added_at": "2023-01-27 08:30:45",
@@ -837,22 +885,6 @@
       "url": "https://open.spotify.com/track/7Atyu3gAjkdmxYt0kZawgX"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Klosure",
-        "url": "https://open.spotify.com/album/63tXsoUXzz63htNEK19MRT"
-      },
-      "artists": [
-        {
-          "name": "D. Savage",
-          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
-        }
-      ],
-      "duration_ms": 143396,
-      "name": "Klosure",
-      "url": "https://open.spotify.com/track/5JWemdcN2Tzdy1ElYYvSqM"
-    },
-    {
       "added_at": "2022-12-16 07:30:15",
       "album": {
         "name": "The Leek, Vol. 2",
@@ -883,22 +915,6 @@
       "duration_ms": 142846,
       "name": "Mr. Hanky",
       "url": "https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Luv 4 Rent",
-        "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "No L's",
-      "url": "https://open.spotify.com/track/12CNybio0Bxean3F3uYugU"
     },
     {
       "added_at": "2022-12-16 05:00:00",

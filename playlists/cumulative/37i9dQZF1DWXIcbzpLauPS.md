@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> Metalcore at its finest\. Cover: The Plot In You
+> Metalcore at its finest\. Cover: Invent Animate
 
-660 songs - 1 day 17 hr 40 min
+663 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Vigil for the Living](https://open.spotify.com/track/5HRTORbVTL0VsUkpgxY2R8) | [Census](https://open.spotify.com/artist/0o2Xha4B3DDLDiP0J6naoZ) | [A Vigil for the Living](https://open.spotify.com/album/01eDgrFRR4sc96XbSyM9uN) | 3:02 | 2021-12-17 | 2022-01-22 |
 | [A Voice in the Static](https://open.spotify.com/track/7gfIhjwZTZb3T9INCBAUoS) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [A Voice in the Static](https://open.spotify.com/album/6kELyldbrANavkDcj2ISvs) | 3:36 | 2022-07-13 | 2022-07-20 |
 | [A World in Tears](https://open.spotify.com/track/5f2GtU6iYeVHls8sfiBsyn) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [A World in Tears](https://open.spotify.com/album/7IQK6f51JQy46xwc5G6gT9) | 3:45 | 2022-01-28 | 2022-05-06 |
+| [A.D.D](https://open.spotify.com/track/0UsnlmGAFHq4psggQczhjn) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [A.D.D](https://open.spotify.com/album/1Y20qMbygyi2ukEfD05DO6) | 3:37 | 2023-03-24 |  |
 | [A.N.X.I.E.T.Y.](https://open.spotify.com/track/2FlSBOa7In5PcpL5SXFwkW) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [A.N.X.I.E.T.Y.](https://open.spotify.com/album/4Qiu3xzymfFETMN7yEDCP3) | 2:59 | 2023-02-10 |  |
 | [Absolved of The Strings And Stone](https://open.spotify.com/track/7KgjltpLZz7YXOM0LoYBZz) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Absolved of The Strings And Stone](https://open.spotify.com/album/5K7nTqG2racfLQ4TcFRTox) | 3:41 | 2022-07-13 | 2022-07-23 |
 | [Aching Longing](https://open.spotify.com/track/49UQKQom802JUWPq63lxEb) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Coffin](https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz) | 4:24 | 2022-07-08 |  |
@@ -150,7 +151,7 @@
 | [Dangerous](https://open.spotify.com/track/3E0kmaCVPaxw4D55Nt2cen) | [After Hour Animals](https://open.spotify.com/artist/12qp69G4vHfQcJUbjONDY1) | [Dangerous](https://open.spotify.com/album/4PpW6GVABbHkRxGHnCU0za) | 3:18 | 2022-12-16 |  |
 | [Dark Waves](https://open.spotify.com/track/3SDcDLF3wwQwnI3Wst38aY) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Dark Waves](https://open.spotify.com/album/5vsJsheUwcsiM3O7r5qN0v) | 3:42 | 2023-02-10 |  |
 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 | 2022-04-22 | 2022-07-23 |
-| [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 | 2022-05-06 |  |
+| [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 | 2022-05-06 | 2023-03-25 |
 | [Dead End Utopia](https://open.spotify.com/track/6YYSmZKkvXeo90u6kHrYoT) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Dead End Utopia](https://open.spotify.com/album/45PMDZU0rB2jKNs7X8jV34) | 4:06 | 2022-07-13 | 2022-07-19 |
 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 | 2022-06-10 |  |
 | [Dead Man's Diary](https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg) | [Paleface](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Dead Man's Diary](https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn) | 4:39 | 2022-07-13 | 2022-07-23 |
@@ -188,6 +189,7 @@
 | [Dirge](https://open.spotify.com/track/4tS7QOYoendjupkCIPQ9Em) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [There Are Things Worse Than Death \- EP](https://open.spotify.com/album/5DXsxOvyvZ9uAdfjpBcU7B) | 3:40 | 2021-12-17 | 2022-02-18 |
 | [Disconnected](https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Disconnected](https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2) | 4:26 | 2021-12-17 | 2022-04-02 |
 | [Disease](https://open.spotify.com/track/0pgq34BPcxMI2mbcPM2asZ) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [Disease](https://open.spotify.com/album/0DKBiS0Zg1aJf1cMsAydL5) | 3:13 | 2022-07-13 | 2022-07-23 |
+| [DOGMA](https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr) | 2:46 | 2023-03-24 |  |
 | [Don't Fix Me](https://open.spotify.com/track/7jMgTfAnjxgYJFBL9fKlJj) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Don't Fix Me](https://open.spotify.com/album/5eh22H5dI8tHG6aknnl80L) | 2:53 | 2022-06-10 | 2022-07-21 |
 | [Don't Go](https://open.spotify.com/track/5su7QP5m3Mt5yaAM5rrriE) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Don't Go](https://open.spotify.com/album/2notng3VruouqChEzm2IJl) | 3:21 | 2022-05-06 | 2022-06-11 |
 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 | 2023-01-20 |  |
@@ -503,7 +505,7 @@
 | [Serenity](https://open.spotify.com/track/19d7c6jEpypybNrOAw8Chk) | [Viscaya](https://open.spotify.com/artist/6DY7U02a4pR7XzB55SSQcE) | [Serenity](https://open.spotify.com/album/4LJwcXwtsxWjvCHJBypRvA) | 2:39 | 2021-12-17 | 2022-04-02 |
 | [Seven Souls](https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Seven Souls](https://open.spotify.com/album/0bBueyc98CNTvVvJJBqXL5) | 4:43 | 2022-07-13 | 2022-07-23 |
 | [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 | 2022-04-29 | 2022-12-03 |
-| [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 | 2022-07-01 |  |
+| [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 | 2022-07-01 | 2023-03-25 |
 | [Shadow Walker](https://open.spotify.com/track/5gymkbWGc57ZzHqBb6KCfK) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [Shadow Walker](https://open.spotify.com/album/0ZHUpNq2PbntwpITcHhe0O) | 3:57 | 2022-02-11 | 2022-04-23 |
 | [Shadows in Time](https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Shadows in Time](https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT) | 3:44 | 2022-08-05 | 2022-11-23 |
 | [Shimmer](https://open.spotify.com/track/5fuq9zEt8fMmwz66Ks9wrU) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Shimmer](https://open.spotify.com/album/69tKJT4Z6ddrF9uOFuJH9G) | 3:46 | 2022-06-17 | 2022-07-27 |
@@ -571,7 +573,7 @@
 | [The Dancer](https://open.spotify.com/track/2tLrbpHb53B7W0emqz1ukL) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [The Dancer](https://open.spotify.com/album/7uoaxWYLmec17U1qIbQkol) | 4:02 | 2022-07-13 | 2022-07-21 |
 | [The Empress](https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [The Empress](https://open.spotify.com/album/0aDF2jUuIoRCiQC1A7YnZ0) | 3:56 | 2022-07-13 | 2022-07-15 |
 | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/album/5bJ6joEOY28UkisojIyFOk) | 3:35 | 2021-12-17 | 2022-01-28 |
-| [THE GREAT DEPRESSION](https://open.spotify.com/track/4XLAtJLVLFvSUXRZFc0dqr) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:07 | 2023-02-17 |  |
+| [THE GREAT DEPRESSION](https://open.spotify.com/track/4XLAtJLVLFvSUXRZFc0dqr) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:07 | 2023-02-17 | 2023-03-25 |
 | [The Impressionist](https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Impressionist](https://open.spotify.com/album/40n12vUitDKrQVCyw0cEIs) | 4:28 | 2022-04-22 | 2022-07-01 |
 | [The Lake](https://open.spotify.com/track/4g9s3pIOIqk2qfbNef3dW9) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [Vemod](https://open.spotify.com/album/1meKjxOu8dmRsuWo47vmAI) | 4:55 | 2022-07-13 | 2022-07-20 |
 | [The Line](https://open.spotify.com/track/6z0oVHUpCffd17PnC4uJEn) | [Affiance](https://open.spotify.com/artist/4gSQlkxtYOyPSRFksQk6tb) | [The Line](https://open.spotify.com/album/135JeuEorzoXRr21qrAj75) | 3:37 | 2021-12-17 | 2022-03-18 |
@@ -655,6 +657,7 @@
 | [Who's fault?](https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87) | [DEXCORE](https://open.spotify.com/artist/5M8Z8Dlx2uLSH88WgxLlG4) | [\-18\-](https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s) | 4:35 | 2022-01-21 | 2022-04-09 |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-07-13 | 2022-07-23 |
 | [Wishing Well](https://open.spotify.com/track/2evEFxMnGDwCK30gpEEpXH) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Shine & Fade](https://open.spotify.com/album/3CBH9X13DU7f7hBwyzLNFB) | 4:10 | 2022-04-29 | 2022-07-08 |
+| [Without a Whisper](https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Heavener](https://open.spotify.com/album/0OUb9GCxls0erHrS98Htv1) | 4:17 | 2023-03-24 |  |
 | [Without End](https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Without End](https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP) | 2:34 | 2022-07-13 | 2022-07-20 |
 | [Womb](https://open.spotify.com/track/3nUgBhmtF1W0eLQKXWCWqR) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Torture World](https://open.spotify.com/album/37d1ArPDeWWEj6Np8hDXR0) | 2:45 | 2022-07-13 | 2022-07-15 |
 | [Wonderland](https://open.spotify.com/track/7mUmIhrlfX8Zt3QJ7ZzWIM) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Wonderland](https://open.spotify.com/album/54FRO0p7V00CyAXSsFegeb) | 3:17 | 2021-12-17 | 2022-01-22 |

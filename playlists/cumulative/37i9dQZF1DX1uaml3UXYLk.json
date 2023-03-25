@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Blooms",
+        "url": "https://open.spotify.com/album/5PSwbfxUBMbyVm33UJbs6U"
+      },
+      "artists": [
+        {
+          "name": "Kacey View",
+          "url": "https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187293,
+      "name": "Blooms",
+      "url": "https://open.spotify.com/track/6fwHeGMfIOEjPajVQzeBRM"
+    },
+    {
+      "album": {
         "name": "blu sparks",
         "url": "https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij"
       },

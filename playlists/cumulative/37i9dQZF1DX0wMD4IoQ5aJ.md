@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-285 songs - 15 hr 13 min
+286 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Drinks on You](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Drinks On You, / Places To Go](https://open.spotify.com/album/6GFWbw9g0xkIACWMJiFlFo) | 3:48 | 2022-04-15 |  |
 | [Electric Moments](https://open.spotify.com/track/3T24DOXoiTHkzRxgnSX0SI) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Electric Moments](https://open.spotify.com/album/10wIuQ7caZKzB0fXSmKzRk) | 2:35 | 2022-04-15 | 2022-06-10 |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2022-04-15 | 2022-05-11 |
-| [Elephant](https://open.spotify.com/track/5nN9ez4MrKn2eeJW5EQIZx) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Elephant](https://open.spotify.com/album/2urEyKFkHVefwU34yJhee1) | 2:18 | 2023-01-06 |  |
+| [Elephant](https://open.spotify.com/track/5nN9ez4MrKn2eeJW5EQIZx) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Elephant](https://open.spotify.com/album/2urEyKFkHVefwU34yJhee1) | 2:18 | 2023-01-06 | 2023-03-25 |
 | [Encounters](https://open.spotify.com/track/39PAf5P83sN0HQfFFe4OnM) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Encounters](https://open.spotify.com/album/4NbBt1t3SETGwzJKZ3urx6) | 2:46 | 2023-01-20 |  |
 | [Essence](https://open.spotify.com/track/3UEqSBDZxPv6dZc6Ysgpyj) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Essence](https://open.spotify.com/album/5afNE10Oh6rhMJrDVqPtxL) | 3:14 | 2022-11-25 |  |
 | [evenings with u](https://open.spotify.com/track/1E3LzOvG6zBVvn68sEZZjr) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [evenings with u](https://open.spotify.com/album/39DWG3sn0Fq4yNB2eBnzln) | 2:38 | 2022-10-14 |  |
@@ -156,6 +156,7 @@
 | [Keeping](https://open.spotify.com/track/7J6zJzF5nBfW610gUHT6gE) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Keeping](https://open.spotify.com/album/1as5ri9NKFQcZN9YZJUIh4) | 2:58 | 2022-07-08 |  |
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2022-04-15 |  |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2022-04-15 | 2023-02-10 |
+| [Lazy](https://open.spotify.com/track/5AiI3I1ayQFAhFvOG6N6Qh) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Lazy](https://open.spotify.com/album/1WBLkmlmYyxPMqnQii3s05) | 3:01 | 2023-03-24 |  |
 | [Leaving Lunar](https://open.spotify.com/track/79KsCHxDvK6ZSd17fJoqMU) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Goodbye Earth](https://open.spotify.com/album/1cJHB1ed0mwUMTbthrNsih) | 3:51 | 2023-03-10 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-04-15 | 2022-09-02 |
 | [Let Me Levitate](https://open.spotify.com/track/7CzNk9SBj1IFssmyFJxNpD) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Let Me Levitate](https://open.spotify.com/album/0nWhjwu0bGFv0FY9QRg26b) | 3:51 | 2022-10-28 |  |

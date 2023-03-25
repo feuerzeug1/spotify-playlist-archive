@@ -1,13 +1,77 @@
 {
-  "description": "She's back from the dead. Or is she? Cover: Melanie Martinez ",
-  "num_followers": 330364,
+  "description": "Dark, hard hitting pop. Cover: laye",
+  "num_followers": 330876,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA3MTcwMCwwMDAwMDAwMGY4NWFkYmEzNjQ2MjUwNTBjOWE0ZDY3ZWQxYzkxYzAx",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGI1NzllMGE1ZDBlNjkxZTkwZDcyNTRmMDdjMGJiYjU5",
   "tracks": [
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/64Ezf43dKpmAsCXUPmO6Wr"
+      },
+      "artists": [
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "duration_ms": 168365,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "BADDER",
+        "url": "https://open.spotify.com/album/0Zb78r3znw6BMy7IP7fYVk"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 194381,
+      "name": "BADDER",
+      "url": "https://open.spotify.com/track/5hvxB7vZ8p6YDLlt7iC7o8"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Dolls EP",
+        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 132793,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "brokenboys&bitterbitches",
+        "url": "https://open.spotify.com/album/0Db14UCdRoie6qmMA5nPwv"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 166309,
+      "name": "brokenboys&bitterbitches",
+      "url": "https://open.spotify.com/track/7wX1A5JaAhBZyTSdfARBSE"
+    },
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
@@ -25,20 +89,36 @@
       "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Dolls EP",
-        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+        "name": "Heart Attack (Rock Version)",
+        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
       },
       "artists": [
         {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 132793,
-      "name": "Dolls",
-      "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
+      "duration_ms": 239011,
+      "name": "Heart Attack - Rock Version",
+      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "feelings",
+        "url": "https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 140598,
+      "name": "feelings",
+      "url": "https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -75,6 +155,38 @@
       "duration_ms": 129938,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/5DKcc3WxMwE7JB1IxCrdrs"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Crazier Best Friend",
+        "url": "https://open.spotify.com/album/4tNwSshyEfPg3tltRHZn3j"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "duration_ms": 171214,
+      "name": "Crazier Best Friend",
+      "url": "https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "BANG BANG!",
+        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 136387,
+      "name": "BANG BANG!",
+      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -129,22 +241,6 @@
       "url": "https://open.spotify.com/track/1S1WWTuydW6zljNeHOpZXe"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "feelings",
-        "url": "https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 140598,
-      "name": "feelings",
-      "url": "https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Undone",
@@ -175,22 +271,6 @@
       "duration_ms": 192106,
       "name": "Buzzkill Baby",
       "url": "https://open.spotify.com/track/5ylZhwfwtqtACJ9IDYnKkA"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "BANG BANG!",
-        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 136387,
-      "name": "BANG BANG!",
-      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -815,22 +895,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "young forever (extended)",
-        "url": "https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 161917,
-      "name": "deathmatch",
-      "url": "https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "BROKEN HEARTS",
         "url": "https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7"
       },
@@ -971,22 +1035,6 @@
       "duration_ms": 146823,
       "name": "sober",
       "url": "https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "young forever",
-        "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "too hot to cry",
-      "url": "https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1235,22 +1283,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "20 Questions",
-        "url": "https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "20 Questions",
-      "url": "https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl"
       },
@@ -1283,22 +1315,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/5ShHPBnTeucExVbL6ccqXj"
-      },
-      "artists": [
-        {
-          "name": "Sam Short",
-          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
-        }
-      ],
-      "duration_ms": 133971,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7bI5GpjLRkil6k42fuFfAH"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Seven",
         "url": "https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0"
       },
@@ -1311,54 +1327,6 @@
       "duration_ms": 124373,
       "name": "Seven",
       "url": "https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Maybe All the Rumours Are True",
-        "url": "https://open.spotify.com/album/5bzK7vxzep2qDCOUxvXwAr"
-      },
-      "artists": [
-        {
-          "name": "CATTY",
-          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
-        }
-      ],
-      "duration_ms": 194549,
-      "name": "Maybe All the Rumours Are True",
-      "url": "https://open.spotify.com/track/5TOypkLxV6SDEIePb7lvox"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Gorgeous Gorgeous Girls",
-        "url": "https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh"
-      },
-      "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 116909,
-      "name": "Gorgeous Gorgeous Girls",
-      "url": "https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "this is how i learn to say no",
-        "url": "https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 142965,
-      "name": "this is how i learn to say no",
-      "url": "https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6"
     }
   ],
   "unique_name": "SALT",

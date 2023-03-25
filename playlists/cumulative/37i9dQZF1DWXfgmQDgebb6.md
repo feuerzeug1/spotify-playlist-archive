@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXfgmQDgebb6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXfgmQDgebb6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXfgmQDgebb6)
 
-### [Hipster K' Pack: So!YoON! Takeover](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
+### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: CIFIKA\)
 

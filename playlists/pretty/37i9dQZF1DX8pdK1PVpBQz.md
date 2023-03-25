@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Go\-Jo\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,235 likes - 101 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,251 likes - 101 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 100 | [falling easy](https://open.spotify.com/track/1LnXbsboootYwkXdZR93H1) | [sad face.](https://open.spotify.com/artist/3E9nbdWPIrVqkHoQeU003n) | [falling easy](https://open.spotify.com/album/62wsaMKXUjK8YMEYlxgCBH) | 4:00 |
 | 101 | [SAY NOTHIN](https://open.spotify.com/track/6zEYMIJhx0kxtpYdW1BmqQ) | [OX4ORD](https://open.spotify.com/artist/5lzEFp6GXQ6G7OFGYwxf8N), [VOLDY](https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA) | [SAY NOTHIN](https://open.spotify.com/album/2PjJjuLkb7WovOTI5j9yaE) | 2:30 |
 
-Snapshot ID: `MTY3OTQ2MDkyNCwwMDAwMDAwMDc0YTYzZDg3ZGQ2NmQ2YmQ2ZmViMDMxY2E2NGIxZDc5`
+Snapshot ID: `MTY3OTQ2MDkyNCwwMDAwMDAwMDJhMjk4MWI3MWMzN2EyYjQ3NzgzMTlhMDE2YTZlOWNm`

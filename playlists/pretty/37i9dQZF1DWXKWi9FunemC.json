@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 197072,
+  "num_followers": 197543,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDk0YmYxNWNiY2EyZTc0M2JkNDMxZmFiMTA3NzE0Mjlk",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDE3NGI3MzU0OGIxOTdlYTQ4OTA1ZTI4ZjcyMmExZjZj",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -259,22 +259,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "On the Shores",
-        "url": "https://open.spotify.com/album/3YUPMhS86C2T5jAVoOF1qQ"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 244520,
-      "name": "Abba",
-      "url": "https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 337960,
       "name": "Another In The Fire - Acoustic",
       "url": "https://open.spotify.com/track/77yuZSTyvX71hl5ip4SRfd"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "On the Shores",
+        "url": "https://open.spotify.com/album/3YUPMhS86C2T5jAVoOF1qQ"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 244520,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -851,22 +851,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
-      },
-      "artists": [
-        {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Raise a Hallelujah (Acoustic)",
         "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 303176,
       "name": "Raise a Hallelujah (Acoustic)",
       "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Find My Home",
+        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+      },
+      "artists": [
+        {
+          "name": "Shiny Penny",
+          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Find My Home",
+      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Well Done (Acoustic)",
-        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "Well Done - Acoustic",
-      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Heavenly Father",
         "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 374117,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Well Done (Acoustic)",
+        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 278906,
+      "name": "Well Done - Acoustic",
+      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+        "name": "Keeper of Days",
+        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
       "artists": [
         {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
+      "duration_ms": 354223,
+      "name": "Teach Us That One Song",
+      "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Keeper of Days",
-        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
       },
       "artists": [
         {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
         }
       ],
-      "duration_ms": 354223,
-      "name": "Teach Us That One Song",
-      "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
-        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "This Wild Earth",
-      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "YOUR NAME IS POWER (Acoustic)",
         "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 232238,
       "name": "YOUR NAME IS POWER - Acoustic",
       "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
+        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "This Wild Earth",
+      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Morning Sun, Rising Tide",
+        "url": "https://open.spotify.com/album/09EayNj4y8JWxvwBUElf7q"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Oh What a Father",
+      "url": "https://open.spotify.com/track/1H8YQq1VQDwsFrw32npGEH"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Morning Sun, Rising Tide",
-        "url": "https://open.spotify.com/album/09EayNj4y8JWxvwBUElf7q"
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
       },
       "artists": [
         {
-          "name": "Mark & Sarah Tillman",
-          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Oh What a Father",
-      "url": "https://open.spotify.com/track/1H8YQq1VQDwsFrw32npGEH"
+      "duration_ms": 277853,
+      "name": "Get Your Hopes Up",
+      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1319,22 +1335,6 @@
       "duration_ms": 213360,
       "name": "Up Again (Acoustic Mix)",
       "url": "https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 277853,
-      "name": "Get Your Hopes Up",
-      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "A Dawn I Remember",
-        "url": "https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH"
-      },
-      "artists": [
-        {
-          "name": "Holly Arrowsmith",
-          "url": "https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X"
-        }
-      ],
-      "duration_ms": 254146,
-      "name": "Love Together",
-      "url": "https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "\u2020 (just the cross)",
         "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 398333,
       "name": "\u2020 (just the cross) - Live",
       "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "A Dawn I Remember",
+        "url": "https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH"
+      },
+      "artists": [
+        {
+          "name": "Holly Arrowsmith",
+          "url": "https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X"
+        }
+      ],
+      "duration_ms": 254146,
+      "name": "Love Together",
+      "url": "https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
-      },
-      "artists": [
-        {
-          "name": "Finding Favour",
-          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
-        }
-      ],
-      "duration_ms": 221684,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh"
       },
@@ -1687,6 +1671,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
+      },
+      "artists": [
+        {
+          "name": "Finding Favour",
+          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
+        }
+      ],
+      "duration_ms": 221684,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
       },
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+        "name": "Wrote Us a Story (To the Sea Remix)",
+        "url": "https://open.spotify.com/album/1uHEElCMla96AuvFhcCZAD"
       },
       "artists": [
         {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+          "name": "Jenny & Tyler",
+          "url": "https://open.spotify.com/artist/18FojbNFtWY8HKOMVSA2K4"
         }
       ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
+      "duration_ms": 205308,
+      "name": "Wrote Us a Story - To the Sea Remix",
+      "url": "https://open.spotify.com/track/4EWR9HYaJ3woD0dILCyFSk"
     }
   ],
   "unique_name": "Love Coffee, Love Jesus",

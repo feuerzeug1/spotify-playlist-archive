@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Forrest Frank
 
-276 songs - 17 hr 15 min
+277 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Good God](https://open.spotify.com/track/2qgYWwsLHakKwgR6CLArfy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Good God](https://open.spotify.com/album/03UkgWNWGbM50qfR77lBaj) | 2:42 | 2023-02-24 |  |
 | [Good Morning](https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Good Morning](https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3) | 3:34 | 2023-02-19 |  |
 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 | 2023-03-12 |  |
+| [Goodbye Ole Me](https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 2:01 | 2023-02-24 |  |
 | [Goodbye Ole Me](https://open.spotify.com/track/2Ia3J3KjBGuJpNv93YaoLk) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Goodbye Ole Me](https://open.spotify.com/album/4nFLk3fZUyo8CnQZ1FHKc2) | 2:01 | 2023-02-19 | 2023-03-23 |
 | [Growing Up](https://open.spotify.com/track/26AqRniqB19PZGLuvYFqUZ) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Growing Up](https://open.spotify.com/album/23IZW5PrpK26X2UeP3i2qX) | 3:35 | 2023-02-24 |  |
 | [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 | 2023-02-24 | 2023-03-12 |
@@ -128,7 +129,7 @@
 | [In the Valley](https://open.spotify.com/track/1mEREMPGZy8BzbNr7FinQ4) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [In the Valley](https://open.spotify.com/album/5yTIiQdHlCogJhpPqfH5Sh) | 4:53 | 2020-12-18 | 2022-07-29 |
 | [Island](https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Island](https://open.spotify.com/album/6xYY34SDgAPg308e965q0H) | 4:34 | 2020-12-18 | 2023-02-19 |
 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 | 2020-12-18 | 2023-02-19 |
-| [It's a Yes](https://open.spotify.com/track/2mjjLHHQW55Y5kw6Ugfoc2) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [It's a Yes](https://open.spotify.com/album/0HEQDcYpmf87RJRAS19FFn) | 3:19 | 2023-02-21 |  |
+| [It's a Yes](https://open.spotify.com/track/2mjjLHHQW55Y5kw6Ugfoc2) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [It's a Yes](https://open.spotify.com/album/0HEQDcYpmf87RJRAS19FFn) | 3:19 | 2023-02-21 | 2023-03-25 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/1MzsDT85FGT7NDwyc6EndI) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Wilder Years](https://open.spotify.com/album/6IljQe2zOTrM6NQpKfmrOb) | 3:24 | 2020-12-18 | 2022-07-26 |
 | [Jesus Always](https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Jesus Always](https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u) | 4:44 | 2023-02-19 |  |
 | [Just Wondering](https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Wilder Wonderland](https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF) | 3:40 | 2023-02-19 |  |

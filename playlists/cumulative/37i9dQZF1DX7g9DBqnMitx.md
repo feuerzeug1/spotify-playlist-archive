@@ -4,7 +4,7 @@
 
 > Le cinéma ça s'écoute aussi.
 
-152 songs - 8 hr 45 min
+153 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Aloha! \(Main Title Theme\) \- from “The White Lotus: Season 1”](https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:19 | 2022-09-07 | 2023-02-25 |
 | [Amarcord](https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [Amarcord \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy) | 2:07 | 2022-09-07 | 2023-02-25 |
 | [Amore mio aiutami \- Main Theme](https://open.spotify.com/track/29KwH2LEjfWEtiC2jCrLVw) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Amore mio aiutami \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF) | 3:54 | 2022-09-07 | 2023-02-25 |
-| [An der schönen blauen Donau, Op.314](https://open.spotify.com/track/5siXMmAafNxDlgcsLsqL9R) | [Johann Strauss II](https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [2001 \- A Space Odyssey](https://open.spotify.com/album/3AzJfHje1Uym5QC5vt7WKK) | 10:00 | 2023-02-24 |  |
+| [An der schönen blauen Donau, Op\. 314](https://open.spotify.com/track/4igBCsHpFW2GpD1jvyqvsZ) | [Johann Strauss II](https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Waltz of Spring](https://open.spotify.com/album/6kVm63Gx3fSup4hJupOaEH) | 9:53 | 2023-02-24 |  |
+| [An der schönen blauen Donau, Op.314](https://open.spotify.com/track/5siXMmAafNxDlgcsLsqL9R) | [Johann Strauss II](https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [2001 \- A Space Odyssey](https://open.spotify.com/album/3AzJfHje1Uym5QC5vt7WKK) | 10:00 | 2023-02-24 | 2023-03-25 |
 | [Anyone Else but You](https://open.spotify.com/track/7mOYvqE4mvNWW0Oe3O9DxG) | [Michael Cera](https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3), [Elliot Page](https://open.spotify.com/artist/0P6soo9LS5O854DcUpEtSc) | [Juno \(Music From The Motion Picture\)](https://open.spotify.com/album/5QLWzI3zMjxnI4ry0Wu6IS) | 1:56 | 2023-02-24 |  |
 | [Back To The Future](https://open.spotify.com/track/5F7I0CfdEnVSPlwFabMyIi) | [The Outatime Orchestra](https://open.spotify.com/artist/2taffC19qE4FkJpPPfMzqw) | [Back To The Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jz1nb6dEh9PvRZr9bs387) | 3:17 | 2023-02-24 |  |
 | [Balcony Scene \(Tonight\)](https://open.spotify.com/track/63qvbi2vkMATRpLUTiuSdu) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [Ansel Elgort](https://open.spotify.com/artist/59mjRp0i1B8oWSSMmGWJlJ) | [West Side Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16oKZSg3msLgn69IK1puzi) | 5:24 | 2022-09-07 | 2022-12-29 |

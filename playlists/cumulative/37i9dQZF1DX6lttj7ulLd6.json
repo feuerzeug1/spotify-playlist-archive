@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Big Dume",
+        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
+      },
+      "artists": [
+        {
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230101,
+      "name": "Big Dume",
+      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
+    },
+    {
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
       },
@@ -378,7 +396,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 301133,
       "name": "Cause We've Ended As Lovers",
       "url": "https://open.spotify.com/track/51VBEDfm60C2PyCtwLGIDG"
@@ -1441,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Melody Drive",
+        "url": "https://open.spotify.com/album/7L9rZoOFPlkKy4g9Jclwft"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168811,
+      "name": "Melody Drive",
+      "url": "https://open.spotify.com/track/5WHfvETetU0Tu9DQ4iIwfq"
+    },
+    {
+      "album": {
         "name": "Melrose Avenue",
         "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
       },
@@ -1806,7 +1842,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 265493,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/7ahXlJ51Pto9AiR2tUyM2j"

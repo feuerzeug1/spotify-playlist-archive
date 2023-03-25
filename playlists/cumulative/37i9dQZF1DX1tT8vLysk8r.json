@@ -780,7 +780,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164000,
-      "name": "Lieutenant Kij\u00e9, Symphonic Suite, Op. 60: IV. Tro\u00efka",
+      "name": "Lieutenant Kij\u00e9 Suite, Op. 60: IV. Troika",
       "url": "https://open.spotify.com/track/0vAuvor57Kozo21tSnfLGY"
     },
     {
@@ -911,32 +911,6 @@
     },
     {
       "album": {
-        "name": "David Bowie narrates Prokofiev's Peter and the Wolf & The Young Person's Guide to the Orchestra",
-        "url": "https://open.spotify.com/album/1ZDPe7QlFtKG0nSjHSKaSE"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "Eugene Ormandy",
-          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
-        },
-        {
-          "name": "Philadelphia Orchestra",
-          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
-        }
-      ],
-      "date_added": "2021-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 51053,
-      "name": "Peter and the Wolf, Op. 67 (Remastered): The Story Begins",
-      "url": "https://open.spotify.com/track/0wnXJy6kkLgLpcbFGnAXBI"
-    },
-    {
-      "album": {
         "name": "Prokofiev: Peter and the Wolf; Classical Symphony Op.25; March Op.99; Overture Op.34",
         "url": "https://open.spotify.com/album/2Z9WmnUhN1lmSbetmXVCYt"
       },
@@ -962,8 +936,34 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 85706,
-      "name": "Peter and the wolf, Op. 67 - Narration in English, Text adapted by Sting: \u201cOn A Branch Of a Big Tree Sat A Little Bird, Peter\u2019s Friend\u201d Allegro",
+      "name": "Peter and the Wolf, Op. 67 (Narration Rev. Sting): On a Branch of a Big Tree Sat a Little Bird",
       "url": "https://open.spotify.com/track/17e1ieZ1lIoc3qFh0wcfyH"
+    },
+    {
+      "album": {
+        "name": "David Bowie narrates Prokofiev's Peter and the Wolf & The Young Person's Guide to the Orchestra",
+        "url": "https://open.spotify.com/album/1ZDPe7QlFtKG0nSjHSKaSE"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Eugene Ormandy",
+          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51053,
+      "name": "Peter and the Wolf, Op. 67 (Remastered): The Story Begins",
+      "url": "https://open.spotify.com/track/0wnXJy6kkLgLpcbFGnAXBI"
     },
     {
       "album": {
@@ -2014,7 +2014,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 104000,
-      "name": "Romeo and Juliet, Op. 64 / Act 2: 25. Dance with Mandolins",
+      "name": "Romeo and Juliet, Op. 64, Act II: No. 25, Dance with Mandolins",
       "url": "https://open.spotify.com/track/4qsumzJMEWI73HhGxpjyps"
     },
     {

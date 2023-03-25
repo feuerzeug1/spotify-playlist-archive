@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=g_PfiPnJTs-FbWSZxqlQkQ\"> Qing Madi</a> ",
+  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX?si=OpJVbnKfTYOXqIq0QVMsnw\"> Zenesoul </a> ",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/3hAvR6hXAumr2FaeDnmbNf"
+      },
+      "artists": [
+        {
+          "name": "Jas\u00ebn Blu",
+          "url": "https://open.spotify.com/artist/6IdeXkZ2Kk6CtIKe9QUePe"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238588,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/5J2EQqHiopKv9cHX3zLSZg"
+    },
+    {
+      "album": {
         "name": "Nightshot",
         "url": "https://open.spotify.com/album/0L9LtAbap45bpiJsqX05fG"
       },
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 229411,
       "name": "Citrus Tears",
       "url": "https://open.spotify.com/track/5T17angrfy3Gdmh4Y3aeQR"
@@ -1168,6 +1186,24 @@
       "duration_ms": 180705,
       "name": "Cold",
       "url": "https://open.spotify.com/track/10Acd9i7TFQNQzEJKKiv8r"
+    },
+    {
+      "album": {
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
       "album": {
@@ -2126,7 +2162,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 164754,
       "name": "Girls Don't Lie",
       "url": "https://open.spotify.com/track/3RNNTSIVYYc6WKSVOaddED"
@@ -2152,6 +2188,28 @@
       "duration_ms": 179977,
       "name": "Go",
       "url": "https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp"
+    },
+    {
+      "album": {
+        "name": "Go (Acoustic)",
+        "url": "https://open.spotify.com/album/0yrz80DEbziJifwInmlgiz"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        },
+        {
+          "name": "Chemutai Sage",
+          "url": "https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239999,
+      "name": "Go - Acoustic",
+      "url": "https://open.spotify.com/track/2E6noE7MLeGQBMk3nPEmxH"
     },
     {
       "album": {
@@ -2326,6 +2384,24 @@
       "duration_ms": 196204,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "album": {
+        "name": "Hillary",
+        "url": "https://open.spotify.com/album/3KUbmSvjvHH5Qxf1A9lS09"
+      },
+      "artists": [
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Hillary",
+      "url": "https://open.spotify.com/track/6I1oMY6NrE8Iqx7bx0gIw2"
     },
     {
       "album": {
@@ -2578,7 +2654,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 167142,
       "name": "I No Go Blame You",
       "url": "https://open.spotify.com/track/0iDM7mg2VMCNwjalkXXkfN"
@@ -2672,7 +2748,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 198676,
       "name": "IDT",
       "url": "https://open.spotify.com/track/4zXMJEavXIWMG9LZHE50Tx"
@@ -2983,6 +3059,46 @@
     },
     {
       "album": {
+        "name": "Lean In (feat. Bayanni)",
+        "url": "https://open.spotify.com/album/3nhEm72CmZfeccLKAFAfZY"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        },
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156911,
+      "name": "Lean In (feat. Bayanni)",
+      "url": "https://open.spotify.com/track/6qn6p5ew4CpkxwiWfcapeO"
+    },
+    {
+      "album": {
+        "name": "Let me go",
+        "url": "https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200853,
+      "name": "Let me go",
+      "url": "https://open.spotify.com/track/6w52GAsdrejKZPZPo4Iu47"
+    },
+    {
+      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/5ouDvbGvXEbQsf9dG9y7pw"
       },
@@ -3100,7 +3216,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 217902,
       "name": "Loco",
       "url": "https://open.spotify.com/track/21UyMsjEnokcBYDEQXqQx5"
@@ -3368,7 +3484,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 190384,
       "name": "Mine (feat. Boslen)",
       "url": "https://open.spotify.com/track/5HvaoqWuK3TkkqOx9U94zv"
@@ -3576,7 +3692,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 146155,
       "name": "NANA",
       "url": "https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO"
@@ -3642,6 +3758,50 @@
       "duration_ms": 185997,
       "name": "No Closure",
       "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
+    },
+    {
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/2ucq3VkxPJbUsAJ1rP6QDD"
+      },
+      "artists": [
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129677,
+      "name": "No Doubt",
+      "url": "https://open.spotify.com/track/5KAxBZ8TY2YYHhiOd0XcVZ"
+    },
+    {
+      "album": {
+        "name": "No letting guh",
+        "url": "https://open.spotify.com/album/1nW3aKGYni9OSGk2311kr9"
+      },
+      "artists": [
+        {
+          "name": "July Drama",
+          "url": "https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144465,
+      "name": "No letting guh",
+      "url": "https://open.spotify.com/track/4C0DwDS6OzrUjtU8VtwhUN"
     },
     {
       "album": {
@@ -4192,7 +4352,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -4276,7 +4436,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 166244,
       "name": "PILOLO",
       "url": "https://open.spotify.com/track/5CDy5HTPY2NgSkkR2xrnZ2"
@@ -4671,6 +4831,24 @@
     },
     {
       "album": {
+        "name": "Saints Row",
+        "url": "https://open.spotify.com/album/6kEjvHgwHodZdPhLBpQzxu"
+      },
+      "artists": [
+        {
+          "name": "Oshunda",
+          "url": "https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176457,
+      "name": "Saints Row",
+      "url": "https://open.spotify.com/track/3OGKSo3gKQnQbG7d8GFLJE"
+    },
+    {
+      "album": {
         "name": "Solu, Vol. 1",
         "url": "https://open.spotify.com/album/11uI3FGpSb4A2UDrEPYzpC"
       },
@@ -4708,7 +4886,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 194318,
       "name": "san siro",
       "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
@@ -5133,6 +5311,28 @@
     },
     {
       "album": {
+        "name": "DEDICATED",
+        "url": "https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ"
+      },
+      "artists": [
+        {
+          "name": "Meryl Paige",
+          "url": "https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg"
+        },
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296756,
+      "name": "Song Of G",
+      "url": "https://open.spotify.com/track/6Ug28Tl6LJs2V9fmBmKfeT"
+    },
+    {
+      "album": {
         "name": "SPACE COWBOY",
         "url": "https://open.spotify.com/album/6dWdz1zf7BXz9mtNW2tjHX"
       },
@@ -5192,6 +5392,28 @@
       "duration_ms": 173304,
       "name": "Spell - Remix",
       "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
+    },
+    {
+      "album": {
+        "name": "STAR PLAYER",
+        "url": "https://open.spotify.com/album/14B8S82MKCRFcA702ontrD"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "kadiata",
+          "url": "https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "STAR PLAYER",
+      "url": "https://open.spotify.com/track/0rwITaQrtUGTb4NwihJihM"
     },
     {
       "album": {
@@ -5518,7 +5740,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 170457,
       "name": "Things I Know",
       "url": "https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb"

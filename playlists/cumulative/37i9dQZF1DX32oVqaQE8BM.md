@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-515 songs - 21 hr 56 min
+516 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Coloring Book](https://open.spotify.com/track/0V820qf0s6EES7VDxR3vi7) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Coloring Book](https://open.spotify.com/album/5iWXKx09E9WAsRiGUBULCL) | 2:51 | 2022-12-16 |  |
 | [Come Alive](https://open.spotify.com/track/6EY8GTREw2nQWUR6rkZMqJ) | [Antuigo](https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd) | [Come Alive](https://open.spotify.com/album/70FBJICtGpHQKyUKs1WKHi) | 3:20 | 2021-11-10 |  |
 | [count](https://open.spotify.com/track/6zJzxdGpwLkQWaFIOlayf8) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [count](https://open.spotify.com/album/3dHo7XQTUOsk1dE49pVSxh) | 2:06 | 2021-11-10 | 2022-07-01 |
+| [Cozy Cabin](https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW) | [Fiber Zone](https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA) | [Cozy Cabin](https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9) | 2:08 | 2023-03-23 |  |
 | [Creation](https://open.spotify.com/track/3wTo5rcassS8R6L1EzKSCF) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Creation](https://open.spotify.com/album/7Dv1BGiYX6n1zGjK8DmZ5j) | 2:00 | 2021-11-10 |  |
 | [Creative Waves](https://open.spotify.com/track/3sWTzfo52MU2OXp0MkOsDn) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Creative Waves](https://open.spotify.com/album/6vRILbTFu1ArfbdVdrRzDB) | 3:16 | 2022-05-20 |  |
 | [crispy snacks](https://open.spotify.com/track/7lYOXFgCFNd5rvBkU2LZQZ) | [cudlz](https://open.spotify.com/artist/4heHOS8ybxsPh3TBtw9gf0) | [crispy snacks](https://open.spotify.com/album/4nvHX1HwzfGFXQxSXVeGMA) | 2:21 | 2021-11-10 | 2022-07-22 |

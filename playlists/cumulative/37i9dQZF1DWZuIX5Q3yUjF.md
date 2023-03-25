@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Orlvndo
+> Il meglio dell'R&B italiano\. Cover: Spinas
 
-286 songs - 14 hr 9 min
+292 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-05 | 2022-12-16 |
 | [As Long As You Love Me](https://open.spotify.com/track/00QIeW8X78Q8Mse4bfXyFS) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Never 2 Much](https://open.spotify.com/album/5KtTtevPCL0OjmB2OXsy2h) | 2:23 | 2022-12-15 | 2023-03-10 |
 | [Atacama](https://open.spotify.com/track/0TEhJsbitqBiEYccGrDGG3) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [BLU¹](https://open.spotify.com/album/1wk9xPCFOJOccWG60XhknC) | 2:52 | 2023-02-16 | 2023-03-10 |
-| [Avorio e Veleno](https://open.spotify.com/track/482vXBlu2NUiYNv1W6t9pF) | [Al Verde](https://open.spotify.com/artist/5iKkYOCsHzdNtSMVMo2Hls) | [Avorio e Veleno](https://open.spotify.com/album/2WzIhBSqsjcQgWvyafwiva) | 2:52 | 2023-03-02 |  |
+| [Avorio e Veleno](https://open.spotify.com/track/482vXBlu2NUiYNv1W6t9pF) | [Al Verde](https://open.spotify.com/artist/5iKkYOCsHzdNtSMVMo2Hls) | [Avorio e Veleno](https://open.spotify.com/album/2WzIhBSqsjcQgWvyafwiva) | 2:52 | 2023-03-02 | 2023-03-25 |
 | [BACIAMI X 3](https://open.spotify.com/track/0fKIA8OIw7WiJGqXxtlpM1) | [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU), [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC) | [BACIAMI X 3](https://open.spotify.com/album/60N7GPtyTUNfWLLhftvfgo) | 2:18 | 2022-08-05 | 2022-08-26 |
 | [Bad Habits](https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0) | [Bianca Ventura](https://open.spotify.com/artist/5WTGO25DQgKOWnQtSvoNbR) | [Bad Habits](https://open.spotify.com/album/3ZfBvSBao0yS0MDU2vCOyZ) | 3:03 | 2022-05-12 | 2022-09-16 |
 | [balliamo](https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz) | [balliamo](https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH) | 2:49 | 2022-05-05 | 2022-09-09 |
@@ -37,6 +37,7 @@
 | [Calibro \(feat\. Pitta\)](https://open.spotify.com/track/2M3fqyXX32HvADmoMfsV8s) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [Calibro \(feat\. Pitta\)](https://open.spotify.com/album/6SQ02rkmfnqUYSoC9EAUHu) | 2:39 | 2023-02-23 |  |
 | [California](https://open.spotify.com/track/6MCemM0G5xKhsiqD97OOvU) | [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F), [Etto](https://open.spotify.com/artist/1MYtROZnFeQPvmuQv7hKKK) | [California](https://open.spotify.com/album/7ktPpSLTAJ4mcnfZxQBXnN) | 2:31 | 2022-06-02 | 2022-11-25 |
 | [candy baby](https://open.spotify.com/track/2ccgyfy8iZzVuZUgYP6ueJ) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh) | [dreamy pills](https://open.spotify.com/album/6R8g6IWzvtxuBNAInUfcwJ) | 3:10 | 2022-05-05 | 2022-07-01 |
+| [Capita](https://open.spotify.com/track/3Lve3UdDi0J2hdCVED05Rl) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Capita](https://open.spotify.com/album/0SFoxBDFHXZGFevTRDTqdA) | 2:45 | 2023-03-23 |  |
 | [Cartier](https://open.spotify.com/track/2qRv0ExcJ4Hyqqm4CTg1Gm) | [Joana](https://open.spotify.com/artist/6ETXNuvHYlQcCmfsgBI4s9) | [Cartier](https://open.spotify.com/album/3CVuAiTH0LQNp4pSB3Mmjb) | 2:54 | 2022-07-28 | 2022-12-02 |
 | [CASSIOPEA](https://open.spotify.com/track/7i6tbPGFbaACOw0shXx26I) | [Chiara Grispo](https://open.spotify.com/artist/5nDEqav82qoReyDvxDs0l8) | [CASSIOPEA](https://open.spotify.com/album/2ssgKtNXgzQxH4iUhhWegs) | 2:33 | 2023-01-12 | 2023-03-10 |
 | [Catena](https://open.spotify.com/track/2pKikj8zRj9cLjWm1ngM1r) | [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC) | [Catena](https://open.spotify.com/album/6483X446suoGQDcMIATLTI) | 2:58 | 2022-06-30 | 2022-10-07 |
@@ -66,6 +67,7 @@
 | [Cult](https://open.spotify.com/track/0LJI0x54X29TStopw2PzFG) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [Cult](https://open.spotify.com/album/2E7kATBLAHZJFnmOWZhjH8) | 2:45 | 2022-05-05 | 2022-09-30 |
 | [Cura Di Me](https://open.spotify.com/track/12Gayc39zYtD4gqUbG9IGv) | [Nibirv](https://open.spotify.com/artist/6pG1ZVFN8KaauXU1ECwmC6) | [Cura Di Me](https://open.spotify.com/album/38dcAryFiy9oNIwCeFFnHS) | 3:29 | 2022-09-29 | 2023-02-03 |
 | [CuraMi](https://open.spotify.com/track/0nREprhuyJLfKN70qkj4M9) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [CuraMi](https://open.spotify.com/album/6hAQFMzyok7QGYRyBS9Z3H) | 2:24 | 2023-03-16 |  |
+| [Da lei](https://open.spotify.com/track/0ysrugVo3KFwOXLYkonGE7) | [MaRie](https://open.spotify.com/artist/3nm9CmFDy9avfS3zXHFANC) | [Da Lei](https://open.spotify.com/album/5Bvf20lnuAlnynMnQibDaT) | 2:40 | 2023-03-23 |  |
 | [DARK DRAGONITE \(feat\. Missey\)](https://open.spotify.com/track/5S6J3X4G1ulSJyM5D0EUp9) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 2:48 | 2022-06-30 | 2022-12-02 |
 | [Decidere non so](https://open.spotify.com/track/6rc32OHe3Wv0SbZoRRwm4P) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Decidere non so](https://open.spotify.com/album/79TXfRYQUMRcUqwwuj5nYk) | 3:20 | 2023-01-26 | 2023-03-10 |
 | [DIAMANTI](https://open.spotify.com/track/6S3Q6qeGe0DFTDYvO5ZetR) | [francesca moretti](https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX) | [DIAMANTI](https://open.spotify.com/album/1xHqLNfHuyCFfuDYy2D2wi) | 3:16 | 2022-07-07 | 2022-09-16 |
@@ -82,9 +84,11 @@
 | [Easy Girl](https://open.spotify.com/track/7dAcl4BwYFs1wetMYhUHw3) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Easy Girl](https://open.spotify.com/album/3jipkFOtx8adiuJqudvV5C) | 4:17 | 2022-05-05 | 2022-07-29 |
 | [Equilibri](https://open.spotify.com/track/5BWq3Kgyj543Izg2dkghB6) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh), [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Equilibri](https://open.spotify.com/album/3ZyWo3KKTwcUVYuSYgtO3e) | 3:22 | 2023-03-02 |  |
 | [Essere Me](https://open.spotify.com/track/5zwUQT8YfZGwtpdaqLlLhE) | [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC) | [Essere Me](https://open.spotify.com/album/3DPY01qZnJKhWRJytbN9fG) | 2:02 | 2022-05-05 | 2022-07-01 |
+| [FACE](https://open.spotify.com/track/4F2kVTCr769etEgD8uvmeh) | [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4) | [FACE](https://open.spotify.com/album/6R3eEigsJw7Jngjbmd0glX) | 2:27 | 2023-03-23 |  |
 | [FAKE](https://open.spotify.com/track/5nupdztXGdF3PWWwad581p) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [FAKE](https://open.spotify.com/album/3qIvTuL9WllXp4QBsoREz0) | 2:47 | 2022-05-26 | 2022-12-02 |
 | [Falso](https://open.spotify.com/track/5kWdR0rTD6S7duWejL0JtL) | [Al Verde](https://open.spotify.com/artist/5iKkYOCsHzdNtSMVMo2Hls) | [Falso](https://open.spotify.com/album/5Bx8v7SAHzWufLPHB4BEmV) | 2:58 | 2022-09-29 | 2023-01-27 |
 | [Fantasma](https://open.spotify.com/track/62AYmj3XkHN0fZGUVCTX44) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [Fantasma](https://open.spotify.com/album/6Rg2bOenUQB6uQaTS65lA6) | 3:05 | 2022-05-26 | 2022-07-15 |
+| [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 | 2023-03-23 |  |
 | [Felpa](https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Felpa](https://open.spotify.com/album/23UwjDGJgmbbTNdFgDGIVR) | 2:45 | 2022-05-05 | 2022-07-29 |
 | [Felpa Blu](https://open.spotify.com/track/7lUJXeZSVnPuv9ihy6Z5xC) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Felpa Blu](https://open.spotify.com/album/6eOwrCImdIYh5tHKFSZAME) | 2:55 | 2022-07-14 | 2022-09-30 |
 | [Fidarti di me \(feat\. Coez\)](https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw) | [Big Joe](https://open.spotify.com/artist/4QoNMSDOoT1DkexKr6VqQR), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fidarti di me \(feat\. Coez\)](https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA) | 2:40 | 2022-07-17 | 2023-01-27 |
@@ -286,6 +290,7 @@
 | [Veleno](https://open.spotify.com/track/6Txmgb9n1p1XZtJ6dNUBlb) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Trusty](https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7) | [Veleno](https://open.spotify.com/album/5C53KJCrnzTarnkfgOwTyr) | 2:39 | 2022-09-15 | 2023-01-27 |
 | [Verticale \(tempo\)](https://open.spotify.com/track/12jJb4Ga68kxx2jBDJW9qC) | [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt) | [Verticale \(tempo\)](https://open.spotify.com/album/5g8vlKQpbdrA7LzNASbhCX) | 3:01 | 2022-12-08 | 2023-01-13 |
 | [Vertigine](https://open.spotify.com/track/414rYnSg7ihdTU9gD3mY3b) | [Sofia Nuccio](https://open.spotify.com/artist/2yTbgDLtrIA7MFMoDFViVi) | [Vertigine](https://open.spotify.com/album/44om6lwltnl4rDBJvaCx3P) | 3:07 | 2023-01-05 | 2023-02-03 |
+| [Via da qua](https://open.spotify.com/track/4BObCfyKoBHHK0qbqMBSFZ) | [Spinas](https://open.spotify.com/artist/4Cox9N9TeGWWSfyvPEex5m) | [Via da qua](https://open.spotify.com/album/6i6HsUk3hZ7GkydZbAEcuK) | 2:15 | 2023-03-23 |  |
 | [Vicino](https://open.spotify.com/track/73teXUHwtke0LElEq9dpYN) | [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC), [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Vicino](https://open.spotify.com/album/4UakhMQpfKJaEk7CzZ9mLk) | 3:02 | 2022-05-05 | 2022-11-11 |
 | [Vieni con me](https://open.spotify.com/track/7yAJfH5ZGi6FYYNVFoRif8) | [MARA J](https://open.spotify.com/artist/4AHUyFStTFR9V7kVC09b5j) | [Vieni con me](https://open.spotify.com/album/6dRU6IthL0vQcaL6OUcAgi) | 3:12 | 2022-06-09 | 2022-07-29 |
 | [Vienna](https://open.spotify.com/track/53KrUxwMNVHjLILF1jyAfn) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Vienna](https://open.spotify.com/album/3FP4ojnhOoKc2GKj5L85yu) | 2:37 | 2022-06-02 | 2022-07-29 |
@@ -294,5 +299,6 @@
 | [x averti](https://open.spotify.com/track/3tThvTQnw9UiMiYQFU3GwC) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [x averti](https://open.spotify.com/album/2uw9IwbZRJwsAZj1Jx8hUu) | 3:00 | 2022-05-12 | 2022-11-11 |
 | [Yakuza](https://open.spotify.com/track/6Q4I5oIDhnRwNhbLwW7dN1) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:43 | 2023-01-19 |  |
 | [ZERO PIANI](https://open.spotify.com/track/2TAGp3elGFTsFg9fMi4rGF) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [CATRAME](https://open.spotify.com/album/7hdFnnjccKNalbYJbnwO8i) | 3:06 | 2022-06-30 | 2022-09-30 |
+| [È tutto un caos](https://open.spotify.com/track/3mqVYZ2gRrOIWuFTDX0mNy) | [GALLI](https://open.spotify.com/artist/5mBJ4KEcCGC9A92wlI4Mue) | [È tutto un caos](https://open.spotify.com/album/7nVFGjDRKijK9MDU2BzV8e) | 2:51 | 2023-03-23 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

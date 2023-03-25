@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Digga D",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Unknown T + Knucks",
   "name": "Rap UK",
   "tracks": [
     {
@@ -1466,6 +1466,24 @@
       "duration_ms": 138120,
       "name": "Air Bnb",
       "url": "https://open.spotify.com/track/03IjhYX3PKr6DWsGo2rD82"
+    },
+    {
+      "album": {
+        "name": "Air Force",
+        "url": "https://open.spotify.com/album/6s9AtSAMNHib87xoY9HWNW"
+      },
+      "artists": [
+        {
+          "name": "Yung TS",
+          "url": "https://open.spotify.com/artist/4pSznn96jRDqtz3DjalDcn"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160313,
+      "name": "Air Force",
+      "url": "https://open.spotify.com/track/2k9RFuhZTNLyWGu6sMkxEY"
     },
     {
       "album": {
@@ -10271,6 +10289,24 @@
     },
     {
       "album": {
+        "name": "Four Bricks",
+        "url": "https://open.spotify.com/album/0zWuOj6JeTZfO8MTyXAROT"
+      },
+      "artists": [
+        {
+          "name": "Aystar",
+          "url": "https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Four Bricks",
+      "url": "https://open.spotify.com/track/7tq6BXqv4FjpIALV3yraZ4"
+    },
+    {
+      "album": {
         "name": "Frankenstein (feat. MIST)",
         "url": "https://open.spotify.com/album/6aGg7TTAfze34MpgdHjZSy"
       },
@@ -18662,7 +18698,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 209607,
       "name": "Out The Blue",
       "url": "https://open.spotify.com/track/7An0jm0ELhysPt5wdqPJkR"
@@ -19284,7 +19320,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 191067,
       "name": "Payday",
       "url": "https://open.spotify.com/track/3RHnCZgss404tVTvMjdRFs"
@@ -26576,7 +26612,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 223075,
       "name": "VEX (FEAT. GHETTS & BACKROAD GEE)",
       "url": "https://open.spotify.com/track/5W3J4sNMvx5H7ZjWobJvls"

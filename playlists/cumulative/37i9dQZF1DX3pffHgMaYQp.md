@@ -2,12 +2,13 @@
 
 ### [lo hice por el punk](https://open.spotify.com/playlist/37i9dQZF1DX3pffHgMaYQp)
 
-> música para insubordinados\. Los Blenders en portada.
+> música para insubordinados\. Blnko en portada.
 
-72 songs - 4 hr 5 min
+73 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [90](https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Berdu](https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl) | [Mi Psicóloga Me Dijo Que Hiciera Este Disco](https://open.spotify.com/album/3zLu80ETtlESfO9Lrldbux) | 2:19 | 2023-03-23 |  |
 | [A Donde Voy \(Revamp\)](https://open.spotify.com/track/10n2LsN2yaV3yKFO8MPYWf) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/1AVZ6ej2XcpHtlTqTy91qt) | 5:14 | 2022-03-25 | 2022-12-11 |
 | [A Donde Voy \(Revamp\)](https://open.spotify.com/track/3VBBNAhTE6v7nkYEQ1JbFW) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Tiempos Raros](https://open.spotify.com/album/3xAH0AyD4FAuwV7HeS4pCB) | 5:14 | 2022-03-25 |  |
 | [Aguas Locas](https://open.spotify.com/track/4rMqG3Xj6kk9kXnxDoZ0yw) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Aguas Locas](https://open.spotify.com/album/4gnqhlPrixTTVE3socigXn) | 2:08 | 2022-03-25 |  |

@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Jeff Satur
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Ink Waruntorn
 
-313 songs - 18 hr 56 min
+314 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Boutchya](https://open.spotify.com/track/2cqgWnsfBS5aKUHg1pq3fN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya](https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr) | 3:19 | 2022-07-14 | 2022-07-25 |
 | [Boutchya \- Thai Version](https://open.spotify.com/track/2HH3EYgwHjM8ama77pYtNu) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya \(Thai Version\)](https://open.spotify.com/album/7Elaz3IhrcFd3MGflDiSgt) | 3:20 | 2022-07-24 | 2022-08-12 |
 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 | 2022-08-31 | 2022-09-24 |
-| [CATCH THE NIGHT](https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [CATCH THE NIGHT](https://open.spotify.com/album/0tdfeZTire8YkmYCBOTOJn) | 3:08 | 2023-03-09 |  |
+| [CATCH THE NIGHT](https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [CATCH THE NIGHT](https://open.spotify.com/album/0tdfeZTire8YkmYCBOTOJn) | 3:08 | 2023-03-09 | 2023-03-25 |
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 | 2023-03-15 |  |
@@ -87,6 +87,7 @@
 | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ) | 3:27 | 2022-05-26 |  |
 | [คนเก่าเขาทำไว้ดี \(Can’t win\)](https://open.spotify.com/track/1qkIG72UU08DBiLyCL3vLH) | [Chilling Sunday](https://open.spotify.com/artist/5UjfkANGRdbB6a6aLQHoz9) | [คนเก่าเขาทำไว้ดี \(Can’t win\)](https://open.spotify.com/album/3JGHfNlmX8ERpggp9G39oA) | 3:30 | 2022-05-26 | 2022-08-26 |
 | [คนเราจะแอบรักใครสักคนได้นานแค่ไหน](https://open.spotify.com/track/3IPtnAYykrWz9EPjPWx2D7) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC), [AUTTA](https://open.spotify.com/artist/7kM2bHp9WgqwOE4VUKAlRv) | [คนเราจะแอบรักใครสักคนได้นานแค่ไหน](https://open.spotify.com/album/5ti3g7BuA74lw5zapYIWvJ) | 3:21 | 2022-05-26 | 2022-09-01 |
+| [คนใหม่เขาดูแลอยู่](https://open.spotify.com/track/0EMa3PEf3tHITHyGYQmWV9) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [คนใหม่เขาดูแลอยู่](https://open.spotify.com/album/7uPVwd1sqU67W1sUf9oAQm) | 4:16 | 2023-03-23 |  |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2022-05-26 |  |
 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 | 2022-08-31 |  |
 | [คนไม่น่ารัก](https://open.spotify.com/track/6pfGrakHsgPI8MPssDISPB) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [คนไม่น่ารัก](https://open.spotify.com/album/3WtbzeNwhOqF0lYFn2WQuk) | 3:13 | 2022-07-14 | 2022-07-23 |

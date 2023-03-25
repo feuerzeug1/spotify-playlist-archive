@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-182 songs - 10 hr 59 min
+187 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,9 @@
 | [Ain't No Sunshine](https://open.spotify.com/track/70im7N6meAYoKT60tHvpq4) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Ain't No Sunshine](https://open.spotify.com/album/1Ad7CT2VSQzEcifgglWrJP) | 2:17 | 2021-12-09 |  |
 | [All Night Long](https://open.spotify.com/track/1rCiE8OQy3KbBBYjwVk5xN) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [All Night Long](https://open.spotify.com/album/1DFeMODZUwUquZmxICwWWJ) | 4:53 | 2021-12-09 |  |
 | [All of Me](https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 4:10 | 2021-12-09 |  |
+| [Always on My Mind](https://open.spotify.com/track/3rzMh3yRuC9OuAU3IepUkQ) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Always on My Mind](https://open.spotify.com/album/6rE8fgd7vzwTyAKbHLHyjF) | 3:15 | 2023-03-23 |  |
 | [Angel, Won't You Call Me](https://open.spotify.com/track/1j8J1KmPM6qsFnyOBNomZw) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Angel, Won't You Call Me](https://open.spotify.com/album/2JIG5AP8msXqmGskJ6qHQD) | 2:50 | 2022-11-24 |  |
+| [As It Was](https://open.spotify.com/track/6IZnzJPUfIUaOiNx8sVgRg) | [Pablo Cepeda](https://open.spotify.com/artist/1uj8EOCKAXn4w2TR7CVnQb) | [As It Was](https://open.spotify.com/album/4s3v5S7Oy3CWdEBUWMStuy) | 3:40 | 2023-03-23 |  |
 | [Aventura](https://open.spotify.com/track/0nz7WW70BXQo99EDZbHKws) | [Rita Passos](https://open.spotify.com/artist/1o1ogH8YykBhZPGMmXzoeO) | [Aventura](https://open.spotify.com/album/7B3thDDVEjdT2VhIyLt03b) | 3:50 | 2021-12-09 |  |
 | [Bad Guy](https://open.spotify.com/track/1TNPHIgn83UN8r0qg8VMwS) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Bad Guy](https://open.spotify.com/album/75KEw2J5VlubFMIrKNwhec) | 3:10 | 2021-12-09 |  |
 | [Beat It](https://open.spotify.com/track/6UWQ9q6gNZC8AQh3otkUFa) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV), [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 3:54 | 2021-12-09 |  |
@@ -63,6 +65,7 @@
 | [God Only Knows](https://open.spotify.com/track/5Gns8npv1HmkQ5BzZzWS9d) | [Lilia Tracie](https://open.spotify.com/artist/14JPzuBcED5VkwQQZTvgbX) | [God Only Knows](https://open.spotify.com/album/7GjKFcuEOZZaMGJXn7sK81) | 2:38 | 2021-12-09 |  |
 | [Gods Plan \- Bossa Nova remix](https://open.spotify.com/track/0ZFBzRwxmeqnh3IdaZS6rn) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Gods Plan \(Bossa Nova remix\)](https://open.spotify.com/album/0TXhiGGE1UWrYuggDgGssh) | 3:17 | 2021-12-09 |  |
 | [Green Light \(Bossa Version\)](https://open.spotify.com/track/22YXs3a3c8c6mOqUvi4Z98) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 4:24 | 2021-12-09 |  |
+| [Happier Than Ever](https://open.spotify.com/track/31aRV5rb10gk4bw02WEV3s) | [Style Project](https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh), [Marianne Pretty](https://open.spotify.com/artist/7itt3TRxFKHi5HXO9nqZKZ) | [Happier Than Ever](https://open.spotify.com/album/35dGQlbOW6Z1jOBn9zAO6Z) | 3:10 | 2023-03-23 |  |
 | [Happy](https://open.spotify.com/track/08ihn3Nhji9aa5v4F98ZRf) | [Alana Marie](https://open.spotify.com/artist/0TJqjUyiiT1yckuKKASNMa), [Franco Sattamini](https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT) | [Naked Bossa](https://open.spotify.com/album/6G8mBCMLC17Id0xLSNYWcP) | 3:42 | 2021-12-09 | 2022-01-13 |
 | [Happy](https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flora](https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK) | 3:27 | 2021-12-09 |  |
 | [Hard Woman](https://open.spotify.com/track/5CnJxBqumusw9dIbCqZ28B) | [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [A New Beginning](https://open.spotify.com/album/6z4Kn9cZZW3gqu8DKorKcT) | 3:54 | 2021-12-09 |  |
@@ -140,7 +143,9 @@
 | [Seven Nation Army](https://open.spotify.com/track/1hBqtK4qAms8tUHz0bNzSY) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [More Than a Woman](https://open.spotify.com/album/3kdEJ01bQu7Y3vfsJ4vaEY) | 3:06 | 2022-07-01 |  |
 | [Seven Nation Army](https://open.spotify.com/track/6y1pK4TwTsR1fJdkdYJE4T) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Vintage Bossa Café](https://open.spotify.com/album/4aOESzlJmSUE3DB8AfT6Od) | 3:06 | 2022-10-13 | 2022-11-13 |
 | [Seven Nation Army](https://open.spotify.com/track/6zYPfGShrN7TmvZdU2zobx) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Seven Nation Army](https://open.spotify.com/album/5jEzkHgI0NTdBvAKLlRxmo) | 3:06 | 2021-12-09 | 2022-07-29 |
+| [Shake it off](https://open.spotify.com/track/5nNwRwb4ojpDMPmvdGa04f) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm) | [Shake it off](https://open.spotify.com/album/0gQgcdKcuTYWiQZWButlL0) | 3:27 | 2023-03-23 |  |
 | [Shape of You](https://open.spotify.com/track/3FGjZhoaqR83UViLXk4boR) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 3:34 | 2021-12-09 |  |
+| [Sign Your Name Across My Heart](https://open.spotify.com/track/3ZnwYceO2sv5z0UcpaLicf) | [Lydia Gray](https://open.spotify.com/artist/0VMYRZ6lRJtkOpIvFLomZ0), [Ed Eastridge](https://open.spotify.com/artist/02VVc5i9QRuXc4qt0ajyVo) | [Sign Your Name Across My Heart](https://open.spotify.com/album/1PXUyxo34edj0nByI1vzuD) | 4:50 | 2023-03-23 |  |
 | [Slide \- Bossanova](https://open.spotify.com/track/08BnZm0xqnkkEEmKrmYwWk) | [Ensolarada](https://open.spotify.com/artist/6XMzyCi31KFN2dlSsd25D7) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 2:53 | 2021-12-09 |  |
 | [Smoke on the Water](https://open.spotify.com/track/1fz735l9WBXIjO0Y9Rk2r6) | [The Cooltrane Quartet](https://open.spotify.com/artist/3tFvFDca4inwWMY5vupFbX) | [Cool Jazz Blends](https://open.spotify.com/album/1qEJG8kgMcLSZ3dwdjQvr3) | 4:24 | 2021-12-09 | 2022-05-05 |
 | [Solução De Vida](https://open.spotify.com/track/5cnwazioBaYWEjzHykF2Om) | [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Solução De Vida](https://open.spotify.com/album/0CoCFA1jv9w7RmEkg5XVFV) | 3:08 | 2021-12-09 |  |

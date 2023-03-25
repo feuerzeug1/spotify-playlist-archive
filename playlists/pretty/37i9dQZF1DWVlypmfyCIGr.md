@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 原因は自分にある。
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,961 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,986 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [No you no no me](https://open.spotify.com/track/72UcQd1kHNI6D1GZRDchoi) | [Gutevolk](https://open.spotify.com/artist/3q0Z5NCEUBupppTF8ivRTR) | [No you no no me](https://open.spotify.com/album/1DdJjmpCT1n25VmVWHUuJG) | 4:33 |
 | 80 | [credits roll](https://open.spotify.com/track/0uMCRiYYpnPV9wLM46KDF4) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [A Page In The Blank World](https://open.spotify.com/album/7tWUruZx8jlClduRLSe9hY) | 4:27 |
 
-Snapshot ID: `MTY3OTM3NDMwNSwwMDAwMDAwMGRiZWM2NWY2YzRhYTllZWEyZTZiZWVlOTJiNWY5YjVi`
+Snapshot ID: `MTY3OTM3NDMwNSwwMDAwMDAwMGU5YWI2NjNjN2U2Yjk0N2UyMGRiOTcyODFiNWU0Y2Iw`

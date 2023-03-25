@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Yukun & Nsqk en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Andru en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 172200,
       "name": "Aquel Bolero",
       "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 195573,
       "name": "Darte Un Beso - Spotify Singles",
       "url": "https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48"
@@ -1279,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Desamor Feliz Pt. 2",
+        "url": "https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156168,
+      "name": "Desamor Feliz Pt. 2",
+      "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
+    },
+    {
+      "album": {
         "name": "Despejao",
         "url": "https://open.spotify.com/album/6H4XoMzMjFlmLVprP5lGFb"
       },
@@ -1302,6 +1320,32 @@
       "duration_ms": 166653,
       "name": "Despejao",
       "url": "https://open.spotify.com/track/647jFWacZ3OiV3OmKhbu4q"
+    },
+    {
+      "album": {
+        "name": "Retrofuturismo",
+        "url": "https://open.spotify.com/album/195qXbTqKUcqkIJnddV2yK"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        },
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166813,
+      "name": "Despejao",
+      "url": "https://open.spotify.com/track/0FgZOpqfzeuaogejdUrcfR"
     },
     {
       "album": {
@@ -1613,6 +1657,28 @@
     },
     {
       "album": {
+        "name": "Estar Mejor",
+        "url": "https://open.spotify.com/album/5oKwBbh0NTAh6WdCKDDCVy"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        },
+        {
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Estar Mejor",
+      "url": "https://open.spotify.com/track/4eaK1m8IrTjQDnBLRpaUMk"
+    },
+    {
+      "album": {
         "name": "estereotipo",
         "url": "https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n"
       },
@@ -1696,7 +1762,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 144155,
       "name": "FBI",
       "url": "https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX"
@@ -2152,6 +2218,24 @@
       "duration_ms": 160000,
       "name": "Ll\u00e1mame",
       "url": "https://open.spotify.com/track/6pUOXwDOMBTIsYKP87urb6"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180565,
+      "name": "LO LOGR\u00c9",
+      "url": "https://open.spotify.com/track/46WF4Sv3OOpxuoK4kFqXiC"
     },
     {
       "album": {
@@ -2915,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1scara de Ni\u00f1a",
+        "url": "https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194148,
+      "name": "M\u00e1scara de Ni\u00f1a",
+      "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
+    },
+    {
+      "album": {
         "name": "M\u00cdO",
         "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
       },
@@ -3170,7 +3272,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 157228,
       "name": "no me asusta (me gusta)",
       "url": "https://open.spotify.com/track/0QEj1wfXQ7UxQ9erHYZirm"
@@ -3532,7 +3634,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 187933,
       "name": "Paralizado",
       "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
@@ -3980,6 +4082,24 @@
       "duration_ms": 169991,
       "name": "Qu\u00e9dame",
       "url": "https://open.spotify.com/track/6vLpthP41nttqYeyhyBFNx"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "album": {
@@ -4820,7 +4940,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213000,
       "name": "Te espero",
       "url": "https://open.spotify.com/track/6G5rARmMTFt4EIKPXTMVw1"
@@ -5404,7 +5524,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 192293,
       "name": "Voltearemos",
       "url": "https://open.spotify.com/track/6aICoU4YETT0xmhGkQNWVr"
@@ -5532,6 +5652,24 @@
       "duration_ms": 134470,
       "name": "Ya Casi Te Olvido",
       "url": "https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9"
+    },
+    {
+      "album": {
+        "name": "lo har\u00eda todo de nuevo",
+        "url": "https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3"
+      },
+      "artists": [
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213614,
+      "name": "Ya nada es igual",
+      "url": "https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF"
     },
     {
       "album": {

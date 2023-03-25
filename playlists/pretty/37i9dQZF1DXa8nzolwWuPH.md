@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8nzolwWuPH.md) - [plain]
 
 > Exclusive sports stories and conversations from sports legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,809 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,808 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTYzMDQ2MDE5OSwwMDAwMDAwMDRmZWI0ZTk5ZTEwNmJlMGY1OWExMzhkNjYwYmMyZDJk`
+Snapshot ID: `MTYzMDQ2MDE5OSwwMDAwMDAwMGM0ZjZmOWQ0ODlmNWY4YTM3YTNkZjBjNTZiMmE3YzMx`

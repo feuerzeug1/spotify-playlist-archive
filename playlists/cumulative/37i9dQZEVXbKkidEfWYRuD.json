@@ -7736,7 +7736,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -7758,7 +7758,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 162041,
       "name": "SHADOW",
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
@@ -10136,7 +10136,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 120215,
       "name": "\u0410\u043d\u0442\u0438\u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0430\u043d\u0442",
       "url": "https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI"
@@ -11002,7 +11002,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 209142,
       "name": "\u0411\u0456\u043b\u044f \u0442\u043e\u043f\u043e\u043b\u0456",
       "url": "https://open.spotify.com/track/1NMcQpg1J5RaUxPTLifSnq"
@@ -11532,7 +11532,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 150638,
       "name": "\u0412\u0440\u043e\u0434\u043b\u0438\u0432\u0430",
       "url": "https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c"
@@ -11608,7 +11608,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 227384,
       "name": "\u0412\u0442\u043e\u043c\u0438\u0432\u0441\u044f",
       "url": "https://open.spotify.com/track/3kRfAMotUWqRfPj5HLIn7m"
@@ -12126,6 +12126,32 @@
     {
       "album": {
         "name": "\u0413\u0443\u043b\u044f\u044e",
+        "url": "https://open.spotify.com/album/6JVjBD19HzIJelAPSSKbIM"
+      },
+      "artists": [
+        {
+          "name": "ANGUISH",
+          "url": "https://open.spotify.com/artist/1oAtPfjSyQWY7rERuiYnpl"
+        },
+        {
+          "name": "EXILED",
+          "url": "https://open.spotify.com/artist/48sH4a4VWQu2ffFaUxuMbb"
+        },
+        {
+          "name": "Elfass",
+          "url": "https://open.spotify.com/artist/7MBxISpkGocUgsPekMSpkw"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "\u0413\u0443\u043b\u044f\u044e",
+      "url": "https://open.spotify.com/track/4lleps28xCklJLtTt5MoJt"
+    },
+    {
+      "album": {
+        "name": "\u0413\u0443\u043b\u044f\u044e",
         "url": "https://open.spotify.com/album/5VerzVnpZCQrrMnZroEbD8"
       },
       "artists": [
@@ -12144,7 +12170,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 144000,
       "name": "\u0413\u0443\u043b\u044f\u044e",
       "url": "https://open.spotify.com/track/6sDGMZXJ3YPgTPHTyz7z8v"
@@ -12824,6 +12850,24 @@
       "duration_ms": 165164,
       "name": "\u0414\u0443\u043c\u0438",
       "url": "https://open.spotify.com/track/5vwSFo758pgsLcQ7WYtT51"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0430\u043c\u043d\u0435\u043c \u043f\u043e \u0433\u043e\u043b\u043e\u0432\u0435",
+        "url": "https://open.spotify.com/album/4xTAyz6fCGXWbT3PywmAAl"
+      },
+      "artists": [
+        {
+          "name": "Korol i Shut",
+          "url": "https://open.spotify.com/artist/0qc4X567Fs1DUbQ7bS2XSJ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114333,
+      "name": "\u0414\u0443\u0440\u0430\u043a \u0438 \u043c\u043e\u043b\u043d\u0438\u044f",
+      "url": "https://open.spotify.com/track/1aAcW69jxv3pp3I84oZGqP"
     },
     {
       "album": {
@@ -15948,7 +15992,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 153142,
       "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d",
       "url": "https://open.spotify.com/track/6F81SMHDIUMRyBb9bJ2ZRL"

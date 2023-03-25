@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Jeff Satur
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Ink Waruntorn
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,473 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,622 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 |
-| 2 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 |
-| 3 | [ลังเล](https://open.spotify.com/track/592XwpszQAW8olTXXIesls) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ลังเล](https://open.spotify.com/album/1BX9k3e5SqOAY9nBGEYUhp) | 3:46 |
-| 4 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 |
-| 5 | [รู้กันแค่นี้ \- mint](https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [รู้กันแค่นี้ \(mint\)](https://open.spotify.com/album/3qyFShIWhPpf4lgxZ1EaWE) | 3:36 |
-| 6 | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/track/13p7WgSfNUXKmWUjskWtSW) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/album/6OLZ8YxFlH5RF0j0ZCRd9y) | 3:19 |
-| 7 | [CATCH THE NIGHT](https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [CATCH THE NIGHT](https://open.spotify.com/album/0tdfeZTire8YkmYCBOTOJn) | 3:08 |
+| 1 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 |
+| 2 | [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 |
+| 3 | [คนใหม่เขาดูแลอยู่](https://open.spotify.com/track/0EMa3PEf3tHITHyGYQmWV9) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [คนใหม่เขาดูแลอยู่](https://open.spotify.com/album/7uPVwd1sqU67W1sUf9oAQm) | 4:16 |
+| 4 | [ลังเล](https://open.spotify.com/track/592XwpszQAW8olTXXIesls) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ลังเล](https://open.spotify.com/album/1BX9k3e5SqOAY9nBGEYUhp) | 3:46 |
+| 5 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 |
+| 6 | [รู้กันแค่นี้ \- mint](https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [รู้กันแค่นี้ \(mint\)](https://open.spotify.com/album/3qyFShIWhPpf4lgxZ1EaWE) | 3:36 |
+| 7 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
 | 8 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 |
-| 9 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
-| 10 | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/track/0dB8mLoawZ04XoJRewGiqj) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/album/6ZmUUmhdfsGDdd1nUG0v7P) | 3:27 |
-| 11 | [เพลงรัก \(Hook\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS) | 4:15 |
+| 9 | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/track/13p7WgSfNUXKmWUjskWtSW) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/album/6OLZ8YxFlH5RF0j0ZCRd9y) | 3:19 |
+| 10 | [เพลงรัก \(Hook\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS) | 4:15 |
+| 11 | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/track/0dB8mLoawZ04XoJRewGiqj) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/album/6ZmUUmhdfsGDdd1nUG0v7P) | 3:27 |
 | 12 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
-| 13 | [ไม่รับความเห็นต่าง \(U R Mine\)](https://open.spotify.com/track/3v5t1e2XeLtJoZDENzdanb) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ไม่รับความเห็นต่าง \(U R Mine\)](https://open.spotify.com/album/6msk0pybxXr877JwlHb7LA) | 3:22 |
-| 14 | [ใจเปิดใจ \(LOVE MODE\)](https://open.spotify.com/track/4jXtIU0Bp44DDqeKapCQMP) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ใจเปิดใจ \(LOVE MODE\)](https://open.spotify.com/album/4An6kyA574d2mmvDTkUhqx) | 4:08 |
+| 13 | [ใจเปิดใจ \(LOVE MODE\)](https://open.spotify.com/track/4jXtIU0Bp44DDqeKapCQMP) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ใจเปิดใจ \(LOVE MODE\)](https://open.spotify.com/album/4An6kyA574d2mmvDTkUhqx) | 4:08 |
+| 14 | [ไม่รับความเห็นต่าง \(U R Mine\)](https://open.spotify.com/track/3v5t1e2XeLtJoZDENzdanb) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ไม่รับความเห็นต่าง \(U R Mine\)](https://open.spotify.com/album/6msk0pybxXr877JwlHb7LA) | 3:22 |
 | 15 | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 |
 | 16 | [Not Romantic](https://open.spotify.com/track/09whSxd83dqNcsKZvmmwko) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Not Romantic](https://open.spotify.com/album/1EWuuwmnBojFCVP5katTIN) | 3:10 |
 | 17 | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 59 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
 | 60 | [วัดปะหล่ะ? \(TEST ME\)](https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q) | 3:40 |
 
-Snapshot ID: `MTY3ODk0NjY2NywwMDAwMDAwMDcxMDA2NGJhYmMyYTA0ODQwZTNiODhiMmQ1YWNiZGIz`
+Snapshot ID: `MTY3OTU1OTM4NywwMDAwMDAwMDZlMTNmNmQ2OTE4MzBkYjczNzQyNmY1OTM3YWIzNmI3`

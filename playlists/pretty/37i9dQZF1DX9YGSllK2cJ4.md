@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,034 likes - 206 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,478 likes - 206 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 205 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 |
 | 206 | [All At Once](https://open.spotify.com/track/0jtwO60GVhFIF2HGeIGLkr) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [All At Once](https://open.spotify.com/album/4HsiN8xlJfsyh6iUTeBwA6) | 2:57 |
 
-Snapshot ID: `MTY3OTQ4MzkzOCwwMDAwMDAwMDhjNjUyNjY5ZTA4YWJlNDUwNjI0MTU2NTgzNGJmMjFk`
+Snapshot ID: `MTY3OTQ4MzkzOCwwMDAwMDAwMDAyYTc1OWEyMmQwNGQ3MDIwMDYzYzQwZDQxMzMxMGM2`

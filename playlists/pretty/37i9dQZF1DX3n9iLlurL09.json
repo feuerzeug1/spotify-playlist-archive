@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 62900,
+  "num_followers": 63020,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDE2NzcyMzkyNTU2MjdlMWI2ZDgwNTM1NDU3MjBmODZk",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMGM2NmRlYWY0ZGFhMmQ3OTM2YzI1YjNjOTkwYTBjYjQ0",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 301866,
-      "name": "Lazuli",
-      "url": "https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 218586,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 301866,
+      "name": "Lazuli",
+      "url": "https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Synthetica (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
         "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 209386,
       "name": "Every Single Night",
       "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Synthetica (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Mondo",
-        "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
       },
       "artists": [
         {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 168626,
-      "name": "American Daydream",
-      "url": "https://open.spotify.com/track/2r0lAM25q5tJE1H4SesviY"
+      "duration_ms": 251453,
+      "name": "Next Year",
+      "url": "https://open.spotify.com/track/04Lfe4r35E38e6D0FlJKfn"
     }
   ],
   "unique_name": "Best of Indie 2012",

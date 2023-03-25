@@ -1,12 +1,12 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7843,
+  "num_followers": 7844,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjA2MixmNjcxZTQwMTBjMjMyNjg4MWVhZmIxMmJjZDhlOTczODRjOGMxZGZh",
+  "snapshot_id": "MjA3MSxjYTM1OTY3ZWIwMDJjNmJkZWFhZTlmZDk4ZDcwZDI3MTI0Mjg1YmZm",
   "tracks": [
     {
       "added_at": "2023-03-10 15:27:31",
@@ -25,20 +25,24 @@
       "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
     },
     {
-      "added_at": "2023-03-03 15:47:42",
+      "added_at": "2023-03-24 15:00:58",
       "album": {
-        "name": "SIXTEEN",
-        "url": "https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN"
+        "name": "I'M THAT BITCH",
+        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
       "artists": [
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 152948,
-      "name": "SIXTEEN",
-      "url": "https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl"
+      "duration_ms": 152043,
+      "name": "I'M THAT BITCH",
+      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
       "added_at": "2023-03-03 15:47:31",
@@ -87,6 +91,42 @@
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
+    },
+    {
+      "added_at": "2023-03-24 15:00:29",
+      "album": {
+        "name": "GENERATIONAL CURSE",
+        "url": "https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs"
+      },
+      "artists": [
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "duration_ms": 236680,
+      "name": "OUT THE WINDOW",
+      "url": "https://open.spotify.com/track/25d7Trux92YqeS1iZpa0TN"
+    },
+    {
+      "added_at": "2023-03-24 15:01:21",
+      "album": {
+        "name": "KISS N' TELL (feat. Dro Kenji)",
+        "url": "https://open.spotify.com/album/6v6K6TQa2Scbn2OKhDCnDp"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "duration_ms": 126058,
+      "name": "KISS N' TELL (feat. Dro Kenji)",
+      "url": "https://open.spotify.com/track/4nZ4aGaAixvW9D7TethGee"
     },
     {
       "added_at": "2023-02-24 15:22:24",
@@ -195,22 +235,6 @@
       "duration_ms": 236190,
       "name": "SIMPLY THE BEST",
       "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
-    },
-    {
-      "added_at": "2023-03-03 15:47:52",
-      "album": {
-        "name": "HEAVY METAL",
-        "url": "https://open.spotify.com/album/2fXn6a7SYYnSNyuWj0CvnX"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 171111,
-      "name": "HEAVY METAL",
-      "url": "https://open.spotify.com/track/7cf8xNXwU9K0BuHjyIvxLE"
     },
     {
       "added_at": "2022-11-11 14:35:10",
@@ -575,22 +599,6 @@
       "duration_ms": 374009,
       "name": "Chale",
       "url": "https://open.spotify.com/track/5pzTV78BCKzkiucbB7mt5K"
-    },
-    {
-      "added_at": "2022-12-09 14:55:18",
-      "album": {
-        "name": "THE GOV'T GAVE US GUNS",
-        "url": "https://open.spotify.com/album/5o0qJK6COqONoWG7FtTeHW"
-      },
-      "artists": [
-        {
-          "name": "ICECOLDBISHOP",
-          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
-        }
-      ],
-      "duration_ms": 116794,
-      "name": "THE GOV'T GAVE US GUNS",
-      "url": "https://open.spotify.com/track/3gfeujZDkVn104FOyT3FB3"
     },
     {
       "added_at": "2022-09-23 14:26:21",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Five Finger Death Punch on top of the biggest Metal playlist.",
+  "description": "August Burns Red on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A.D.D",
+        "url": "https://open.spotify.com/album/1Y20qMbygyi2ukEfD05DO6"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217582,
+      "name": "A.D.D",
+      "url": "https://open.spotify.com/track/0UsnlmGAFHq4psggQczhjn"
+    },
+    {
+      "album": {
         "name": "Abuse Me (ft. L'exquisite Douleur)",
         "url": "https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH"
       },
@@ -150,6 +168,28 @@
       "duration_ms": 189482,
       "name": "Alive or Only Burning",
       "url": "https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3"
+    },
+    {
+      "album": {
+        "name": "Death Below",
+        "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Jesse Leach",
+          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290733,
+      "name": "Ancestry",
+      "url": "https://open.spotify.com/track/3DNfmRFXFO65rHKWz3XyQD"
     },
     {
       "album": {
@@ -962,7 +1002,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 326771,
       "name": "COLD BLOOD",
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
@@ -1618,6 +1658,24 @@
       "duration_ms": 218661,
       "name": "Divine Attack - Shingeki -",
       "url": "https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ"
+    },
+    {
+      "album": {
+        "name": "DOGMA",
+        "url": "https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr"
+      },
+      "artists": [
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166892,
+      "name": "DOGMA",
+      "url": "https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw"
     },
     {
       "album": {
@@ -2496,7 +2554,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 261811,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB"
@@ -2774,6 +2832,24 @@
       "duration_ms": 265706,
       "name": "HEAVEN DON'T CRY",
       "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
+    },
+    {
+      "album": {
+        "name": "Hellions",
+        "url": "https://open.spotify.com/album/59J4vXs3evRbjxhtSBiztl"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "Hellions",
+      "url": "https://open.spotify.com/track/2ifhuqHixRseGujnENtfbl"
     },
     {
       "album": {
@@ -4535,6 +4611,24 @@
     },
     {
       "album": {
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/2fYE7q0uF7oiJHTspqThqR"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/4T7Vu4pG8Iz4CRTyLRZMk6"
+    },
+    {
+      "album": {
         "name": "Ready For Combat",
         "url": "https://open.spotify.com/album/4sVipMfVh5gHq0YODoMj6E"
       },
@@ -4568,10 +4662,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 472922,
       "name": "Reckoning",
       "url": "https://open.spotify.com/track/4xcfmHe5mRVzPA0tdKJltA"
+    },
+    {
+      "album": {
+        "name": "Red Fur",
+        "url": "https://open.spotify.com/album/0QouGNBQ8cnRBNBkKXrXgc"
+      },
+      "artists": [
+        {
+          "name": "Veil Of Maya",
+          "url": "https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Red Fur",
+      "url": "https://open.spotify.com/track/1jj922BgyJexH19yoHd23L"
     },
     {
       "album": {
@@ -4919,6 +5031,24 @@
     },
     {
       "album": {
+        "name": "She is a Fire",
+        "url": "https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322720,
+      "name": "She is a Fire",
+      "url": "https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp"
+    },
+    {
+      "album": {
         "name": "Show Me Your God",
         "url": "https://open.spotify.com/album/6NNVcyPL17qA1ehI4ZgLnm"
       },
@@ -5194,6 +5324,24 @@
       "duration_ms": 219299,
       "name": "SOS",
       "url": "https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP"
+    },
+    {
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211996,
+      "name": "Soul Bleach",
+      "url": "https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0"
     },
     {
       "album": {
@@ -6162,7 +6310,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 234000,
       "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
       "url": "https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9"
@@ -6180,7 +6328,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 260200,
       "name": "The Wretched; The Ruinous",
       "url": "https://open.spotify.com/track/2r7hqnJ4jVQRrT5A5oBF9B"
@@ -6220,6 +6368,24 @@
       "duration_ms": 204541,
       "name": "Thinking in Tongues",
       "url": "https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq"
+    },
+    {
+      "album": {
+        "name": "Through the Depths",
+        "url": "https://open.spotify.com/album/4dcv6Y8XeX1PHRIUKedRBe"
+      },
+      "artists": [
+        {
+          "name": "DevilDriver",
+          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285427,
+      "name": "Through the Depths",
+      "url": "https://open.spotify.com/track/0W6BAkEfeRum8R0uAxrWyl"
     },
     {
       "album": {
@@ -7040,6 +7206,28 @@
       "duration_ms": 322804,
       "name": "Wind of Change",
       "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
+    },
+    {
+      "album": {
+        "name": "Winner Takes All (feat. Alice Cooper)",
+        "url": "https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ"
+      },
+      "artists": [
+        {
+          "name": "Nita Strauss",
+          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205570,
+      "name": "Winner Takes All (feat. Alice Cooper)",
+      "url": "https://open.spotify.com/track/0zfjIcTc40MVFSGmGjHI9V"
     },
     {
       "album": {

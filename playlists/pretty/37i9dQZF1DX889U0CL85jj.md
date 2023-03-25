@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,418,134 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,418,605 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [Sun is going down](https://open.spotify.com/track/3DN0yq0VaZgiANOyTrWnUP) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Sun is going down](https://open.spotify.com/album/5ybhHe6n1NG337HnTFeBvj) | 6:46 |
 | 150 | [Larabar](https://open.spotify.com/track/3YFbjJtmJPk71vK9tDohrY) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 2:55 |
 
-Snapshot ID: `MTY3OTQ0MTI3NywwMDAwMDAwMGU1ZDU1ZTlhZmMzNjNmODU3M2M3OGIzNzdlNmNmOTNi`
+Snapshot ID: `MTY3OTQ0MTI3NywwMDAwMDAwMDRmNGNiNGQzZGUyM2Y0Y2Q3ZWQ2MGJiNjcwNmJiYTE0`

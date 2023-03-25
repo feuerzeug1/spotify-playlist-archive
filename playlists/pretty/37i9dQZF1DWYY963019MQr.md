@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,960 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,109 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 9 | [You Are Too Beautiful](https://open.spotify.com/track/4Z21YnfFOk7DCoRmSDsbDE) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [You Are Too Beautiful](https://open.spotify.com/album/321bjucXAq72mVgASyC5eT) | 2:07 |
 | 10 | [Where or When](https://open.spotify.com/track/1VuheeJ6lNwZ9nO5FB4aqM) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 2:21 |
 | 11 | [Late Mood](https://open.spotify.com/track/4F5frv4DMz1X4sXRSdmCtX) | [Elliot Smythe](https://open.spotify.com/artist/5dGebAKGhbbbPCAZKxpoFc) | [Late Mood](https://open.spotify.com/album/3zFeTY3jdzKcVkYEE6E2fK) | 2:06 |
-| 12 | [You Go to My Head](https://open.spotify.com/track/1VB3aOUzV1vkjPYCUTmdMg) | [Maarten van der Grinten](https://open.spotify.com/artist/37e1k0TyFygkdwIn5paeFN) | [A Guitar, a Man & a Song, Vol\. I](https://open.spotify.com/album/44EMmTgbEmnr89sTqbnGLM) | 2:42 |
-| 13 | [Let The Sun In](https://open.spotify.com/track/29KQzb30YTBDxE47rfaPMO) | [Carl Antaine](https://open.spotify.com/artist/5KXf7KzCn3CFeB3hRvHvqc) | [The Insider](https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX) | 3:08 |
-| 14 | [Autumn Skies](https://open.spotify.com/track/1xHI2bJ5Lb9zjA2uNvVndM) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:49 |
-| 15 | [Danny Boy](https://open.spotify.com/track/0X4mnyUksaQJy9VG8GjJOx) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [At First Light](https://open.spotify.com/album/0NrIhUxqXHbIR75LWZNURP) | 3:40 |
-| 16 | [Hazy](https://open.spotify.com/track/687knmd9df9s6TRLzRVEOZ) | [Gina Wahler](https://open.spotify.com/artist/2qYWM0svFgRslCfVj36xcC) | [Hazy](https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2) | 3:04 |
-| 17 | [Misty](https://open.spotify.com/track/51HXNZE27Z1HZv434alcCU) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Misty](https://open.spotify.com/album/3mm9MeaqIKonEcINmU4boS) | 1:42 |
+| 12 | [Let The Sun In](https://open.spotify.com/track/29KQzb30YTBDxE47rfaPMO) | [Carl Antaine](https://open.spotify.com/artist/5KXf7KzCn3CFeB3hRvHvqc) | [The Insider](https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX) | 3:08 |
+| 13 | [Autumn Skies](https://open.spotify.com/track/1xHI2bJ5Lb9zjA2uNvVndM) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:49 |
+| 14 | [Hazy](https://open.spotify.com/track/687knmd9df9s6TRLzRVEOZ) | [Gina Wahler](https://open.spotify.com/artist/2qYWM0svFgRslCfVj36xcC) | [Hazy](https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2) | 3:04 |
+| 15 | [You Go to My Head](https://open.spotify.com/track/1VB3aOUzV1vkjPYCUTmdMg) | [Maarten van der Grinten](https://open.spotify.com/artist/37e1k0TyFygkdwIn5paeFN) | [A Guitar, a Man & a Song, Vol\. I](https://open.spotify.com/album/44EMmTgbEmnr89sTqbnGLM) | 2:42 |
+| 16 | [Misty](https://open.spotify.com/track/51HXNZE27Z1HZv434alcCU) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Misty](https://open.spotify.com/album/3mm9MeaqIKonEcINmU4boS) | 1:42 |
+| 17 | [Danny Boy](https://open.spotify.com/track/0X4mnyUksaQJy9VG8GjJOx) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [At First Light](https://open.spotify.com/album/0NrIhUxqXHbIR75LWZNURP) | 3:40 |
 | 18 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 |
 | 19 | [I Should Care](https://open.spotify.com/track/24XjTCIq4WrhUvHtmUd4ju) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [I Should Care](https://open.spotify.com/album/2bZuqVCkXSbjGw5SgBb9cK) | 1:46 |
 | 20 | [Someday My Prince Will Come](https://open.spotify.com/track/3WoSrYUi2UoF321UCXE6UO) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Someday My Prince Will Come](https://open.spotify.com/album/3me7OLET9zLwToQ2TOk5yh) | 2:35 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 68 | [Traveling Back](https://open.spotify.com/track/3MnJEpFl6B4PsyUcE1tstN) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 3:02 |
 | 69 | [When I Fall In Love](https://open.spotify.com/track/1hsPTRZmb8mf0wZQfMAdhG) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [When I Fall In Love](https://open.spotify.com/album/1Mw304xtAcLXdPpxkcuDXF) | 2:12 |
 | 70 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 |
-| 71 | [Long Ago And Far Away](https://open.spotify.com/track/2GN0YOypfok9DMvcLVsS4Z) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Long Ago And Far Away](https://open.spotify.com/album/7aEPMdry8sK5XdfhLXdy10) | 2:11 |
-| 72 | [Afternoon In Paris](https://open.spotify.com/track/4Jj5FKnlYBNhbSyySVNutN) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Afternoon In Paris](https://open.spotify.com/album/2YN0PxDGs7e0VzNDU2vDCD) | 2:11 |
-| 73 | [London Plane](https://open.spotify.com/track/38OyAHWRjAiges8oGXng5c) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:09 |
+| 71 | [Afternoon In Paris](https://open.spotify.com/track/4Jj5FKnlYBNhbSyySVNutN) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Afternoon In Paris](https://open.spotify.com/album/2YN0PxDGs7e0VzNDU2vDCD) | 2:11 |
+| 72 | [London Plane](https://open.spotify.com/track/38OyAHWRjAiges8oGXng5c) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:09 |
+| 73 | [Long Ago And Far Away](https://open.spotify.com/track/2GN0YOypfok9DMvcLVsS4Z) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Long Ago And Far Away](https://open.spotify.com/album/7aEPMdry8sK5XdfhLXdy10) | 2:11 |
 | 74 | [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 |
 | 75 | [Thankful](https://open.spotify.com/track/3S0H62Wg9uTe1QRZsUL4H7) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 5:09 |
 
-Snapshot ID: `MTY3OTAwNzYwMCwwMDAwMDAwMDhiNTAxMDNkZWY5Mjk2NDhiODc4ZjI4YTE5Zjk2OThi`
+Snapshot ID: `MTY3OTU3MjIwOCwwMDAwMDAwMDAwYzNiNDUwMzc0MTc2MjNmMTM5NTUxMDlmMmRmYzgz`

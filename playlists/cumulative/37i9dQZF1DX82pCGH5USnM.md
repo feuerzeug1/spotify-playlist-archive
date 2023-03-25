@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-704 songs - 1 day 16 hr 32 min
+706 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,10 +63,10 @@
 | [Base\-level Guilt](https://open.spotify.com/track/5zKasYyHSZ6oNpxdNGrGZg) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Base\-level Guilt](https://open.spotify.com/album/24d5RGnCIcRoIdcEzBHJMp) | 3:06 | 2022-08-12 |  |
 | [Beach & Towel](https://open.spotify.com/track/0S2WwkBNYpiXWssKc6Nwrf) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Beach & Towel](https://open.spotify.com/album/19IWLkyd4dr67RCRMbIyGG) | 2:40 | 2021-02-04 | 2022-06-24 |
 | [Beaches](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Beaches](https://open.spotify.com/album/2AnNWa5IA3rkx8tJKkePfY) | 3:01 | 2022-08-19 |  |
-| [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2021-06-16 |  |
+| [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2021-06-16 | 2023-03-25 |
 | [Beautiful Gear](https://open.spotify.com/track/6aMhKykagnogP02QWgpxfC) | [MON MON](https://open.spotify.com/artist/3GdKUo22eKb2wAB7oEcfp3) | [Beautiful Gear](https://open.spotify.com/album/3wego2W8EQawGBHwujHXfo) | 2:09 | 2023-01-06 |  |
 | [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 | 2021-06-02 |  |
-| [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-09-02 |  |
+| [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-09-02 | 2023-03-25 |
 | [Bee](https://open.spotify.com/track/4QcDFEszWjwcSKe7RyBcUC) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Bee](https://open.spotify.com/album/19dVlZ6FW7tePa2r9ZksTT) | 2:13 | 2023-01-20 |  |
 | [Before Sunset](https://open.spotify.com/track/6e5hLCZOkS5Mx2OqQyRaEN) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Before Sunset](https://open.spotify.com/album/19kItHgBmgAPD5WDpeDj7Z) | 3:00 | 2023-01-06 |  |
 | [Beleza](https://open.spotify.com/track/2kpPKUKlX5W4yZjcAHeySG) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Beleza](https://open.spotify.com/album/1pxLUNVikMin57faqHjn5p) | 2:44 | 2020-12-02 | 2021-09-22 |
@@ -156,7 +156,8 @@
 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 | 2021-11-08 |  |
 | [deep swim](https://open.spotify.com/track/34GgOWtvEh28eFmPaKo9CT) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [deep swim](https://open.spotify.com/album/29l4sL3pTRXmuXZOMOEDm0) | 4:07 | 2023-01-13 |  |
 | [Delta\-Omicron](https://open.spotify.com/track/4y3vErFuRlu6i2SyO0nkD1) | [Loell](https://open.spotify.com/artist/3jDHiq5XFmo97S6L5NtGsn) | [Delta\-Omicron](https://open.spotify.com/album/53NmGCs59O0EYT2uRNDW5x) | 2:51 | 2021-01-05 | 2022-01-22 |
-| [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-10-06 |  |
+| [delusion](https://open.spotify.com/track/6lOZas9k7ck8VTKQbhsX02) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [delusion](https://open.spotify.com/album/493nClJV1z3hvTO6N9rti3) | 2:30 | 2023-03-24 |  |
+| [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-10-06 | 2023-03-25 |
 | [Deseable](https://open.spotify.com/track/0qzUky8XluETMf67vmyAIP) | [Joe Franzoni](https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn) | [Deseable](https://open.spotify.com/album/0e5TXcaLggVbVsaBhU0iGo) | 2:29 | 2022-06-24 |  |
 | [Deserts](https://open.spotify.com/track/6GVNYDhJgcZtHPuWqmcRVd) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Deserts](https://open.spotify.com/album/2IiyhvS8gB0qynFD0GJQKk) | 3:07 | 2020-08-26 | 2021-03-06 |
 | [Desofa](https://open.spotify.com/track/04QMcqbujxNGFHIreoyqU1) | [Raphael Creed](https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK) | [Desofa](https://open.spotify.com/album/5eTWF1Hei352wmaobA7mdc) | 2:42 | 2020-12-09 | 2021-09-09 |
@@ -239,7 +240,7 @@
 | [Gazing Deep into the Plasma TV](https://open.spotify.com/track/5T6rTXANk5BlE87q5MGV1J) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [No LCD](https://open.spotify.com/album/0EElux8TxDSjwkJOKo09aJ) | 3:11 | 2022-05-10 | 2022-08-05 |
 | [Gazo Road](https://open.spotify.com/track/5cuyEb2n8OZSSA5s8wONYG) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Gazo Road](https://open.spotify.com/album/3Y7OzTyJlq3fKac9TQNygY) | 2:09 | 2020-04-03\* | 2021-03-25 |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2021-05-06 | 2021-09-09 |
-| [Get Over](https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Get Over](https://open.spotify.com/album/3ZyU5uKTIk3cJe4lnuZX1X) | 3:05 | 2021-11-08 |  |
+| [Get Over](https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Get Over](https://open.spotify.com/album/3ZyU5uKTIk3cJe4lnuZX1X) | 3:05 | 2021-11-08 | 2023-03-25 |
 | [getting ideas](https://open.spotify.com/track/4g5zahq9MIoBxji1q0YF5F) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [getting ideas](https://open.spotify.com/album/10lwP63JZMKOnydAJ2o8uI) | 3:12 | 2022-08-19 |  |
 | [Give It To U](https://open.spotify.com/track/55UOGvAkteFSxr3OiMRXWC) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [Give It To U](https://open.spotify.com/album/3S0bQ0E9LalW3Tt8Wxf4RH) | 2:28 | 2022-06-17 |  |
 | [Give It Your All](https://open.spotify.com/track/39uperenLlTvIr38cybSU2) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Again Again](https://open.spotify.com/album/64zd8w6rBHX0X9T2JntuoD) | 2:33 | 2022-10-14 |  |
@@ -256,7 +257,7 @@
 | [Grain Memory](https://open.spotify.com/track/4tQNIGCMbmZsVC8D5Vrspn) | [Spectral Sketches](https://open.spotify.com/artist/4ZmHtXGCAmROqQRycKMjLf) | [Grain Memory](https://open.spotify.com/album/15UNPwV2xuAzyl0vRr8tfo) | 3:04 | 2022-10-07 |  |
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2021-08-20 |  |
 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 | 2021-03-06 |  |
-| [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2021-08-20 |  |
+| [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2021-08-20 | 2023-03-25 |
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2021-08-20 | 2023-02-04 |
 | [Hacienda](https://open.spotify.com/track/7qh8bK1Udbf8gfcjXDy9KX) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Birds Fly High](https://open.spotify.com/album/77fiDE7wtn1HMMBMxuXHyi) | 3:46 | 2022-12-09 |  |
 | [Half Crazy](https://open.spotify.com/track/7aTxeg2uMJmshTOlm9GwiP) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Half Crazy](https://open.spotify.com/album/2Vqm4tIyaEeET9IMnXHq4s) | 2:49 | 2022-06-24 |  |
@@ -284,7 +285,7 @@
 | [I Know](https://open.spotify.com/track/0BIM3gGtCwD0YTqxDGnNgT) | [Illumia](https://open.spotify.com/artist/3g79aLcgoTfoQTUrsiyPtC) | [Winter Selections 03](https://open.spotify.com/album/3m3sGoHbH0xI84V9PvUeBR) | 4:14 | 2020-04-03\* | 2020-04-14 |
 | [I Lost You but I Got HBO](https://open.spotify.com/track/5pNInkBWfWgYf05f0Gq7Va) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 3:07 | 2020-04-03\* | 2020-04-07 |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2020-12-09 | 2022-04-15 |
-| [i SEE u DanCin](https://open.spotify.com/track/49tPsezrSnuzAhwasEPwvY) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [i SEE u DanCin](https://open.spotify.com/album/67CtGUpvw9BJRWbH9JrRUy) | 6:11 | 2022-12-16 |  |
+| [i SEE u DanCin](https://open.spotify.com/track/49tPsezrSnuzAhwasEPwvY) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [i SEE u DanCin](https://open.spotify.com/album/67CtGUpvw9BJRWbH9JrRUy) | 6:11 | 2022-12-16 | 2023-03-25 |
 | [I Will Never Forget You](https://open.spotify.com/track/2xzs9kG0mrIjpj8119bqqp) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [We Are on Our Way](https://open.spotify.com/album/26AtOGT8UraqnSOJSKDq41) | 2:58 | 2020-04-03\* | 2021-01-05 |
 | [Ice Cold Beverage](https://open.spotify.com/track/1n3bk90iiGHZU55iqApBgL) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Graduation](https://open.spotify.com/album/45FzEUejMPhJnCpynuVseZ) | 2:06 | 2020-12-02 | 2021-08-20 |
 | [If I Could I Would](https://open.spotify.com/track/0wx7ZtHC12OTHIWW9hJafV) | [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Euch die Uhren uns die Zeit](https://open.spotify.com/album/47c58ulJOzSaw2iLkSWfI9) | 7:19 | 2020-11-04 | 2021-03-06 |
@@ -292,7 +293,7 @@
 | [In Brevi](https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [In brevi](https://open.spotify.com/album/5BgW2Tfu7CgefHz7gEDMAj) | 3:20 | 2021-07-08 |  |
 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 | 2022-02-10 |  |
 | [in deep](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [in deep](https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih) | 2:37 | 2022-07-08 |  |
-| [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2021-10-06 |  |
+| [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2021-10-06 | 2023-03-25 |
 | [In Possession](https://open.spotify.com/track/1T3SCC0SCXXQ2zM66OFHnu) | [Fatehug](https://open.spotify.com/artist/0jYk4v9wqQ2HpvlrRJmEWl) | [In Possession](https://open.spotify.com/album/33lT3cyAluAQZsvQ6iTbG0) | 2:31 | 2022-12-09 |  |
 | [In the Morning We Shine](https://open.spotify.com/track/0Mw8IH4cKB3Ldnuh61Ro5h) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Aerial Navigation](https://open.spotify.com/album/6jjVN8tN951F1YaJdYC6lw) | 5:50 | 2020-04-07 | 2020-05-06 |
 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 | 2020-04-03\* | 2022-04-06 |
@@ -303,6 +304,7 @@
 | [Inga\-lill \- Edit](https://open.spotify.com/track/2nw0tw9i8BCEwGQyQkXcT6) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Inga\-lill](https://open.spotify.com/album/42LrBaAf5xLDvMpFA1mqQJ) | 4:50 | 2020-04-03\* | 2020-12-09 |
 | [Inner Sphere](https://open.spotify.com/track/02qZutrIVgi1MaxeWUKUR0) | [Kiyola](https://open.spotify.com/artist/6HJrC3CzHGz4oTUBDhD7ex) | [Inner Sphere](https://open.spotify.com/album/229QaIgoOgjBrjdQbqxkjE) | 2:26 | 2022-06-03 |  |
 | [Innuendo](https://open.spotify.com/track/0OxJZn5qtO6kXdanKDrJI3) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Innuendo / Ground Level](https://open.spotify.com/album/5vE2cpKmniD4Oiw9dLqQqJ) | 3:40 | 2022-09-02 |  |
+| [Inside](https://open.spotify.com/track/2HyCFIrasyJmwXgnPXDDxn) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Inside](https://open.spotify.com/album/3Hr6NRLC5bcPadqXoZKXBj) | 2:21 | 2023-03-24 |  |
 | [Intentions](https://open.spotify.com/track/2sx7gcC76pDDu5tCirfNfl) | [Casper Colt](https://open.spotify.com/artist/0V4QYaFxLQ8pDxps9FNMRB) | [Intentions](https://open.spotify.com/album/2oilUosz5CfBac5DAtHuUm) | 3:10 | 2020-12-09 | 2022-06-24 |
 | [Interaction](https://open.spotify.com/track/1Ra2hIk4IGryWC4bnXnxIs) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Interaction/Dropout](https://open.spotify.com/album/0vDrGG5FwL5wWYxWloJN0f) | 6:27 | 2021-02-10 | 2021-03-18 |
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2021-03-06 | 2022-09-02 |

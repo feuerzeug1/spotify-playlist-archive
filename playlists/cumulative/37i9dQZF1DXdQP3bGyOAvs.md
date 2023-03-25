@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-288 songs - 14 hr 37 min
+289 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bermuda](https://open.spotify.com/track/0g41bwAXfDCDbo0h0syFs9) | [Lenny Braam](https://open.spotify.com/artist/2gU6uUfseONHGxhEUmemej) | [Bermuda](https://open.spotify.com/album/6wQiu3oJP4kVoWoBNh3lK0) | 3:48 | 2022-05-20 | 2022-07-01 |
 | [Better Vibes](https://open.spotify.com/track/0o7EZM7Pjx1h5fe4rjL3UU) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Better Vibes](https://open.spotify.com/album/5K7yAtX3yp0ijNeMjI14BQ) | 3:33 | 2022-05-20 | 2023-01-07 |
 | [Bistro](https://open.spotify.com/track/75BKUJhsdVhntSUFH3SJIA) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Bistro](https://open.spotify.com/album/6lRaq8aH54MRdr0Bf4pjz3) | 3:02 | 2023-03-10 |  |
+| [Biting](https://open.spotify.com/track/3VR8hpmEvOMxW3nM4TNoBM) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Biting](https://open.spotify.com/album/3wo2lUtYASfyHEQbYxEosQ) | 2:46 | 2023-03-24 |  |
 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 | 2022-12-09 |  |
 | [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 | 2022-05-20 | 2022-09-09 |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2022-05-20 |  |

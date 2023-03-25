@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Gianni, Dadju, Ninho",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Zola",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Formule 7",
+        "url": "https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485760,
+      "name": "Formule 7",
+      "url": "https://open.spotify.com/track/1zo15YjbaTTwAho4ECmrDZ"
+    },
+    {
+      "album": {
         "name": "D\u00e9sir f\u00e9minin",
         "url": "https://open.spotify.com/album/19zapMhSNUbX8HBbP9nm0s"
       },
@@ -1790,7 +1808,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 147857,
       "name": "Koni Moko Etokisaka Nzungu Te",
       "url": "https://open.spotify.com/track/77HDy7Ns5VsRYttIbaTmtY"
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 226431,
       "name": "Mobulu te",
       "url": "https://open.spotify.com/track/5qd0QJrlKaoGyi4BWXx3Sa"
@@ -2815,6 +2833,28 @@
     },
     {
       "album": {
+        "name": "Oyo Ekoya Eya",
+        "url": "https://open.spotify.com/album/2gQegZmZ38IA8LY1HddSPt"
+      },
+      "artists": [
+        {
+          "name": "Roga Roga",
+          "url": "https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug"
+        },
+        {
+          "name": "Extra Musica",
+          "url": "https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324520,
+      "name": "Oyo Ekoya Eya",
+      "url": "https://open.spotify.com/track/3aC0TpWqBfOO8acqAPSJx6"
+    },
+    {
+      "album": {
         "name": "Ozo Boud\u00e9",
         "url": "https://open.spotify.com/album/29b5aeLyAG05vAKmggdiLV"
       },
@@ -2866,7 +2906,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 230133,
       "name": "Papa Wemba",
       "url": "https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc"
@@ -2884,7 +2924,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 210580,
       "name": "Par Terre \u2013 A COLORS SHOW",
       "url": "https://open.spotify.com/track/0vm0LYhr2BdhZ3tYFIxeRx"
@@ -3301,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+    },
+    {
+      "album": {
         "name": "Maison m\u00e8re",
         "url": "https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU"
       },
@@ -3316,6 +3374,24 @@
       "duration_ms": 422973,
       "name": "Solola bien",
       "url": "https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ"
+    },
+    {
+      "album": {
+        "name": "Tant Pis",
+        "url": "https://open.spotify.com/album/0F8diwVEi6B37A7ftlPHe8"
+      },
+      "artists": [
+        {
+          "name": "IDPizzle",
+          "url": "https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185546,
+      "name": "Tant Pis",
+      "url": "https://open.spotify.com/track/4ZmqFrZr2ItfKrM9BUOqDS"
     },
     {
       "album": {

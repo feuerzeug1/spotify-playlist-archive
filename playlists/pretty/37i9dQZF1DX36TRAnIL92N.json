@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 119612,
+  "num_followers": 120646,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMGViYTAwODk3YzUxZjg4NDdiNDUwM2ViMThmZGQwY2Rk",
+  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMDgzNDQzMjc3OTMzY2M3NTExMWQ2NDY0N2EzMjVjMjg5",
   "tracks": [
     {
       "added_at": "2023-02-10 14:16:33",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "About My Dreams",
-        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "About My Dreams",
-      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 419164,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
       "added_at": "2023-02-10 14:16:33",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Hercules",
-        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 392008,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4MejpAJMshnWw5kewZrKoh"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 176254,
       "name": "Soul",
       "url": "https://open.spotify.com/track/5W8tsQTQMH1aY0Bk8Pb2cA"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 392008,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
     },
     {
       "added_at": "2023-02-10 14:16:33",

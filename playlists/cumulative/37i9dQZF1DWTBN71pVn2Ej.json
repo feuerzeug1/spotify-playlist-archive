@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 129179,
       "name": "Beauty and Grace",
       "url": "https://open.spotify.com/track/3EpMDkSTWJaP7QCoqkKbSn"
@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Glorious Sunset",
+        "url": "https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167080,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/6Wc4I7yrNbhW7DYL7WD8AY"
+    },
+    {
+      "album": {
         "name": "Down4ever",
         "url": "https://open.spotify.com/album/3L6Nyy6vDuIuUxZ75BI6f0"
       },
@@ -1880,6 +1898,24 @@
       "duration_ms": 167654,
       "name": "Fel\u00edz",
       "url": "https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73"
+    },
+    {
+      "album": {
+        "name": "Flacco",
+        "url": "https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq"
+      },
+      "artists": [
+        {
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250110,
+      "name": "Flacco",
+      "url": "https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj"
     },
     {
       "album": {
@@ -2366,6 +2402,24 @@
       "duration_ms": 219960,
       "name": "Happy In Town",
       "url": "https://open.spotify.com/track/5L48Q15bVzwtpffvEMbUQW"
+    },
+    {
+      "album": {
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212228,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
     },
     {
       "album": {
@@ -4556,7 +4610,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 212000,
       "name": "Sick Sense",
       "url": "https://open.spotify.com/track/40IJY0iAD4811y5IpurcgI"
@@ -4574,7 +4628,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 228853,
       "name": "So So Soon",
       "url": "https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G"

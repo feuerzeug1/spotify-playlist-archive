@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi?si=BlraLf2eQtqbgRSe9JEpTA"> Camidoh </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,048 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,084 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 24 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
 | 25 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
 | 26 | [Woman](https://open.spotify.com/track/6ir2ShLPrZxXgYTtlMxeCN) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Woman](https://open.spotify.com/album/4Vdh0ZV9tCh1YKJcy7lnfA) | 2:00 |
-| 27 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
-| 28 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 |
-| 29 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 |
-| 30 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 |
-| 31 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 |
-| 32 | [Commando](https://open.spotify.com/track/7Ih9QFeuk543iGa2kl7OVS) | [Fancy Gadam](https://open.spotify.com/artist/3uDHTGGaPazfBhlfXtQyzc) | [Commando](https://open.spotify.com/album/3X1BdyHOtJLJWRUMo5bIaR) | 3:34 |
-| 33 | [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 |
-| 34 | [Waiting](https://open.spotify.com/track/4GfP6pgJtCpov1AH3DzCuf) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Waiting](https://open.spotify.com/album/6pAQ4Fxuk9b4uymswdIJ3z) | 3:23 |
-| 35 | [Dime Piece](https://open.spotify.com/track/6bgjMZChZYKtzs8XphG5it) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Brudda Nay](https://open.spotify.com/artist/3NMrMxQ07cD29ZJfgwolzV) | [Dime Piece](https://open.spotify.com/album/2EkyJfTgda1FKQUdSl7Y1Y) | 3:41 |
-| 36 | [Gboza](https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gboza](https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5) | 3:19 |
-| 37 | [My Woman](https://open.spotify.com/track/5T62GNroDX4ZwfMUerq0mM) | [AJ Tunes](https://open.spotify.com/artist/6njTbmFNrMgpjde2o0yObm) | [My Woman](https://open.spotify.com/album/5qOoGJWF4nwtZZCGrnPw8y) | 3:06 |
+| 27 | [License](https://open.spotify.com/track/5ZyPiaFTDOX68KYU5zFMqz) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [License](https://open.spotify.com/album/31TyYecWH5bkMTLkyWKYPU) | 2:30 |
+| 28 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
+| 29 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 |
+| 30 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 |
+| 31 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 |
+| 32 | [No Money](https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [OmoAkin](https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh) | [Global Party](https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y) | 2:57 |
+| 33 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 |
+| 34 | [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 |
+| 35 | [Waiting](https://open.spotify.com/track/4GfP6pgJtCpov1AH3DzCuf) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Waiting](https://open.spotify.com/album/6pAQ4Fxuk9b4uymswdIJ3z) | 3:23 |
+| 36 | [Dime Piece](https://open.spotify.com/track/6bgjMZChZYKtzs8XphG5it) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Brudda Nay](https://open.spotify.com/artist/3NMrMxQ07cD29ZJfgwolzV) | [Dime Piece](https://open.spotify.com/album/2EkyJfTgda1FKQUdSl7Y1Y) | 3:41 |
+| 37 | [Gboza](https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gboza](https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5) | 3:19 |
 | 38 | [Morning Stress](https://open.spotify.com/track/7b1g8V4WA0BEnWBkHv85RW) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Morning Stress](https://open.spotify.com/album/35ymxF17RFfoEdQ4KqlBzc) | 3:28 |
 | 39 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 |
 | 40 | [Odo Bi](https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr) | 3:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/album/4kQjfos3CoetMeTYxZoGxe) | 3:23 |
 | 80 | [Enjoyment Minister](https://open.spotify.com/track/43V8TDkcCo2ehn1pOxVTkI) | [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Loyalty](https://open.spotify.com/album/3NSn9lEh3zcn9hkNA0Stvg) | 4:18 |
 
-Snapshot ID: `MTY3OTA0MDgwNCwwMDAwMDAwMDA4OWJiODYyODkyYzcxMTJlYzI4NWU2ZTA5MmYyNzRk`
+Snapshot ID: `MTY3OTY3NTk0NywwMDAwMDAwMDQ2OTYwNWEwMmU3NjNhYjEyNzgxYzYzZjBhYjMzMjFk`

@@ -4,7 +4,7 @@
 
 > Let your worries and cares slip away.
 
-264 songs - 17 hr 10 min
+266 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 | 2020-04-18 |  |
 | [Collecting Dust](https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Collecting Dust](https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4) | 2:58 | 2022-06-08 |  |
 | [Cologne](https://open.spotify.com/track/4ld2TeVRlaYNHWzi52dWsZ) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Cologne](https://open.spotify.com/album/01klsU90FKuD0sf4kFvoDq) | 4:11 | 2019-05-26\* | 2020-03-07 |
+| [Colorblind](https://open.spotify.com/track/0t42LUez8kMVvVc9Y1Qug3) | [Craig Stickland](https://open.spotify.com/artist/6wBV2mHGWBe2Mz4jZJi21K) | [Colorblind](https://open.spotify.com/album/0Ox2mL98gTE60wISy50RvS) | 3:29 | 2023-03-24 |  |
 | [Coming Down the Mountain](https://open.spotify.com/track/43bkejyRlzXjVGKvXYLHzg) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/0bDioLSH5nZjXpJLE9ZaUU) | 4:33 | 2019-05-26\* | 2022-01-08 |
 | [Crack The Case](https://open.spotify.com/track/2JtC5mhcW0RoTJGoVkfgB7) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Passwords](https://open.spotify.com/album/1EPqf0Bfgbm2iMnne0WLVx) | 5:54 | 2022-06-24 |  |
 | [Crack The Case](https://open.spotify.com/track/4MKTyMpljQlY0KQWLR8194) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Living In The Future / Crack The Case](https://open.spotify.com/album/7EoeiW6dthY3YdsWPd941G) | 5:54 | 2019-05-26\* | 2022-07-29 |
@@ -253,6 +254,7 @@
 | [Unveiled](https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos) | [Loah](https://open.spotify.com/artist/3smkUIA0gfguE46oluw954) | [This Heart](https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF) | 4:12 | 2020-06-04 | 2022-06-09 |
 | [Vagabond](https://open.spotify.com/track/3HAgxyWGeJtIVabS2mTREt) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr) | 2:09 | 2019-05-26\* | 2022-06-09 |
 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 | 2020-07-14 |  |
+| [We Used to Live Here](https://open.spotify.com/track/2YCR9u0VSDsAx9D6ItUMbu) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [We Used to Live Here](https://open.spotify.com/album/0bxl4npQ89JSAmWyBg20ps) | 2:44 | 2023-03-24 |  |
 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 | 2019-05-26\* |  |
 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 | 2022-06-08 | 2022-06-25 |
 | [Weekend](https://open.spotify.com/track/2TEZu0Rk7Rr6aEARBCMmhj) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Weekend](https://open.spotify.com/album/7CfX9MI3qgRHch1OgWL6mz) | 2:27 | 2022-06-24 |  |

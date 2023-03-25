@@ -4,7 +4,7 @@
 
 > 結集香港EQUAL女聲力量！\(cover: Kiri T\)
 
-224 songs - 14 hr 23 min
+225 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [樹](https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹](https://open.spotify.com/album/4RcQZBChNpUMXKcJmF5ErJ) | 3:55 | 2022-01-04 | 2022-12-01 |
 | [樹仔](https://open.spotify.com/track/67W3qb59EIvEW1PqkPL9h9) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹仔](https://open.spotify.com/album/3Ut8qXmLOY3YP7vL8cqsHQ) | 3:20 | 2022-11-30 |  |
 | [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-08-02 |  |
+| [歧義種子](https://open.spotify.com/track/6v6LW9PslX7RiXoaBfAduq) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [歧義種子](https://open.spotify.com/album/7ulGonGDgcrJnmmnyPDwSa) | 3:34 | 2023-03-24 |  |
 | [歸零](https://open.spotify.com/track/7axP3vilxbXHd1cv6eRqp7) | [駱胤鳴](https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq) | [歸零](https://open.spotify.com/album/4qqcdAk38QXTenIwAo4ezW) | 4:17 | 2022-08-02 | 2022-11-02 |
 | [每當幻變時](https://open.spotify.com/track/3YQclRiacw3qrUCOBUFDj0) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [每當幻變時](https://open.spotify.com/album/5gJCrDw4K8YxkDyYMmCsld) | 3:33 | 2022-03-07 | 2022-04-06 |
 | [沉溺](https://open.spotify.com/track/1vVybnW4IEP9zSE0rq6D8m) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [沉溺](https://open.spotify.com/album/707geIuoVvVdv0a72dyicL) | 4:58 | 2022-01-04 | 2022-03-08 |

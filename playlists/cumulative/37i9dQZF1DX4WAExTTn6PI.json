@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YO19y0xmwn6XYKh64Nc1x"
+      },
+      "artists": [
+        {
+          "name": "Jack Barksdale",
+          "url": "https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230018,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3ao3WYYhnCFzds3Iz23lrP"
+    },
+    {
+      "album": {
         "name": "Early Morning Rising",
         "url": "https://open.spotify.com/album/37jSSdk11uBf4rRVcJ6IIt"
       },
@@ -2573,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Wildhorse",
+        "url": "https://open.spotify.com/album/2NQbvpUKnlLflLe2OJx0ii"
+      },
+      "artists": [
+        {
+          "name": "Matt Koziol",
+          "url": "https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257359,
+      "name": "Work All Day",
+      "url": "https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT"
+    },
+    {
+      "album": {
         "name": "Work All Day",
         "url": "https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP"
       },
@@ -2584,7 +2620,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 257359,
       "name": "Work All Day",
       "url": "https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk"

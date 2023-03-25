@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-81 songs - 3 hr 51 min
+82 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Kick Up](https://open.spotify.com/track/3GEZrXDyJGtcIo4kLLiF67) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up](https://open.spotify.com/album/6KkikXwQyUw7jtJqrfo35a) | 3:07 | 2022-11-19 |  |
 | [LEGACY](https://open.spotify.com/track/7ejrd0wNFUKuIC9Jr7KvSA) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [DJ Hazime](https://open.spotify.com/artist/5OTMloJew4RhmaLHAFyItP) | [LEGACY](https://open.spotify.com/album/1EM4qEhEHmBIKWFhLFWY6a) | 4:26 | 2022-11-19 | 2022-12-07 |
 | [Light side](https://open.spotify.com/track/3sPsSstVES0s7P0Fnu0UHS) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [ill world](https://open.spotify.com/album/5gWy5fhgCQNcHhi9RScEaU) | 1:46 | 2022-11-19 |  |
-| [Living Legend](https://open.spotify.com/track/5yOHBns65serQ82tQNPEoh) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [DIRT](https://open.spotify.com/album/4J0Mb6nTc1JyJOvR5eVv5S) | 2:18 | 2022-11-19 |  |
+| [Living Legend](https://open.spotify.com/track/1oU70AufCbc9yKHeVCuvSL) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Living Legend](https://open.spotify.com/album/246GofoTf0DkxzTwfQDkDF) | 2:18 | 2023-03-02 |  |
+| [Living Legend](https://open.spotify.com/track/5yOHBns65serQ82tQNPEoh) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [DIRT](https://open.spotify.com/album/4J0Mb6nTc1JyJOvR5eVv5S) | 2:18 | 2022-11-19 | 2023-03-25 |
 | [Marika Drift](https://open.spotify.com/track/5D1saLccH0XtSxnMuCAUdQ) | [O.B.S](https://open.spotify.com/artist/6ehbOKilvTO8HaOW3Zkrqn), [Fuma no KTR](https://open.spotify.com/artist/6thFYr8FXQ3irTtczyv9YO) | [O.B.S vol.8](https://open.spotify.com/album/10rURjpwESeXN9Ztp7e3aC) | 2:00 | 2022-12-22 |  |
 | [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Michel D.I.O.R](https://open.spotify.com/artist/3X8BQ2HNQgum4qVNISV14p) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 | 2022-11-19 |  |
 | [Motown Man](https://open.spotify.com/track/2KmPn6Stc0iZnyPBjnNT1o) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [FRIENDS & ME](https://open.spotify.com/album/4az8qpOF8NeGglYY3RRKLM) | 2:25 | 2022-11-19 |  |

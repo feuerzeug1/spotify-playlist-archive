@@ -969,6 +969,32 @@
     },
     {
       "album": {
+        "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
+        "url": "https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg"
+      },
+      "artists": [
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+        },
+        {
+          "name": "Daniel Hokum",
+          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
+        },
+        {
+          "name": "okuma",
+          "url": "https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395632,
+      "name": "Gato Negro - Daniel Hokum & okuma Remix",
+      "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+    },
+    {
+      "album": {
         "name": "Give It To The Music",
         "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
       },
@@ -2430,7 +2456,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 294625,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg"

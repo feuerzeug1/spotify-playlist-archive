@@ -3592,10 +3592,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 122362,
       "name": "Written on the Sky",
       "url": "https://open.spotify.com/track/0I6Pbgf7fjPMqu3Ah9jOhI"
+    },
+    {
+      "album": {
+        "name": "Billow Gently",
+        "url": "https://open.spotify.com/album/12A7tN2PisImkNMTb7es9f"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122362,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/23Gjcxh2nK5cy1EnToKaCL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 38022,
+  "num_followers": 38034,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMDZkNTgxYzEyNWYzOWEwYzVlZDA0YTNjZDZkODIwMDRm",
+  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMDNmZWRiYmY4NjlkNWE4OWM0MzUzNWQ2NTM5ZmM3NWY2",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Nadie En Especial",
-        "url": "https://open.spotify.com/album/7iKk5AQokTUn012tYH347o"
-      },
-      "artists": [
-        {
-          "name": "Chac Mool",
-          "url": "https://open.spotify.com/artist/2qEmeuF0gIyxdU1OyxNl22"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Nadie En Especial",
-      "url": "https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/5rKS4yZgNS23kiB5ccZbNS"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 489426,
       "name": "Once Upon a Time There Was a World",
       "url": "https://open.spotify.com/track/6EQiAGhNZarnbYfP078nSw"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Nadie En Especial",
+        "url": "https://open.spotify.com/album/7iKk5AQokTUn012tYH347o"
+      },
+      "artists": [
+        {
+          "name": "Chac Mool",
+          "url": "https://open.spotify.com/artist/2qEmeuF0gIyxdU1OyxNl22"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "Nadie En Especial",
+      "url": "https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd"
     },
     {
       "added_at": "2021-09-06 15:34:44",

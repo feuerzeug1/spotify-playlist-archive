@@ -1,32 +1,32 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Felix Cartal & Daya",
-  "num_followers": 114711,
+  "description": "The hottest new pop with all the drops. Cover: ILLENIUM & JVKE",
+  "num_followers": 114907,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTI1NTU1MCwwMDAwMDAwMDI3ZWZkYTM1ZDI5MTE3MTZlZjJlMzg4ZTAwZjgwOWNi",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMGIzOTk0ZGU0MTc3NzBhMDMwNjVjN2NhNTc2MmIzNzhk",
   "tracks": [
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Love You More",
-        "url": "https://open.spotify.com/album/2eCzscuLn8UWrA4vMJo8CZ"
+        "name": "With All My Heart",
+        "url": "https://open.spotify.com/album/7t2qYxQeNwbMVdc5wwaSNa"
       },
       "artists": [
         {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 181200,
-      "name": "Love You More",
-      "url": "https://open.spotify.com/track/6m233M73tZHzRiUrNdBXOp"
+      "duration_ms": 177600,
+      "name": "With All My Heart",
+      "url": "https://open.spotify.com/track/1ENQZlb9iVUnCoN2QtI77e"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -57,6 +57,158 @@
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
     },
     {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "AM:PM",
+        "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "AM:PM",
+      "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Somewhere in Between",
+        "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Love You More",
+        "url": "https://open.spotify.com/album/2eCzscuLn8UWrA4vMJo8CZ"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Love You More",
+      "url": "https://open.spotify.com/track/6m233M73tZHzRiUrNdBXOp"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Chasing Shadows (MKJ Remix)",
+        "url": "https://open.spotify.com/album/581A12sUOEPtkOfw5eDjYy"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "MKJ",
+          "url": "https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Chasing Shadows - MKJ Remix",
+      "url": "https://open.spotify.com/track/3tBtteeU0d0YoHCMPSWTAD"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Don\u2019t Call Me",
+        "url": "https://open.spotify.com/album/04tMzSuHEiqxK8PY0CsKCy"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 168170,
+      "name": "Don't Call Me",
+      "url": "https://open.spotify.com/track/3RpXk1LylSSMccjNwpc18F"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 137999,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Underneath My Raincoat",
+        "url": "https://open.spotify.com/album/3KCbQ55wsoOhnlTP5vHntQ"
+      },
+      "artists": [
+        {
+          "name": "Studio Killers",
+          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Underneath My Raincoat",
+      "url": "https://open.spotify.com/track/3xAzEO2IhH1OXctIwSYYBK"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Sunglasses",
@@ -75,6 +227,98 @@
       "duration_ms": 149165,
       "name": "Sunglasses",
       "url": "https://open.spotify.com/track/7owu5qEotPwPCfngV9pagy"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "YOU FEAR THE GOD THAT LOVES YOU",
+        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 147568,
+      "name": "more than friends",
+      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "T-Shirt (Ty Sunderland Remix)",
+        "url": "https://open.spotify.com/album/6lYFxxTIYvyOMhNvoyJ8un"
+      },
+      "artists": [
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        },
+        {
+          "name": "Ty Sunderland",
+          "url": "https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI"
+        }
+      ],
+      "duration_ms": 166879,
+      "name": "T-Shirt - Ty Sunderland Remix",
+      "url": "https://open.spotify.com/track/5zHHUDly1sXAYC75TAWv7z"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Fictional Illustrations",
+        "url": "https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "duration_ms": 163738,
+      "name": "Infinitely Falling",
+      "url": "https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Waiting (feat. Stephen Puth)",
+        "url": "https://open.spotify.com/album/1pbmnH9n46MSq7aTHRolQ4"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+        }
+      ],
+      "duration_ms": 194763,
+      "name": "Waiting (feat. Stephen Puth)",
+      "url": "https://open.spotify.com/track/7yAk9XlktYexlz5RCMbfXl"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Dancing All Alone",
+        "url": "https://open.spotify.com/album/0pxNMYEz2FyiyQNjNLotIF"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Dancing All Alone",
+      "url": "https://open.spotify.com/track/6ggwvlAw6i9FSD4b7CumON"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -131,26 +375,6 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Dancing All Alone",
-        "url": "https://open.spotify.com/album/0pxNMYEz2FyiyQNjNLotIF"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Dancing All Alone",
-      "url": "https://open.spotify.com/track/6ggwvlAw6i9FSD4b7CumON"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -547,26 +771,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7BiuvPTHrqJbZreJXJTklq"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        }
-      ],
-      "duration_ms": 158909,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/0ACfiXjjR1eqnxbqPxrdIC"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Sugar (feat. Soaky Siren)",
         "url": "https://open.spotify.com/album/5r4LmZOSMh4xN8tjg3WzkO"
       },
@@ -731,26 +935,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Firewalk",
-        "url": "https://open.spotify.com/album/7q1cqbwRgGWzz341ZFFOpD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 178451,
-      "name": "Firewalk",
-      "url": "https://open.spotify.com/track/1NKpQ4bVY4rsTdUl7f4Cp7"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/6kbw2wcLnY2oUY5vkNmAg9"
       },
@@ -843,26 +1027,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Luv Me A Little",
-        "url": "https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 224615,
-      "name": "Luv Me A Little",
-      "url": "https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Anti-Hero (Remixes)",
         "url": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt"
       },
@@ -903,26 +1067,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "One Night in Nashville",
-        "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 173069,
-      "name": "Something\u2019s Coming",
-      "url": "https://open.spotify.com/track/4F17nB9GKTSPfocx9D7jHx"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Lost In The Moment",
         "url": "https://open.spotify.com/album/6iBr7zIGNHSFngayyUB56R"
       },
@@ -939,62 +1083,6 @@
       "duration_ms": 149760,
       "name": "Lost In The Moment",
       "url": "https://open.spotify.com/track/5sds9CuXKUMqdq05BPFXyi"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Enough To Drink",
-        "url": "https://open.spotify.com/album/1Tx5s92P4nNJEAXqDvA3lf"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Cate Downey",
-          "url": "https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn"
-        }
-      ],
-      "duration_ms": 138094,
-      "name": "Enough To Drink",
-      "url": "https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Oops",
-        "url": "https://open.spotify.com/album/7c019FtvgrH286V56ZX9jp"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 168094,
-      "name": "Oops",
-      "url": "https://open.spotify.com/track/7fdGGQpQQxwDhgurhKDWVL"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3y3EguDNJa6e7V9SedQGQz"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 234418,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1NZKXJskXhXJivaH6JcwWa"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1063,70 +1151,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 195262,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Anyway (feat. RuthAnne)",
-        "url": "https://open.spotify.com/album/709dbtr4OzXUGUfOeRrAV7"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "RuthAnne",
-          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
-        }
-      ],
-      "duration_ms": 168982,
-      "name": "Anyway (feat. RuthAnne)",
-      "url": "https://open.spotify.com/track/5TAlj8WBSEWPdzudunvu0B"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Alone At Midnight",
-        "url": "https://open.spotify.com/album/6yETZMXh1lCGTCZrfpWsqF"
-      },
-      "artists": [
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        },
-        {
-          "name": "Kastra",
-          "url": "https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC"
-        },
-        {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
-        }
-      ],
-      "duration_ms": 194404,
-      "name": "Alone At Midnight",
-      "url": "https://open.spotify.com/track/1KULdGZrUxMQxcDBBIcD4g"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
@@ -1143,26 +1167,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 167419,
-      "name": "Never Gonna Not Dance Again - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "MADELINE",
         "url": "https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6"
       },
@@ -1175,66 +1179,6 @@
       "duration_ms": 204791,
       "name": "MADELINE",
       "url": "https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Thrill Of The Chase",
-        "url": "https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Fever (feat. Lukas Graham)",
-      "url": "https://open.spotify.com/track/5tXDj9RcCvE0G7sWLlLZDB"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "Forever (feat. Elley Duh\u00e9)",
-      "url": "https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 208604,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
     }
   ],
   "unique_name": "Fresh Dance Pop",

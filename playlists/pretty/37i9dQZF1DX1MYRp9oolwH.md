@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,532 likes - 73 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,748 likes - 73 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 72 | [Asathoma Sadgamaya \(From "Pathala Bhairavi"\)](https://open.spotify.com/track/681ukTk7c3tJSQNJNYJNtn) | [Dhanunjay](https://open.spotify.com/artist/1hvdjqrFHZHjvOyfhJbDlA) | [Asathoma Sadgamaya \(From "Pathala Bhairavi"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5ykWon1Do8KXWSza1ANaFL) | 4:52 |
 | 73 | [Nuv Leni Lokamlo \(From "Dil Se"\)](https://open.spotify.com/track/6ijwldopdkwAHwVg2dB5z0) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Srikar Velamuri](https://open.spotify.com/artist/3QuHNeC4BclLeAelyZO4MO) | [Nuv Leni Lokamlo \(From "Dil Se"\)](https://open.spotify.com/album/6uHpm30bYnsn9YL4JzVQrR) | 3:16 |
 
-Snapshot ID: `MTY3OTQ4NDg2NSwwMDAwMDAwMDY5MjM5YjY1M2FiMjk3MTY4YzA4ZGQ5MjQ0YjkzN2Ix`
+Snapshot ID: `MTY3OTQ4NDg2NSwwMDAwMDAwMGFlZGY3MzEwMjg1NTE1YmFjMzFlZGVkZWE5MGYwNWNm`

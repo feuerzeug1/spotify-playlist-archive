@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Cozy Cabin",
+        "url": "https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9"
+      },
+      "artists": [
+        {
+          "name": "Fiber Zone",
+          "url": "https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128072,
+      "name": "Cozy Cabin",
+      "url": "https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW"
+    },
+    {
+      "album": {
         "name": "Creation",
         "url": "https://open.spotify.com/album/7Dv1BGiYX6n1zGjK8DmZ5j"
       },

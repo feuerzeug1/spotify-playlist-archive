@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 271571,
       "name": "Chico Com\u00fan",
       "url": "https://open.spotify.com/track/3FxMlzkBfekU3gNliu571t"
@@ -1424,6 +1424,24 @@
       "duration_ms": 161880,
       "name": "Misterios",
       "url": "https://open.spotify.com/track/3ChnKeii6R7f7pGDobnzUB"
+    },
+    {
+      "album": {
+        "name": "Monta\u00f1a Rusa Emocional",
+        "url": "https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199881,
+      "name": "Monta\u00f1a Rusa Emocional",
+      "url": "https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1"
     },
     {
       "album": {

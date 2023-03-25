@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz, Maxximal, Mc Hollywood
 
-120 songs - 6 hr 6 min
+121 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Closer](https://open.spotify.com/track/3QyakvOZamJzAuMVgW13Wv) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Closer](https://open.spotify.com/album/3oJ5lkxgCn5JpGfSLXvFMD) | 5:40 | 2022-03-04 | 2023-02-04 |
 | [Come With Me](https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Come With Me](https://open.spotify.com/album/290BpL6mrDRNMUCEACrPeC) | 2:08 | 2022-01-21 | 2022-10-08 |
 | [Commotion](https://open.spotify.com/track/2qf9Ad1hgLF5oM9SdMJdDU) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maxi Jazz](https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq) | [Commotion](https://open.spotify.com/album/5ohHaX4VvILtG1nOLh76uj) | 3:35 | 2022-04-08 | 2022-11-26 |
-| [Contente](https://open.spotify.com/track/7bCtMzxN2weUNWgVRi3wcm) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [Contente](https://open.spotify.com/album/363uLSNZ5QMFDmGRKDgfek) | 3:03 | 2023-01-20 |  |
+| [Contente](https://open.spotify.com/track/7bCtMzxN2weUNWgVRi3wcm) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [Contente](https://open.spotify.com/album/363uLSNZ5QMFDmGRKDgfek) | 3:03 | 2023-01-20 | 2023-03-25 |
 | [Dance](https://open.spotify.com/track/2MsjElxTVXkpt1w5ujRxvC) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Dance](https://open.spotify.com/album/3MTZEOI0xmQtguhQ0y4AiU) | 2:28 | 2023-01-27 |  |
 | [DANCE](https://open.spotify.com/track/5GCM43WZSWNxVh7JD6XN6b) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [DANCE](https://open.spotify.com/album/4T3lheq92o9cUCB7bnNQ6Q) | 2:28 | 2021-12-24 | 2023-01-30 |
 | [Dancing](https://open.spotify.com/track/1JyQVDd48BprQrdEOpmodT) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Dubdisko](https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z) | [Dancing](https://open.spotify.com/album/10racGxkbniYEwyKcajmba) | 2:42 | 2022-09-09 | 2023-01-21 |
@@ -51,6 +51,7 @@
 | [Fall To Pieces \(feat\. Jex\)](https://open.spotify.com/track/0hgRmK0ouFXfDeYPCsezNv) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Fall To Pieces \(feat\. Jex\)](https://open.spotify.com/album/1RZp0MwiZpYwUaRmhsx5fv) | 2:51 | 2022-08-05 |  |
 | [Falling for You](https://open.spotify.com/track/5CG0mHrltJxCqMV0YHZ62x) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Briana](https://open.spotify.com/artist/4EK5SSlytCE7of3wEUqiDE) | [Falling for You](https://open.spotify.com/album/3PlHIJHpzzxNtRzzCy5YUr) | 2:20 | 2021-12-24 |  |
 | [Falling Into You](https://open.spotify.com/track/4P0KHrbsOC4s7IgCsMLApO) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Clara Sofie](https://open.spotify.com/artist/1adncZQpQ0JKUUCTJyPho4) | [Falling Into You](https://open.spotify.com/album/6mvU6BuLYzrqLCuhisx7oo) | 3:31 | 2022-07-29 | 2022-11-26 |
+| [Feel so High](https://open.spotify.com/track/1dogIxg7bbJosIYUU5oKuP) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Feel so High](https://open.spotify.com/album/5eoVOocz9H986axojADQID) | 3:38 | 2023-03-24 |  |
 | [Feel Your Love](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [EEVA](https://open.spotify.com/artist/1pJgpp0DoZYerUf0SkeZuG) | [Feel Your Love](https://open.spotify.com/album/6lkHjfaElhaWfYGZEmFkWG) | 3:02 | 2021-12-24 |  |
 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Mister Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 | 2022-12-02 |  |
 | [Fractions](https://open.spotify.com/track/4JSUAxALzaXQHuhEVMvJ0v) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Fractions](https://open.spotify.com/album/3sTXDxpzc0If67LmjHUm0z) | 3:17 | 2022-12-02 |  |

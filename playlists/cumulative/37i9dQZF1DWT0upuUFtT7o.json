@@ -8101,6 +8101,24 @@
     },
     {
       "album": {
+        "name": "Grapevines",
+        "url": "https://open.spotify.com/album/5bwjTOqi9KoP98e4vTOlQl"
+      },
+      "artists": [
+        {
+          "name": "Rozie Ramati",
+          "url": "https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149995,
+      "name": "Grapevines",
+      "url": "https://open.spotify.com/track/4BujvDe0uFwN7MC1yHuG6n"
+    },
+    {
+      "album": {
         "name": "Great Race",
         "url": "https://open.spotify.com/album/2hISBkwZFVsdBKoPUkVILp"
       },
@@ -11458,8 +11476,8 @@
           "url": "https://open.spotify.com/artist/0pUSqI1qNoNmKcoijEeF81"
         },
         {
-          "name": "Cam the Chef",
-          "url": "https://open.spotify.com/artist/1089ucpwKxqO6tPog0dqkp"
+          "name": "Cam, the Chef",
+          "url": "https://open.spotify.com/artist/4Hy31yhFRij69QK5gWmRUB"
         },
         {
           "name": "As\u00e9 Simone",
@@ -11912,6 +11930,24 @@
       "duration_ms": 160271,
       "name": "Little Changes",
       "url": "https://open.spotify.com/track/6UvEGfQroiyYg82Pf7MllO"
+    },
+    {
+      "album": {
+        "name": "little fingers/lungs (demo)",
+        "url": "https://open.spotify.com/album/40aWFH4lt0LIlqXc9v52Xa"
+      },
+      "artists": [
+        {
+          "name": "rockstar1000",
+          "url": "https://open.spotify.com/artist/78isn9U2jo3LrPkq3zPYEZ"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259782,
+      "name": "little fingers - demo",
+      "url": "https://open.spotify.com/track/4kK2y1Mpfivr9gdWfh71kU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,331 likes - 110 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,344 likes - 110 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [穿過月光遇見你 \(電視劇《月裡青山淡如畫》片尾曲\)](https://open.spotify.com/track/7bPEHCuMmG6958diWEq3ic) | [郭靜](https://open.spotify.com/artist/3Pl7k0vDSDBqT2aBgE8eEQ) | [穿過月光遇見你 \(電視劇《月裡青山淡如畫》片尾曲\)](https://open.spotify.com/album/4ZWZaWfXDyDdr9mC289Ear) | 2:59 |
 | 110 | [Sometimes](https://open.spotify.com/track/0tTseTE9ClBiYoiuLrktBB) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [Sometimes](https://open.spotify.com/album/3DyDtywdzXqcfLkOQ07TFI) | 4:08 |
 
-Snapshot ID: `MTY3OTI5NjM3NiwwMDAwMDAwMDQ2MGU2M2M0ZDkyNWFlYzdiNTI4NmM2N2Q0ODg5NTA3`
+Snapshot ID: `MTY3OTI5NjM3NiwwMDAwMDAwMGY3ZTQ3NmIxMTY4NDYzNzIxZmM0YjMxZDA3N2UyZTc1`

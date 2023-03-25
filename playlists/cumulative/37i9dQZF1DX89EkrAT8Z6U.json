@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 160666,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "yenny's",
+        "url": "https://open.spotify.com/album/1QSWGMnEVdonGej6XvCQxS"
+      },
+      "artists": [
+        {
+          "name": "Ben Yen",
+          "url": "https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156055,
+      "name": "innit",
+      "url": "https://open.spotify.com/track/0vqY3GEoQZ3yuqvs9LT4p2"
+    },
+    {
+      "album": {
         "name": "2 IGNORANT",
         "url": "https://open.spotify.com/album/18KiSqhfa1vBgQdpgZWAgZ"
       },
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 124210,
       "name": "Jump!",
       "url": "https://open.spotify.com/track/5QfWgphE9zrEW3oeyKnQlG"
@@ -3184,6 +3202,24 @@
       "duration_ms": 83947,
       "name": "uhh",
       "url": "https://open.spotify.com/track/73qtTW9MmYLc0PR5CQCTq5"
+    },
+    {
+      "album": {
+        "name": "STOKELEY",
+        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138426,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
     },
     {
       "album": {

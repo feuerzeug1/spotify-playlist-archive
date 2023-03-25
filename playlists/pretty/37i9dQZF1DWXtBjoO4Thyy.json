@@ -1,12 +1,12 @@
 {
   "description": "Yaffle continues The Classical Takeover with his favorite selection of classical music, from the classical era to the 21st century.",
-  "num_followers": 94046,
+  "num_followers": 94101,
   "original_name": "The Classical Takeover: Yaffle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2OTIwMCwwMDAwMDAwMGRiMzM5MmM5MjEzNGIxYzM0ZmFlMDA1ZGJlNDYwZWQy",
+  "snapshot_id": "MTY3Nzc2OTIwMCwwMDAwMDAwMDBkYzg2OWQyZjAzY2U2MDVmMTVjZmRkMDVhYzNmYzA5",
   "tracks": [
     {
       "added_at": "2023-03-02 15:00:00",
@@ -912,12 +912,16 @@
           "url": "https://open.spotify.com/artist/0GOAxav4uCDWG9g2lTgteS"
         },
         {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
           "name": "Berliner Philharmoniker",
           "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
         }
       ],
       "duration_ms": 395026,
-      "name": "Ligeti : Requiem : II Kyrie",
+      "name": "Ligeti: Requiem: II. Kyrie. Molto espressivo",
       "url": "https://open.spotify.com/track/2OWzoQiL6VDTczQwBxmWVx"
     },
     {

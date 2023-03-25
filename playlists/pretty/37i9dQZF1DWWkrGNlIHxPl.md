@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Tasneem Elaidy
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,756 likes - 54 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,851 likes - 54 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 |
-| 2 | [From Gaza, With Love](https://open.spotify.com/track/49AG4MU3Ij6a8NWEVLMuRu) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/5bah1OVDvcvn92BMkgOO6o) | 1:59 |
-| 3 | [Gazing](https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Gazing](https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz) | 2:53 |
-| 4 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
+| 1 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
+| 2 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 |
+| 3 | [From Gaza, With Love](https://open.spotify.com/track/49AG4MU3Ij6a8NWEVLMuRu) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/5bah1OVDvcvn92BMkgOO6o) | 1:59 |
+| 4 | [Gazing](https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Gazing](https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz) | 2:53 |
 | 5 | [OBSESSED](https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [OBSESSED](https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG) | 2:54 |
 | 6 | [Dirt Bag](https://open.spotify.com/track/1dy0gIKOgX4iOsW30qodhq) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Dirt Bag](https://open.spotify.com/album/563WPjzM0AeyozwhFvSo6l) | 2:12 |
 | 7 | [POINT OF NO RETURN](https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [POINT OF NO RETURN](https://open.spotify.com/album/1B0A3zeqNO0EsFr3zaQxRq) | 3:34 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 53 | [MOONTALK](https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [MOONTALK](https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu) | 3:29 |
 | 54 | [FUNNY HOW](https://open.spotify.com/track/5ydV3NMWuOV1s4BRg1U9ei) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [FUNNY HOW](https://open.spotify.com/album/6vjuhnkjXZXkxTXBs2pCey) | 2:32 |
 
-Snapshot ID: `MTY3OTI5NjM0MSwwMDAwMDAwMDQ5OWQ5ZGQyZmRkODY2NzcwYTE2YjkwMzZkNWMxZTQy`
+Snapshot ID: `MTY3OTY0MDc3MSwwMDAwMDAwMDdkMzNjYzg4MDAzNWE5YmU1NzdlZTI2MmIxN2RmOGVj`

@@ -4,7 +4,7 @@
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-502 songs - 1 day 10 hr 15 min
+503 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 | 2019-03-11 |  |
 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [A Little Less Conversation: Elvis vs JXL](https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1) | 3:31 | 2019-03-11 |  |
 | [A Message to You Rudy \- 2015 Remaster](https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:52 | 2019-03-11 |  |
-| [A Night Like This](https://open.spotify.com/track/4CGgcpgWRnAqJXK6PXQLB1) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Deleted Scenes From The Cutting Room Floor](https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR) | 3:45 | 2019-03-11 |  |
+| [A Night Like This](https://open.spotify.com/track/7nuBU1HCcOwG5f1orN4ByW) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Deleted Scenes From The Cutting Room Floor](https://open.spotify.com/album/7KYgUgJTrsxT4gkHRALi3R) | 3:45 | 2019-03-11 |  |
+| [A Night Like This](https://open.spotify.com/track/4CGgcpgWRnAqJXK6PXQLB1) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [Deleted Scenes From The Cutting Room Floor](https://open.spotify.com/album/1D8grnftAaivpmBkayUgMR) | 3:45 | 2019-03-11 | 2023-03-25 |
 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2019-03-11 |  |
 | [Afraid Of The Dark](https://open.spotify.com/track/2vSLSJH9lHKne3zUKYBVPI) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Afraid Of The Dark](https://open.spotify.com/album/22lCTEPNIuOwVR4p1sp9py) | 3:08 | 2022-03-03 |  |
 | [Age of Panic](https://open.spotify.com/track/6JA0MXHzaaJBG1eIbWAW3d) | [Senser](https://open.spotify.com/artist/2x3n60ukOull9yln5m080E) | [Senser Stacked up XX](https://open.spotify.com/album/303SfM4fCrqwqnsSCQG8bV) | 4:08 | 2019-03-11 |  |

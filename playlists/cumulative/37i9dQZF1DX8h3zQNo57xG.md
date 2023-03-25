@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-114 songs - 6 hr 9 min
+115 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Delta Crossing 58.6Hz \- 62.3Hz](https://open.spotify.com/track/2EIXvo3H0SPDZtFiSfFaaX) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Delta Crossing 58.6Hz \- 62.3Hz](https://open.spotify.com/album/3ebC33TqEfXecgoziyc9tM) | 3:46 | 2022-07-27 |  |
 | [Delta Deep 80Hz \- 84Hz](https://open.spotify.com/track/5BG09azTJhFK50nEx60YuT) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Delta Deep 80Hz \- 84Hz](https://open.spotify.com/album/7F30kdRKhpV392urnfBjrf) | 3:04 | 2022-07-27 |  |
 | [Delta Dream \(96Hz \- 99Hz\)](https://open.spotify.com/track/0SZxVJIE8Oz96g8njMMUg7) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 4:00 | 2021-12-22 |  |
+| [Delta Dreamer 81 Hz \- 83 Hz](https://open.spotify.com/track/5NM2SYgG0a0lbOSubI1Vl5) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Binaural Levitation](https://open.spotify.com/album/6RwD0AuziBPY0zRodQcPWv) | 2:42 | 2023-03-24 |  |
 | [Delta eight](https://open.spotify.com/track/6XoysFzMzqAo4q6biLmkHu) | [Mantramind](https://open.spotify.com/artist/7iLU5lFV76z645FwaUmEGy) | [Delta Dreams 3Hz](https://open.spotify.com/album/2jEDSdjpSonUFvoOgZ4uKH) | 2:37 | 2023-03-10 |  |
 | [Delta Equinox 3 Hz](https://open.spotify.com/track/1kFCJ9w9EWje4YHKGfSu62) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 2:39 | 2022-12-09 |  |
 | [Delta Flow 108Hz \- 111Hz](https://open.spotify.com/track/4b6B97mdO3KjViKcgrlMQw) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:50 | 2021-12-22 |  |

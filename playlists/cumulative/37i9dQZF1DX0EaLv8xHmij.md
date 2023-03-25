@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: AKA AFK
 
-155 songs - 7 hr 19 min
+157 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,9 @@
 | [SP igual Birmigham](https://open.spotify.com/track/1KlyWpzvFxUqP7Ni3ro6KA) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [Stretch DCM](https://open.spotify.com/artist/0jw96V6IggQqtxGzwbEyHM), [Mayday](https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy), [Enigma](https://open.spotify.com/artist/0rHv4lpQmpMv4qboL8KaaQ) | [BR 140](https://open.spotify.com/album/103Rss3Qt0JvwKj8MFMPcC) | 2:30 | 2022-09-23 |  |
 | [Sr das Armas](https://open.spotify.com/track/6xvmP4g3WaL4ptWSQMDXqo) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Sr das Armas](https://open.spotify.com/album/6l84Z5HurSE3ILSOPrsSly) | 2:26 | 2022-09-23 | 2022-12-24 |
 | [Talibã](https://open.spotify.com/track/6eHYTj7DwxgUT5g26AHzkg) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Índio](https://open.spotify.com/artist/0xQY4dMgl3nMgyWprPkKmz) | [Talibã](https://open.spotify.com/album/6fp9jAxkHwndQAFNh9pMWi) | 4:05 | 2022-03-18 |  |
+| [TBT](https://open.spotify.com/track/5prIJikSCVovHL7wADbkB4) | [Corleone](https://open.spotify.com/artist/6KC5SbVwchsIji35J7wGBb), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [Fella Rap](https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB) | [TBT](https://open.spotify.com/album/7ouaB0VfveBqkRsckeBR8r) | 2:16 | 2023-03-24 |  |
 | [Temporada De Caça](https://open.spotify.com/track/7oWXd23WF7vD6FROEHk063) | [brTT](https://open.spotify.com/artist/7y2EOgsPqCKSxH9MJ2Tk6z), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT) | [Temporada De Caça](https://open.spotify.com/album/57gdtXezVDMVQhLAtpnrbh) | 3:14 | 2022-04-22 | 2022-08-13 |
+| [Terrorista](https://open.spotify.com/track/3btPxaizURmPq3bts3J57s) | [Fac](https://open.spotify.com/artist/2OQj8y2Ztj2ME4EN6b98Kt), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Og Parma](https://open.spotify.com/artist/66dCNLjr6gMmGCcJmNhIVv) | [Terrorista](https://open.spotify.com/album/1SFltkPUm7oUiLqwPPLGGk) | 2:58 | 2023-03-24 |  |
 | [tincan azul](https://open.spotify.com/track/2fgbp21pH0Yo9h6UnxZj1B) | [HXP](https://open.spotify.com/artist/4EqGyWcsiu5FwByLE1pftF), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [tincan azul](https://open.spotify.com/album/2k9aWQcb4b2Hxzw7v94Y2d) | 3:26 | 2022-03-18 | 2022-12-17 |
 | [Tipo Globeleza](https://open.spotify.com/track/276nkDyzknw1b1uHS2enam) | [O Mafia MC](https://open.spotify.com/artist/7jKsxscQXCdqOj7HqawAur) | [Tipo Globeleza](https://open.spotify.com/album/4rrKyZVo2X7Dz5cz41bewm) | 2:11 | 2022-08-12 | 2022-09-24 |
 | [Tipo Mbappé 2](https://open.spotify.com/track/02bH8CBSXzquAIGXLLDOdq) | [James LR](https://open.spotify.com/artist/5fN97IMqjhOYwGBkv1z9Ni), [Ksbatista](https://open.spotify.com/artist/1sJA1MbXUvcCJgwN3jIaeL), [Guimarães Beats](https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo) | [Tipo Mbappé 2](https://open.spotify.com/album/5jley9Ekel3gbHvhfnPmV8) | 3:09 | 2022-03-18 | 2022-06-04 |

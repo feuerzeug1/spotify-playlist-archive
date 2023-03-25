@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring OBLVYN
 
-372 songs - 20 hr 53 min
+373 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Ego](https://open.spotify.com/track/6R7CXX5xAQ5okxXRr2LWzB) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Origami Human](https://open.spotify.com/album/7j4meIEQzvfubq1EBNfg1r) | 3:43 | 2021-12-10 | 2022-04-20 |
 | [Electric Feel](https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Electric Feel](https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz) | 3:12 | 2021-08-06 |  |
 | [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-03-16 |  |
+| [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-03-24 |  |
 | [Empty Room \- Cabu Remix](https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Empty Room](https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s) | 3:46 | 2021-08-06 |  |
 | [Empty Room \- Cabu Remix](https://open.spotify.com/track/7dEYUkZMdUs7rfOKRMr5lO) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Empty Room](https://open.spotify.com/album/4Fbe1OKsl6BdOYKix4j6Lu) | 3:46 | 2021-08-06 | 2022-07-29 |
 | [Escape Reality](https://open.spotify.com/track/4EcsGwSei1YStJRy3lbpzt) | [munro](https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH), [Serion](https://open.spotify.com/artist/1daCx1huhWZa5aLc1KK9hs), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [Escape Reality](https://open.spotify.com/album/5tHeGvKuuTHaMiddXUAqGL) | 3:31 | 2021-08-06 | 2023-02-11 |
@@ -333,7 +334,7 @@
 | [three little words](https://open.spotify.com/track/0F7u39EASLrCAcThAXE1fM) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Anna Dellaria](https://open.spotify.com/artist/1VIvKUaSkkzbWE4oWVpGaR) | [three little words](https://open.spotify.com/album/5Xw17msGS4bB8NCXp4Sc2v) | 3:24 | 2023-02-10 |  |
 | [tic tac toe](https://open.spotify.com/track/0ObiilKtl2cNkpiSscSVP6) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [tic tac toe](https://open.spotify.com/album/08n4CTuQ8LVjfnHZ1IjmFs) | 2:52 | 2021-08-06 | 2022-06-22 |
 | [TIME + ENERGY](https://open.spotify.com/track/25w0UAB6bOKU7M3EXwWgZh) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TIME + ENERGY](https://open.spotify.com/album/1Bgd2VZwTf6sPYtpwQKvgM) | 2:58 | 2021-08-06 |  |
-| [Tirana](https://open.spotify.com/track/15KVtURLWmNBhpGWlbsG4t) | [minds&machines](https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ) | [Tirana](https://open.spotify.com/album/1LY019HgpEOcSistIGWEt3) | 4:09 | 2023-01-20 |  |
+| [Tirana](https://open.spotify.com/track/15KVtURLWmNBhpGWlbsG4t) | [minds&machines](https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ) | [Tirana](https://open.spotify.com/album/1LY019HgpEOcSistIGWEt3) | 4:09 | 2023-01-20 | 2023-03-25 |
 | [Torture Me \(feat\. Skrillex\)](https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:53 | 2023-02-10 |  |
 | [Toxic](https://open.spotify.com/track/2tcg6KIbcCIEizDHF3rLT8) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Toxic](https://open.spotify.com/album/62CkAFxFgOSoO7Jowxr1RJ) | 2:50 | 2021-08-06 | 2022-07-28 |
 | [TURN IT DOWN](https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TURN IT DOWN](https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR) | 2:34 | 2021-11-19 | 2022-07-29 |

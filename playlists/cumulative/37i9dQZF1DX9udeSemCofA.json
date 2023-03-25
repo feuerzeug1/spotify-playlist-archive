@@ -1863,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "This Is Trojan Dub",
+        "url": "https://open.spotify.com/album/5tA2nuPhQz0AVIzQtayJKi"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        },
+        {
+          "name": "The Aggrovators",
+          "url": "https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Zion Gate - Dub",
+      "url": "https://open.spotify.com/track/47FAgQPir7zP5ki006SaCo"
+    },
+    {
+      "album": {
         "name": "From The Palace Of Dub",
         "url": "https://open.spotify.com/album/0Tx1mUzIAdN43N7lMW2LUW"
       },
@@ -1874,7 +1896,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 190439,
       "name": "Zion Gate Dub",
       "url": "https://open.spotify.com/track/0XDFYnvZANTULQxWofURlH"

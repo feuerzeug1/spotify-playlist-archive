@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,067 likes - 75 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,186 likes - 75 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pound Town \(with Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(with Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
+| 1 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
 | 2 | [Motion \[feat\. Wizz Havinn & Loe Shimmy\] \- Remix](https://open.spotify.com/track/419P7pvcvRBkz94d2B0F0J) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Motion \[feat\. Wizz Havinn & Loe Shimmy\] \(Remix\)](https://open.spotify.com/album/65XJ1g5lSvHqQWisRVpRKh) | 3:08 |
 | 3 | [Pressure](https://open.spotify.com/track/5WplTl37Ly1ZRTOpG9YMf3) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw), [Leland](https://open.spotify.com/artist/5YJl420mxxVPPIAxFGYmXU) | [Pressure](https://open.spotify.com/album/3MFCVVQtLwHznU66hWOYKF) | 2:41 |
 | 4 | [Rockin' & Rollin](https://open.spotify.com/track/4U8PK5lwaOTMITmRlsH15n) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [Rockin' & Rollin](https://open.spotify.com/album/4C1Bcy0lQFUH2jVOthpeXY) | 2:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [1st Time In Neimans](https://open.spotify.com/track/1UKVKspb7YDeMjhEdLueSy) | [ScrumbleMan](https://open.spotify.com/artist/6bWkY38tJ2cqGB6fa5TEV7) | [Way Of The Scrumble](https://open.spotify.com/album/2YsHIACK96lLOj2IeuWibt) | 1:33 |
 | 75 | [RIDE FOR YOU](https://open.spotify.com/track/0ix9MmR8QyMaDypgh32tkJ) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n) | [RIDE FOR YOU](https://open.spotify.com/album/7sIhyzLWZkYBqtZvl5qs1s) | 2:02 |
 
-Snapshot ID: `MTY3OTUyNTUzMCwwMDAwMDAwMDVjOGQzYTI0MjJkYTA3YmEwYTA0YjgzOTRjY2I3NTJk`
+Snapshot ID: `MTY3OTUyNTUzMCwwMDAwMDAwMGM0NjZiNzZjZDQzZWQ3Y2YwZmE2OTM4MzA1ZjA1YjY0`

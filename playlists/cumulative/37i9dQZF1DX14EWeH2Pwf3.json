@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: thasup, Tedua",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Rhove",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 178909,
       "name": "1312 (feat. Disme & Vaz T\u00e8) - prod. Beak On The Night",
       "url": "https://open.spotify.com/track/7flQoPZiOGHINPBS0FUjtR"
@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150731,
+      "name": "Avanti",
+      "url": "https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8"
+    },
+    {
+      "album": {
         "name": "LISTA 47",
         "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
       },
@@ -829,6 +847,24 @@
     },
     {
       "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
+    },
+    {
+      "album": {
         "name": "Bottiglie rotte (feat. Emis Killa & Gemitaiz)",
         "url": "https://open.spotify.com/album/5lsHnWwEEp1sBenmYDYNid"
       },
@@ -1004,7 +1040,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 183380,
       "name": "Bussola",
       "url": "https://open.spotify.com/track/2kNF8cF9KQhmGxNrVm8PAi"
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 140785,
       "name": "Caribe",
       "url": "https://open.spotify.com/track/5by3TCFHK3YRQzxpR9PcZ0"
@@ -1849,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2KSnpXWI8OsNu7k2lXAoOi"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118095,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/65GyRqnEejaE75SG2SNnSJ"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
       },
@@ -1966,6 +2020,32 @@
       "duration_ms": 172000,
       "name": "Ferrari - Remix",
       "url": "https://open.spotify.com/track/3XucsgiwXb8KPn9Csf9Zmu"
+    },
+    {
+      "album": {
+        "name": "DON DADA",
+        "url": "https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU"
+      },
+      "artists": [
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217086,
+      "name": "FIUMI ROS\u00c9 (feat. Ernia & Neima Ezza)",
+      "url": "https://open.spotify.com/track/6Dc4svWZRieb8fCaQQGdot"
     },
     {
       "album": {
@@ -2853,6 +2933,28 @@
     },
     {
       "album": {
+        "name": "Teoria Del Contrario Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109112,
+      "name": "Lego (feat. Diss Gacha) - prod. Sala",
+      "url": "https://open.spotify.com/track/7dwy8o7JsmULhW8jN2NhxB"
+    },
+    {
+      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
       },
@@ -3378,7 +3480,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 165216,
       "name": "MONDAY (feat. Shiva & Michelangelo)",
       "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
@@ -3396,7 +3498,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 165666,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV"
@@ -3853,6 +3955,24 @@
     },
     {
       "album": {
+        "name": "OUTSIDER",
+        "url": "https://open.spotify.com/album/0Y6y87L7QxjYMd9AotKayf"
+      },
+      "artists": [
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177716,
+      "name": "OUTSIDER",
+      "url": "https://open.spotify.com/track/5mReDtjzYeBKhgG3okmyjr"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/2zj6RUMudqC6Y6le04Axcs"
       },
@@ -3992,6 +4112,28 @@
       "duration_ms": 166069,
       "name": "Paura e Soldi",
       "url": "https://open.spotify.com/track/1Gjw5Gy6FIRp1B4tixbt99"
+    },
+    {
+      "album": {
+        "name": "DON DADA",
+        "url": "https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd"
+      },
+      "artists": [
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176485,
+      "name": "PELLE D'OCA (feat. Medy)",
+      "url": "https://open.spotify.com/track/2VxS5ZTxvHbYdfiZJeYNbD"
     },
     {
       "album": {
@@ -4434,7 +4576,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 170526,
       "name": "Purosangue (feat. Shiva)",
       "url": "https://open.spotify.com/track/6ACIFlukKJSlmOHCypNppR"
@@ -5126,7 +5268,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 170571,
       "name": "Take 4",
       "url": "https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6"
@@ -5366,6 +5508,28 @@
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171702,
+      "name": "Un Altro Show (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl"
     },
     {
       "album": {

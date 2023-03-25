@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21066,
+  "num_followers": 21064,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAyNTEsY2IxYTkyMzUwMmYxNDc3NTZiYzcxNWU5YzJlOWZmMmFlODk0MTMwMA==",
+  "snapshot_id": "MTAyNjEsYWI0NWYyNTYyZWE0ZTNlZTYyYzIyMzA3NDZlOWVkNDZmOWVjN2E5MQ==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -47,6 +47,26 @@
       "duration_ms": 186000,
       "name": "Want It All (feat. Evalyn)",
       "url": "https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c"
+    },
+    {
+      "added_at": "2023-03-24 15:47:28",
+      "album": {
+        "name": "No Turning Back (feat. Namelle)",
+        "url": "https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "Namelle",
+          "url": "https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "No Turning Back (feat. Namelle)",
+      "url": "https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c"
     },
     {
       "added_at": "2023-03-20 16:10:27",
@@ -123,6 +143,26 @@
       "duration_ms": 206746,
       "name": "CATALYST",
       "url": "https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44"
+    },
+    {
+      "added_at": "2023-03-24 15:47:53",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4IAMj8Bki0Hb3nMQ7N4PLi"
+      },
+      "artists": [
+        {
+          "name": "Hotel Garuda",
+          "url": "https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K"
+        },
+        {
+          "name": "Jackets",
+          "url": "https://open.spotify.com/artist/2WE3lhdwcH8I20JFdhsV94"
+        }
+      ],
+      "duration_ms": 382857,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5pHrnkNt0Ikb8UE5HAcnIJ"
     },
     {
       "added_at": "2023-02-23 18:41:27",
@@ -235,6 +275,26 @@
       "duration_ms": 173061,
       "name": "Moonlight (feat. Gianni Taylor)",
       "url": "https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk"
+    },
+    {
+      "added_at": "2023-03-24 21:20:38",
+      "album": {
+        "name": "Matrix",
+        "url": "https://open.spotify.com/album/4zvxT5ly1Xlavi3opIBZU4"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 200418,
+      "name": "Matrix",
+      "url": "https://open.spotify.com/track/4fWBsxD5qLDz98zi900VyZ"
     },
     {
       "added_at": "2023-01-26 01:17:11",
@@ -2438,54 +2498,6 @@
         {
           "name": "Frameworks",
           "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/5nNgbJyYK0sBjvIW97FWUu"
-    },
-    {
-      "added_at": "2023-03-03 21:51:03",
-      "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc"
-      },
-      "artists": [
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 274053,
-      "name": "CIRCLES",
-      "url": "https://open.spotify.com/track/6cVx6IHckQGUv84Y6RviFC"
-    },
-    {
-      "added_at": "2023-03-03 21:51:03",
-      "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc"
-      },
-      "artists": [
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "NO TIME",
-      "url": "https://open.spotify.com/track/3iuznCnL4DnWnElyIqJ5CR"
-    },
-    {
-      "added_at": "2023-03-03 21:51:03",
-      "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc"
-      },
-      "artists": [
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         },
         {
           "name": "Cleopold",
@@ -2635,6 +2647,22 @@
       "duration_ms": 380173,
       "name": "It's Very Loud",
       "url": "https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl"
+    },
+    {
+      "added_at": "2023-03-24 15:52:47",
+      "album": {
+        "name": "\u200eskyscraper",
+        "url": "https://open.spotify.com/album/78r14RCs0xkOIIM38usQXQ"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 85000,
+      "name": "skyscraper",
+      "url": "https://open.spotify.com/track/4i87u5anIS97aQmulZU11D"
     }
   ],
   "unique_name": "Moving Castle Monthly",

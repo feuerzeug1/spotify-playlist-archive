@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with Brasstracks, TOBi, and FATHERDUDE.",
+  "description": "This is R&B in Canada, elevate your aura with TOBi.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Curtains",
+        "url": "https://open.spotify.com/album/3DGMXP7pnJtYNkpH6l4g5Q"
+      },
+      "artists": [
+        {
+          "name": "DORESSA",
+          "url": "https://open.spotify.com/artist/0mrGJjgyeVmhwKCF0KOsdZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161567,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/3UZwtzQHB7OIHBdgaD3sWZ"
+    },
+    {
+      "album": {
         "name": "D4U - Spotify Singles",
         "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
       },
@@ -2244,7 +2262,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 227663,
       "name": "Do You Like Me?",
       "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
@@ -2648,7 +2666,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 186885,
       "name": "Drive",
       "url": "https://open.spotify.com/track/1ezMqowqNeAASDNk30PYec"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 214080,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 195500,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/7y4cTaMSl4WZLEExL25HHy"
@@ -4328,7 +4346,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 190000,
       "name": "How About Us?",
       "url": "https://open.spotify.com/track/1TWFl4FJ3vmtGHozu2ydmh"
@@ -5071,6 +5089,24 @@
     },
     {
       "album": {
+        "name": "Keep From Falling",
+        "url": "https://open.spotify.com/album/2XrROypIe8YTa9kWrFBIaB"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Keep From Falling",
+      "url": "https://open.spotify.com/track/2J1iMDApDGF5akWEl1spZQ"
+    },
+    {
+      "album": {
         "name": "Healing Phase",
         "url": "https://open.spotify.com/album/3PGgJjwXDoj59jPI5RCeQe"
       },
@@ -5335,6 +5371,24 @@
     },
     {
       "album": {
+        "name": "Let me go",
+        "url": "https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200853,
+      "name": "Let me go",
+      "url": "https://open.spotify.com/track/6w52GAsdrejKZPZPo4Iu47"
+    },
+    {
+      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/3Q5d533Hi2KodjLEBeifSF"
       },
@@ -5553,6 +5607,28 @@
     },
     {
       "album": {
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
+      "album": {
         "name": "Look At What I'm Doing To You",
         "url": "https://open.spotify.com/album/5tiIUsyEASKQuVHSjkWz2H"
       },
@@ -5680,7 +5756,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 143960,
       "name": "Love Island",
       "url": "https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R"
@@ -7561,6 +7637,24 @@
     },
     {
       "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/1fkWEJ7SjJ3LzJJ0mDCun2"
+      },
+      "artists": [
+        {
+          "name": "Joyia",
+          "url": "https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190129,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/5xrz5t1gDx4Fft0tDAo8Fs"
+    },
+    {
+      "album": {
         "name": "Pissed Black Girl",
         "url": "https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI"
       },
@@ -8414,7 +8508,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213626,
       "name": "Sex In The Porsche (and PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/33RTe6MAxEno83JSdpObQr"
@@ -8468,7 +8562,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 205986,
       "name": "She Loves Me",
       "url": "https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf"
@@ -8544,6 +8638,24 @@
       "duration_ms": 212000,
       "name": "Should Have Cared",
       "url": "https://open.spotify.com/track/0AfGuZU5zRTJVQ48xNseAR"
+    },
+    {
+      "album": {
+        "name": "Side Eye",
+        "url": "https://open.spotify.com/album/51vLXSdhW3vNQpqun8BoF6"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172857,
+      "name": "Side Eye",
+      "url": "https://open.spotify.com/track/3nrPLwBP7AXFjjUV9XHkaI"
     },
     {
       "album": {
@@ -9154,6 +9266,24 @@
       "duration_ms": 306468,
       "name": "Story Of A Scar",
       "url": "https://open.spotify.com/track/72U5bK1MjcKZWyayuaBdDy"
+    },
+    {
+      "album": {
+        "name": "STR8",
+        "url": "https://open.spotify.com/album/3gghBuWIP2DbLtBKhHc4TR"
+      },
+      "artists": [
+        {
+          "name": "Liyah Katana",
+          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172854,
+      "name": "STR8",
+      "url": "https://open.spotify.com/track/7dgvZdVmuo8CtfFqcgiZLF"
     },
     {
       "album": {
@@ -10363,6 +10493,24 @@
     },
     {
       "album": {
+        "name": "Part 2",
+        "url": "https://open.spotify.com/album/1gWGpmIFNZUiCpeztlRiFS"
+      },
+      "artists": [
+        {
+          "name": "Eleanor",
+          "url": "https://open.spotify.com/artist/0OJYQZju0QDGstPCDBsdPx"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197941,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/0FbxG4ozdUkNv6S3GbJ4B3"
+    },
+    {
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
       },
@@ -10418,6 +10566,24 @@
       "duration_ms": 245240,
       "name": "We Caa Done (feat. Drake)",
       "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
+    },
+    {
+      "album": {
+        "name": "We Make Sense",
+        "url": "https://open.spotify.com/album/7pD9IBIvAiHjT4nKKnA3D1"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201824,
+      "name": "We Make Sense",
+      "url": "https://open.spotify.com/track/6Uv0pRytdE99Op5MYIfiJs"
     },
     {
       "album": {
@@ -10704,7 +10870,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174890,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8"

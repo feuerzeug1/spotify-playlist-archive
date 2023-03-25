@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> Best of the Indian Indie scene\. Cover \- Shreya Jain
+> Best of the Indian Indie scene\. Cover \- Akshath
 
 189 songs - 10 hr 57 min
 

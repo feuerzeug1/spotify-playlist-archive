@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Cortes Modernos",
+        "url": "https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223621,
+      "name": "Cortes Modernos",
+      "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
+    },
+    {
+      "album": {
         "name": "Cuando Regreses a M\u00ed",
         "url": "https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE"
       },
@@ -866,7 +884,7 @@
       },
       "artists": [
         {
-          "name": "Dan.co",
+          "name": "Danco",
           "url": "https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X"
         }
       ],
@@ -912,7 +930,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 237909,
       "name": "nuncatevayasnunca",
       "url": "https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut"

@@ -5,24 +5,6 @@
   "tracks": [
     {
       "album": {
-        "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "date_added": "2022-06-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
-    },
-    {
-      "album": {
         "name": "(i hope you) miss me",
         "url": "https://open.spotify.com/album/2FSsUu3vgMkoffjHBSdk1r"
       },
@@ -3185,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "do it all",
+        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "do it all",
+      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
+    },
+    {
+      "album": {
         "name": "Doesn't Matter",
         "url": "https://open.spotify.com/album/00PvhElonquwWCDEfMUj0X"
       },
@@ -4900,7 +4900,7 @@
           "url": "https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt"
         }
       ],
-      "date_added": "2023-03-18",
+      "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132712,
@@ -6900,6 +6900,24 @@
       "duration_ms": 154640,
       "name": "it only gets worse, i promise",
       "url": "https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x"
+    },
+    {
+      "album": {
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140338,
+      "name": "I\u2019ll Keep You Safe",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "album": {
@@ -9526,7 +9544,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 210807,
       "name": "once upon a time",
       "url": "https://open.spotify.com/track/0PULY7AIDcZ2LMjXc9oUay"
@@ -10050,6 +10068,24 @@
       "duration_ms": 216600,
       "name": "PAVEMENT",
       "url": "https://open.spotify.com/track/3s5NHQg2jTcOTVM1myA8V3"
+    },
+    {
+      "album": {
+        "name": "Penance",
+        "url": "https://open.spotify.com/album/3NWoWLDEQQaBNlAiYU1IEr"
+      },
+      "artists": [
+        {
+          "name": "Lord Gasp",
+          "url": "https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Penance",
+      "url": "https://open.spotify.com/track/4jJsIHgePHhMHSa6J6P9ZB"
     },
     {
       "album": {
@@ -11154,7 +11190,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 163755,
       "name": "Salt",
       "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
@@ -14020,7 +14056,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 177835,
       "name": "V12 (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
@@ -14726,6 +14762,24 @@
       "duration_ms": 167441,
       "name": "why am i here, i feel so alone",
       "url": "https://open.spotify.com/track/0jBaoN25PbNxfbv4sPs6eM"
+    },
+    {
+      "album": {
+        "name": "Why Do I Hear Breathing?",
+        "url": "https://open.spotify.com/album/6sM8hpWQ2MJqhG8swSwatj"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119142,
+      "name": "Why Do I Hear Breathing?",
+      "url": "https://open.spotify.com/track/0w7MzV3fcO059kkPJUINyB"
     },
     {
       "album": {

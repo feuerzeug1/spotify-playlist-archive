@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Belinda Carlisle
 
-75 songs - 4 hr 58 min
+76 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Precious Time](https://open.spotify.com/track/4U9OxFxU1rM1GixGF2MXRS) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Precious Time](https://open.spotify.com/album/6C6bBwceQNCXaNK78OPTKe) | 4:27 | 2021-10-22 | 2022-04-02 |
 | [Pretending](https://open.spotify.com/track/3WYq8auGS8CFtRM7XLNxJn) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Pretending](https://open.spotify.com/album/5sHQpKS54EcEG784t7bJaO) | 6:47 | 2022-04-08 |  |
 | [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 | 2021-10-22 |  |
-| [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 | 2021-10-22 |  |
+| [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 | 2021-10-22 | 2023-03-25 |
 | [Rushing Water](https://open.spotify.com/track/46FlEsH8J7IwPgY2guQqef) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Super Deluxe\)](https://open.spotify.com/album/3ZCIcCsU3wAG2o8p8WfNjk) | 3:17 | 2021-10-22 | 2022-11-13 |
 | [Rushing Water](https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Rushing Water](https://open.spotify.com/album/4gqzoPUB5hRX7NC6r1uE5P) | 3:17 | 2021-10-22 | 2022-07-29 |
 | [Same Heartbreak Different Day](https://open.spotify.com/track/5ZJPhXxYnaUM8i7C9oboqI) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Same Heartbreak Different Day](https://open.spotify.com/album/7iyIit99oHjCpa1ndnCJtU) | 3:08 | 2022-07-15 |  |
@@ -76,6 +76,7 @@
 | [The Man with the Double Face \- Single Edit](https://open.spotify.com/track/0zjtWbgldOrqHYuVI2Tima) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [The Man with the Double Face](https://open.spotify.com/album/2gG0nKiqZvjUrk7TnXgPHd) | 3:23 | 2022-04-29 |  |
 | [The Tipping Point](https://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/2jYnm8r2J5d9FcqJMvZ85L) | 4:13 | 2021-10-22 | 2022-06-11 |
 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 | 2021-11-12 |  |
+| [True To Yourself](https://open.spotify.com/track/3rYUollaaz3IHp94BiRzCx) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [True To Yourself](https://open.spotify.com/album/6Y9rVFJIoUVpFwjbXTe6rE) | 4:01 | 2023-03-24 |  |
 | [Walls](https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Walls](https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1) | 3:32 | 2021-10-22 |  |
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/4Y3TDAf1jKhdithIywJKCb) | 3:37 | 2021-10-22 | 2022-03-26 |
 | [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 | 2021-10-22 |  |

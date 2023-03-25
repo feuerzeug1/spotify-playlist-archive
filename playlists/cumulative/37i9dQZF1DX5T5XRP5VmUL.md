@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-247 songs - 13 hr 41 min
+248 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [It Snowed \- Remastered](https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38) | [Meaghan Smith](https://open.spotify.com/artist/47QqI0kuVSCrV0KVRBZ3km) | [It Snowed](https://open.spotify.com/album/5d7XWrnwFwMMHcvOtdSlU9) | 3:44 | 2021-12-24 |  |
 | [It Won't Be Christmas](https://open.spotify.com/track/7N2Nct5EFTfe5LDyTlenWf) | [Emma\-Lee](https://open.spotify.com/artist/1OD4aWTiLRPAijuuIahCPS) | [It Won't Be Christmas](https://open.spotify.com/album/0i1mqmW9B2dVYnsiH34Hus) | 3:13 | 2021-12-24 | 2022-12-03 |
 | [It Won't Be Christmas \('Till You're Here\)](https://open.spotify.com/track/3Vwrd5byXhpb64EDA9vPhz) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [It Won't Be Christmas \('Till You're Here\)](https://open.spotify.com/album/6esRzhxWEKZxEHAbZWTXlP) | 4:00 | 2021-12-24 | 2022-07-29 |
-| [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/track/71JECBTllXdl37lGVkH33S) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/album/6t6t6VnBN5OfgtUVe0DU6t) | 4:00 | 2021-12-24 |  |
+| [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/track/71JECBTllXdl37lGVkH33S) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/album/6t6t6VnBN5OfgtUVe0DU6t) | 4:00 | 2021-12-24 | 2023-03-25 |
 | [It's A Marshmallow World](https://open.spotify.com/track/5Ifp9kgVhBFjiw5HKt4OLn) | [Kim Stockwood](https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp) | [I Love Santa](https://open.spotify.com/album/0nhkv3tzgmYh4DjY5KE7PH) | 3:48 | 2021-12-24 | 2022-07-27 |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/3hrl7X2gSOJtTrK8qFpPHF) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/2GaVIPbClrBg756B7NZret) | 3:06 | 2021-12-24 |  |
 | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/track/1lXkOnvzw4o6dncgSc9kwU) | [Jessicka](https://open.spotify.com/artist/69LuZP8tLC8m268w9sHj2i) | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/album/4URQ2nU0Yy86AJ17phLBap) | 3:37 | 2021-12-24 | 2022-07-29 |
@@ -143,6 +143,7 @@
 | [Last Minute Fathers](https://open.spotify.com/track/1Yizm8VL9EBz1MZqmrLSpB) | [dwi](https://open.spotify.com/artist/0n0BULRAX5VITDuIraw1kl) | [Last Minute Fathers](https://open.spotify.com/album/2kEju0iGdHYoVsHdCOf3u3) | 4:43 | 2022-11-18 | 2022-11-26 |
 | [Last Xmas](https://open.spotify.com/track/5Iylu9FEarJW7j3VXJO7UN) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Last Xmas](https://open.spotify.com/album/2u9Rn2STUFI6gtvsoHRTqH) | 3:46 | 2021-12-24 | 2022-11-19 |
 | [Last Xmas](https://open.spotify.com/track/6RvXE6jgaNIRus7cFtS2FG) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Last Xmas](https://open.spotify.com/album/38PdGHsPrRweDZgyBoVI1P) | 3:46 | 2021-12-24 | 2022-07-29 |
+| [Last Xmas](https://open.spotify.com/track/6dyjwojf6jZV8aQorBTmGD) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Last Xmas](https://open.spotify.com/album/7gvrogvTiup7SSSRCG5caa) | 3:46 | 2022-12-16 |  |
 | [Let It Snow! \- 10th Anniversary](https://open.spotify.com/track/2EmEXCi8ue7p5Xqmqz10kW) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 2:39 | 2021-12-24 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Little Drummer Boy](https://open.spotify.com/album/1Qbu7yfsgiJKDc96hHe30t) | 2:52 | 2022-12-09 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/3E3QIlYJikHymLrScKCynD) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Little Drummer Boy](https://open.spotify.com/album/1PnogosIABFgWFOVRwv6Aj) | 2:50 | 2021-12-24 | 2022-12-10 |

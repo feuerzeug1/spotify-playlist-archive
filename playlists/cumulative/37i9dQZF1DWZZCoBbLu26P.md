@@ -2,9 +2,9 @@
 
 ### [Fierce](https://open.spotify.com/playlist/37i9dQZF1DWZZCoBbLu26P)
 
-> Queens everywhere \- givin' us life.<br/>Cover: Bob The Drag Queen
+> Queens everywhere \- givin' us life\. Cover: Bimini
 
-130 songs - 7 hr 24 min
+131 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [PUMPKIN TITS](https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp) | [JIMBO](https://open.spotify.com/artist/2zvuCE3YPlqC7XMY3XFmpf) | [PUMPKIN TITS \- Single](https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ) | 2:56 | 2023-02-09 |  |
 | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/track/5IsdA6g8IFKGmC1xl37OG1) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj), [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK) | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/album/0IzVRHJVmE4ftTJ8z4uyhS) | 3:49 | 2021-06-29 |  |
 | [Queens Everywhere \- Cast Version](https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 11](https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i), [Markaholic](https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu) | [Queens Everywhere \(Cast Version\)](https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n) | 3:17 | 2021-06-29 |  |
+| [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 | 2023-03-24 |  |
 | [Rubber Doll](https://open.spotify.com/track/0XKXBFAZU2rm7RkXUlBxEI) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Rubber Doll](https://open.spotify.com/album/0jb9DdTXNHZZ2LeJMYWADM) | 3:20 | 2022-09-22 | 2022-11-13 |
 | [Rubber Doll](https://open.spotify.com/track/7Bpqv11PexJbK6f0LlDqsJ) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Beauty Marked](https://open.spotify.com/album/6PakrR0zttvkuTtY30j33f) | 3:20 | 2021-06-29 | 2022-07-29 |
 | [Rubber Doll](https://open.spotify.com/track/7M8D29CF8b5ciYCJ8xcv8X) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Beauty Marked](https://open.spotify.com/album/2Ua71F5wgrNqEIteTXIZjU) | 3:20 | 2022-03-10 |  |

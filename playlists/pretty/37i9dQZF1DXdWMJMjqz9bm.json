@@ -1,28 +1,48 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: NF",
-  "num_followers": 188872,
+  "num_followers": 189035,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA3ODExNCwwMDAwMDAwMDM5MGQ1NmJhNWNjMjU4MTkzOGZkZmY4YWM0MWJjNzc2",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDY2YWQzODZlZDE3NzE2OWNjZWMwNTk0YjY0OTI0YTVi",
   "tracks": [
     {
-      "added_at": "2023-03-17 05:00:00",
+      "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "UH OH",
-        "url": "https://open.spotify.com/album/3MCpaDhJ0Ebdj3EPYanDQO"
+        "name": "Crying In Sunshine (feat. Arden Jones)",
+        "url": "https://open.spotify.com/album/1gebTTFEpyP6zKhXhG60QI"
       },
       "artists": [
         {
-          "name": "Belaganas",
-          "url": "https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q"
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
         }
       ],
-      "duration_ms": 172000,
-      "name": "UH OH",
-      "url": "https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu"
+      "duration_ms": 196443,
+      "name": "Crying In Sunshine (feat. Arden Jones)",
+      "url": "https://open.spotify.com/track/5i2oYP9tEfmBjULYH1rM7u"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "do it all",
+        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "do it all",
+      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -47,6 +67,54 @@
     {
       "added_at": "2023-03-17 05:00:00",
       "album": {
+        "name": "UH OH",
+        "url": "https://open.spotify.com/album/3MCpaDhJ0Ebdj3EPYanDQO"
+      },
+      "artists": [
+        {
+          "name": "Belaganas",
+          "url": "https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "UH OH",
+      "url": "https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "pretty little lies",
+        "url": "https://open.spotify.com/album/6xp6dC4sMedMlPOrDa5z0F"
+      },
+      "artists": [
+        {
+          "name": "Drod",
+          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
+        }
+      ],
+      "duration_ms": 116957,
+      "name": "pretty little lies",
+      "url": "https://open.spotify.com/track/2b7T5ppABd36WyFQQXyix4"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/3emv6G7Uouh1i9TjWA15Ue"
+      },
+      "artists": [
+        {
+          "name": "Jon Wiilde",
+          "url": "https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT"
+        }
+      ],
+      "duration_ms": 237641,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
         "name": "Final Step",
         "url": "https://open.spotify.com/album/4XD6MEivG8XWtZSdrMU8UE"
       },
@@ -61,40 +129,96 @@
       "url": "https://open.spotify.com/track/1ifhyypscRNLhEvXkv0zEU"
     },
     {
-      "added_at": "2023-03-09 19:53:35",
+      "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "MOTTO",
-        "url": "https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE"
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2"
       },
       "artists": [
         {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
         }
       ],
-      "duration_ms": 217271,
-      "name": "MOTTO",
-      "url": "https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk"
+      "duration_ms": 138282,
+      "name": "Hazel Eyes",
+      "url": "https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "DON'T GO",
-        "url": "https://open.spotify.com/album/3tOS1tlJPl6F539lKeslAq"
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS"
       },
       "artists": [
         {
-          "name": "Kayps",
-          "url": "https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx"
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
         },
         {
-          "name": "Calvin Bennett",
-          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
         }
       ],
-      "duration_ms": 118073,
-      "name": "DON'T GO",
-      "url": "https://open.spotify.com/track/27yUP9TuKvq79adnq0jjAL"
+      "duration_ms": 129000,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Singin in the Shower",
+        "url": "https://open.spotify.com/album/0fArp40eDK8mUK8p7YMuoF"
+      },
+      "artists": [
+        {
+          "name": "Jae Zole",
+          "url": "https://open.spotify.com/artist/5EEohu8udCMKstAlCYm3Xa"
+        }
+      ],
+      "duration_ms": 152043,
+      "name": "Singin in the Shower",
+      "url": "https://open.spotify.com/track/3VBLOSjxwxpr5pp6vpd95q"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "ILYSM",
+        "url": "https://open.spotify.com/album/3MnWd2qQ1TnZ7eJx80LQRY"
+      },
+      "artists": [
+        {
+          "name": "The Adoni",
+          "url": "https://open.spotify.com/artist/2FE0a7TnyZHfLjcWqTdnBK"
+        },
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "ILYSM",
+      "url": "https://open.spotify.com/track/6g5YTzEAhClnTivb4x6iBR"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "age tape 8",
+        "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "mr. sunshine",
+      "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -133,52 +257,20 @@
       "url": "https://open.spotify.com/track/6LY60TJtxLNbsBtwUKRaxo"
     },
     {
-      "added_at": "2023-03-17 18:35:13",
+      "added_at": "2023-03-09 19:53:35",
       "album": {
-        "name": "FREAK",
-        "url": "https://open.spotify.com/album/4RuPOV6asu5LZi73gPhgLo"
+        "name": "MOTTO",
+        "url": "https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE"
       },
       "artists": [
         {
-          "name": "COTIS",
-          "url": "https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 178536,
-      "name": "FREAK",
-      "url": "https://open.spotify.com/track/1ruk2OKHi2tmcEPtUvnAt8"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "age tape 8",
-        "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "mr. sunshine",
-      "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Hazel Eyes",
-        "url": "https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2"
-      },
-      "artists": [
-        {
-          "name": "Ollie",
-          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
-        }
-      ],
-      "duration_ms": 138282,
-      "name": "Hazel Eyes",
-      "url": "https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY"
+      "duration_ms": 217271,
+      "name": "MOTTO",
+      "url": "https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -195,6 +287,26 @@
       "duration_ms": 186947,
       "name": "PISCES",
       "url": "https://open.spotify.com/track/0s5kJR8k8ZmsHRMnk61APm"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "DON'T GO",
+        "url": "https://open.spotify.com/album/3tOS1tlJPl6F539lKeslAq"
+      },
+      "artists": [
+        {
+          "name": "Kayps",
+          "url": "https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx"
+        },
+        {
+          "name": "Calvin Bennett",
+          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+        }
+      ],
+      "duration_ms": 118073,
+      "name": "DON'T GO",
+      "url": "https://open.spotify.com/track/27yUP9TuKvq79adnq0jjAL"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -217,28 +329,20 @@
       "url": "https://open.spotify.com/track/0AkjMC7s58FVDm9u2ZED0U"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-03-17 18:35:13",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS"
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/4RuPOV6asu5LZi73gPhgLo"
       },
       "artists": [
         {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        },
-        {
-          "name": "4Korners",
-          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+          "name": "COTIS",
+          "url": "https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8"
+      "duration_ms": 178536,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/1ruk2OKHi2tmcEPtUvnAt8"
     },
     {
       "added_at": "2023-03-03 05:00:00",

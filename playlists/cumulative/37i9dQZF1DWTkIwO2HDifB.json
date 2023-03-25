@@ -3761,6 +3761,68 @@
     },
     {
       "album": {
+        "name": "Ningu\u00e9m T\u00e1 Puro!",
+        "url": "https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        },
+        {
+          "name": "Dj Nene",
+          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "Prod Vida",
+          "url": "https://open.spotify.com/artist/4gTiRC9Bb7LueE4iTXDy2z"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520677,
+      "name": "T\u00e1 Facin",
+      "url": "https://open.spotify.com/track/454nbk64HIJEeHqPbzj7KM"
+    },
+    {
+      "album": {
         "name": "Um Sabad\u00e3o Desse Uma Lua Dessa",
         "url": "https://open.spotify.com/album/7ls4HmTtzhFIIlDj73TTA0"
       },
@@ -4004,7 +4066,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 298666,
       "name": "Zero Amor (feat. MC Tuto, DJ Glenner)",
       "url": "https://open.spotify.com/track/1lDyYAzt18bbDVbhAmd7US"

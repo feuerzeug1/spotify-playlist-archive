@@ -4,7 +4,7 @@
 
 > The best alternative rock tracks right now.
 
-331 songs - 19 hr 14 min
+334 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 | 2023-03-02 | 2023-03-11 |
 | [Bash Out](https://open.spotify.com/track/1eEi76zQSIuNYTw2Zc62ZO) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Bash Out](https://open.spotify.com/album/1PpJI2AhT8IXSOmI98YF4d) | 3:00 | 2022-04-21 | 2022-10-01 |
 | [Battlefield](https://open.spotify.com/track/3iMTJzVlT3yky8R8ynOqSK) | [Stare At The Sun](https://open.spotify.com/artist/2rvPQSpwqCXNxixP6I6BYi) | [Battlefield](https://open.spotify.com/album/7hj2LiJvvRZrvwhSWWzVMx) | 4:30 | 2022-04-28 | 2022-07-09 |
-| [Beauty and Grace](https://open.spotify.com/track/3EpMDkSTWJaP7QCoqkKbSn) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:09 | 2022-10-28 |  |
+| [Beauty and Grace](https://open.spotify.com/track/3EpMDkSTWJaP7QCoqkKbSn) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:09 | 2022-10-28 | 2023-03-25 |
 | [Beauty Salons](https://open.spotify.com/track/0AyrAZDGwV8UCRrlYz5wIH) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Beauty Salons](https://open.spotify.com/album/3cjhshhb6qXbX8mxiEVGYW) | 4:39 | 2022-05-26 | 2022-06-17 |
 | [belly aching beast \(feat\. Jamie Lenman\)](https://open.spotify.com/track/0z0SfVwuiI26AnrnDZNrto) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx), [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [belly aching beast \(feat\. Jamie Lenman\)](https://open.spotify.com/album/4uSJH3tbQHpYMCi9x599Hq) | 3:22 | 2022-02-10 | 2022-04-22 |
 | [Better Friend](https://open.spotify.com/track/6KfQ8vcjvMH87mrD96WFSC) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Better Friend](https://open.spotify.com/album/75XZVRTJTmmVIpicxZLRuL) | 4:17 | 2022-02-24 | 2022-07-01 |
@@ -98,6 +98,7 @@
 | [Digital Atlas](https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Digital Atlas](https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8) | 3:02 | 2022-02-03 | 2022-06-10 |
 | [Disgusting](https://open.spotify.com/track/37DRi2hcNwEhlT0jEnyLAX) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Disgusting](https://open.spotify.com/album/6AfbbjvJ5clKLalUyNZ4Dv) | 3:09 | 2022-06-16 | 2022-08-13 |
 | [Dive](https://open.spotify.com/track/0ToSPOjmd4sl1ABWa3nEvl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Dive](https://open.spotify.com/album/7F0bAW23xFNyiFeC3OKJd8) | 3:35 | 2022-01-20 | 2022-02-25 |
+| [Done](https://open.spotify.com/track/6Wc4I7yrNbhW7DYL7WD8AY) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY) | 2:47 | 2023-03-24 |  |
 | [Down4ever](https://open.spotify.com/track/6wTgRF97V3ewzivhYSVBGL) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Down4ever](https://open.spotify.com/album/3L6Nyy6vDuIuUxZ75BI6f0) | 3:27 | 2021-12-16 | 2022-01-07 |
 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 | 2022-11-04 |  |
 | [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 | 2021-12-16 | 2022-05-27 |
@@ -111,6 +112,7 @@
 | [Fall From Grace](https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Fall From Grace](https://open.spotify.com/album/5hdLUzCRY0TJ9tEzVWtjuG) | 3:48 | 2021-12-16 | 2022-04-29 |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2021-12-16 | 2022-03-04 |
 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 | 2022-10-28 | 2023-01-28 |
+| [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 | 2023-03-24 |  |
 | [Flowers for Handcuffs](https://open.spotify.com/track/3jm9aU4VMaweWv0Z8qigRO) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Flowers for Handcuffs](https://open.spotify.com/album/7EAnHOl4iSzdrU9CJ7sW4n) | 2:53 | 2023-03-17 |  |
 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 | 2022-10-21 | 2023-03-11 |
 | [Front Line](https://open.spotify.com/track/5Vj0T5H3DgBYeFZtfMfJTH) | [Broken Hands](https://open.spotify.com/artist/3YOhTvIIQgGkcSEXUfu7HE) | [Front Line](https://open.spotify.com/album/7sKhbFYxVkFPTjFduWSbhk) | 3:38 | 2022-06-02 | 2022-09-07 |
@@ -138,6 +140,7 @@
 | [Grow](https://open.spotify.com/track/7yIyNzFkLxacTrgR3yimJY) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Grow](https://open.spotify.com/album/6V6DhgsedKip2k52hdbf3S) | 3:47 | 2023-03-10 |  |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-03 | 2022-05-20 |
 | [Happy In Town](https://open.spotify.com/track/5L48Q15bVzwtpffvEMbUQW) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Vs\. The Moths…College Sessions 2001](https://open.spotify.com/album/3J5aHKE557cEKYng7szNHD) | 3:39 | 2022-10-28 | 2022-11-26 |
+| [Head First](https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Head First](https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7) | 3:32 | 2023-03-24 |  |
 | [Heaven Can Wait](https://open.spotify.com/track/3hwq4JBViOyfXQWbthdraz) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/6r8Jingb2f6it20MpRLApT) | 3:00 | 2022-10-21 | 2022-11-26 |
 | [Heavy Is The Ocean](https://open.spotify.com/track/4ud1E56t24ktCa6r1aGvKl) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Heavy Is The Ocean](https://open.spotify.com/album/7vsbwpZnmz2q3y15J0NViN) | 5:12 | 2022-09-22 | 2023-03-03 |
 | [Hey Sis](https://open.spotify.com/track/18BngYNbP0xadmssigycDH) | [Labradors](https://open.spotify.com/artist/4kf8k9dopDL5PK5q0ufGkG) | [Retriever](https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk) | 3:18 | 2022-01-13 | 2022-02-04 |
@@ -258,8 +261,8 @@
 | [Separate Ways](https://open.spotify.com/track/2Aj29eavK4DmnduCE8UXsA) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Separate Ways](https://open.spotify.com/album/2YYRNRiW5C1FZiET3a1UVq) | 1:57 | 2021-12-16 | 2022-04-15 |
 | [SEX DOPE GOLD](https://open.spotify.com/track/3jxOhd8XKXjNjV84USrER4) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [SEX DOPE GOLD](https://open.spotify.com/album/1eu5Cb1GTFJjTGOABSKjsI) | 2:57 | 2022-02-24 | 2022-05-27 |
 | [Show You My Pain](https://open.spotify.com/track/6hcmMf722qybIx8OoyXvQd) | [all under heaven](https://open.spotify.com/artist/0RzwdSzh3shHCYdE36Fizn) | [Split](https://open.spotify.com/album/3G7HgD4vxg04rSF1WXYTFM) | 3:51 | 2022-11-25 |  |
-| [Sick Sense](https://open.spotify.com/track/40IJY0iAD4811y5IpurcgI) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sick Sense](https://open.spotify.com/album/1tc5s64PT6zqHnW5TvPhu0) | 3:32 | 2022-11-04 |  |
-| [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 | 2023-02-02 |  |
+| [Sick Sense](https://open.spotify.com/track/40IJY0iAD4811y5IpurcgI) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sick Sense](https://open.spotify.com/album/1tc5s64PT6zqHnW5TvPhu0) | 3:32 | 2022-11-04 | 2023-03-25 |
+| [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 | 2023-02-02 | 2023-03-25 |
 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 | 2022-12-15 | 2023-03-18 |
 | [Something Good](https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Something Good](https://open.spotify.com/album/5TXmQygkvgmQyWOZbAaZuq) | 3:45 | 2023-03-17 |  |
 | [Spell](https://open.spotify.com/track/4Un8vcXds1r5WuRknRlycI) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6FWVzZ70IkIbYjySKrThTI) | 3:37 | 2022-11-04 | 2022-11-26 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Margo Price & Sierra Ferrell",
+  "description": "A new shade of Country. Cover: Lukas Nelson",
   "name": "Indigo",
   "tracks": [
     {
@@ -404,6 +404,28 @@
       "duration_ms": 200606,
       "name": "Amen",
       "url": "https://open.spotify.com/track/4skc2S8hoeseOxPWtqCl6k"
+    },
+    {
+      "album": {
+        "name": "bon aqua EP",
+        "url": "https://open.spotify.com/album/782C6iLDAvYgAjJfd6YmSA"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195346,
+      "name": "American Gothic (feat. Hailey Whitters)",
+      "url": "https://open.spotify.com/track/72vF5ESZ9UJEpVZkXNN8FL"
     },
     {
       "album": {
@@ -1204,10 +1226,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 169279,
       "name": "Caught Me at a Good Time",
       "url": "https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI"
+    },
+    {
+      "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "Celebrants",
+      "url": "https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq"
     },
     {
       "album": {
@@ -1838,7 +1878,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 193573,
       "name": "Dishes Ain't Done",
       "url": "https://open.spotify.com/track/5lxv6M8r1PW1r2f0nxZIRG"
@@ -2024,6 +2064,24 @@
       "duration_ms": 196200,
       "name": "Drivin' My Life Away",
       "url": "https://open.spotify.com/track/0ijdFzcMMkyr5FP73daA0Q"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182015,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ"
     },
     {
       "album": {
@@ -2316,7 +2374,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 285866,
       "name": "Forged In Hell And Heaven Sent",
       "url": "https://open.spotify.com/track/4YzjGUn7KgL2w5d89DeIV0"
@@ -2946,7 +3004,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 257545,
       "name": "Hell Bent on Hard Times",
       "url": "https://open.spotify.com/track/4GdwUIEyaELYfl5AxegcR0"
@@ -3204,6 +3262,24 @@
       "duration_ms": 203346,
       "name": "Honey on My Tongue",
       "url": "https://open.spotify.com/track/3gyGu4q61wFw4gSPBkkU1P"
+    },
+    {
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/1Eh2GN0KEBgCrMCDaTcAfQ"
+      },
+      "artists": [
+        {
+          "name": "Rob Baird",
+          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218706,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/3Wrbf7Ecb7wDL5nS7L9HL0"
     },
     {
       "album": {
@@ -4601,6 +4677,28 @@
     },
     {
       "album": {
+        "name": "More Than Friends (feat. Lainey Wilson)",
+        "url": "https://open.spotify.com/album/0aJOXNP0MBlCLrhJF61Igw"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "More Than Friends (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/0ux8xs7l9rh1Hr8SgExguM"
+    },
+    {
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -5150,7 +5248,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 279026,
       "name": "Pipeliner",
       "url": "https://open.spotify.com/track/4CoT2SH4LmAouvTnBgLi4w"

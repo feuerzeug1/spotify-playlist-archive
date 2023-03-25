@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,165 likes - 64 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,405 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 20 | [Anemos eisai](https://open.spotify.com/track/66beesQRvXONR3HTw5ofim) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj), [Glykeria](https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f) | [The Art of the Greek Bouzouki](https://open.spotify.com/album/17QhFoIxLEwfZeOpWDAZ9p) | 3:24 |
 | 21 | [Oi Handres \(Oi Thalassies Sou Oi Handres\) \- Instrumental](https://open.spotify.com/track/1jqaiJk82MfUgTty69C3UB) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I), [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Hilies Vradies Me Ton Mimi Plessa](https://open.spotify.com/album/7FOw9LHgjX1bNzHgMio8Ko) | 2:34 |
 | 22 | [Prosopa Byzantina](https://open.spotify.com/track/3Bx2MZ5n7TsrRKVK0HkLnc) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [Best Greek Songs](https://open.spotify.com/album/1MttZ0N5RZSycoc017Frud) | 4:05 |
-| 23 | [Geia Sas Triantafilla](https://open.spotify.com/track/0zmLoraof2pdilDFhrmRQP) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [Best Greek Songs](https://open.spotify.com/album/1MttZ0N5RZSycoc017Frud) | 2:51 |
+| 23 | [Geia Sas Triantafilla](https://open.spotify.com/track/5m3Q7mzNLLhdbb70Z9hKQL) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj), [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Best Greek Songs](https://open.spotify.com/album/5B0DFlIDyhHk7v5p24Omqi) | 2:51 |
 | 24 | [Ta teichi](https://open.spotify.com/track/19wGZ8XA8SRPBBhfHyHJBD) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj), [Glykeria](https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f) | [The Art of the Greek Bouzouki](https://open.spotify.com/album/17QhFoIxLEwfZeOpWDAZ9p) | 3:26 |
 | 25 | [Secret Place](https://open.spotify.com/track/1ihJXHcO48hhCzeQdZc7QM) | [Michalis Koumbios](https://open.spotify.com/artist/5DckhqA7dsg4K6d2Upjdfi), [Dimitris Margiolas](https://open.spotify.com/artist/6g43xE3LhDTCIP6jayf8cS), [Yiotis Samaras](https://open.spotify.com/artist/3440NOtmTDbNo93XuYpsbZ), [Dimosthenis Polymeris](https://open.spotify.com/artist/6H4M0sJ55wxPmcP9ffZzXj) | [Secret Place](https://open.spotify.com/album/7esnM2uLjbdiKFuMxBRCIt) | 4:08 |
 | 26 | [Sirtaki](https://open.spotify.com/track/2nXzTqDYJvQzhnQ7o1rpcT) | [Bouzouki\-Ensemble Bilek\-Nejez](https://open.spotify.com/artist/68TCdVaOerUB8vIJPM6DYC), [Das Orchester Claudius Alzner](https://open.spotify.com/artist/6I2aGcVSEwlTpVJTZN64EY) | [Bouzouki\-Klänge](https://open.spotify.com/album/0KxGXgtoDdkzhXUz5YdAZR) | 2:34 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 63 | [Flying Like an Eagle](https://open.spotify.com/track/6OAFG0apABNxxKqnLY6f3r) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I) | [Bouzouki Romance](https://open.spotify.com/album/08Fx0aUzgSgpBjMqU6xejf) | 3:04 |
 | 64 | [Vaporaki Tou Bournova](https://open.spotify.com/track/5rO6xnNsOqzSbJzi08OxaY) | [Manos Loizos](https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4) | [Roots Of Greek Music Vol\. 7: Manos Loizos](https://open.spotify.com/album/3Y087ASNJZrWEkgXMrAuAO) | 2:34 |
 
-Snapshot ID: `MTY2MTg2Njg2NCwwMDAwMDAwMGRlY2RjMGUxMWRkYjA1ZjhmMjYyZWQ4OGQ4NjAwY2E5`
+Snapshot ID: `MTY2MTg2Njg2NCwwMDAwMDAwMDUyMWE5YmFkNzU5YzYxOWY4YzI5Y2Q4MGY3OWRhN2I1`

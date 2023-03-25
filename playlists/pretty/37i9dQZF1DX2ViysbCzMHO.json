@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 117477,
+  "num_followers": 117699,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk3MTQ1NywwMDAwMDAwMDk3OTdhNjRhZDYzNjk1NDM4MDQ1ZmYxM2JmMDk3ZGZj",
+  "snapshot_id": "MTY3ODk3MTQ1NywwMDAwMDAwMDI0MDE4YTc4MjZhMDIyYzdmNzFjMGIzMzY4NjMwYTQ2",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Truth About You (Piano Version)",
-        "url": "https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 205663,
-      "name": "Truth About You - Piano Version",
-      "url": "https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Steady Heart (Wedding Version)",
         "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 210555,
       "name": "Steady Heart - Wedding Version",
       "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Truth About You (Piano Version)",
+        "url": "https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 205663,
+      "name": "Truth About You - Piano Version",
+      "url": "https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1025,6 +1025,22 @@
       "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
     },
     {
+      "added_at": "2023-03-25 01:14:27",
+      "album": {
+        "name": "A Special Place (Acoustic)",
+        "url": "https://open.spotify.com/album/2e6ZHZ1LMzlh0vwpC35NGh"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "A Special Place - Acoustic",
+      "url": "https://open.spotify.com/track/0d8gLQvm05n2DR2FdUdPYU"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "I Can Tell You're Small Town (The Back Home Version)",
@@ -1055,22 +1071,6 @@
       "duration_ms": 162632,
       "name": "Handful - Acoustic",
       "url": "https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4"
-    },
-    {
-      "added_at": "2023-03-23 01:17:16",
-      "album": {
-        "name": "A Special Place (Acoustic)",
-        "url": "https://open.spotify.com/album/2e6ZHZ1LMzlh0vwpC35NGh"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "A Special Place - Acoustic",
-      "url": "https://open.spotify.com/track/0d8gLQvm05n2DR2FdUdPYU"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
-      },
-      "artists": [
-        {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
-        }
-      ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Forever and Always (Acoustic)",
         "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 190190,
       "name": "Forever and Always (Acoustic)",
       "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
+      },
+      "artists": [
+        {
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+        }
+      ],
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2023-03-03 05:00:00",

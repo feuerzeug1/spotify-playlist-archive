@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Ice Cold (Edit)",
+        "url": "https://open.spotify.com/album/2u4FuqEou1UvGSVzRw3jwh"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263199,
+      "name": "Ice Cold - Edit",
+      "url": "https://open.spotify.com/track/5iQlCoBbKrjc3Ka6ouHsT3"
+    },
+    {
+      "album": {
         "name": "In The Bleak Midwinter",
         "url": "https://open.spotify.com/album/0frtwhJ0tufQdIjAA8u36v"
       },
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 469000,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/57szAdxfyg37GXI3t4ECgr"
@@ -1350,6 +1368,32 @@
       "duration_ms": 682922,
       "name": "Marionette",
       "url": "https://open.spotify.com/track/0LG0XwV3KdCgHsGrqN1u4u"
+    },
+    {
+      "album": {
+        "name": "Mars Masala (Moritz Sachse Remix)",
+        "url": "https://open.spotify.com/album/4iOgfevJBkNGZzPyhlZCB4"
+      },
+      "artists": [
+        {
+          "name": "Oriom",
+          "url": "https://open.spotify.com/artist/4XMpjogKcdhSarFU37oOTJ"
+        },
+        {
+          "name": "Moritz Sachse",
+          "url": "https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3"
+        },
+        {
+          "name": "Rainer von Vielen",
+          "url": "https://open.spotify.com/artist/0petyM8xk2x1AtSNt76C2F"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393694,
+      "name": "Mars Masala (Moritz Sachse Remix)",
+      "url": "https://open.spotify.com/track/5UCPNmaDwzXg6KT8rdbkg9"
     },
     {
       "album": {
@@ -2206,7 +2250,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 511144,
       "name": "This Is a Dream",
       "url": "https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN"

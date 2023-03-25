@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 113770,
       "name": "41 Ways",
       "url": "https://open.spotify.com/track/2CK4ghZI4xyk9bSX9ru6r8"
@@ -328,6 +328,46 @@
       "duration_ms": 206768,
       "name": "6 Years In Hell",
       "url": "https://open.spotify.com/track/2cLPx8lCksR5I4aQ358lWu"
+    },
+    {
+      "album": {
+        "name": "850 (We On Top) [feat. Rich The Kid]",
+        "url": "https://open.spotify.com/album/0Ow1LzDAS3hCPzGNK9TeOT"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219041,
+      "name": "850 (We On Top) [feat. Rich The Kid]",
+      "url": "https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l"
+    },
+    {
+      "album": {
+        "name": "Above Water",
+        "url": "https://open.spotify.com/album/0ek3Mj5Ptxr1ens0OlhYnx"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Above Water",
+      "url": "https://open.spotify.com/track/1CukLFTHUU14jP0aCImrgs"
     },
     {
       "album": {
@@ -732,7 +772,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 128227,
       "name": "Back Out The Knocks",
       "url": "https://open.spotify.com/track/2vB9wFBldFEBvGPWwYmjrY"
@@ -1918,7 +1958,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 229898,
       "name": "Coal",
       "url": "https://open.spotify.com/track/6C8QkuZhwVknE18TvGD0iR"
@@ -2668,10 +2708,36 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 131052,
       "name": "Don't Play With It (feat. Billy B)",
       "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
+    },
+    {
+      "album": {
+        "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
+        "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
+      "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
     },
     {
       "album": {
@@ -3316,7 +3382,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 130815,
       "name": "Finish What I Started",
       "url": "https://open.spotify.com/track/3ieq9vKcbv9tuxqDBnab7x"
@@ -3829,6 +3895,24 @@
     },
     {
       "album": {
+        "name": "giftbag",
+        "url": "https://open.spotify.com/album/4GPhMblkfeLwJkTXDxaYBx"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "giftbag",
+      "url": "https://open.spotify.com/track/1xi2Knd4pP48wp0Jxy5Frk"
+    },
+    {
+      "album": {
         "name": "Girls Love Rod Wave",
         "url": "https://open.spotify.com/album/7w1Dblp8TZl0JiU1OUGzkF"
       },
@@ -4267,6 +4351,28 @@
     },
     {
       "album": {
+        "name": "To See A Sunset",
+        "url": "https://open.spotify.com/album/5rJ8SJ38ask8SN4ftwxvWS"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184847,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/03gTp2zMOTL36xDsfzgJlh"
+    },
+    {
+      "album": {
         "name": "Highlife",
         "url": "https://open.spotify.com/album/3ougtWVAzlkKT3hc1xajmy"
       },
@@ -4680,6 +4786,28 @@
       "duration_ms": 148800,
       "name": "I'm Back",
       "url": "https://open.spotify.com/track/2DNWgFBDphkRVpMMxGfInW"
+    },
+    {
+      "album": {
+        "name": "I'M THAT BITCH",
+        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152043,
+      "name": "I'M THAT BITCH",
+      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
       "album": {
@@ -5584,7 +5712,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 143423,
       "name": "Lil Mama",
       "url": "https://open.spotify.com/track/7CBUbrYdluuTZZvZAhJgXr"
@@ -5780,6 +5908,24 @@
       "duration_ms": 120424,
       "name": "Loyalty (feat. Internet Money)",
       "url": "https://open.spotify.com/track/7uvCi4BwD5xr0hkMNoEH2n"
+    },
+    {
+      "album": {
+        "name": "Luv 4 My Block",
+        "url": "https://open.spotify.com/album/6HV4YhvKzdeFJaHKaIB594"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81515,
+      "name": "Luv 4 My Block",
+      "url": "https://open.spotify.com/track/7M1kT1qfYZjE8L2Bik8eUO"
     },
     {
       "album": {
@@ -6456,10 +6602,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 101772,
       "name": "Move",
       "url": "https://open.spotify.com/track/5Md91V0JrdjpfjyCTk3u10"
+    },
+    {
+      "album": {
+        "name": "Move (Remix)",
+        "url": "https://open.spotify.com/album/2auMLHZt7nKNinSmNHZC7i"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        },
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170370,
+      "name": "Move (Remix) (with KenTheMan)",
+      "url": "https://open.spotify.com/track/4ZB1XkV5RBj7fGcPfNCRDb"
     },
     {
       "album": {
@@ -7381,6 +7549,32 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3c8EDoT5199n5XXwfgp3v4"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Flee Lord",
+          "url": "https://open.spotify.com/artist/3I6neO2jiyMa8arh6JBe7e"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111325,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2PDuJhsbXd88akE6VejIFK"
+    },
+    {
+      "album": {
         "name": "Baby Goat 2",
         "url": "https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC"
       },
@@ -7550,7 +7744,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 133000,
       "name": "Park Bench Blues (feat. Curren$y)",
       "url": "https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z"
@@ -8816,7 +9010,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 205753,
       "name": "SAILS",
       "url": "https://open.spotify.com/track/3gC5ZvWnG2yy2RTQnRRRXq"
@@ -9138,7 +9332,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 144729,
       "name": "Shittin' Me",
       "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
@@ -9773,6 +9967,24 @@
     },
     {
       "album": {
+        "name": "Studio Junkie",
+        "url": "https://open.spotify.com/album/7dgC3SvEf9lxsYhbc27Lwm"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Studio Junkie",
+      "url": "https://open.spotify.com/track/2hnijnBaiR6v7NmvYB3me2"
+    },
+    {
+      "album": {
         "name": "Sucka Free",
         "url": "https://open.spotify.com/album/2lLJMezQ0uAvmAlXwoghKl"
       },
@@ -10040,7 +10252,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 187376,
       "name": "Telfy",
       "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
@@ -10648,6 +10860,32 @@
       "duration_ms": 189544,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/2KF1l4TqQ1e6NiblLyrnWC"
+    },
+    {
+      "album": {
+        "name": "Up It",
+        "url": "https://open.spotify.com/album/3VFcPclPIxF3mQml3QDUUC"
+      },
+      "artists": [
+        {
+          "name": "Sns",
+          "url": "https://open.spotify.com/artist/7EPOTd0v6jTEzHAiJ8xANB"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211391,
+      "name": "Up It",
+      "url": "https://open.spotify.com/track/1LLdw50jSFEG7CaLQa4drf"
     },
     {
       "album": {

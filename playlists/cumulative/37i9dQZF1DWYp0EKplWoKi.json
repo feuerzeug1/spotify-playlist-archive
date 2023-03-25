@@ -2299,6 +2299,28 @@
     },
     {
       "album": {
+        "name": "The Price",
+        "url": "https://open.spotify.com/album/2qtWBDayvIN0zoXhvMp4tB"
+      },
+      "artists": [
+        {
+          "name": "Pek",
+          "url": "https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW"
+        },
+        {
+          "name": "Carlos Carrera",
+          "url": "https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126168,
+      "name": "The Price",
+      "url": "https://open.spotify.com/track/4uJ0uZ5PbRd6gSKBnRX9R0"
+    },
+    {
+      "album": {
         "name": "Tiempos de Guerra",
         "url": "https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Tash Sultana",
+  "description": "Home to all the latest indie jams. Cover: Lana Del Rey",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 433916,
       "name": "A&W",
       "url": "https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 218330,
       "name": "Big Smoke",
       "url": "https://open.spotify.com/track/66miBbiy913lgyKOCdFta0"
@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Crybaby",
+        "url": "https://open.spotify.com/album/62bB3AYc5V0GYN0FOkaIBv"
+      },
+      "artists": [
+        {
+          "name": "Babe Corner",
+          "url": "https://open.spotify.com/artist/2hfrncUgbWnDG7FE6GjXYZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203491,
+      "name": "Bone Dry Dunes",
+      "url": "https://open.spotify.com/track/4SLfGdA3n2jREi0SZA3uxx"
+    },
+    {
+      "album": {
         "name": "Bones (God Like You)",
         "url": "https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ"
       },
@@ -2114,6 +2132,24 @@
       "duration_ms": 170486,
       "name": "Boxes",
       "url": "https://open.spotify.com/track/7A4hJVgzsTzyYpbjWh22Xs"
+    },
+    {
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189624,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
     },
     {
       "album": {
@@ -2374,6 +2410,28 @@
       "duration_ms": 189021,
       "name": "can't stop me from dying",
       "url": "https://open.spotify.com/track/3SAezXTp45ZlD8XdfKvwAD"
+    },
+    {
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314520,
+      "name": "Candy Necklace (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96"
     },
     {
       "album": {
@@ -2644,7 +2702,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 216200,
       "name": "Chasing Every Sunrise",
       "url": "https://open.spotify.com/track/0Ygba8PsSx8nb6LmgXaTje"
@@ -4487,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "Eucalyptus",
+        "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Eucalyptus",
+      "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/2CecGHSHaUclrnIuJQcAEs"
       },
@@ -4516,7 +4592,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 247298,
       "name": "Evan's Song",
       "url": "https://open.spotify.com/track/0eXgHdq3q95kjk34Ue46sT"
@@ -5346,7 +5422,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 109714,
       "name": "Fish Maan",
       "url": "https://open.spotify.com/track/6osmPkzt0Ap9LA9lta3rOV"
@@ -5484,6 +5560,24 @@
       "duration_ms": 183008,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/5zH7OORpJSL6rM9JNlFhn5"
+    },
+    {
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242533,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/6sYC0737gy4Fwhjsv0Jjr2"
     },
     {
       "album": {
@@ -5860,6 +5954,24 @@
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "album": {
+        "name": "Get There, Stay There",
+        "url": "https://open.spotify.com/album/33v4SjpdfOBAstkXuPVChZ"
+      },
+      "artists": [
+        {
+          "name": "Cody Lawless",
+          "url": "https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Get There, Stay There",
+      "url": "https://open.spotify.com/track/17jqTMvxl2i51Lo4g6zDVV"
     },
     {
       "album": {
@@ -7054,7 +7166,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 255999,
       "name": "Hold My Hand, Maria",
       "url": "https://open.spotify.com/track/6FDBakYPU96AegvThCmIJT"
@@ -7672,7 +7784,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 157352,
       "name": "I Feel Alive",
       "url": "https://open.spotify.com/track/586YPMscO3EUbnlYiI7BDE"
@@ -8561,6 +8673,24 @@
     },
     {
       "album": {
+        "name": "It's The Life",
+        "url": "https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh"
+      },
+      "artists": [
+        {
+          "name": "Fleece",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157265,
+      "name": "It's The Life",
+      "url": "https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP"
+    },
+    {
+      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -9146,6 +9276,24 @@
       "duration_ms": 196985,
       "name": "L.O.V.E.",
       "url": "https://open.spotify.com/track/2YZUs2K97H9betaeKAexF8"
+    },
+    {
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "album": {
@@ -9765,6 +9913,24 @@
     },
     {
       "album": {
+        "name": "Love / Lover / Friend",
+        "url": "https://open.spotify.com/album/3okMe9vhlmt1YLKDVybYGg"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241288,
+      "name": "Love / Lover / Friend",
+      "url": "https://open.spotify.com/track/3GU9knCMGMb7ZaylfVBdKi"
+    },
+    {
+      "album": {
         "name": "Love Alone",
         "url": "https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc"
       },
@@ -9938,7 +10104,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 171563,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
@@ -10880,7 +11046,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 296000,
       "name": "New Order T-Shirt",
       "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
@@ -12164,7 +12330,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 145500,
       "name": "Pen Pal",
       "url": "https://open.spotify.com/track/6qPBfBsWoiHOclo2JmWh9q"
@@ -12846,7 +13012,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 270724,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/5w9lG6PJ2OpMzojpsvbwAz"
@@ -14389,6 +14555,24 @@
     },
     {
       "album": {
+        "name": "See You In The Dark",
+        "url": "https://open.spotify.com/album/4TtZH64f81Pv1Y7rpwqDBe"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196239,
+      "name": "Spoiled",
+      "url": "https://open.spotify.com/track/1kpLFYELP9ZawXgUd8gr8v"
+    },
+    {
+      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/4GVoIK1wXH6Tm5bOaNOkIu"
       },
@@ -15086,7 +15270,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 242186,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
@@ -15342,6 +15526,24 @@
       "duration_ms": 214306,
       "name": "The Flow",
       "url": "https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW"
+    },
+    {
+      "album": {
+        "name": "The Leash",
+        "url": "https://open.spotify.com/album/5D6d0Wvf10kBGqhf4kHzsz"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252116,
+      "name": "The Leash",
+      "url": "https://open.spotify.com/track/19xJaRGgOTrrQ7f75MaSkL"
     },
     {
       "album": {
@@ -15960,6 +16162,24 @@
       "duration_ms": 211782,
       "name": "To Be Yours (feat. Claud)",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
+    },
+    {
+      "album": {
+        "name": "Ugly Duck",
+        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "To be, or not to be ugly",
+      "url": "https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQzOTYwMCwwMDAwMDAwMGRkNzRhNTZiMTBhMjdkNjY0MWY2NWU3ZWU2OTc0OTQ3",
+  "snapshot_id": "MTY3OTQzOTYwMCwwMDAwMDAwMGU5MTM2MjYwZDJhMjk5MTZlODM3ZGZiOTY1ZjE5MTg5",
   "tracks": [
     {
       "added_at": "2023-03-21 23:00:00",
@@ -1090,6 +1090,10 @@
         {
           "name": "emxs",
           "url": "https://open.spotify.com/artist/4jVLEMYFTbRudXI8gpqICo"
+        },
+        {
+          "name": "thxufilip",
+          "url": "https://open.spotify.com/artist/79uNI60TNeNlbEq2MdpW9k"
         }
       ],
       "duration_ms": 147096,

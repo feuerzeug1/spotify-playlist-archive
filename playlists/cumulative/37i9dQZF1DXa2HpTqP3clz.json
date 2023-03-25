@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 174773,
       "name": "95 Years",
       "url": "https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 160525,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
@@ -3636,6 +3636,36 @@
       "duration_ms": 175466,
       "name": "John",
       "url": "https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC"
+    },
+    {
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/7vSASd5xie3NUfDWAdJMfc"
+      },
+      "artists": [
+        {
+          "name": "Darin and Brooke Aldridge",
+          "url": "https://open.spotify.com/artist/5pwpynH9ZDP8ECECyMJFHK"
+        },
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        },
+        {
+          "name": "Mo Pitney",
+          "url": "https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4"
+        },
+        {
+          "name": "Mark Fain",
+          "url": "https://open.spotify.com/artist/3JpM4U00RW9t6VpO6MjynL"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/45osKkEZgBHKbd9jnRFKuD"
     },
     {
       "album": {
@@ -5361,6 +5391,24 @@
     },
     {
       "album": {
+        "name": "Red Rover",
+        "url": "https://open.spotify.com/album/32LXjaeenISmZ6jApB2pWo"
+      },
+      "artists": [
+        {
+          "name": "Audie Blaylock And Redline",
+          "url": "https://open.spotify.com/artist/5xoZDpcQBBLYi0w6Ws1trQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239386,
+      "name": "Red Rover",
+      "url": "https://open.spotify.com/track/3hq3IOrCMcAmLV4CeaC8tp"
+    },
+    {
+      "album": {
         "name": "Remy's Breakdown",
         "url": "https://open.spotify.com/album/1Tg47iUBdgqGfB6Pcp0MGE"
       },
@@ -6006,7 +6054,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 248712,
       "name": "Squirrel Hunters",
       "url": "https://open.spotify.com/track/5Tu8iwoMgiz3MQJui9OFt9"
@@ -7417,6 +7465,24 @@
     },
     {
       "album": {
+        "name": "What the Years Do",
+        "url": "https://open.spotify.com/album/3XU0wy0OBrqc3ewwtV1K5T"
+      },
+      "artists": [
+        {
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "What the Years Do",
+      "url": "https://open.spotify.com/track/460M2nfu0pI3JpGfT3CWdB"
+    },
+    {
+      "album": {
         "name": "What's It Gonna Take",
         "url": "https://open.spotify.com/album/2KB4XKjxrDHZVR44CNkeJQ"
       },
@@ -7588,6 +7654,24 @@
       "duration_ms": 269464,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/5JT3ZBXUwNxdoWkeF2Ygv8"
+    },
+    {
+      "album": {
+        "name": "Where the Long Line Leads",
+        "url": "https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204618,
+      "name": "Where the Long Line Leads",
+      "url": "https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c"
     },
     {
       "album": {

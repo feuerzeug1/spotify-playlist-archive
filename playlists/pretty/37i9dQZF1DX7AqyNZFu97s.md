@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Pat Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,512 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,521 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [This House](https://open.spotify.com/track/65xFN1n2mZaOfDpMFJKC1q) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [This House](https://open.spotify.com/album/1injOfpCewnPrD2g6DbqEd) | 3:41 |
 | 80 | [Kimbo](https://open.spotify.com/track/5LOYEyu49C5PSyzVKSiqTM) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Kimbo](https://open.spotify.com/album/25x3ck5y5bFbAAQjWe9xIn) | 3:54 |
 
-Snapshot ID: `MTY3OTQ4NDEwOCwwMDAwMDAwMGI4OGQ4Y2VhYzRhMmQ4MmNjZGI1ODc0MGJkYzg5ZDgw`
+Snapshot ID: `MTY3OTQ4NDEwOCwwMDAwMDAwMGVkMDc4M2M5YjRjY2E0N2Y0YjFjZjcyZGUzYzEwNDk1`

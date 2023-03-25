@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Pola & Bryson and Emily Makis",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Kings Of The Rollers & Katy B",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 262325,
       "name": "Amplify",
       "url": "https://open.spotify.com/track/3x9EZ9leJa3iwua1vfLU3b"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 215268,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
@@ -2921,6 +2921,28 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7jchd6Tg5YkJqsAsR7hyyY"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "Example",
+          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249642,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1c2aEprxW446Ht7ni3ESqL"
+    },
+    {
+      "album": {
         "name": "Gone Sleep",
         "url": "https://open.spotify.com/album/588Obmczl7A6h9SZnPjQ9a"
       },
@@ -3685,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/2hGBOvM92KXih0rp5OGFhx"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/1z0X1bUL9zQ3cwzpsIqiqT"
+    },
+    {
+      "album": {
         "name": "Kiss Kiss Bang Bang (Bou Remix)",
         "url": "https://open.spotify.com/album/5zUJMySBMqtPJYOkOW21xA"
       },
@@ -4429,6 +4469,32 @@
     },
     {
       "album": {
+        "name": "More Than Anything (feat. Emeli Sand\u00e9) [CLIPZ - Joy & Pain Remix]",
+        "url": "https://open.spotify.com/album/0VW6QBw5K7i4YbrFKgu2Mt"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227703,
+      "name": "More Than Anything (feat. Emeli Sand\u00e9) - CLIPZ - Joy & Pain Remix",
+      "url": "https://open.spotify.com/track/3y8D6SlRDuQ8hM8bd0y7TG"
+    },
+    {
+      "album": {
         "name": "Move Your Body (Hedex Remix)",
         "url": "https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo"
       },
@@ -5155,6 +5221,28 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        },
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6"
+    },
+    {
+      "album": {
         "name": "Perfect Sky",
         "url": "https://open.spotify.com/album/3vjR55iR2JVMZCrLvhOa3p"
       },
@@ -5876,7 +5964,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 232568,
       "name": "Say No More",
       "url": "https://open.spotify.com/track/3FyrVjLHV3TbmhS6QEJPsJ"
@@ -6124,7 +6212,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 193201,
       "name": "Sinner - Flava D Remix",
       "url": "https://open.spotify.com/track/00jhoNQKPTaWwi7zgvTFWd"
@@ -6803,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215327,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
+    },
+    {
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
       },
@@ -6814,7 +6920,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 266057,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
@@ -6916,7 +7022,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 241371,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0GYx2bTObKXVCAEebCaK2w"
@@ -7544,7 +7650,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213111,
       "name": "Walk Through Fire",
       "url": "https://open.spotify.com/track/6GAIFjKSUCb4ndyDwDgKsJ"

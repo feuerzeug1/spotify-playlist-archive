@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Robin Fassie Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,374 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,533 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Montana](https://open.spotify.com/track/6ct4nGTgyZEa8dV2jmLBaZ) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [Montana](https://open.spotify.com/album/3JoJEaRYQQB31ymbeNilpg) | 3:09 |
 | 75 | [Shanghai Showdown](https://open.spotify.com/track/1CCD9z1zNdfQmTIaKN7bJ8) | [Jonathan Lundberg](https://open.spotify.com/artist/6t3AHrm1phB25xs2XpST7p), [Tobias Rydberg](https://open.spotify.com/artist/6lcO1VFoGDXLJS9usR9TYL), [David Garfield](https://open.spotify.com/artist/14FmV7bOvJiUNln7cppiFa), [Calle Stålenbring](https://open.spotify.com/artist/6hCtYTKg3dVyaOk4JenJi5), [Mikael Bäck](https://open.spotify.com/artist/0V7NOsPKts1JfbzS6zWqeS) | [Shanghai Showdown](https://open.spotify.com/album/4duUoKYkYo3yiOUyQEU9uO) | 3:32 |
 
-Snapshot ID: `MTY3OTQ5MTg0MiwwMDAwMDAwMGJmMzYyMTA5ZThhZjczN2JjMGU3ODRlODgwMjFjZjVj`
+Snapshot ID: `MTY3OTQ5MTg0MiwwMDAwMDAwMGQyYTY4NzBkYzVkNGEyNTExOTQ1MzkyMDRjNzE5ZDM4`

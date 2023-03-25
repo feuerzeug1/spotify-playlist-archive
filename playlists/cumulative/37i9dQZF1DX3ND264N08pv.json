@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 233806,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
@@ -1690,6 +1690,28 @@
       "duration_ms": 211727,
       "name": "NARKOS",
       "url": "https://open.spotify.com/track/2gCNvpnuWTcV05hpFzZ1xd"
+    },
+    {
+      "album": {
+        "name": "Never Write",
+        "url": "https://open.spotify.com/album/5IkpgGQIiKIiasq06enuLo"
+      },
+      "artists": [
+        {
+          "name": "Basspunkz",
+          "url": "https://open.spotify.com/artist/2Bu4MuM7Ub40rthUcfWxdQ"
+        },
+        {
+          "name": "Darkside Unleashed",
+          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186875,
+      "name": "Never Write",
+      "url": "https://open.spotify.com/track/6CMKhTF91JWU1FckJ1pinn"
     },
     {
       "album": {

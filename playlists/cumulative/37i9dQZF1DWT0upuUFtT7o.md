@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: King Isis
 
-1,321 songs - 3 day 0 hr 37 min
+1,323 songs - 3 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Good Time](https://open.spotify.com/track/5J9H8Pzz3uCjwfgMBvvuM2) | [Leland Blue](https://open.spotify.com/artist/4TgfkZEpcjkYgRBKeqy1Mh) | [Good Time](https://open.spotify.com/album/5sjrMAgTMgB9oRQD6YLNOm) | 2:56 | 2022-02-16 | 2022-04-07 |
 | [Goodbye Forever](https://open.spotify.com/track/4z4vowAasMbKqp1t2uBCuh) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Goodbye Forever](https://open.spotify.com/album/3fFgNTJV09wygLl3iz1ETn) | 2:51 | 2022-08-31 | 2022-10-06 |
 | [Got What You Wanted](https://open.spotify.com/track/3lulXMWZo5rfXbqFKbdJ2Z) | [Cal in Red](https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1) | [Cellular](https://open.spotify.com/album/5FKHHLUMsy5b0sKG5kjkxr) | 3:57 | 2022-01-12 | 2022-02-10 |
+| [Grapevines](https://open.spotify.com/track/4BujvDe0uFwN7MC1yHuG6n) | [Rozie Ramati](https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H) | [Grapevines](https://open.spotify.com/album/5bwjTOqi9KoP98e4vTOlQl) | 2:29 | 2023-03-24 |  |
 | [Great Race](https://open.spotify.com/track/1UoCw5QpZ0LrAnSD49JQP2) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [Great Race](https://open.spotify.com/album/2hISBkwZFVsdBKoPUkVILp) | 1:35 | 2022-06-08 | 2022-07-07 |
 | [Green as Ever](https://open.spotify.com/track/1fS0DjwXoyZvKbpm04IP8H) | [Aubrey Haddard](https://open.spotify.com/artist/381YSSMDhVoPemUuyQBJSV) | [Green As Ever](https://open.spotify.com/album/57XF5YCkndNgDxJL3i25e1) | 3:54 | 2022-04-27 | 2022-06-09 |
 | [Green Demo](https://open.spotify.com/track/25dpaDA95KE9LjR0vPfQH4) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Green Demo](https://open.spotify.com/album/0rJi1VVNj4gNAMhB1ZQBzO) | 2:52 | 2022-08-10 | 2022-09-07 |
@@ -636,7 +637,7 @@
 | [Last To Leave](https://open.spotify.com/track/3o87LRrGzW9CGg40ctz3mU) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Last To Leave](https://open.spotify.com/album/4nqcPnaK7ynAZwKPGDVuAQ) | 5:06 | 2023-01-25 | 2023-02-09 |
 | [Last Year’s Model Club](https://open.spotify.com/track/0FpuPOz4BJbdapF0ExvffH) | [The Let Go](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Last Year’s Model Club](https://open.spotify.com/album/67HqD9ogSvBiB0rXRLJncY) | 3:00 | 2022-01-26 | 2022-02-23 |
 | [Late Night](https://open.spotify.com/track/0gDjVuHET02oYNubf1j6Hy) | [Milk Jennings](https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ), [Sam Cohen](https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP) | [Sleep Talker](https://open.spotify.com/album/2yB4R8IY2ff11muhNfJCp9) | 3:57 | 2022-06-08 | 2022-06-30 |
-| [Late Night Car Ride](https://open.spotify.com/track/5hmr7StK7bHkQO5dZrKtre) | [Kurupi](https://open.spotify.com/artist/0pUSqI1qNoNmKcoijEeF81), [Cam the Chef](https://open.spotify.com/artist/1089ucpwKxqO6tPog0dqkp), [Asé Simone](https://open.spotify.com/artist/3nvODxO3RDlvONI4ZliP0j), [Diani](https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD), [Cudimitsu](https://open.spotify.com/artist/0RfL7RRpwggIjW1SO38cQT) | [Late Night Car Ride](https://open.spotify.com/album/5r64hFJImHpYzX1iceLggH) | 3:08 | 2023-03-22 |  |
+| [Late Night Car Ride](https://open.spotify.com/track/5hmr7StK7bHkQO5dZrKtre) | [Kurupi](https://open.spotify.com/artist/0pUSqI1qNoNmKcoijEeF81), [Cam, the Chef](https://open.spotify.com/artist/4Hy31yhFRij69QK5gWmRUB), [Asé Simone](https://open.spotify.com/artist/3nvODxO3RDlvONI4ZliP0j), [Diani](https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD), [Cudimitsu](https://open.spotify.com/artist/0RfL7RRpwggIjW1SO38cQT) | [Late Night Car Ride](https://open.spotify.com/album/5r64hFJImHpYzX1iceLggH) | 3:08 | 2023-03-22 |  |
 | [late nite](https://open.spotify.com/track/1sYp5bkjaiSKl1aOGOu3uw) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [late nite](https://open.spotify.com/album/1srxCzpKhsARgl6XTFVVm6) | 3:16 | 2023-02-22 | 2023-03-23 |
 | [Laughter](https://open.spotify.com/track/0RxJBSsuOPkqs2tIXbAEhI) | [Savagery](https://open.spotify.com/artist/4YwTBYZnp107pGgOv3So3e) | [Laughter](https://open.spotify.com/album/1vsaSvymkMeTg9ZoSuujOa) | 3:22 | 2023-01-11 | 2023-02-16 |
 | [Lay Low](https://open.spotify.com/track/5KqLQ5ESSvIE6Qw82vgiT6) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Lay Low](https://open.spotify.com/album/06Y31oSzCPSZKYzxMkEA1Q) | 2:41 | 2022-08-10 | 2022-08-26 |
@@ -661,6 +662,7 @@
 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 | 2022-09-28 | 2022-11-10 |
 | [Liked to Party](https://open.spotify.com/track/0NYW30HgzHRpRRuBLKQjh1) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Liked to Party](https://open.spotify.com/album/7uyICxpHtV74Fiq77qfNIN) | 4:13 | 2021-12-01 | 2022-01-13 |
 | [Little Changes](https://open.spotify.com/track/6UvEGfQroiyYg82Pf7MllO) | [carego](https://open.spotify.com/artist/3kAQ9u4vBl2uVXWtUW41FR) | [Little Changes](https://open.spotify.com/album/2vU7Z5KpCofZCf3VKvg1RA) | 2:40 | 2022-08-31 | 2022-10-06 |
+| [little fingers \- demo](https://open.spotify.com/track/4kK2y1Mpfivr9gdWfh71kU) | [rockstar1000](https://open.spotify.com/artist/78isn9U2jo3LrPkq3zPYEZ) | [little fingers/lungs \(demo\)](https://open.spotify.com/album/40aWFH4lt0LIlqXc9v52Xa) | 4:19 | 2023-03-23 |  |
 | [Little Gnome](https://open.spotify.com/track/06FgvIXVfgcrqOyRLcUrSt) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Little Gnome](https://open.spotify.com/album/06OjLRIVDBmWdac93D7ZQx) | 2:14 | 2022-06-08 | 2022-06-30 |
 | [Little Insects](https://open.spotify.com/track/7r0rLsoYXGOGSuBSvDDYI8) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Little Insects](https://open.spotify.com/album/0qfbp1OgJwjIaJxboJHLos) | 2:29 | 2022-10-25 | 2022-12-01 |
 | [Little Less Tall](https://open.spotify.com/track/51kxiMiUb8UE0infn4JyEA) | [Thumber](https://open.spotify.com/artist/33AYHrFCZrHA8w7NCBZEh2) | [Little Less Tall](https://open.spotify.com/album/0XmAdXTufvNOPTU61NpjPT) | 4:44 | 2022-01-26 | 2022-02-10 |

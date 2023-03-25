@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHNixKGCLqw.md) - [plain]
 
 > Top of the top tracks in K\-Pop Daebak playlist this year! Cover: ITZY
 
-[Spotify](https://open.spotify.com/user/spotify) - 396 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 399 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHNixKGCLqw.md) - [plain]
 | 49 | [So What](https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:18 |
 | 50 | [Thumbs Up](https://open.spotify.com/track/2X1zCTkwxQRMkloiVlQ55e) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Thumbs Up](https://open.spotify.com/album/6MXn7TTeSnLuF179cWlm4F) | 3:18 |
 
-Snapshot ID: `MTY2ODA2MTkxMSwwMDAwMDAwMDFmY2QwZGE3OTIyODcyMzgxNGI5MDg3ZmM5NTg2OWMx`
+Snapshot ID: `MTY2ODA2MTkxMSwwMDAwMDAwMGE3MDFlNDdiYWRhMzg5Y2ViNjRkMGY5NjFiOTM3Zjc1`

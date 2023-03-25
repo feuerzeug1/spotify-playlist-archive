@@ -1155,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Syukujitu",
+        "url": "https://open.spotify.com/album/0UrFBt7UW7R9J7CG2L481e"
+      },
+      "artists": [
+        {
+          "name": "Michiru Aoyama",
+          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182499,
+      "name": "koime",
+      "url": "https://open.spotify.com/track/2yJ8wsGlt6CGMH05mPecu9"
+    },
+    {
+      "album": {
         "name": "Void XXI",
         "url": "https://open.spotify.com/album/2mIu9oDUCuMCdowK2ocHYt"
       },
@@ -2145,6 +2163,28 @@
     },
     {
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/1vsh8Ayq54a9N3XEXUT43e"
+      },
+      "artists": [
+        {
+          "name": "Nectry",
+          "url": "https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG"
+        },
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160104,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/2uiJtY5SHZI5dIvN7JmovH"
+    },
+    {
+      "album": {
         "name": "Silent Relief",
         "url": "https://open.spotify.com/album/0gEfQ8YiaTZCJrF9LOWXqh"
       },
@@ -2307,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/0K9P90uTgLYvq8D41LCcbY"
+      },
+      "artists": [
+        {
+          "name": "Francis Flo",
+          "url": "https://open.spotify.com/artist/1WNWDUJZnaNuOhfcoug5hJ"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/4HFsdkbBXreHBwhfdn1SuK"
+    },
+    {
+      "album": {
         "name": "Still In Orbit",
         "url": "https://open.spotify.com/album/1wfeLC1EIMoAPsgGS23UN5"
       },
@@ -2322,6 +2380,24 @@
       "duration_ms": 156892,
       "name": "Still In Orbit",
       "url": "https://open.spotify.com/track/7IlYLp9sTZ0PIesayFaVPW"
+    },
+    {
+      "album": {
+        "name": "Submerse",
+        "url": "https://open.spotify.com/album/51rKwdDlgPKoZjKUcdlFS7"
+      },
+      "artists": [
+        {
+          "name": "Andrew Land",
+          "url": "https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Submerse",
+      "url": "https://open.spotify.com/track/5xVEKVMskuh7swhSZ34s2B"
     },
     {
       "album": {

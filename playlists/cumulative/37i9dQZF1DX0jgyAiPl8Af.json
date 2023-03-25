@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 114000,
       "name": "A Night In Toledo",
       "url": "https://open.spotify.com/track/7cYXSwHo30ebsnyGRMgwkh"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 147458,
       "name": "Amarilla",
       "url": "https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq"
@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Beautiful symbol",
+        "url": "https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ"
+      },
+      "artists": [
+        {
+          "name": "Zinning",
+          "url": "https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139011,
+      "name": "Beautiful symbol",
+      "url": "https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT"
+    },
+    {
+      "album": {
         "name": "Beber",
         "url": "https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km"
       },
@@ -964,6 +982,24 @@
       "duration_ms": 184777,
       "name": "bom futuro",
       "url": "https://open.spotify.com/track/77o3LZmP63pViKY4fPFeqF"
+    },
+    {
+      "album": {
+        "name": "Bonheur",
+        "url": "https://open.spotify.com/album/2G0OxirfcDmVCGYjeh6WOs"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134958,
+      "name": "Bonheur",
+      "url": "https://open.spotify.com/track/3eB5sR72EmZxK05v7vPZII"
     },
     {
       "album": {
@@ -2415,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Dreams Forever",
+        "url": "https://open.spotify.com/album/5yfv3WJqhIjuYo0HxGpxVZ"
+      },
+      "artists": [
+        {
+          "name": "Remy Simon",
+          "url": "https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138028,
+      "name": "Dreams Forever",
+      "url": "https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5"
+    },
+    {
+      "album": {
         "name": "Droplets",
         "url": "https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt"
       },
@@ -2552,7 +2606,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 168196,
       "name": "El Viaje",
       "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
@@ -3118,6 +3172,24 @@
       "duration_ms": 195750,
       "name": "Footsteps In Palermo",
       "url": "https://open.spotify.com/track/2fQ3bSiaQNeSn7ZoCHGfNJ"
+    },
+    {
+      "album": {
+        "name": "For Me & You",
+        "url": "https://open.spotify.com/album/2I0en39qwIl6RW1l37H9gJ"
+      },
+      "artists": [
+        {
+          "name": "K.C Brown",
+          "url": "https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139346,
+      "name": "For Me & You",
+      "url": "https://open.spotify.com/track/4dnC5VgcrkUn4INXveBDPo"
     },
     {
       "album": {
@@ -3733,6 +3805,24 @@
     },
     {
       "album": {
+        "name": "Hugsanir",
+        "url": "https://open.spotify.com/album/4SaiGm2h3DkUXZUj0hqQrx"
+      },
+      "artists": [
+        {
+          "name": "Aiday Ainur",
+          "url": "https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192656,
+      "name": "Hugsanir",
+      "url": "https://open.spotify.com/track/7cD1uV5Bzk1TEaPr9mqVt1"
+    },
+    {
+      "album": {
         "name": "Hymne",
         "url": "https://open.spotify.com/album/4PFGZmjWndtIukc9wFVC2W"
       },
@@ -4000,6 +4090,24 @@
       "duration_ms": 187530,
       "name": "In vino veritas",
       "url": "https://open.spotify.com/track/6BjN3um3X3aF0xI0i29NY1"
+    },
+    {
+      "album": {
+        "name": "Inamorata",
+        "url": "https://open.spotify.com/album/3bCmccXAf7WgYZf6Gm8ZYa"
+      },
+      "artists": [
+        {
+          "name": "Hugh Blake",
+          "url": "https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149019,
+      "name": "Inamorata",
+      "url": "https://open.spotify.com/track/6o3KXEq44ThRSknUDcIXAT"
     },
     {
       "album": {
@@ -4511,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "Lagoa do Fogo",
+        "url": "https://open.spotify.com/album/09OR2Jo6jK0KxEzTpz74ww"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170033,
+      "name": "Lagoa do Fogo",
+      "url": "https://open.spotify.com/track/7rYXdXdtCSLjmZzecpXkgg"
+    },
+    {
+      "album": {
         "name": "Romance d'amour",
         "url": "https://open.spotify.com/album/20eQWEKfXxNTeFl34aKtmr"
       },
@@ -4598,10 +4724,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 125354,
       "name": "Lament",
       "url": "https://open.spotify.com/track/2nWtdrqmtLyAXJ2agJ5ufb"
+    },
+    {
+      "album": {
+        "name": "Wunder der Welt",
+        "url": "https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Lange Reise",
+      "url": "https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM"
     },
     {
       "album": {
@@ -4724,7 +4868,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 131722,
       "name": "Left Unsaid",
       "url": "https://open.spotify.com/track/70kfWgQvwouRNgxush5oEv"
@@ -5660,7 +5804,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 129765,
       "name": "Moondust",
       "url": "https://open.spotify.com/track/4f4IeJgCi2IVwmjqbDzDON"
@@ -5772,6 +5916,24 @@
       "duration_ms": 201839,
       "name": "My Bluesette Waltz",
       "url": "https://open.spotify.com/track/0OLstxDHvuG3oSnswAgM1t"
+    },
+    {
+      "album": {
+        "name": "My Garden",
+        "url": "https://open.spotify.com/album/2ljfPFQH7EvfBR8jLnzav8"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177739,
+      "name": "My Garden",
+      "url": "https://open.spotify.com/track/7uOpfxCTtdbhWcbq6kzjMH"
     },
     {
       "album": {
@@ -6182,7 +6344,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 185368,
       "name": "Nowhere Else",
       "url": "https://open.spotify.com/track/63dPaneJgIQRJ7pBFfBUYQ"
@@ -7071,6 +7233,24 @@
     },
     {
       "album": {
+        "name": "Repos profond",
+        "url": "https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp"
+      },
+      "artists": [
+        {
+          "name": "Pascal Desprez",
+          "url": "https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164426,
+      "name": "Repos profond",
+      "url": "https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN"
+    },
+    {
+      "album": {
         "name": "Rest Sea",
         "url": "https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq"
       },
@@ -7413,6 +7593,24 @@
     },
     {
       "album": {
+        "name": "Santa Fiora",
+        "url": "https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121168,
+      "name": "Santa Fiora",
+      "url": "https://open.spotify.com/track/48j6ZrDM8WaO8plMxxc4CO"
+    },
+    {
+      "album": {
         "name": "Sarria",
         "url": "https://open.spotify.com/album/1dvJ4IWBXAMSsWGQJ1F2eQ"
       },
@@ -7514,7 +7712,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 159968,
       "name": "Seed of Perfection",
       "url": "https://open.spotify.com/track/0kAHMCRN2lFkDnwhedKl1M"
@@ -7694,7 +7892,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 229308,
       "name": "Share My Burden",
       "url": "https://open.spotify.com/track/4zrE3bK51nBFR3lA32AADH"
@@ -8346,6 +8544,24 @@
       "duration_ms": 162842,
       "name": "Stolen Moments",
       "url": "https://open.spotify.com/track/1oEq1W6ChwTxUE87Jx9MFG"
+    },
+    {
+      "album": {
+        "name": "Strange Encounter",
+        "url": "https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140033,
+      "name": "Strange Encounter",
+      "url": "https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2"
     },
     {
       "album": {
@@ -9073,6 +9289,24 @@
     },
     {
       "album": {
+        "name": "Tropea",
+        "url": "https://open.spotify.com/album/61us2aGdGHCB7SOlJe7Qsj"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Benatti",
+          "url": "https://open.spotify.com/artist/6C9bWJOawsAAYTfz5xbrkq"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117186,
+      "name": "Tropea",
+      "url": "https://open.spotify.com/track/2KjlaQdk4M6h7WPHCCOsjk"
+    },
+    {
+      "album": {
         "name": "Unforced",
         "url": "https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ"
       },
@@ -9520,6 +9754,24 @@
       "duration_ms": 162637,
       "name": "What Are Words",
       "url": "https://open.spotify.com/track/2dSfoV55JuQAMDZOFs1i9j"
+    },
+    {
+      "album": {
+        "name": "When she walks away",
+        "url": "https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk"
+      },
+      "artists": [
+        {
+          "name": "Somerset Kent",
+          "url": "https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139959,
+      "name": "When she walks away",
+      "url": "https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7"
     },
     {
       "album": {

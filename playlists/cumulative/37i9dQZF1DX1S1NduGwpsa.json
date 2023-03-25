@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover:  Alfa Mist",
+  "description": "The best jazz new releases. Cover:  Jaron Marshall",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        },
+        {
+          "name": "Mumu Fresh",
+          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272323,
+      "name": "Brand New Life (feat. Mumu Fresh)",
+      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
+    },
+    {
+      "album": {
         "name": "Buzzing Bee",
         "url": "https://open.spotify.com/album/6ihVmKIaIiiJVKdhRDs6dV"
       },
@@ -606,7 +628,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 202040,
       "name": "Buzzing Bee",
       "url": "https://open.spotify.com/track/6avafXggIzFap9c21A63iZ"
@@ -694,6 +716,24 @@
       "duration_ms": 203350,
       "name": "Chacha Rom",
       "url": "https://open.spotify.com/track/3WWObGMpYifG6nwvQslmK8"
+    },
+    {
+      "album": {
+        "name": "Chasing Days",
+        "url": "https://open.spotify.com/album/7aYZkjC8EiJrs8ivzwbYxh"
+      },
+      "artists": [
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231818,
+      "name": "Chasing Days",
+      "url": "https://open.spotify.com/track/6CaaOpcDDrGf6FGHtGwgXl"
     },
     {
       "album": {
@@ -1224,6 +1264,28 @@
       "duration_ms": 381160,
       "name": "Disco Ears",
       "url": "https://open.spotify.com/track/5li75DMlmHshiqcMStzxhF"
+    },
+    {
+      "album": {
+        "name": "Plays Well With Others",
+        "url": "https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235757,
+      "name": "Don't Fence Me In / Strollin'",
+      "url": "https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk"
     },
     {
       "album": {
@@ -2286,7 +2348,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 347266,
       "name": "Lady (Ezra Collective Version)",
       "url": "https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG"
@@ -2338,6 +2400,24 @@
       "duration_ms": 269106,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/06PsxVo9cUtgP97EjxFUs7"
+    },
+    {
+      "album": {
+        "name": "Lights Away from Home",
+        "url": "https://open.spotify.com/album/3kGTTuz6VveX3AibqUxsHJ"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291891,
+      "name": "Lights Away from Home",
+      "url": "https://open.spotify.com/track/1MddW2SVQk0AklDHArtN3v"
     },
     {
       "album": {
@@ -2799,6 +2879,32 @@
     },
     {
       "album": {
+        "name": "La Septi\u00e8me Reine",
+        "url": "https://open.spotify.com/album/33gLfX0wqcpYOhmZViuXAO"
+      },
+      "artists": [
+        {
+          "name": "David Georgelet",
+          "url": "https://open.spotify.com/artist/2LtA68RzaNBt40yR5HCFJJ"
+        },
+        {
+          "name": "Fran\u00e7ois Chesnel",
+          "url": "https://open.spotify.com/artist/6V7lY4nwZUyd0SfHv8wv0w"
+        },
+        {
+          "name": "Yoni Zelnik",
+          "url": "https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185672,
+      "name": "Momo",
+      "url": "https://open.spotify.com/track/0CBX0WAXLUlxZLxVzNcL2U"
+    },
+    {
+      "album": {
         "name": "Montsouris",
         "url": "https://open.spotify.com/album/48120Oy65ceVY3KMJsuRzW"
       },
@@ -2897,6 +3003,24 @@
     },
     {
       "album": {
+        "name": "Be My Lover",
+        "url": "https://open.spotify.com/album/3s23xRvp9RWPxZfHpOvqVf"
+      },
+      "artists": [
+        {
+          "name": "Anne Bisson",
+          "url": "https://open.spotify.com/artist/0M93Gh9vPXf1XKa3CqchZF"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234280,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ"
+    },
+    {
+      "album": {
         "name": "Niggun",
         "url": "https://open.spotify.com/album/2O6WfKYNY33szSFsARg6ia"
       },
@@ -2916,10 +3040,32 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 463345,
       "name": "Niggun",
       "url": "https://open.spotify.com/track/3NVhdxU8IWtnnLIs3HhTKR"
+    },
+    {
+      "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/0SuDfLmKL0ssHmajwKGZ8G"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/5Ke5AnORQzHKS1xkvXG0uI"
     },
     {
       "album": {
@@ -3494,7 +3640,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 204440,
       "name": "RYTHMO\u00cfD",
       "url": "https://open.spotify.com/track/3lV360S8DDKzCqz1BH0LnV"
@@ -4010,7 +4156,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 200000,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/00ItGhp6jpOUHX7ELUTcNB"
@@ -4152,7 +4298,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 377999,
       "name": "the ordinary is ordinary because it ordinarily repeats",
       "url": "https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM"
@@ -5032,7 +5178,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 233518,
       "name": "Wrap It Up",
       "url": "https://open.spotify.com/track/1WrDhpbwUcUO37U6jktT0L"

@@ -2,7 +2,7 @@
 
 ### [Jersey Club Heat](https://open.spotify.com/playlist/37i9dQZF1DXajwQAxzrT4Q)
 
-> Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Cookiee Kawaii
+> Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Kanii
 
 237 songs - 9 hr 30 min
 

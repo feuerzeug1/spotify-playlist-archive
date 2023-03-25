@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-716 songs - 1 day 13 hr 43 min
+717 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Pyramid Train](https://open.spotify.com/track/5TZdub1bKTE2XEaBEQDUil) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:36 | 2020-08-08 |  |
 | [Quadrants](https://open.spotify.com/track/0Q3G0y7cRXoje2e5EFDliS) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Forest Findings](https://open.spotify.com/album/4U6Hovsc1nKIbRr1Qr5fBI) | 3:11 | 2019-05-26\* | 2023-03-04 |
 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 | 2019-07-27 |  |
+| [Quest of Kind](https://open.spotify.com/track/334YKbZcvAR5Yk6FaG9t5d) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Dust of Titans](https://open.spotify.com/album/7fDorasrsBWNPYc0aH33wv) | 2:45 | 2023-03-24 |  |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2021-09-04 |  |
 | [Quietud](https://open.spotify.com/track/5V5TF6nM3jYyvJENU2P8RK) | [Holographic Seawaves](https://open.spotify.com/artist/0DHRqGYLG6AaLUfbi8mUY1) | [Dusk Thoughts](https://open.spotify.com/album/2UY6uIUDMOrnqGrrSjbg7j) | 2:59 | 2020-08-08 |  |
 | [Rachael Or Pris](https://open.spotify.com/track/52tvffLe50EKvIznL67HnT) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [Rachael Or Pris](https://open.spotify.com/album/37lTxs02FjGCDpbEdGCte7) | 3:44 | 2020-07-11 | 2023-01-28 |
@@ -608,7 +609,7 @@
 | [Sunbleached Memory](https://open.spotify.com/track/6JVIfxPhQXAyPcA2Ro94HX) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sunbleached Memory](https://open.spotify.com/album/0uLlVkSLZIBxOgp5CxEU6A) | 2:35 | 2019-05-26\* | 2021-07-23 |
 | [Sunday](https://open.spotify.com/track/1Y7nKTuQIt1ZXSGZ6zgwUZ) | [Dowafu](https://open.spotify.com/artist/678BANurtj1ZV9EVaW7E2n) | [Sunday](https://open.spotify.com/album/2r7D2wCIowIc3qcZi4pUu6) | 3:45 | 2019-12-07 | 2020-07-11 |
 | [Sunflower Sunset](https://open.spotify.com/track/3vPoUXeqlDaqHUx38pe7tb) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Ambient Fields](https://open.spotify.com/album/7jBA8xzRMRWJtX2ZsxqW9w) | 3:25 | 2019-07-27 | 2021-09-14 |
-| [Sunken](https://open.spotify.com/track/2UruBApskz6SU0vJQPTnM4) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 3:39 | 2022-07-22 |  |
+| [Sunken](https://open.spotify.com/track/2UruBApskz6SU0vJQPTnM4) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 3:39 | 2022-07-22 | 2023-03-25 |
 | [Sunken](https://open.spotify.com/track/3SOcuNzZfMTB20m3HD3Aw4) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 3:39 | 2019-05-26\* | 2022-07-29 |
 | [Sunrise Catrin](https://open.spotify.com/track/2EC2o4ToD6HToqFRYj6uq3) | [Mayeda Taki](https://open.spotify.com/artist/1NPKLomaogQRTZBTZkHvVr) | [Sunrise Catrin](https://open.spotify.com/album/4SrXnyd1pp4NhFr0mv0rRY) | 3:39 | 2021-03-14 |  |
 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 | 2021-01-06 |  |

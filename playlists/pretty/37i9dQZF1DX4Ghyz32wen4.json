@@ -1,12 +1,12 @@
 {
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Nsqk en portada.",
-  "num_followers": 57404,
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Polim\u00e1 Westcoast en portada.",
+  "num_followers": 57482,
   "original_name": "sentimiento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMDQxMTg3ODVhMTRhNGQ2OGI3MjAxMTFmYzI0Y2M2ZGRl",
+  "snapshot_id": "MTY3OTY4ODk2MiwwMDAwMDAwMDVmNGMzMzA5NDIyYTQyYTk5YzI3OTRlMzAwNThjZTM2",
   "tracks": [
     {
       "added_at": "2023-02-10 06:00:00",
@@ -111,6 +111,26 @@
       "duration_ms": 147000,
       "name": "flores",
       "url": "https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho"
+    },
+    {
+      "added_at": "2023-03-24 20:16:02",
+      "album": {
+        "name": "ESQUE T\u00da",
+        "url": "https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "El Santi",
+          "url": "https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "ESQUE T\u00da",
+      "url": "https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8"
     },
     {
       "added_at": "2023-01-27 16:26:38",

@@ -5582,10 +5582,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 207166,
       "name": "The Knife",
       "url": "https://open.spotify.com/track/3dJlIrHwx8RYLjM0wAZD6j"
+    },
+    {
+      "album": {
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/2zjYvPNBfc7aL07V8iCQdN"
+      },
+      "artists": [
+        {
+          "name": "Royal Thunder",
+          "url": "https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207166,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/6a3OsqR3RetB4LRu2dTTl5"
     },
     {
       "album": {

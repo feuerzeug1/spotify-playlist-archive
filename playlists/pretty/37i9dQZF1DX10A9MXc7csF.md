@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Nivel Codiciado
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,016 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,039 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 45 | [Modo Avión](https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Modo Avión](https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1) | 3:31 |
 | 46 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 |
 | 47 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
-| 48 | [Mi Dolor](https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Mi Dolor](https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC) | 3:38 |
-| 49 | [Tu Labial](https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tu Labial](https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx) | 3:47 |
-| 50 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
+| 48 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
+| 49 | [Mi Dolor](https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Mi Dolor](https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC) | 3:38 |
+| 50 | [Tu Labial](https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tu Labial](https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx) | 3:47 |
 | 51 | [Tu](https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Tu](https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE) | 4:15 |
 | 52 | [El E](https://open.spotify.com/track/6AgCihW2mcPi2zKx4jqnW0) | [Miguel Gonzalez](https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT), [Javier Olguin](https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt) | [El E](https://open.spotify.com/album/53IaApkElVU8RnqPwFFxF1) | 3:03 |
 | 53 | [Payonazo Exoticos](https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Payonazo Exoticos](https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR) | 3:53 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 61 | [Ni Como Ni cuando \(En Vivo\)](https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Ni Como Ni Cuando \(En Vivo\)](https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3) | 2:08 |
 | 62 | [Manzana en el Mapa](https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Manzana en el Mapa](https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j) | 3:03 |
 | 63 | [El Terminator](https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Terminator](https://open.spotify.com/album/6k6fcNBK814YrhGv833xc3) | 2:55 |
-| 64 | [Para El Barrio](https://open.spotify.com/track/2F9M3yMeJCiAzIJpnbSWRE) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Para El Barrio](https://open.spotify.com/album/1KscIu4gQDfRNqPw0CEqMy) | 3:12 |
-| 65 | [SUR 99](https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Primera Elegancia](https://open.spotify.com/artist/2wPO2p4ldXKAh5MBrwoA7k) | [SUR 99](https://open.spotify.com/album/0hN9kijAgj9tRr4YXM68w5) | 3:09 |
+| 64 | [SUR 99](https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Primera Elegancia](https://open.spotify.com/artist/2wPO2p4ldXKAh5MBrwoA7k) | [SUR 99](https://open.spotify.com/album/0hN9kijAgj9tRr4YXM68w5) | 3:09 |
+| 65 | [Para El Barrio](https://open.spotify.com/track/2F9M3yMeJCiAzIJpnbSWRE) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Para El Barrio](https://open.spotify.com/album/1KscIu4gQDfRNqPw0CEqMy) | 3:12 |
 | 66 | [AJUA](https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [AJUA](https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27) | 2:29 |
 | 67 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
 | 68 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 83 | [Hasta Arriba](https://open.spotify.com/track/721YplUtlKxxxh5sDIWYda) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Hasta Arriba](https://open.spotify.com/album/0TgoWWHLP3KqfdLD01EafH) | 3:27 |
 | 84 | [Ya Te Borre](https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [Ya Te Borre](https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p) | 3:25 |
 | 85 | [Todo Terminó](https://open.spotify.com/track/0RrN2Vm2FXGhZQZRiFnG0U) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [Todo Terminó](https://open.spotify.com/album/0i0FRjgz2NCaN8s212Rcd4) | 3:03 |
-| 86 | [Loco y Drogado \(En Vivo\)](https://open.spotify.com/track/291ekxuZ0hzYwz4F0zMDWt) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr) | [Hechando Rolas Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/2lspJ7QjGRq4cuCZIRbQ6q) | 2:50 |
-| 87 | [Te Voy a Extrañar](https://open.spotify.com/track/04vBxuAspmsQYLa1KprV8m) | [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Te Voy a Extrañar](https://open.spotify.com/album/1eYGKfBjoEEotKjRlqUTkG) | 2:55 |
+| 86 | [Te Voy a Extrañar](https://open.spotify.com/track/04vBxuAspmsQYLa1KprV8m) | [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Te Voy a Extrañar](https://open.spotify.com/album/1eYGKfBjoEEotKjRlqUTkG) | 2:55 |
+| 87 | [Loco y Drogado \(En Vivo\)](https://open.spotify.com/track/291ekxuZ0hzYwz4F0zMDWt) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr) | [Hechando Rolas Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/2lspJ7QjGRq4cuCZIRbQ6q) | 2:50 |
 | 88 | [El Jamaico](https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [El Jamaico](https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33) | 2:24 |
 | 89 | [Hoodboys](https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f) | [Los De Guamuchil](https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE) | [Hoodboys](https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn) | 3:10 |
 | 90 | [Mi Corazón](https://open.spotify.com/track/7nFCfXEl2JiaxzPF8233hz) | [Porto Fino](https://open.spotify.com/artist/1KBAMss5TbuIZUDf9STspe) | [Mi Corazón](https://open.spotify.com/album/6WjLL6O3dxamFqfKF0AJ21) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Quiero Brindar](https://open.spotify.com/track/68csteODRhwuYbDfkqBiHj) | [Rey\-N\-Raey](https://open.spotify.com/artist/5iIhhT7t5Sp0p7Ilqwbuhu), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Quiero Brindar](https://open.spotify.com/album/0vdpCLzhjokjtlSZwRlYm4) | 2:48 |
 | 100 | [El Chiste](https://open.spotify.com/track/03AGRk4RHSpOEwU00Smwvm) | [JR NUÑEZ](https://open.spotify.com/artist/7kyrlDk15k86Yt4IkF1D4M) | [El Chiste](https://open.spotify.com/album/1H0nf93rr0nrdT8Z1sAn5B) | 2:58 |
 
-Snapshot ID: `MTY3OTAzMzE5MywwMDAwMDAwMDQ3NTBkMDhjZjMyOTBjNTgwNmQ1OTJkZmExZGZhMTMx`
+Snapshot ID: `MTY3OTAzMzE5MywwMDAwMDAwMDY5YTE3YjY4MDM3ZWQzYTU4M2IwMWJkZjMyZTc2YTcz`

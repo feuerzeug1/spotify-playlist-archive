@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 116800,
       "name": "alone with you",
       "url": "https://open.spotify.com/track/2ZWLObitgvOk90ICZIHInu"
@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/6yEFO1j7AKAUl08KjgKglg"
+      },
+      "artists": [
+        {
+          "name": "Goloise",
+          "url": "https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/1LkuMhbV1HMSB7Mye60a40"
+    },
+    {
+      "album": {
         "name": "caffeine",
         "url": "https://open.spotify.com/album/5yptCJok2t4x94m9wtuRQ3"
       },
@@ -3440,7 +3458,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 118886,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/5XVsFvrNveY7covGA3b8fr"
@@ -12202,7 +12220,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 206400,
       "name": "Mista Cool",
       "url": "https://open.spotify.com/track/1MtEodwvgVh3xQ4hQBZPlh"
@@ -12530,6 +12548,24 @@
       "duration_ms": 112051,
       "name": "Moonset",
       "url": "https://open.spotify.com/track/0Ij69EGuFl74yIDGc60i47"
+    },
+    {
+      "album": {
+        "name": "Moonshire",
+        "url": "https://open.spotify.com/album/7ztxKAg1GfGHSEYXEOuVVF"
+      },
+      "artists": [
+        {
+          "name": "Momentology",
+          "url": "https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121677,
+      "name": "Moonshire",
+      "url": "https://open.spotify.com/track/3AugGTPQycheCuKlwrCqau"
     },
     {
       "album": {
@@ -14322,7 +14358,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 152673,
       "name": "Open Mind",
       "url": "https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy"
@@ -14590,7 +14626,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 129350,
       "name": "Panama",
       "url": "https://open.spotify.com/track/5elCsWds84Lt8qRcuZ10gl"
@@ -18496,7 +18532,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 192000,
       "name": "Sunday Coffee",
       "url": "https://open.spotify.com/track/0nFRjElVFDu9605P1eYk1z"
@@ -18633,6 +18669,24 @@
     },
     {
       "album": {
+        "name": "Sunset Reflections",
+        "url": "https://open.spotify.com/album/5VXd7DDOCViu9HcmW4cCbW"
+      },
+      "artists": [
+        {
+          "name": "sl\u00e5n",
+          "url": "https://open.spotify.com/artist/3FtHbjWZC4p0XzS0qbaleC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120750,
+      "name": "Sunset Reflections",
+      "url": "https://open.spotify.com/track/3x1N6JXLW9cj3oOP7vR5b3"
+    },
+    {
+      "album": {
         "name": "Sunset Wish",
         "url": "https://open.spotify.com/album/63RgFySdicgg8HLgCbSTen"
       },
@@ -18688,7 +18742,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 144000,
       "name": "Super",
       "url": "https://open.spotify.com/track/5rN1cXlQydXdpU5RC7t1xz"
@@ -19667,6 +19721,24 @@
     },
     {
       "album": {
+        "name": "The Simple Life",
+        "url": "https://open.spotify.com/album/6gGfQHr7DT0Z52DXDFosgq"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116847,
+      "name": "The Simple Life",
+      "url": "https://open.spotify.com/track/5YO3Vqve61SxDVy9kynuas"
+    },
+    {
+      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/59p5oWiIgoqKdaJuVrrgap"
       },
@@ -20248,7 +20320,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 210000,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/4i6soSPJv5nE00bolyoxZ3"
@@ -20338,7 +20410,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 127500,
       "name": "Two Step",
       "url": "https://open.spotify.com/track/416tVSMjiWMYCV4lfRqP39"
@@ -21380,7 +21452,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 196000,
       "name": "While You Were Sleeping",
       "url": "https://open.spotify.com/track/3trpLuyg5wzHSOFT5O2lGH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to chilled ambient with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,201 likes - 124 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,266 likes - 124 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 20 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 |
 | 21 | [Translucent \- Sound Bath](https://open.spotify.com/track/5tEpSsjhDM1YUYDweyDifC) | [Flowing Motion](https://open.spotify.com/artist/0QbsULUz7uLr6JGXyAMIot) | [Translucent \- Sound Bath](https://open.spotify.com/album/2uTOIGnrD5GLz8ejPYdLJC) | 2:39 |
 | 22 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 |
-| 23 | [Everything Flows](https://open.spotify.com/track/6rMAVA0k3aHJ3KOvL9nPhO) | [Cthulhu Ramón](https://open.spotify.com/artist/6lO9EAgBlx7iOWq7ZT4wWG) | [Everything Flows](https://open.spotify.com/album/4Ht6QBEsGvB9DzzK7gOo5a) | 2:44 |
-| 24 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/5ZbjwPQo6CocT2OdJyUsc9) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 |
+| 23 | [Everything Flows](https://open.spotify.com/track/6rMAVA0k3aHJ3KOvL9nPhO) | [Cthulhu Ramón](https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW) | [Everything Flows](https://open.spotify.com/album/4Ht6QBEsGvB9DzzK7gOo5a) | 2:44 |
+| 24 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 |
 | 25 | [At One With Nature](https://open.spotify.com/track/3ex5KMu8ncO5iDWzAObPMy) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [At One With Nature](https://open.spotify.com/album/55FaUwYwc5gOqYc0Mtm5ua) | 2:53 |
 | 26 | [Pompeiana Waters](https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Pompeiana Waters](https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ) | 2:54 |
 | 27 | [Soothing the Ocean](https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK) | [Zonestays](https://open.spotify.com/artist/7qrpF6gvKx1zA0dGofJVdh) | [Soothing the Ocean](https://open.spotify.com/album/26sn9bQUdYBJpalMa9Fikl) | 2:41 |
@@ -131,6 +131,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 121 | [Creations](https://open.spotify.com/track/39je7LHAiJ7AEZZgU0wPVR) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Waters](https://open.spotify.com/album/4F5nRLj5pQ49lDZD654Zq4) | 2:44 |
 | 122 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 |
 | 123 | [Dream Maps](https://open.spotify.com/track/0NoCoOtd8LFywZnH9KIKGo) | [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Floating Mind](https://open.spotify.com/album/2cAj2jNdLgh4pUwcfwiKyM) | 2:16 |
-| 124 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 |
+| 124 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/6LLTZik53U4RK36bAsw60W) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 |
 
-Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMGMzNWU4YTdhMjA2NWQzMWYzMDcxNGU5MmI3ZmZjZmUz`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDNiYmUyYTI2MjdiZjRlMTk4NzI3OGM2ZTIzYzlmNWQx`

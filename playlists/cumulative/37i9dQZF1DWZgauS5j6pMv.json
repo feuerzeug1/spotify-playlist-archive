@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 243808,
       "name": "AA Side Single",
       "url": "https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 334205,
       "name": "Banana Song - London Session",
       "url": "https://open.spotify.com/track/2vF0e9iDV7B3WSAzxzWW5p"
@@ -966,6 +966,24 @@
       "duration_ms": 121731,
       "name": "Coconut Oil",
       "url": "https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc"
+    },
+    {
+      "album": {
+        "name": "Come and Get It - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6ESzAJ6LlsxURRRiDpJRsb"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "Come and Get It - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4exwQETG1yC3KPp8t57C9q"
     },
     {
       "album": {
@@ -1815,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "Games Change",
+        "url": "https://open.spotify.com/album/6YhSgWYRG0Z2543CY3gtjv"
+      },
+      "artists": [
+        {
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275937,
+      "name": "Funk Money",
+      "url": "https://open.spotify.com/track/1Y5VqpjzxCSMNYpT81LvBt"
+    },
+    {
+      "album": {
         "name": "Funk Olympics",
         "url": "https://open.spotify.com/album/3agMx8gTl9bBWasc3sbSo9"
       },
@@ -2088,6 +2128,40 @@
       "duration_ms": 195925,
       "name": "God Made Me Funky",
       "url": "https://open.spotify.com/track/03k2IK5lwpXBHIUVadERaN"
+    },
+    {
+      "album": {
+        "name": "Goddam (Action Paxton Remix)",
+        "url": "https://open.spotify.com/album/5Jez6tgeNcRHVeZLvyAF14"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Action Paxton",
+          "url": "https://open.spotify.com/artist/7cjO66A26r7pMsU6TlW2UZ"
+        },
+        {
+          "name": "Olivia Ruff",
+          "url": "https://open.spotify.com/artist/3O1CAgZV8ApmbL09LcNBr8"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Brasstronix",
+          "url": "https://open.spotify.com/artist/66nvszvZCPMR1Em1wfZwe2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273788,
+      "name": "Goddam (Action Paxton Remix)",
+      "url": "https://open.spotify.com/track/6v1Zd8skfPZQlnvthw8aIS"
     },
     {
       "album": {
@@ -2706,7 +2780,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 420613,
       "name": "I\u2019m Tight",
       "url": "https://open.spotify.com/track/6GHf5R3t8dmNid0oPB4yUM"
@@ -3348,7 +3422,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 193946,
       "name": "Maintain - Jafunk Remix",
       "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
@@ -3894,7 +3968,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 216040,
       "name": "Park Your Car on My Face",
       "url": "https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr"
@@ -4782,6 +4856,28 @@
       "duration_ms": 197523,
       "name": "SUPASTYLiN'",
       "url": "https://open.spotify.com/track/6DTHsrDEHgUvKrPQA13Grf"
+    },
+    {
+      "album": {
+        "name": "Sweatshirt",
+        "url": "https://open.spotify.com/album/6nT2iz80WNAVjUHmfqUlau"
+      },
+      "artists": [
+        {
+          "name": "Flourish",
+          "url": "https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7"
+        },
+        {
+          "name": "Comanavago",
+          "url": "https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Sweatshirt",
+      "url": "https://open.spotify.com/track/3CHbzJ5OIbVc46A7wignsd"
     },
     {
       "album": {

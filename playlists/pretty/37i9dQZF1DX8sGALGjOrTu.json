@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 377164,
+  "num_followers": 377772,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMwMzY2MywwMDAwMDAwMDdkNDdhYmZjYzJmMjI4YjYzYmViMDJhMGQ3N2M1ZTMw",
+  "snapshot_id": "MTY3OTMwMzY2MywwMDAwMDAwMGUxYjhhYzk1MzdhYjhiMmJkNWQxMTlmNzUwYjcyNzc3",
   "tracks": [
     {
       "added_at": "2023-03-20 09:14:23",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "The Days Of The Phoenix",
-      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 176373,
       "name": "A Box Full of Sharp Objects",
       "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "The Days Of The Phoenix",
+      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "Tree Village",
-      "url": "https://open.spotify.com/track/0C9d07g8OTaJeZVVmjN0pS"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "His Last Walk",
         "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 235640,
       "name": "Guys Like You Make Us Look Bad",
       "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "Tree Village",
+      "url": "https://open.spotify.com/track/0C9d07g8OTaJeZVVmjN0pS"
     },
     {
       "added_at": "2023-03-20 09:14:23",

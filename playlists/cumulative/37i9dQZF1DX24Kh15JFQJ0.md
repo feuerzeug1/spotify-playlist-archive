@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Willie Nelson
 
-180 songs - 10 hr 29 min
+181 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Set In Stone](https://open.spotify.com/track/7MVqVhltAY0slcw61hsRwa) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Set In Stone](https://open.spotify.com/album/3CWTCSCfkdNjK9156mLZO8) | 3:04 | 2021-10-15 |  |
 | [She Had Me At Heads Carolina \(with Jo Dee Messina\) \- Remix](https://open.spotify.com/track/557rfmFFNH4YwsE2OYZfhF) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [She Had Me At Heads Carolina \(with Jo Dee Messina\) \[Remix\]](https://open.spotify.com/album/19PdywBe6KaiBhaws1cUPC) | 3:43 | 2022-11-18 |  |
 | [She's Everything to Me](https://open.spotify.com/track/0bHVsXJYoL1vFnIKoW5VCK) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [She's Everything to Me](https://open.spotify.com/album/67BuFJwLDQ3j7nutc1cBQt) | 3:43 | 2021-10-15 |  |
+| [Sitting Alone](https://open.spotify.com/track/2SFK85dn2BPKGOmcj4wKpO) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Sitting Alone](https://open.spotify.com/album/4pOcJnDKF4ZqwboJyJWZ1c) | 2:54 | 2023-03-24 |  |
 | [Slowing Down](https://open.spotify.com/track/380s4cpzc1XIUMwjRN8yNw) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Forever My Girl \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/1UCTuNC4E5Q7mFhIdNo71V) | 3:35 | 2021-10-15 |  |
 | [Smoke In A Bar](https://open.spotify.com/track/3LP1WoisvGEGM68Qp37q7h) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Smoke In A Bar](https://open.spotify.com/album/2QwX4bWQZQsjHm9cyksvS7) | 4:22 | 2021-10-15 |  |
 | [Soft Lights and Hard Country Music](https://open.spotify.com/track/0LExOSWjzvIZ5tVJgemUJA) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz) | [Soft Lights and Hard Country Music](https://open.spotify.com/album/72xd3lqNEvYcSUH37DSubJ) | 2:49 | 2021-11-05 |  |

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan, Mari Fernandez
 
-126 songs - 5 hr 59 min
+127 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Boca Ocupada](https://open.spotify.com/track/36mUWhjTM3GNpncYy7RR6z) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Cleber & Cauan No Rio Quente](https://open.spotify.com/album/0sEb6tyxysVFuoKfaN5WdA) | 2:45 | 2022-03-04 | 2022-11-09 |
 | [Bombonzinho \- Ao Vivo](https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Bombonzinho \(Ao Vivo\)](https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs) | 2:34 | 2022-11-10 |  |
 | [Calculista](https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly) | [Dom Vittor & Gustavo](https://open.spotify.com/artist/36CiwS6BaZffBHzjJL8y6N), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Calculista](https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy) | 2:38 | 2021-12-31 | 2022-05-20 |
-| [Cara da Derrota \- Ao Vivo](https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 2:41 | 2022-12-16 |  |
+| [Cara da Derrota \- Ao Vivo](https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 2:41 | 2022-12-16 | 2023-03-25 |
 | [Cavalo de Pau](https://open.spotify.com/track/74Le949TrZk4zwDjtWzH23) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Cavalo de Pau](https://open.spotify.com/album/2BDEQmIWBMZQg8BuGClF5y) | 2:44 | 2022-12-16 |  |
 | [Cheiro de Balada \- Ao Vivo](https://open.spotify.com/track/2ykYxd8UGHOsdjP3Z5jSHh) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2aeDFXeS2WvKqIfXQyKRGa) | 2:51 | 2022-08-12 |  |
 | [Chá De Casa Nova \- Ao Vivo](https://open.spotify.com/track/6wrkP23fHC8KDHCfs8MpJ9) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau) | 2:56 | 2021-12-31 | 2022-03-05 |
@@ -67,6 +67,7 @@
 | [Ficha Limpa](https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 1](https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2) | 3:12 | 2021-12-31 | 2022-04-09 |
 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 | 2021-12-31 | 2022-01-22 |
 | [Gatilho \- Ao Vivo](https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Se Melhorar Estraga \(Ao Vivo\)](https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6) | 2:35 | 2022-03-23 |  |
+| [Hackearam\-me](https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 3](https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm) | 3:21 | 2023-03-24 |  |
 | [Haja Colírio \(feat\. Hugo & Guilherme\) \- Ao Vivo](https://open.spotify.com/track/1ELsaYdj2NlxLvkx9g24xZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Haja Colírio \(feat\. Hugo & Guilherme\) \[Ao Vivo\]](https://open.spotify.com/album/0pmNWSBnKRJOKnmpTaatCU) | 2:53 | 2022-07-01 |  |
 | [ILHA](https://open.spotify.com/track/2zvfMwpBdm9zC4zwLWq1Wg) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [THE COMEBACK](https://open.spotify.com/album/4mQpXudi3KmfvZOgWLTi2g) | 3:02 | 2021-12-31 | 2022-02-12 |
 | [Imagina A Sentada \- Ao Vivo](https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada \(Ao Vivo\)](https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq) | 2:52 | 2021-12-31 | 2023-03-03 |

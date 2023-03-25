@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Nia Archives
 
-564 songs - 1 day 8 hr 29 min
+567 songs - 1 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [crazy4u!](https://open.spotify.com/track/6Gk4qs4VrUjxDMCmuQbEgQ) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [crazy4u!](https://open.spotify.com/album/6bnON6CC4EYZfrHA48ZUEw) | 3:19 | 2022-02-18 | 2022-06-26 |
 | [creation](https://open.spotify.com/track/0h64WdJ2JNMLgSh2M9ymEF) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [creation](https://open.spotify.com/album/2swnQoFyWwoqcUT9kVez5P) | 2:03 | 2021-11-12 | 2022-03-05 |
 | [crush](https://open.spotify.com/track/6kLhilDX44nCibecCJldjP) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [crush](https://open.spotify.com/album/4fq2gOSbxepdB6R0mvviv4) | 2:28 | 2022-04-01 | 2022-06-04 |
+| [Cry Cry Cry](https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Cry Cry Cry](https://open.spotify.com/album/76swTUVCbbVU1pZHr2YMrO) | 3:22 | 2023-03-24 |  |
 | [Cute Junglists Unite](https://open.spotify.com/track/6bAN460Tds1Oz4iFgNqpsc) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Cute Junglists Unite](https://open.spotify.com/album/038mvtK09nmcW654pSmUAh) | 3:58 | 2021-12-31 | 2022-06-18 |
 | [Cyber Psyche Green](https://open.spotify.com/track/3sWCW2ea1ZP3txLxJHElTO) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Serial Experiments PAIN](https://open.spotify.com/album/3Aw7WuGG8Xff2jiCbNZpkH) | 2:19 | 2022-02-04 | 2022-06-18 |
 | [D.L.P](https://open.spotify.com/track/65pDapueBkgH4GLp3CmIqq) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [D.L.P](https://open.spotify.com/album/6psXExUBdnxwrJJrTEMXzR) | 5:10 | 2021-11-26 | 2022-02-12 |
@@ -145,6 +146,7 @@
 | [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 | 2023-03-17 |  |
 | [Dracodraco](https://open.spotify.com/track/1989YquYFYsPa4PutqJunf) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Dracodraco](https://open.spotify.com/album/13YQaMzrLZziaj9PgpQppO) | 4:19 | 2021-07-23 | 2022-02-26 |
 | [dream](https://open.spotify.com/track/2tzoLvKBygTxkv8x1cVc0P) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [badman jungle rave ting](https://open.spotify.com/album/1zBPqXbFTUsNgsenOFwMrz) | 4:00 | 2022-02-18 | 2022-06-04 |
+| [dream about u](https://open.spotify.com/track/6gJX9BvTXsh76nrXogo1D7) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Floatinurboat](https://open.spotify.com/artist/64BojgC4SoE580s9oMmHm4) | [dream about u](https://open.spotify.com/album/6pnBj8oPnGQQLMZK7DbmHE) | 1:51 | 2023-03-24 |  |
 | [Dreamverse](https://open.spotify.com/track/7DnkH5iuTImLMZo7OtsBfI) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Dreamverse](https://open.spotify.com/album/1xWfwpVYVFZooH9KpXaiBx) | 4:56 | 2022-03-11 |  |
 | [Dreamy Bruises](https://open.spotify.com/track/7KQSC7OTYK5lM7DvBICuvL) | [CactusTeam](https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm) | [Dreamy Bruises](https://open.spotify.com/album/5UK3VhwIuncmSto0zWhvpb) | 2:17 | 2022-05-06 | 2022-11-12 |
 | [Drivin' Me Crazy](https://open.spotify.com/track/1fPUG09vA8KRKwdcj4rHI5) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Drivin' Me Crazy](https://open.spotify.com/album/6MpGVt0srq4BwYBvIj4Elu) | 3:38 | 2022-03-04 | 2022-09-03 |
@@ -375,6 +377,7 @@
 | [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/3MPYfrBFJC6sRPRuObng6H) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [TDJ123 DELUXE](https://open.spotify.com/album/05VFDqT4WtekPdQn8o6V1a) | 6:22 | 2022-08-26 | 2022-10-09 |
 | [Open Air \- DJ HEARTSTRING Remix](https://open.spotify.com/track/5MNYdLFPbE27xrmhDdZ5cH) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [TDJ123 DELUXE](https://open.spotify.com/album/2x1Ox1a7MYTamrbp11Y6LA) | 6:22 | 2022-08-26 | 2023-01-14 |
 | [out of the blue](https://open.spotify.com/track/1L6Pp0BJ5fuSUOpQOoFE5a) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [out of the blue](https://open.spotify.com/album/5OagZb7d6hBfIqfVji39wD) | 2:48 | 2022-06-03 | 2022-08-27 |
+| [Over & Over Again](https://open.spotify.com/track/15Q6GEyPGcZGUjY7n9bAap) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [Over & Over Again](https://open.spotify.com/album/1uQVlsy5JRxW2tPmnztg7S) | 3:07 | 2023-03-24 |  |
 | [over it](https://open.spotify.com/track/7mvqLMloTy9sQww0CREaVw) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [over it](https://open.spotify.com/album/68gpsZTqeX5gQBkIUYxVmO) | 3:34 | 2022-08-05 | 2022-09-24 |
 | [Overgrown](https://open.spotify.com/track/0uciuyNzCb0ZUmTLCx0JOv) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Overgrown](https://open.spotify.com/album/4fBRtt02jOVKhvKyGazEcH) | 2:41 | 2022-09-09 | 2022-12-10 |
 | [p\_fg](https://open.spotify.com/track/1NZwS7UVuRACMiPbR4DWOT) | [Aiden Marceron](https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf) | [ep3](https://open.spotify.com/album/7Cn7FWgA1l6Egp0q8UJoRs) | 3:19 | 2022-11-11 | 2022-12-10 |
@@ -408,7 +411,7 @@
 | [Pyramid](https://open.spotify.com/track/1Up1XBkxqdtu2BMP8iJr48) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Alchemy](https://open.spotify.com/album/7Cy7mBf9lW1eDCc8XVYD4D) | 3:53 | 2022-03-17 | 2022-08-25 |
 | [Pyramid](https://open.spotify.com/track/1dl8w8jWWN8c00TUKH6vwh) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Pyramid](https://open.spotify.com/album/5nKhJceSqh4VzzHM6tKW3p) | 3:53 | 2022-03-17 | 2022-10-01 |
 | [r u ok?](https://open.spotify.com/track/0VFmlXQMAON7gUfTsufMop) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [r u ok?](https://open.spotify.com/album/5XYq4QZnzSocz2SWjfwx4O) | 3:03 | 2022-02-18 | 2022-04-15 |
-| [Rain Dance](https://open.spotify.com/track/6a9aAiPtlWH2QRytRAw1As) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Rain Dance](https://open.spotify.com/album/7ocYdbDTPPsuVRGwKV1f9h) | 5:19 | 2022-11-11 |  |
+| [Rain Dance](https://open.spotify.com/track/6a9aAiPtlWH2QRytRAw1As) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Rain Dance](https://open.spotify.com/album/7ocYdbDTPPsuVRGwKV1f9h) | 5:19 | 2022-11-11 | 2023-03-25 |
 | [Raingurl](https://open.spotify.com/track/5z1wOyEyoRu0HTkXYvuqiH) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/0LVHebiLemk6H6Djzi5NVf) | 3:57 | 2021-07-23 | 2022-04-16 |
 | [Rash Devices](https://open.spotify.com/track/2mubBWUJIr8yYo3NlNs9g8) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Us Ephemeral](https://open.spotify.com/album/25s8VKOfdaccZaD2VRv8Z5) | 5:02 | 2022-04-13 | 2022-06-04 |
 | [REACH 4 THE STARS](https://open.spotify.com/track/5zNWI5JlZbS6ShRsRlT8xk) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [HARDCORE HEAVEN](https://open.spotify.com/album/2SmLSzKyZ5c133Dp76Vzw3) | 3:15 | 2021-10-29 | 2022-02-05 |

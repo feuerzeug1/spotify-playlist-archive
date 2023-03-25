@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-195 songs - 11 hr 19 min
+196 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 | 2023-02-03 |  |
 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 | 2021-10-11 | 2022-12-09 |
 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 | 2023-01-19 |  |
+| [Bum Bum](https://open.spotify.com/track/4rPHUR75CuFBFlqIlRgTOw) | [BRUME](https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1) | [Bum Bum](https://open.spotify.com/album/2Iv5glWz7CKCDtPU6HEorg) | 3:05 | 2023-03-24 |  |
 | [Celowi](https://open.spotify.com/track/1hgH1t6ReIrorRFrD7eJ8P) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Horoscopes](https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF) | 2:00 | 2022-02-11 | 2022-07-15 |
 | [Close To Me](https://open.spotify.com/track/6TyFIUgedV7EkYdk6nS4aw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:00 | 2021-10-11 | 2022-02-25 |
 | [Coco Marijuana](https://open.spotify.com/track/6mXIES5HmXDyD4tpEch0bB) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 3:57 | 2022-01-21 | 2022-10-14 |
@@ -50,7 +51,7 @@
 | [Confirmed](https://open.spotify.com/track/7sWaLgAGXLdAzRdqmwXilZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Kpanlogo](https://open.spotify.com/album/0u2Xpx6AJj4hSzPig3msZ7) | 3:21 | 2021-10-11 | 2022-02-19 |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-10-11 | 2022-03-11 |
 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-03-11 | 2022-08-27 |
-| [Damn \(feat\. 6lack\)](https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Damn \(feat\. 6lack\)](https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi) | 2:39 | 2021-10-11 |  |
+| [Damn \(feat\. 6lack\)](https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Damn \(feat\. 6lack\)](https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi) | 2:39 | 2021-10-11 | 2023-03-25 |
 | [Do For Me \(feat\. YKB & Alana Maria\)](https://open.spotify.com/track/25NrAXAOBj1KOuTpJYs11g) | [KaniBeatz](https://open.spotify.com/artist/5Y0tEjj93Yl493o4pyx2Yc), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [Do For Me \(feat\. YKB & Alana Maria\)](https://open.spotify.com/album/35NxKefzUejvCXEKAYUDG3) | 2:36 | 2022-08-12 | 2023-01-28 |
 | [Down](https://open.spotify.com/track/3XEljAMl2IduqseMFYpfoz) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Home Run \- EP](https://open.spotify.com/album/6LySZ3EOrnNCceaWkkt3EX) | 3:22 | 2021-12-09 | 2022-02-25 |
 | [Down by the River](https://open.spotify.com/track/4B7sxQLWCgQ6GvZac3Dazz) | [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Down by the River](https://open.spotify.com/album/2HgoVUGoxyJLVl7efSYneM) | 2:34 | 2022-02-17 | 2022-03-11 |

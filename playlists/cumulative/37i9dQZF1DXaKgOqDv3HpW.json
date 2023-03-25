@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 143595,
       "name": "Flow",
       "url": "https://open.spotify.com/track/59RtCHvMewZjwz3BDQKtGs"
@@ -1950,6 +1950,24 @@
       "duration_ms": 155413,
       "name": "Light in the Dark",
       "url": "https://open.spotify.com/track/7I7vKYp5h3Xl5qQkNLyYEj"
+    },
+    {
+      "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/7snyOPCc8KNIgAp4L92vLv"
+      },
+      "artists": [
+        {
+          "name": "Albert Lockwood",
+          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/4Nxdvb7Jk9TJCCCUc5wEgk"
     },
     {
       "album": {

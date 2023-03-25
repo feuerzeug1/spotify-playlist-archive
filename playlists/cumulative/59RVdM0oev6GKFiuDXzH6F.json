@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 190080,
       "name": "Back to Groovy",
       "url": "https://open.spotify.com/track/3CTtxRGgUgrNJkDi01wjQd"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 169756,
       "name": "Bounded",
       "url": "https://open.spotify.com/track/32obiX5zfNijobb5dTXaNe"
@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "El Ritmo",
+        "url": "https://open.spotify.com/album/7q5o59k8Jw2GPCokAfk3i9"
+      },
+      "artists": [
+        {
+          "name": "Laurent Simeca",
+          "url": "https://open.spotify.com/artist/4siciMJGHAZA1jVYWUr4Vv"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "El Ritmo",
+      "url": "https://open.spotify.com/track/58bu9nSS6GAOgBQJJsDVVm"
+    },
+    {
+      "album": {
         "name": "Faux Parti",
         "url": "https://open.spotify.com/album/1JnpVe9WHrTY9C1JQAe0I9"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 220800,
       "name": "Faux Parti",
       "url": "https://open.spotify.com/track/0VQGk9vltYw4vV2GhOkJ8S"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 176210,
       "name": "Found Myself",
       "url": "https://open.spotify.com/track/0y5cXO3YMMTw7I7uniOIpo"
@@ -518,7 +536,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 191612,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/1eblgKToumXNFptxsvrAZU"
@@ -547,6 +565,28 @@
     },
     {
       "album": {
+        "name": "Hear That Sound",
+        "url": "https://open.spotify.com/album/6IV49g9JvTW4DOjVhC0vBl"
+      },
+      "artists": [
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180245,
+      "name": "Hear That Sound",
+      "url": "https://open.spotify.com/track/0X7GTndbpdWcfqKtf9NEOM"
+    },
+    {
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/3hmuaQHrZbsuXd6cEhlCks"
       },
@@ -562,6 +602,32 @@
       "duration_ms": 166875,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/1TXxy5fiycEyA7d7EdAbIW"
+    },
+    {
+      "album": {
+        "name": "Hold You Close",
+        "url": "https://open.spotify.com/album/1yBWamiPrSTBrBIR78xli1"
+      },
+      "artists": [
+        {
+          "name": "Samlight",
+          "url": "https://open.spotify.com/artist/2O8vLNXeIM7NGGUAb5LxX8"
+        },
+        {
+          "name": "Nickyb",
+          "url": "https://open.spotify.com/artist/6dlLhMbUNpgxLBsu5BDBFf"
+        },
+        {
+          "name": "hannah kate",
+          "url": "https://open.spotify.com/artist/7HPNYz5CtDCjSmxPj15VJQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133889,
+      "name": "Hold You Close",
+      "url": "https://open.spotify.com/track/4hmeY8Qid45jlBnY19dco0"
     },
     {
       "album": {
@@ -679,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Keep On Falling",
+        "url": "https://open.spotify.com/album/3hD4HkaR5oIYl9qlUaZ046"
+      },
+      "artists": [
+        {
+          "name": "Kastra",
+          "url": "https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Keep On Falling",
+      "url": "https://open.spotify.com/track/13OiuLn1xom84RcgdaUdfc"
+    },
+    {
+      "album": {
         "name": "Kill Me",
         "url": "https://open.spotify.com/album/6llX0jALPogs989Pcyt7RP"
       },
@@ -786,10 +870,36 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 209758,
       "name": "Lifting Me",
       "url": "https://open.spotify.com/track/6grlGbXzwuWSI4pgEHxu3u"
+    },
+    {
+      "album": {
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/1oyn5kqFtE8OLqnU891sNp"
+      },
+      "artists": [
+        {
+          "name": "BADMOOOD",
+          "url": "https://open.spotify.com/artist/4cH8jfF1PNs6oYI6vPn9Lf"
+        },
+        {
+          "name": "Jordan Miller",
+          "url": "https://open.spotify.com/artist/3c3PVDsItLBkCCmWESgiGG"
+        },
+        {
+          "name": "Just Kama",
+          "url": "https://open.spotify.com/artist/4QaQN6UItc8oVVqcjECU4S"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166535,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/2v8PL36BpykB4uZwWgS7Eb"
     },
     {
       "album": {
@@ -852,6 +962,24 @@
       "duration_ms": 143250,
       "name": "Loco",
       "url": "https://open.spotify.com/track/3ffZNmgZvGavz9xlgCkjrX"
+    },
+    {
+      "album": {
+        "name": "Municipal Recordings x Miami 2023",
+        "url": "https://open.spotify.com/album/3FMTf7YSHmGTq47Gj4UyFv"
+      },
+      "artists": [
+        {
+          "name": "Patrick Whale",
+          "url": "https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167468,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/4GEnreXJT5oRBx5LOB4MhA"
     },
     {
       "album": {
@@ -965,6 +1093,28 @@
     },
     {
       "album": {
+        "name": "Matrix",
+        "url": "https://open.spotify.com/album/4zvxT5ly1Xlavi3opIBZU4"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200418,
+      "name": "Matrix",
+      "url": "https://open.spotify.com/track/4fWBsxD5qLDz98zi900VyZ"
+    },
+    {
+      "album": {
         "name": "Mescaline (Radio Edit)",
         "url": "https://open.spotify.com/album/5rEutXujkkYSQ8erjgMrBH"
       },
@@ -976,7 +1126,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 177142,
       "name": "Mescaline - Radio Edit",
       "url": "https://open.spotify.com/track/6yBQ6kPgPcxn0GNyi9I1QU"
@@ -1107,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "Oral Music",
+        "url": "https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK presents NLW",
+          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
+        },
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200483,
+      "name": "Oral Music",
+      "url": "https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA"
+    },
+    {
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
       },
@@ -1224,7 +1396,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 172076,
       "name": "Problems",
       "url": "https://open.spotify.com/track/6gKKGDO4JlrJDf9EYzBk7J"
@@ -1242,7 +1414,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 142084,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/7K0bmMQyro8sd5NEpEqq6n"
@@ -1308,10 +1480,46 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 193333,
       "name": "Sleep Alone",
       "url": "https://open.spotify.com/track/0qAXESAKhPGY9wcON9vzqu"
+    },
+    {
+      "album": {
+        "name": "Someone Like You",
+        "url": "https://open.spotify.com/album/1Z9mfaM5XeMIqhlZzCeuyX"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/50er2te7txC3DkR4y8cANW"
+    },
+    {
+      "album": {
+        "name": "Space Trip",
+        "url": "https://open.spotify.com/album/2cPvcE5SPbVPyWNGOsisRD"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Zeller",
+          "url": "https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170061,
+      "name": "Space Trip",
+      "url": "https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf"
     },
     {
       "album": {
@@ -1417,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/3DyrgWcZ1tEDCqUxvliFp7"
+      },
+      "artists": [
+        {
+          "name": "Back N Fourth",
+          "url": "https://open.spotify.com/artist/7wLHr4NmAvAwukWyqyOpsX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205403,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/7auKrax0KsuQBIYL3FHzJm"
+    },
+    {
+      "album": {
         "name": "The Devil",
         "url": "https://open.spotify.com/album/2H7e6QQZZ49BkJJA8KP0bs"
       },
@@ -1432,7 +1658,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 169395,
       "name": "The Devil",
       "url": "https://open.spotify.com/track/3eGdnsaimgEICRRiuvhPFc"
@@ -1578,7 +1804,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 173353,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/7oJQgko4T7fOpu07ogRQH5"
@@ -1596,10 +1822,46 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 202204,
       "name": "Wait A Minute",
       "url": "https://open.spotify.com/track/0UAK0qiRTIPUnMzjwKk2PF"
+    },
+    {
+      "album": {
+        "name": "Want Me (Radio Edit)",
+        "url": "https://open.spotify.com/album/736QHJu5sdgroO4krjj61l"
+      },
+      "artists": [
+        {
+          "name": "Vito V",
+          "url": "https://open.spotify.com/artist/0xcfx1bbm3GNYmGBHT2hRg"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197343,
+      "name": "Want Me - Radio Edit",
+      "url": "https://open.spotify.com/track/0hTt3P29K4eXCfR8pn69Q6"
+    },
+    {
+      "album": {
+        "name": "Warp",
+        "url": "https://open.spotify.com/album/0RnRDlV1qQnS9mAL9dQWHT"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143503,
+      "name": "Warp",
+      "url": "https://open.spotify.com/track/6fPxp5gyANF9jIPJWJBILo"
     },
     {
       "album": {

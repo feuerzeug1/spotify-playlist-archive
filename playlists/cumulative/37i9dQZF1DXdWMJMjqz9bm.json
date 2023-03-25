@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/3emv6G7Uouh1i9TjWA15Ue"
+      },
+      "artists": [
+        {
+          "name": "Jon Wiilde",
+          "url": "https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237641,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR"
+    },
+    {
+      "album": {
         "name": "Casey",
         "url": "https://open.spotify.com/album/0e2ics4VASYcDsw2pKnplk"
       },
@@ -1849,6 +1867,28 @@
     },
     {
       "album": {
+        "name": "Crying In Sunshine (feat. Arden Jones)",
+        "url": "https://open.spotify.com/album/1gebTTFEpyP6zKhXhG60QI"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196443,
+      "name": "Crying In Sunshine (feat. Arden Jones)",
+      "url": "https://open.spotify.com/track/5i2oYP9tEfmBjULYH1rM7u"
+    },
+    {
+      "album": {
         "name": "Towards The Sun",
         "url": "https://open.spotify.com/album/57XXE3V0P60nJkG68roJiH"
       },
@@ -2128,6 +2168,24 @@
       "duration_ms": 132966,
       "name": "DIVA",
       "url": "https://open.spotify.com/track/3xf30JR3dwUTCneru7jSOT"
+    },
+    {
+      "album": {
+        "name": "do it all",
+        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "do it all",
+      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
     },
     {
       "album": {
@@ -4222,6 +4280,28 @@
       "duration_ms": 140665,
       "name": "IDGAF (with blackbear)",
       "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
+    },
+    {
+      "album": {
+        "name": "ILYSM",
+        "url": "https://open.spotify.com/album/3MnWd2qQ1TnZ7eJx80LQRY"
+      },
+      "artists": [
+        {
+          "name": "The Adoni",
+          "url": "https://open.spotify.com/artist/2FE0a7TnyZHfLjcWqTdnBK"
+        },
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "ILYSM",
+      "url": "https://open.spotify.com/track/6g5YTzEAhClnTivb4x6iBR"
     },
     {
       "album": {
@@ -6422,6 +6502,24 @@
     {
       "album": {
         "name": "pretty little lies",
+        "url": "https://open.spotify.com/album/6xp6dC4sMedMlPOrDa5z0F"
+      },
+      "artists": [
+        {
+          "name": "Drod",
+          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116957,
+      "name": "pretty little lies",
+      "url": "https://open.spotify.com/track/2b7T5ppABd36WyFQQXyix4"
+    },
+    {
+      "album": {
+        "name": "pretty little lies",
         "url": "https://open.spotify.com/album/1QkH2FPORhEP0okiAcGfJ7"
       },
       "artists": [
@@ -7182,6 +7280,24 @@
       "duration_ms": 150840,
       "name": "sheluvme",
       "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
+    },
+    {
+      "album": {
+        "name": "Singin in the Shower",
+        "url": "https://open.spotify.com/album/0fArp40eDK8mUK8p7YMuoF"
+      },
+      "artists": [
+        {
+          "name": "Jae Zole",
+          "url": "https://open.spotify.com/artist/5EEohu8udCMKstAlCYm3Xa"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152043,
+      "name": "Singin in the Shower",
+      "url": "https://open.spotify.com/track/3VBLOSjxwxpr5pp6vpd95q"
     },
     {
       "album": {

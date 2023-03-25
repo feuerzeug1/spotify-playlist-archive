@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "bad day",
+        "url": "https://open.spotify.com/album/5NfqbPcvdYcR3inewdtRBc"
+      },
+      "artists": [
+        {
+          "name": "niff_",
+          "url": "https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137746,
+      "name": "bad day",
+      "url": "https://open.spotify.com/track/4HHoCZQ9v7agD2ZTq72q3Y"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY",
         "url": "https://open.spotify.com/album/5y9jSiiVOhg9Lw97EEVXUp"
       },
@@ -780,6 +798,24 @@
       "duration_ms": 255272,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/5NptWVOhMkCcbeiHFVcEU3"
+    },
+    {
+      "album": {
+        "name": "don't know why",
+        "url": "https://open.spotify.com/album/1njOiYAwrY46egkOpm4Kp2"
+      },
+      "artists": [
+        {
+          "name": "lonely call",
+          "url": "https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127844,
+      "name": "don't know why",
+      "url": "https://open.spotify.com/track/5V2azMg4sx0aDJ9WSWGHbB"
     },
     {
       "album": {

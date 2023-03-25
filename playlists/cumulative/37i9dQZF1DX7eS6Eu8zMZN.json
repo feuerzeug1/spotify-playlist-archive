@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Todav\u00eda Me Quedan Amigos",
+        "url": "https://open.spotify.com/album/2cm0MawR5HoSR5KPWjt6Kq"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161567,
+      "name": "Todav\u00eda Me Quedan Amigos",
+      "url": "https://open.spotify.com/track/57rWK0GLa8JjO0QFaz9RMV"
+    },
+    {
+      "album": {
         "name": "Otras Canciones en Vivo en Latinoam\u00e9rica",
         "url": "https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP"
       },

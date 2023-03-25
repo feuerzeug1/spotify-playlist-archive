@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 67279,
+  "num_followers": 67328,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDVkNGU4YTllNzE1ZWQyMmVlYmRiZDE1ZTI5YWEyNjU2",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDRmZGU0NzM3ZWNhOTc5NzdjMDU5YzIyYzI5OTVmMjUw",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Liten fuggel (Med kommentarer)",
+        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "Liten fuggel",
+      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Syng sang",
         "url": "https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 164490,
       "name": "Syng sang",
       "url": "https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Liten fuggel (Med kommentarer)",
-        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Liten fuggel",
-      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -315,22 +315,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Godmorgen, s\u00f8ster",
-        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
       "artists": [
         {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        },
-        {
-          "name": "Rita Eriksen",
-          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
         }
       ],
-      "duration_ms": 270693,
-      "name": "Tir n'a Noir",
-      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
+      "duration_ms": 253946,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -375,6 +371,26 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Godmorgen, s\u00f8ster",
+        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        },
+        {
+          "name": "Rita Eriksen",
+          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Tir n'a Noir",
+      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Skyfri Himmel",
         "url": "https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 212914,
       "name": "Skyfri Himmel",
       "url": "https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Gressholmen",
-      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Tre Pakker Sigaretter",
-        "url": "https://open.spotify.com/album/7C4j0qTmR7bSpn2uebJmjj"
-      },
-      "artists": [
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 193988,
-      "name": "Tre pakker sigaretter",
-      "url": "https://open.spotify.com/track/4IrUGDg2xUSyp5r2I5eJZv"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Jippi",
         "url": "https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 233291,
       "name": "N\u00e5r himmelen faller ned",
       "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Tre Pakker Sigaretter",
+        "url": "https://open.spotify.com/album/7C4j0qTmR7bSpn2uebJmjj"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 193988,
+      "name": "Tre pakker sigaretter",
+      "url": "https://open.spotify.com/track/4IrUGDg2xUSyp5r2I5eJZv"
     },
     {
       "added_at": "2023-02-09 23:00:00",

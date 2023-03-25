@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Temples on cover.
 
-263 songs - 21 hr 15 min
+264 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Angel Dust](https://open.spotify.com/track/75wCRzBwolcOkpB4OsRVnL) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Angel Dust](https://open.spotify.com/album/7qCoXlzYUSkTNP6q5qkh8l) | 6:57 | 2022-11-25 | 2023-01-27 |
 | [Animal Noises](https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam) | [Here Lies Man](https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H) | [You Will Know Nothing](https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX) | 4:12 | 2021-11-12 |  |
 | [Another Quiet Sunday \(Keep Moving On\)](https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Another Quiet Sunday](https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z) | 4:27 | 2023-03-16 |  |
+| [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-03-25 |  |
 | [At Night In Dreams](https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz) | 4:04 | 2021-11-12 |  |
 | [At Night in Dreams](https://open.spotify.com/track/6ZeOVOdxz0Sf0o9yf6imUX) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/6BcETfqZtiIw2TmpQGvAGS) | 4:04 | 2021-11-12 | 2022-07-29 |
 | [Automation](https://open.spotify.com/track/2xrOwkZ4t3qMTaP3oti1Xx) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Automation](https://open.spotify.com/album/7h72n5kHGmCYkoXkBoL3II) | 3:29 | 2021-11-12 | 2022-07-29 |
@@ -42,7 +43,7 @@
 | [Bulls](https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through The War](https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw) | 6:40 | 2021-11-12 |  |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2021-11-12 | 2022-06-18 |
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2021-11-12 | 2022-11-26 |
-| [Busca Ayuda](https://open.spotify.com/track/60zGVY9oWBrgvR4dMOyYjy) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [Busca Ayuda](https://open.spotify.com/album/4sPthmuHoRguvoxG4KkOMi) | 3:51 | 2023-03-16 |  |
+| [Busca Ayuda](https://open.spotify.com/track/60zGVY9oWBrgvR4dMOyYjy) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [Busca Ayuda](https://open.spotify.com/album/4sPthmuHoRguvoxG4KkOMi) | 3:51 | 2023-03-16 | 2023-03-25 |
 | [Caballerango](https://open.spotify.com/track/5k8NaRExvqn0ob1MrvU8Kf) | [Dorotheo](https://open.spotify.com/artist/7Bqd6UDHfc6xlAC4nOmITW) | [Caballerango](https://open.spotify.com/album/1X3BkJvSoJehqCpxpb3B6V) | 4:25 | 2021-11-12 | 2022-07-29 |
 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 |  |
 | [Cardboard Pile](https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Cardboard Pile](https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x) | 4:06 | 2022-04-12 | 2022-07-29 |

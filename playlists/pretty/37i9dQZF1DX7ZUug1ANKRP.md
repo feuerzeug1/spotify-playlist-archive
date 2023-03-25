@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Mike Candys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,710,388 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,711,796 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Diamond Sky](https://open.spotify.com/track/4RGTwTk5Vd5uzDshtlYwW7) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Diamond Sky](https://open.spotify.com/album/7v6VMKg4Q3L3jbHGqjt0KK) | 2:23 |
 | 50 | [WOW \(feat\. ÁSDÍS\)](https://open.spotify.com/track/318quSv1UJeamoAkEDjAuY) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [WOW \(feat\. ÁSDÍS\)](https://open.spotify.com/album/5wGgVYOO2isbGL0WA5fs2Q) | 2:23 |
 
-Snapshot ID: `MTY3OTUwNjQxMywwMDAwMDAwMGUxYzQ1NWI3MjU5ZjE0N2M4OGVlMzY4YTQzODkxOWRl`
+Snapshot ID: `MTY3OTUwNjQxMywwMDAwMDAwMGYxYzRlYzk5YzFmYThlZmNmNmFlZTM1YjM0NDExN2Q4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/4gP93834jVbocef9R42gQz?si=E9SyvXp9Rs2fj13j9vm27w" > Kwaku DMC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,520 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,567 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Brodo](https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd) | [Kev the Topic](https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s), [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Brodo](https://open.spotify.com/album/5vP5InTqdYiCA3i2LORLJ3) | 3:35 |
 | 50 | [2 By 2](https://open.spotify.com/track/3YiAKOhUJSplRyROIAOxMs) | [Komla MC](https://open.spotify.com/artist/1YzRdveJSpKhAPbVoMr8J2) | [2 By 2](https://open.spotify.com/album/2OQTBLs49TBA9Aqeetopnu) | 2:47 |
 
-Snapshot ID: `MTY3OTA0MTc3OCwwMDAwMDAwMDVkMWUzZTQxMjU4OTY5YzkxYjAxZWJiMTgyMzk0Njhk`
+Snapshot ID: `MTY3OTA0MTc3OCwwMDAwMDAwMDlmMzk4ZjJhODdjNGZmZDgxZGZhMmI1NDNmNjY1MDhj`

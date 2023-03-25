@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Bea Miller",
-  "num_followers": 85746,
+  "num_followers": 85768,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDc2YTE1YjEyYzlhYjFjN2Y1OWI0OTI3ODQxZWUxY2Mw",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGIwNDQzMDZkNzg2Nzg3ZjEzODAzOTViNjIxYTEyM2Qw",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "pretty kids",
+        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 159417,
+      "name": "pretty kids",
+      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "OTT",
         "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 157817,
       "name": "OTT",
       "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "pretty kids",
-        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 159417,
-      "name": "pretty kids",
-      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Trouble With This Bed",
-        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 226884,
-      "name": "Trouble With This Bed",
-      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "BREAK THE CURSE",
         "url": "https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 183933,
       "name": "landline",
       "url": "https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
-      },
-      "artists": [
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "American Bollywood",
         "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Your Internet Sucks",
-        "url": "https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R"
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
       },
       "artists": [
         {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
         }
       ],
-      "duration_ms": 169386,
-      "name": "Your Internet Sucks",
-      "url": "https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q"
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 193549,
       "name": "Fog Machine",
       "url": "https://open.spotify.com/track/2oLMRpIzmWXJAI1oEuSqsc"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Your Internet Sucks",
+        "url": "https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Your Internet Sucks",
+      "url": "https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "You'll Get It When You're Older",
-        "url": "https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "Demon",
-      "url": "https://open.spotify.com/track/6eqQ8jPo5Bx0abOQIYbJTp"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine",
         "url": "https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 189246,
       "name": "3am in nyc",
       "url": "https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "You'll Get It When You're Older",
+        "url": "https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/6eqQ8jPo5Bx0abOQIYbJTp"
     },
     {
       "added_at": "2023-01-13 05:00:00",

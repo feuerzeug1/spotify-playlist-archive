@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-240 songs - 17 hr 44 min
+241 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Beirut](https://open.spotify.com/track/37bW0E4kxB3Ex5K4NwgnUY) | [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG), [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Beirut](https://open.spotify.com/album/1mABpSoBrD4rFpeQhdNSwc) | 4:20 | 2020-10-18\* | 2022-07-29 |
 | [Belly Dance](https://open.spotify.com/track/5AFR7DK2GL4HtFTiiJRXYv) | [Game Chasers](https://open.spotify.com/artist/0Zg9ME7KSNIjdMSRspxWCS) | [Belly Dance](https://open.spotify.com/album/52IqDznKi2rWHJMVJ6uMZM) | 3:14 | 2022-06-27 | 2023-03-18 |
 | [Belly Dance](https://open.spotify.com/track/7cYuWkbHyld3zWV9jx5vTQ) | [Game Chasers](https://open.spotify.com/artist/0Zg9ME7KSNIjdMSRspxWCS) | [Belly Dance](https://open.spotify.com/album/2wpmlA6VViXp4INJpIlIp8) | 3:14 | 2020-10-18\* | 2022-07-29 |
-| [Bliss](https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Bliss](https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm) | 3:33 | 2020-10-18\* |  |
+| [Bliss](https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Bliss](https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm) | 3:33 | 2020-10-18\* | 2023-03-25 |
 | [Breathe](https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM) | [Parah Dice](https://open.spotify.com/artist/4QBEmbwSxLlo6RIGlFyn1o), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Breathe](https://open.spotify.com/album/24kHYMHVm3cFlvNS1ru9Qv) | 2:49 | 2020-11-06 |  |
 | [Cewresamin](https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [CEWRESAMIN](https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q) | 2:16 | 2023-03-03 |  |
 | [Chameleon](https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ) | [Sandra N.](https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L) | [Chameleon](https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU) | 3:06 | 2020-12-13 |  |
@@ -134,6 +134,7 @@
 | [Lik \- Mashti & Polyesta Remix for Womex 14](https://open.spotify.com/track/7AlDyIyHRVg5eeNiuJnJKn) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f), [Mashti & Polyesta](https://open.spotify.com/artist/5Ua1N3HlmmjliTsgsIuZu8) | [Buddha\-Bar XVII](https://open.spotify.com/album/2w0GpzgE6gMMdSND0hpPaE) | 5:23 | 2020-10-18\* | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Lost](https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0) | 3:39 | 2021-02-12 |  |
 | [Love of You \(The Violin Song\)](https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Love of You \(The Violin Song\)](https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW) | 2:40 | 2021-02-16 |  |
+| [Lovely](https://open.spotify.com/track/593LEeuExHU4WfqxxaIOYG) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1) | [Lovely](https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H) | 2:56 | 2023-03-25 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2021-03-08 | 2023-03-18 |
 | [Magic](https://open.spotify.com/track/0jqczwiW0nZS9nbHcP53zH) | [Mert Kurt](https://open.spotify.com/artist/4RT6cDwglyYnmCDaxX2LHL), [Barış Çakır](https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J) | [Magic](https://open.spotify.com/album/60BkiwqufLrelLEbCueKG5) | 2:50 | 2021-07-16 | 2022-07-29 |
 | [Mandala](https://open.spotify.com/track/1Y4z9pcqHF9KHHnZQoB07O) | [5054281243927](https://open.spotify.com/artist/19XpYYkXzHg5NrQVMYflP7) | [Mandala](https://open.spotify.com/album/3dUAftuoKoE2HUDPpEVJeS) | 3:57 | 2022-06-27 | 2022-09-24 |

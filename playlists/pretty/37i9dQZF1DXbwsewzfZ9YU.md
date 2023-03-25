@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,211 likes - 78 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,338 likes - 78 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 77 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ACF2rwvNReujse9eedE56) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 2:53 |
 | 78 | [Walk Away](https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Haymaker](https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS) | 3:01 |
 
-Snapshot ID: `MTY3OTA4Nzk0MywwMDAwMDAwMGU1MTk1MGI0MDgzYmYyODMxNDY5ZDljZTM3MDNkODQ2`
+Snapshot ID: `MTY3OTA4Nzk0MywwMDAwMDAwMDZkM2YwOGQ0ZWI4NDBhNzg4NzE5NWY4Yzg5MWVjMDc5`

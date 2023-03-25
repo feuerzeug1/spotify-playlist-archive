@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Phillip-Michael Scales",
+  "description": "A new take on a classic sound. Cover: Jalen Ngonda\n",
   "name": "Retro Soul",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 208320,
       "name": "Communion in My Cup (feat. The Ton3s)",
       "url": "https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 187319,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj"
@@ -2151,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/2364WrvPTUHobDNURudCbM"
+    },
+    {
+      "album": {
         "name": "If You Wanna Love Me",
         "url": "https://open.spotify.com/album/6chg4ErTYtQfbJTyb1NJMy"
       },
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 188155,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
@@ -3190,7 +3208,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-25",
       "duration_ms": 213840,
       "name": "Oh to Be Loved by You",
       "url": "https://open.spotify.com/track/1TdDBVCRdIsnMMbwE1OteZ"
@@ -3802,6 +3820,24 @@
       "duration_ms": 310291,
       "name": "Rose Gold",
       "url": "https://open.spotify.com/track/1qXqUyVNrd2ymu7PQ6xoiC"
+    },
+    {
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2"
     },
     {
       "album": {
@@ -4441,6 +4477,24 @@
     },
     {
       "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/236G8bErE6jhTq1i912HQ9"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262212,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/2Ysz3zB0xV1w96CxhYq0bR"
+    },
+    {
+      "album": {
         "name": "That's How Love Is Made",
         "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
       },
@@ -4982,6 +5036,28 @@
       "duration_ms": 300677,
       "name": "Whatever You Are",
       "url": "https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11"
+    },
+    {
+      "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/0U5ltIZ3Zyd0vqLSzFQNN9"
+      },
+      "artists": [
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        },
+        {
+          "name": "Kelsey Blackstone",
+          "url": "https://open.spotify.com/artist/394uQRigSFiNSRbA9dismJ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162110,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/3xSXtVecNOXQP4J1MP0O7K"
     },
     {
       "album": {

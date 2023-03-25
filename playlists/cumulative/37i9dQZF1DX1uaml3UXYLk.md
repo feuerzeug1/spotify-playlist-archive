@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-528 songs - 1 day 9 hr 47 min
+529 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bittersweetener](https://open.spotify.com/track/1ErzC5Cace2XjJzbkDluK7) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Bittersweetener](https://open.spotify.com/album/6ahXPZy74PVc8KonlJSSny) | 4:21 | 2020-10-20\* | 2020-11-21 |
 | [Blank Blank \- Sleg Remix](https://open.spotify.com/track/3Te1jrHoXaFGTfdIiHLQdC) | [OPTONIKA](https://open.spotify.com/artist/6Wskn6la28RvQxaYFSfos0), [Sleg](https://open.spotify.com/artist/2h6GoDMoyxuXnb4bR2rHqX) | [Blank Blank \(Sleg Remix\)](https://open.spotify.com/album/3P0N6P5ZxuJMk7nTx9qU1K) | 7:28 | 2021-02-24 | 2021-05-13 |
 | [blissful](https://open.spotify.com/track/40tseu8dTJ7f2aAieF0LXX) | [miƶu](https://open.spotify.com/artist/2SK2XzM0EKlNR6hli25ynm) | [blissful](https://open.spotify.com/album/7qMWeSb5WNZQZzlNF6mWUJ) | 4:46 | 2020-11-28 | 2020-12-11 |
+| [Blooms](https://open.spotify.com/track/6fwHeGMfIOEjPajVQzeBRM) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Blooms](https://open.spotify.com/album/5PSwbfxUBMbyVm33UJbs6U) | 3:07 | 2023-03-24 |  |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2021-08-25 |  |
 | [Blue Demons](https://open.spotify.com/track/3Ilx5ch1nI6ioUw1nqbYpk) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [Blue Demons](https://open.spotify.com/album/0QG1EKrQ4IqQAGvCVG3dFb) | 1:59 | 2021-11-10 |  |
 | [Blue Essay](https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy) | [Paralax](https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T) | [Blue Essay](https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk) | 4:56 | 2020-10-20\* | 2021-03-25 |

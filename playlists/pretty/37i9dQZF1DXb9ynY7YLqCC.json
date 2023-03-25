@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 139860,
+  "num_followers": 139998,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMDRjYTVhNThlNjNkNTgwOTlmNDY3YTJjZDMyNzZlOGU3",
+  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMGYyYTVjMGQ3ZDM1ZjQ0NmNlNzJmYjY4ZjkyYjg0ODMx",
   "tracks": [
     {
       "added_at": "2022-12-30 03:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 259813,
       "name": "Sr. Cobranza",
       "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Alucinados como la primera vez",
-        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 300184,
-      "name": "La ilusi\u00f3n que me condena",
-      "url": "https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Las Pastillas del Abuelo",
         "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 431626,
       "name": "Amar y Envejecer",
       "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 300184,
+      "name": "La ilusi\u00f3n que me condena",
+      "url": "https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Surcando",
-        "url": "https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n"
-      },
-      "artists": [
-        {
-          "name": "Cuatro Pesos de Propina",
-          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Mi Revolucion",
-      "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 188586,
       "name": "Down",
       "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Surcando",
+        "url": "https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n"
+      },
+      "artists": [
+        {
+          "name": "Cuatro Pesos de Propina",
+          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Mi Revolucion",
+      "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Mundo Perfecto",
-        "url": "https://open.spotify.com/album/27O4kXJTulUG1vNDXkPTBC"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Hasta La Victoria",
-      "url": "https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 208373,
       "name": "Nunca me ense\u00f1aste",
       "url": "https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Mundo Perfecto",
+        "url": "https://open.spotify.com/album/27O4kXJTulUG1vNDXkPTBC"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Hasta La Victoria",
+      "url": "https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Asi Es el Rock And Roll",
-        "url": "https://open.spotify.com/album/1xWKoqL5voetMxj2ddxI7F"
+        "name": "Monta\u00f1a Rusa Emocional",
+        "url": "https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq"
       },
       "artists": [
         {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
         }
       ],
-      "duration_ms": 271571,
-      "name": "Chico Com\u00fan",
-      "url": "https://open.spotify.com/track/3FxMlzkBfekU3gNliu571t"
+      "duration_ms": 199881,
+      "name": "Monta\u00f1a Rusa Emocional",
+      "url": "https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1"
     }
   ],
   "unique_name": "Rock Barrial",

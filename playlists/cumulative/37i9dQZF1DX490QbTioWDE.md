@@ -2,9 +2,9 @@
 
 ### [100% Cuarteto](https://open.spotify.com/playlist/37i9dQZF1DX490QbTioWDE)
 
-> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
+> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Rodrigo
 
-302 songs - 19 hr 50 min
+304 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,9 +123,10 @@
 | [La Hija del Doctor](https://open.spotify.com/track/6xeWe38Z70YXx9k7zTbVC8) | [Megatrack](https://open.spotify.com/artist/5VqFyx1HDLsbf0bAK0K7Oa) | [La Hija del Doctor](https://open.spotify.com/album/2FUEEh2NoXMZtrBHAqasMJ) | 4:41 | 2021-12-24 | 2022-06-10 |
 | [La Langosta \- En Vivo](https://open.spotify.com/track/3hLGtxS0zLnQrdbCibycFI) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/74mSEDvYetzjvZjzoJkYH2) | 5:01 | 2021-12-24 | 2022-07-27 |
 | [La Luna](https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Antologia Carlitos La Mona Jimenez](https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg) | 4:05 | 2021-12-24 |  |
-| [La mano de Dios \(Homenaje a Diego Maradona\)](https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:44 | 2022-01-07 |  |
+| [La mano de Dios \(Homenaje a Diego Maradona\)](https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:44 | 2022-01-07 | 2023-03-25 |
 | [La Mejor Version de Mí \(En Vivo\)](https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [10 Años Con Amigos \(En Vivo\)](https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6) | 3:56 | 2022-07-22 |  |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/0ENwGxhmqnrC4lvApPNxLD) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Grandes Éxitos](https://open.spotify.com/album/07NUFiMBFam0TEQC06vm5t) | 3:56 | 2021-12-24 | 2022-07-29 |
+| [La Niña de los Ojos tristes](https://open.spotify.com/track/5rMBBvl7sfvBhCvZsLwbxh) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [La Niña de los Ojos tristes](https://open.spotify.com/album/2P9PHXR0KEBu9Wzcmm4r8B) | 4:38 | 2023-03-24 |  |
 | [La Pupera](https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5) | [La Mona Jimenez / los caligaris](https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf) | [La Pupera](https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U) | 2:28 | 2021-12-24 |  |
 | [La Vagancia Cuartetera](https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Vagancia Cuartetera](https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB) | 3:31 | 2021-12-24 |  |
 | [Lamento Borincano](https://open.spotify.com/track/07aYIkmsTxp1klYv7CeMSk) | [Los Ferrari](https://open.spotify.com/artist/2qLoaugsCpfAOolvFfe06b), [Sabroso](https://open.spotify.com/artist/7FIrQ4igI8Mn9dmPnTS9xu) | [Lamento Borincano](https://open.spotify.com/album/2FtEHp1FkZCugd7pKdgEic) | 3:43 | 2022-02-04 | 2022-06-21 |
@@ -235,6 +236,7 @@
 | [Revolución](https://open.spotify.com/track/3FXT8971ZO7qZfQuDDW5ff) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/3mAphvOu2VsBYzMa1IKbZJ) | 2:40 | 2022-05-27 | 2022-06-01 |
 | [Secciones 2020: El Bombón / Llego Tu Mami: / No Me Enseñaste / Otro Día Más Sin Verte / Regresa a Mi / Quien Como Tú](https://open.spotify.com/track/06UaKYiz9otmfECQjsQi1M) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Secciones 2020: El Bombón / Llego Tu Mami: / No Me Enseñaste / Otro Día Más Sin Verte / Regresa a Mi / Quien Como Tú](https://open.spotify.com/album/1B6tiewTsyGxptzhcJ0A4Y) | 10:54 | 2021-12-24 | 2022-06-18 |
 | [Secretos](https://open.spotify.com/track/0MheE91p8ktWXN3qBv7hur) | [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Secretos](https://open.spotify.com/album/7Mwc0OqzOeYClWklcCLpyk) | 2:31 | 2022-06-17 | 2022-08-26 |
+| [Secretos](https://open.spotify.com/track/6QhePdHMNM4772Muezdb30) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Secretos](https://open.spotify.com/album/1pwYqkz7KDk3EUOqNM8gT8) | 3:38 | 2023-03-24 |  |
 | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/track/7ePWUXHm4XtfDn1g1pVRqe) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/album/2RtP8G6cGBrMGaYR3HZiqv) | 4:20 | 2022-09-16 | 2022-12-03 |
 | [Si Faltas Tú](https://open.spotify.com/track/5qg6DJXbQTPTGGF5Ft94Oa) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Cuarteto Premium](https://open.spotify.com/album/5Bzeyk1auK1ebXzNZRnXvz) | 2:59 | 2022-06-03 | 2022-09-23 |
 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 | 2022-09-23 |  |
@@ -256,7 +258,7 @@
 | [Te Felicito](https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Te Felicito](https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ) | 2:32 | 2022-08-05 | 2022-10-04 |
 | [Te Mentiría](https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [25 \- Veinticinco](https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2) | 3:37 | 2022-07-22 |  |
 | [Te Mentiría](https://open.spotify.com/track/0WdttC6k9GGARGjFo3I8J1) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [25](https://open.spotify.com/album/4Izm5vwVnN28o2XxNi4pU2) | 3:37 | 2021-12-24 | 2022-07-29 |
-| [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-12-24 |  |
+| [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-12-24 | 2023-03-25 |
 | [Te Mentiría \(Versión Cuarteto\)](https://open.spotify.com/track/7o3AnZAepnOd46KYzgpAMf) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría \(Versión Cuarteto\)](https://open.spotify.com/album/3Es15bUlmBVcCH8RpPsEjH) | 3:33 | 2021-12-24 |  |
 | [Te Olvidaré \- En Vivo](https://open.spotify.com/track/4rc4JtQET33dBoiUnpXudm) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Olvidaré \(En Vivo\)](https://open.spotify.com/album/4CBSfAj78zjg0JqIK9iKug) | 2:14 | 2022-07-15 | 2022-08-19 |
 | [Te perdiste mi amor](https://open.spotify.com/track/79pz16ngfYU2iZV0dvj3QU) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Dejando Huellas](https://open.spotify.com/album/5iLLVzBNgzEjgvU0AZbVl8) | 3:12 | 2021-12-24 | 2023-03-18 |

@@ -2,9 +2,9 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 艾薇 \(Ivy\)
+> 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 黃美婷 \(OHMYMEITING\)
 
-305 songs - 18 hr 6 min
+306 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [the way you wanna be](https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [the way you wanna be](https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN) | 2:37 | 2022-12-08 | 2023-02-24 |
 | [Till We Fall in Love](https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [Till We Fall in Love](https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt) | 4:00 | 2022-01-20 | 2022-03-25 |
 | [Up In the Air](https://open.spotify.com/track/7eEpzdJJX8AE4Fweh9vx45) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Up In the Air](https://open.spotify.com/album/0wrRmU5Lrv1Zbzlt64qKxJ) | 2:29 | 2022-03-24 | 2022-06-24 |
+| [Utopia Reimagined: 宁静的海洋](https://open.spotify.com/track/2F92epgieVe49h9qkKkQHX) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [Utopia Reimagined: 宁静的海洋](https://open.spotify.com/album/006h1eKoIJiDhyC5UdpnIw) | 3:26 | 2023-03-23 |  |
 | [Virtual Lover](https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Virtual Lover](https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr) | 2:54 | 2021-12-30 | 2023-01-06 |
 | [WANT TOO](https://open.spotify.com/track/1xBLUezHIborqtET1vkfcY) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [WANT TOO](https://open.spotify.com/album/76c574QgbdN4As2a8yvspS) | 2:43 | 2022-06-02 | 2022-10-07 |
 | [Weirdo \- Acoustic Version](https://open.spotify.com/track/3sgCFqA7PqmMae2zepUIh2) | [HUR](https://open.spotify.com/artist/14cA6ZJHyr9VQpEQ5xzsui), [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [Weirdo \(Acoustic Version\)](https://open.spotify.com/album/6iLV2Ew0CYO9zJAgja0sxj) | 3:10 | 2022-08-11 | 2022-10-21 |
@@ -186,7 +187,7 @@
 | [已經結束的](https://open.spotify.com/track/3n2nL6Acs4XapA3rOd38gk) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 4:19 | 2021-12-30 | 2022-01-14 |
 | [已經都壞掉了](https://open.spotify.com/track/63SsfMEls60dFyvkcFIkz9) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:37 | 2022-01-27 | 2022-08-05 |
 | [巴黎德州](https://open.spotify.com/track/646sWCgtmmdysQ5ozDoADF) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Real Love Is...](https://open.spotify.com/album/1HuMI9YQymF8NWBn2D8BdK) | 4:24 | 2023-01-19 |  |
-| [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 | 2021-12-30 |  |
+| [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 | 2021-12-30 | 2023-03-25 |
 | [幸福藏在哪裡 \- 天堂的微笑片頭曲](https://open.spotify.com/track/2BVe8mICFBg4OMJyBSgdq9) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 5:02 | 2021-12-30 |  |
 | [很想很想你 \(電視劇《月裡青山淡如畫》插曲\)](https://open.spotify.com/track/65IeKSN4N5Df5uJR856Wjg) | [yihuik苡慧](https://open.spotify.com/artist/3tkDkXGNpLVIt8qQJHSb7e), [曹楊Young](https://open.spotify.com/artist/5JOUHQFT7pdj2vkhUIrkrk) | [很想很想你 \(電視劇《月裡青山淡如畫》插曲\)](https://open.spotify.com/album/5WSMqB9fHeEDZ3jQbtHkkG) | 3:22 | 2022-12-22 | 2023-02-17 |
 | [很需要](https://open.spotify.com/track/1gBvmKojwjBedxCNxRdD7L) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [很需要](https://open.spotify.com/album/4lExxpbmfaioqIwVUYzgLl) | 4:32 | 2023-01-05 | 2023-02-10 |
