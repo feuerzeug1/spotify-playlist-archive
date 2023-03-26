@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188266,
+      "name": "Part Of It",
+      "url": "https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI"
+    },
+    {
+      "album": {
         "name": "Part Of It",
         "url": "https://open.spotify.com/album/7i5IRmSjqrNYxe6IyCHpII"
       },
@@ -400,7 +418,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 188267,
       "name": "Part Of It",
       "url": "https://open.spotify.com/track/6WvYyipJBlAkgRSOWpsXRQ"
@@ -638,7 +656,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 208413,
       "name": "What I Wouldn't Do",
       "url": "https://open.spotify.com/track/1PiHmLh6YmyDT6vwpFI2jg"

@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Oreozin, Caio Luccas",
-  "num_followers": 99075,
+  "num_followers": 99204,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDExZWM0NzJiZWMxNmVhMDU5ZTZhZDI3NmViYTAzMDA4",
+  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMGRlNDYxZmNkNmI0ODM1ZDdhN2QxNjQ2Y2Y3NzZkNWZl",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1147,6 +1147,46 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Qatar Freestyle (Papatracks #9)",
+        "url": "https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Qatar Freestyle (Papatracks #9)",
+      "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Jogador",
+        "url": "https://open.spotify.com/album/31n2Ou1qjqqlAhrcWvIG3m"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Jogador",
+      "url": "https://open.spotify.com/track/1Seaw5DuwftrRiKDqkizPR"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "SET DJ GM 2.0",
         "url": "https://open.spotify.com/album/7MNRt1Veypg7CQ3MGortjE"
       },
@@ -1195,46 +1235,6 @@
       "duration_ms": 475200,
       "name": "SET DJ GM 2.0",
       "url": "https://open.spotify.com/track/38BuaDkieTqCDqaawXsf78"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Jogador",
-        "url": "https://open.spotify.com/album/31n2Ou1qjqqlAhrcWvIG3m"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Jogador",
-      "url": "https://open.spotify.com/track/1Seaw5DuwftrRiKDqkizPR"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Qatar Freestyle (Papatracks #9)",
-        "url": "https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Qatar Freestyle (Papatracks #9)",
-      "url": "https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8"
     },
     {
       "added_at": "2023-03-24 03:01:00",

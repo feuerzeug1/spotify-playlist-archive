@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,857 likes - 125 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,952 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 45 | [ride like that](https://open.spotify.com/track/7qcLil8IUn5THEKdwE8iR9) | [let me you](https://open.spotify.com/artist/4D5bNOz5mLxAdGBqqvqVMS), [L.A\. Rochelle](https://open.spotify.com/artist/3uY7CDg3g84A8y1PoYcATv) | [ride like that](https://open.spotify.com/album/4TiXClcfy7M5Fv1AVFSRh0) | 2:01 |
 | 46 | [Slug](https://open.spotify.com/track/0pI7zATeng92EknYPfi2B2) | [CRUSH3d](https://open.spotify.com/artist/5Qvgao5nFsaKRPeL42Dnpf) | [LOVESTAR](https://open.spotify.com/album/59QdYCo6YpVIUim9b3k27e) | 3:35 |
 | 47 | [pls \(−\_−;\)](https://open.spotify.com/track/1y7ZG3g05KN8L2BUm4qRtw) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [pls \(−\_−;\)](https://open.spotify.com/album/37Hl1DV0EnLAAhrZEI6qDx) | 2:06 |
-| 48 | [I GOT IT \(FEAT\. UÑAS\)](https://open.spotify.com/track/4WFWaNt3YlOYbqjeaSPo6q) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4), [Uñas](https://open.spotify.com/artist/7KxOg00RqgYHkrbd8T2OSd) | [I GOT IT \(FEAT\. UÑAS\)](https://open.spotify.com/album/6zCqTsJiwNIyhcJSaHVEzO) | 3:48 |
+| 48 | [I GOT IT \(FEAT\. UÑAS\)](https://open.spotify.com/track/2fBPrtBTLHXxOpmLalySPb) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4), [Uñas](https://open.spotify.com/artist/7KxOg00RqgYHkrbd8T2OSd) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:48 |
 | 49 | [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 |
 | 50 | [your love](https://open.spotify.com/track/7666mOSUvHVcc7CJ0TaDq7) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [your love](https://open.spotify.com/album/3qgDicGJlPlPPJI4ISKGnh) | 2:34 |
 | 51 | [Power 2 Tha People](https://open.spotify.com/track/7aftORj0cBJ8cDgEL6VmLs) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Return of the Golden Funk](https://open.spotify.com/album/2FHptZi8FfJvJa8rr7RbWK) | 5:44 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 124 | [papercuts](https://open.spotify.com/track/7hk6H482fKMzuUQ2Jf8bG3) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH) | [papercuts](https://open.spotify.com/album/5pOt2aPHSirpOt9voInHZv) | 2:13 |
 | 125 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 |
 
-Snapshot ID: `MTY3OTY2ODY1MiwwMDAwMDAwMDZiMTM0ZGIxOWMxMDkzMmQ2OTFlMTFmY2I5MmJmNWJl`
+Snapshot ID: `MTY3OTY2ODY1MiwwMDAwMDAwMGY5ZTU5MDkwZDc2YzU2MWZjMjc2NWQ5NzY0ZTJkNDhj`

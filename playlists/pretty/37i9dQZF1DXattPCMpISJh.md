@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jake Shears
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,560 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,681 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 2 | [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\) \- Michael Gray Remix](https://open.spotify.com/track/6co4kLDedobQeZFVSp523C) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17) | [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O) | 3:48 |
 | 3 | [Out of Your Mind](https://open.spotify.com/track/6hzfmSXnmXPhOXs6aWH0JC) | [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Songs I Wish I'd Written: Vol\. 5](https://open.spotify.com/album/2OXgwJiuLHrIdmYKKhO5gg) | 4:24 |
 | 4 | [You Make Me Feel So Good](https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [You Make Me Feel So Good](https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq) | 3:37 |
-| 5 | [In This Life \- Cassara Remix](https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Mandy Jones](https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ), [Cassara](https://open.spotify.com/artist/6zg5DXDe11supw2zNxGMck) | [In This Life \(Cassara Remix\)](https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk) | 6:21 |
+| 5 | [In This Life \- Cassara Remix](https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Mandy Jones](https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ), [Cassara](https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi) | [In This Life \(Cassara Remix\)](https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk) | 6:21 |
 | 6 | [In The Mood To Groove \- Dave Lee Extended Mix](https://open.spotify.com/track/1ZAgfz1nuysUBaqOcpxGG2) | [Foreal People](https://open.spotify.com/artist/3HzsfFc9UxQSimCcQw3xIC), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Foreal to Real EP](https://open.spotify.com/album/4bZCsip7tfhmmcQkPxPOTT) | 7:24 |
 | 7 | [Pearls](https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Pearls](https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX) | 4:03 |
 | 8 | [Never Coming Back](https://open.spotify.com/track/0ZtUCVf7uuDAQ7dXGTALEG) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The Upper Cuts Singles \(2023 Edition\)](https://open.spotify.com/album/7gggj6SUuzQ8x2NSySkzTu) | 3:23 |

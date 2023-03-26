@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Kaleem Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,178 likes - 142 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,169 likes - 142 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

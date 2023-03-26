@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 181225,
+  "num_followers": 181300,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDJkYTBmOWIyNzRiMjQ4ZTFkYzBlODBjZDAyODExZGQ3",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDY0N2JiMTk1MDM5ODA5YWNhZjI5MzI4MjZkNDdkYzRh",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Punk Rock Jukebox",
-        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law",
-          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
-        }
-      ],
-      "duration_ms": 124360,
-      "name": "Somebody's Gonna Get Their Head Kicked In",
-      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "This Is Just the Beginning",
         "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 96053,
       "name": "Can't Take It Away",
       "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Punk Rock Jukebox",
+        "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law",
+          "url": "https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G"
+        }
+      ],
+      "duration_ms": 124360,
+      "name": "Somebody's Gonna Get Their Head Kicked In",
+      "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
-      },
-      "artists": [
-        {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Just Can't Hate Enough",
-      "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Silence Is Betrayal",
         "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 53168,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+      },
+      "artists": [
+        {
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Just Can't Hate Enough",
+      "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -731,18 +731,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+        "name": "Unorthodox",
+        "url": "https://open.spotify.com/album/43x6i9LnpamFuzgOguORon"
       },
       "artists": [
         {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+          "name": "Indecision",
+          "url": "https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM"
         }
       ],
-      "duration_ms": 144413,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
+      "duration_ms": 108279,
+      "name": "Blindfold",
+      "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -763,6 +763,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+      },
+      "artists": [
+        {
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+        }
+      ],
+      "duration_ms": 144413,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Gomorrah's Season Ends",
         "url": "https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k"
       },
@@ -779,34 +795,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Unorthodox",
-        "url": "https://open.spotify.com/album/43x6i9LnpamFuzgOguORon"
+        "name": "Hail Destroyer",
+        "url": "https://open.spotify.com/album/4zR3343ue909iFnr6odhK3"
       },
       "artists": [
         {
-          "name": "Indecision",
-          "url": "https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM"
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
         }
       ],
-      "duration_ms": 108279,
-      "name": "Blindfold",
-      "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Set Your Goals",
-        "url": "https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda"
-      },
-      "artists": [
-        {
-          "name": "CIV",
-          "url": "https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "Choices Made",
-      "url": "https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL"
+      "duration_ms": 196680,
+      "name": "Hail Destroyer",
+      "url": "https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II"
     }
   ],
   "unique_name": "Classic Hardcore",

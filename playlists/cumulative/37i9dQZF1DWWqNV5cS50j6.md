@@ -4,7 +4,7 @@
 
 > Curtis Waters makes anti pop
 
-1,324 songs - 2 day 15 hr 50 min
+1,325 songs - 2 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,7 +746,8 @@
 | [Mistakes \(feat\. Renzo Suburbn\)](https://open.spotify.com/track/5dLGkG93MRSFhicUOcPL1T) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Renzo Suburbn](https://open.spotify.com/artist/69qG49IaZkjleL2vXwdTuA) | [Pity Party](https://open.spotify.com/album/6f5E0fgEQox4MmTJqxOnrD) | 2:05 | 2020-10-13\* | 2021-02-27 |
 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5zZWKugaE2ZmnZN77HVfUH) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Slaves](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/album/1QwJwcvJ9wiYfGxwk6YZOy) | 3:41 | 2020-10-13\* | 2021-01-23 |
 | [Moments](https://open.spotify.com/track/56qRMJCKOOv4EXl0ONEM5J) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [1800](https://open.spotify.com/album/7AJXU1dkisvltiOKpfssGJ) | 1:53 | 2020-10-13\* | 2020-11-03 |
-| [MONA LISA](https://open.spotify.com/track/3rTk3EuxDOduzi54ji5sqj) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/2OvBs0EwzxPxaoTrZwtg0x) | 3:41 | 2023-03-17 |  |
+| [MONA LISA](https://open.spotify.com/track/3rTk3EuxDOduzi54ji5sqj) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/2OvBs0EwzxPxaoTrZwtg0x) | 3:41 | 2023-03-17 | 2023-03-26 |
+| [MONA LISA](https://open.spotify.com/track/64u544VQPMuJUGklB7dbtK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/3pittQTMimOMMBzkx9gWl5) | 3:41 | 2023-03-17 |  |
 | [money](https://open.spotify.com/track/0wdG81xz8LHGZV7ScbAHr4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [money](https://open.spotify.com/album/1xkbALcBiU3IqPwmhTdCMN) | 2:56 | 2021-05-08 | 2021-10-16 |
 | [MONKEYBALL](https://open.spotify.com/track/01cE88yfT1liEsHfYrSaRo) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOGWASH](https://open.spotify.com/album/5obM1R5JkJfcnHFiXzEEsI) | 2:21 | 2022-11-18 | 2022-12-01 |
 | [Monte Carlo](https://open.spotify.com/track/3CXCtE8qJIFtUJJZRKCcXC) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Monte Carlo](https://open.spotify.com/album/5jZs0pEMbz0ZDdEqd0GmrI) | 2:23 | 2020-10-13\* | 2021-05-29 |

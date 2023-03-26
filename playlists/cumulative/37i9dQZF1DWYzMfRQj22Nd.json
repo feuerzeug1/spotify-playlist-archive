@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 247135,
       "name": "Go",
       "url": "https://open.spotify.com/track/6LmNEPZWhYAyz9jZHaW3sj"
@@ -4636,6 +4636,28 @@
       "duration_ms": 318584,
       "name": "Mindhunter",
       "url": "https://open.spotify.com/track/7oX6tAI94JsHjiNih0OTQT"
+    },
+    {
+      "album": {
+        "name": "Miracle (REAPER Remix)",
+        "url": "https://open.spotify.com/album/3OLg6ht1U2rZSkeGsRbWjy"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204827,
+      "name": "Miracle - REAPER Remix",
+      "url": "https://open.spotify.com/track/3wknLKMR6bR5zoDIyKNO68"
     },
     {
       "album": {

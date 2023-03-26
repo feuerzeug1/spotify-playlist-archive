@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=tsgL1DVgTi2hXJ3qsbzeHA">Elevation Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,211 likes - 99 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,396 likes - 99 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 32 | [Resurrection Day](https://open.spotify.com/track/4EHzPA0YxBw6YyvGceqK0T) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:16 |
 | 33 | [Bless His Name / To Him Who Sits On the Throne \- Live](https://open.spotify.com/track/3wpiepnrK0D74xa4sFqv4a) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Kyle Howard](https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo) | [Bless His Name \(Live from Urbana\)](https://open.spotify.com/album/6Paas7aU7k5o05Q1yL4JP2) | 9:42 |
 | 34 | [My Soul Sings](https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [My Soul Sings](https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3) | 6:00 |
-| 35 | [eyes locked on the King](https://open.spotify.com/track/19Jl5Q60tGlp0aNBUIMnzO) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [eyes locked on the King](https://open.spotify.com/album/1Ckja7f8E9XFFfqVPu9ohP) | 4:21 |
+| 35 | [eyes locked on the king](https://open.spotify.com/track/19Jl5Q60tGlp0aNBUIMnzO) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [eyes locked on the king](https://open.spotify.com/album/1Ckja7f8E9XFFfqVPu9ohP) | 4:21 |
 | 36 | [In Jesus Name \(God of Possible\) \- Live](https://open.spotify.com/track/5eBNg5nAy9fw3dq9UO389L) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [In Jesus Name \(God of Possible\) \[Live\]](https://open.spotify.com/album/36UpsxvsA4iizloxTcYbE8) | 4:16 |
 | 37 | [Jesus Does \- Live From The Ryman](https://open.spotify.com/track/3mVhKKWyw7Vs1PB1LiiyS1) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Live From The Ryman](https://open.spotify.com/album/6MIa1NpLwpjAHqaKK08XFI) | 6:12 |
 | 38 | [Fear is Not My Future \- Radio Version](https://open.spotify.com/track/6VCUTG3DbG8PpkqSvLogfa) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Fear is Not My Future \(Radio Version\)](https://open.spotify.com/album/4CuurdO1lDLMmHDjfzRdmk) | 4:02 |

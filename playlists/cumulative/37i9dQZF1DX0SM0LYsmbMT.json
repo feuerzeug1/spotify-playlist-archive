@@ -12425,6 +12425,24 @@
     },
     {
       "album": {
+        "name": "Cozy Jazz",
+        "url": "https://open.spotify.com/album/3CF3bR4wY1w9tktFA2Fj73"
+      },
+      "artists": [
+        {
+          "name": "Prod. By Outtake",
+          "url": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Cozy Jazz",
+      "url": "https://open.spotify.com/track/03NvFoQqVypUOifssBl0JC"
+    },
+    {
+      "album": {
         "name": "Crash Test Dummy",
         "url": "https://open.spotify.com/album/2qQsen0UZpUD3PsQlXqCbw"
       },
@@ -18381,6 +18399,24 @@
     },
     {
       "album": {
+        "name": "Felices Siestas",
+        "url": "https://open.spotify.com/album/1wRRFA1Lv2RZZXFR0EMaBk"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Siesta",
+          "url": "https://open.spotify.com/artist/2i7FDVuvOVPT1aPOhx6oQ5"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127321,
+      "name": "Felices Siestas",
+      "url": "https://open.spotify.com/track/37P1VYFyxYXH3jFsnuONhs"
+    },
+    {
+      "album": {
         "name": "Fell in Love with a Berliner",
         "url": "https://open.spotify.com/album/2RjZfAuJCZaEzvlOIgSE71"
       },
@@ -24254,7 +24290,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 125500,
       "name": "Hey Now",
       "url": "https://open.spotify.com/track/6SPgOxBRjbliqObVYwO6qs"
@@ -25624,7 +25660,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 133793,
       "name": "Hydration",
       "url": "https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z"
@@ -27732,6 +27768,28 @@
       "duration_ms": 152000,
       "name": "Island Of Love",
       "url": "https://open.spotify.com/track/434Jv5RWSMaAymEvFp2zG3"
+    },
+    {
+      "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/5jUKJQxf3fNqYnWItShQXl"
+      },
+      "artists": [
+        {
+          "name": "Screwaholic",
+          "url": "https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117148,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/62IKEWx76EJslWVXnlMJ9b"
     },
     {
       "album": {
@@ -48360,7 +48418,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 140741,
       "name": "Rising above",
       "url": "https://open.spotify.com/track/0ODoxQRBEKfiC9JEheGBbz"
@@ -54142,7 +54200,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 151004,
       "name": "Spiegelei",
       "url": "https://open.spotify.com/track/2UgF2ERVFHWhFWcytlNO7G"
@@ -63844,6 +63902,24 @@
       "duration_ms": 127764,
       "name": "Vintage Coffee Table",
       "url": "https://open.spotify.com/track/66BR648iiKFgaqpH78y6nk"
+    },
+    {
+      "album": {
+        "name": "Vinyl Fever",
+        "url": "https://open.spotify.com/album/1yjmJJE0d9HT4wttLJ6Z76"
+      },
+      "artists": [
+        {
+          "name": "Grmmr.126",
+          "url": "https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90352,
+      "name": "Vinyl Fever",
+      "url": "https://open.spotify.com/track/3dxpWPVR8qM5VJG0xzflOp"
     },
     {
       "album": {

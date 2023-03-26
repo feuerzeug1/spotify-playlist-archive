@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Frank Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,703 likes - 85 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,722 likes - 85 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 81 | [Elesa](https://open.spotify.com/track/7mYW6UDI53tZrhLycPqcw0) | [Haffenfold](https://open.spotify.com/artist/2b22KV07lFaJYxVmpdiCkq) | [Elesa](https://open.spotify.com/album/1en5wHdoxXFQhUsbCcx1uT) | 4:16 |
 | 82 | [Wayside](https://open.spotify.com/track/48IVW1WGlFeJ1USJAa9Y8t) | [Freddie Future](https://open.spotify.com/artist/3TvOtMsG1MPfCem7PyZLXu) | [Loving You](https://open.spotify.com/album/1agmfX6VpIe2ZAxFEBJyBl) | 3:07 |
 | 83 | [Rhythm](https://open.spotify.com/track/1nga9f11uUQS6mSz427Jrz) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Rhythm](https://open.spotify.com/album/0HbPiygzxaLpx6ba5Lb1QW) | 2:32 |
-| 84 | [Fade Away](https://open.spotify.com/track/0gyYoN9pzTqhm9JDQ2mwyL) | [aiden](https://open.spotify.com/artist/4fyX4gJSYNlpMv8WZjWnrX) | [Fade Away](https://open.spotify.com/album/7EWOw8JTdNAE0ceq6Wh0uy) | 2:19 |
+| 84 | [Fade Away](https://open.spotify.com/track/3NZk9B6w0puFz86kSEwKah) | [aiden](https://open.spotify.com/artist/4fyX4gJSYNlpMv8WZjWnrX) | [Fade Away](https://open.spotify.com/album/7Dl87NNdrHiOHBxHK9xyGV) | 2:19 |
 | 85 | [Don't Matter To Me](https://open.spotify.com/track/0CaIPtHg6HVTS5W7OsQXL5) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Don't Matter To Me](https://open.spotify.com/album/6DldFsrJ1fLHQcQS6bMulS) | 3:45 |
 
-Snapshot ID: `MTY3OTY2NjYwMSwwMDAwMDAwMDdhOTEyNTlhZjJlMTRlMjQ3ZThmMzY3MTA0ZTQwMjRi`
+Snapshot ID: `MTY3OTY2NjYwMSwwMDAwMDAwMGE0ZTI2NGYzOTAzNjA4NWE2ZTNiMTM1N2M5ODAzNTg4`

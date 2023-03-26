@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Jimin
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,282 likes - 95 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,310 likes - 95 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
 | 2 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 |
 | 3 | [Di Ujung Hari](https://open.spotify.com/track/1IZfp6REaaY2dF9U4fkEXV) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Di Ujung Hari](https://open.spotify.com/album/6EKeNdmZmzZpZanXKYA5wY) | 4:10 |
-| 4 | [space \(feat\. Teddy Aditya\)](https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC), [Teddy Aditya](https://open.spotify.com/artist/4PTQkIfi5gNNENy976x1gc) | [space](https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k) | 2:30 |
+| 4 | [space \(feat\. Teddy Adhitya\)](https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [space](https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k) | 2:30 |
 | 5 | [Nada Kaya](https://open.spotify.com/track/7JAbI8eEdZwxu2QcnZDOdK) | [Ridho Hafiedz](https://open.spotify.com/artist/333gtAbHn4gjJRRQDjUoIR), [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Nada Kaya](https://open.spotify.com/album/2d2pCzAJ5ODhAsocPDhYeO) | 4:15 |
 | 6 | [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 |
 | 7 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 14 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 |
 | 15 | [Cuma Ingin Polo](https://open.spotify.com/track/5kTtUdYCFSNyp7x89bKP9c) | [Near](https://open.spotify.com/artist/6ojLiXkE6pfuxeb9cfY7fU), [Iz One](https://open.spotify.com/artist/4290vjCgfPd4Y62EKgLT2a) | [Cuma Ingin Polo](https://open.spotify.com/album/3XLuExMtgN3wam9qSCg2uQ) | 4:00 |
 | 16 | [Bulan Padang Pasir](https://open.spotify.com/track/2tTjC8sy3a6MJox9HZi2Bq) | [Bella Fawzi](https://open.spotify.com/artist/3RnxeXxr5PwsplroB1Y081) | [Bulan Padang Pasir](https://open.spotify.com/album/1vtnQHF6zZ7JTAS8i5PV8A) | 4:12 |
-| 17 | [Tides \- From "Induk Gajah"](https://open.spotify.com/track/6qiunf2Phv1XewxvWpZU7U) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa) | [Tides \(From "Induk Gajah"\)](https://open.spotify.com/album/0IveWFjKEUnmg25sM4M5Hr) | 3:59 |
+| 17 | [Tides \- From "Induk Gajah"](https://open.spotify.com/track/6qiunf2Phv1XewxvWpZU7U) | [Pepita](https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa) | [Tides \(From "Induk Gajah"\)](https://open.spotify.com/album/0IveWFjKEUnmg25sM4M5Hr) | 3:59 |
 | 18 | [Ku Tunggu Kau Di Jalan Pulang](https://open.spotify.com/track/1Zi38T6BRjpnWaS6H70z6l) | [Samuel Cipta](https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc) | [Ku Tunggu Kau Di Jalan Pulang](https://open.spotify.com/album/1d9U86UEPFyZjW2iyxgPVB) | 3:48 |
 | 19 | [Kiss n Tell](https://open.spotify.com/track/5MUuWwnfuO5XgX4YFKIcrf) | [Kandiya](https://open.spotify.com/artist/20OW5kxM7ZBU4lBLes56eC) | [Kiss n Tell](https://open.spotify.com/album/1P6UEd0QVOaQP82Q8QwY9c) | 2:55 |
 | 20 | [Bulan Penuh](https://open.spotify.com/track/3cDAJkLI6JK4rxyHKFFvFd) | [Angie Zelena](https://open.spotify.com/artist/7HHWWA6zywWp8FBUTDRQXz) | [Bulan Penuh](https://open.spotify.com/album/5liswBDGvk6qnuKxZ0rda3) | 3:42 |

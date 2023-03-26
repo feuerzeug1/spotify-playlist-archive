@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 82076,
+  "num_followers": 82124,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDY1ZGMyMzM1Mjk4YTUyOTQ3ODlkMjUyYzc3NmFmM2Vl",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDY2NTQyMTAyYzg0MmVmZGYzZGZhNjk4MzUyYjlhYTVm",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Flaming Fire",
-        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
-      },
-      "artists": [
-        {
-          "name": "Melvin Ayala",
-          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Que No Faltes Tu",
-      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Los Revolucionarios",
         "url": "https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 235681,
       "name": "Batugozo",
       "url": "https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Flaming Fire",
+        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
+      },
+      "artists": [
+        {
+          "name": "Melvin Ayala",
+          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Que No Faltes Tu",
+      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -815,18 +815,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Dios Te Bendiga",
-        "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
       },
       "artists": [
         {
-          "name": "Willy Rodriguez",
-          "url": "https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
         }
       ],
-      "duration_ms": 232254,
-      "name": "Dios Te Bendiga",
-      "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
+      "duration_ms": 190290,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -851,6 +851,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Dios Te Bendiga",
+        "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
+      },
+      "artists": [
+        {
+          "name": "Willy Rodriguez",
+          "url": "https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH"
+        }
+      ],
+      "duration_ms": 232254,
+      "name": "Dios Te Bendiga",
+      "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Conteo Regresivo",
         "url": "https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 229955,
       "name": "Ritmo Del Cielo",
       "url": "https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 190290,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

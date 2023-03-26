@@ -4785,6 +4785,28 @@
     },
     {
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5JG9VRDNGcze0Jm6jJafNE"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "Skyler Cocco",
+          "url": "https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177552,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/3pWHBjYxauqdnnkSQLECvR"
+    },
+    {
+      "album": {
         "name": "Peace Sounds",
         "url": "https://open.spotify.com/album/5PgUA3B3q8OSS4QG9zEFQv"
       },
@@ -4894,7 +4916,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 210319,
       "name": "Pixelize",
       "url": "https://open.spotify.com/track/73d41oOWB41QWv4mAB5Ymf"

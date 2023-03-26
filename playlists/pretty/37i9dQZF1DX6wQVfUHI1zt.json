@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 188366,
+  "num_followers": 188467,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ3Mzg1OCwwMDAwMDAwMDAyMDliNzcyZDZiMjFlOTRkZjZhNWUwNjU1MmU2NTVi",
+  "snapshot_id": "MTY3ODQ3Mzg1OCwwMDAwMDAwMDkwYjc0YTk5OWQyN2UxMzFjMTU5NDU4MjY1MmM4OWY0",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 284973,
       "name": "Buenos Amigos",
       "url": "https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Ens\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Ones",
-        "url": "https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "Techno Cumbia",
-      "url": "https://open.spotify.com/track/6M9FEVLhh9wQrsq2CUk6QR"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "El Cazador",
         "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 190840,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Ones",
+        "url": "https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "Techno Cumbia",
+      "url": "https://open.spotify.com/track/6M9FEVLhh9wQrsq2CUk6QR"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Lo Mejor De\u2026",
-        "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 281186,
-      "name": "I Could Fall In Love",
-      "url": "https://open.spotify.com/track/3BK927dUqOGro6GtXO3e2S"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 227986,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/2wWq8OrM7L0zUqvZvexwGV"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Lo Mejor De\u2026",
+        "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 281186,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/3BK927dUqOGro6GtXO3e2S"
     },
     {
       "added_at": "2023-03-10 18:44:18",

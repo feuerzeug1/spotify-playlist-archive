@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-923 songs - 2 day 8 hr 28 min
+924 songs - 2 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,7 @@
 | [Mexico](https://open.spotify.com/track/55bd4KmdD0m1o4cmreo5uJ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Mexico](https://open.spotify.com/album/0hpNndgh1slM2ILQtVwb3M) | 2:41 | 2021-12-24 | 2022-04-21 |
 | [Mezcla Con Aire](https://open.spotify.com/track/0hqs081NSY8lXAn4CentKD) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Mezcla Con Aire](https://open.spotify.com/album/16VCyrgFpJngo1Lg6lzSwN) | 4:38 | 2022-04-08 | 2022-04-10 |
 | [Mi Elemento](https://open.spotify.com/track/1LlMcgHwbls4Q2YCBWzcl1) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Celesteacústica \(Veinteaniversario\)](https://open.spotify.com/album/6tQ0Kj4WjIJDobEpCxlRIy) | 4:27 | 2022-03-24 | 2022-04-13 |
-| [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 | 2021-12-24 |  |
+| [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 | 2021-12-24 | 2023-03-26 |
 | [Mi Mundo](https://open.spotify.com/track/5KljApSmb9LlEKJByQggns) | [Perros De Calle](https://open.spotify.com/artist/6S4uA4EOM68fyWMRDuP44p) | [Mi mundo](https://open.spotify.com/album/6kr91W1uEcl8cWhZRLGdXh) | 2:56 | 2022-03-28 | 2022-04-20 |
 | [Mi Poder](https://open.spotify.com/track/5u6vrXSwaWevC7udvjdGnD) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Mi Poder](https://open.spotify.com/album/4liTpNtI16hNlia7Sa841E) | 3:42 | 2022-03-24 | 2022-03-31 |
 | [Mi Semilla](https://open.spotify.com/track/4SkGchp4kZKGsHGFN8NGb7) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [La Vela Puerca](https://open.spotify.com/album/1njdmV3J4ISzRiXiJeKMTP) | 3:25 | 2022-04-08 | 2022-05-28 |
@@ -846,6 +846,7 @@
 | [Tú](https://open.spotify.com/track/1m7i1H4AeNZ4OLUKgSzqRy) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Tú](https://open.spotify.com/album/1VWUNv00kcEVsdD5CGGfCZ) | 3:07 | 2022-07-07 | 2022-07-16 |
 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 | 2022-03-24 | 2023-03-25 |
 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn) | 4:28 | 2022-03-11 | 2022-05-17 |
+| [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-17 |  |
 | [Umbrella \- Acoustic Version](https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Umbrella \(Acoustic Version\)](https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6) | 2:58 | 2022-04-01 | 2022-04-07 |
 | [Un Beso Tuyo](https://open.spotify.com/track/319Gag1zq0amHN4APzdts7) | [Cóndor Sbarbati](https://open.spotify.com/artist/6MR2IdgCSFxDvRvD0SNDZz), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Rabia al Silencio](https://open.spotify.com/album/42NfSPhQ0xfPcxPt3Ie4wR) | 3:36 | 2022-04-13 | 2022-04-17 |
 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 | 2021-12-24 | 2022-07-27 |

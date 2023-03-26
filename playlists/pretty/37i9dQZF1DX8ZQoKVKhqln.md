@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZQoKVKhqln.md) - [plain]
 
 > Coldcut's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732 likes - 20 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 749 likes - 20 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aqua \- from Playing Piano for the Isolated](https://open.spotify.com/track/7eoKT5hry7dsZZ8JszbN6y) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [@0 EP3](https://open.spotify.com/album/36ry6OLPgVNFDj7Vx1HCjv) | 4:32 |
 | 2 | [Swift Gathering](https://open.spotify.com/track/0EizsVwsA4ABOtMXMS5REX) | [Keleketla!](https://open.spotify.com/artist/7jIuM7cuEe0bBfoNhISVXU), [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [ESKA](https://open.spotify.com/artist/6pBfwu2Yt96wWprf96vhpg), [Tamar Osborn](https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj) | [Keleketla!](https://open.spotify.com/album/0sqETr5mwDf494FaWzjnGD) | 6:24 |
 | 3 | [Snow Canon](https://open.spotify.com/track/7c4BrwUPbpKWpTWISpPOcp) | [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [Clarinet & Piano: Selected Works, Vol\. 1](https://open.spotify.com/album/1Og9tQJXutnIGZlZJrqVvM) | 4:49 |
-| 4 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 |
+| 4 | [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 |
 | 5 | [Hope](https://open.spotify.com/track/3s8So5vjHfoNqg485pLatQ) | [Moss Covered Technology](https://open.spotify.com/artist/6HFnyRY6gI7JSXJENeJLTd) | [Seafields](https://open.spotify.com/album/4ZKpcRya5XM5USp8FrSWSq) | 3:14 |
 | 6 | [Mirror](https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 9:35 |
 | 7 | [Violette](https://open.spotify.com/track/5zlrVbeDcSWQRnX6QM88aA) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL) | [Orchestral Studies Collectanea](https://open.spotify.com/album/4dFXejeA9c9P8wWpP4jiEM) | 3:19 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZQoKVKhqln.md) - [plain]
 | 19 | [Honest Labour \(feat\. HforSpirit\)](https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [HforSpirit](https://open.spotify.com/artist/3EFHV7IDQxHCNlFljVrMUu) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 3:51 |
 | 20 | [Dust Bunnies](https://open.spotify.com/track/1uG8DEmAZnIVTkjnKdM2bP) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Music For Photographers](https://open.spotify.com/album/6XeL6PInmZHGz0mvxlRoAM) | 6:30 |
 
-Snapshot ID: `MTY3MzM2ODc1MywwMDAwMDAwMGIyZTdhYTkyMDg5YzA5ZjRjNjc5OGFlMjY0ZDZhNjE5`
+Snapshot ID: `MTY3MzM2ODc1MywwMDAwMDAwMDUwZDdkZjk3Y2I1MWYwN2FlYTcwYzQ2M2QwODdjZWRk`

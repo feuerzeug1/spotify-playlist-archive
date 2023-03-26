@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: DEBBY FRIDAY
 
-747 songs - 1 day 17 hr 22 min
+748 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [Missing](https://open.spotify.com/track/6niKengst9apm0TNlSaoxK) | [Jacq Teh](https://open.spotify.com/artist/1ZnSbYM3lTCN2SL1xifm2L), [August Jones](https://open.spotify.com/artist/6ylJj7RedJH6Gz8oSTRkIQ), [Siddartha](https://open.spotify.com/artist/6ANejDUojWN31uvWZMMnP3) | [Missing](https://open.spotify.com/album/79FxYHpmHKjwKZ2Wz8ZCJD) | 3:12 | 2022-04-29 | 2022-06-11 |
 | [Missing You Feels Right](https://open.spotify.com/track/0gEJwYN6aGOaPlAXxfGwDg) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Missing You Feels Right](https://open.spotify.com/album/0Pee6blyLwIG0DNI7kwY9S) | 3:15 | 2022-06-10 | 2022-07-02 |
 | [Modern Compromise](https://open.spotify.com/track/1bhLUBgBicDF12gs0tEtsH) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Modern Compromise](https://open.spotify.com/album/5omrCHI1FY9A9fhloIumyY) | 3:30 | 2022-08-26 | 2023-01-14 |
-| [MONA LISA](https://open.spotify.com/track/3rTk3EuxDOduzi54ji5sqj) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/2OvBs0EwzxPxaoTrZwtg0x) | 3:41 | 2023-03-17 |  |
+| [MONA LISA](https://open.spotify.com/track/3rTk3EuxDOduzi54ji5sqj) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/2OvBs0EwzxPxaoTrZwtg0x) | 3:41 | 2023-03-17 | 2023-03-26 |
+| [MONA LISA](https://open.spotify.com/track/64u544VQPMuJUGklB7dbtK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/3pittQTMimOMMBzkx9gWl5) | 3:41 | 2023-03-24 |  |
 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 | 2022-06-03 | 2022-07-16 |
 | [Moon Rising \(10 Years\)](https://open.spotify.com/track/1Ss2yRnWazM2Vp7j4QZZ6c) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Judith Little D](https://open.spotify.com/artist/5ndKESqmhnZNtrRnYeqHBz) | [Moon Rising \(10 Years\)](https://open.spotify.com/album/5A7UKjX9QT6yADRDVMFIOP) | 5:07 | 2023-02-10 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-03-03 |  |

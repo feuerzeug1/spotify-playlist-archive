@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1698,6 +1698,24 @@
       "duration_ms": 106000,
       "name": "Bad Man (Smooth Criminal)",
       "url": "https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl"
+    },
+    {
+      "album": {
+        "name": "Baila por mi",
+        "url": "https://open.spotify.com/album/3bU7AR9VuvQ85DjoNG0Lhj"
+      },
+      "artists": [
+        {
+          "name": "Antti Tuisku",
+          "url": "https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179781,
+      "name": "Baila por mi",
+      "url": "https://open.spotify.com/track/1x9PfQvnZZXjPfIVxbM5wb"
     },
     {
       "album": {
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
@@ -5229,6 +5247,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
+      "album": {
         "name": "F*ck Fame (feat. 1.Cuz)",
         "url": "https://open.spotify.com/album/4eFABY2Ipe0L8wx93oiEXj"
       },
@@ -6823,6 +6859,24 @@
     },
     {
       "album": {
+        "name": "Haukilahden rantaan",
+        "url": "https://open.spotify.com/album/5moQsyW4hSZTXksSB2N8hu"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216454,
+      "name": "Haukilahden rantaan",
+      "url": "https://open.spotify.com/track/3yZWaLo76NW6EL49Q0GLKP"
+    },
+    {
+      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
       },
@@ -7104,6 +7158,24 @@
       "duration_ms": 171585,
       "name": "Hello World",
       "url": "https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2"
+    },
+    {
+      "album": {
+        "name": "Helvetist\u00e4 Edeniin",
+        "url": "https://open.spotify.com/album/1W2z9HsC6Kw3aALnNAENR5"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195131,
+      "name": "Helvetist\u00e4 Edeniin",
+      "url": "https://open.spotify.com/track/33a2kF453dw6Eu1YpJt1YA"
     },
     {
       "album": {
@@ -10536,7 +10608,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -11294,6 +11366,28 @@
       "duration_ms": 229409,
       "name": "Kuolematon",
       "url": "https://open.spotify.com/track/237KmZ9bP4dkhNYafeqAhY"
+    },
+    {
+      "album": {
+        "name": "Pahoinvoiva sukupolvi",
+        "url": "https://open.spotify.com/album/2FwWmOY0mUVDKcMQjoSoce"
+      },
+      "artists": [
+        {
+          "name": "Heviteemu",
+          "url": "https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A"
+        },
+        {
+          "name": "costee",
+          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180492,
+      "name": "Kuolen v\u00e4h\u00e4n joka kerta",
+      "url": "https://open.spotify.com/track/5UY43d7ZBUafyzNT3LHS0D"
     },
     {
       "album": {
@@ -14596,7 +14690,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -14860,7 +14954,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 149180,
       "name": "MTV3",
       "url": "https://open.spotify.com/track/0OBg1TKKrkfDEpp6jeY9jg"
@@ -14954,6 +15048,28 @@
       "duration_ms": 240219,
       "name": "Mun maailma",
       "url": "https://open.spotify.com/track/7DtWb2kCpfYERMh8NiSjyv"
+    },
+    {
+      "album": {
+        "name": "Mun maineel pt. 2",
+        "url": "https://open.spotify.com/album/2DNoxQ90QfE18C8hegQLii"
+      },
+      "artists": [
+        {
+          "name": "Lytt\u00e4",
+          "url": "https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn"
+        },
+        {
+          "name": "Tohtori Getto",
+          "url": "https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194987,
+      "name": "Mun maineel pt. 2",
+      "url": "https://open.spotify.com/track/5FPfKFZZSl9h1PC4jVQ1Sa"
     },
     {
       "album": {
@@ -15500,7 +15616,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 158416,
       "name": "Nalle Puh",
       "url": "https://open.spotify.com/track/4UaulgHncQHOobM7HTxwOt"
@@ -16617,6 +16733,28 @@
     },
     {
       "album": {
+        "name": "OnlyFans (feat. ibe)",
+        "url": "https://open.spotify.com/album/3618K79xLO8Nm7PSfnEXEF"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174526,
+      "name": "OnlyFans (feat. ibe)",
+      "url": "https://open.spotify.com/track/04ajBAZ4nicx6flU5D6PdB"
+    },
+    {
+      "album": {
         "name": "Parisuhdehautausmaa",
         "url": "https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE"
       },
@@ -16668,7 +16806,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 220775,
       "name": "Oo viel\u00e4 sekunnin mun",
       "url": "https://open.spotify.com/track/60EXSCcZL24IZikBt4256W"
@@ -17018,7 +17156,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 192682,
       "name": "palamaan (feat. jambo & costee)",
       "url": "https://open.spotify.com/track/6E1zpxqr0LHArg6FB5pmEG"
@@ -21111,6 +21249,24 @@
     },
     {
       "album": {
+        "name": "Syd\u00e4mii",
+        "url": "https://open.spotify.com/album/0Nxub8vUbdMyMgYG2DDKG1"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179910,
+      "name": "Syd\u00e4mii",
+      "url": "https://open.spotify.com/track/1eEAiEd1n6WfPh4zgOWy4S"
+    },
+    {
+      "album": {
         "name": "Syd\u00e4n sulaa",
         "url": "https://open.spotify.com/album/4oCy3xdoc8dk6GE21rkRJd"
       },
@@ -22816,6 +22972,24 @@
       "duration_ms": 183000,
       "name": "T\u00e4n takii",
       "url": "https://open.spotify.com/track/1SR3brrmiB2G6NlSMu2LMq"
+    },
+    {
+      "album": {
+        "name": "T\u00e4n\u00e4\u00e4n L\u00e4hden",
+        "url": "https://open.spotify.com/album/7pg7xZIahBwwfHu2eOCqNk"
+      },
+      "artists": [
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "T\u00e4n\u00e4\u00e4n L\u00e4hden",
+      "url": "https://open.spotify.com/track/7I456611aVhg4Hh205sFmz"
     },
     {
       "album": {
@@ -25648,7 +25822,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 151516,
       "name": "\u00c4\u00e4ni k\u00e4hee ku Tiihosella",
       "url": "https://open.spotify.com/track/6m2nP6Q1vKXDMUyOZQUch2"

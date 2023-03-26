@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Tora\-i\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,405 likes - 158 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,450 likes - 158 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 3 | [4evaaa](https://open.spotify.com/track/0uq8z2z0DUJNRgxv3DfqT3) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [nolademos](https://open.spotify.com/album/3aXlTlKpRpnwTsjL0lXRIt) | 3:15 |
 | 4 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 |
 | 5 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 |
-| 6 | [Taetop](https://open.spotify.com/track/7gFLENZ4xyLhYgkWub3y2M) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Taetop](https://open.spotify.com/album/1oCKCQZmf3LSrsne5A3he5) | 2:49 |
+| 6 | [Taettop](https://open.spotify.com/track/7gFLENZ4xyLhYgkWub3y2M) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Taettop](https://open.spotify.com/album/1oCKCQZmf3LSrsne5A3he5) | 2:49 |
 | 7 | [Come And Get It](https://open.spotify.com/track/5EgtpehGDHJyNQQVesb2fw) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come And Get It](https://open.spotify.com/album/17FivesjC4MXXd1QOCOxXQ) | 2:26 |
 | 8 | [Brand New Life \(feat\. Mumu Fresh\)](https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Brand New Life](https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE) | 4:32 |
 | 9 | [All In Again](https://open.spotify.com/track/3onrZuNE1XLM7YnTPL5BtW) | [Duchess](https://open.spotify.com/artist/6s0EQIA8heD6JVi8jNW207) | [All In Again](https://open.spotify.com/album/6Q607fMYWp8ms1brTs0yY6) | 3:51 |
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 133 | [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 |
 | 134 | [Best Feature](https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Best Feature \(feat\. Devin Morrison\)](https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3) | 3:23 |
 | 135 | [Forgive Them \- Live](https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6) | [Good Compenny](https://open.spotify.com/artist/4FKlCbh9ZcLpAstEEVsUR1), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Forgive Them \(Live\)](https://open.spotify.com/album/01HrHhWzdHjnhHzX57HUTa) | 4:03 |
-| 136 | [Amazing \#141](https://open.spotify.com/track/57fjSv43kkWdFY7u9YpS9S) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Amazing \#141](https://open.spotify.com/album/31PPuKa80ap6GwmMNsNYD5) | 2:27 |
+| 136 | [Amazing](https://open.spotify.com/track/57fjSv43kkWdFY7u9YpS9S) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Amazing](https://open.spotify.com/album/31PPuKa80ap6GwmMNsNYD5) | 2:27 |
 | 137 | [4 the Streets](https://open.spotify.com/track/6frqgUgfxIZ47m18XlCwf6) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z) | [4 the Streets](https://open.spotify.com/album/560INixdlezfqDSc5Jp56U) | 2:01 |
 | 138 | [Wolves](https://open.spotify.com/track/0ZQMCdRjNARo53RXcFa2r6) | [Cynáa\-Nicole](https://open.spotify.com/artist/2Z2jypOqQRJFfQDyABIO7c), [Buto](https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal) | [Wolves](https://open.spotify.com/album/2qxlrseOMntoycNLDcL5K1) | 3:50 |
 | 139 | [Nine Lives](https://open.spotify.com/track/1Aw1MbDdQFgClKqcZ8kAhX) | [CD Rose](https://open.spotify.com/artist/3jhXQ1HoAnvxUhUrRGleJx) | [Nine Lives](https://open.spotify.com/album/0nfZHoMCHgYsEu7M7P3oFJ) | 2:31 |

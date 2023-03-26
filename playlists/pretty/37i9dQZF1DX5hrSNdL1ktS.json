@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yng Lvcas y Peso Pluma en portada.",
-  "num_followers": 55536,
+  "num_followers": 55563,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU5NjMyOCwwMDAwMDAwMDJiMDcyYzViODUxOGM3YWUxNThlNjc3NTIxNmJkZjkw",
+  "snapshot_id": "MTY3OTU5NjMyOCwwMDAwMDAwMDUxZjVkNjE1ODVjZTIzZTU0MmU4YTA0ZTU0ZTVkZTUy",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2"
     },
     {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "LA PUERTA",
+        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
+      },
+      "artists": [
+        {
+          "name": "Steff",
+          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
+        }
+      ],
+      "duration_ms": 183225,
+      "name": "LA PUERTA",
+      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
+    },
+    {
       "added_at": "2022-11-25 02:28:29",
       "album": {
         "name": "Viaje",
@@ -875,18 +891,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "LA PUERTA",
-        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv"
       },
       "artists": [
         {
-          "name": "Steff",
-          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
         }
       ],
-      "duration_ms": 183225,
-      "name": "LA PUERTA",
-      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
+      "duration_ms": 184360,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd"
     },
     {
       "added_at": "2023-02-24 19:45:10",
@@ -945,26 +965,6 @@
       "url": "https://open.spotify.com/track/5nufaDKoPcE2A6P9aQG48Y"
     },
     {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Dm",
-        "url": "https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "Dm",
-      "url": "https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd"
-    },
-    {
       "added_at": "2023-01-27 18:00:00",
       "album": {
         "name": "Ni Miro (feat. Neutro Shorty)",
@@ -991,22 +991,6 @@
       "duration_ms": 302048,
       "name": "Ni Miro (feat. Neutro Shorty)",
       "url": "https://open.spotify.com/track/7E3YhRU66U29zK5L7gT829"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Pereza",
-        "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
-      },
-      "artists": [
-        {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Pereza",
-      "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
     },
     {
       "added_at": "2023-03-10 06:00:00",
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Pereza",
+        "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Pereza",
+      "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
       },
@@ -1085,28 +1085,28 @@
       "url": "https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr"
     },
     {
-      "added_at": "2022-09-29 23:31:37",
+      "added_at": "2022-12-21 17:08:55",
       "album": {
-        "name": "Webcam",
-        "url": "https://open.spotify.com/album/0QTW7ygeF5Uoz3r8mCD8z3"
+        "name": "Me Tientas (Remix)",
+        "url": "https://open.spotify.com/album/2JZUX0M1kl0BGD5dBqem6Z"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Ele O",
+          "url": "https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi"
         },
         {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         },
         {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Webcam",
-      "url": "https://open.spotify.com/track/5jptp98AmzDqiDT8bBVcLy"
+      "duration_ms": 185493,
+      "name": "Me Tientas - Remix",
+      "url": "https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe"
     }
   ],
   "unique_name": "Urbano Fresh",

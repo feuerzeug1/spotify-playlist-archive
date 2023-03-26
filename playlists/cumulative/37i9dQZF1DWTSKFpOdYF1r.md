@@ -4,7 +4,7 @@
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-246 songs - 16 hr 23 min
+247 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Cities In Dust \- Single Version](https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 4:03 | 2022-09-29 | 2022-11-13 |
 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 | 2021-11-17 | 2022-07-29 |
 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 | 2022-05-30 |  |
+| [Cloudbusting](https://open.spotify.com/track/373vZ0g1dpWaUcrbh0WKhd) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 5:10 | 2022-11-17 |  |
 | [Cloudbusting](https://open.spotify.com/track/5cS2MR8ZXazew7H3W0Wpzr) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Whole Story](https://open.spotify.com/album/0o7IgUEAoOGzsolQgLpnTK) | 5:10 | 2022-05-30 | 2022-07-29 |
 | [Cloudbusting \- 2018 Remaster](https://open.spotify.com/track/0cuMpt0w9ahbhJl0R2fbkY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:09 | 2022-05-30 | 2022-12-28 |
 | [Crash](https://open.spotify.com/track/2yZxK7LuQFcNOlMy6s2zwO) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 2:31 | 2021-11-17 | 2022-07-27 |
@@ -159,7 +160,7 @@
 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 | 2021-11-17 |  |
 | [Our Lips Are Sealed](https://open.spotify.com/track/5xZSbzCVTp0qQt2K6Dfe0V) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/6jTIp3eB8Oqm1bfWr8ZhzZ) | 2:51 | 2021-11-17 | 2022-07-29 |
 | [Our Lips Are Sealed](https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx) | 2:51 | 2022-09-29 |  |
-| [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 | 2022-05-30 |  |
+| [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 | 2022-05-30 | 2023-03-26 |
 | [Pacific State \- Origin Mix](https://open.spotify.com/track/1bdqvBFKJKbkZvFeF7hNQs) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Blueprint \(The Best Of\)](https://open.spotify.com/album/6uhIHjTCQjHcXXsoPzsf0x) | 5:50 | 2021-11-17 | 2022-07-22 |
 | [Party Fears Two](https://open.spotify.com/track/56SwjvVv45XLJhScKC8IcB) | [The Associates](https://open.spotify.com/artist/7GsdZ6T45uXudJ8Wsko9sB) | [Sulk](https://open.spotify.com/album/3gkqiWL16CBn0qDwzBK02K) | 5:14 | 2021-11-17 | 2022-05-24 |
 | [Pearly\-dewdrops' Drops](https://open.spotify.com/track/3F30pC9tpbW7PWLOyrR0ji) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Stars And Topsoil \- A Collection 1982\-1990](https://open.spotify.com/album/2gnN5Hq4cCXrn8IKB4savk) | 4:11 | 2021-11-17 | 2022-07-29 |

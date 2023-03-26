@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Curtis Waters makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,582 likes - 109 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,577 likes - 109 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 23 | [Mysëlf](https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:30 |
 | 24 | [Bleach Blonde](https://open.spotify.com/track/2Sq6jSdKT4LkukpgYLXhtA) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Bleach Blonde](https://open.spotify.com/album/2u9eNIyUr7Lf3yHyORjJ9a) | 2:39 |
 | 25 | [Hypnotized \(with skaiwater\)](https://open.spotify.com/track/1QwoK3ypxUCpvyBqAkpFrn) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Disturb The Norm](https://open.spotify.com/album/578IaPD6aBApvHPtU3JKZA) | 1:59 |
-| 26 | [MONA LISA](https://open.spotify.com/track/3rTk3EuxDOduzi54ji5sqj) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/2OvBs0EwzxPxaoTrZwtg0x) | 3:41 |
+| 26 | [MONA LISA](https://open.spotify.com/track/64u544VQPMuJUGklB7dbtK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/3pittQTMimOMMBzkx9gWl5) | 3:41 |
 | 27 | [Superglue](https://open.spotify.com/track/3e0ZdECpzQAXZIyyI9glBa) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [Superglue](https://open.spotify.com/album/1OEZ2Ct6bMGje4eldWOWjJ) | 2:06 |
 | 28 | [BORN AGAIN](https://open.spotify.com/track/3jiZXHJ0RmINhKha29LYKR) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [BORN AGAIN](https://open.spotify.com/album/1M9TWqgYGHelHDMB8nNQdS) | 2:52 |
 | 29 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 108 | [Oh God](https://open.spotify.com/track/3jQRh7laQ983q2bFGWpWuD) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Oh God](https://open.spotify.com/album/2Yu3wsBaJjFveHhuqD4DK7) | 2:59 |
 | 109 | [until my heart stops beating](https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [until my heart stops beating](https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6) | 3:24 |
 
-Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMDZiYmViNzFlOTAyZDNlOWVmY2U4YTNkMzg3OGYwMjIw`
+Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMGEyZjk5ZDEwOGQwMTAwNGI4YzNjN2ZjNDA1OWViODMz`

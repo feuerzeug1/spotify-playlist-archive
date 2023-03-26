@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 67328,
+  "num_followers": 67353,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDRmZGU0NzM3ZWNhOTc5NzdjMDU5YzIyYzI5OTVmMjUw",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGJmZTA0ZWIyYTMxN2M2NzdmYTk5Mjk4MWUxMzM3YzJh",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Det jeg vil ha (fra deg)",
-        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 203263,
-      "name": "Det jeg vil ha (fra deg)",
-      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Imellom to Evigheter",
         "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Det jeg vil ha (fra deg)",
+        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 203263,
+      "name": "Det jeg vil ha (fra deg)",
+      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
       },
@@ -807,22 +807,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Ein kallar det kj\u00e6rleik",
-        "url": "https://open.spotify.com/album/4SN2FWk4dpxqlbjNa47tAh"
+        "name": "Hjarteskjell",
+        "url": "https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC"
       },
       "artists": [
         {
           "name": "Ingebj\u00f8rg Bratland",
           "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 197384,
-      "name": "Ein kallar det kj\u00e6rleik",
-      "url": "https://open.spotify.com/track/5r1saX7FrmteQoWy4EX4ZT"
+      "duration_ms": 195906,
+      "name": "Bror",
+      "url": "https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS"
     },
     {
       "added_at": "2023-02-09 23:00:00",

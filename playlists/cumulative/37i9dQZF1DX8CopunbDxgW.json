@@ -13704,7 +13704,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
@@ -14826,6 +14826,28 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
+    },
+    {
+      "album": {
+        "name": "You Are Everywhere",
+        "url": "https://open.spotify.com/album/3fU8kFquITfyKECN9ldSfz"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        },
+        {
+          "name": "Turbo Goth",
+          "url": "https://open.spotify.com/artist/5l86PXItUDrtnxT5EgQguJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "You Are Everywhere",
+      "url": "https://open.spotify.com/track/4Wk3Z6fgpLepeL7LyPe1VI"
     },
     {
       "album": {

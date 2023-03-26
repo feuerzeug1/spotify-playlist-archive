@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173 likes - 68 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411 likes - 68 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 18 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 |
 | 19 | [Shot Me Alive](https://open.spotify.com/track/0p4i3IVz9DMiSs2yq4LiQP) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Shot Me Alive](https://open.spotify.com/album/0JeH0Zusi2x59hwWik9Za9) | 3:06 |
 | 20 | [Fall in the Fall](https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad) | 4:09 |
-| 21 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 |
+| 21 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 |
 | 22 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 |
 | 23 | [You and Me](https://open.spotify.com/track/53QA7j4pHWAtbE3D0Glh7Q) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Ghetto Cowboy](https://open.spotify.com/album/2dTnaecImWLJOMrJgF5HAt) | 4:02 |
 | 24 | [Roll With Me](https://open.spotify.com/track/1A8bSRTIaWjOjtt1y8gmZO) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Country Boy City Slick](https://open.spotify.com/album/58rS611GRSt8OEG1Wb1fRu) | 3:55 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 34 | [My Way \(feat Tyler Hubbard\)](https://open.spotify.com/track/3qppdX325WO677KrczGZrv) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [My Way](https://open.spotify.com/album/42rGSwtLPemPlWDWNWLKym) | 2:24 |
 | 35 | [Tell It to the Bottle \(feat\. Crucifix\)](https://open.spotify.com/track/5fk1AIw7aq6KrFiVw9cLXP) | [Outlaw](https://open.spotify.com/artist/2pJGajElsjl8qbfsd17uED), [CRUCIFIX](https://open.spotify.com/artist/3TZlqrpMAxc0nR7jKggeyh) | [Backwoods Badass](https://open.spotify.com/album/2qR2tuNdy15hqhhP7BUCh9) | 4:41 |
 | 36 | [Country Folks \(feat\. Colt Ford & Danny Boone\)](https://open.spotify.com/track/1BsvAobGiVCaqRAixv22CW) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Pain Management](https://open.spotify.com/album/0q3foQ56tQjePzX6SXCdTK) | 3:33 |
-| 37 | [Long Bumpy Road \(feat\. SMO\) \- Remix](https://open.spotify.com/track/7mHQvybBKPU8U2q1WVhj0j) | [Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22), [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Paving My Way](https://open.spotify.com/album/6XgqbPax3lypTi5EikNsMA) | 5:46 |
+| 37 | [Long Bumpy Road \(feat\. SMO\) \- Remix](https://open.spotify.com/track/7mHQvybBKPU8U2q1WVhj0j) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22), [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Paving My Way](https://open.spotify.com/album/6XgqbPax3lypTi5EikNsMA) | 5:46 |
 | 38 | [Dirt Road](https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dirt Road](https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo) | 2:45 |
 | 39 | [Blood Red](https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blood Red](https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk) | 2:37 |
 | 40 | [Pick Up](https://open.spotify.com/track/2lNRmLIgGeLvXbG2Pb1uss) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Kori Spires](https://open.spotify.com/artist/6avl0QvhBIoRg4lbJJtw39) | [Pick Up](https://open.spotify.com/album/1mmL1c08dZxlB7SJRX0f8D) | 3:33 |

@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230958,
+  "num_followers": 230963,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDg1ODljOGM4Y2ZlMTdjOWZhNjFlYTQzYmIxYTIwNTc5",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGQ5ZWEwNDBmYjA2YmFjM2MxZDIxNTUzMjY2ZTk2NzJl",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk"
-      },
-      "artists": [
-        {
-          "name": "Lylos",
-          "url": "https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR"
-        }
-      ],
-      "duration_ms": 172027,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Love Me (Don't Worry)",
         "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 162000,
       "name": "Love Me (Don't Worry)",
       "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk"
+      },
+      "artists": [
+        {
+          "name": "Lylos",
+          "url": "https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR"
+        }
+      ],
+      "duration_ms": 172027,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -855,6 +855,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
+      },
+      "artists": [
+        {
+          "name": "Tab\u00fa",
+          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
+        }
+      ],
+      "duration_ms": 220038,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
-      },
-      "artists": [
-        {
-          "name": "Tab\u00fa",
-          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
-        }
-      ],
-      "duration_ms": 220038,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
-      },
-      "artists": [
-        {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
-        }
-      ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Sunrise To Sunset",
         "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 186610,
       "name": "Wishing Well (feat. Olivia Sebastianelli)",
       "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+      },
+      "artists": [
+        {
+          "name": "Samba Twins",
+          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+        }
+      ],
+      "duration_ms": 234510,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
     },
     {
       "added_at": "2021-08-05 09:09:59",

@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-347 songs - 20 hr 3 min
+348 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,12 +242,13 @@
 | [Pacific](https://open.spotify.com/track/7cwYAnn8kkZEUQVWohzKTh) | [Chip Tanaka](https://open.spotify.com/artist/0eo01auTn1nLlMBq53hbR6) | [Domani](https://open.spotify.com/album/3PzzfSB2CfJxJPiC5b6D3U) | 3:25 | 2022-01-07 | 2022-01-23 |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-07 |  |
 | [Party](https://open.spotify.com/track/0CuAj0akPWDPmRauLNtF9P) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Party](https://open.spotify.com/album/2cKZ0UC91sfu1ko3vprDnh) | 2:57 | 2022-01-07 | 2023-03-01 |
+| [Party](https://open.spotify.com/track/3pWHBjYxauqdnnkSQLECvR) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Party](https://open.spotify.com/album/5JG9VRDNGcze0Jm6jJafNE) | 2:57 | 2023-03-10 |  |
 | [Peace Sounds](https://open.spotify.com/track/6ivjbk2DjrWrXamYSRWLcf) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Peace Sounds](https://open.spotify.com/album/5PgUA3B3q8OSS4QG9zEFQv) | 3:54 | 2022-07-14 | 2022-08-06 |
 | [peace treaty](https://open.spotify.com/track/4MGgwugitqH7Zx8fBVrqip) | [dobi](https://open.spotify.com/artist/4QlfcAMb5uq3SwpHVRjace), [Oyeme](https://open.spotify.com/artist/1e4WswgIEwz9ahhNAVUxsn) | [peace treaty](https://open.spotify.com/album/0KxX1btrglBLMOaGW2mzdF) | 4:44 | 2022-07-14 | 2022-08-06 |
 | [People](https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [People](https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV) | 2:54 | 2022-03-11 |  |
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-08-05 |  |
 | [Pixel Galaxy](https://open.spotify.com/track/7zHq5ayXLxpJ89392EYm1L) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Pixel Galaxy](https://open.spotify.com/album/0VET0W6B5ik8UsznaLXXDw) | 3:55 | 2022-03-11 |  |
-| [Pixelize](https://open.spotify.com/track/73d41oOWB41QWv4mAB5Ymf) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [PIXELIZE](https://open.spotify.com/album/28vy4zbBhFsgyESVG6HsSe) | 3:30 | 2022-08-05 |  |
+| [Pixelize](https://open.spotify.com/track/73d41oOWB41QWv4mAB5Ymf) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [PIXELIZE](https://open.spotify.com/album/28vy4zbBhFsgyESVG6HsSe) | 3:30 | 2022-08-05 | 2023-03-26 |
 | [pls \(−\_−;\)](https://open.spotify.com/track/1y7ZG3g05KN8L2BUm4qRtw) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [pls \(−\_−;\)](https://open.spotify.com/album/37Hl1DV0EnLAAhrZEI6qDx) | 2:06 | 2023-01-27 |  |
 | [Pokémon League](https://open.spotify.com/track/48os95PFQdkwxDYMUoRefr) | [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Dynamaxed](https://open.spotify.com/album/41kp28evsZqc4Jom26ZBap) | 3:53 | 2022-01-07 | 2022-07-25 |
 | [Power](https://open.spotify.com/track/3KK6KP4JsFL9ZxgdmLhuJz) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Power](https://open.spotify.com/album/3K5uosEB5z9NHS8zWFdcDm) | 3:54 | 2022-08-05 |  |

@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 174000,
       "name": "Higo",
       "url": "https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV"
@@ -3642,7 +3642,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 171615,
       "name": "Hour Glass",
       "url": "https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N"
@@ -4582,6 +4582,24 @@
       "duration_ms": 117510,
       "name": "Laetitia",
       "url": "https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/4P2IZgpcl7n589pnQSzU6o"
+      },
+      "artists": [
+        {
+          "name": "Cecile Roy",
+          "url": "https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117806,
+      "name": "Last Snow",
+      "url": "https://open.spotify.com/track/38oJwdFVSaOvzxHYToFygq"
     },
     {
       "album": {
@@ -7917,6 +7935,24 @@
     },
     {
       "album": {
+        "name": "Smukke Sm\u00e5 Ting",
+        "url": "https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv"
+      },
+      "artists": [
+        {
+          "name": "Julle S\u00f8rensen",
+          "url": "https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120603,
+      "name": "Smukke Sm\u00e5Ting",
+      "url": "https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR"
+    },
+    {
+      "album": {
         "name": "Snowfall in a Forest",
         "url": "https://open.spotify.com/album/2uL4hLPlY2MyJgKMtUKacZ"
       },
@@ -9350,7 +9386,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 159624,
       "name": "T\u00e5lamod",
       "url": "https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB"
@@ -9440,7 +9476,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 126969,
       "name": "Under the Willow Tree",
       "url": "https://open.spotify.com/track/3qto6LgDhFq9FGrAORDBzX"

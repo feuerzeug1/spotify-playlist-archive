@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-341 songs - 21 hr 13 min
+343 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 | 2020-08-09 |  |
 | [Drown](https://open.spotify.com/track/3bGmob8nw4PPfOQTwIirIS) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5yoQ1d6TathCxE8EJzG3dW) | 4:04 | 2022-04-01 | 2022-08-26 |
 | [Drown](https://open.spotify.com/track/7zOrpg7SHJHRgb9GJqtBLM) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5FXYJNs1vmtLOb6BibHjJP) | 4:04 | 2022-07-06 | 2023-03-13 |
-| [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 | 2022-07-06 |  |
+| [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 | 2022-07-06 | 2023-03-26 |
 | [Drown](https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 3:10 | 2021-03-26 | 2022-10-14 |
 | [Du pouvoir/Power](https://open.spotify.com/track/2Y0xdEsWhfDAsvtMzFqJ73) | [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Du pouvoir](https://open.spotify.com/album/5otAnfZLjI3n5zsx8eOPKY) | 3:20 | 2019-11-19\* | 2020-08-09 |
 | [Dumb](https://open.spotify.com/track/6kCQsjFV3SubIrNTDkGrdr) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Dumb](https://open.spotify.com/album/0N42Coxg2wBuzP1LyB2mkq) | 3:21 | 2019-11-19\* | 2020-08-09 |
@@ -104,7 +104,7 @@
 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 | 2023-03-24 |  |
 | [Electric Dream](https://open.spotify.com/track/5uijMApAj15FDccuaziRKS) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Electric Dream](https://open.spotify.com/album/6x6ldV8SHiyOLGXvYodN3d) | 3:28 | 2021-02-06 | 2022-06-22 |
 | [Ether \(Sick at Heart\)](https://open.spotify.com/track/4bMXxqBnfgHec86gvIJSb1) | [field trip](https://open.spotify.com/artist/7H3w7t2sruDR7y7RSHClNI) | [Ether \(Sick at Heart\)](https://open.spotify.com/album/5QRfS8bCyp3BNyyJWNpeVl) | 3:04 | 2019-11-19\* | 2020-11-06 |
-| [Even True Love](https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:46 | 2022-07-06 |  |
+| [Even True Love](https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:46 | 2022-07-06 | 2023-03-26 |
 | [Even True Love](https://open.spotify.com/track/79PaJyGdIi8XN6d9tp2YlT) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Even True Love](https://open.spotify.com/album/4cMrZSmZziTfor1wqUZgGV) | 4:46 | 2020-08-09 | 2022-07-28 |
 | [Faces](https://open.spotify.com/track/1bnzho2GEO8gOg1j0a8Tnq) | [No Swoon](https://open.spotify.com/artist/3th2nHK122HxCbpATSNXfp) | [Faces](https://open.spotify.com/album/4nDoP0Dtjv9HGiPpsjb2z6) | 4:55 | 2019-11-19\* | 2021-03-06 |
 | [Famous Enough to Die](https://open.spotify.com/track/0hsKYjt75TyaB0QXTFE2Fd) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Famous Enough to Die](https://open.spotify.com/album/00ed3pj0roOngfB8vGp0Ls) | 2:46 | 2020-08-09 | 2020-12-22 |
@@ -252,6 +252,7 @@
 | [Private Show](https://open.spotify.com/track/73ddRgeIb9p9Hgd2ipR3ig) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [Bigger Than Life](https://open.spotify.com/album/1azw2HBS09fU4S9sqEreUq) | 4:41 | 2019-12-20 | 2021-02-26 |
 | [Quicksand](https://open.spotify.com/track/6LhSsOUN9BRqiXKfGBkNp6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:11 | 2022-07-06 |  |
 | [Quicksand](https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Quicksand](https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW) | 4:11 | 2022-01-27 | 2022-07-29 |
+| [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-24 |  |
 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 | 2020-09-19 |  |
 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 | 2020-12-22 |  |
 | [Roll With The Punches](https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 3:46 | 2022-07-06 |  |
@@ -271,6 +272,7 @@
 | [Skin](https://open.spotify.com/track/07iFZgCmzSuGFlKG3ftJX3) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Skin](https://open.spotify.com/album/4Uq7ZKZPs6EXwRzc69dnVX) | 3:45 | 2020-12-11 | 2022-07-29 |
 | [Skin Game](https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:25 | 2022-07-06 |  |
 | [Skin Game](https://open.spotify.com/track/4qgNoDm7QIpbtt3qB96RzY) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/66aYL3AZPfk6leHxlJDYQ0) | 4:25 | 2020-12-22 | 2022-05-07 |
+| [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 | 2023-03-24 |  |
 | [Snow Globe](https://open.spotify.com/track/2XRT5pPoxTdudrcqfxHSvK) | [Long Beard](https://open.spotify.com/artist/3truyDimkGtu58fxQj9Xv9) | [Means To Me](https://open.spotify.com/album/2JPbwAK27FVJmNYHiCB0lS) | 5:23 | 2019-11-19\* | 2021-03-06 |
 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 | 2020-11-06 | 2023-03-06 |
 | [So You're Young](https://open.spotify.com/track/4Em5Dsf7FZheKNUuBvujzf) | [Mike Edge](https://open.spotify.com/artist/4Em1Ttxf3w2t0QtKYtYImx) | [So You're Young](https://open.spotify.com/album/0A0k4R7nJELE6lClsJBv4g) | 3:08 | 2019-11-19\* | 2020-08-09 |

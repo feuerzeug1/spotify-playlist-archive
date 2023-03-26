@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Sick Tamburo in cover!
 
-350 songs - 19 hr 23 min
+353 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Atropina](https://open.spotify.com/track/41720wkLjBsUQfdqxfLzUe) | [Feava](https://open.spotify.com/artist/3SfiU1vN892diMx36GOJFW) | [Atropina](https://open.spotify.com/album/7qADw2zJVhmnNfpjV68huL) | 4:35 | 2023-01-19 | 2023-03-03 |
 | [B4](https://open.spotify.com/track/471iPDomxfndXNESa4xg7C) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Stress](https://open.spotify.com/album/4nWf8QLYNgmTLCZcyFeLJY) | 3:29 | 2022-12-08 | 2023-01-27 |
 | [Back To Bangkok](https://open.spotify.com/track/5RrtTSB9uvPFCWFJ8ViI94) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [Back To Bangkok](https://open.spotify.com/album/17T80PkB923M3sQfkvkDQf) | 2:06 | 2022-07-14 | 2022-09-30 |
+| [Backrooms](https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Backrooms](https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ) | 1:51 | 2023-03-23 |  |
 | [Bar Adriana](https://open.spotify.com/track/1168KypL7NOio4ccumuODe) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Bar Adriana](https://open.spotify.com/album/3st9TXc0K7h8TU3hlghgEw) | 3:15 | 2022-12-15 | 2023-01-20 |
 | [Barman](https://open.spotify.com/track/5IyY5hticbnFBR5ztmZ7cV) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [Barman](https://open.spotify.com/album/2ZV2tXJRNnVZ8G8K9Ng4ez) | 2:30 | 2023-02-16 | 2023-02-24 |
 | [Battelli ebbri](https://open.spotify.com/track/2PHcFq8CAordszMzLS1dAs) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Cosmic Res](https://open.spotify.com/album/4Myim57HbNcJ46KqbYkqmP) | 3:17 | 2023-01-19 |  |
@@ -111,10 +112,11 @@
 | [ELDORADO](https://open.spotify.com/track/5ED0vMBYJ4hQXxmyt3APxx) | [ULTIMA HAINE](https://open.spotify.com/artist/1MzzYW4rW9deiCRPS7Pjf9), [Pierpaolo Capovilla](https://open.spotify.com/artist/7fLhVDO3fSZI9M9HG803aq) | [ELDORADO](https://open.spotify.com/album/67fALE8nxySO3qF5B8MUh5) | 3:47 | 2022-06-23 | 2022-07-15 |
 | [Elena's Beauty Theme](https://open.spotify.com/track/2SOdY5uljAC0Nf0ij678ER) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Elena's Beauty Theme](https://open.spotify.com/album/12o45mm8xoSWby7NYpra6C) | 4:56 | 2022-09-22 | 2022-10-07 |
 | [Eroe](https://open.spotify.com/track/6q0e4HCA3LuPFkDhsOEmrI) | [Edoardo Elia](https://open.spotify.com/artist/2cFlxnBPQbRd31eOu6soe8) | [Eroe](https://open.spotify.com/album/144VL2vm7JEivoQ90Bafub) | 3:21 | 2022-09-22 | 2022-10-11 |
-| [Erwin](https://open.spotify.com/track/1AgaLw689q2wdgfP7LpbtR) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Quanto](https://open.spotify.com/album/3kwtSVF7s2Cy6nsoqFX531) | 3:17 | 2022-12-15 |  |
+| [Erwin](https://open.spotify.com/track/1AgaLw689q2wdgfP7LpbtR) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Quanto](https://open.spotify.com/album/3kwtSVF7s2Cy6nsoqFX531) | 3:17 | 2022-12-15 | 2023-03-26 |
 | [Estate di Merda](https://open.spotify.com/track/2tKDMOvBIIP47ngRpHQsDl) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Estate di Merda](https://open.spotify.com/album/77Lhio4DcfwZ8PRhNzquc5) | 2:51 | 2022-06-02 | 2022-08-26 |
 | [EUFORIA](https://open.spotify.com/track/5ApsbsFX5SQhGF80DKSq9c) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [EUFORIA](https://open.spotify.com/album/6RtT9E1MvIfvR3d0hkkIqI) | 2:16 | 2022-07-14 | 2022-09-30 |
 | [Everybody Loves Sad Songs](https://open.spotify.com/track/2MOeboWxYSIDyiADtW4YjE) | [Persian Pelican](https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG) | [Everybody Loves Sad Songs](https://open.spotify.com/album/2m7LHgCN9HEgeQV6hNdy2W) | 2:53 | 2023-02-02 | 2023-02-24 |
+| [EVERYTHING SUCKS!](https://open.spotify.com/track/453gVRCWZ0SKSoWfQzyFqY) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [EVERYTHING SUCKS!](https://open.spotify.com/album/3F74AL4nsOcfw21EKINfbr) | 2:20 | 2023-03-23 |  |
 | [Fading into Day](https://open.spotify.com/track/27IYZNTtmNT7aZExGrJCzv) | [An Early Bird](https://open.spotify.com/artist/3FVXLavQJNLUKjTyFWRpOv), [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [Fading into Day](https://open.spotify.com/album/0lcTfY7Bazk27HmeMTguXx) | 3:36 | 2022-07-14 | 2022-08-26 |
 | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 | 2022-06-17 |  |
 | [Fewdrops](https://open.spotify.com/track/21j9o0fKq37tHikEmRzPAf) | [Wilt/Plvce](https://open.spotify.com/artist/6WgDlmIyHKpjFNSAwGmLAr) | [Fewdrops](https://open.spotify.com/album/2jupIKsTSSejvwI6ip0ADB) | 3:29 | 2022-09-01 | 2022-09-23 |
@@ -159,6 +161,7 @@
 | [Il Mare e le Farfalle](https://open.spotify.com/track/4qayUwKDrCKiHprgzny8Md) | [Balvin Boys](https://open.spotify.com/artist/1z15QbpnJdMFmYoGKIRq48), [Riel](https://open.spotify.com/artist/5uinZNQ4QAnLvhLyzVR8hj) | [Internet](https://open.spotify.com/album/1W1ogLJ6TxHp2yKmCblCBR) | 2:20 | 2022-06-16 | 2022-09-20 |
 | [IL MIO FUTURO](https://open.spotify.com/track/12Kp5O3H5AdKa6LFXXY3FC) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [IL MIO FUTURO](https://open.spotify.com/album/0tzqRqCyBdJCpU680TpNdP) | 3:05 | 2023-01-26 | 2023-02-03 |
 | [il mondo va veloce](https://open.spotify.com/track/3LKlwc0UPC2t627WKrpciU) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [il mondo va veloce](https://open.spotify.com/album/5BNaMQRSia5tod8TxQS4mZ) | 3:31 | 2022-05-12 | 2022-06-24 |
+| [Il Nuovo Mare](https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L) | [Vintage Violence](https://open.spotify.com/artist/0WGMKokl5OoPCHeP8Beydm) | [Il Nuovo Mare](https://open.spotify.com/album/74g4C5qxpHrF1xv0HkFRR8) | 2:08 | 2023-03-23 |  |
 | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/track/7tl8kzo4DM62We5mgJRYNx) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/album/7oM4l6zPvDNo9WgT7J9pxq) | 3:58 | 2022-09-15 | 2023-03-10 |
 | [Il vento](https://open.spotify.com/track/6vO8miBm2egYQXiDcsJshV) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Sale \(Elas\)](https://open.spotify.com/album/1mZdqKhXnngN363k2kXdA0) | 2:46 | 2022-11-03 | 2022-12-24 |
 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 | 2022-05-12 | 2022-07-08 |
@@ -232,7 +235,7 @@
 | [Papaveri](https://open.spotify.com/track/78ZTkpYWq7YdLSfkPlhdgW) | [Aida](https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp) | [Papaveri](https://open.spotify.com/album/4ZhvB9BXSTWoaCGrnzjeVx) | 2:46 | 2022-06-02 | 2022-07-01 |
 | [Papavero](https://open.spotify.com/track/3qML5gP73yuL9XVmMm3Ns5) | [LaPara](https://open.spotify.com/artist/4xJehLpB102iLT1vPxESJn) | [Papavero](https://open.spotify.com/album/0Z7qMBtRoaRhRIAshma0ox) | 4:17 | 2022-05-09 | 2022-07-01 |
 | [Parlami](https://open.spotify.com/track/6EgGe4PI3Y9EWPD5Wpv6iE) | [Asia Ghergo](https://open.spotify.com/artist/0TPUlnIZtGxkM27FIgl39N) | [Parlami](https://open.spotify.com/album/5yLLr1dLk439zVforZ4zZw) | 3:52 | 2022-06-30 | 2022-08-05 |
-| [Parole D'Odio](https://open.spotify.com/track/08Lf3i2zHNZmLLnceXA24k) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Parole D'Odio](https://open.spotify.com/album/52gMCMOrYOIkHVviiTXLor) | 3:03 | 2023-03-16 |  |
+| [Parole D'Odio](https://open.spotify.com/track/08Lf3i2zHNZmLLnceXA24k) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Parole D'Odio](https://open.spotify.com/album/52gMCMOrYOIkHVviiTXLor) | 3:03 | 2023-03-16 | 2023-03-26 |
 | [Particles](https://open.spotify.com/track/3X6EsP4cCYwjtJjEGUrtiA) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Particles](https://open.spotify.com/album/6dXLAeNNrUzFC8GxZvLeih) | 3:14 | 2022-05-09 | 2022-05-13 |
 | [Pem Pem \(Io sono Elettra e faccio\)](https://open.spotify.com/track/406l3Gfz3GUdmbrOBhA5DH) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Pem Pem \(Io sono Elettra e faccio\)](https://open.spotify.com/album/6kN7YHy1mqESjJ64D8YQFD) | 6:17 | 2022-12-15 | 2023-01-20 |
 | [Pensiero magico](https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Entropia Padrepio](https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN) | 3:12 | 2022-05-19 | 2022-07-01 |
@@ -281,7 +284,7 @@
 | [She's so differentə](https://open.spotify.com/track/3JdZ89z3ueTuc5WIDeCNs9) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [She's so differentə](https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps) | 4:23 | 2023-03-16 |  |
 | [Shirly](https://open.spotify.com/track/7elf321mzsREI27HuwWWGC) | [Fiasko Leitmotiv](https://open.spotify.com/artist/7mCEKbvh7Tt4JJUkZYbkR4) | [Humblekids](https://open.spotify.com/album/3r2ghMcD9kK9hd4l3IJKNk) | 4:41 | 2022-06-30 | 2022-08-26 |
 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 | 2022-06-23 |  |
-| [Silence](https://open.spotify.com/track/5GXBYq5eBPcb8yNw885PbB) | [Persian Pelican](https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG) | [Goodbye Dreamers](https://open.spotify.com/album/0dyFCerPTAuvIV19cIapoY) | 2:54 | 2023-03-23 |  |
+| [Silence](https://open.spotify.com/track/5GXBYq5eBPcb8yNw885PbB) | [Persian Pelican](https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG) | [Goodbye Dreamers](https://open.spotify.com/album/0dyFCerPTAuvIV19cIapoY) | 2:54 | 2023-03-23 | 2023-03-26 |
 | [Silos](https://open.spotify.com/track/6N3eJ5VbK7wNpfDZNNJFuE) | [GALASSIA CLUB](https://open.spotify.com/artist/2VzEF2YjUANGcI4R16XNll) | [Silos](https://open.spotify.com/album/6H7Dm09Q1rwlhkNqXpWGgt) | 2:19 | 2022-05-09 | 2022-06-03 |
 | [So Long](https://open.spotify.com/track/38Klg16zOlVdoCcVY17pVC) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [So Long](https://open.spotify.com/album/72DcA98uNwQxTP5ECaeFPu) | 2:31 | 2022-08-18 | 2022-10-07 |
 | [Soa](https://open.spotify.com/track/55sdacSFOkx0mewyYctT1d) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [Lentius Profundius Suavius](https://open.spotify.com/album/6evTL0jvzNn2kOP2jEZsvw) | 3:58 | 2023-03-02 |  |

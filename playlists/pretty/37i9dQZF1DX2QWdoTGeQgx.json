@@ -1,29 +1,13 @@
 {
   "description": "Sit back and unwind to the most selamba songs around.",
-  "num_followers": 44293,
+  "num_followers": 44339,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk0OTE3MCwwMDAwMDAwMGFlOTk4Njc5OTg5NTc1NDA1ZjdhYjdiNmU2MjRkYjVh",
+  "snapshot_id": "MTY3Njk0OTE3MCwwMDAwMDAwMDUwMDUwZTEyYmM0MTViYmU1YjQxZDkzMzVmZGVhZjA0",
   "tracks": [
-    {
-      "added_at": "2023-01-17 02:28:07",
-      "album": {
-        "name": "Angel Baby",
-        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
-    },
     {
       "added_at": "2023-01-17 02:28:07",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
+    },
+    {
+      "added_at": "2023-01-17 02:28:07",
+      "album": {
+        "name": "Angel Baby",
+        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
     },
     {
       "added_at": "2023-01-17 02:28:07",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-01-17 02:28:07",
       "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "High School in Jakarta",
-      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
-    },
-    {
-      "added_at": "2023-01-17 02:28:07",
-      "album": {
         "name": "W.H.U.T (Wanna Hold U Tight)",
         "url": "https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 174000,
       "name": "W.H.U.T",
       "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
+    },
+    {
+      "added_at": "2023-01-17 02:28:07",
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
     },
     {
       "added_at": "2023-01-17 02:28:07",
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
     },
     {
-      "added_at": "2023-03-25 00:17:45",
+      "added_at": "2023-03-26 01:13:45",
       "album": {
         "name": "van gogh",
         "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-01-17 02:28:07",
       "album": {
-        "name": "Lonely Soldier Boy",
-        "url": "https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL"
-      },
-      "artists": [
-        {
-          "name": "Hujan",
-          "url": "https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Kotak Hati",
-      "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
-    },
-    {
-      "added_at": "2023-01-17 02:28:07",
-      "album": {
         "name": "Killer",
         "url": "https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-01-17 02:28:07",
       "album": {
+        "name": "Lonely Soldier Boy",
+        "url": "https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL"
+      },
+      "artists": [
+        {
+          "name": "Hujan",
+          "url": "https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "Kotak Hati",
+      "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
+    },
+    {
+      "added_at": "2023-01-17 02:28:07",
+      "album": {
         "name": "Smile For Me",
         "url": "https://open.spotify.com/album/0swAhdQVwcJatFVNKPOkyK"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 166415,
       "name": "Smile For Me",
       "url": "https://open.spotify.com/track/49z2kxEp9AzpDY66YuD1jJ"
+    },
+    {
+      "added_at": "2023-01-17 02:28:07",
+      "album": {
+        "name": "Vibin",
+        "url": "https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT"
+      },
+      "artists": [
+        {
+          "name": "Ylona Garcia",
+          "url": "https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR"
+        }
+      ],
+      "duration_ms": 165096,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m"
     },
     {
       "added_at": "2023-01-17 02:28:07",
@@ -943,18 +959,18 @@
     {
       "added_at": "2023-01-17 02:28:07",
       "album": {
-        "name": "Vibin",
-        "url": "https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT"
+        "name": "Make Me Wanna",
+        "url": "https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG"
       },
       "artists": [
         {
-          "name": "Ylona Garcia",
-          "url": "https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR"
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 165096,
-      "name": "Vibin",
-      "url": "https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m"
+      "duration_ms": 139714,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0"
     },
     {
       "added_at": "2023-01-17 02:28:07",
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-01-17 02:28:07",
       "album": {
-        "name": "Make Me Wanna",
-        "url": "https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0"
-    },
-    {
-      "added_at": "2023-01-17 02:28:07",
-      "album": {
         "name": "to be honest",
         "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 145298,
       "name": "confidence",
       "url": "https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX"
-    },
-    {
-      "added_at": "2023-01-17 02:28:07",
-      "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 230060,
-      "name": "A Day That Feels Better",
-      "url": "https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD"
     },
     {
       "added_at": "2023-01-17 02:28:07",
@@ -1043,6 +1027,22 @@
       "duration_ms": 269712,
       "name": "It's You (feat. Kaleb J)",
       "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
+    },
+    {
+      "added_at": "2023-01-17 02:28:07",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 230060,
+      "name": "A Day That Feels Better",
+      "url": "https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD"
     },
     {
       "added_at": "2023-01-17 02:28:07",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-01-17 02:28:07",
       "album": {
+        "name": "I.L.S.M (I Love Sadness More)",
+        "url": "https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "I.L.S.M",
+      "url": "https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee"
+    },
+    {
+      "added_at": "2023-01-17 02:28:07",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4"
       },
@@ -1159,26 +1175,6 @@
     {
       "added_at": "2023-01-17 02:28:07",
       "album": {
-        "name": "Pulang",
-        "url": "https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3"
-      },
-      "artists": [
-        {
-          "name": "K-Clique",
-          "url": "https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh"
-        },
-        {
-          "name": "Aj",
-          "url": "https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Pulang",
-      "url": "https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc"
-    },
-    {
-      "added_at": "2023-01-17 02:28:07",
-      "album": {
         "name": "Go Higher",
         "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
       },
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2023-01-17 02:28:07",
       "album": {
-        "name": "I.L.S.M (I Love Sadness More)",
-        "url": "https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f"
+        "name": "Pulang",
+        "url": "https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3"
       },
       "artists": [
         {
-          "name": "Aisha Retno",
-          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+          "name": "K-Clique",
+          "url": "https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh"
+        },
+        {
+          "name": "Aj",
+          "url": "https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37"
         }
       ],
-      "duration_ms": 185624,
-      "name": "I.L.S.M",
-      "url": "https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee"
+      "duration_ms": 260000,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc"
     },
     {
       "added_at": "2023-01-17 02:28:07",

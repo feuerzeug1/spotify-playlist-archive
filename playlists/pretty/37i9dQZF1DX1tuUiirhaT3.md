@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,357 likes - 216 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,641 likes - 216 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 86 | [Mountaintop Birdwalk](https://open.spotify.com/track/7joXZ5D0jFDEzkSsGIgCcy) | [Overdue Soles](https://open.spotify.com/artist/4D9rrvqXdR4y5IA0zJaicG) | [Mountaintop Birdwalk](https://open.spotify.com/album/1KG2rjcesAYUTij1Rp2a0P) | 3:19 |
 | 87 | [Springtime Bird](https://open.spotify.com/track/3VW0JyEfyYHqmhiZORcdTr) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Harmonic Waves](https://open.spotify.com/album/3oCRkrg7AL8r5rMfGVPU2t) | 3:21 |
 | 88 | [Rain Spirit](https://open.spotify.com/track/3lrkbRgRSxQFXlJRz2PbK7) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Rain Spirit](https://open.spotify.com/album/3mkEeKRZoNrsIDvUp8h3X0) | 2:36 |
-| 89 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/6LLTZik53U4RK36bAsw60W) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 |
+| 89 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 |
 | 90 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 |
 | 91 | [Verjongen](https://open.spotify.com/track/7tXeUZJmBp9cngsIziXi9e) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Verjongen](https://open.spotify.com/album/5ope3rhRd1xkWz6Yj3wJGH) | 2:52 |
 | 92 | [Gentle Forest Rain](https://open.spotify.com/track/3aSqeNxCjNPKFZOXrfl4li) | [Min Sosa](https://open.spotify.com/artist/4kWvX0IhUr9j3XAM8RITX0) | [Gentle Forest Rain](https://open.spotify.com/album/70rRnKDxihveW1rKMzbGsk) | 3:27 |

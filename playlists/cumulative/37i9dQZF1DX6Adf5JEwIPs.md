@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Dannylux
 
-2,359 songs - 5 day 4 hr 29 min
+2,360 songs - 5 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 | 2023-03-10 | 2023-03-18 |
 | [El Hijo Ausente](https://open.spotify.com/track/38dv7huCLcCokLZSLW3cFD) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [El Hijo Ausente](https://open.spotify.com/album/2IbLLOWrPszIqTRaHrP1eG) | 2:12 | 2022-05-20 | 2022-05-28 |
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2022-05-20 | 2022-05-28 |
+| [El Himno De Los Dolidos](https://open.spotify.com/track/6RpuAeDBpvf4IaMq3Bex2y) | [GOHN](https://open.spotify.com/artist/7KiKSecWZrDV4n3oD0sX6W) | [El Himno De Los Dolidos](https://open.spotify.com/album/7bleglss5J5JUTLrlPZCWK) | 3:09 | 2023-03-25 |  |
 | [EL HOMBRE PERFECTO](https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EL HOMBRE PERFECTO](https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW) | 3:36 | 2023-01-27 | 2023-02-04 |
 | [El HR](https://open.spotify.com/track/03HiUavmLfXA52gy9kbJMQ) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El HR](https://open.spotify.com/album/0PQslANkIRy4xouYhrWysF) | 2:54 | 2023-02-10 | 2023-02-18 |
 | [El HT](https://open.spotify.com/track/6gFE6Kp7uZE0ZQQCXlcLvK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El HT](https://open.spotify.com/album/00DHlVPNN94MEirjHEX2lz) | 2:30 | 2022-12-30 | 2023-01-07 |
@@ -1103,7 +1104,7 @@
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-06-03 | 2022-06-11 |
 | [Jalo](https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Jalo](https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc) | 2:25 | 2022-08-12 | 2022-08-20 |
 | [Javier Díaz \(En Vivo\)](https://open.spotify.com/track/6vjuVZcU6Q73RPOS4tUm6d) | [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp) | [Javier Díaz \(En Vivo\)](https://open.spotify.com/album/5J5ffYbBcKDGVLXfVbsTCN) | 2:55 | 2022-11-25 | 2022-12-03 |
-| [Jefe Fresa](https://open.spotify.com/track/1Jv7DC2IBFnKBrYVrYEPSY) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Jefe Fresa](https://open.spotify.com/album/6xkk82SvXbOzeHWVCupUlA) | 3:13 | 2023-03-24 |  |
+| [Jefe Fresa](https://open.spotify.com/track/1Jv7DC2IBFnKBrYVrYEPSY) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Jefe Fresa](https://open.spotify.com/album/6xkk82SvXbOzeHWVCupUlA) | 3:13 | 2023-03-24 | 2023-03-26 |
 | [Jesús Albino Quintero \- Época Pesada](https://open.spotify.com/track/1fzRex0cuke6HIiLW4NQz9) | [Jorge Gamboa](https://open.spotify.com/artist/34H9dYJWpNi8w6s8RdQusx), [Los Dos Grandes De La Sierra](https://open.spotify.com/artist/58EWXwU9oVr0Iwuh4rF6on) | [Jesús Albino Quintero \(Época Pesada\)](https://open.spotify.com/album/6p84MoNjLwKOXPwg4MMT8w) | 3:03 | 2022-10-14 | 2022-10-22 |
 | [Jesús Malverde \(En Vivo\)](https://open.spotify.com/track/3MNy8JfbSITbuWq0WUx9oI) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Jesús Malverde \(En Vivo\)](https://open.spotify.com/album/4c4QrX4HDOv8HXUteNvIVE) | 2:54 | 2023-03-03 | 2023-03-11 |
 | [JGL](https://open.spotify.com/track/40OoU6009UYKq27wFnPB2k) | [Los Chavos Del Rancho](https://open.spotify.com/artist/1tXQ4Kzj3NltUlJelyZi2M) | [JGL](https://open.spotify.com/album/72EYZOsbacU8Fkm3JXzOnE) | 2:35 | 2022-10-07 | 2022-10-15 |

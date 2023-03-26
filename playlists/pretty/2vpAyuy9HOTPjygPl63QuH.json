@@ -6,7 +6,7 @@
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "Njc5OCw5NTU5YmE1NzI4YzNiYWY4YzkyYTM4NWRjMTkyNGI5YWQxZmEyNWUx",
+  "snapshot_id": "NjgwMCw0ZjQxZDFmNTJhODk4YjYxMTU4NGQwY2RiZWNiY2QzMzg4NWFlNzUz",
   "tracks": [
     {
       "added_at": "2023-03-24 14:31:54",
@@ -36,7 +36,7 @@
           "url": "https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K"
         }
       ],
-      "duration_ms": 199062,
+      "duration_ms": 199067,
       "name": "Jump Em",
       "url": "https://open.spotify.com/track/05CumuPfFqJu7FmBtO0KmV"
     },
@@ -200,12 +200,12 @@
       },
       "artists": [
         {
-          "name": "AFROJACK presents NLW",
-          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
-        },
-        {
           "name": "Black V Neck",
           "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "AFROJACK presents NLW",
+          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
         }
       ],
       "duration_ms": 200483,
@@ -491,6 +491,42 @@
       "duration_ms": 173333,
       "name": "The Way",
       "url": "https://open.spotify.com/track/2Zj2cVmD1XgTqWijyHreVj"
+    },
+    {
+      "added_at": "2023-03-25 08:09:04",
+      "album": {
+        "name": "I Entah",
+        "url": "https://open.spotify.com/album/2Bw9YNMw0u1uAWNR7RPZyP"
+      },
+      "artists": [
+        {
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+        }
+      ],
+      "duration_ms": 152578,
+      "name": "I Entah",
+      "url": "https://open.spotify.com/track/6RKtjKLTy2w6AXxzV42pSm"
+    },
+    {
+      "added_at": "2023-03-25 09:28:40",
+      "album": {
+        "name": "The Glass House",
+        "url": "https://open.spotify.com/album/373d7U7JIQAw1E8OFxiORT"
+      },
+      "artists": [
+        {
+          "name": "Dark Cities",
+          "url": "https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/00x84UroO3P0NJWuKQrVbK"
     }
   ],
   "unique_name": "House Shift",

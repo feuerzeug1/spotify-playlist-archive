@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,830 likes - 117 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,836 likes - 117 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 108 | [Bereden väg för Herran \(Psalm 103\)](https://open.spotify.com/track/5ByxDTuCTKA07FhevL1ISz) | [Anders Widmark Trio](https://open.spotify.com/artist/74lV0oMFa3sSpDxUlfZ5yI) | [Psalmer](https://open.spotify.com/album/58TQrEfi5T1bi5KQVhRJ9r) | 3:15 |
 | 109 | [Tunnelseende](https://open.spotify.com/track/6kUrJC50YrJhaLsNn4HC1s) | [Per 'Texas' Johansson](https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T) | [Swedish Jazz Masters: Alla Mina Kompisar](https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV) | 5:44 |
 | 110 | [Jag kan se dig när](https://open.spotify.com/track/0IGyv2Zt8gTxMWTcj9PDjP) | [Carin Lundin](https://open.spotify.com/artist/4IMhnUPdhWUd6LkgL4GgV3), [Johan Setterlind](https://open.spotify.com/artist/1nDRkqtVQVGIKNJ53IppRp), [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Mattias Welin](https://open.spotify.com/artist/2FadNpVetw7adOruTqDuZ2), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Smulor och parafraser](https://open.spotify.com/album/6Dk2rnIv3koxtcUWaLM6fN) | 4:11 |
-| 111 | [Brudmarsch från Boda](https://open.spotify.com/track/4kwKxWe4FR5K8aoKvJiRwY) | [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Swedish Jazz History 1928\-1969](https://open.spotify.com/album/4zE9QIiX8Vdrqx155CIlfx) | 2:09 |
+| 111 | [Brudmarsch från Boda](https://open.spotify.com/track/3k3h25bsMzaXMSsWEhRi7Q) | [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Jan Johansson](https://open.spotify.com/artist/6DVjEzweNkvMlFBepu9crb) | [Swedish Jazz History 1928\-1969](https://open.spotify.com/album/7bkTkuMV6QvkKBVkWJf7Sf) | 2:09 |
 | 112 | [Sakta vi gå genom stan](https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Ahh! Monica!](https://open.spotify.com/album/2iflMrGtjzufU2Jw7JhoLE) | 3:22 |
 | 113 | [Oslo](https://open.spotify.com/track/5cAHupL3mv1dNstR0IXbyC) | [Fredrik Ljungkvist and the Yun Kan 5](https://open.spotify.com/artist/3PeIu9Iid94d06zGuE99xa) | [Badaling](https://open.spotify.com/album/5FLgahjtdZpbijATZ7IwUZ) | 7:01 |
 | 114 | [Visa från Utanmyra](https://open.spotify.com/track/7jFARkl6eGiEUQZnwv5qrP) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Ohh! Monica!](https://open.spotify.com/album/67oyumtZk7JqH5onehTByo) | 2:42 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 116 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 117 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MTY3OTYxMjQwMCwwMDAwMDAwMDMwZWE4NDgzY2E0ZmEwMDhkMGUwOWQ4ZjU2ZGY2NDYx`
+Snapshot ID: `MTY3OTYxMjQwMCwwMDAwMDAwMGFjZmI0OWE1NDIyZjNlNjY5YzVmMWU4ZWY4N2ZlYTVh`

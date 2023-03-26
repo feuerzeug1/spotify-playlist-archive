@@ -1940,6 +1940,58 @@
     {
       "album": {
         "name": "Tchaikovsky: Symphony No. 5 & The Storm",
+        "url": "https://open.spotify.com/album/2rOgKJ7keCtqdSveecj3jG"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 909333,
+      "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: I. Andante - Allegro con anima",
+      "url": "https://open.spotify.com/track/6pOJuUpCjnjYfNOhIOrzpu"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 5 & The Storm",
+        "url": "https://open.spotify.com/album/2rOgKJ7keCtqdSveecj3jG"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 818000,
+      "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: II. Andante cantabile, con alcuna licenza",
+      "url": "https://open.spotify.com/track/4LPQn9mBWArzQ2VL0HrKWS"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 5 & The Storm",
         "url": "https://open.spotify.com/album/7GBifp3KDy3FtT0fA9XUKI"
       },
       "artists": [
@@ -1991,6 +2043,32 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky: Symphony No. 5 & The Storm",
+        "url": "https://open.spotify.com/album/2rOgKJ7keCtqdSveecj3jG"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343600,
+      "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: III. Waltz. Allegro moderato",
+      "url": "https://open.spotify.com/track/0dJGzUEpcDWI7khENvwvY8"
+    },
+    {
+      "album": {
         "name": "A Guided Tour of Nationalism in the Romantic Era, Vol. 6",
         "url": "https://open.spotify.com/album/022EQNIry7qEg9Huku8znv"
       },
@@ -2036,7 +2114,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 909333,
       "name": "Symphony No. 5 in E Minor, Op. 64: I. Andante - Allegro con anima",
       "url": "https://open.spotify.com/track/7elrrUfu3iyXBsFe6Srupn"
@@ -2062,7 +2140,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 818000,
       "name": "Symphony No. 5 in E Minor, Op. 64: II. Andante cantabile, con alcuna licenza",
       "url": "https://open.spotify.com/track/50IXlWwjIqpkQd4NhOwOP0"
@@ -2088,7 +2166,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 339000,
       "name": "Symphony No. 5 in E Minor, Op. 64: III. Valse: Allegro moderato",
       "url": "https://open.spotify.com/track/4EWrzO6uDGAO0oyRQMvxG9"

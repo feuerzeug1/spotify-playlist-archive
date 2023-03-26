@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,819 likes - 71 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,062 likes - 71 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 40 | [Deadnight Warrior](https://open.spotify.com/track/6KzQedLjxK2WTnN7B1zn16) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Deadnight Warrior](https://open.spotify.com/album/4udcCVFs8yisGUOUnpB0zK) | 2:53 |
 | 41 | [Fortress](https://open.spotify.com/track/4DgiEFeH7hLzb0n9h2lPrb) | [Pyramaze](https://open.spotify.com/artist/23jSIm8VfKV2HaQJtfR3PK) | [Fortress](https://open.spotify.com/album/4wGVWpgyEHl06ULWVPIUAY) | 4:57 |
 | 42 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |
-| 43 | [The Queen](https://open.spotify.com/track/5UPzTaFmFFrdQhJjnAOsnY) | [Cruachan](https://open.spotify.com/artist/6QpbkfyEQJ3JiQw2AbTRUH), [Kim Dylla](https://open.spotify.com/artist/7mv4zNnHy2oMZ5Us5JZ703), [Geoffrey Dell'Aria](https://open.spotify.com/artist/78nDPRQjvaZeKaf6rQaKAn) | [The Living and The Dead](https://open.spotify.com/album/4W5j6t64ca4oKkku2VnQSe) | 6:50 |
+| 43 | [The Queen](https://open.spotify.com/track/5UPzTaFmFFrdQhJjnAOsnY) | [Cruachan](https://open.spotify.com/artist/6QpbkfyEQJ3JiQw2AbTRUH) | [The Living and The Dead](https://open.spotify.com/album/4W5j6t64ca4oKkku2VnQSe) | 6:50 |
 | 44 | [Perfect Lie](https://open.spotify.com/track/1GIfnwV0xv2i2F9pcri2Go) | [Pray For Survival](https://open.spotify.com/artist/3N7ESc9jj1xmcAbZhmsfur), [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp), [AOKAMI](https://open.spotify.com/artist/4juluquEqP4WygWA1jtNh9) | [Angels And Demons](https://open.spotify.com/album/0Bdj0CBZUTykGLYMt2C5z4) | 3:18 |
 | 45 | [The Dead Queen's Race](https://open.spotify.com/track/7rRdk0DGsklXqsdC4qIQK1) | [Dragony](https://open.spotify.com/artist/4ZGFYwFpBWxq6FxqilvRJT), [Maria Nesh](https://open.spotify.com/artist/0cVuEuJdOfkZ8EMaxWGPV9) | [The Dead Queen's Race](https://open.spotify.com/album/6QUPpbPuDN7YswT3OcYEHO) | 4:32 |
 | 46 | [Sixcalibur](https://open.spotify.com/track/54k7xdRn0ZSpuZKFOjKtSR) | [ANGUS McSIX](https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy) | [Sixcalibur](https://open.spotify.com/album/3vIDDQI7TD1ncwnCStswr2) | 3:53 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 54 | [Sepulchre \(Don't Vote\)](https://open.spotify.com/track/7Mb55Cmle1Lt9tkiSXd2Dt) | [Dawn Ray'd](https://open.spotify.com/artist/4SgdAGvT4cBCGFGmIzBtUC) | [To Know the Light](https://open.spotify.com/album/22AHwd2l7QUGwmPXMp7B0s) | 3:12 |
 | 55 | [Gravedigger](https://open.spotify.com/track/2o8TMqnYwkuezLP08OKaw2) | [Hatesphere](https://open.spotify.com/artist/5WQuRVeLXX0qH2lVFZYhl5) | [Hatred Reborn](https://open.spotify.com/album/2iQglTkEJRMNxhftMOc2Gh) | 3:57 |
 | 56 | [Hellride](https://open.spotify.com/track/3Y4j2JXcSXuFsOM2KwGqp7) | [Keep Of Kalessin](https://open.spotify.com/artist/1Oos40mD8hfvswQWVjkbg5) | [Katharsis](https://open.spotify.com/album/7Bg2aiEinctKJOCpdV4YGA) | 3:54 |
-| 57 | [Forfort Av Kulden](https://open.spotify.com/track/6HS4agidoOvDkRGKiY6Jt3) | [Mork](https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7) | [Dypet](https://open.spotify.com/album/2dPuve2VirTp81dO4gwHIO) | 5:20 |
+| 57 | [Forført Av Kulden](https://open.spotify.com/track/6HS4agidoOvDkRGKiY6Jt3) | [Mork](https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7) | [Dypet](https://open.spotify.com/album/2dPuve2VirTp81dO4gwHIO) | 5:20 |
 | 58 | [Amuse Me](https://open.spotify.com/track/5NvGEw9sct3WbU2QGSIbqB) | [Excalion](https://open.spotify.com/artist/72AisxxoPQu3Q0K5UgvQew) | [Once Upon a Time](https://open.spotify.com/album/7iqDBxNlFGnrKXPkTdS91l) | 3:19 |
 | 59 | [The Construct](https://open.spotify.com/track/4BOuPun42biK5ihO57YtUD) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [The Garden](https://open.spotify.com/album/0zYPOV8BHIfUQv4T2mKgLW) | 3:26 |
 | 60 | [Rats](https://open.spotify.com/track/174qB4v9DmRWs9m8knPCbM) | [To Kill Achilles](https://open.spotify.com/artist/6JiVwVHJRXHiZuU9vHzjpz) | [Rats](https://open.spotify.com/album/2VHgZnLFvMBLtOgmrRIBMz) | 2:41 |

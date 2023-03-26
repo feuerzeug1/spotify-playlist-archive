@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,058 likes - 84 songs - 3 hr 57 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,059 likes - 84 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 6 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
 | 7 | [The Freaks](https://open.spotify.com/track/1cTHUMdInmZvxVCHnzHOj2) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Freaks](https://open.spotify.com/album/1AZC2QcPfpS3Dn0Fpoodwb) | 4:16 |
 | 8 | [Papapo](https://open.spotify.com/track/19kKBMycCxe3KQP8Ljaruz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Papapo](https://open.spotify.com/album/2dm5V14JgMy0tb8A5tGrn8) | 2:46 |
-| 9 | [Oral Music](https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA) | [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Oral Music](https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN) | 3:20 |
+| 9 | [Oral Music](https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO) | [Oral Music](https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN) | 3:20 |
 | 10 | [Warp](https://open.spotify.com/track/6fPxp5gyANF9jIPJWJBILo) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Warp](https://open.spotify.com/album/0RnRDlV1qQnS9mAL9dQWHT) | 2:23 |
 | 11 | [Like That!](https://open.spotify.com/track/4QGXpDkEZzuZ33oniNjAQ0) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [KENNY MUSIK](https://open.spotify.com/artist/5UzwQIj5Z1CfQrsVhpp57z) | [Like That!](https://open.spotify.com/album/7n2uPIxqk2YZoueagzBoqR) | 2:36 |
 | 12 | [Hold You Close](https://open.spotify.com/track/4hmeY8Qid45jlBnY19dco0) | [Samlight](https://open.spotify.com/artist/2O8vLNXeIM7NGGUAb5LxX8), [Nickyb](https://open.spotify.com/artist/6dlLhMbUNpgxLBsu5BDBFf), [hannah kate](https://open.spotify.com/artist/7HPNYz5CtDCjSmxPj15VJQ) | [Hold You Close](https://open.spotify.com/album/1yBWamiPrSTBrBIR78xli1) | 2:13 |

@@ -19744,10 +19744,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 135388,
       "name": "Rose Gold",
       "url": "https://open.spotify.com/track/1OYgcw2j8YycFu33ENnCBV"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/4udtejbvT3TPKpv6PX5GJG"
+      },
+      "artists": [
+        {
+          "name": "Syndrome",
+          "url": "https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135388,
+      "name": "Rose Gold",
+      "url": "https://open.spotify.com/track/3sm6HeoITXQgaMQhkra7om"
     },
     {
       "album": {

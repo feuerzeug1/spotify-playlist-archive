@@ -4,7 +4,7 @@
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-109 songs - 7 hr 26 min
+111 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Di Sayidan](https://open.spotify.com/track/5lTnUb4IgWgsEiJseldpkM) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Di Sayidan](https://open.spotify.com/album/1UYpybR1fl9rAxK89RbCEH) | 5:14 | 2021-11-25 |  |
 | [Fallen Japanese](https://open.spotify.com/track/2b5zeSMZrwA9ygkrG5Kc5E) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [The Osaka Journals](https://open.spotify.com/album/43Prz8VTzCcSjELmqhoLUZ) | 2:40 | 2021-11-25 |  |
 | [Firefiles](https://open.spotify.com/track/4Vg4wDdSihxcGQhXHSEzMj) | [risky summerbee & the honeythief](https://open.spotify.com/artist/08nbcEsElBbqPXrXnPVYdy) | [The Place I Wanna Go](https://open.spotify.com/album/1EtoolKNgWx0OoIJNDtZWt) | 3:44 | 2022-04-14 |  |
-| [Funny Little Dream](https://open.spotify.com/track/6c9Migc6BSfWp1pMIr7DuM) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/29AM4873XavAXXXvr446D0) | 3:10 | 2022-07-30 |  |
+| [Funny Little Dream](https://open.spotify.com/track/2W3Oq3vWsxCD7qGuy9jLTU) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/3kCSZ4uIMazjsWt8zz46eM) | 3:10 | 2023-03-02 |  |
+| [Funny Little Dream](https://open.spotify.com/track/6c9Migc6BSfWp1pMIr7DuM) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/29AM4873XavAXXXvr446D0) | 3:10 | 2022-07-30 | 2023-03-26 |
 | [Hanya Kau](https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [V2.05](https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG) | 4:17 | 2021-11-25 |  |
 | [Hilang](https://open.spotify.com/track/59be0zIdpIlGnpGBq17JB2) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [rumahsakit](https://open.spotify.com/album/6UGe4giZjoyqAku6wQaxdw) | 3:56 | 2021-11-25 |  |
 | [Hook Up](https://open.spotify.com/track/7MiiJTXScerKHs4TkqXX1e) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:20 | 2022-01-06 |  |
@@ -74,7 +75,8 @@
 | [Ode Buat Kota](https://open.spotify.com/track/2jkubtUODXk1fbYFx4z9US) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Ode Buat Kota](https://open.spotify.com/album/00c4Anc1uWsQCVijdCTJwB) | 4:01 | 2021-11-25 |  |
 | [Ode Pinggiran Jakarta](https://open.spotify.com/track/4hG9copEXzRakxEozJAMH5) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Audio Imperialist](https://open.spotify.com/album/3cSra7Q522rn7BvRIKYU5K) | 4:33 | 2022-12-16 |  |
 | [Old Friend](https://open.spotify.com/track/6hGV9A3qjB3nBzLCXM4sPV) | [Ballads of the Cliche](https://open.spotify.com/artist/7fNOUKLAwWlOMfv3uAW3RD) | [Evergreen](https://open.spotify.com/album/73hSLzBNglYCR8TvyXJans) | 3:20 | 2021-11-25 |  |
-| [Our Little Secret](https://open.spotify.com/track/30UYhqjoFvR1IKBOuLY4Om) | [Clover](https://open.spotify.com/artist/40YFIe30faVDezEz2qlTVk), [Merdi Simanjuntak](https://open.spotify.com/artist/4N8LDmG9Rwaoix3Sylkgzw) | [Until Whenever](https://open.spotify.com/album/6R9s145A0ajId6I0yjlrZc) | 3:54 | 2022-06-23 |  |
+| [Our Little Secret](https://open.spotify.com/track/30UYhqjoFvR1IKBOuLY4Om) | [Clover](https://open.spotify.com/artist/40YFIe30faVDezEz2qlTVk), [Merdi Simanjuntak](https://open.spotify.com/artist/4N8LDmG9Rwaoix3Sylkgzw) | [Until Whenever](https://open.spotify.com/album/6R9s145A0ajId6I0yjlrZc) | 3:54 | 2022-06-23 | 2023-03-26 |
+| [Our Little Secret](https://open.spotify.com/track/4yg2FBP14vHrXHDelZmrXD) | [Clover](https://open.spotify.com/artist/40YFIe30faVDezEz2qlTVk), [Merdi Simanjuntak](https://open.spotify.com/artist/2knUiLoFc2NCZl3Ky9lWtu) | [Until Whenever](https://open.spotify.com/album/0UEOSjsUojroPfPRWSGzL9) | 3:54 | 2023-03-02 |  |
 | [Pada Awalnya](https://open.spotify.com/track/41m65kJO5iZ4S42AqOSD0Q) | [VOX](https://open.spotify.com/artist/0T90XEl0OLRsdEmE42DNLX) | [Pada Awalnya](https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq) | 3:43 | 2021-11-25 | 2022-01-07 |
 | [Paradox](https://open.spotify.com/track/6Sqy4qSkZwHvbQlOmqCGe2) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [Mind Thieves](https://open.spotify.com/album/10u0ZDzXKtAUOrzuoZtk8z) | 5:07 | 2022-08-04 |  |
 | [Penggalan Kisah Lama](https://open.spotify.com/track/6CgS033Lai60cUo17xKNUV) | [La Luna](https://open.spotify.com/artist/70vCC614T0CWhPaIjDo9Na) | [Kilas Balik](https://open.spotify.com/album/4dAo8QjTz9yvUGPgUUBn8p) | 3:46 | 2022-04-14 |  |

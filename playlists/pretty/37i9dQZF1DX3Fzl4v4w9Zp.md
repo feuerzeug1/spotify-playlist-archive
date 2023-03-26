@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Pony Bradshaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,870 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,956 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 2 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 |
 | 3 | [No Cowboys](https://open.spotify.com/track/19fuc8JoaMoK5dNpKNTwVu) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Kentucky Blue](https://open.spotify.com/album/5vLD7cTnfTa8407z7ljNsX) | 3:47 |
 | 4 | [Coal River](https://open.spotify.com/track/1feNxzKDVyqTkGuJMrAzVF) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Coal River](https://open.spotify.com/album/2QZMDKgCHgI5QXiERup8FL) | 3:41 |
-| 5 | [Change Of Heart](https://open.spotify.com/track/1t4mMKc8eqxWwfYD8YtuT2) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart](https://open.spotify.com/album/6UrqZ5ZhjJRBA2LcyaXxOc) | 3:43 |
+| 5 | [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/track/3RMBqywLJEMrNIcFeasnme) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/album/230BtBKWaVO3EkDhfyk3MB) | 3:43 |
 | 6 | [Go Down, Appalachia](https://open.spotify.com/track/5o4FPf6PxgN6HriyRdsY9h) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [North Georgia Rounder](https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U) | 3:10 |
 | 7 | [Still Here](https://open.spotify.com/track/4sFf1zh6NkOG3YyfE8LcBD) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Still Here](https://open.spotify.com/album/45f44m26ubro0tEMbeLV6T) | 3:42 |
 | 8 | [Mystic Light](https://open.spotify.com/track/6gOvh97w99JIolVwNRzmkI) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 3:16 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Black Hole](https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Black Hole](https://open.spotify.com/album/5WB4gBdiDMMGjqoQqZWj6S) | 4:02 |
 | 150 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDU2Y2MyOTZkM2E1NzU1NWIxNDM3N2QyYzk3NjllYjU2`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDdkZjE4Y2U4MjQwZDA3YjE4Y2FmMTg1NDQxOWQwODBm`

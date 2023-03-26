@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,427 likes - 53 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,447 likes - 53 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [white horse](https://open.spotify.com/track/1gjCPf15cmdVxSIqKGsnXz) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [white horse](https://open.spotify.com/album/7fdAdlq3AmkfRKcRPd9KrB) | 5:43 |
+| 1 | [white horse](https://open.spotify.com/track/1gjCPf15cmdVxSIqKGsnXz) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [white horse](https://open.spotify.com/album/7fdAdlq3AmkfRKcRPd9KrB) | 5:43 |
 | 2 | [Fock Music](https://open.spotify.com/track/0LKqm7QTZ9IViOZzDX8fSG) | [Pantomiman](https://open.spotify.com/artist/4YY17UFbIA2EXhF78H6UDP), [Fungus Funk](https://open.spotify.com/artist/0xqTHxXphPeLQgShl2REz7) | [No Jokes](https://open.spotify.com/album/1QmTzcOVQqbxc9QZkflZLI) | 7:42 |
 | 3 | [Black Smokers](https://open.spotify.com/track/1uL1hBBXXyZN0pIgsFqCr9) | [PTU](https://open.spotify.com/artist/70UHL8BEGqoUNmXfXi0nGr) | [Locus Error](https://open.spotify.com/album/2tFkUn6aftaPWDUZhn8xDl) | 4:26 |
 | 4 | [Bass Drop](https://open.spotify.com/track/53fCTlSygBP4mlHKqww3h3) | [DJ Godfather](https://open.spotify.com/artist/0cKrM2XKF7wxyfEQDauvyQ), [Lil Mz\. 313](https://open.spotify.com/artist/0xwgxtAxlR2y2C3ijPKwzG) | [This Detroit Thing of Ours](https://open.spotify.com/album/6lZGZf3CQPvT1UBPIZFPAZ) | 1:42 |

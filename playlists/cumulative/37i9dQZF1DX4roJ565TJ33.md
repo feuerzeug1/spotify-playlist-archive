@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-138 songs - 10 hr 31 min
+139 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Blinded by the Night](https://open.spotify.com/track/2XOZ0xW1TB3R0lrETZXtUH) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Everybody Digs](https://open.spotify.com/album/3rcp6HZfqgBfFHLmStvEXl) | 6:16 | 2021-11-08 |  |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-16 |  |
 | [Blåa dar](https://open.spotify.com/track/1cYCRmHWTGc76LovSirNJF) | [Anders Boson Jazz Ensemble](https://open.spotify.com/artist/41da8g6o6JZKF3sX5OOYaL) | [Blåa Dar](https://open.spotify.com/album/75na6wT3GKe2HUEczxKBiQ) | 4:31 | 2023-03-23 |  |
-| [Brudmarsch från Boda](https://open.spotify.com/track/4kwKxWe4FR5K8aoKvJiRwY) | [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Swedish Jazz History 1928\-1969](https://open.spotify.com/album/4zE9QIiX8Vdrqx155CIlfx) | 2:09 | 2021-11-08 |  |
+| [Brudmarsch från Boda](https://open.spotify.com/track/3k3h25bsMzaXMSsWEhRi7Q) | [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Jan Johansson](https://open.spotify.com/artist/6DVjEzweNkvMlFBepu9crb) | [Swedish Jazz History 1928\-1969](https://open.spotify.com/album/7bkTkuMV6QvkKBVkWJf7Sf) | 2:09 | 2023-03-23 |  |
+| [Brudmarsch från Boda](https://open.spotify.com/track/4kwKxWe4FR5K8aoKvJiRwY) | [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Swedish Jazz History 1928\-1969](https://open.spotify.com/album/4zE9QIiX8Vdrqx155CIlfx) | 2:09 | 2021-11-08 | 2023-03-26 |
 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 | 2021-11-08 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 | 2021-11-08 |  |
 | [Childhood](https://open.spotify.com/track/6yOA4oobnVP9wJ53TnI4lA) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 6:41 | 2022-04-07 |  |

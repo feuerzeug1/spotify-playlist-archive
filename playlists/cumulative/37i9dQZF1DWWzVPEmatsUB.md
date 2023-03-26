@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-333 songs - 20 hr 14 min
+334 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,8 @@
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-04-22 |  |
 | [Until Your Heart Breaks](https://open.spotify.com/track/1CTczmxxog61Pb8zCQXTHa) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Until Your Heart Breaks](https://open.spotify.com/album/5vrsJP1CrwXcVP2pwM2u72) | 3:27 | 2020-10-17 | 2023-02-14 |
 | [Until Your Heart Breaks](https://open.spotify.com/track/1KMRQT3HgJ4xKGhBr6BhTz) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Until Your Heart Breaks](https://open.spotify.com/album/5GlFPzvXhHqsYxbcLANITK) | 3:27 | 2020-10-17 | 2022-07-18 |
-| [Vibin' to It](https://open.spotify.com/track/0VLur18KTXWpIoRHEni0OJ) | [Temple Haze](https://open.spotify.com/artist/1NbWsEhbWzwjAL2LfPCERk) | [Dreams](https://open.spotify.com/album/4FhvZMQJ984gNLhB5xaobl) | 4:05 | 2022-05-06 |  |
+| [Vibin' to It](https://open.spotify.com/track/0VLur18KTXWpIoRHEni0OJ) | [Temple Haze](https://open.spotify.com/artist/1NbWsEhbWzwjAL2LfPCERk) | [Dreams](https://open.spotify.com/album/4FhvZMQJ984gNLhB5xaobl) | 4:05 | 2022-05-06 | 2023-03-26 |
+| [Vibin' to It](https://open.spotify.com/track/1C6I1zTrq2ykBIc85EVNVu) | [Temple Haze](https://open.spotify.com/artist/1NbWsEhbWzwjAL2LfPCERk) | [Dreams](https://open.spotify.com/album/6n3ApWN4JdOPyLFpbbneIm) | 4:05 | 2022-05-13 |  |
 | [Walls](https://open.spotify.com/track/7xDABKlqkXpu2esECKpdO2) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Walls](https://open.spotify.com/album/2RvK9TDTryf7oM3bjcD7JF) | 3:49 | 2023-02-03 |  |
 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 | 2020-10-17 | 2022-04-21 |
 | [Warm Love](https://open.spotify.com/track/0CRQCibRDepJbBqFpVdAOH) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Warm Love](https://open.spotify.com/album/5Vd9d9uRtf3WyAiVktsa9l) | 3:31 | 2020-10-17 | 2022-04-21 |

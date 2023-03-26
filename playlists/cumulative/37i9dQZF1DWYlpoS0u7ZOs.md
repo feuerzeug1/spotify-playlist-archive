@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: Boy Bleach
 
-143 songs - 7 hr 33 min
+144 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Lovedrunk](https://open.spotify.com/track/0oNTXmnhv5NFSScucHbki8) | [The White Lakes](https://open.spotify.com/artist/0NfxIPLSHdoCWNMXbLjehq) | [Lovedrunk](https://open.spotify.com/album/5ubYQGukF6N0djNxage429) | 4:00 | 2023-01-27 | 2023-02-10 |
 | [Lucifer](https://open.spotify.com/track/45Nwq28AzOXpRve87hbDCk) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/5uc01QHmHEhlokwE2kYdDB) | 3:26 | 2023-03-03 | 2023-03-04 |
 | [Lucifer](https://open.spotify.com/track/4Fve9SnM02yqPypTcK4i4U) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/460Oh7tKR0JYuAje2Nuf04) | 3:26 | 2023-03-03 |  |
-| [Madman](https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Madman](https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY) | 3:52 | 2023-03-03 |  |
+| [Madman](https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Madman](https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY) | 3:52 | 2023-03-03 | 2023-03-26 |
+| [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 | 2023-03-24 |  |
 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 | 2023-02-17 |  |
 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 | 2023-01-13 |  |
 | [Meal Deal](https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Meal Deal](https://open.spotify.com/album/1vxQHrNWHlXJsKIsozh2UZ) | 2:23 | 2023-01-13 | 2023-03-03 |

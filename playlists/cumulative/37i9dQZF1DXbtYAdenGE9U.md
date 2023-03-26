@@ -4,7 +4,7 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-130 songs - 10 hr 17 min
+131 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Northern Lights \- Original Mix](https://open.spotify.com/track/4wKyAjQqOCQvdZmmLumyOV) | [Smith & Pledger](https://open.spotify.com/artist/63hQuDdizTNfxbpzJKv8Gf) | [Northern Lights](https://open.spotify.com/album/4Vm8pk6adVCIkCR7jlq8HM) | 7:39 | 2022-12-28 | 2023-03-11 |
 | [Not Over Yet](https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [If I Could Fly](https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66) | 6:01 | 2022-04-13 | 2022-12-28 |
 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 | 2022-04-13 | 2022-12-28 |
+| [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 | 2023-03-10 |  |
 | [On A Good Day \(Metropolis\) \- Radio Edit](https://open.spotify.com/track/703CgPJAEC6sSw2Iiw8gpJ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Oceanlab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT) | [On A Good Day \(Metropolis\) \[Above & Beyond & Gareth Emery pres\. OceanLab\]](https://open.spotify.com/album/2QUmqJN8jVbXPcyTyuPG7Z) | 2:56 | 2022-12-28 | 2023-01-03 |
 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 | 2022-04-13 |  |
 | [Out Of The Blue](https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Ilan Bluestone Remix\)](https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF) | 3:53 | 2022-04-13 |  |
@@ -106,7 +107,7 @@
 | [Southern Sun \- DJ Tiësto Remix](https://open.spotify.com/track/1bAHNj6NQQqbRmnlWyOQvC) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Southern Sun / Ready Steady Go](https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h) | 9:44 | 2022-04-13 | 2022-12-28 |
 | [Stonecold \- Radio Edit](https://open.spotify.com/track/0DqhPqYIRfWAylYpBBtnNd) | [Bossanova](https://open.spotify.com/artist/3WZRhTTwhsDVDbpsy2mi7l) | [A State Of Trance Classics, Vol\. 7](https://open.spotify.com/album/7fV9Ip8u5o1BRMPPrpZhNF) | 3:30 | 2022-04-13 | 2022-07-29 |
 | [Stonecold \- Radio Mix](https://open.spotify.com/track/5dAD4N2hVBGa1EQBbQd3oJ) | [Bossanova](https://open.spotify.com/artist/3WZRhTTwhsDVDbpsy2mi7l) | [Stonecold](https://open.spotify.com/album/0znRH64fqmlsVSRlbTtL5k) | 3:30 | 2022-12-28 | 2023-03-11 |
-| [Strange World](https://open.spotify.com/track/7uIU44vMKlPVIh4Xm6Cgzh) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- Selection 003](https://open.spotify.com/album/5MZ2w49s7nsUV1jcnS3STq) | 3:58 | 2022-12-28 |  |
+| [Strange World](https://open.spotify.com/track/7uIU44vMKlPVIh4Xm6Cgzh) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- Selection 003](https://open.spotify.com/album/5MZ2w49s7nsUV1jcnS3STq) | 3:58 | 2022-12-28 | 2023-03-26 |
 | [Strange World \- 2000 Remake](https://open.spotify.com/track/7iD2wBI87eTW6CNubpNe3c) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Magik Seven \(Live in Los Angeles\)](https://open.spotify.com/album/10GbeqAjKBwl1xxatxLZV7) | 7:56 | 2022-04-13 | 2022-12-20 |
 | [Sun & Moon \- Above & Beyond Club Mix](https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [The Club Mix Collection](https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE) | 3:08 | 2022-12-28 |  |
 | [Sun & Moon \- Original Mix](https://open.spotify.com/track/4rfhAoZjGwraqwX1w47uij) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Group Therapy](https://open.spotify.com/album/2I6sty06i8pXtu175kAfHa) | 5:26 | 2022-04-13 | 2022-12-28 |

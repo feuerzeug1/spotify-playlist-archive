@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 48590,
+  "num_followers": 48702,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMDE0OGNlZjA0NGQxMTcwYzZkNTY4NjEzMzI1MGUwZWUw",
+  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMGE3YzZiNTZjYzg4ZGU5MWI2ZmUyMDRmYzU2MTlhNzk1",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "The Craic Is Mighty",
-        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
-      },
-      "artists": [
-        {
-          "name": "The Dicey Rileys",
-          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
-        }
-      ],
-      "duration_ms": 137146,
-      "name": "Dicey Reilly",
-      "url": "https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Ireland: Tales of Our Land",
         "url": "https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 210533,
       "name": "The Hunt / Dunphy's Hornpipe",
       "url": "https://open.spotify.com/track/3Qmkw1Jq9Gdw7C0rmMFw2h"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "The Craic Is Mighty",
+        "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
+      },
+      "artists": [
+        {
+          "name": "The Dicey Rileys",
+          "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
+        }
+      ],
+      "duration_ms": 137146,
+      "name": "Dicey Reilly",
+      "url": "https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -544,25 +544,21 @@
           "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
         },
         {
-          "name": "Kevin Glackin",
-          "url": "https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP"
-        },
-        {
           "name": "Ronan Browne",
           "url": "https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1"
         },
         {
-          "name": "Jimmy Fitzgerald",
-          "url": "https://open.spotify.com/artist/62QPfGWjtxUmm9G4iACfU8"
+          "name": "Kevin Glackin",
+          "url": "https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP"
         },
         {
-          "name": "Con \u00d3 Drisceoil",
-          "url": "https://open.spotify.com/artist/7p2fbihH459PJENgIkCdQX"
+          "name": "Fergus Feely",
+          "url": "https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni"
         }
       ],
-      "duration_ms": 235026,
-      "name": "Mickey Free / The Mountain Road",
-      "url": "https://open.spotify.com/track/4sjR31gZhrsxyhDn5S4mNP"
+      "duration_ms": 237133,
+      "name": "The Man for Galway / The Rambling Pitchfork",
+      "url": "https://open.spotify.com/track/0ekYHUEdwwL9MvzZbw1rxN"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -720,21 +716,25 @@
           "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
         },
         {
-          "name": "Ronan Browne",
-          "url": "https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1"
-        },
-        {
           "name": "Kevin Glackin",
           "url": "https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP"
         },
         {
-          "name": "Fergus Feely",
-          "url": "https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni"
+          "name": "Ronan Browne",
+          "url": "https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1"
+        },
+        {
+          "name": "Jimmy Fitzgerald",
+          "url": "https://open.spotify.com/artist/62QPfGWjtxUmm9G4iACfU8"
+        },
+        {
+          "name": "Con \u00d3 Drisceoil",
+          "url": "https://open.spotify.com/artist/7p2fbihH459PJENgIkCdQX"
         }
       ],
-      "duration_ms": 237133,
-      "name": "The Man for Galway / The Rambling Pitchfork",
-      "url": "https://open.spotify.com/track/0ekYHUEdwwL9MvzZbw1rxN"
+      "duration_ms": 235026,
+      "name": "Mickey Free / The Mountain Road",
+      "url": "https://open.spotify.com/track/4sjR31gZhrsxyhDn5S4mNP"
     },
     {
       "added_at": "2021-04-26 15:38:07",

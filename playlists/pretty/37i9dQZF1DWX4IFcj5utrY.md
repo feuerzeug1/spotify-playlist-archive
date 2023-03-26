@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p?si=rs1OfjvcRHmONcvSTZKuSg">Karyendasoul</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,712 likes - 49 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,760 likes - 49 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 20 | [Kare Kare](https://open.spotify.com/track/0NXZXOULYHtEQ8lO6wKAVD) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C) | [Kare Kare](https://open.spotify.com/album/3gyiqg5LA7XR9cVNMUigcS) | 7:35 |
 | 21 | [Can You See Me](https://open.spotify.com/track/5fbgFotZD68RuoPM0JmJe6) | [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Can You See Me](https://open.spotify.com/album/1pMViL7L8nQOIHkuBsLcuv) | 4:14 |
 | 22 | [Woman](https://open.spotify.com/track/4BVrEiAJBUJ2xZwwtBTy5W) | [The Phat Ones](https://open.spotify.com/artist/0ijR7s38xnjBA0uaB9XMUm), [Aquadeep](https://open.spotify.com/artist/0n2IlfSYardosNRNdCLWPd), [Veesoul](https://open.spotify.com/artist/3Tv5NqamdRmZYzblrn2aBr) | [Woman EP](https://open.spotify.com/album/6KSZ4RpMMTsm9zk2CbMyAu) | 6:37 |
-| 23 | [Oral Music](https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA) | [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Oral Music](https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN) | 3:20 |
+| 23 | [Oral Music](https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO) | [Oral Music](https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN) | 3:20 |
 | 24 | [Indlela](https://open.spotify.com/track/20biXVfOt8Fm1Mxo123d5c) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Indlela](https://open.spotify.com/album/4SHct7kn98G7DW5KanqFO2) | 6:08 |
 | 25 | [Indoda no Sisi](https://open.spotify.com/track/1wJnVOfKk3GUMgj8THsFNP) | [TNS](https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy), [Babes Wodumo](https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e), [SYKES](https://open.spotify.com/artist/0jQCL3PGTu3kvhLPkxocws) | [Indoda no Sisi](https://open.spotify.com/album/2ifuzoDcKOVC2FUj7vKCNV) | 6:00 |
 | 26 | [Makwande](https://open.spotify.com/track/2MpkUFQpd7zYRGZt4BQ8bz) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [AEDM: Interstellar](https://open.spotify.com/album/7bNztZqGIRCaALpnDsDB4W) | 5:52 |

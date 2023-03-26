@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-359 songs - 1 day 7 hr 15 min
+360 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Dom Andra](https://open.spotify.com/track/6w0jYoUuRzyNwCp0HdagvY) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za), [Jonas Renkse](https://open.spotify.com/artist/5ttMur3R8GpuNimbWm1xn0) | [Dom Andra](https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby) | 3:41 | 2023-03-03 |  |
 | [Drained of Color](https://open.spotify.com/track/5lrKrPesGrJIX681A3wEKR) | [Exhumed](https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu) | [Drained of Color](https://open.spotify.com/album/3n92juc9UgRjeqzywQW937) | 4:32 | 2022-09-01 | 2022-10-09 |
 | [Dream Cull](https://open.spotify.com/track/6egSfQ3dDoQjaD06KnM4Fe) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Dream Cull](https://open.spotify.com/album/7nuXTkFRkZ6hwNAsFIN3hV) | 4:15 | 2022-01-14 | 2022-03-19 |
+| [Drifting in a Dream](https://open.spotify.com/track/2AJ7yy7ulIXoDgLNMzjfbv) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Drifting in a Dream](https://open.spotify.com/album/0hdLPkixmOIX2a4Rblj3nu) | 5:25 | 2023-03-24 |  |
 | [Ecclesia](https://open.spotify.com/track/0ldDRR8LVWKQkAv5th9ZtY) | [BAEST](https://open.spotify.com/artist/4UtjZRQc6qXhAd1kqyLvqp) | [Ecclesia](https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q) | 7:44 | 2021-12-17 |  |
 | [Ecstasies in night infinite](https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The Agony & Ecstasy of Watain](https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W) | 4:00 | 2022-04-29 |  |
 | [Elle se répète froidement](https://open.spotify.com/track/5H8PhktLFt4WdeMPF8xQfy) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Assassine\(s\)](https://open.spotify.com/album/5f5PjyjsKK4fsYFVJVox62) | 4:08 | 2022-01-28 | 2022-03-19 |
@@ -321,7 +322,7 @@
 | [The Secrets of the Black Arts](https://open.spotify.com/track/4UmELaFGGfsLbN1P5kH5Ax) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [The Secrets of the Black Arts](https://open.spotify.com/album/7uybiQG5eHqdiXF69EDJOs) | 3:41 | 2022-07-13 | 2023-02-16 |
 | [The Serpentine Offering](https://open.spotify.com/track/1JEbu4sbfwNnjetAaaYGmU) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [In Sorte Diaboli](https://open.spotify.com/album/4iW5SJA2EZbx5YRfKCUoAm) | 5:09 | 2022-07-13 |  |
 | [The Storm I Ride](https://open.spotify.com/track/1bRTi3Ng0fK2beP22OIAfp) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 3:27 | 2022-07-13 |  |
-| [The Third of the Storms \(Evoked Damnation\)](https://open.spotify.com/track/3isS9hdnmyMePPrKm6qEQU) | [Hellhammer](https://open.spotify.com/artist/3FrsGZO0uosIs2Vn2TJhQY) | [Apocalyptic Raids](https://open.spotify.com/album/5KdSSGj5tKCQUJEKeGedKU) | 2:57 | 2022-07-13 |  |
+| [The Third of the Storms \(Evoked Damnation\)](https://open.spotify.com/track/3isS9hdnmyMePPrKm6qEQU) | [Hellhammer](https://open.spotify.com/artist/3FrsGZO0uosIs2Vn2TJhQY) | [Apocalyptic Raids](https://open.spotify.com/album/5KdSSGj5tKCQUJEKeGedKU) | 2:57 | 2022-07-13 | 2023-03-26 |
 | [The Wanderer](https://open.spotify.com/track/6u8c9F8vSZoUp15oFFqc7V) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Argent Moon \- EP](https://open.spotify.com/album/1Sz8A4Jnbqf84G9gypTOpz) | 6:11 | 2021-12-17 | 2022-01-15 |
 | [The Wolves of Ossory](https://open.spotify.com/track/5ubwQNPVeyNVqJcszYiozP) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [The Wolves of Ossory](https://open.spotify.com/album/0BKqlnTtMCPehA59EuEm0o) | 3:53 | 2021-12-17 | 2022-04-02 |
 | [Through Eternal Fields](https://open.spotify.com/track/2lN893qNt07OkH3E1rv1AN) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Primordial Arcana](https://open.spotify.com/album/0M1M4SydzXhogLTGa2ERWG) | 5:54 | 2021-12-17 | 2022-04-15 |

@@ -460,6 +460,24 @@
     {
       "album": {
         "name": "Funny Little Dream",
+        "url": "https://open.spotify.com/album/3kCSZ4uIMazjsWt8zz46eM"
+      },
+      "artists": [
+        {
+          "name": "Funny Little Dream",
+          "url": "https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190981,
+      "name": "Funny Little Dream",
+      "url": "https://open.spotify.com/track/2W3Oq3vWsxCD7qGuy9jLTU"
+    },
+    {
+      "album": {
+        "name": "Funny Little Dream",
         "url": "https://open.spotify.com/album/29AM4873XavAXXXvr446D0"
       },
       "artists": [
@@ -470,7 +488,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 190981,
       "name": "Funny Little Dream",
       "url": "https://open.spotify.com/track/6c9Migc6BSfWp1pMIr7DuM"
@@ -1212,10 +1230,32 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 234195,
       "name": "Our Little Secret",
       "url": "https://open.spotify.com/track/30UYhqjoFvR1IKBOuLY4Om"
+    },
+    {
+      "album": {
+        "name": "Until Whenever",
+        "url": "https://open.spotify.com/album/0UEOSjsUojroPfPRWSGzL9"
+      },
+      "artists": [
+        {
+          "name": "Clover",
+          "url": "https://open.spotify.com/artist/40YFIe30faVDezEz2qlTVk"
+        },
+        {
+          "name": "Merdi Simanjuntak",
+          "url": "https://open.spotify.com/artist/2knUiLoFc2NCZl3Ky9lWtu"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234195,
+      "name": "Our Little Secret",
+      "url": "https://open.spotify.com/track/4yg2FBP14vHrXHDelZmrXD"
     },
     {
       "album": {

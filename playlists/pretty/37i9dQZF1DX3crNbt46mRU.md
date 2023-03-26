@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,363 likes - 105 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,384 likes - 105 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 52 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 |
 | 53 | [WOHIN??](https://open.spotify.com/track/4nnJZ5xqjL3XrN64qyNoAE) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [WOHIN??](https://open.spotify.com/album/4QPmhVqSBwmWiPCiQDXsHI) | 2:18 |
 | 54 | [Eucalyptus](https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Eucalyptus](https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl) | 4:24 |
-| 55 | [Farewell](https://open.spotify.com/track/6TwIZsY059Ju4RHmxSlmFS) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Farewell](https://open.spotify.com/album/3lWcP6Z6Mza8Apn4i6mGlJ) | 2:18 |
+| 55 | [Farewell](https://open.spotify.com/track/6TwIZsY059Ju4RHmxSlmFS) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Farewell](https://open.spotify.com/album/3lWcP6Z6Mza8Apn4i6mGlJ) | 2:19 |
 | 56 | [Herzschlag](https://open.spotify.com/track/5ShMdkkPzLfpmPhRHFiyUE) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [Herzschlag](https://open.spotify.com/album/79m5zCZeKVScYeSnDlMohv) | 2:46 |
 | 57 | [FÜHLE](https://open.spotify.com/track/7FoLBCsHzxs7IigOmCTgbU) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe) | [FÜHLE](https://open.spotify.com/album/69Z0lyFALusOeXH0700s2F) | 2:19 |
 | 58 | [Galgen](https://open.spotify.com/track/6JlZjlm0lMLOT6etWUVluP) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Galgen](https://open.spotify.com/album/7GJXvI5X3R1DBo6sTfV67I) | 2:29 |

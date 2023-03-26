@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 92890,
+  "num_followers": 92957,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk0ODE5NiwwMDAwMDAwMGNkMDllNmVmY2Y3NmE0YjE1NjcyNjdhZTNmYjhiNGJj",
+  "snapshot_id": "MTY0Nzk0ODE5NiwwMDAwMDAwMGFkMTA5MWMxNjRlYmFmNDNhYjBkMmRiYTBiOWU3OTE3",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/4922ftLUafUKJBk7pB1MNQ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Dreamz BIG",
+          "url": "https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "The Red",
+      "url": "https://open.spotify.com/track/2w67xp8vRX5ucbjac7fslS"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Heliolingus",
         "url": "https://open.spotify.com/album/2lLzW831DY8i0fHoDeSAF0"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 177882,
       "name": "west",
       "url": "https://open.spotify.com/track/53euCZa2GQ6kN18ZxU1dbf"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Retrospective",
-        "url": "https://open.spotify.com/album/4922ftLUafUKJBk7pB1MNQ"
-      },
-      "artists": [
-        {
-          "name": "Bobby Dreamz BIG",
-          "url": "https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "The Red",
-      "url": "https://open.spotify.com/track/2w67xp8vRX5ucbjac7fslS"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -483,6 +483,30 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Backwood",
+        "url": "https://open.spotify.com/album/1zxoOPYrefFbFXNEdQK92v"
+      },
+      "artists": [
+        {
+          "name": "SHXDAI BEATS",
+          "url": "https://open.spotify.com/artist/77xAqQMe40k0KyrVhfPaa4"
+        },
+        {
+          "name": "Nesyu Beats",
+          "url": "https://open.spotify.com/artist/4QCC5wBIBSAKDuw2IbE4Sp"
+        },
+        {
+          "name": "Retnik Beats",
+          "url": "https://open.spotify.com/artist/1z0fheUisBfsQkowPsvnG5"
+        }
+      ],
+      "duration_ms": 205766,
+      "name": "Backwood",
+      "url": "https://open.spotify.com/track/5JdZhHy9TWpXGwvVoXQJyF"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap",
         "url": "https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY"
       },
@@ -495,22 +519,6 @@
       "duration_ms": 202443,
       "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap (Instrumental)",
       "url": "https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "#Untitled #Unmixed #Unmastered",
-        "url": "https://open.spotify.com/album/3dFLQQsfPamyMVeMIj6Rt8"
-      },
-      "artists": [
-        {
-          "name": "VAN",
-          "url": "https://open.spotify.com/artist/6awrCroyD97KIRrAP7wFbh"
-        }
-      ],
-      "duration_ms": 153443,
-      "name": "#Untitled_02",
-      "url": "https://open.spotify.com/track/4Qtf6z4zAzdciFZURPPjs8"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -531,6 +539,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "#Untitled #Unmixed #Unmastered",
+        "url": "https://open.spotify.com/album/3dFLQQsfPamyMVeMIj6Rt8"
+      },
+      "artists": [
+        {
+          "name": "VAN",
+          "url": "https://open.spotify.com/artist/6awrCroyD97KIRrAP7wFbh"
+        }
+      ],
+      "duration_ms": 153443,
+      "name": "#Untitled_02",
+      "url": "https://open.spotify.com/track/4Qtf6z4zAzdciFZURPPjs8"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Palms",
         "url": "https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45"
       },
@@ -543,6 +567,22 @@
       "duration_ms": 152213,
       "name": "Palms",
       "url": "https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Rahat",
+        "url": "https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 166885,
+      "name": "Rahat - Instrumental",
+      "url": "https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -579,22 +619,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Rahat",
-        "url": "https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 166885,
-      "name": "Rahat - Instrumental",
-      "url": "https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Skye",
         "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
       },
@@ -607,30 +631,6 @@
       "duration_ms": 190098,
       "name": "Skye",
       "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Backwood",
-        "url": "https://open.spotify.com/album/1zxoOPYrefFbFXNEdQK92v"
-      },
-      "artists": [
-        {
-          "name": "SHXDAI BEATS",
-          "url": "https://open.spotify.com/artist/77xAqQMe40k0KyrVhfPaa4"
-        },
-        {
-          "name": "Nesyu Beats",
-          "url": "https://open.spotify.com/artist/4QCC5wBIBSAKDuw2IbE4Sp"
-        },
-        {
-          "name": "Retnik Beats",
-          "url": "https://open.spotify.com/artist/1z0fheUisBfsQkowPsvnG5"
-        }
-      ],
-      "duration_ms": 205766,
-      "name": "Backwood",
-      "url": "https://open.spotify.com/track/5JdZhHy9TWpXGwvVoXQJyF"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
-      },
-      "artists": [
-        {
-          "name": "helistofax",
-          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
-        }
-      ],
-      "duration_ms": 131350,
-      "name": "Crushing",
-      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "SMOK",
         "url": "https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 160793,
       "name": "SMOK",
       "url": "https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "duration_ms": 131350,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Sadkid",
-        "url": "https://open.spotify.com/album/56frZIAiRNfLJkSUeNhPMp"
-      },
-      "artists": [
-        {
-          "name": "Samtozi",
-          "url": "https://open.spotify.com/artist/263DDNMHg38ycXZLljVMPY"
-        }
-      ],
-      "duration_ms": 181347,
-      "name": "Sadkid",
-      "url": "https://open.spotify.com/track/096msV2KaAwqi5P0PWJqfb"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0627\u0644\u0628\u0627\u0631\u062f",
         "url": "https://open.spotify.com/album/5RkeVX6ftHFDMBkNlCzt0C"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 86360,
       "name": "\u0633\u0645\u0631\u0627\u0621",
       "url": "https://open.spotify.com/track/2qfcSQjjn699Zp0uFiUUBX"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Sadkid",
+        "url": "https://open.spotify.com/album/56frZIAiRNfLJkSUeNhPMp"
+      },
+      "artists": [
+        {
+          "name": "Samtozi",
+          "url": "https://open.spotify.com/artist/263DDNMHg38ycXZLljVMPY"
+        }
+      ],
+      "duration_ms": 181347,
+      "name": "Sadkid",
+      "url": "https://open.spotify.com/track/096msV2KaAwqi5P0PWJqfb"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Farmingdale",
-        "url": "https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO"
-      },
-      "artists": [
-        {
-          "name": "Goldspell",
-          "url": "https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1"
-        }
-      ],
-      "duration_ms": 180427,
-      "name": "Farmingdale",
-      "url": "https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "If You Show Me Love",
         "url": "https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 90044,
       "name": "If You Show Me Love",
       "url": "https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Farmingdale",
+        "url": "https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO"
+      },
+      "artists": [
+        {
+          "name": "Goldspell",
+          "url": "https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1"
+        }
+      ],
+      "duration_ms": 180427,
+      "name": "Farmingdale",
+      "url": "https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "tv-guides . (mini-tape)",
-        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 79911,
-      "name": "yoyogi park",
-      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Rahat",
         "url": "https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 204477,
       "name": "Wie im Traum - Instrumental",
       "url": "https://open.spotify.com/track/2XlOrYMsqtvxFTtO3ktDhQ"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "tv-guides . (mini-tape)",
+        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
+      },
+      "artists": [
+        {
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
+        }
+      ],
+      "duration_ms": 79911,
+      "name": "yoyogi park",
+      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
     },
     {
       "added_at": "2022-03-22 11:23:16",

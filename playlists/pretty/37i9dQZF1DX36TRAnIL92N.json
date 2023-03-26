@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 120646,
+  "num_followers": 121152,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMDgzNDQzMjc3OTMzY2M3NTExMWQ2NDY0N2EzMjVjMjg5",
+  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMGY1OGY2YzYwNjFlMTJhOWRiOTRhYjM0ZWY3NzMxMzZl",
   "tracks": [
     {
       "added_at": "2023-02-10 14:16:33",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
+        "name": "Bells of Notre Dame",
+        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Bells of Notre Dame",
+      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
         "name": "We All Unite",
         "url": "https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 244615,
       "name": "We All Unite",
       "url": "https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
-        "name": "Bells of Notre Dame",
-        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Bells of Notre Dame",
-      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
     },
     {
       "added_at": "2023-02-10 14:16:33",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "You Are Mine EP",
-        "url": "https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 414545,
-      "name": "You Are Mine - Original Mix",
-      "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
+        "name": "You Are Mine EP",
+        "url": "https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 414545,
+      "name": "You Are Mine - Original Mix",
+      "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
         "name": "Injection (Original Mix)",
         "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 421846,
       "name": "Injection - Original Mix",
       "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
+        "name": "Colonia EP",
+        "url": "https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Colonia",
+      "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
     },
     {
       "added_at": "2023-02-10 14:16:33",
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Colonia EP",
-        "url": "https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Colonia",
-      "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Digital Age",
-        "url": "https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 296812,
-      "name": "UFOs & LFOs",
-      "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
         "name": "Together One Time",
         "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
+        "name": "Digital Age",
+        "url": "https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 296812,
+      "name": "UFOs & LFOs",
+      "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
     },
     {
       "added_at": "2023-02-10 14:16:33",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MejpAJMshnWw5kewZrKoh"
-      },
-      "artists": [
-        {
-          "name": "Pomella",
-          "url": "https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v"
-        }
-      ],
-      "duration_ms": 176254,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/5W8tsQTQMH1aY0Bk8Pb2cA"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
         "name": "Hercules",
         "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 392008,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MejpAJMshnWw5kewZrKoh"
+      },
+      "artists": [
+        {
+          "name": "Pomella",
+          "url": "https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v"
+        }
+      ],
+      "duration_ms": 176254,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/5W8tsQTQMH1aY0Bk8Pb2cA"
     },
     {
       "added_at": "2023-02-10 14:16:33",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
-    },
-    {
-      "added_at": "2023-02-10 14:16:33",
-      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 357227,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
+    },
+    {
+      "added_at": "2023-02-10 14:16:33",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     }
   ],
   "unique_name": "Techno Workout",

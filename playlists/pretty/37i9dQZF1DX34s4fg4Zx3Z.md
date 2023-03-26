@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Nie; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,002 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,010 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 21 | [Dis Like](https://open.spotify.com/track/16OYM6vTZvDOUAYdF91uT8) | [Hades](https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh) | [Dis Like](https://open.spotify.com/album/1gUhPwMcBrS6e0V0BepKYf) | 2:40 |
 | 22 | [BAO NHIEU MONG MER](https://open.spotify.com/track/4wxV0lIDucP5uQ8K9jOo26) | [NP.2](https://open.spotify.com/artist/0FqdaYWdo1r4esDdZ4wA8n), [n.c](https://open.spotify.com/artist/2unam9B9NjUQeXH1iNI1gV) | [BAO NHIEU MONG MER](https://open.spotify.com/album/3due2sFAmAYPaDiBhus5Kq) | 3:14 |
 | 23 | [Ngủ muộn không tốt đâu em](https://open.spotify.com/track/4w88WDjUVGfeVq83JC2aFv) | [Weeza](https://open.spotify.com/artist/3KCwCM9okdx5d2iDbIxQ9l) | [Ngủ muộn không tốt đâu em](https://open.spotify.com/album/4KfJ7vKhcSqNSBEnqA0pGU) | 2:46 |
-| 24 | [SOMETHING](https://open.spotify.com/track/7LgYqpXjpht5aTYWTgPCfd) | [An Yên](https://open.spotify.com/artist/3lr5Oq4QmEq47R62BKzfb2), [Parys](https://open.spotify.com/artist/5q2rlQqfPpVnWnjPfXM4QD) | [SOMETHING](https://open.spotify.com/album/2xpA9TU1FatyLZ3pJrZ6hv) | 3:44 |
+| 24 | [SOMETHING](https://open.spotify.com/track/7LgYqpXjpht5aTYWTgPCfd) | [YEN](https://open.spotify.com/artist/6JP4x2wWvmsso0fwJ0cyE4), [Parys](https://open.spotify.com/artist/5q2rlQqfPpVnWnjPfXM4QD) | [SOMETHING](https://open.spotify.com/album/2xpA9TU1FatyLZ3pJrZ6hv) | 3:44 |
 | 25 | [An Toàn](https://open.spotify.com/track/4HVYdhMsuFGYM85euE2Hw7) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [An Toàn](https://open.spotify.com/album/58JJrXXA83sPGLQszLqQKn) | 3:51 |
 | 26 | [Venesa \(feat\. Hani\)](https://open.spotify.com/track/0uswAWA02m6qsoD0UpQJHA) | [Young Bo5](https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o), [HANI](https://open.spotify.com/artist/5quuAyAO2BQW2cjgfYPj0x) | [Venesa \(feat\. Hani\)](https://open.spotify.com/album/2iRjJ632gwjPymWeRgiFKN) | 4:09 |
 | 27 | [Ấm Êm](https://open.spotify.com/track/07V898tEbqF67AMb5Nn9h8) | [Lahi](https://open.spotify.com/artist/1uENTg8Fy1U7lEsQWcjIFF), [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Ấm Êm](https://open.spotify.com/album/4TCIX5c9H4Z2k2ElFOVTFO) | 2:52 |

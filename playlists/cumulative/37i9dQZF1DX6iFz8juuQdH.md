@@ -4,7 +4,7 @@
 
 > A trailblazer for Black British music culture\. Cover: Jamal Edwards
 
-58 songs - 3 hr 41 min
+59 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Wonderful](https://open.spotify.com/track/5iB84jjNkwxhSrV7GBqX5a) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Wonderful](https://open.spotify.com/album/41JSfoYWp9U0y6dy6jxHge) | 3:30 | 2022-02-22 | 2022-07-29 |
 | [Wonderful](https://open.spotify.com/track/4ChNZw58mP6I1KUY3bZ2GR) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Wonderful](https://open.spotify.com/album/5KM67lcMbD8U431ho77SyM) | 3:31 | 2022-02-22 |  |
 | [Wouldn't Believe It](https://open.spotify.com/track/0gS6NycugRrkKuc6Y4DZXN) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Good Love](https://open.spotify.com/album/7pzJo7BRoSanlNNHUWHU0M) | 2:53 | 2022-02-22 | 2022-07-29 |
-| [Wouldn't Believe It](https://open.spotify.com/track/69NaXyzYkA80YxqifSK27T) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Good Love](https://open.spotify.com/album/6wBCJEnx8mfR7R1mCEEwSo) | 2:53 | 2022-02-22 |  |
+| [Wouldn't Believe It](https://open.spotify.com/track/69NaXyzYkA80YxqifSK27T) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Good Love](https://open.spotify.com/album/6wBCJEnx8mfR7R1mCEEwSo) | 2:53 | 2022-02-22 | 2023-03-26 |
+| [Wouldn't Believe It](https://open.spotify.com/track/6kJ3DxgE2E9LvdubM9bCHK) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Good Love](https://open.spotify.com/album/2Je9WFoCmqGap57mBnzVPW) | 2:53 | 2022-02-22 |  |
 | [You Need Me, I Don't Need You \(feat\. Wretch 32 & Devlin\)](https://open.spotify.com/track/4NNn8mWIyBqArxtQ867eIi) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [You Need Me, I Don't Need You](https://open.spotify.com/album/2b9Zf72wY6kwvcblYXtB4q) | 3:02 | 2022-02-22 |  |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

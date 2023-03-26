@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-880 songs - 2 day 2 hr 33 min
+882 songs - 2 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Háblame](https://open.spotify.com/track/6BStdQiI7I5uZcnw68Y4y1) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Háblame](https://open.spotify.com/album/5ofQwqKX6QCaESLffYW7FT) | 3:27 | 2022-10-14 | 2022-10-29 |
 | [I Ain't A Freak](https://open.spotify.com/track/0wzUOwnyjy838JD1GYOnT4) | [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1), [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [I Ain't A Freak](https://open.spotify.com/album/6LLmWZnxxeilK2ZCjyDhqf) | 3:24 | 2022-08-05 | 2022-09-03 |
 | [I Can't Take This](https://open.spotify.com/track/5NbMg0HR9LaTIImgEE7RTW) | [Poison Ghost](https://open.spotify.com/artist/7cAVkIFcDsKIVHJDDjLOOb) | [I Can't Take This](https://open.spotify.com/album/3jJxg3nlW8owjNvkg2b9GV) | 3:58 | 2022-04-22 | 2022-05-14 |
+| [I Entah](https://open.spotify.com/track/6RKtjKLTy2w6AXxzV42pSm) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [I Entah](https://open.spotify.com/album/2Bw9YNMw0u1uAWNR7RPZyP) | 2:32 | 2023-03-25 |  |
 | [I Feel It \(In My House\)](https://open.spotify.com/track/4bcC4KbZAz0CxUbVQawpYa) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [I Feel It \(In My House\)](https://open.spotify.com/album/1L6UciZ8HHMraItH0udUcz) | 2:37 | 2022-09-23 | 2022-10-01 |
 | [I Have a Request](https://open.spotify.com/track/1UTs3HTLcNkbm87rqkA3bp) | [Catsinka](https://open.spotify.com/artist/2Ynro8ElWjD3skhoMLjJTh) | [Pillz for Sleep](https://open.spotify.com/album/4hD2S9lwCGJXgDOpKf6Jcs) | 6:22 | 2022-09-17 | 2022-09-24 |
 | [I Know](https://open.spotify.com/track/6a7Vnxz6aezPxdKPTF72Yb) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [I Know](https://open.spotify.com/album/4PEATKNNKmWcSoRLyVQDRS) | 3:22 | 2022-09-23 | 2022-10-01 |
@@ -560,7 +561,7 @@
 | [Only You](https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Only You](https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl) | 2:49 | 2022-11-28 | 2022-12-03 |
 | [Only You \- STANY & Tchami Remix](https://open.spotify.com/track/0GVUoXiYKM7PjTFEXGA4Yc) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You \(STANY & Tchami Remix\)](https://open.spotify.com/album/2UKl4Kzb5rWJuqgfOGG5Vk) | 3:10 | 2022-12-02 | 2022-12-17 |
 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 | 2022-05-29 | 2022-06-04 |
-| [Oral Music](https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA) | [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Oral Music](https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN) | 3:20 | 2023-03-24 |  |
+| [Oral Music](https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO) | [Oral Music](https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN) | 3:20 | 2023-03-24 |  |
 | [Orient Express](https://open.spotify.com/track/293qKOjripajaL2vyZnJkX) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Orient Express](https://open.spotify.com/album/2ZeA0rOASQLqhn8WSKCNqT) | 2:46 | 2023-02-17 | 2023-02-25 |
 | [Original Don](https://open.spotify.com/track/2ivCsohNIlxNnLxXHnu0J5) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Original Don](https://open.spotify.com/album/5xU7aLhtZPJ9Zy0D6LuEz8) | 3:23 | 2023-01-28 | 2023-02-11 |
 | [Oscill8](https://open.spotify.com/track/31Z3AuRnaj2ZLgZCWTqbLK) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Oscill8](https://open.spotify.com/album/7fXWo4R4IoLCQF6FMvoY2H) | 3:24 | 2023-03-03 | 2023-03-11 |
@@ -760,6 +761,7 @@
 | [The Inside](https://open.spotify.com/track/1WUfZV1VUPCLQiATnJ11E9) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD) | [The Inside](https://open.spotify.com/album/1qu4VgY15fuhhdY2HOzeek) | 3:10 | 2022-12-02 | 2022-12-17 |
 | [The Melody](https://open.spotify.com/track/7ED72laSFmyawpMl2acg4u) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [The Melody](https://open.spotify.com/album/0VPUXmBjSNliMa4PaUbR3K) | 3:08 | 2022-11-28 | 2022-12-03 |
 | [The New Ruler](https://open.spotify.com/track/2ZoGuTujwWhNXyf83F2Z1X) | [Darren After](https://open.spotify.com/artist/1dQQLtxrDxFxoT5jxVtnr5) | [The New Ruler](https://open.spotify.com/album/6BUaji7444ErhcNMUz2V9U) | 3:17 | 2023-01-06 | 2023-01-14 |
+| [The One](https://open.spotify.com/track/00x84UroO3P0NJWuKQrVbK) | [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [The Glass House](https://open.spotify.com/album/373d7U7JIQAw1E8OFxiORT) | 2:12 | 2023-03-25 |  |
 | [The Only One \- Club Mix](https://open.spotify.com/track/3l0CwAIeYSWLBIUxd055P4) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [Brendan Reilly](https://open.spotify.com/artist/5JO2xhC4QRDrMam4oJHx4z) | [The Only One \(Mercer Remixes\)](https://open.spotify.com/album/3Z1B05aZ4F9G73LfDngwKx) | 4:59 | 2023-01-13 | 2023-01-22 |
 | [The Praise](https://open.spotify.com/track/4QycXCNAQSasWbQcLc2Clu) | [ZDX](https://open.spotify.com/artist/47nioEb6pIp7utNqQ9UqzA) | [The Praise](https://open.spotify.com/album/5oepyxgMYc5giF9mlpbKoB) | 5:20 | 2022-09-02 | 2022-09-10 |
 | [The Reason](https://open.spotify.com/track/4p8uRCbYPI00hvBcziFsjQ) | [FOOLiE](https://open.spotify.com/artist/5X3h4PwWZi0RkCyFd6gs0P) | [The Reason EP](https://open.spotify.com/album/0kiOE84qMOhs4VTkCuDCeI) | 4:50 | 2022-09-02 | 2022-09-10 |

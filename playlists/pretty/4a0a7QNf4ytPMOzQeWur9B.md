@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pеrfect Blue](https://open.spotify.com/track/7kkXjLxWOxSDzo4mpYeb9O) | [Midbooze](https://open.spotify.com/artist/3f6QhdjAcJAkqQEnikPnz6) | [Pеrfect Blue](https://open.spotify.com/album/16IN09R5UFKS0Y7LERLf8F) | 3:07 |
+| 1 | [Perfect Blue](https://open.spotify.com/track/7kkXjLxWOxSDzo4mpYeb9O) | [Midbooze](https://open.spotify.com/artist/3f6QhdjAcJAkqQEnikPnz6) | [Perfect Blue](https://open.spotify.com/album/16IN09R5UFKS0Y7LERLf8F) | 3:07 |
 | 2 | [Usoうそ](https://open.spotify.com/track/0KeHtOXuOr5pldVEnKukVe) | [Ftlframe](https://open.spotify.com/artist/6ueZc2xAm12Ib0e90Bx7P0) | [Usoうそ](https://open.spotify.com/album/3JcBBmYtqx4hwHOTddM2YZ) | 1:49 |
 | 3 | [afraid](https://open.spotify.com/track/5C6lxpnOVSjwdSIWKWzDMa) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [afraid](https://open.spotify.com/album/3zUV6bAofu8xLEma3raUSe) | 3:12 |
 | 4 | ['Faith'](https://open.spotify.com/track/1dE2BU1mPcmzyezIdUc9ox) | [JVNLIII](https://open.spotify.com/artist/5FbRtOLjDzVlmKm1RnlOz2) | [Stage 8](https://open.spotify.com/album/5ueRStVcB50YlDgroJvzCT) | 3:55 |

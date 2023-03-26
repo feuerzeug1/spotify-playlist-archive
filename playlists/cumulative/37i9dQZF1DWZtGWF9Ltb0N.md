@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-447 songs - 1 day 9 hr 33 min
+448 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All Ways](https://open.spotify.com/track/1t8CseUn2l8xXtCLAV4NuQ) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [All Ways](https://open.spotify.com/album/3KIuuSsvqtJzJ7Ctf8JgNv) | 4:16 | 2022-07-08 | 2022-07-30 |
 | [Altair](https://open.spotify.com/track/4U95OXDYDP37bDPQmQAjYO) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Altair](https://open.spotify.com/album/4ysjvZUUh0pBHJL78QXjqa) | 5:01 | 2022-02-17 | 2022-07-28 |
 | [Ange](https://open.spotify.com/track/4TvmFIi8lcfZBnuU9omTYN) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Ange](https://open.spotify.com/album/2nT20AFqNcpq1HDuqU2xHW) | 5:54 | 2023-03-10 |  |
+| [Apply The Pressure](https://open.spotify.com/track/7sH8I4dYmxPibuLE3wvHh0) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Apply The Pressure](https://open.spotify.com/album/1cDdKxOHymuhtAssTIWwLV) | 3:07 | 2023-03-24 |  |
 | [Avec Gang](https://open.spotify.com/track/3iNTexknoEaPnvU2y1VNGH) | [Boofy](https://open.spotify.com/artist/1w2QxapVigswBn0iFFmhAm) | [Avec Gang](https://open.spotify.com/album/7MTLaQsUGD6AYJa9uucT1T) | 3:51 | 2022-07-01 | 2022-12-18 |
 | [Azazel](https://open.spotify.com/track/6Qi2YQRnX5w4W9u5xjEm1T) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Hatched 17](https://open.spotify.com/album/6MCZ1few4hvpeQYOcNaQcu) | 4:36 | 2022-02-17 | 2022-04-28 |
 | [Back Once](https://open.spotify.com/track/1Gp13Xovwsy9de6qZDynOv) | [Stillhead](https://open.spotify.com/artist/6kAJ3c9QA35wGowhDQeaya) | [Back Once](https://open.spotify.com/album/5B8QqeBqkTb9EUYk50p8zg) | 4:52 | 2022-02-17 |  |
@@ -338,7 +339,7 @@
 | [Say Something](https://open.spotify.com/track/1UdT4I9thmrnnkFRG89ZpF) | [Major Oak](https://open.spotify.com/artist/0VSZXFbceh83bs21XZrAt5) | [Fallin](https://open.spotify.com/album/0bpVPRubKoF8tV9LJ9EXLt) | 4:48 | 2022-02-17 | 2022-07-29 |
 | [Second Strike \(Kromestar Remix\)](https://open.spotify.com/track/2G181ro7GGNjCy7WzdFkRg) | [Daega Sound](https://open.spotify.com/artist/1LmBukKQBWsil6X00HYq37), [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO) | [Gatekeeper / Second Strike](https://open.spotify.com/album/3L15AEBgZEAhS3H19Wae18) | 5:22 | 2022-02-17 | 2022-07-29 |
 | [Secret Society](https://open.spotify.com/track/2YcHCSassnhNCWu6KCQMCN) | [Pushloop](https://open.spotify.com/artist/4FgEa4SLDSV3oGpaFvlZi9) | [Midnight Wax](https://open.spotify.com/album/2JMJL7VIJZcZQjffjjwnVJ) | 4:06 | 2022-02-17 |  |
-| [Selekta](https://open.spotify.com/track/6RtL2HnugxsDR4MfUmMyHL) | [Goopsteppa](https://open.spotify.com/artist/0dXNe3Lre4kIsN8EKT5BxI) | [Selekta / Crstl Vip](https://open.spotify.com/album/6JTOLmMafGXTELc6iGoDrJ) | 3:00 | 2022-02-17 |  |
+| [Selekta](https://open.spotify.com/track/6RtL2HnugxsDR4MfUmMyHL) | [Goopsteppa](https://open.spotify.com/artist/0dXNe3Lre4kIsN8EKT5BxI) | [Selekta / Crstl Vip](https://open.spotify.com/album/6JTOLmMafGXTELc6iGoDrJ) | 3:00 | 2022-02-17 | 2023-03-26 |
 | [Shade](https://open.spotify.com/track/36ttV1VCMbegcpduOW6tMg) | [Zygos](https://open.spotify.com/artist/7555FTON3X5sDFo7SD2W4o) | [Pusher EP](https://open.spotify.com/album/7hKMjdXCErUw1KbZrRhqlF) | 4:36 | 2022-02-17 | 2022-07-29 |
 | [Shades Of Amaranth](https://open.spotify.com/track/1GygOdjSduypMrO89FF4Xu) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G) | [Shades Of Amaranth](https://open.spotify.com/album/3AmSn3NwrZuyC46BfWeCAN) | 3:15 | 2022-04-15 | 2022-06-11 |
 | [Shadow Work](https://open.spotify.com/track/69MmMIiowe4ZK1wu9dX1yc) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO), [Katja](https://open.spotify.com/artist/1svme0z442O4MuzTPbbMwR) | [Shadow Work](https://open.spotify.com/album/0tiBsKATkpHLcAwN3Zs8rn) | 4:10 | 2022-02-17 |  |

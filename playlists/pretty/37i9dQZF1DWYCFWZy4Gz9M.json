@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 45396,
+  "num_followers": 45436,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMDJlY2JiYjFjNTcyMmRhYWExM2E5YzdmMTEyY2M5NTMw",
+  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMDZiOGRhM2I0MGU3MmU4MDVmYWNkYzBhZTkyMWYzYmE3",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -75,38 +75,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 388921,
-      "name": "Toura Toura",
-      "url": "https://open.spotify.com/track/2IDfgp6XFrBHzxbNb6TbxI"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Kasri",
-          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
-        }
-      ],
-      "duration_ms": 249053,
-      "name": "Hamdouchia",
-      "url": "https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "African Gnaoua Blues",
         "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
       },
@@ -135,6 +103,38 @@
       "duration_ms": 422053,
       "name": "African Blues",
       "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
+        }
+      ],
+      "duration_ms": 249053,
+      "name": "Hamdouchia",
+      "url": "https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 388921,
+      "name": "Toura Toura",
+      "url": "https://open.spotify.com/track/2IDfgp6XFrBHzxbNb6TbxI"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -175,22 +175,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Morocco: Traditional Songs & Music",
-        "url": "https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V"
+        "name": "Safi",
+        "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
       },
       "artists": [
         {
-          "name": "Nour Eddine",
-          "url": "https://open.spotify.com/artist/4fKUpodRphVtdVBf06FHgO"
+          "name": "Ray Lema",
+          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
         },
         {
-          "name": "Nour Eddine Fatty",
-          "url": "https://open.spotify.com/artist/4p89G1QhmMO8sVCOE6ceFx"
+          "name": "Tyour Gnaoua",
+          "url": "https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Toura toura (arr. N. Eddine)",
-      "url": "https://open.spotify.com/track/2MoMK1kkN7ojVqk1Us35mq"
+      "duration_ms": 309000,
+      "name": "Mister X",
+      "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -227,22 +227,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Safi",
-        "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
+        "name": "Morocco: Traditional Songs & Music",
+        "url": "https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V"
       },
       "artists": [
         {
-          "name": "Ray Lema",
-          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
+          "name": "Nour Eddine",
+          "url": "https://open.spotify.com/artist/4fKUpodRphVtdVBf06FHgO"
         },
         {
-          "name": "Tyour Gnaoua",
-          "url": "https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL"
+          "name": "Nour Eddine Fatty",
+          "url": "https://open.spotify.com/artist/4p89G1QhmMO8sVCOE6ceFx"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Mister X",
-      "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
+      "duration_ms": 261000,
+      "name": "Toura toura (arr. N. Eddine)",
+      "url": "https://open.spotify.com/track/2MoMK1kkN7ojVqk1Us35mq"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Jah Gnawi",
-        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Impulse",
-          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
-        }
-      ],
-      "duration_ms": 353811,
-      "name": "Gnawi Baba Mimoun - Jan Rase Remix",
-      "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
         "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 375760,
       "name": "Baba Mimoun (Father Mimoun)",
       "url": "https://open.spotify.com/track/5M71QfNOpiXVn8oMRDoS0N"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Jah Gnawi",
+        "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Impulse",
+          "url": "https://open.spotify.com/artist/1GmPwxwXwuoPd4N8LW6CTJ"
+        }
+      ],
+      "duration_ms": 353811,
+      "name": "Gnawi Baba Mimoun - Jan Rase Remix",
+      "url": "https://open.spotify.com/track/7MJn7pkVO1chHyXvjemfqY"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -735,22 +735,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Oulad Lghaba",
-        "url": "https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN"
+        "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
+        "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
       },
       "artists": [
         {
-          "name": "Asmaa Hamzaoui",
-          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
-        },
-        {
-          "name": "Bnat Timbouktou",
-          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
+          "name": "Altaf Gnawa Group",
+          "url": "https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn"
         }
       ],
-      "duration_ms": 337693,
-      "name": "Bala Yourki",
-      "url": "https://open.spotify.com/track/5DV8zNhA6TAE8NWInyJD5x"
+      "duration_ms": 467800,
+      "name": "Sentir solo",
+      "url": "https://open.spotify.com/track/3RZWkRMU2BsIiTZ9U5ugFL"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -807,18 +803,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
-        "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
+        "name": "Oulad Lghaba",
+        "url": "https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN"
       },
       "artists": [
         {
-          "name": "Altaf Gnawa Group",
-          "url": "https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn"
+          "name": "Asmaa Hamzaoui",
+          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
+        },
+        {
+          "name": "Bnat Timbouktou",
+          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
         }
       ],
-      "duration_ms": 467800,
-      "name": "Sentir solo",
-      "url": "https://open.spotify.com/track/3RZWkRMU2BsIiTZ9U5ugFL"
+      "duration_ms": 337693,
+      "name": "Bala Yourki",
+      "url": "https://open.spotify.com/track/5DV8zNhA6TAE8NWInyJD5x"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa London",
-        "url": "https://open.spotify.com/album/0D3b0UUxknxOaxWy69Q26D"
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
       "artists": [
         {
-          "name": "Simo Lagnawi",
-          "url": "https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK"
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
         }
       ],
-      "duration_ms": 323848,
-      "name": "Baniyorkoy",
-      "url": "https://open.spotify.com/track/1Igxw5lYI0lGE9sHj1pefi"
+      "duration_ms": 375120,
+      "name": "Baba Arabi",
+      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
     }
   ],
   "unique_name": "Gnawa Music",

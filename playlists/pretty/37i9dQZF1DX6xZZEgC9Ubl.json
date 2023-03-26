@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: BONES",
-  "num_followers": 1454910,
+  "num_followers": 1455179,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDUzNjE4MjJjN2NiOWRmMzI3YjIzMTM1MjFiZmY3NTg1",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDMxMjFkZGJiNmJlNzY3YmUxZWI3ZjIyYzA2YmY1ZjVh",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "why am i crying",
         "url": "https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 204659,
       "name": "Letter to Jarad",
       "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "F*ck Love",
-        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
-      },
-      "artists": [
-        {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
-        }
-      ],
-      "duration_ms": 197368,
-      "name": "F*ck Love",
-      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "God Mom",
@@ -999,18 +983,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Digikid 2",
-        "url": "https://open.spotify.com/album/3RoNCb8HWjDW4u1DTaDQVL"
+        "name": "F*ck Love",
+        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
       },
       "artists": [
         {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
         }
       ],
-      "duration_ms": 121457,
-      "name": "PIGEONS",
-      "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
+      "duration_ms": 197368,
+      "name": "F*ck Love",
+      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -1027,6 +1011,22 @@
       "duration_ms": 132000,
       "name": "Never With You Again",
       "url": "https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Digikid 2",
+        "url": "https://open.spotify.com/album/3RoNCb8HWjDW4u1DTaDQVL"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "duration_ms": 121457,
+      "name": "PIGEONS",
+      "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
     },
     {
-      "added_at": "2022-12-14 15:14:02",
-      "album": {
-        "name": "Violets",
-        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
-      },
-      "artists": [
-        {
-          "name": "Josh Golden",
-          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
-        }
-      ],
-      "duration_ms": 115263,
-      "name": "Violets",
-      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "Long Term Effects of SUFFERING",
@@ -1343,6 +1327,22 @@
       "duration_ms": 122880,
       "name": "Life Is but a Stream~",
       "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
+    },
+    {
+      "added_at": "2022-12-14 15:14:02",
+      "album": {
+        "name": "Violets",
+        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
+      },
+      "artists": [
+        {
+          "name": "Josh Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
+        }
+      ],
+      "duration_ms": 115263,
+      "name": "Violets",
+      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "I\u2019ll Keep You Safe",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "EP",
         "url": "https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 150702,
       "name": "Sad Nibba Hours",
       "url": "https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "jaded",
+        "url": "https://open.spotify.com/album/6T23UR8liTx61aRkLl0E7p"
+      },
+      "artists": [
+        {
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+        }
+      ],
+      "duration_ms": 160624,
+      "name": "jaded",
+      "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "jaded",
-        "url": "https://open.spotify.com/album/6T23UR8liTx61aRkLl0E7p"
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
       },
       "artists": [
         {
-          "name": "sadeyes",
-          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
         }
       ],
-      "duration_ms": 160624,
-      "name": "jaded",
-      "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
+      "duration_ms": 140338,
+      "name": "I\u2019ll Keep You Safe",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Long Days Away EP",
+        "url": "https://open.spotify.com/album/613TIKn6gw8IGd1CBQUTa9"
+      },
+      "artists": [
+        {
+          "name": "Darci",
+          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
+        },
+        {
+          "name": "CADE",
+          "url": "https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Cold (feat. CADE)",
+      "url": "https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Go Wild",
         "url": "https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc"
       },
@@ -1607,22 +1627,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Long Days Away EP",
-        "url": "https://open.spotify.com/album/613TIKn6gw8IGd1CBQUTa9"
+        "name": "Belly of the Beast",
+        "url": "https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ"
       },
       "artists": [
         {
-          "name": "Darci",
-          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
-        },
-        {
-          "name": "CADE",
-          "url": "https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV"
+          "name": "Brennan Savage",
+          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Cold (feat. CADE)",
-      "url": "https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg"
+      "duration_ms": 140487,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1639,22 +1655,6 @@
       "duration_ms": 164154,
       "name": "BAD NEWS",
       "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Belly of the Beast",
-        "url": "https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ"
-      },
-      "artists": [
-        {
-          "name": "Brennan Savage",
-          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "Belly of the Beast",
-      "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
     },
     {
       "added_at": "2023-03-03 05:00:00",

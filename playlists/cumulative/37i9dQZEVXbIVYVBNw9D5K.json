@@ -3196,7 +3196,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 210960,
       "name": "Durmaz Akar",
       "url": "https://open.spotify.com/track/1USNiWOUKXZFcG5acRYEp5"
@@ -4036,6 +4036,32 @@
       "duration_ms": 316800,
       "name": "Gamzedeyim Deva Bulmam",
       "url": "https://open.spotify.com/track/6glvSyTo1y4WLtX0mnDq83"
+    },
+    {
+      "album": {
+        "name": "GANG",
+        "url": "https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId"
+        },
+        {
+          "name": "Narco",
+          "url": "https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190442,
+      "name": "GANG",
+      "url": "https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3"
     },
     {
       "album": {
@@ -5224,7 +5250,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 185333,
       "name": "Herkes Gibisin",
       "url": "https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj"
@@ -9395,6 +9421,24 @@
     },
     {
       "album": {
+        "name": "Sahibinden",
+        "url": "https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123629,
+      "name": "Sahibinden",
+      "url": "https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn"
+    },
+    {
+      "album": {
         "name": "Sakatat",
         "url": "https://open.spotify.com/album/775yVS4bLXoaJj1TiaxD66"
       },
@@ -10846,7 +10890,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 250218,
       "name": "Unuttun mu Beni",
       "url": "https://open.spotify.com/track/0x9154bA7PgqF6Za1CtszP"
@@ -10988,6 +11032,24 @@
       "duration_ms": 216119,
       "name": "VAMPIR",
       "url": "https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU"
+    },
+    {
+      "album": {
+        "name": "Veda Saati",
+        "url": "https://open.spotify.com/album/6VTcJDaRCRSgvOKlewDU9d"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147760,
+      "name": "Veda Saati",
+      "url": "https://open.spotify.com/track/0NJJ31ggDI7aODrLYZQkgV"
     },
     {
       "album": {

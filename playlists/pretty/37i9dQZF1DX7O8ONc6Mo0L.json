@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Preto no Branco",
-  "num_followers": 239164,
+  "num_followers": 239264,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDg4OGYzYjNhZDVlMTQ1MjJkN2UwZTExZjg5ZTIxMTg0",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGE4ODAyMzI3OGRhOGJiZTQ3ODk3NDUxMmJjMzc0N2Zi",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -203,18 +203,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
+        "name": "Al\u00e9m do Rio Azul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/179cAV1v2sG8INY8xv2OZK"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 374096,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
+      "duration_ms": 281480,
+      "name": "Al\u00e9m do Rio Azul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5c1TKyPx3H9KqzAZWSaqC6"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -235,22 +239,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Al\u00e9m do Rio Azul (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/179cAV1v2sG8INY8xv2OZK"
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
         }
       ],
-      "duration_ms": 281480,
-      "name": "Al\u00e9m do Rio Azul - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5c1TKyPx3H9KqzAZWSaqC6"
+      "duration_ms": 374096,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Impressionante (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
-      },
-      "artists": [
-        {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
-        }
-      ],
-      "duration_ms": 331250,
-      "name": "Impressionante - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Espelhos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/72XFbUjx5bsrc5rJ3dXRzE"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 223422,
       "name": "Confiar em Deus - Spotify Singles",
       "url": "https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Impressionante (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
+      },
+      "artists": [
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "duration_ms": 331250,
+      "name": "Impressionante - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "N\u00e1ufrago (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "N\u00e1ufrago - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Ao Orar 2",
         "url": "https://open.spotify.com/album/2HIM1K64rbESXM2BmrJQIl"
       },
@@ -743,22 +727,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 222607,
-      "name": "Encaixe",
-      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Primeira Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 296000,
       "name": "Primeira Ess\u00eancia (Ao Vivo)",
       "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 222607,
+      "name": "Encaixe",
+      "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "N\u00e1ufrago (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "N\u00e1ufrago - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Filhos Ac\u00fastico",
-        "url": "https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 248256,
-      "name": "Aba - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
         "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Ningu\u00e9m Explica Deus",
         "url": "https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+        "name": "Filhos Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+      "duration_ms": 248256,
+      "name": "Aba - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Aprender Com a Vida (Piano e Voz)",
-        "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 258044,
-      "name": "Aprender Com a Vida - Piano e Voz",
-      "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "On Tape (Ao Vivo)",
         "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 228388,
       "name": "Falar Com Deus - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Aprender Com a Vida (Piano e Voz)",
+        "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 258044,
+      "name": "Aprender Com a Vida - Piano e Voz",
+      "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Quem Sou",
-        "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
-      },
-      "artists": [
-        {
-          "name": "PEDRAZUL",
-          "url": "https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA"
-        }
-      ],
-      "duration_ms": 270933,
-      "name": "Quem Sou",
-      "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Prossiga",
-        "url": "https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 307319,
-      "name": "Prossiga",
-      "url": "https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Ao \u00danico",
         "url": "https://open.spotify.com/album/2bCRgPS1wXx55YedHQGtBL"
       },
@@ -1327,6 +1295,22 @@
       "duration_ms": 257155,
       "name": "Ao \u00danico",
       "url": "https://open.spotify.com/track/1erz8uoekvfFbo5jJmEZ9w"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Quem Sou",
+        "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
+      },
+      "artists": [
+        {
+          "name": "PEDRAZUL",
+          "url": "https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA"
+        }
+      ],
+      "duration_ms": 270933,
+      "name": "Quem Sou",
+      "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Prossiga",
+        "url": "https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 307319,
+      "name": "Prossiga",
+      "url": "https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Pai",
         "url": "https://open.spotify.com/album/2U65qCgWMTyJCfwABYbfnT"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 321381,
       "name": "Pai",
       "url": "https://open.spotify.com/track/518dbOPcDV45Zi2u1VEITp"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Existe uma Sa\u00edda (Acoustic)",
+        "url": "https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09"
+      },
+      "artists": [
+        {
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Existe uma Sa\u00edda",
+      "url": "https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 244250,
       "name": "Aquietai-Vos",
       "url": "https://open.spotify.com/track/2VBDls6vI3bGPsfvps2ljx"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Existe uma Sa\u00edda (Acoustic)",
-        "url": "https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09"
-      },
-      "artists": [
-        {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Existe uma Sa\u00edda",
-      "url": "https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8"
     }
   ],
   "unique_name": "Gospel Ac\u00fastico",

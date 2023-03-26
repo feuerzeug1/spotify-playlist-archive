@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Wilder Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,725 likes - 150 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,826 likes - 150 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 52 | [silence,](https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [silence,](https://open.spotify.com/album/251r2PWSCJrFdZDmgxUuA1) | 2:47 |
 | 53 | [Let Go](https://open.spotify.com/track/3C37PWNd6ojQD8OhIp9aKu) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Let Go](https://open.spotify.com/album/6Am8g1lq0cXcOCmv5fwnzk) | 4:00 |
 | 54 | [pawnshop](https://open.spotify.com/track/3twrw5DVZcnfQb1jtEF4ca) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [pawnshop](https://open.spotify.com/album/1ucS4Cudh8WLQDIi7KZTDb) | 2:38 |
-| 55 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 |
+| 55 | [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 |
 | 56 | [All of the Time in the World to Kill](https://open.spotify.com/track/0ywhGpEwMV3vzLJxgbpsKx) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All of the Time in the World to Kill](https://open.spotify.com/album/1Vcc6dAwYGIlgXImE1g2Mn) | 2:52 |
 | 57 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
 | 58 | [Terrestrial Man](https://open.spotify.com/track/0sNOQIiJEuEINXFmtZYXam) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Terrestrial Man](https://open.spotify.com/album/0Xf1goy6gCUxMlTdzTOWTm) | 4:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [End Scene](https://open.spotify.com/track/6unRqbvDOqlZMYIb0b2W4R) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [End Scene](https://open.spotify.com/album/41dMiuSKeuRHW6tDBEEb0g) | 6:30 |
 | 150 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDE4ZDM0NTM3Mzc3NzU4MmRkMTJmMzZhYzAyZjZmNzFj`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGJmYmQ5ZTc4NjdkYTM5ZTI1MDAzNzU5OWFjMDFlNDEz`

@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 399528,
+  "num_followers": 399781,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMDY2MzFiODBmN2UzODQwOWZjMGM2MzJlMzVhZDZhZGU5",
+  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMDJlYzg5YzIwODg4OTFlOGJmZjRhZjA1M2MxMGMxZDkz",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Isn't Anything",
         "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Pygmalion",
-        "url": "https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 361213,
-      "name": "Crazy for You",
-      "url": "https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
       },
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 361213,
+      "name": "Crazy for You",
+      "url": "https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "She Hangs Brightly",
         "url": "https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 384400,
       "name": "She Hangs Brightly",
       "url": "https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "Just Like Honey",
-      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
     },
     {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM"
-    },
-    {
       "added_at": "2022-02-18 20:00:47",
       "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
@@ -783,6 +767,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Spooky",
         "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
       },
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi"
     },
     {
-      "added_at": "2022-08-09 00:28:42",
+      "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
       },
       "artists": [
         {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
         }
       ],
-      "duration_ms": 323613,
-      "name": "When Will You Come Home",
-      "url": "https://open.spotify.com/track/2m4pMnVi3e9HuSwSci6dg8"
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
     }
   ],
   "unique_name": "Dreampop Classics",

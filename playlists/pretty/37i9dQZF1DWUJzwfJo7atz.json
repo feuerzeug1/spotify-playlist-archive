@@ -1,12 +1,12 @@
 {
   "description": "cute moments in fields and on dancefloors #SpotifyWrapped",
-  "num_followers": 23121,
+  "num_followers": 23280,
   "original_name": "dance tracks we hugged our friends to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxOTg1NCwwMDAwMDAwMDgxYzY3NjVhZTBhNjNlZmVmZjQxMDRkYWRmYjIyNzk0",
+  "snapshot_id": "MTY2OTgxOTg1NCwwMDAwMDAwMDQwZGQ2OThkZDcwMjhlMDZmYzdkNTBiZjJmZTM5MjBj",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 244672,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "To Feel Again / Trois",
         "url": "https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI"
       },
@@ -695,18 +711,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Arms",
-        "url": "https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ"
+        "name": "Equals",
+        "url": "https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB"
       },
       "artists": [
         {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
         }
       ],
-      "duration_ms": 244672,
-      "name": "Arms",
-      "url": "https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o"
+      "duration_ms": 286451,
+      "name": "Equals",
+      "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -727,26 +747,6 @@
       "duration_ms": 203751,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/07mOlP1DQv1ZsQTyCMNzaW"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Equals",
-        "url": "https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
-        }
-      ],
-      "duration_ms": 286451,
-      "name": "Equals",
-      "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -903,22 +903,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "demon time",
-        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+        "name": "My Heart Still Leans On You",
+        "url": "https://open.spotify.com/album/3QLP5YPGen6T7pnYpb8Gt8"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
         },
         {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
         }
       ],
-      "duration_ms": 191189,
-      "name": "2gether (with Gretel H\u00e4nlyn)",
-      "url": "https://open.spotify.com/track/1Wqd0R1X1tuVK9FySVyLpt"
+      "duration_ms": 287187,
+      "name": "My Heart Still Leans On You",
+      "url": "https://open.spotify.com/track/7hTcipfBVimzXdYd9ynEbA"
     }
   ],
   "unique_name": "dance tracks we hugged our friends to in 2022",

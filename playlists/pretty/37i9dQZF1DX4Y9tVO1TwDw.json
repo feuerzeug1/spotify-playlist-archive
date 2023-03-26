@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Estevie",
-  "num_followers": 19218,
+  "num_followers": 19261,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzI3MCwwMDAwMDAwMDhjY2FhNTA2YjFmMTYxZDhlM2Y3ODIwOTc1MGQ2MjM2",
+  "snapshot_id": "MTY3OTAzMzI3MCwwMDAwMDAwMGIxMTE4MDU0MWIwYzI1M2Y1MmVjMDM4NzBlNzg2Zjg4",
   "tracks": [
     {
       "added_at": "2023-03-17 05:21:31",
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/56XRdqcXlIquG1BZuirDel"
     },
     {
-      "added_at": "2023-03-25 01:12:46",
+      "added_at": "2023-03-26 01:28:05",
       "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/0jdlWpht7OheUR2kvWWPlA"
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "Tu Labial",
-        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 227018,
-      "name": "Tu Labial",
-      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
-    },
-    {
-      "added_at": "2023-03-17 05:21:31",
-      "album": {
         "name": "Hostage",
         "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 164770,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
+    },
+    {
+      "added_at": "2023-03-17 05:21:31",
+      "album": {
+        "name": "Tu Labial",
+        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 227018,
+      "name": "Tu Labial",
+      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN"
-      },
-      "artists": [
-        {
-          "name": "Bella Dose",
-          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
-        }
-      ],
-      "duration_ms": 186403,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26"
-    },
-    {
-      "added_at": "2023-03-17 05:21:31",
-      "album": {
         "name": "Santee",
         "url": "https://open.spotify.com/album/2OWQzXNMHUMe35yaKbWXcb"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 109267,
       "name": "Santee",
       "url": "https://open.spotify.com/track/5Jssxp8m8PbF7gd9lZFfsx"
+    },
+    {
+      "added_at": "2023-03-17 05:21:31",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN"
+      },
+      "artists": [
+        {
+          "name": "Bella Dose",
+          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+        }
+      ],
+      "duration_ms": 186403,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
+        "name": "Flexa",
+        "url": "https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR"
+      },
+      "artists": [
+        {
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "Flexa",
+      "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
+    },
+    {
+      "added_at": "2023-03-17 05:21:31",
+      "album": {
         "name": "De La Nada",
         "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 264003,
       "name": "De La Nada",
       "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
-    },
-    {
-      "added_at": "2023-03-17 05:21:31",
-      "album": {
-        "name": "Flexa",
-        "url": "https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR"
-      },
-      "artists": [
-        {
-          "name": "Sessi",
-          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "Flexa",
-      "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "overflow",
-        "url": "https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU"
-      },
-      "artists": [
-        {
-          "name": "vivi rincon",
-          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
-        }
-      ],
-      "duration_ms": 175850,
-      "name": "overflow",
-      "url": "https://open.spotify.com/track/54Emsvj9A1qPH6zXOafruV"
-    },
-    {
-      "added_at": "2023-03-17 05:21:31",
-      "album": {
         "name": "La Ingenua",
         "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 217072,
       "name": "La Ingenua",
       "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
+    },
+    {
+      "added_at": "2023-03-17 05:21:31",
+      "album": {
+        "name": "overflow",
+        "url": "https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU"
+      },
+      "artists": [
+        {
+          "name": "vivi rincon",
+          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
+        }
+      ],
+      "duration_ms": 175850,
+      "name": "overflow",
+      "url": "https://open.spotify.com/track/54Emsvj9A1qPH6zXOafruV"
     },
     {
       "added_at": "2023-03-17 05:21:31",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-03-17 05:21:31",
       "album": {
-        "name": "Drink Me Like Wine",
-        "url": "https://open.spotify.com/album/4RTXEGXWdPLsTk2EwUTO4k"
-      },
-      "artists": [
-        {
-          "name": "Andria Rose",
-          "url": "https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK"
-        }
-      ],
-      "duration_ms": 155172,
-      "name": "Drink Me Like Wine",
-      "url": "https://open.spotify.com/track/0WTnZEt7dIFGK61BKVbut8"
-    },
-    {
-      "added_at": "2023-03-17 05:21:31",
-      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 155439,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
+    },
+    {
+      "added_at": "2023-03-17 05:21:31",
+      "album": {
+        "name": "Drink Me Like Wine",
+        "url": "https://open.spotify.com/album/4RTXEGXWdPLsTk2EwUTO4k"
+      },
+      "artists": [
+        {
+          "name": "Andria Rose",
+          "url": "https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK"
+        }
+      ],
+      "duration_ms": 155172,
+      "name": "Drink Me Like Wine",
+      "url": "https://open.spotify.com/track/0WTnZEt7dIFGK61BKVbut8"
     },
     {
       "added_at": "2023-03-17 05:21:31",

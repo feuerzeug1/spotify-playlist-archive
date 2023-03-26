@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Heriot
 
-170 songs - 9 hr 49 min
+171 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Lovecraft](https://open.spotify.com/track/5XMJ0iPqfYdVSAMZaZu6x3) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Punishing Myself Before God Does](https://open.spotify.com/album/222AtgmkJIArvoRoP5KC8S) | 3:43 | 2022-09-16 | 2023-01-14 |
 | [Lucy](https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Lucy](https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE) | 3:36 | 2022-07-29 | 2022-08-27 |
 | [Lust](https://open.spotify.com/track/0g9rKVt9lXwne5bhy0ptbU) | [Kneel Before the Death](https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK) | [Lust](https://open.spotify.com/album/1BVCpyEynUaxaLYtsdOaYt) | 3:41 | 2022-07-29 | 2022-10-01 |
-| [Madman](https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Madman](https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY) | 3:52 | 2023-03-02 |  |
+| [Madman](https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Madman](https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY) | 3:52 | 2023-03-02 | 2023-03-26 |
+| [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 | 2023-03-24 |  |
 | [MALIZIA](https://open.spotify.com/track/1jFosWcZ0SQbvdUhKOS14S) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [MALIZIA](https://open.spotify.com/album/7rtrTAtDq8S4vlxL2FpQdv) | 2:46 | 2022-07-29 | 2023-01-06 |
 | [Message in Memories](https://open.spotify.com/track/5id2U2YgvAsJOkt421D2sC) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [Message in Memories](https://open.spotify.com/album/5goKDxJjvfHGW0jYs7bRhG) | 6:35 | 2022-07-29 | 2022-08-20 |
 | [Mirror Glue](https://open.spotify.com/track/0fEWlqJr3lJXEXmLk7KFOD) | [thoughtcrimes](https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop) | [Mirror Glue](https://open.spotify.com/album/5vuqiIimLosYL6Gql82oXV) | 5:11 | 2022-08-26 | 2023-03-03 |

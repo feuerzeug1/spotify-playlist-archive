@@ -6961,6 +6961,24 @@
     },
     {
       "album": {
+        "name": "Perfect Blue",
+        "url": "https://open.spotify.com/album/16IN09R5UFKS0Y7LERLf8F"
+      },
+      "artists": [
+        {
+          "name": "Midbooze",
+          "url": "https://open.spotify.com/artist/3f6QhdjAcJAkqQEnikPnz6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187417,
+      "name": "Perfect Blue",
+      "url": "https://open.spotify.com/track/7kkXjLxWOxSDzo4mpYeb9O"
+    },
+    {
+      "album": {
         "name": "Digital Pipo Saga",
         "url": "https://open.spotify.com/album/2DUqkG22qWgI3bXs4pZA0G"
       },
@@ -7268,24 +7286,6 @@
       "duration_ms": 122400,
       "name": "Purity://Tech",
       "url": "https://open.spotify.com/track/2fk5oDEH4VFJwPvxNv8UEM"
-    },
-    {
-      "album": {
-        "name": "P\u0435rfect Blue",
-        "url": "https://open.spotify.com/album/16IN09R5UFKS0Y7LERLf8F"
-      },
-      "artists": [
-        {
-          "name": "Midbooze",
-          "url": "https://open.spotify.com/artist/3f6QhdjAcJAkqQEnikPnz6"
-        }
-      ],
-      "date_added": "2023-03-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187417,
-      "name": "P\u0435rfect Blue",
-      "url": "https://open.spotify.com/track/7kkXjLxWOxSDzo4mpYeb9O"
     },
     {
       "album": {

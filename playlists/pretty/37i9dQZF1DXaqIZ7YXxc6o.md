@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Tom Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,664 likes - 109 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,683 likes - 109 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

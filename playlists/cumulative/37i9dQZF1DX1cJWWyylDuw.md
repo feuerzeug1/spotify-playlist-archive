@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Chelsea Grin
 
-450 songs - 1 day 5 hr 22 min
+451 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-04-15 | 2022-07-24 |
 | [Cathedrals of Blood \(Twilight of the Idols\)](https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Enveloping Absurdity](https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy) | 4:15 | 2022-09-16 | 2023-02-12 |
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-02-11 |  |
-| [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 | 2021-12-17 |  |
+| [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 | 2021-12-17 | 2023-03-26 |
 | [Charlotte](https://open.spotify.com/track/1E0wg7h8fvowWXUOyrYose) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [God Hand](https://open.spotify.com/album/64CVhMqlsSVEtCLDXCHvvB) | 3:16 | 2021-12-17 | 2022-07-29 |
 | [Charlotte](https://open.spotify.com/track/1MCRmDZQsbB1r2KP8dsWKO) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [God Hand](https://open.spotify.com/album/3vnofNSDDHTomiI8cIZrpb) | 3:16 | 2023-02-10 |  |
 | [Chasm](https://open.spotify.com/track/6BHqiA6bAdo544sqdeCTvy) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ), [Michael Felker](https://open.spotify.com/artist/5Q2CFlnuEPJfch1ss5top8) | [Chasm](https://open.spotify.com/album/1Gtldn9jGWjonq7XNNOgYT) | 3:20 | 2022-07-29 | 2022-10-27 |
@@ -379,6 +379,7 @@
 | [Take Me To Hell](https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ) | 3:30 | 2021-12-17 |  |
 | [Teeth](https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [I Won't Survive](https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO) | 2:08 | 2021-12-31 | 2022-06-29 |
 | [Temporal Punishment](https://open.spotify.com/track/0BrMX9UdxQq20WLia3ttmF) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Temporal Punishment](https://open.spotify.com/album/6DmmmNr1IbT1k21NAdM3Ay) | 3:40 | 2021-12-17 | 2022-07-29 |
+| [The Abyss](https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [JT Cavey](https://open.spotify.com/artist/61VGyKqHM3JViWq8oZE33N) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:34 | 2023-03-24 |  |
 | [The Amygdala Chorus](https://open.spotify.com/track/5tmJCrDqstthNnM4MtWDk9) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [The Amygdala Chorus](https://open.spotify.com/album/5qOPQK5fz14mnJUlTA0Vwe) | 3:50 | 2021-12-17 | 2023-01-07 |
 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 | 2021-12-31 | 2022-04-07 |
 | [The Blvck Sun \|](https://open.spotify.com/track/43GeseGjfyB4RWH4Dhhv4E) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa) | [The Blvck Sun \|](https://open.spotify.com/album/2ohfUODwY6bkItYtk41nP0) | 4:49 | 2021-12-17 | 2022-07-29 |

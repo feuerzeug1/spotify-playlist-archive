@@ -1,12 +1,12 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 75220,
+  "num_followers": 75300,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTIxOTY3MywwMDAwMDAwMDgwODc4M2E4NWQ1YmY3ODYwMTdkNWE5Y2YzYjBlNTlh",
+  "snapshot_id": "MTYxOTIxOTY3MywwMDAwMDAwMDNiNjYxMTQ0MDAzODVjYmFlYmJjYjdlMGY2Y2JlYWE5",
   "tracks": [
     {
       "added_at": "2021-04-23 23:14:33",
@@ -951,26 +951,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Hold My Hand",
-        "url": "https://open.spotify.com/album/5DA84BeSN1TYtyk9poJ24C"
-      },
-      "artists": [
-        {
-          "name": "Maciel",
-          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
-        },
-        {
-          "name": "Delove",
-          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/0Qi4Xlh524Bj3EPmhwyDux"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Where Do We Go?",
         "url": "https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 194290,
       "name": "Where Do We Go?",
       "url": "https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/5DA84BeSN1TYtyk9poJ24C"
+      },
+      "artists": [
+        {
+          "name": "Maciel",
+          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
+        },
+        {
+          "name": "Delove",
+          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0Qi4Xlh524Bj3EPmhwyDux"
     },
     {
       "added_at": "2021-04-23 23:14:33",

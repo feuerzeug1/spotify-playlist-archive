@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Agent",
-  "num_followers": 78748,
+  "num_followers": 78842,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ4NDg2NSwwMDAwMDAwMGFlZGY3MzEwMjg1NTE1YmFjMzFlZGVkZWE5MGYwNWNm",
+  "snapshot_id": "MTY3OTcxNDQxOSwwMDAwMDAwMDI2NWRkOTU5NzQ2MDcxZDVhZmFiNGU3MDYxNTIxMzkz",
   "tracks": [
     {
       "added_at": "2023-02-22 14:11:25",
@@ -23,6 +23,26 @@
       "duration_ms": 207210,
       "name": "Malli Malli (From \"Agent\")",
       "url": "https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU"
+    },
+    {
+      "added_at": "2023-03-25 03:18:29",
+      "album": {
+        "name": "Nachavule Nachavule (From \"Virupaksha\")",
+        "url": "https://open.spotify.com/album/698JO1ewdhmDLUKr09hY3V"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 222135,
+      "name": "Nachavule Nachavule (From \"Virupaksha\")",
+      "url": "https://open.spotify.com/track/1baeO9R7AdFjcb03pJYjay"
     },
     {
       "added_at": "2023-03-08 16:11:46",
@@ -77,6 +97,26 @@
       "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
     },
     {
+      "added_at": "2023-03-25 03:20:18",
+      "album": {
+        "name": "Risk (Telugu)",
+        "url": "https://open.spotify.com/album/1x1YOnezfxRM5uq4E4LAp9"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Ghantadi Krishna",
+          "url": "https://open.spotify.com/artist/0pllOO8uQzMCl9IDGBxr8J"
+        }
+      ],
+      "duration_ms": 239298,
+      "name": "Sogasuke Soku",
+      "url": "https://open.spotify.com/track/7us2M7qEm5z0N8Pi4r9vCO"
+    },
+    {
       "added_at": "2022-11-10 13:17:20",
       "album": {
         "name": "Sir",
@@ -95,6 +135,30 @@
       "duration_ms": 225424,
       "name": "Mastaaru Mastaaru",
       "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
+    },
+    {
+      "added_at": "2023-03-25 03:18:29",
+      "album": {
+        "name": "Endhe Endhe (From \"Agent\")",
+        "url": "https://open.spotify.com/album/4jLEzKrOoUFyJzlTTrKwCy"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Padmalatha",
+          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
+        }
+      ],
+      "duration_ms": 216095,
+      "name": "Endhe Endhe (From \"Agent\")",
+      "url": "https://open.spotify.com/track/6Pu2h98HTGs437yCGnK16b"
     },
     {
       "added_at": "2022-11-10 07:23:27",

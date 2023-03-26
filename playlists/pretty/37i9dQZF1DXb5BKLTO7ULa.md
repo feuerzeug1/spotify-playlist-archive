@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Benny Sings
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,057 likes - 101 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,070 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 51 | [Knife](https://open.spotify.com/track/2ZmbJK8yirY6dkXasyDi0Z) | [Pitou](https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va) | [Big Tear](https://open.spotify.com/album/0bQAHBoEYWuDCbw4CAc21P) | 5:31 |
 | 52 | [Geen Ander](https://open.spotify.com/track/0erh8RtDG4siDMHqdixBXf) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Geen Ander](https://open.spotify.com/album/4miPU2jUOXsoUDAtglywn9) | 3:31 |
 | 53 | [Kid With The Dice](https://open.spotify.com/track/33LZUR5qnbk5810Asw9C7X) | [Oliver Pesch](https://open.spotify.com/artist/26tOE9bbYwhN5SRHcAic97) | [Kid With The Dice](https://open.spotify.com/album/7acIu8wpxPBWdHvhmKu8oX) | 4:12 |
-| 54 | [SING and hope its out of tune](https://open.spotify.com/track/30jErcNxqMAqQrJskD7uRE) | [John Coffey](https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA) | [SING and hope it’s out of tune](https://open.spotify.com/album/5o1ZKjMzjHvRAqm3bFS7sG) | 2:06 |
+| 54 | [SING and hope it's out of tune](https://open.spotify.com/track/30jErcNxqMAqQrJskD7uRE) | [John Coffey](https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA) | [SING and hope it’s out of tune](https://open.spotify.com/album/5o1ZKjMzjHvRAqm3bFS7sG) | 2:06 |
 | 55 | [Goed Gek](https://open.spotify.com/track/5DhK9remJ4Lcd3i6w2Yg5g) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Egg Benedict](https://open.spotify.com/album/0Oas6dTmDyjdDtDtlQ2aGk) | 2:25 |
 | 56 | [16 Again](https://open.spotify.com/track/3qrTracLJmTz2XaJDkSiEN) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [16 Again](https://open.spotify.com/album/7x7AQEl511oMbhjVkBc2Lq) | 3:15 |
 | 57 | [Jump](https://open.spotify.com/track/5xbDu8CkhxVqCH1bwAu5nk) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [Jump](https://open.spotify.com/album/5IdAx6YL1PaXE2oCe8N8lO) | 3:24 |

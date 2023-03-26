@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Pau Mueller. Updates every Wednesday.",
-  "num_followers": 169240,
+  "num_followers": 169248,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ2NDgwMCwwMDAwMDAwMDIxNGU1YmQxY2E2MWFmZGEzODBhYTZlY2UyNzQ0N2Zk",
+  "snapshot_id": "MTY3OTQ2NDgwMCwwMDAwMDAwMDA2YjI0MjJjZGM1Yjg5YTI5MWI1MmI4YzhmYjQ1Mzk1",
   "tracks": [
     {
       "added_at": "2023-03-22 06:00:00",
@@ -293,6 +293,22 @@
       "url": "https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ"
     },
     {
+      "added_at": "2023-03-08 18:00:00",
+      "album": {
+        "name": "TQD",
+        "url": "https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        }
+      ],
+      "duration_ms": 200022,
+      "name": "TQD",
+      "url": "https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq"
+    },
+    {
       "added_at": "2023-03-15 06:00:00",
       "album": {
         "name": "CUMPLEA\u00d1OS",
@@ -309,20 +325,20 @@
       "url": "https://open.spotify.com/track/09tEjSbhoLi3SVgfgVEtdd"
     },
     {
-      "added_at": "2023-03-08 18:00:00",
+      "added_at": "2023-03-15 06:00:00",
       "album": {
-        "name": "TQD",
-        "url": "https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA"
+        "name": "La Ingenua",
+        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
       },
       "artists": [
         {
-          "name": "Mola Mola",
-          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+          "name": "La Cassandra",
+          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
         }
       ],
-      "duration_ms": 200022,
-      "name": "TQD",
-      "url": "https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq"
+      "duration_ms": 217072,
+      "name": "La Ingenua",
+      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
     },
     {
       "added_at": "2023-03-08 18:00:00",
@@ -361,22 +377,6 @@
       "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
     },
     {
-      "added_at": "2023-03-15 06:00:00",
-      "album": {
-        "name": "La Ingenua",
-        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
-      },
-      "artists": [
-        {
-          "name": "La Cassandra",
-          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
-        }
-      ],
-      "duration_ms": 217072,
-      "name": "La Ingenua",
-      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
-    },
-    {
       "added_at": "2023-03-08 18:00:00",
       "album": {
         "name": "SINCERAMENTE, BEBE",
@@ -391,22 +391,6 @@
       "duration_ms": 168750,
       "name": "CORAZON DE NIEVE",
       "url": "https://open.spotify.com/track/6jKdi3HZuPTpr8BPap6D2b"
-    },
-    {
-      "added_at": "2023-03-08 18:00:00",
-      "album": {
-        "name": "Complejo de Martir",
-        "url": "https://open.spotify.com/album/7anGWpldwOfPvADPqdoPq4"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 195227,
-      "name": "Complejo de Martir",
-      "url": "https://open.spotify.com/track/5xVAjvnDSbjEQjTX3LXQKB"
     },
     {
       "added_at": "2023-03-15 06:00:00",
@@ -439,6 +423,38 @@
       "duration_ms": 139354,
       "name": "Pelicula",
       "url": "https://open.spotify.com/track/0uqPbGs9P2GH8nS4EdT4WZ"
+    },
+    {
+      "added_at": "2023-03-08 18:00:00",
+      "album": {
+        "name": "Complejo de Martir",
+        "url": "https://open.spotify.com/album/7anGWpldwOfPvADPqdoPq4"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "duration_ms": 195227,
+      "name": "Complejo de Martir",
+      "url": "https://open.spotify.com/track/5xVAjvnDSbjEQjTX3LXQKB"
+    },
+    {
+      "added_at": "2023-03-08 18:00:00",
+      "album": {
+        "name": "La Culebra",
+        "url": "https://open.spotify.com/album/7dUAcht0jlp9S3mTCc9ye9"
+      },
+      "artists": [
+        {
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+        }
+      ],
+      "duration_ms": 232018,
+      "name": "La Culebra",
+      "url": "https://open.spotify.com/track/5amzhRZcpT9RSkGJVdnlRR"
     },
     {
       "added_at": "2023-03-08 18:00:00",
@@ -503,6 +519,22 @@
     {
       "added_at": "2023-03-08 18:00:00",
       "album": {
+        "name": "Mares\u00eda",
+        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
+      },
+      "artists": [
+        {
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
+        }
+      ],
+      "duration_ms": 211169,
+      "name": "Mares\u00eda",
+      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
+    },
+    {
+      "added_at": "2023-03-08 18:00:00",
+      "album": {
         "name": "Otro Sitio",
         "url": "https://open.spotify.com/album/3VTJit9hMdZmQfaa082S9u"
       },
@@ -531,22 +563,6 @@
       "duration_ms": 151992,
       "name": "Luna - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi"
-    },
-    {
-      "added_at": "2023-03-08 18:00:00",
-      "album": {
-        "name": "Mares\u00eda",
-        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        }
-      ],
-      "duration_ms": 211169,
-      "name": "Mares\u00eda",
-      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
     },
     {
       "added_at": "2023-03-08 18:00:00",
@@ -743,22 +759,6 @@
       "duration_ms": 191311,
       "name": "NUBE",
       "url": "https://open.spotify.com/track/1P1yx8BHKYWHR6Sh6LmQnJ"
-    },
-    {
-      "added_at": "2023-03-08 18:00:00",
-      "album": {
-        "name": "La Culebra",
-        "url": "https://open.spotify.com/album/7dUAcht0jlp9S3mTCc9ye9"
-      },
-      "artists": [
-        {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
-        }
-      ],
-      "duration_ms": 232018,
-      "name": "La Culebra",
-      "url": "https://open.spotify.com/track/5amzhRZcpT9RSkGJVdnlRR"
     },
     {
       "added_at": "2023-03-08 18:00:00",

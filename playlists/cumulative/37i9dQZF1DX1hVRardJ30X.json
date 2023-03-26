@@ -5589,6 +5589,28 @@
     },
     {
       "album": {
+        "name": "ARROMPERLA",
+        "url": "https://open.spotify.com/album/1io57EyKDqn10NNDu0vUiy"
+      },
+      "artists": [
+        {
+          "name": "Oplus",
+          "url": "https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0"
+        },
+        {
+          "name": "Leo Bash",
+          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195242,
+      "name": "ARROMPERLA",
+      "url": "https://open.spotify.com/track/6hu79wnDsLU7qE7tJnaFP5"
+    },
+    {
+      "album": {
         "name": "Arroz Con Leche",
         "url": "https://open.spotify.com/album/0QqtsnnDi8Lbf4m06tmW8m"
       },

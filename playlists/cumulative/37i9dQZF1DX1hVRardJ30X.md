@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Maluma & Anuel AA
 
-3,789 songs - 8 day 8 hr 40 min
+3,790 songs - 8 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-08 | 2022-04-16 |
 | [Arrebata](https://open.spotify.com/track/2MkQo1z3xzYcoONHNoXWEr) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Arrebata](https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3) | 2:55 | 2022-08-12 | 2022-08-20 |
 | [Arrepentío](https://open.spotify.com/track/4KvP2A55KMO25vr5VnsXCB) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [La Patrona](https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1) | 3:30 | 2022-02-25 | 2022-03-05 |
+| [ARROMPERLA](https://open.spotify.com/track/6hu79wnDsLU7qE7tJnaFP5) | [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0), [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx) | [ARROMPERLA](https://open.spotify.com/album/1io57EyKDqn10NNDu0vUiy) | 3:15 | 2023-03-25 |  |
 | [Arroz Con Leche](https://open.spotify.com/track/4h1lVRm3mO5uIj2TqBHVZA) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/0QqtsnnDi8Lbf4m06tmW8m) | 3:13 | 2022-09-30 | 2022-10-08 |
 | [Arte](https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Arte](https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt) | 3:12 | 2023-02-24 | 2023-03-04 |
 | [Artificial](https://open.spotify.com/track/6XoQKu7aUJbEacUATgofzQ) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Lo Que Fue](https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT) | 3:28 | 2022-07-01 | 2022-07-09 |

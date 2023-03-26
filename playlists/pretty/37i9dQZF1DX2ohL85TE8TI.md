@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: <a href="https://open.spotify.com/show/1YP4xy5nGxCxKG2GD9PdCt?si=c1ff94872f7c4b88">Take Me Over\(썸타임즈\)</a>\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,510,931 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511,011 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You take me over, cause..](https://open.spotify.com/track/2n74yZ4nQoxaiLMuJUowpL) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [SOMETIMES \- Take me over OST](https://open.spotify.com/album/4m9ZWqqQFht0IILSBsejj9) | 3:08 |
-| 2 | [Alright](https://open.spotify.com/track/53K47tc2zDxEwbgBv4pCsk) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Crash Course in Romance OST Part 5](https://open.spotify.com/album/6xVbpoLxUtoHAZ7ccbn8Gv) | 3:22 |
+| 2 | [Alright](https://open.spotify.com/track/53K47tc2zDxEwbgBv4pCsk) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Crash Course in Romance OST Part 5](https://open.spotify.com/album/6xVbpoLxUtoHAZ7ccbn8Gv) | 3:22 |
 | 3 | [Love to Hate You](https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Love to Hate You, Pt\. 3 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx) | 3:20 |
 | 4 | [Thirsty for Love](https://open.spotify.com/track/5QnpMpYEE2LSFegbHFbkYd) | [건지](https://open.spotify.com/artist/79xtZ56bsMOQwiTe5Ob1jD) | [Red Balloon OST Part.6](https://open.spotify.com/album/5tKkrid72hWtqtor3nQWL6) | 3:47 |
 | 5 | [Glad You Are Here](https://open.spotify.com/track/1ORdIan1D6FPfw5PpUC1fV) | [오현우](https://open.spotify.com/artist/1PQQMG99o0K7BBYAwVpTqf) | [Glad You Are Here \(Payback X Oh Hyun Woo\)](https://open.spotify.com/album/73hIXLouYFgmceGJ74cys9) | 3:36 |

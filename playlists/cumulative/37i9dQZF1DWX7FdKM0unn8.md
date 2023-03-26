@@ -4,7 +4,7 @@
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-113 songs - 8 hr 12 min
+114 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [My reflection in my mind](https://open.spotify.com/track/3B4iBBOAuKEjGfvPIfU529) | [Yoo Jae\-Ha](https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC) | [Because I love you](https://open.spotify.com/album/3LhZDQXnc7FF2mtoHoJMBC) | 4:53 | 2021-08-12 | 2022-07-29 |
 | [On Those Days](https://open.spotify.com/track/0ACRegRh3QSjCGgWw7xtGV) | [어떤날](https://open.spotify.com/artist/1DfZ34LYlp8Q1VWSgDietf) | [oneday II](https://open.spotify.com/album/2LUhNhSyrYyrkJoJUiiusi) | 4:00 | 2021-08-12 |  |
 | [Take to the Road](https://open.spotify.com/track/7Dsj9oV6bd5jF0vIBwy92a) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [Lee Sun Hee Best](https://open.spotify.com/album/2l6SJR2R6pFzKOlrtJGq37) | 3:32 | 2021-08-12 |  |
-| [The Street With The First Snow](https://open.spotify.com/track/1CaH7l3RuuCHd6k3VsWiMk) | [Lee Mi Ja](https://open.spotify.com/artist/3ZQ97tFlkn5moDjvgQ3kpZ) | [Lee Mi\-Ja's Setereo Hit Song Selection 12th Album](https://open.spotify.com/album/2VCClwONd2mvbtAYAz51iX) | 3:06 | 2021-08-12 |  |
+| [The Street With The First Snow](https://open.spotify.com/track/1CaH7l3RuuCHd6k3VsWiMk) | [Lee Mi Ja](https://open.spotify.com/artist/3ZQ97tFlkn5moDjvgQ3kpZ) | [Lee Mi\-Ja's Setereo Hit Song Selection 12th Album](https://open.spotify.com/album/2VCClwONd2mvbtAYAz51iX) | 3:06 | 2021-08-12 | 2023-03-26 |
+| [The Street With The First Snow](https://open.spotify.com/track/70zAAYzecX27gWNka6RM94) | [Lee Mi Ja](https://open.spotify.com/artist/3ZQ97tFlkn5moDjvgQ3kpZ) | [Lee Mi\-Ja's Setereo Hit Song Selection 12th Album](https://open.spotify.com/album/1B4BQ8KWrGbyxBoj0XICuI) | 3:06 | 2021-08-12 |  |
 | [가을이지나가는길목에서](https://open.spotify.com/track/0F8VPFPd53OxPYiINjc9bF) | [황치훈](https://open.spotify.com/artist/1KlbpZyhUiiO4EsvJiguwE) | [황치훈1집](https://open.spotify.com/album/2sTNUF4zLROU2gCyaTQ524) | 4:46 | 2021-08-12 |  |
 | [그 때 그 사람](https://open.spotify.com/track/17tVPvWGq0JmxxUY5uOgs0) | [Sim Soo Bong](https://open.spotify.com/artist/3MruauOzN01CjMYEM2TFjn) | [대학가요제 Golden Best](https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X) | 3:28 | 2021-08-12 | 2022-07-29 |
 | [그 때 그 사람](https://open.spotify.com/track/2q2cITx9yh5HSxwiPpgHCl) | [Sim Soo Bong](https://open.spotify.com/artist/3MruauOzN01CjMYEM2TFjn) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 3:28 | 2021-08-12 |  |

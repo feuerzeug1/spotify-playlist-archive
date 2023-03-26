@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5OTM3ODAsMDAwMDAwMDA4NjEwOGU3M2VlZTFiZTBlNjBkMGM2Y2YzYjVhMjU4OQ==",
+  "snapshot_id": "Mjc5OTM3ODAsMDAwMDAwMDBjMmRkM2NmODBjNzc3OTRkZTAyYzU0MmMyYTFiMzMzMA==",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -43,34 +43,6 @@
       "duration_ms": 355533,
       "name": "Eminence Front - Live At Wembley, UK / 2019",
       "url": "https://open.spotify.com/track/3C82dBjMsLmOxBC9CdukX4"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "You Already Know",
-        "url": "https://open.spotify.com/album/58lRNid4z2AoQvPqzqfD3D"
-      },
-      "artists": [
-        {
-          "name": "Flannan",
-          "url": "https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ"
-        },
-        {
-          "name": "HIM",
-          "url": "https://open.spotify.com/artist/0TxIXbrLfzTmv7vr32tjE6"
-        },
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET"
-        },
-        {
-          "name": "Calboy",
-          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "You Already Know",
-      "url": "https://open.spotify.com/track/2gfFcnPwV3MyI1Qq0jlanv"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -451,22 +423,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
-      },
-      "artists": [
-        {
-          "name": "Kamelot",
-          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/4uO22RIoqVHJ4xQANRomvn"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Ego Trip (Deluxe)",
         "url": "https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc"
       },
@@ -499,6 +455,22 @@
       "duration_ms": 192755,
       "name": "The Mind of God",
       "url": "https://open.spotify.com/track/0t2RjyABc0IIVP9wbRA7kA"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        }
+      ],
+      "duration_ms": 231453,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/0Y3JU2NmksU7dd9iWxQFHd"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -607,22 +579,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "BETWEEN DREAD AND VALOR",
-        "url": "https://open.spotify.com/album/3SmknD92qODVEs7owlhTgI"
-      },
-      "artists": [
-        {
-          "name": "GALNERYUS",
-          "url": "https://open.spotify.com/artist/3BNDjSD67jJE4fhxX1b2OV"
-        }
-      ],
-      "duration_ms": 127133,
-      "name": "A PIECE OF SOULS",
-      "url": "https://open.spotify.com/track/7taHYVXSUKf6Yn4gwiTAch"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "In Celebration: The Piano Trios of Stanley Silverman",
         "url": "https://open.spotify.com/album/5EG7zLDM8bFjyvddqYMrqJ"
       },
@@ -639,38 +595,6 @@
       "duration_ms": 141973,
       "name": "Trio No. 2 'Reveille': Ii. Prelude to Guajira y Fuga",
       "url": "https://open.spotify.com/track/3qYo08xufG1Zf78XcDfaJ2"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Sin Por Qu\u00e9",
-        "url": "https://open.spotify.com/album/58ifITpwXtUlM7oAuO1UEv"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 261114,
-      "name": "Llegu\u00e9 Donde No Ven\u00eda",
-      "url": "https://open.spotify.com/track/0QgFxkXwGL7aYAUbMBZvX6"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Unchained",
-        "url": "https://open.spotify.com/album/3aGVgBtMuRrvOTdDRM9wNm"
-      },
-      "artists": [
-        {
-          "name": "David Lee Roth",
-          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
-        }
-      ],
-      "duration_ms": 232591,
-      "name": "Unchained",
-      "url": "https://open.spotify.com/track/3R7uI90ItvU0sKeWJnrnRj"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -695,42 +619,6 @@
       "duration_ms": 383760,
       "name": "Save Face",
       "url": "https://open.spotify.com/track/6bo9WfTpX4pSsd0HZO8neM"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Bad Magic: SERIOUSLY BAD MAGIC",
-        "url": "https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 292906,
-      "name": "Ace of Spades - (Live at Mt Fuji Festival 2015 - Sayonara Folks!)",
-      "url": "https://open.spotify.com/track/3rzUJfU1OJ89RMQazObitu"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

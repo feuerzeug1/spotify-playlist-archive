@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Lindsay Ell, Luke Combs, Kip Moore and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,116 likes - 67 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,344 likes - 67 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 35 | [Boys Don't Cry](https://open.spotify.com/track/2xB4WMt3zCHoZtC55XdOcu) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Boys Don't Cry](https://open.spotify.com/album/2bhBr380zCJcIrxq2jUS0r) | 2:56 |
 | 36 | [Still Here](https://open.spotify.com/track/4sFf1zh6NkOG3YyfE8LcBD) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Still Here](https://open.spotify.com/album/45f44m26ubro0tEMbeLV6T) | 3:42 |
 | 37 | [Second Wind](https://open.spotify.com/track/2X2PyfXAL4QjBs0Fb87s4h) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV), [Emma Zinck](https://open.spotify.com/artist/4FxoICozvWBe6Rpc2L1Twq), [Nicole Miller](https://open.spotify.com/artist/32HvVypa8q2bJIQOcYzIWS) | [Second Wind](https://open.spotify.com/album/5O0b8qYRlcSPAP0uRP3kaH) | 3:36 |
-| 38 | [Take Me Out to the Bar](https://open.spotify.com/track/2ZYjew9TueLB0Y6RO8w7CF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Take Me Out to the Bar](https://open.spotify.com/album/6eqwpIVb2oetThsLuKiifm) | 2:59 |
+| 38 | [Take Me Out To The Bar](https://open.spotify.com/track/2ZYjew9TueLB0Y6RO8w7CF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Take Me Out To The Bar](https://open.spotify.com/album/6eqwpIVb2oetThsLuKiifm) | 2:59 |
 | 39 | [Days of Fire](https://open.spotify.com/track/3p3r4B1F3hvZ3tSbfOhy7m) | [Tyler Thompson](https://open.spotify.com/artist/46Jet9gQzP9jN5oZgJniHf) | [Days of Fire](https://open.spotify.com/album/6rdmlrQGL1gTRVjZv4W23v) | 3:11 |
 | 40 | [Too Far Gone](https://open.spotify.com/track/0XC51nEPgNnmnjqi65m64V) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Too Far Gone](https://open.spotify.com/album/3XDTG1T6Rk67odww6x4cBg) | 2:55 |
 | 41 | [I Run On Country](https://open.spotify.com/track/6vbAnq2xGOaG4p9a6wPiLE) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [I Run On Country](https://open.spotify.com/album/6eWp5UBy7SjPcZNxQK0Ms5) | 3:08 |

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Angie Zelena
 
-1,668 songs - 4 day 6 hr 10 min
+1,668 songs - 4 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,7 +754,7 @@
 | [Kejar](https://open.spotify.com/track/7rBowoPIX1R8Lj6cm1qfKy) | [Mariani](https://open.spotify.com/artist/2d8VU9F9peezh9QgVPZmxj) | [Kejar](https://open.spotify.com/album/452WK0GoOgprj8VZpuBEEO) | 4:26 | 2022-11-11 | 2022-12-01 |
 | [Kemalaman](https://open.spotify.com/track/1N8WtHRDrjf08dFKN850yl) | [Dvy](https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i) | [Kemalaman](https://open.spotify.com/album/7hlircDHurw6tkARX2iXd3) | 4:29 | 2022-05-26 | 2022-06-10 |
 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/63mbkvcPnMSd4vmPNsASSZ) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 | 2022-08-25 | 2022-09-09 |
-| [Kembalilah](https://open.spotify.com/track/0N0ymlMFvGnEWHPUoMfsET) | [Frelo](https://open.spotify.com/artist/5mdwcqwUZSvgftzx4KGCgq) | [Kembalilah](https://open.spotify.com/album/3TFo7AePEujhDCnBgJCz3g) | 4:17 | 2023-03-16 |  |
+| [Kembalilah](https://open.spotify.com/track/0N0ymlMFvGnEWHPUoMfsET) | [Frelo](https://open.spotify.com/artist/5mdwcqwUZSvgftzx4KGCgq) | [Kembalilah](https://open.spotify.com/album/3TFo7AePEujhDCnBgJCz3g) | 3:51 | 2023-03-16 |  |
 | [Kenal](https://open.spotify.com/track/42Fefg3dc3oO1Q2pkJoQYG) | [Sampurna](https://open.spotify.com/artist/4FPCfg84YUp5CjtcSxQfv4) | [Kenal](https://open.spotify.com/album/0jFvdrRDnWNMnTxqgJSNnW) | 4:42 | 2022-03-04 | 2022-03-18 |
 | [Kenangan dan Kesepian](https://open.spotify.com/track/1YbL9mLjiAqjnyw7MvrrVT) | [Melodi Kursi](https://open.spotify.com/artist/3ZcZgvcg7vJsWBuqoNk5GI) | [Kenangan dan Kesepian](https://open.spotify.com/album/1GqKp7lP03yrLw37xUXOAU) | 3:24 | 2022-11-24 | 2022-12-01 |
 | [Kesimpulan \(Semua Karena Cinta\)](https://open.spotify.com/track/6dkHK8kTwDRWfRsstK4P8X) | [Mutiara Azka](https://open.spotify.com/artist/73t08q7TLi6Jta1BiMGFpz) | [Kesimpulan \(Semua Karena Cinta\)](https://open.spotify.com/album/2CKl3EXdqOMeSPF5oqxTph) | 3:05 | 2023-03-09 | 2023-03-25 |

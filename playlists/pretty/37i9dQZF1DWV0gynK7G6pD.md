@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Klaus Mäkelä
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,949 likes - 79 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,037 likes - 79 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

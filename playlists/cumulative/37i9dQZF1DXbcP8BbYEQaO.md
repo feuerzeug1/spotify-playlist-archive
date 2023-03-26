@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-513 songs - 1 day 5 hr 1 min
+514 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Burn Again](https://open.spotify.com/track/1n0R7zfIgTGKeJOnr6P4uQ) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Burn Again](https://open.spotify.com/album/002riN5oRTYuhXmc89gvgp) | 3:25 | 2022-03-25 | 2022-07-29 |
 | [Burning Bridges \- Initial Talk Remix](https://open.spotify.com/track/2Na24Q9TJRfhtV5Un8AY5d) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [Burning Bridges \(Initial Talk Remix\)](https://open.spotify.com/album/7dVmmOtkUkNFY2WjvTXrMN) | 2:47 | 2021-10-02 | 2022-03-18 |
 | [By Now](https://open.spotify.com/track/10d5yjvKxiSG8mi8xITDLi) | [Ferdinand Schwartz](https://open.spotify.com/artist/1LOUv4mycFtm2iiRHh9I9X) | [By Now](https://open.spotify.com/album/1S0UmhfXiQBTHNdNhYlNVD) | 5:22 | 2020-10-13\* | 2021-07-17 |
+| [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 | 2023-03-24 |  |
 | [By Your Side](https://open.spotify.com/track/1ifz0b6vvbWJCJeAKaWMej) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Lady for Sale](https://open.spotify.com/album/3t0A9s7LtUGzVcXUJZc05U) | 3:58 | 2022-05-06 | 2022-05-11 |
 | [C U](https://open.spotify.com/track/6ImXK5OiLPL2e0KfikOur6) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:00 | 2020-11-18 | 2021-07-10 |
 | [call me when ur lonely](https://open.spotify.com/track/4k8xUKG3DpRKE5Vc7lRUOG) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/6NmidioRUyQc1Bc14mXi5Q) | 2:39 | 2022-07-15 | 2022-10-13 |
@@ -151,7 +152,7 @@
 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 | 2021-12-04 | 2022-04-17 |
 | [Fahrenheit](https://open.spotify.com/track/4KsrNG85gkH4u3daIfZ8w2) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [All In](https://open.spotify.com/album/5ge9X7vQzrKCnaUxvheDYa) | 3:53 | 2021-06-26 | 2021-11-20 |
 | [Fail](https://open.spotify.com/track/4TLxPlXK20ZIeUiQTBPIKO) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Fail](https://open.spotify.com/album/7Dj4sBimF6IHXTuXQAttWJ) | 3:26 | 2022-04-16 | 2022-04-21 |
-| [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 | 2021-10-16 |  |
+| [Fancy](https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fancy](https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG) | 3:11 | 2021-10-16 | 2023-03-26 |
 | [Far Cry](https://open.spotify.com/track/1XbclEPLmGD9jYPzdR4avl) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 4:38 | 2022-03-18 | 2022-09-20 |
 | [Favorite What If](https://open.spotify.com/track/5LLaPfgP7Ssw1v5aKqdkre) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite What If](https://open.spotify.com/album/4MCImCKI5cGdXPMp0wtEpb) | 2:52 | 2021-06-26 | 2021-07-04 |
 | [Fear Of Dying](https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fear Of Dying](https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q) | 3:07 | 2022-02-25 | 2022-04-17 |

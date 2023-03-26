@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ed Sheeran \(pictured\), FLO, Ellie Goulding and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,967 likes - 133 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,048 likes - 133 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 102 | [Brigitte Bardot](https://open.spotify.com/track/5SXpHrcLWFslLm1SsqQyGk) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Brigitte Bardot](https://open.spotify.com/album/5LnOWdpfDJjPmZr4ZFVz2q) | 4:03 |
 | 103 | [The Dance](https://open.spotify.com/track/3je0cCll1v7g30wY83zEAq) | [Emmeline](https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR) | [The Dance](https://open.spotify.com/album/3ykzZWFe95Ritnv0jQD5tO) | 2:25 |
 | 104 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 |
-| 105 | [Off the Bone](https://open.spotify.com/track/3pfgR2KcpGxd3m1BWf9ewa) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc), [Joe Wilson](https://open.spotify.com/artist/5E2yIwiSdXHLQ6vnW54co0) | [Off the Bone](https://open.spotify.com/album/6JGG14AmrKGl32X6tztmEh) | 3:49 |
+| 105 | [Off the Bone](https://open.spotify.com/track/3pfgR2KcpGxd3m1BWf9ewa) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc), [Joe Wilson](https://open.spotify.com/artist/0vtJPjrN1VJP6vsAK30ox1) | [Off the Bone](https://open.spotify.com/album/6JGG14AmrKGl32X6tztmEh) | 3:49 |
 | 106 | [Unravel](https://open.spotify.com/track/4iaGEMYt33g7XRW0XysG5B) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Unravel](https://open.spotify.com/album/2Ag4zs6ShtSHPVcgIZoSeq) | 2:40 |
 | 107 | [Let Go](https://open.spotify.com/track/4vZvJQwSd7dYw6iNr6r5h7) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Let Go](https://open.spotify.com/album/0OLtyGpv64VUc6xIUIGiZf) | 2:38 |
 | 108 | [Static](https://open.spotify.com/track/5rGjTlx22yS7Ju7rAaKQ4T) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Static](https://open.spotify.com/album/2WRa7PUdCRw2rd7gXzJdku) | 3:18 |

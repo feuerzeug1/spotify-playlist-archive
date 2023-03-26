@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Tomii Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,974 likes - 98 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,986 likes - 98 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [醉後 Black Out \(feat\. Tsui Chin Hung\)](https://open.spotify.com/track/2RmxP2Rpuoscz77tasDxst) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Tsui Chin Hung](https://open.spotify.com/artist/4iim34n0M5J5ua3fluGflT) | [Fuo.](https://open.spotify.com/album/6SrVTBtEk4rrESjDbf1S83) | 4:16 |
-| 2 | [live better \- Live](https://open.spotify.com/track/1SKBZtrsuUbMu2uSukIbZB) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [live better \(Live\)](https://open.spotify.com/album/5HrGcG7mIAWeyy0IVr3CF3) | 3:53 |
+| 2 | [live better](https://open.spotify.com/track/1SKBZtrsuUbMu2uSukIbZB) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [live better](https://open.spotify.com/album/5HrGcG7mIAWeyy0IVr3CF3) | 3:53 |
 | 3 | [A380](https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [A380](https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN) | 3:38 |
 | 4 | [lately](https://open.spotify.com/track/2V7Jvf0o9dhCoZ5QswlUoR) | [Isaac Chan](https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV) | [lately](https://open.spotify.com/album/7obFsECkREJyGc90vojKZ5) | 4:23 |
 | 5 | [Peace Of You](https://open.spotify.com/track/13U5ItKPNpnLGQ9k3XZlCb) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW) | [Peace Of You](https://open.spotify.com/album/5UsrOvYQ0j1KRzdl2ArH4w) | 3:19 |

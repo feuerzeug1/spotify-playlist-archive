@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Jimin
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,740 likes - 79 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,750 likes - 79 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 75 | [850 \(We On Top\) \[feat\. Rich The Kid\]](https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [850 \(We On Top\) \[feat\. Rich The Kid\]](https://open.spotify.com/album/0Ow1LzDAS3hCPzGNK9TeOT) | 3:39 |
 | 76 | [lately](https://open.spotify.com/track/2V7Jvf0o9dhCoZ5QswlUoR) | [Isaac Chan](https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV) | [lately](https://open.spotify.com/album/7obFsECkREJyGc90vojKZ5) | 4:23 |
 | 77 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |
-| 78 | [space \(feat\. Teddy Aditya\)](https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC), [Teddy Aditya](https://open.spotify.com/artist/4PTQkIfi5gNNENy976x1gc) | [space](https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k) | 2:30 |
+| 78 | [space \(feat\. Teddy Adhitya\)](https://open.spotify.com/track/7uBfIs0NE7bx88R0obazQ4) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [space](https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k) | 2:30 |
 | 79 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 |
 
 Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDJjZjAzYzJmZTA0MDI0ZGNkMzA1MDMwNGY4OWIzZTUw`

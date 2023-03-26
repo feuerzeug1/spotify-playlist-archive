@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 
 > Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! \(JTBC의 글로벌 아이돌 오디션 '피크타임'의 사운드 트랙과 독점 미공개 영상들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,927 likes - 41 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,134 likes - 41 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RE\-ZERO](https://open.spotify.com/track/1Axfp66kiGBYjU6iWthx7m) | [DIGNITY](https://open.spotify.com/artist/1ltzljGp0ZEnpe9A2zJAY0) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:19 |
+| 1 | [RE\-ZERO](https://open.spotify.com/track/1Axfp66kiGBYjU6iWthx7m) | [DIGNITY](https://open.spotify.com/artist/4JXwnODs4LpQQoZjmJaeNV) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:19 |
 | 2 | [CIRCUIT](https://open.spotify.com/track/2WvsWMrKzoqSJuWIwu6tZB) | [TEAM 2:00](https://open.spotify.com/artist/3BuAOZOiI0qWb5YfG62nxi) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:21 |
 | 3 | [HOLA!](https://open.spotify.com/track/29trjL95k1YM8DfxztI3Ru) | [BXB](https://open.spotify.com/artist/1RPKtMe9eJUQ5maINBW1bP) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:09 |
 | 4 | [TEXT ME \(1052\)](https://open.spotify.com/track/0cJksW6QDYGKaVQ9x7i6uU) | [ATBO](https://open.spotify.com/artist/5PvZwNStF8cgnUmsEMG1h6) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:38 |

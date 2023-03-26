@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Lucas Hill.
 
-361 songs - 22 hr 7 min
+362 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Diente de León](https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [El Perro Feroz](https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0) | 2:20 | 2021-12-24 |  |
 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 | 2021-12-24 |  |
 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 | 2023-03-25 |  |
+| [Día de lluvia en Madrid](https://open.spotify.com/track/39x812j8vdxBQFl0ouhglx) | [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Día de lluvia en Madrid](https://open.spotify.com/album/450jlpZf9Hg5o0w3EpqVqC) | 3:14 | 2023-03-17 |  |
 | [Días Que No Lloro](https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Días Que No Lloro](https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14) | 2:41 | 2022-06-10 | 2022-06-16 |
 | [El Agua Y La Miel / Milagro \(Demo\)](https://open.spotify.com/track/3Ujdh4BxO47sP3pkFxw7lm) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Lo Sagrado](https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg) | 3:58 | 2021-12-24 | 2022-04-29 |
 | [El Alma y el Cuerpo](https://open.spotify.com/track/08dAUY4e3dZeasrZV76hNf) | [Fran Fernández](https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe), [Edel Juárez](https://open.spotify.com/artist/6ms3D0kJqKLA6VOXG2z17J) | [El Alma y el Cuerpo](https://open.spotify.com/album/1sHTegawC3Q6eCe72EgHFy) | 5:02 | 2022-03-07 | 2022-03-12 |
@@ -138,7 +139,7 @@
 | [Fuego](https://open.spotify.com/track/3Oswitzte0cJTr4VMloflx) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Fuego](https://open.spotify.com/album/2FJbtOAdbdLSimMwyY5DKn) | 3:37 | 2021-12-24 | 2022-07-27 |
 | [Fuego](https://open.spotify.com/track/464DSYjNhBCD15Xh0B41rK) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9) | 3:37 | 2022-07-22 | 2022-09-24 |
 | [Fuego](https://open.spotify.com/track/26y3GhxZJ1jR7nDn7lysaF) | [Vera Noor](https://open.spotify.com/artist/1nirixcK3111OAkn0b4V7F) | [Fuego](https://open.spotify.com/album/3nocTBQROt175v5yfP1ANf) | 3:16 | 2022-03-18 | 2022-07-29 |
-| [Fui y Volví](https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Como el Mar](https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY) | 4:05 | 2021-12-24 |  |
+| [Fui y Volví](https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Como el Mar](https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY) | 4:05 | 2021-12-24 | 2023-03-26 |
 | [Galicia \- En Directo en acústico](https://open.spotify.com/track/6YT1amT59hvbSyGfEIJMoX) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW), [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Galicia \(En Directo en acústico\)](https://open.spotify.com/album/38YDdADtWXkULWmitDzYBR) | 6:02 | 2022-07-22 | 2022-08-20 |
 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 | 2022-12-23 | 2023-03-11 |
 | [Green Grass](https://open.spotify.com/track/6neqcz52m0e5YvRZuKacys) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Caliu](https://open.spotify.com/album/5zli6Q5OHFwp7ACOI9bc9z) | 4:05 | 2022-04-01 | 2022-04-20 |

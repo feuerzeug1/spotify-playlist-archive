@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 6866,
+  "num_followers": 6879,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDhhODU2NGU5MWE0ZDdjMzgxZGYyMzA2Mjc3YjY1NDQ3",
+  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDIyMmVhNDkyYWM4ZmQyNzhlNjIyYTUxOTg1ODM3YzAz",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Victim",
-        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
-      },
-      "artists": [
-        {
-          "name": "Mblue",
-          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Victim",
-      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Dog 'n' Bone",
@@ -607,6 +591,22 @@
       "duration_ms": 157426,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
+      },
+      "artists": [
+        {
+          "name": "Mblue",
+          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Good & Gone / The Observer",
-        "url": "https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87"
-      },
-      "artists": [
-        {
-          "name": "K Theory",
-          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
-        }
-      ],
-      "duration_ms": 252284,
-      "name": "Good & Gone - Original Mix",
-      "url": "https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Delta Disco",
         "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 255840,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Good & Gone / The Observer",
+        "url": "https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87"
+      },
+      "artists": [
+        {
+          "name": "K Theory",
+          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
+        }
+      ],
+      "duration_ms": 252284,
+      "name": "Good & Gone - Original Mix",
+      "url": "https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj"
     },
     {
       "added_at": "2022-03-01 20:08:23",

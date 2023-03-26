@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Angie Zelena
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,785 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,787 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 46 | [Yang Tak Mungkin Kembali](https://open.spotify.com/track/1RgNqZtfCQDgxYLE6eV3qH) | [Tasha Bouslama](https://open.spotify.com/artist/1QDSCNOEEgZMBM09n1783e) | [Yang Tak Mungkin Kembali](https://open.spotify.com/album/5YvACAT3r5XRSaDL3FLAnt) | 3:58 |
 | 47 | [Why Don't We Give It a Go](https://open.spotify.com/track/2nJCqMalWSF19uTI4UTnoO) | [Alvin Wardiman](https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt) | [Why Don't We Give It a Go](https://open.spotify.com/album/3rtefsAOFDaiYhpwucpZrH) | 3:37 |
 | 48 | [Jika Bisa Kulupa](https://open.spotify.com/track/65GndBH8JO8V0fVLtDScC7) | [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Jika Bisa Kulupa](https://open.spotify.com/album/5GhMVtktt3q2tj2o0tecL2) | 3:26 |
-| 49 | [Kembalilah](https://open.spotify.com/track/0N0ymlMFvGnEWHPUoMfsET) | [Frelo](https://open.spotify.com/artist/5mdwcqwUZSvgftzx4KGCgq) | [Kembalilah](https://open.spotify.com/album/3TFo7AePEujhDCnBgJCz3g) | 4:17 |
+| 49 | [Kembalilah](https://open.spotify.com/track/0N0ymlMFvGnEWHPUoMfsET) | [Frelo](https://open.spotify.com/artist/5mdwcqwUZSvgftzx4KGCgq) | [Kembalilah](https://open.spotify.com/album/3TFo7AePEujhDCnBgJCz3g) | 3:51 |
 | 50 | [Pendam Sendiri](https://open.spotify.com/track/7IAxfgkluVQZvuhLmsDOLK) | [Raracellina](https://open.spotify.com/artist/4c35lGsLbwUTvQzGZxb2iI) | [Pendam Sendiri](https://open.spotify.com/album/5lLSNwwO7BaJARFHH52CcW) | 4:06 |
 | 51 | [15:19](https://open.spotify.com/track/0m83OBrkCbEWW8b3OyMdAU) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [15:19](https://open.spotify.com/album/7uNjWAjBC5gjSj57v1kPj3) | 3:00 |
 | 52 | [Gentle Blues](https://open.spotify.com/track/1j88mpQqoRSH6dS9qTI42t) | [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Gentle Blues](https://open.spotify.com/album/7hyr1hyWYIvRVUKBmj4NAI) | 4:14 |

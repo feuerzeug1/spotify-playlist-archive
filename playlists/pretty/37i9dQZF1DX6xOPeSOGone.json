@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3578577,
+  "num_followers": 3578979,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMDJiMWJkOGM2NjM1MGY2YWE4MWQ4OTY5OGViYjBhYWZj",
+  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMDc2MTFiMjJiMTM0ZTZlZGRmMzI2NzM1MGRhYTJmNTgw",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 262906,
-      "name": "You're the Only Woman - You & I",
-      "url": "https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "What's Wrong with This Picture?",
         "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 264893,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 262906,
+      "name": "You're the Only Woman - You & I",
+      "url": "https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Robbie Dupree",
-        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 221432,
-      "name": "Hot Rod Hearts - Remastered",
-      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "George Harrison",
         "url": "https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 276213,
       "name": "Love Comes To Everyone - 2004 Remaster",
       "url": "https://open.spotify.com/track/4ocIOYjSD4DzePZsiDWJXD"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Robbie Dupree",
+        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
+      },
+      "artists": [
+        {
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
+        }
+      ],
+      "duration_ms": 221432,
+      "name": "Hot Rod Hearts - Remastered",
+      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 270333,
-      "name": "Fountain Of Sorrow",
-      "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Arc Of A Diver",
         "url": "https://open.spotify.com/album/6st1dtm8abvdd1S9vWLUQL"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Larsen/Feiten Band",
-        "url": "https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB"
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
       "artists": [
         {
-          "name": "Larsen/Feiten Band",
-          "url": "https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB"
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 252666,
-      "name": "Who'll Be the Fool Tonight",
-      "url": "https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1"
+      "duration_ms": 270333,
+      "name": "Fountain Of Sorrow",
+      "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "Larsen/Feiten Band",
+        "url": "https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB"
+      },
+      "artists": [
+        {
+          "name": "Larsen/Feiten Band",
+          "url": "https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Who'll Be the Fool Tonight",
+      "url": "https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "Bish",
         "url": "https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm"
       },
@@ -1167,50 +1167,50 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Pages",
-        "url": "https://open.spotify.com/album/3jq51cWLTtOgUN7x44fKvp"
+        "name": "Whatever Happened to Benny Santini",
+        "url": "https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL"
       },
       "artists": [
         {
-          "name": "Pages",
-          "url": "https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u"
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
         }
       ],
-      "duration_ms": 223160,
-      "name": "You Need A Hero",
-      "url": "https://open.spotify.com/track/5xnOk0gOwfhfnEY6cfYo5B"
+      "duration_ms": 259226,
+      "name": "Whatever Happened to Benny Santini?",
+      "url": "https://open.spotify.com/track/4wp9wsxVwiEDaKbhDKIZIK"
     },
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Another Year",
-        "url": "https://open.spotify.com/album/2p2kou1Eo0lr9dADvLfjn7"
+        "name": "Goodbye Girl",
+        "url": "https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd"
       },
       "artists": [
         {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+          "name": "David Gates",
+          "url": "https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW"
         }
       ],
-      "duration_ms": 253653,
-      "name": "Moonlighting",
-      "url": "https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9"
+      "duration_ms": 187840,
+      "name": "Never Let Her Go",
+      "url": "https://open.spotify.com/track/2b8ja3uL8fPS0ozNfjV15p"
     },
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Ennismore",
-        "url": "https://open.spotify.com/album/6PNrEWf5qDyRIPUSFC0poI"
+        "name": "Blue Desert",
+        "url": "https://open.spotify.com/album/6qSJ3fzXH9d3AWfuhbNcf6"
       },
       "artists": [
         {
-          "name": "Colin Blunstone",
-          "url": "https://open.spotify.com/artist/27DCwiPx5ocQsf4K43SlIL"
+          "name": "Marc Jordan",
+          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
         }
       ],
-      "duration_ms": 181026,
-      "name": "I Don't Believe In Miracles",
-      "url": "https://open.spotify.com/track/4a0z0XNi6gPXZczkXUaP7w"
+      "duration_ms": 227000,
+      "name": "I'm a Camera",
+      "url": "https://open.spotify.com/track/6XbA5gVGJlza8v7ebAbUZ1"
     }
   ],
   "unique_name": "Soft Rock",

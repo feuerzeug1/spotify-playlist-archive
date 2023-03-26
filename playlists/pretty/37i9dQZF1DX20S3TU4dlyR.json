@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 51176,
+  "num_followers": 51192,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwOTMyMCwwMDAwMDAwMDU5NmJkNTE4YzE3NGZjODE4ODg2NDcwN2Y3YmMzMzM4",
+  "snapshot_id": "MTY3ODQwOTMyMCwwMDAwMDAwMDE2ZWNkM2VjZjhjZGIwZDFhYTg0MTM0NmYxN2YyYzMw",
   "tracks": [
     {
       "added_at": "2023-03-10 00:48:40",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-03-10 00:48:40",
       "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "International Love",
+      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
+    },
+    {
+      "added_at": "2023-03-10 00:48:40",
+      "album": {
         "name": "Pupilas Lejanas",
         "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 226000,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
-    },
-    {
-      "added_at": "2023-03-10 00:48:40",
-      "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "International Love",
-      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
     },
     {
       "added_at": "2023-03-10 00:48:40",
@@ -575,6 +575,26 @@
     {
       "added_at": "2023-03-10 00:48:40",
       "album": {
+        "name": "Seguirla",
+        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
+      },
+      "artists": [
+        {
+          "name": "Gaspar OM",
+          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 191776,
+      "name": "Seguirla",
+      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
+    },
+    {
+      "added_at": "2023-03-10 00:48:40",
+      "album": {
         "name": "Hasta Que Me Olvides",
         "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 243085,
       "name": "Don't Speak - Reggae Version",
       "url": "https://open.spotify.com/track/4fNcaiS9FUUjpznbSeVmqN"
-    },
-    {
-      "added_at": "2023-03-10 00:48:40",
-      "album": {
-        "name": "Seguirla",
-        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
-      },
-      "artists": [
-        {
-          "name": "Gaspar OM",
-          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 191776,
-      "name": "Seguirla",
-      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
     },
     {
       "added_at": "2023-03-10 00:48:40",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2023-03-10 00:48:40",
       "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+        "name": "\u00c1ngel Del Pasado",
+        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+      "duration_ms": 246857,
+      "name": "\u00c1ngel Del Pasado",
+      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
     },
     {
       "added_at": "2023-03-10 00:48:40",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-03-10 00:48:40",
       "album": {
+        "name": "Portal De Luz",
+        "url": "https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 259140,
+      "name": "Portal De Luz",
+      "url": "https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ"
+    },
+    {
+      "added_at": "2023-03-10 00:48:40",
+      "album": {
         "name": "Amor De Barrio",
         "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 267666,
       "name": "Lo Que Dicta El Tiempo",
       "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
-    },
-    {
-      "added_at": "2023-03-10 00:48:40",
-      "album": {
-        "name": "Sergio Colombo Presenta el Natty Combo",
-        "url": "https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 349280,
-      "name": "La Pipa",
-      "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
     },
     {
       "added_at": "2023-03-10 00:48:40",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-03-10 00:48:40",
       "album": {
+        "name": "Sergio Colombo Presenta el Natty Combo",
+        "url": "https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 349280,
+      "name": "La Pipa",
+      "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
+    },
+    {
+      "added_at": "2023-03-10 00:48:40",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-03-10 00:48:40",
       "album": {
-        "name": "Portal De Luz",
-        "url": "https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw"
-      },
-      "artists": [
-        {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
-        }
-      ],
-      "duration_ms": 259140,
-      "name": "Portal De Luz",
-      "url": "https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ"
-    },
-    {
-      "added_at": "2023-03-10 00:48:40",
-      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2023-03-10 00:48:40",
       "album": {
-        "name": "\u00c1ngel Del Pasado",
-        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
       "artists": [
         {
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 246857,
-      "name": "\u00c1ngel Del Pasado",
-      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
     },
     {
       "added_at": "2023-03-10 00:48:40",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-03-10 00:48:40",
       "album": {
-        "name": "Mentiras Lado B",
-        "url": "https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 168937,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0"
-    },
-    {
-      "added_at": "2023-03-10 00:48:40",
-      "album": {
         "name": "Flores y Burbujas",
         "url": "https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 304426,
       "name": "Flores y Burbujas",
       "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
+    },
+    {
+      "added_at": "2023-03-10 00:48:40",
+      "album": {
+        "name": "Mentiras Lado B",
+        "url": "https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 168937,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0"
     },
     {
       "added_at": "2023-03-10 00:48:40",

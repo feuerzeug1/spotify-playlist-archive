@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic music from Electronica to Techno. Cover: Kevin de Vries",
-  "num_followers": 578998,
+  "num_followers": 579174,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
@@ -220,12 +220,12 @@
       },
       "artists": [
         {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        },
-        {
           "name": "Indira Paganotto",
           "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
         }
       ],
       "duration_ms": 343693,

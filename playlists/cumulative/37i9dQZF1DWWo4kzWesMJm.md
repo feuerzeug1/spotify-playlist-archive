@@ -2,7 +2,7 @@
 
 ### [Bleu Blanc Route](https://open.spotify.com/playlist/37i9dQZF1DWWo4kzWesMJm)
 
-> L'autoroute des tubes français !
+> Les meilleurs airs d'autoroute.
 
 88 songs - 5 hr 12 min
 

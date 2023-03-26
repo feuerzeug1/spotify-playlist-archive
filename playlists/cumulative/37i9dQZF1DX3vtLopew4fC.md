@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume – co\-curated by LU KALA for International Women's Day.
 
-736 songs - 1 day 14 hr 46 min
+737 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Here You Come Again](https://open.spotify.com/track/2G4d3c2UzPOMdV2MZsrNFc) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Here You Come Again](https://open.spotify.com/album/6fZISlxdQZs9Kd4bc8ZdAY) | 2:51 | 2023-01-04 | 2023-02-02 |
 | [Hey Cowboy](https://open.spotify.com/track/5FfgLIooERZ7rcNcwxAcdF) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Hey Cowboy](https://open.spotify.com/album/17wY9BVWaZncYiZBleCcJX) | 3:07 | 2022-11-09 | 2022-12-01 |
 | [Hey Mama](https://open.spotify.com/track/4ZLxc4XwUQni9pYyHI1Je5) | [Kyla Charter](https://open.spotify.com/artist/7wzZ8mQWZVqlMRVoctu4Z9) | [Hey Mama](https://open.spotify.com/album/0HDUISzJGl5h13H4AO4mFm) | 3:14 | 2022-06-01 | 2022-07-07 |
-| [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-03-01 |  |
+| [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-01 |  |
+| [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-03-01 | 2023-03-26 |
 | [High & Choking, Pt\. 1](https://open.spotify.com/track/2anDfzfVPHRHjfJz8UsOHq) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [High & Choking / Chains](https://open.spotify.com/album/4Y07bfqiny3326X8EPB1KF) | 3:05 | 2022-02-02 | 2022-03-09 |
 | [High Waves](https://open.spotify.com/track/1LM6Z1AbUdvT84MC2mFm2P) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw) | [Chung Shui](https://open.spotify.com/album/71M5kWhRglaMXjbyLzxvRM) | 2:20 | 2022-02-02 | 2022-03-09 |
 | [his sweater](https://open.spotify.com/track/0La9XmPkPRhGARB7zXfaEd) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [his sweater](https://open.spotify.com/album/24Q2QnYeG30KzsXygkQz8v) | 2:41 | 2022-05-12 | 2022-06-01 |

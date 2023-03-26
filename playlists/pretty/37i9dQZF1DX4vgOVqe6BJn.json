@@ -1,12 +1,12 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 145922,
+  "num_followers": 146223,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2NTc4NCwwMDAwMDAwMGQ5MzlmYzlmMTg4MjlhODQzZmU3YWVhOTk2NGU4ZWQ1",
+  "snapshot_id": "MTY3NDY2NTc4NCwwMDAwMDAwMGQxYmY4ZGJmOWRkMDJhMGUyMDdkOTE1NmMwMDk0MGNk",
   "tracks": [
     {
       "added_at": "2022-09-22 12:56:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "Melt My Eyez See Your Future",
-        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Zatoichi [Feat. slowthai]",
-      "url": "https://open.spotify.com/track/7jn0ATNNqtWgDk8wLYa3gw"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
         "name": "6AM",
         "url": "https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 146084,
       "name": "Wanna Stay (feat. Dear Sunday)",
       "url": "https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "Melt My Eyez See Your Future",
+        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Zatoichi [Feat. slowthai]",
+      "url": "https://open.spotify.com/track/7jn0ATNNqtWgDk8wLYa3gw"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 125312,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
         "name": "As Above, So Below",
         "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 234480,
       "name": "Let Me Be Great [Feat. Ang\u00e9lique Kidjo]",
       "url": "https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 125312,
-      "name": "Pedi",
-      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk"
     },
     {
-      "added_at": "2023-03-25 00:58:03",
+      "added_at": "2023-03-26 01:07:37",
       "album": {
         "name": "Rice",
         "url": "https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ"
@@ -915,22 +915,6 @@
       "duration_ms": 159616,
       "name": "Rice",
       "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
-    },
-    {
-      "added_at": "2022-09-26 20:53:09",
-      "album": {
-        "name": "Prettier Than You",
-        "url": "https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 202093,
-      "name": "Prettier Than You",
-      "url": "https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -963,6 +947,22 @@
       "duration_ms": 186081,
       "name": "Run Run",
       "url": "https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB"
+    },
+    {
+      "added_at": "2022-09-26 20:53:09",
+      "album": {
+        "name": "Prettier Than You",
+        "url": "https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 202093,
+      "name": "Prettier Than You",
+      "url": "https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/4RBAFTTsu4cWZYkc3HXvvJ"
-      },
-      "artists": [
-        {
-          "name": "Harry Stone",
-          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/2wPc15A83OnyE9QarVRpqA"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
         "name": "Club Azur",
         "url": "https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 224120,
       "name": "People (with The Knocks)",
       "url": "https://open.spotify.com/track/3ZTsdSVrRJCTOnuXHpHK0w"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4RBAFTTsu4cWZYkc3HXvvJ"
+      },
+      "artists": [
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/2wPc15A83OnyE9QarVRpqA"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
+        "name": "Wolves of Africa (Part 1/2)",
+        "url": "https://open.spotify.com/album/221gN8YGCd9AvgolHsd2eC"
+      },
+      "artists": [
+        {
+          "name": "James BKS",
+          "url": "https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV"
+        },
+        {
+          "name": "The Big Hash",
+          "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
+        }
+      ],
+      "duration_ms": 159324,
+      "name": "High Level",
+      "url": "https://open.spotify.com/track/7kdDzuTex0Z84GMcH98l4E"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
         "name": "What I Breathe",
         "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 184403,
       "name": "Times Change",
       "url": "https://open.spotify.com/track/0aoEwfCRcCSe4HKgdSGPXp"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
-        "name": "Wolves of Africa (Part 1/2)",
-        "url": "https://open.spotify.com/album/221gN8YGCd9AvgolHsd2eC"
-      },
-      "artists": [
-        {
-          "name": "James BKS",
-          "url": "https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV"
-        },
-        {
-          "name": "The Big Hash",
-          "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
-        }
-      ],
-      "duration_ms": 159324,
-      "name": "High Level",
-      "url": "https://open.spotify.com/track/7kdDzuTex0Z84GMcH98l4E"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/04ib8lMhGT6avUwxcT2CDE"
-      },
-      "artists": [
-        {
-          "name": "LODATO",
-          "url": "https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv"
-        },
-        {
-          "name": "Janice Robinson",
-          "url": "https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/0IPYNDq06pcjd2lybZKNPo"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
         "name": "monarch",
         "url": "https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 155590,
       "name": "i'm not okay",
       "url": "https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/04ib8lMhGT6avUwxcT2CDE"
+      },
+      "artists": [
+        {
+          "name": "LODATO",
+          "url": "https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv"
+        },
+        {
+          "name": "Janice Robinson",
+          "url": "https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/0IPYNDq06pcjd2lybZKNPo"
     },
     {
       "added_at": "2022-09-22 12:56:00",

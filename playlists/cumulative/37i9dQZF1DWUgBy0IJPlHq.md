@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Lukas Nelson
 
-422 songs - 1 day 2 hr 1 min
+423 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Celebrants](https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:23 | 2023-03-24 |  |
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-12-17 | 2022-01-15 |
 | [Change Of Heart](https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Change Of Heart](https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3) | 4:03 | 2022-09-23 | 2023-02-04 |
-| [Change Of Heart](https://open.spotify.com/track/1t4mMKc8eqxWwfYD8YtuT2) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart](https://open.spotify.com/album/6UrqZ5ZhjJRBA2LcyaXxOc) | 3:43 | 2023-03-17 |  |
+| [Change Of Heart](https://open.spotify.com/track/1t4mMKc8eqxWwfYD8YtuT2) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart](https://open.spotify.com/album/6UrqZ5ZhjJRBA2LcyaXxOc) | 3:43 | 2023-03-17 | 2023-03-26 |
+| [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/track/3RMBqywLJEMrNIcFeasnme) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/album/230BtBKWaVO3EkDhfyk3MB) | 3:43 | 2023-03-24 |  |
 | [Chardonnay](https://open.spotify.com/track/1LlQ30lScv3YHBzR5jvots) | [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Chardonnay](https://open.spotify.com/album/5SiECrkoCVi2EYPOj2Y2ct) | 4:19 | 2021-12-17 | 2022-03-18 |
 | [Cheap Seats](https://open.spotify.com/track/5AnsnQkwnkPf2kxj05ZMlK) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [American Siren](https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn) | 4:04 | 2021-12-17 | 2022-09-24 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-05-28 |

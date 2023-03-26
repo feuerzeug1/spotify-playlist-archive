@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,033 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,085 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 55 | [Bank Statements & Deposits](https://open.spotify.com/track/3lUWtFnYFaKDalzuRATbJp) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Bank Statements & Deposits](https://open.spotify.com/album/1iA7aLQ2QmaJtg75WgVS93) | 2:41 |
 | 56 | [Where Would I Be](https://open.spotify.com/track/1pExjTeIPJsPj26mpJOofO) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Recovery](https://open.spotify.com/album/4IKYFT82MQSmLwoz7gW6YT) | 2:02 |
 | 57 | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk) | 3:27 |
-| 58 | [Home Confinement](https://open.spotify.com/track/2X7wRcHcXWAKZQA4jmtEsM) | [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [Home Confinement](https://open.spotify.com/album/44c4kyJ4lyuV70ScTrOwbx) | 2:24 |
+| 58 | [Home Confinement \- Home Confinement \(Explicit Stereo\)](https://open.spotify.com/track/2X7wRcHcXWAKZQA4jmtEsM) | [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [Home Confinement](https://open.spotify.com/album/44c4kyJ4lyuV70ScTrOwbx) | 2:24 |
 | 59 | [Two in One](https://open.spotify.com/track/3EHQxxp6ronM53JLvD0PVO) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Two in One](https://open.spotify.com/album/1Ynyn03pZHQoDcHkL0lUv0) | 2:25 |
 | 60 | [Finsta \(feat\. Big Boogie\)](https://open.spotify.com/track/549FVHJDMSppqOQYg0hvdt) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Finsta \(feat\. Big Boogie\)](https://open.spotify.com/album/6vefuCd9t3K2Vwj9fNj1fG) | 3:20 |
 | 61 | [Oowee](https://open.spotify.com/track/3KK7yTK1jSDXLPKDGEsc7c) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Oowee](https://open.spotify.com/album/5IUYuj8QpII4Ve2X8rXoLo) | 3:04 |

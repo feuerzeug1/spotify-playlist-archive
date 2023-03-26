@@ -1,12 +1,12 @@
 {
   "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: Young Miko",
-  "num_followers": 126205,
+  "num_followers": 126228,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyMDEwOSwwMDAwMDAwMGQ5ZDgwYzdhZGZkOGIwMGRjNDZhMzI4NTdhMDY1N2Vl",
+  "snapshot_id": "MTY3ODgyMDEwOSwwMDAwMDAwMGM2MjZlZjI5MjBkMjljOWE4ZGUyYjFlNDAwOWJhNTU4",
   "tracks": [
     {
       "added_at": "2023-03-14 18:55:09",
@@ -507,22 +507,18 @@
     {
       "added_at": "2023-03-14 18:55:09",
       "album": {
-        "name": "Querer Querer",
-        "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
+        "name": "no cambies tu andar",
+        "url": "https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1"
       },
       "artists": [
         {
-          "name": "Tessa Ia",
-          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
-        },
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
         }
       ],
-      "duration_ms": 207572,
-      "name": "Querer Querer",
-      "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
+      "duration_ms": 196571,
+      "name": "no cambies tu andar",
+      "url": "https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J"
     },
     {
       "added_at": "2023-03-14 18:55:09",
@@ -543,18 +539,22 @@
     {
       "added_at": "2023-03-14 18:55:09",
       "album": {
-        "name": "no cambies tu andar",
-        "url": "https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1"
+        "name": "Querer Querer",
+        "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
       },
       "artists": [
         {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        },
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
         }
       ],
-      "duration_ms": 196571,
-      "name": "no cambies tu andar",
-      "url": "https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J"
+      "duration_ms": 207572,
+      "name": "Querer Querer",
+      "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
     },
     {
       "added_at": "2023-03-14 18:55:09",

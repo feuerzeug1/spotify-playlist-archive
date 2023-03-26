@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,137 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,195 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -452,7 +452,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 442 | [Abraka](https://open.spotify.com/track/4BmmJEl6WaB0B4jcTAxl0E) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3) | 4:26 |
 | 443 | [Ungena Za Ulimwengu \(Unite The World\)](https://open.spotify.com/track/6AkLY10RHXu6U7808L6reG) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [Face To Face With The Truth](https://open.spotify.com/album/4ZswFiADrD5jIg1Y5Eu7cc) | 8:51 |
 | 444 | [Good Day](https://open.spotify.com/track/3eyJ96DvcqxFiuq9Shq4gc) | [Walter Gavitt Ferguson](https://open.spotify.com/artist/4bbfV7YYUAwzzz6NFb2fNB) | [King of Calypso Limonense \(The Legendary Tape Recordings, Vol​.​1\)](https://open.spotify.com/album/5NtaY6RCEG2LVZ24bWMMVN) | 2:07 |
-| 445 | [Forest Nativity](https://open.spotify.com/track/4kB74XFE2Lp4NVxZUBg0Yy) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Psychedelic Sanza \(1982\-1984\)](https://open.spotify.com/album/76JTu51TbKCpDOcjIEXEV3) | 4:23 |
+| 445 | [Forest Nativity](https://open.spotify.com/track/59R57D4dMujj4Zz411KM27) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Psychedelic Sanza](https://open.spotify.com/album/3hhI4WjM655ryg6aHjqzp4) | 4:23 |
 | 446 | [Simini\-Yaga](https://open.spotify.com/track/2cPyVJswRAV0gE6rOLAdnZ) | [Collins Oke Elaiho and His Odologie Nobles Dance Band](https://open.spotify.com/artist/5bnRopFR6okUHPVhXy4e9x) | [Simini\-Yaga](https://open.spotify.com/album/7eLnOJF68kfu8gVWiqeDtR) | 3:40 |
 | 447 | [Ponte Bajo el Sol](https://open.spotify.com/track/68VLwvaAeCAs1QTSazcr8q) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [La Onda de Elia y Elizabeth](https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX) | 2:06 |
 | 448 | [Senta a Pua](https://open.spotify.com/track/1NUe6Ug4XuweGs8yppkLSd) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Som, Amor, Trabalho e Progresso / Senta a Pua](https://open.spotify.com/album/7LQlrwySZaLzijawGhtSJY) | 2:34 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMGRjYzlhMGViMjc1YWM3NDc3YmQ5Y2ZlYjc3ZjVmZmEz`
+Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDIyYWRlYmI2ZDE0YTI2Yzc5OTJjOTA3ZDE4Mjg1OGU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Tiny Habits \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,163 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,205 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 27 | [Something in the Stars](https://open.spotify.com/track/1n2kRJqaNEz7wGtvWJj2gh) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [Something in the Stars](https://open.spotify.com/album/49VdbC7FSIMCdTfnaLp7qr) | 4:55 |
 | 28 | [Heart In The Water](https://open.spotify.com/track/7dDCYIuw6YUvcO1nzl8hP5) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Heart In The Water](https://open.spotify.com/album/5Uie78uNFG2u2VTVBA8ckG) | 3:23 |
 | 29 | [not to catch you by surprise](https://open.spotify.com/track/6OxZfLEPTdfMg3vo0Hb2oI) | [Portra](https://open.spotify.com/artist/6pkTpw086gZWWdx3guBUCe) | [not to catch you by surprise](https://open.spotify.com/album/66pqVTjXkiblOMQ45immiv) | 3:21 |
-| 30 | [Yer Time'll Come](https://open.spotify.com/track/0ebR7XgjrUBOHdM6xGioOp) | [Andrew Gabbard](https://open.spotify.com/artist/34q6xZrTKUR0YIrDxlIdU6) | [Yer Time'll Come](https://open.spotify.com/album/28EAaiC0JOfuILtaMnPMLm) | 4:05 |
+| 30 | [Yer Time'll Come](https://open.spotify.com/track/6R3q36NLBSLsrt0sdEraFQ) | [Andrew Gabbard](https://open.spotify.com/artist/34q6xZrTKUR0YIrDxlIdU6) | [Cedar City Sweetheart](https://open.spotify.com/album/1K94PNMQvRP63zFZMQq8jN) | 4:05 |
 | 31 | [Slow It Down Cowboy](https://open.spotify.com/track/1cTgJD1tvxXTmxJm4OjHj1) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Slow It Down Cowboy](https://open.spotify.com/album/2c0hi3ox1DBdF1u6OXGS6e) | 3:41 |
 | 32 | [She Still Sings](https://open.spotify.com/track/48osuvPh1naznY9iqrx9El) | [Lady Moon](https://open.spotify.com/artist/4NMxUgqHqC9XlgSRGqqrqc) | [She Still Sings](https://open.spotify.com/album/4ieDJd01azRVp3PHbychPJ) | 3:48 |
 | 33 | [Crossed Paths](https://open.spotify.com/track/13e0ZH44yMl5zMiFwTGXUD) | [Nydia Gonzalez](https://open.spotify.com/artist/3nH2RqalRI5Nf4WqQl51pI) | [Nydia Gonzalez](https://open.spotify.com/album/5KC0wppjb7Vz9PtvLtoZFP) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Tuesday](https://open.spotify.com/track/2q8zxeRrvQa8ZTnlcamkVO) | [Mary Elizabeth Remington](https://open.spotify.com/artist/1OpHneno1p46i9jXB1Vk6T) | [In Embudo](https://open.spotify.com/album/3b0EBKuiYUmmpBevbOcRZZ) | 4:01 |
 | 100 | [dickhead blues](https://open.spotify.com/track/0b1MDxh1MD1dwHs3nczuW7) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [dickhead blues / brain](https://open.spotify.com/album/27VaG4zOTs26E4CavIht7R) | 5:25 |
 
-Snapshot ID: `MTY3OTUwNDU3OCwwMDAwMDAwMDc5NzRjMzkyMjEyZDczNWVhMjA5M2MxOTliODcyNTMy`
+Snapshot ID: `MTY3OTUwNDU3OCwwMDAwMDAwMGViODg2YmM0N2RlNzAwZTdhZTFjNmNhZTJkZjhhZDk5`

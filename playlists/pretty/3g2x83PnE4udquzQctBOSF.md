@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 
 > Our weekly selection is here ⚡️
 
-[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,198 likes - 30 songs - 1 hr 42 min
+[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,200 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 | 20 | [Promise](https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Promise](https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK) | 2:37 |
 | 21 | [symphonia.](https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:52 |
 | 22 | [All My Dogs](https://open.spotify.com/track/6VBvc1SHws6dNgVHNYRsVu) | [Felipe Fella](https://open.spotify.com/artist/4fINHdoufNssJ32yLC3NsK), [cesco.](https://open.spotify.com/artist/1KVp24r2N0WPNNa7HSh0OG) | [Welcome to Hell II](https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz) | 3:15 |
-| 23 | [Ferda](https://open.spotify.com/track/4OmDuXbT6ik5kHvzuKAAEw) | [Avenue](https://open.spotify.com/artist/593tl1pc0kps0wJkyn08O3), [Sadyouth](https://open.spotify.com/artist/5LGSEONWZJAypWMrt0yDnx) | [Ferda](https://open.spotify.com/album/6F1ehz6wqX9Cxrg3jidwtW) | 3:46 |
+| 23 | [Ferda](https://open.spotify.com/track/4OmDuXbT6ik5kHvzuKAAEw) | [Avenue](https://open.spotify.com/artist/593tl1pc0kps0wJkyn08O3), [SADYOUTH](https://open.spotify.com/artist/5LGSEONWZJAypWMrt0yDnx) | [Ferda](https://open.spotify.com/album/6F1ehz6wqX9Cxrg3jidwtW) | 3:46 |
 | 24 | [Bronx](https://open.spotify.com/track/5oWXxAqoHGY96OnwzmdHdH) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Indigo](https://open.spotify.com/album/5BFu1tFCVsVvTn6gvU3WRo) | 3:03 |
 | 25 | [Abra](https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Abra](https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH) | 2:35 |
 | 26 | [VIP Section](https://open.spotify.com/track/2fRPAxlfizmSKUwfGZZjNk) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [VIP Section](https://open.spotify.com/album/0T0imnIgVVMxIMJnAvJk5f) | 3:26 |

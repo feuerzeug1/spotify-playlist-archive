@@ -4,10 +4,11 @@
 
 > Indie soul that's highkey fire
 
-337 songs - 18 hr 54 min
+338 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [& That's Alright](https://open.spotify.com/track/1ASixBTwRxUPMVXQ1E4vVC) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Comfortable Enough](https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp) | 3:01 | 2023-03-17 |  |
 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 | 2021-12-15 | 2022-04-08 |
 | [311 \(with Gwen Bunn\)](https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:31 | 2023-03-03 |  |
 | [69 Camaro](https://open.spotify.com/track/50S52c98UbsIIiG0F1uyat) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SUGA](https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL) | 2:34 | 2022-09-29 | 2022-10-13 |
@@ -132,7 +133,7 @@
 | [I Love Being Invisible](https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [I Love Being Invisible](https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI) | 3:01 | 2023-03-17 |  |
 | [I Miss My Dawgs](https://open.spotify.com/track/1nkWeF77qk4RkLpn4omPWL) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [I Miss My Dawgs](https://open.spotify.com/album/0sUDfuTYoVshMqFstFSrNz) | 2:22 | 2022-06-30 | 2022-10-13 |
 | [I Miss My Dawgs](https://open.spotify.com/track/37HoJKXTnuru9ZPBmduLZ0) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [I Miss My Dawgs](https://open.spotify.com/album/7KWwx7xR4GcwlngBP2Wyop) | 2:22 | 2021-12-15 | 2022-07-29 |
-| [I Miss My Dawgs](https://open.spotify.com/track/4TGr7DABbGcswqRBbsgVGo) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [I Miss My Dawgs](https://open.spotify.com/album/4LD60CxKu26yXwCWDcupau) | 2:22 | 2023-01-12 |  |
+| [I Miss My Dawgs](https://open.spotify.com/track/4TGr7DABbGcswqRBbsgVGo) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [I Miss My Dawgs](https://open.spotify.com/album/4LD60CxKu26yXwCWDcupau) | 2:22 | 2023-01-12 | 2023-03-26 |
 | [i only want you when i'm fucked up](https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/66rUUFDt246hX2JYzZpfOK) | 3:52 | 2021-12-15 | 2022-07-29 |
 | [I Revel in You](https://open.spotify.com/track/2e4bpRLZAQm572Oej0Uhzl) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [I Revel in You](https://open.spotify.com/album/0ET7giQLXh0tebl8pESXkn) | 3:33 | 2021-12-15 | 2022-04-21 |
 | [I Think You Should Know](https://open.spotify.com/track/0MRCdC2CM5hDqX0udNEuBr) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [I Think You Should Know](https://open.spotify.com/album/6sJQvH4jUungjzE4P0wHIy) | 3:21 | 2021-12-15 | 2022-07-29 |

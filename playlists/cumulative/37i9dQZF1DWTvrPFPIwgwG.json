@@ -1657,6 +1657,28 @@
     },
     {
       "album": {
+        "name": "Passeio na Tempestade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/565Cc2sAwnRsWvr7JISvUE"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Passeio na Tempestade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2G6kaL885jTxXLqEEbqlrB"
+    },
+    {
+      "album": {
         "name": "Planos",
         "url": "https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl"
       },

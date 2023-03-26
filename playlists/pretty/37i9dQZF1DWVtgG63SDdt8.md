@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Blande  a.k.a\. <a href="https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0?si=lT1wzn6tTV604S4xgYVf6Q">Wande</a> :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,434 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,618 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 11 | [Big God](https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Big God](https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1) | 3:11 |
 | 12 | [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 |
 | 13 | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV) | 9:58 |
-| 14 | [eyes locked on the King](https://open.spotify.com/track/19Jl5Q60tGlp0aNBUIMnzO) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [eyes locked on the King](https://open.spotify.com/album/1Ckja7f8E9XFFfqVPu9ohP) | 4:21 |
+| 14 | [eyes locked on the king](https://open.spotify.com/track/19Jl5Q60tGlp0aNBUIMnzO) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [eyes locked on the king](https://open.spotify.com/album/1Ckja7f8E9XFFfqVPu9ohP) | 4:21 |
 | 15 | [The Rock](https://open.spotify.com/track/3OLV0YgL61iJLi5Emuj4jv) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [The Rock](https://open.spotify.com/album/40rYT8ALo7VLv6ZM3P7gXA) | 3:48 |
 | 16 | [Watch Him Turn It \(NYE Live\) \[feat\. Shomoneik\]](https://open.spotify.com/track/2zuOJKwL1XsKtN0yyd4BpO) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Shomoneik](https://open.spotify.com/artist/0rMMkFdHrKidahS2Yg2GeC) | [Watch Him Turn It \(NYE Live\) \[feat\. Shomoneik\]](https://open.spotify.com/album/7w7ME5DOT5DMwNWp0F0SsU) | 4:29 |
 | 17 | [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,078 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,085 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 53 | [Huellas](https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Laguna](https://open.spotify.com/artist/1QE4donXdF3zWVjSXm9nd1), [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Huellas](https://open.spotify.com/album/2h9Vvbub3Vjtcc28F8NuRG) | 3:48 |
 | 54 | [Shadows](https://open.spotify.com/track/4FmMrvogUG8GxzyJSuRbGv) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Atmën](https://open.spotify.com/artist/1Yhyrgpjks2m1yI2c7aIZf), [MaQui](https://open.spotify.com/artist/0LiSEfi7u1vXziSuYH6l2q) | [Shadows](https://open.spotify.com/album/1fRYEitkWXzm7eahpzX0ll) | 3:10 |
 | 55 | [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 |
-| 56 | [Inside Out](https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Benlon](https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls), [Sharpz](https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4) | [Inside Out](https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF) | 2:54 |
-| 57 | [¿De Quén Chon? \- Remix](https://open.spotify.com/track/7BL2mp6t6a1IlwpvJubRua) | [Chico Che Chico](https://open.spotify.com/artist/5FnZQzuk4Ggfe4Uab7iAWd), [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [¿De Quén Chon? \(Remix\)](https://open.spotify.com/album/1yM4RqvjyPgIPZr9LKHVTa) | 2:09 |
+| 56 | [¿De Quén Chon? \- Remix](https://open.spotify.com/track/7BL2mp6t6a1IlwpvJubRua) | [Chico Che Chico](https://open.spotify.com/artist/5FnZQzuk4Ggfe4Uab7iAWd), [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [¿De Quén Chon? \(Remix\)](https://open.spotify.com/album/1yM4RqvjyPgIPZr9LKHVTa) | 2:09 |
+| 57 | [Inside Out](https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Benlon](https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls), [Sharpz](https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4) | [Inside Out](https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF) | 2:54 |
 | 58 | [In Your Arms](https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [ML3NNON](https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na), [GeeKan](https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT) | [In Your Arms](https://open.spotify.com/album/19068iWscfCtBIkmza7Mur) | 2:34 |
 | 59 | [Préndete](https://open.spotify.com/track/2LnAJpzHZ8sDN8x8AoN5Pi) | [Poncho De Nigris](https://open.spotify.com/artist/64uKFTM2qQ8J49bWPydbJO), [Finisho](https://open.spotify.com/artist/1NGFdCz7PfOjdkFONAvFmw), [Marcela Mistral](https://open.spotify.com/artist/4QlEhfYutf6JcDjMobiesa) | [Préndete](https://open.spotify.com/album/5UuS97dU2odoCFmnTULsbn) | 2:33 |
 | 60 | [Galactic Feelings](https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Galactic Feelings](https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X) | 4:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 74 | [Scare](https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Gerard Butler](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U) | [Scare](https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC) | 3:24 |
 | 75 | [SWAP](https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE) | [SWAP](https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH) | 2:33 |
 
-Snapshot ID: `MTY3OTYwMjY3NywwMDAwMDAwMDIwNzg1ZDBkM2IyMWRiMmE4ZjNjOTcyOGQyYjM3MmEy`
+Snapshot ID: `MTY3OTYwMjY3NywwMDAwMDAwMDc0NGE1NGZiMmUwYWYwN2VlZWIwMmUxZjFmMmJjYzc3`

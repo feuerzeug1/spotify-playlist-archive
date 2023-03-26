@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "27 Club",
+        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214137,
+      "name": "27 Club",
+      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
+    },
+    {
+      "album": {
         "name": "Changephobia",
         "url": "https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 229520,
       "name": "4Runner",
       "url": "https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB"

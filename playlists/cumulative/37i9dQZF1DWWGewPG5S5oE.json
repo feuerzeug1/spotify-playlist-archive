@@ -907,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Longseller Tornado",
+        "url": "https://open.spotify.com/album/0PbYTHm5JRVteBLBDEzNdI"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293013,
+      "name": "Longseller Tornado",
+      "url": "https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK"
+    },
+    {
+      "album": {
         "name": "Looking Back / Paint It Black",
         "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
       },
@@ -2488,7 +2510,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 294400,
       "name": "\u6700\u5f8c\u306e\u591c\u6c7d\u8eca",
       "url": "https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c"

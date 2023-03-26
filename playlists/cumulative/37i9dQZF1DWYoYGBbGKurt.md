@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-1,415 songs - 2 day 6 hr 34 min
+1,416 songs - 2 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1040,7 +1040,8 @@
 | [Rooftop Swiming Pool](https://open.spotify.com/track/7fdjkoX3AdHwBbxqkk2WVx) | [Helynt](https://open.spotify.com/artist/6wM3tYsLm3LMfEKIkl5SmY) | [Summer Nights](https://open.spotify.com/album/7jOXsfYafv4kkdhbEUEJBr) | 2:06 | 2022-07-22 | 2022-07-29 |
 | [Roots](https://open.spotify.com/track/3Tr1F3vRQrGUlNCTwZgqYV) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Roots](https://open.spotify.com/album/3iqblrpdtoainYlX6u3SYq) | 1:41 | 2022-07-22 | 2022-11-26 |
 | [Roots of the Green](https://open.spotify.com/track/1b8U66FM9AsyPEc3fX7sai) | [Variantations](https://open.spotify.com/artist/0T9rN6QQTpCjTgS0lnxjp4) | [Nothing Nothing Nothing](https://open.spotify.com/album/1G8bOuwfnLfVelPOCCz2Mv) | 3:13 | 2021-12-07 | 2022-09-23 |
-| [Rose Gold](https://open.spotify.com/track/1OYgcw2j8YycFu33ENnCBV) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Rose Gold](https://open.spotify.com/album/0ldfTdGkyq5eh1gQWUIyf1) | 2:15 | 2022-10-28 |  |
+| [Rose Gold](https://open.spotify.com/track/1OYgcw2j8YycFu33ENnCBV) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Rose Gold](https://open.spotify.com/album/0ldfTdGkyq5eh1gQWUIyf1) | 2:15 | 2022-10-28 | 2023-03-26 |
+| [Rose Gold](https://open.spotify.com/track/3sm6HeoITXQgaMQhkra7om) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Deja Vu](https://open.spotify.com/album/4udtejbvT3TPKpv6PX5GJG) | 2:15 | 2023-03-20 |  |
 | [Rouge](https://open.spotify.com/track/22bYbDsgnaER8slX9gY3Zl) | [Glader](https://open.spotify.com/artist/0yyL8zG1tfZVT8ID1syuNH) | [Rouge](https://open.spotify.com/album/1g5mZLj0mIyQ4uC5LhdqON) | 1:17 | 2021-12-07 | 2022-07-01 |
 | [Rouge](https://open.spotify.com/track/1lN2jh8QRVL6GGABvu1r85) | [lil frenchie](https://open.spotify.com/artist/1VomLPCcUmzUWELhpgxHZ1), [KASE](https://open.spotify.com/artist/6iI4o333BU6MmImw2N1NJs) | [Rouge](https://open.spotify.com/album/67gIgw57mXwZ6MyGuS3f8S) | 2:33 | 2022-09-30 | 2022-12-17 |
 | [Run For My Rainbow](https://open.spotify.com/track/5Imdl8AAMxyGuqjoeBGiBd) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [Run For My Rainbow](https://open.spotify.com/album/5yUhIJEF1eKxaOTf9gsbtj) | 2:34 | 2022-11-11 |  |

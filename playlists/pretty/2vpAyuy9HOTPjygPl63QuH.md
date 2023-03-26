@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,736 likes - 27 songs - 1 hr 27 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,736 likes - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 9 | [That Thing](https://open.spotify.com/track/74eUKfjZSPGHxDDZ3VRbYx) | [Aazar](https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG) | [That Thing](https://open.spotify.com/album/0VVRRbIFmBYwxdvbYmrJwu) | 3:50 |
 | 10 | [Someone Like You](https://open.spotify.com/track/50er2te7txC3DkR4y8cANW) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Someone Like You](https://open.spotify.com/album/1Z9mfaM5XeMIqhlZzCeuyX) | 2:51 |
 | 11 | [Told You So](https://open.spotify.com/track/4vMK3kl5dvXRl5vb7EVWUV) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Told You So](https://open.spotify.com/album/38dyMOKtbPQWFahzoOHfLc) | 2:49 |
-| 12 | [Oral Music](https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA) | [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Oral Music](https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN) | 3:20 |
+| 12 | [Oral Music](https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO) | [Oral Music](https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN) | 3:20 |
 | 13 | [Back To You \- SUBSHIFT Remix](https://open.spotify.com/track/4RmkE2SMOY9R5HFLj4JuRz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Back To You \(Deluxe Pack\)](https://open.spotify.com/album/6KtBNnZGglKI9hB3rLTt2K) | 3:32 |
 | 14 | [KILO \- Beltran Remix](https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [KILO \(Beltran Remix\)](https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5) | 4:07 |
 | 15 | [Rewind \(Radio Edit\)](https://open.spotify.com/track/4OTeHDYl9uInZa51ORgYph) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Siwell](https://open.spotify.com/artist/3ktDOdSifPv7lXzeyXX1J1) | [Rewind](https://open.spotify.com/album/4XtrZsXeY25ZX918h81Pjw) | 2:55 |
@@ -35,5 +35,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 25 | [Sandman](https://open.spotify.com/track/4nGYaSyae3uuPsriAN9vEu) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Sandman](https://open.spotify.com/album/5ME1bejRuqVgtKgeWt51Rl) | 3:37 |
 | 26 | [Moving On](https://open.spotify.com/track/5GyYE33IUNnCUPt0fn0dIu) | [spüke](https://open.spotify.com/artist/7Kp3QigsDv1da3pxDfSfI8) | [Moving On](https://open.spotify.com/album/1A8s6N7EtCx3EjKcDOIsq9) | 2:54 |
 | 27 | [The Way](https://open.spotify.com/track/2Zj2cVmD1XgTqWijyHreVj) | [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0) | [The Way](https://open.spotify.com/album/2s0cu5Ix8K26yIFwvrp0Xi) | 2:53 |
+| 28 | [I Entah](https://open.spotify.com/track/6RKtjKLTy2w6AXxzV42pSm) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [I Entah](https://open.spotify.com/album/2Bw9YNMw0u1uAWNR7RPZyP) | 2:32 |
+| 29 | [The One](https://open.spotify.com/track/00x84UroO3P0NJWuKQrVbK) | [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [The Glass House](https://open.spotify.com/album/373d7U7JIQAw1E8OFxiORT) | 2:12 |
 
-Snapshot ID: `Njc5OCw5NTU5YmE1NzI4YzNiYWY4YzkyYTM4NWRjMTkyNGI5YWQxZmEyNWUx`
+Snapshot ID: `NjgwMCw0ZjQxZDFmNTJhODk4YjYxMTU4NGQwY2RiZWNiY2QzMzg4NWFlNzUz`

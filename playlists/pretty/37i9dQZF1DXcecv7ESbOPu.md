@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,711 likes - 111 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,728 likes - 111 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 90 | [Paper Plane](https://open.spotify.com/track/4Q0MDstOadw92Gncso1llQ) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Paper Plane](https://open.spotify.com/album/4dyBDF0ThEiA0o7VSzPkB5) | 2:10 |
 | 91 | [A Thousand Years](https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Thousand Years](https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi) | 4:14 |
 | 92 | [Far Behind \- Jeremy Olander Remix](https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [A Radiant Sign \(Remixed\)](https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM) | 3:47 |
-| 93 | [Good Rush](https://open.spotify.com/track/7z58RaBxBmUdE8DfCdhUgR) | [Bastiqe](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [TEEKE](https://open.spotify.com/artist/36hr5SYxja2hk0lF95USQo), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Good Rush](https://open.spotify.com/album/7kLt25DYPXAFUAp8mqDX2z) | 2:20 |
+| 93 | [Good Rush](https://open.spotify.com/track/7z58RaBxBmUdE8DfCdhUgR) | [Bastiqe](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Teeke](https://open.spotify.com/artist/05sS8zyG8jV4m5NQBSau6c), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Good Rush](https://open.spotify.com/album/7kLt25DYPXAFUAp8mqDX2z) | 2:20 |
 | 94 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:42 |
 | 95 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 |
 | 96 | [Wagging Tongue](https://open.spotify.com/track/5g2GhW0Xdc0HHwUCaKkmRQ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 3:24 |

@@ -4,7 +4,7 @@
 
 > Where swing meets blues.
 
-74 songs - 3 hr 25 min
+75 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 | 2022-03-28 |  |
 | [Ain't Nobody Here but Us Chickens](https://open.spotify.com/track/25F0nPXUD6si9DalVWNp6m) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 3:05 | 2020-03-25 | 2022-07-29 |
 | [Ain't Nobody Here But Us Chickens](https://open.spotify.com/track/0ST6bcEkIzrbs8nvsTOSPV) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [The Best Of Louis Jordan](https://open.spotify.com/album/5fvGQvU2Hr99ABkrykFD7u) | 3:03 | 2022-03-28 | 2022-11-13 |
-| [Ain't Nobody Here But Us Chickens](https://open.spotify.com/track/52UNX3oSXgPC1uKVG0pXI4) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 3:07 | 2022-03-28 |  |
+| [Ain't Nobody Here But Us Chickens](https://open.spotify.com/track/52UNX3oSXgPC1uKVG0pXI4) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 3:07 | 2022-03-28 | 2023-03-26 |
+| [Ain't Nobody Here but Us Chickens](https://open.spotify.com/track/22xTN0k7TtBkAjUP3VAW2d) | [Louis Jordan \(alto saxophone](https://open.spotify.com/artist/2yzFeVTv2CXilkOmEKADJA), [bandleader\)](https://open.spotify.com/artist/6bQhYQBFV5IicgcoPMzPFY), [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Louis Jordan & His Tympany Five: Choo Choo Ch'Boogie](https://open.spotify.com/album/2hB3069gKT6EDEbPNAIjLl) | 3:05 | 2022-03-28 |  |
 | [All Night Long](https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo) | [Joe Houston & His Rockets](https://open.spotify.com/artist/0KE5SlfCEB81MaKTaWP4q6) | [Rock And Roll \- The Essential Collection](https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q) | 2:40 | 2022-03-28 |  |
 | [All Night Long](https://open.spotify.com/track/6fNlsbMIQh1794kBZ4bavY) | [Joe Houston Orchestra](https://open.spotify.com/artist/7dhUARf3tXiAm57gKqhi2o) | [Great R&B Instrumentals](https://open.spotify.com/album/0zq9zlmuv2FcOOwmNqh7cL) | 2:39 | 2020-03-25 | 2022-07-29 |
 | [Big Fat Mama](https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Roy Milton And His Solid Senders](https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO) | 2:43 | 2022-03-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,277 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,335 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 41 | [사랑이 지나가면](https://open.spotify.com/track/4XwtIHrmFuMNwu3c35kh5B) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 4:13 |
 | 42 | [눈물나는 날에는](https://open.spotify.com/track/1Vi9rQtR5XlEAKvvz4PfID) | [푸른하늘](https://open.spotify.com/artist/4fjuWKOCAh3CT7I5xW6Hc1) | [푸른하늘 2집 \- 눈물나는 날에는](https://open.spotify.com/album/53wruAmv4gvA2uIoO2Xmfw) | 5:04 |
 | 43 | [아름다운 강산](https://open.spotify.com/track/2A8dLLThu2LqfhD8SNuGbc) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [4집 사랑이 지는 이 자리](https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln) | 5:47 |
-| 44 | [The Street With The First Snow](https://open.spotify.com/track/1CaH7l3RuuCHd6k3VsWiMk) | [Lee Mi Ja](https://open.spotify.com/artist/3ZQ97tFlkn5moDjvgQ3kpZ) | [Lee Mi\-Ja's Setereo Hit Song Selection 12th Album](https://open.spotify.com/album/2VCClwONd2mvbtAYAz51iX) | 3:06 |
+| 44 | [The Street With The First Snow](https://open.spotify.com/track/70zAAYzecX27gWNka6RM94) | [Lee Mi Ja](https://open.spotify.com/artist/3ZQ97tFlkn5moDjvgQ3kpZ) | [Lee Mi\-Ja's Setereo Hit Song Selection 12th Album](https://open.spotify.com/album/1B4BQ8KWrGbyxBoj0XICuI) | 3:06 |
 | 45 | [언제나 그대 내곁에](https://open.spotify.com/track/44hldZaxIlzNDZ7VNhKKmC) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 4집 언제나 그대 내곁에](https://open.spotify.com/album/1YfgZy6iR55PEiFNJzUFgi) | 4:40 |
 | 46 | [산다는건 다 그런게 아니겠니](https://open.spotify.com/track/4A8fWr7kzy3h2c1XW9QeF9) | [여행스케치](https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6) | [처음타본 타임머신](https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC) | 4:35 |
 | 47 | [그것만이 내 세상](https://open.spotify.com/track/5uNi1Bq4218eVbntEgNhrn) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 1집 행진/사랑일 뿐야](https://open.spotify.com/album/5rfo4HOW4Pe01ipqjHL19K) | 5:26 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 58 | [보고싶은 마음](https://open.spotify.com/track/320SvnJLfvCnIC5rx0hgZ9) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 4:06 |
 | 59 | [돌아와요 부산항에](https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [돌아와요 부산항에 / 정](https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE) | 2:44 |
 
-Snapshot ID: `MTYyODc0NTIyMCwwMDAwMDAwMDE4ZWQzNmE2ZGU4MGMxZmJiMGIxOWQ2YTZlNGM5MzY1`
+Snapshot ID: `MTYyODc0NTIyMCwwMDAwMDAwMGE1YTlmZjdhOGRkOTBjMjU1Yjk1Yzk1OWRlYTUwYjY2`

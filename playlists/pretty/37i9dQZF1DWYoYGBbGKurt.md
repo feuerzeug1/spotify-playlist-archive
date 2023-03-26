@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,798 likes - 520 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,915 likes - 520 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -276,7 +276,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 266 | [Galaxy Stars](https://open.spotify.com/track/6n2xebvzacjXwkNBQrfvHY) | [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [Mark Dugalin](https://open.spotify.com/artist/13ZIaPcxBTWv2ykIL8aoNy) | [Galaxy Stars](https://open.spotify.com/album/32LE7zRDvFJ5iUW2lH5QJz) | 2:30 |
 | 267 | [Calm & Collected](https://open.spotify.com/track/3JDcsb799TVMIKDAuvyAit) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Calm & Collected](https://open.spotify.com/album/4mxxpsIfLlAcQ35Ezr50wB) | 3:21 |
 | 268 | [Hide And Seek In The Mist](https://open.spotify.com/track/1qA76TSNh9DrTb0VAu8qdA) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH) | [Hide And Seek In The Mist](https://open.spotify.com/album/2SBxU5hPZOuF77O3YiW0n5) | 2:50 |
-| 269 | [Rose Gold](https://open.spotify.com/track/1OYgcw2j8YycFu33ENnCBV) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Rose Gold](https://open.spotify.com/album/0ldfTdGkyq5eh1gQWUIyf1) | 2:15 |
+| 269 | [Rose Gold](https://open.spotify.com/track/3sm6HeoITXQgaMQhkra7om) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Deja Vu](https://open.spotify.com/album/4udtejbvT3TPKpv6PX5GJG) | 2:15 |
 | 270 | [Worlds Away](https://open.spotify.com/track/1XnMSLQ66Fp8XHpapfJZbE) | [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df), [TCXMASTA](https://open.spotify.com/artist/26PU2jHghi9U5Ajh09gb3u) | [Worlds Away](https://open.spotify.com/album/1DymwSU7AYROu2rnBf3hbj) | 2:55 |
 | 271 | [Sleepy & Stupid](https://open.spotify.com/track/7peRIZGBBOnHDGwthjALXe) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH) | [Sleepy & Stupid](https://open.spotify.com/album/0vPC0IdT1oOyMujFkzy8lm) | 1:31 |
 | 272 | [Wind Whistle](https://open.spotify.com/track/7y3UyyaqxEGybR8ChIcwb8) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Wind Whistle](https://open.spotify.com/album/1PWXcViOEgbVNQ6cllA60R) | 2:00 |
@@ -529,4 +529,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 519 | [F\*32 Paris](https://open.spotify.com/track/5T4vtrvqxHuFGvedb1psz2) | [Fox and Hounds](https://open.spotify.com/artist/1SSyBpR4c7ItGstC9MR3s3) | [U Do and U Don't](https://open.spotify.com/album/124Pg71SU4cwKsuHEAu1Lx) | 2:27 |
 | 520 | [Told U So](https://open.spotify.com/track/6fy3emRuJwUBTs2mdOfePc) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Told U So](https://open.spotify.com/album/71ZBfDPYIS9pQvqjc590hn) | 2:06 |
 
-Snapshot ID: `MTY3OTMwODgzMywwMDAwMDAwMGEzYmMyZGViZDYyYzRjNjM1Y2Q5YzEyMTMyNDYwMWRm`
+Snapshot ID: `MTY3OTMwODgzMywwMDAwMDAwMDlkYTI2ZTg4NjNhNTA0MGJiMTNhZjhiYjYyNmQzODcy`

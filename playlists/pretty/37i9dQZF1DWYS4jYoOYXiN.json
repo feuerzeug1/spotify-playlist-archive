@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 66784,
+  "num_followers": 66839,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIzNDk2MSwwMDAwMDAwMDcwMmMwOWRkOWM4YmJmMzI0NmE3YmI1ZmE2NGYyMzMy",
+  "snapshot_id": "MTY3ODIzNDk2MSwwMDAwMDAwMGY2OGI2ZWNkMWIxZjVlM2YwNDAzODgzYmFhYzJiNjhj",
   "tracks": [
     {
       "added_at": "2023-03-08 00:22:41",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
-        "name": "The Two Sides Of La Lupe",
-        "url": "https://open.spotify.com/album/5Hx8oOGVVbHR0mPpKLYmhb"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Qu\u00e9 Bueno Boogaloo",
-      "url": "https://open.spotify.com/track/4XSsRzYLeNHCOOa12VruGx"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
         "name": "\u00a1La Excitante Celia Cruz!",
         "url": "https://open.spotify.com/album/4OjT7LQjLKDQHuAVjdvriw"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 152090,
       "name": "Para Ti Mi Boogaloo",
       "url": "https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
+        "name": "The Two Sides Of La Lupe",
+        "url": "https://open.spotify.com/album/5Hx8oOGVVbHR0mPpKLYmhb"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Qu\u00e9 Bueno Boogaloo",
+      "url": "https://open.spotify.com/track/4XSsRzYLeNHCOOa12VruGx"
     },
     {
       "added_at": "2023-03-08 00:22:41",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
-        "name": "The King",
-        "url": "https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "TP Treat",
-      "url": "https://open.spotify.com/track/6zADOuqB5dhSWk3YRZLDVo"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
         "name": "Mongo Santamaria's Greatest Hits",
         "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 182240,
       "name": "We Got Latin Soul",
       "url": "https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
+        "name": "The King",
+        "url": "https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "TP Treat",
+      "url": "https://open.spotify.com/track/6zADOuqB5dhSWk3YRZLDVo"
     },
     {
       "added_at": "2023-03-08 00:22:41",

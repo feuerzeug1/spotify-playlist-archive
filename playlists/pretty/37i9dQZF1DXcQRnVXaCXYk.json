@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ1MjY5MCwwMDAwMDAwMGUzNmFmYjgzZDFkMTgxNjBkMDE0YzI3ZjJhZmUwZGFk",
+  "snapshot_id": "MTY3NTQ1MjY5MCwwMDAwMDAwMDhkNzZjNGNlOGQ1MzE1ZTYyN2ZiODkzMjk1NTM1MTYw",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 152317,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Best Day Of My Life",
+        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 146895,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Holding on to Letting Go",
         "url": "https://open.spotify.com/album/4QzrKpnh58uBFIEqP91Q8U"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Best Day Of My Life",
-        "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 146895,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+      "duration_ms": 197586,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -439,22 +455,6 @@
       "duration_ms": 220891,
       "name": "September",
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Room for Another",
+        "url": "https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Room for Another",
+      "url": "https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "We Could Start a Thing",
         "url": "https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg"
       },
@@ -931,26 +947,6 @@
       "duration_ms": 144390,
       "name": "We Could Start a Thing",
       "url": "https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV"
-      },
-      "artists": [
-        {
-          "name": "Dion Cooper",
-          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
-        },
-        {
-          "name": "MAXINE",
-          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -971,18 +967,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Room for Another",
-        "url": "https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV"
       },
       "artists": [
         {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+          "name": "Dion Cooper",
+          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
+        },
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Room for Another",
-      "url": "https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g"
+      "duration_ms": 159500,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw"
     },
     {
       "added_at": "2023-01-19 23:00:00",

@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 181026,
       "name": "I Don't Believe In Miracles",
       "url": "https://open.spotify.com/track/4a0z0XNi6gPXZczkXUaP7w"
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 227000,
       "name": "I'm a Camera",
       "url": "https://open.spotify.com/track/6XbA5gVGJlza8v7ebAbUZ1"
@@ -4080,7 +4080,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 253653,
       "name": "Moonlighting",
       "url": "https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9"
@@ -4210,6 +4210,24 @@
       "duration_ms": 281226,
       "name": "My Sweet Lord - Remastered 2014",
       "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
+    },
+    {
+      "album": {
+        "name": "Goodbye Girl",
+        "url": "https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd"
+      },
+      "artists": [
+        {
+          "name": "David Gates",
+          "url": "https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Never Let Her Go",
+      "url": "https://open.spotify.com/track/2b8ja3uL8fPS0ozNfjV15p"
     },
     {
       "album": {
@@ -6313,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "Whatever Happened to Benny Santini",
+        "url": "https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259226,
+      "name": "Whatever Happened to Benny Santini?",
+      "url": "https://open.spotify.com/track/4wp9wsxVwiEDaKbhDKIZIK"
+    },
+    {
+      "album": {
         "name": "When I Was a Boy",
         "url": "https://open.spotify.com/album/217NI1IYFQl1jit0M6mHTG"
       },
@@ -7016,7 +7052,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 223160,
       "name": "You Need A Hero",
       "url": "https://open.spotify.com/track/5xnOk0gOwfhfnEY6cfYo5B"

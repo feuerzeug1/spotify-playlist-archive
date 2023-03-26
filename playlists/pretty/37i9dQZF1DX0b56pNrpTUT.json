@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 4081,
+  "num_followers": 4107,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDg3M2NiZDU4MzFjOTU4ZDdlMjFkYjcwODYwYzFlOGFi",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGQ3Y2RmZTQ4NjAyMTcwOGNkYjU5NzdlMzQ4NzMzNTMz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -615,22 +615,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s"
+        "name": "Nah It Ain't The Same",
+        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
       },
       "artists": [
         {
-          "name": "RAY BLK",
-          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 177666,
-      "name": "MIA (feat. Kaash Paige)",
-      "url": "https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk"
+      "duration_ms": 251831,
+      "name": "Nah It Ain't The Same",
+      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -651,18 +647,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Nah It Ain't The Same",
-        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "RAY BLK",
+          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
         }
       ],
-      "duration_ms": 251831,
-      "name": "Nah It Ain't The Same",
-      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
+      "duration_ms": 177666,
+      "name": "MIA (feat. Kaash Paige)",
+      "url": "https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk"
     },
     {
       "added_at": "2022-10-01 16:00:00",

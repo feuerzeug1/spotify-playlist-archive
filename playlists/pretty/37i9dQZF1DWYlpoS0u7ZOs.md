@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: Boy Bleach
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,725 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,730 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 49 | [Eye to Eye](https://open.spotify.com/track/1ue2tBH6KZnVy3VprM5BDI) | [Gallus](https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC) | [Eye to Eye](https://open.spotify.com/album/03lP3ArkPaSSF3Wk0DqDoK) | 2:59 |
 | 50 | [Loser](https://open.spotify.com/track/0SCX0m4QOZtoBX1kmhrsR0) | [Hometruths](https://open.spotify.com/artist/1gFSdRSFZ7W75S9S7CzCEB) | [Loser](https://open.spotify.com/album/19fVAXhJh7V6M9u21CsGvM) | 3:38 |
 | 51 | [Wish I Was You](https://open.spotify.com/track/1hZ78pAQTniUNnxIes68Jd) | [Gina Birch](https://open.spotify.com/artist/6Uf8GS97rZbMv6vUFKhWft) | [Wish I Was You](https://open.spotify.com/album/3ovvIDsSYjs0Op2SExhzWF) | 3:23 |
-| 52 | [Madman](https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Madman](https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY) | 3:52 |
+| 52 | [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 |
 | 53 | [The Sound](https://open.spotify.com/track/5wO1dqc1lSpQFFut9auHQC) | [The Manatees](https://open.spotify.com/artist/2cWGltn2fZoaAiIhuQyw5h) | [The Sound](https://open.spotify.com/album/3GJzkSgCqNsm1kiVqwo5SY) | 2:38 |
 | 54 | [SADFACE](https://open.spotify.com/track/3Ha33JQoabqcnwFXQehnCO) | [LibraLibra](https://open.spotify.com/artist/5eSDYy3APXTkeeOuTn6gye) | [SADFACE](https://open.spotify.com/album/22a0uOqO0e5PxYmkI0C8df) | 3:40 |
 | 55 | [claws](https://open.spotify.com/track/2HgmmSd1lZesLJU1koxI8T) | [Kurtis](https://open.spotify.com/artist/1ZV5RU7ViRwlv7vqWuOHRf), [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [claws](https://open.spotify.com/album/2ZPsWmEP1LUW9fxuM1bVAV) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [HALLELUJAH KID](https://open.spotify.com/track/0YMldYHUAVZgdK1JJCRDnC) | [Nicky Lipp](https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA) | [HALLELUJAH KID](https://open.spotify.com/album/7dh11jHNxLEQKdvlBZhOR0) | 3:18 |
 | 80 | [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 |
 
-Snapshot ID: `MTY3OTYxNjAwMCwwMDAwMDAwMGFkNjkzNjIwNjZiZjUyZGY2NDVkYjJiMGFmOWFmNWE5`
+Snapshot ID: `MTY3OTYxNjAwMCwwMDAwMDAwMDQwNWMxYzkxNmVkNzk2YjdiNDRkM2YyNWU2ODI3NjA2`

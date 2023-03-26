@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 37573,
+  "num_followers": 37611,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMGE4ZWU0OTU2NDZkNWUwYTFhNGQ1YWFlODEzMzcxM2Vl",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDlmNDFiNmFhYjllN2NiN2M0OWVhZTQ1ZDIzYjBlYzUw",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -247,6 +247,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "A Moment In Time",
         "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
       },
@@ -263,18 +279,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls"
+        "name": "Contagious",
+        "url": "https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx"
       },
       "artists": [
         {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9"
+      "duration_ms": 262800,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -295,22 +311,6 @@
       "duration_ms": 233717,
       "name": "My Woman, My Everything (feat. Wandecoal)",
       "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Contagious",
-        "url": "https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx"
-      },
-      "artists": [
-        {
-          "name": "Tarrus Riley",
-          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U"
     },
     {
       "added_at": "2020-10-19 09:02:25",

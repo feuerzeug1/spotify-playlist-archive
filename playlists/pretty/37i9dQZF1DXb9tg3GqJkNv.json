@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: KAYTRANADA",
-  "num_followers": 973,
+  "num_followers": 1008,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyMzc2NSwwMDAwMDAwMGUwNmFiMmU1YjM4NGM4NDFlN2ViMjhlY2Q2NjllYzlk",
+  "snapshot_id": "MTY3OTYyMzc2NSwwMDAwMDAwMDEwOTUyMDU0OGY1NTY5ZTQ0ZmJhZmQzZTU0YWEyOTAz",
   "tracks": [
     {
       "added_at": "2023-03-24 02:09:25",
@@ -351,22 +351,18 @@
     {
       "added_at": "2023-03-24 02:09:25",
       "album": {
-        "name": "88GLAM RELOADED",
-        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
+        "name": "Killamonjaro",
+        "url": "https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB"
       },
       "artists": [
         {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
         }
       ],
-      "duration_ms": 185316,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
+      "duration_ms": 178226,
+      "name": "Killamonjaro",
+      "url": "https://open.spotify.com/track/537l7spEsGg6aWl6Y9eKAs"
     },
     {
       "added_at": "2023-03-24 02:09:25",
@@ -391,18 +387,22 @@
     {
       "added_at": "2023-03-24 02:09:25",
       "album": {
-        "name": "Killamonjaro",
-        "url": "https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB"
+        "name": "88GLAM RELOADED",
+        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
       },
       "artists": [
         {
-          "name": "KILLY",
-          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 178226,
-      "name": "Killamonjaro",
-      "url": "https://open.spotify.com/track/537l7spEsGg6aWl6Y9eKAs"
+      "duration_ms": 185316,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": "2023-03-24 02:09:25",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-24 02:09:25",
       "album": {
-        "name": "HOOD AVANT-GARDE (Deluxe)",
-        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
-      },
-      "artists": [
-        {
-          "name": "Charmaine",
-          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "WOO!",
-      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
-    },
-    {
-      "added_at": "2023-03-24 02:09:25",
-      "album": {
         "name": "Special Occasion",
         "url": "https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp"
       },
@@ -571,6 +555,38 @@
     {
       "added_at": "2023-03-24 02:09:25",
       "album": {
+        "name": "HOOD AVANT-GARDE (Deluxe)",
+        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
+      },
+      "artists": [
+        {
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "WOO!",
+      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
+    },
+    {
+      "added_at": "2023-03-24 02:09:25",
+      "album": {
+        "name": "Everywhere We Go Single",
+        "url": "https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2"
+      },
+      "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Everywhere We Go",
+      "url": "https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E"
+    },
+    {
+      "added_at": "2023-03-24 02:09:25",
+      "album": {
         "name": "All Aces",
         "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 201600,
       "name": "All Aces",
       "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
-    },
-    {
-      "added_at": "2023-03-24 02:09:25",
-      "album": {
-        "name": "Everywhere We Go Single",
-        "url": "https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2"
-      },
-      "artists": [
-        {
-          "name": "SonReal",
-          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Everywhere We Go",
-      "url": "https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E"
     },
     {
       "added_at": "2023-03-24 02:09:25",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-03-24 02:09:25",
       "album": {
-        "name": "Fleurever",
-        "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
-      },
-      "artists": [
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        },
-        {
-          "name": "KTOE",
-          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "\u2022 RIGHT NOW",
-      "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
-    },
-    {
-      "added_at": "2023-03-24 02:09:25",
-      "album": {
         "name": "30,000 ft",
         "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 157873,
       "name": "30,000 ft",
       "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
+    },
+    {
+      "added_at": "2023-03-24 02:09:25",
+      "album": {
+        "name": "Fleurever",
+        "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
+      },
+      "artists": [
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        },
+        {
+          "name": "KTOE",
+          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "\u2022 RIGHT NOW",
+      "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
     },
     {
       "added_at": "2023-03-24 02:09:25",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-03-24 02:09:25",
       "album": {
-        "name": "Don't Dance",
-        "url": "https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX"
-      },
-      "artists": [
-        {
-          "name": "Pengz",
-          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
-        }
-      ],
-      "duration_ms": 197224,
-      "name": "Don't Dance",
-      "url": "https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W"
-    },
-    {
-      "added_at": "2023-03-24 02:09:25",
-      "album": {
         "name": "Priceless",
         "url": "https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 272052,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp"
+    },
+    {
+      "added_at": "2023-03-24 02:09:25",
+      "album": {
+        "name": "Don't Dance",
+        "url": "https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX"
+      },
+      "artists": [
+        {
+          "name": "Pengz",
+          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
+        }
+      ],
+      "duration_ms": 197224,
+      "name": "Don't Dance",
+      "url": "https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W"
     },
     {
       "added_at": "2023-03-24 02:09:25",

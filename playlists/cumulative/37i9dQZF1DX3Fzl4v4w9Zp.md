@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Pony Bradshaw
 
-409 songs - 1 day 1 hr 19 min
+410 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-24 |  |
 | [Caught Me at a Good Time](https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 2:49 | 2022-04-01 | 2022-11-12 |
 | [Change Of Heart](https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Change Of Heart](https://open.spotify.com/album/35XgdqqbXM9OBWuApaiPJ3) | 4:03 | 2022-10-28 | 2023-03-18 |
-| [Change Of Heart](https://open.spotify.com/track/1t4mMKc8eqxWwfYD8YtuT2) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart](https://open.spotify.com/album/6UrqZ5ZhjJRBA2LcyaXxOc) | 3:43 | 2023-03-17 |  |
+| [Change Of Heart](https://open.spotify.com/track/1t4mMKc8eqxWwfYD8YtuT2) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart](https://open.spotify.com/album/6UrqZ5ZhjJRBA2LcyaXxOc) | 3:43 | 2023-03-17 | 2023-03-26 |
+| [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/track/3RMBqywLJEMrNIcFeasnme) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/album/230BtBKWaVO3EkDhfyk3MB) | 3:43 | 2023-03-24 |  |
 | [Chardonnay](https://open.spotify.com/track/1LlQ30lScv3YHBzR5jvots) | [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Chardonnay](https://open.spotify.com/album/5SiECrkoCVi2EYPOj2Y2ct) | 4:19 | 2021-12-17 | 2022-07-29 |
 | [Chardonnay](https://open.spotify.com/track/39TOH43UmQRBQZEHEh1FdS) | [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Nashville No More](https://open.spotify.com/album/4p6qLQ2eKBQfwaMjzBRrSK) | 4:19 | 2022-07-22 | 2022-10-29 |
 | [Church Street Blues](https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Church Street Blues](https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU) | 2:33 | 2021-12-17 | 2022-06-04 |

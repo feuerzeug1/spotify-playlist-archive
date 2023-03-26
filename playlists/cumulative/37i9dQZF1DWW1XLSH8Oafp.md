@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Nia Archives
 
-567 songs - 1 day 8 hr 38 min
+568 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [i can't](https://open.spotify.com/track/5hTLeiVCru8fakEB4K48Vs) | [Ilykimchi](https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb) | [i can't](https://open.spotify.com/album/3wDtJrZdVt1d3jE9ZwI0XU) | 2:52 | 2022-11-11 | 2023-01-21 |
 | [I Don't Do Drugs \- Y2K Remix](https://open.spotify.com/track/49CHpBYoeE9j0QIXy9dKI7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [I Don't Do Drugs \(Y2K Remix\)](https://open.spotify.com/album/4XAXBh39t3KoD7Ta0x7Toi) | 2:54 | 2023-01-31 |  |
 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-09-14 | 2022-11-19 |
-| [I GOT IT \(FEAT\. UÑAS\)](https://open.spotify.com/track/4WFWaNt3YlOYbqjeaSPo6q) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4), [Uñas](https://open.spotify.com/artist/7KxOg00RqgYHkrbd8T2OSd) | [I GOT IT \(FEAT\. UÑAS\)](https://open.spotify.com/album/6zCqTsJiwNIyhcJSaHVEzO) | 3:48 | 2023-02-03 |  |
+| [I GOT IT \(FEAT\. UÑAS\)](https://open.spotify.com/track/2fBPrtBTLHXxOpmLalySPb) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4), [Uñas](https://open.spotify.com/artist/7KxOg00RqgYHkrbd8T2OSd) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:48 | 2023-03-17 |  |
+| [I GOT IT \(FEAT\. UÑAS\)](https://open.spotify.com/track/4WFWaNt3YlOYbqjeaSPo6q) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4), [Uñas](https://open.spotify.com/artist/7KxOg00RqgYHkrbd8T2OSd) | [I GOT IT \(FEAT\. UÑAS\)](https://open.spotify.com/album/6zCqTsJiwNIyhcJSaHVEzO) | 3:48 | 2023-02-03 | 2023-03-26 |
 | [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I Hate You I Love You](https://open.spotify.com/album/4hcjr6lpFL24nHjjy7LqjQ) | 2:15 | 2022-03-25 | 2022-12-03 |
 | [i lost my friend at a rave](https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [i lost my friend at a rave](https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g) | 3:00 | 2022-07-08 | 2022-08-27 |
 | [I Need You](https://open.spotify.com/track/2TEqrIQQtUHl46RCZ4943d) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [I Need You](https://open.spotify.com/album/6Zx09cjIMZg0TbcCNayVYn) | 3:13 | 2021-12-17 | 2022-04-29 |

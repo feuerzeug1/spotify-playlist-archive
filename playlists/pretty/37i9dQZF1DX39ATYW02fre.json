@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 119150,
+  "num_followers": 119284,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NDkwNiwwMDAwMDAwMGY2ODZlNTc4NzFhOTczZmY1ODgyMDMzY2E5ZjliMDIx",
+  "snapshot_id": "MTY2OTM5NDkwNiwwMDAwMDAwMGQ2NzBjYTNlZDkwMTBlMDIxMDQ2NDY0NGE1M2MzNmYy",
   "tracks": [
     {
       "added_at": "2022-11-25 16:48:26",
@@ -443,22 +443,18 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+        "name": "So Good To Me (Remixes)",
+        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC"
+      "duration_ms": 158677,
+      "name": "So Good to Me - Radio Edit",
+      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -479,22 +475,6 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "So Good To Me (Remixes)",
-        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "So Good to Me - Radio Edit",
-      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
-    },
-    {
-      "added_at": "2022-11-25 16:48:26",
-      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 274693,
       "name": "Break Apart",
       "url": "https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok"
+    },
+    {
+      "added_at": "2022-11-25 16:48:26",
+      "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -563,26 +563,6 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "sketches of transition",
-        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        },
-        {
-          "name": "mauv",
-          "url": "https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo"
-        }
-      ],
-      "duration_ms": 261746,
-      "name": "amelia",
-      "url": "https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W"
-    },
-    {
-      "added_at": "2022-11-25 16:48:26",
-      "album": {
         "name": "Kiasmos",
         "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
+    },
+    {
+      "added_at": "2022-11-25 16:48:26",
+      "album": {
+        "name": "sketches of transition",
+        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "mauv",
+          "url": "https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo"
+        }
+      ],
+      "duration_ms": 261746,
+      "name": "amelia",
+      "url": "https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W"
     },
     {
       "added_at": "2022-11-25 16:48:26",

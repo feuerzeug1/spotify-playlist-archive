@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoeTjyAlVWI.md) - [plain]
 
 > <a href="spotify:artist:4YWj8sohRDjL9deiuRvEEY">Noisia</a> takes us on a retrospective journey through their mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,869 likes - 35 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,877 likes - 35 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,6 +42,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoeTjyAlVWI.md) - [plain]
 | 32 | [The Hole Pt\. 1 \- Mixed](https://open.spotify.com/track/370njgmMmwBKk0LBPFA5Gi) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Hole Pt\. 1 \(Mixed\)](https://open.spotify.com/album/7kJaKAWPNtWCat0Pcu3bkY) | 2:37 |
 | 33 | [Halcyon \- Mixed](https://open.spotify.com/track/5hqXg7AB1vR3PWFx2CaV8i) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Halcyon \(Mixed\)](https://open.spotify.com/album/20nuU8BNfGzkR64cLv8gXx) | 4:08 |
 | 34 | [Hardskin \(Armajet Soundtrack\) \- Mixed](https://open.spotify.com/track/4n9dueMZlTMXmYyp2FqfCc) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [Hardskin \(Armajet Soundtrack\) \[Mixed\]](https://open.spotify.com/album/4vGfMl6e348zTdBNXlmxW0) | 2:17 |
-| 35 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\] \- Mixed](https://open.spotify.com/track/7mhj9bjEuhNeMJRdrhpHMm) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\] \[Mixed\]](https://open.spotify.com/album/0NROYd0Sgl96Wg7djSSV7Y) | 2:45 |
+| 35 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\] \- Mixed](https://open.spotify.com/track/7mhj9bjEuhNeMJRdrhpHMm) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\] \[Mixed\]](https://open.spotify.com/album/0NROYd0Sgl96Wg7djSSV7Y) | 2:45 |
 
 Snapshot ID: `MTYzMjkyMzYxNCwwMDAwMDAwMDQwODk0YzFkYjI2YTBjNDNkOTU1YTU4OGFhMmY4NjA5`

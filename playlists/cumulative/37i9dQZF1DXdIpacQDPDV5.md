@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Frank Walker
 
-722 songs - 1 day 17 hr 43 min
+723 songs - 1 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-03-24 |  |
 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 | 2022-06-17 | 2022-09-03 |
 | [Face](https://open.spotify.com/track/7gw9TJqZ4e16o6EeQFGChk) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Face](https://open.spotify.com/album/6NehSz7c2uXH4uQYN2qX70) | 3:36 | 2022-12-09 | 2023-02-11 |
-| [Fade Away](https://open.spotify.com/track/0gyYoN9pzTqhm9JDQ2mwyL) | [aiden](https://open.spotify.com/artist/4fyX4gJSYNlpMv8WZjWnrX) | [Fade Away](https://open.spotify.com/album/7EWOw8JTdNAE0ceq6Wh0uy) | 2:19 | 2023-03-03 |  |
+| [Fade Away](https://open.spotify.com/track/0gyYoN9pzTqhm9JDQ2mwyL) | [aiden](https://open.spotify.com/artist/4fyX4gJSYNlpMv8WZjWnrX) | [Fade Away](https://open.spotify.com/album/7EWOw8JTdNAE0ceq6Wh0uy) | 2:19 | 2023-03-03 | 2023-03-26 |
+| [Fade Away](https://open.spotify.com/track/3NZk9B6w0puFz86kSEwKah) | [aiden](https://open.spotify.com/artist/4fyX4gJSYNlpMv8WZjWnrX) | [Fade Away](https://open.spotify.com/album/7Dl87NNdrHiOHBxHK9xyGV) | 2:19 | 2023-03-24 |  |
 | [Fado](https://open.spotify.com/track/1Q9adFpSAeMjAL6iofQl71) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Fado](https://open.spotify.com/album/1xe7ivK6D2h2q5shey37Dq) | 6:54 | 2022-12-02 | 2023-01-14 |
 | [FAKE](https://open.spotify.com/track/4xZ3gU3bsLUDXkv7xS0phG) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [FAKE](https://open.spotify.com/album/3lTcywnx2UQabY3DtqSXDz) | 2:16 | 2022-09-30 | 2022-11-26 |
 | [Fall](https://open.spotify.com/track/00cSOUQOAsFheNuCPCJiuG) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Y3LLO KOALA](https://open.spotify.com/artist/7wSw5WtitICEfxFIbK501i) | [Fall](https://open.spotify.com/album/5ksTXHnu5KdVk5eWFIcJLX) | 2:41 | 2021-12-31 | 2022-03-05 |

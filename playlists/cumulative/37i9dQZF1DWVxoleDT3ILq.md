@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Vicenta
 
-329 songs - 20 hr 1 min
+330 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Inventar](https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ) | [José Vicentes](https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39) | [Inventar](https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr) | 3:42 | 2023-03-24 |  |
 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 | 2022-04-15 | 2022-12-10 |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-04-15 | 2022-07-29 |
-| [Karma](https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4) | 3:16 | 2022-10-14 |  |
+| [Karma](https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4) | 3:16 | 2022-10-14 | 2023-03-26 |
+| [Karma](https://open.spotify.com/track/7nJzvoXmzFfKH0XupDiBzV) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/5qJlhQrdU7GFAvn8w48ukg) | 3:16 | 2023-03-24 |  |
 | [Klapaucius](https://open.spotify.com/track/00tq3tSdLI9zOn3ctd3OlQ) | [Al Menos Se Intenta](https://open.spotify.com/artist/6iXVwJ4tstSPx7zMv24ChX), [Aquiestawally](https://open.spotify.com/artist/6cM3ql6as318GpwefoKVIl) | [Klapaucius](https://open.spotify.com/album/2s8fH3h5DAarJXn7jlzBHW) | 3:34 | 2022-04-15 | 2022-07-29 |
 | [Kurt & Courtney](https://open.spotify.com/track/7E1UM6gU9bKFzfWAivMK4M) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Kurt & Courtney](https://open.spotify.com/album/2ZCQvBGaccRTo4f6pOOn3d) | 3:20 | 2022-04-15 | 2022-07-25 |
 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 | 2022-04-15 | 2022-12-10 |

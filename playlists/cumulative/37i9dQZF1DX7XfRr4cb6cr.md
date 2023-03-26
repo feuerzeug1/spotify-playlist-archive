@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-204 songs - 17 hr 59 min
+205 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Ghostlore](https://open.spotify.com/track/4fYhvLW1p5inttamdBxDUC) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 6:49 | 2023-02-17 |  |
 | [Ghosts and All](https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG) | 8:32 | 2022-12-30 | 2023-02-02 |
 | [Ghosts And All](https://open.spotify.com/track/3NoWosBv396ElBNTIuDT4u) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2MfGjYqGBrXFFPqr2Cduv6) | 8:32 | 2022-01-28 | 2022-07-26 |
+| [Ghosts and All](https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib) | 8:32 | 2023-03-10 |  |
 | [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-02-18 | 2023-01-24 |
 | [Good Earth](https://open.spotify.com/track/07GU39LRsLAOdjT6FTwYKY) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Good Earth](https://open.spotify.com/album/4f79S7nCBxZ9UvqQJn8nih) | 2:15 | 2022-02-25 |  |
 | [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-01-28 |  |
@@ -78,7 +79,7 @@
 | [hope](https://open.spotify.com/track/3bynos2wQgXzPI4Sbcdow2) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [hope](https://open.spotify.com/album/4bvVIFyU0p2OZzzuAbH3cc) | 1:47 | 2023-01-20 |  |
 | [Hope and Fate](https://open.spotify.com/track/7lh7iHO2MpF1PPISdhiAS8) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb) | [Hope and Fate](https://open.spotify.com/album/4ELMGh7AabrbLQLrMsWgOP) | 3:47 | 2023-01-13 | 2023-02-18 |
 | [Horn in Deep Night](https://open.spotify.com/track/6rsrcdXlac37j8YozUfHpT) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:08 | 2022-01-28 |  |
-| [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 | 2022-03-25 |  |
+| [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 | 2022-03-25 | 2023-03-26 |
 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 | 2022-03-25 |  |
 | [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 |  |
 | [I See Your Picture, It's in the Same Old Frame](https://open.spotify.com/track/1admOcHNEDufX4KbPM6zqC) | [Katia Krow](https://open.spotify.com/artist/2YykFr6zggCoi2GHZbFlSG) | [I've Called off the Search, I Know Exactly Where You Are](https://open.spotify.com/album/1Gsd8mV3HxMu4uqimgh8yu) | 2:47 | 2022-07-22 | 2022-07-27 |
@@ -109,10 +110,10 @@
 | [Mariupol](https://open.spotify.com/track/7zMZfDDk4r5W1iHIGcWama) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Mariupol](https://open.spotify.com/album/6dP1JXzSX90FjRiKPFmnew) | 7:05 | 2022-11-11 | 2022-12-16 |
 | [Meet Me At Sachas](https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 2:06 | 2022-01-21 |  |
 | [Melancholy Movement](https://open.spotify.com/track/0BGXoqBGIrgT1gjODZ7vrO) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [In Light Of Blues](https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD) | 3:07 | 2022-07-01 |  |
-| [Melting Refuge](https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm) | [Ecker & Meulyzer](https://open.spotify.com/artist/0LmTH1Y1gidIP6T9yTtSPU) | [Carbon](https://open.spotify.com/album/1V2Ek9fnWQhDGApxedbg3J) | 4:25 | 2022-01-21 | 2023-01-28 |
+| [Melting Refuge](https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm) | [Ecker & Meulyzer](https://open.spotify.com/artist/0LmTH1Y1gidIP6T9yTtSPU) | [Carbon](https://open.spotify.com/album/1V2Ek9fnWQhDGApxedbg3J) | 4:25 | 2022-01-21 |  |
 | [Melts All Your Memories](https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Shadow Box](https://open.spotify.com/album/26OHC71oOiOsh5Sna4qw4T) | 8:38 | 2022-01-21 |  |
 | [Mend](https://open.spotify.com/track/116HZtuidLUHpGNIIgDcR9) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt), [Simon Fisher Turner](https://open.spotify.com/artist/3rmHfhqEmC3pO89AMSP7Wt) | [Care](https://open.spotify.com/album/7pfidngS6ZbAUZ9UM2EicP) | 10:04 | 2022-01-21 | 2023-02-07 |
-| [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2022-01-21 |  |
+| [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2022-01-21 | 2023-03-26 |
 | [Moments In Love](https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 10:17 | 2022-01-21 |  |
 | [Moneycomb](https://open.spotify.com/track/5F7uxeMTy6JwRiBZt6TiDs) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [South of Heaven](https://open.spotify.com/album/4L2Mnyxrpn2hxO87Gdu44M) | 2:21 | 2023-03-10 |  |
 | [My Darkest Hour](https://open.spotify.com/track/4xo58k1mlaohC1gcLW1F60) | [Jimmy Svensson](https://open.spotify.com/artist/5THKjrwaxUhrzy5Bzvorri) | [Dark Blood](https://open.spotify.com/album/1wks1CncRvFznFtAS1bjYU) | 3:16 | 2022-03-25 |  |

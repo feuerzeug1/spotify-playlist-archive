@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Ed Sheeran, Jimin, Lana Del Rey, ROSALÍA, aiko and more! Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,124 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,195 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 41 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 |
 | 42 | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/track/7r5R0CLCuyMaFYaQkdlZrx) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [You Still Here, Ho ? \(Extended\)](https://open.spotify.com/album/67AK26TDyMFb7CA7bKJh0w) | 3:40 |
 | 43 | [Priceless](https://open.spotify.com/track/1mLfHERN5XDw42w0ePRlfs) | [Pune](https://open.spotify.com/artist/3CtPr0raLgCRsI9sFz2ceq), [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [Pune On Space](https://open.spotify.com/album/0yOloPuGSrUeslEyDzYFmp) | 2:46 |
-| 44 | [Sirius \(feat\. DEKISHI\) \- VIP](https://open.spotify.com/track/1176rK7Nz9MtIxdVuefQts) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [DEKISHI](https://open.spotify.com/artist/3WGf7sxBvXaGAhU9G83aun), [tofuberats](https://open.spotify.com/artist/0mVY8teh0GLtpNSXo9BRCu) | [Sirius \(feat\. DEKISHI\) \[VIP\]](https://open.spotify.com/album/4lSpyJ541VvDSz913dA0Fd) | 3:22 |
+| 44 | [Sirius \(feat\. DEKISHI\) \- VIP](https://open.spotify.com/track/1176rK7Nz9MtIxdVuefQts) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [DEKISHI](https://open.spotify.com/artist/3WGf7sxBvXaGAhU9G83aun) | [Sirius \(feat\. DEKISHI\) \[VIP\]](https://open.spotify.com/album/4lSpyJ541VvDSz913dA0Fd) | 3:22 |
 | 45 | [AM:PM](https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [AM:PM](https://open.spotify.com/album/6VddpmwRbN12eh98innuj7) | 3:02 |
 | 46 | [Holding On](https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:52 |
 | 47 | [16 Again](https://open.spotify.com/track/3qrTracLJmTz2XaJDkSiEN) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [16 Again](https://open.spotify.com/album/7x7AQEl511oMbhjVkBc2Lq) | 3:15 |

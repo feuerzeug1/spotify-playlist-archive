@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Tiny Habits \| Visual Artist: Bailey Elder
 
-508 songs - 1 day 6 hr 39 min
+509 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,8 @@
 | [Wherever You Aren't](https://open.spotify.com/track/1eruAYp8GViJ0iTGVbeqER) | [Elizabeth Moen](https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N) | [Wherever You Aren't](https://open.spotify.com/album/4OdjnV68EopFTxah0WbdRB) | 4:12 | 2022-10-26 | 2022-12-01 |
 | [Wildfire](https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM) | [Minru](https://open.spotify.com/artist/7ofDeyinYugiOywRxjs5c2) | [Liminality](https://open.spotify.com/album/35b5EStxb2BkZnfyJr2CiR) | 4:06 | 2022-07-06 | 2022-10-06 |
 | [Wish I Had You Now](https://open.spotify.com/track/3NBby1jbaWJaXIUTagpu6T) | [The Finley Ghost](https://open.spotify.com/artist/2FDDxS1r0AdQzitRtjqdsb) | [Wish I Had You Now](https://open.spotify.com/album/1uWCJKpS1fKWPwtn7nj0GW) | 3:57 | 2022-06-29 | 2022-10-27 |
-| [Yer Time'll Come](https://open.spotify.com/track/0ebR7XgjrUBOHdM6xGioOp) | [Andrew Gabbard](https://open.spotify.com/artist/34q6xZrTKUR0YIrDxlIdU6) | [Yer Time'll Come](https://open.spotify.com/album/28EAaiC0JOfuILtaMnPMLm) | 4:05 | 2023-03-15 |  |
+| [Yer Time'll Come](https://open.spotify.com/track/0ebR7XgjrUBOHdM6xGioOp) | [Andrew Gabbard](https://open.spotify.com/artist/34q6xZrTKUR0YIrDxlIdU6) | [Yer Time'll Come](https://open.spotify.com/album/28EAaiC0JOfuILtaMnPMLm) | 4:05 | 2023-03-15 | 2023-03-26 |
+| [Yer Time'll Come](https://open.spotify.com/track/6R3q36NLBSLsrt0sdEraFQ) | [Andrew Gabbard](https://open.spotify.com/artist/34q6xZrTKUR0YIrDxlIdU6) | [Cedar City Sweetheart](https://open.spotify.com/album/1K94PNMQvRP63zFZMQq8jN) | 4:05 | 2023-03-15 |  |
 | [You and Me](https://open.spotify.com/track/5HlcRE58RugnXWoWxzJFu2) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [You and Me](https://open.spotify.com/album/5Lz2AHmIfli0x9B9FATg6a) | 3:14 | 2023-03-15 |  |
 | [You Can Get It](https://open.spotify.com/track/77fryhqaIysuzQd5NeBdbc) | [Milan McAlevey](https://open.spotify.com/artist/55u8of9GwGn1eDbjQWlzlb) | [You Can Get It](https://open.spotify.com/album/2eINcfqrLeIu6b7AWzuy9d) | 4:20 | 2022-08-24 | 2022-11-10 |
 | [You Can't Have My Magic](https://open.spotify.com/track/0VCUcetdsxexizSjJ6A4mg) | [Lady Moon](https://open.spotify.com/artist/4NMxUgqHqC9XlgSRGqqrqc) | [You Can't Have My Magic](https://open.spotify.com/album/61OpWcOvzdst8eox4bVuHC) | 3:48 | 2022-10-26 | 2022-12-01 |

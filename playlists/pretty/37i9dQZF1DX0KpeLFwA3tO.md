@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Jasiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,160 likes - 125 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,248 likes - 125 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 78 | [Pure Mode](https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:07 |
 | 79 | [Faded](https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Faded](https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR) | 3:10 |
 | 80 | [I'm Bored](https://open.spotify.com/track/3ivQ5nru2jY2vLhGy1f78a) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [I'm Bored](https://open.spotify.com/album/31GcwxscE4bqvmVsXHXsM0) | 2:08 |
-| 81 | [Madman](https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Madman](https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY) | 3:52 |
+| 81 | [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 |
 | 82 | [Loser](https://open.spotify.com/track/0SCX0m4QOZtoBX1kmhrsR0) | [Hometruths](https://open.spotify.com/artist/1gFSdRSFZ7W75S9S7CzCEB) | [Loser](https://open.spotify.com/album/19fVAXhJh7V6M9u21CsGvM) | 3:38 |
 | 83 | [ASTRONAUT](https://open.spotify.com/track/3RGQvTnIUzvSWJAMFy5Hg3) | [weyside](https://open.spotify.com/artist/7HySxef0Jg7yvv02PMkjsn) | [ASTRONAUT](https://open.spotify.com/album/3MSwbJJqnCeRZ8Gq3rtDyU) | 2:04 |
 | 84 | [Heartbreak Of The Century](https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Heartbreak Of The Century](https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ) | 3:49 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 |
 | 125 | [Desire](https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Desire](https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay) | 1:55 |
 
-Snapshot ID: `MTY3OTYxNjAwMCwwMDAwMDAwMGJiODExY2YwY2EzZWVhYzk4YTYzMGQ0ZTU0OGQzMzAy`
+Snapshot ID: `MTY3OTYxNjAwMCwwMDAwMDAwMDdkNjQzNmZlYzdhZjc0YWU4YjgxZjNkZjQzNDExNDQz`

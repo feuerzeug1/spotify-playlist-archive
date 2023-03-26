@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 76406,
+  "num_followers": 76491,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDc5Njk1NDJmMmE2NTg5Mzg3MGU4YzYxZGYwMTFiM2Y3",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMGNkNDhmNzRkZDM1MDU0YzU0MzM2MzNlMTViZDhjN2Rh",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Forever Yours",
-        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "I Need A Word",
-      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Close (Radio Edit)",
         "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 265173,
       "name": "Close (Radio Edit)",
       "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "I Need A Word",
+      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -527,6 +527,22 @@
       "duration_ms": 175813,
       "name": "2nd Win",
       "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "You Shall Live",
+        "url": "https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 318186,
+      "name": "Live",
+      "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -591,22 +607,6 @@
       "duration_ms": 292789,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "You Shall Live",
-        "url": "https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 318186,
-      "name": "Live",
-      "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -707,6 +707,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 380493,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "WOW Gospel 2016",
         "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 380493,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "God Is My Refuge (Live)",
         "url": "https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
-        "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
-      },
-      "artists": [
-        {
-          "name": "Daryl Coley",
-          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
-        }
-      ],
-      "duration_ms": 507893,
-      "name": "Beyond The Veil - Live",
-      "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "The Higher Experience",
         "url": "https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 313146,
       "name": "No Ordinary Worship - Live",
       "url": "https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
+        "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
+      },
+      "artists": [
+        {
+          "name": "Daryl Coley",
+          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
+        }
+      ],
+      "duration_ms": 507893,
+      "name": "Beyond The Veil - Live",
+      "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "I Got Out",
-        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
-      },
-      "artists": [
-        {
-          "name": "Bryan Popin",
-          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
-        }
-      ],
-      "duration_ms": 297653,
-      "name": "I Got Out",
-      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Deitrick Haddon & Hill City Worship Camp",
         "url": "https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 458498,
       "name": "A Billion People",
       "url": "https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "I Got Out",
+        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
+      },
+      "artists": [
+        {
+          "name": "Bryan Popin",
+          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
+        }
+      ],
+      "duration_ms": 297653,
+      "name": "I Got Out",
+      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
     },
     {
       "added_at": "2020-06-03 14:33:10",

@@ -1,12 +1,12 @@
 {
   "description": "75 ways to cope with your Indie fomo. Pixey on cover.",
-  "num_followers": 10056,
+  "num_followers": 10055,
   "original_name": "Indie songs from 2022 you may have missed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyNTc2NSwwMDAwMDAwMDU0M2I1ZWYxOTRmNzE2ZmI2M2ZjMmZmZjlkNWRmMTY3",
+  "snapshot_id": "MTY2OTgyNTc2NSwwMDAwMDAwMGQ0NTU4ZDJmNGY5NDc1OWYwZDYwNzQzYjQwYTNhZjdh",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -319,6 +319,38 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Saviour Complex",
+        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Saviour Complex",
+      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "My Friend Mica",
+        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 173905,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Why Do I Keep You?",
         "url": "https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH"
       },
@@ -351,38 +383,6 @@
       "duration_ms": 195260,
       "name": "Song I Believe In",
       "url": "https://open.spotify.com/track/1KXWD5G4e4mBHl4kqrQgx0"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "My Friend Mica",
-        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 173905,
-      "name": "Legs",
-      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Saviour Complex",
-        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
-      },
-      "artists": [
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Saviour Complex",
-      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Go",
+          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "We Don't Talk",
+      "url": "https://open.spotify.com/track/7eXIQjn66MGgQsPIwkooqR"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Do You Well (feat. Perfume Genius)",
         "url": "https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Go",
-          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "We Don't Talk",
-      "url": "https://open.spotify.com/track/7eXIQjn66MGgQsPIwkooqR"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Sex in Afrikaans",
         "url": "https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e"
       },
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Mirror Dance",
+        "url": "https://open.spotify.com/album/6nALYgw7hvos7748RSFf7V"
+      },
+      "artists": [
+        {
+          "name": "Dame Dearest",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "duration_ms": 183183,
+      "name": "Mirror Dance",
+      "url": "https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Pata Pata Saguquka",
         "url": "https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 325502,
       "name": "Pata Pata Saguquka",
       "url": "https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Mirror Dance",
-        "url": "https://open.spotify.com/album/6nALYgw7hvos7748RSFf7V"
-      },
-      "artists": [
-        {
-          "name": "Dame Dearest",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
-        }
-      ],
-      "duration_ms": 183183,
-      "name": "Mirror Dance",
-      "url": "https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Bleak Sublime",
+        "url": "https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "duration_ms": 231722,
+      "name": "Bleak Sublime",
+      "url": "https://open.spotify.com/track/0pVehOhdsaOdYrBprUKxD6"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Is That True?",
         "url": "https://open.spotify.com/album/05XRy1OIW1ZScKXlevm4wS"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Bleak Sublime",
-        "url": "https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
-        }
-      ],
-      "duration_ms": 231722,
-      "name": "Bleak Sublime",
-      "url": "https://open.spotify.com/track/0pVehOhdsaOdYrBprUKxD6"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Sugar Rush",
         "url": "https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Anxious Avoidant",
-        "url": "https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 257437,
-      "name": "I Won't Bite",
-      "url": "https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Follow the Cyborg",
         "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 230169,
       "name": "Like You",
       "url": "https://open.spotify.com/track/19UqVT2WgSz39uvT28mCHg"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Anxious Avoidant",
+        "url": "https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 257437,
+      "name": "I Won't Bite",
+      "url": "https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "\u55ae\u4eba\u623f",
-        "url": "https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs"
-      },
-      "artists": [
-        {
-          "name": "Aldo Tasbur",
-          "url": "https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "\u55ae\u4eba\u623f",
-      "url": "https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Our Precious Things Never Change",
         "url": "https://open.spotify.com/album/1fl87hYmIRPN63Llaw0u4l"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 249041,
       "name": "Calendar",
       "url": "https://open.spotify.com/track/0MlK6FlikM8jgArfXluhSG"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "\u55ae\u4eba\u623f",
+        "url": "https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs"
+      },
+      "artists": [
+        {
+          "name": "Aldo Tasbur",
+          "url": "https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "\u55ae\u4eba\u623f",
+      "url": "https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf"
     },
     {
       "added_at": "2022-11-30 13:45:00",

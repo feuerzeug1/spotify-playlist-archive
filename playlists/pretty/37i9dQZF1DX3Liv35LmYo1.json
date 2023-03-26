@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 103194,
+  "num_followers": 103207,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU3NjQwMCwwMDAwMDAwMGI5Mzk1MDBkNmVmNmM5M2Y2YWRhNWE2YjU3MTIxNTU5",
+  "snapshot_id": "MTY3OTU3NjQwMCwwMDAwMDAwMDZmODFjN2YxZDU1YjEwOWZjMGM0Yzk5NzQ0N2Y0Mjhi",
   "tracks": [
     {
       "added_at": "2023-03-16 13:00:00",
@@ -51,6 +51,26 @@
     {
       "added_at": "2023-03-16 13:00:00",
       "album": {
+        "name": "Equals",
+        "url": "https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "duration_ms": 286451,
+      "name": "Equals",
+      "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
+    },
+    {
+      "added_at": "2023-03-16 13:00:00",
+      "album": {
         "name": "COPY COPY (Logic1000 & Big Ever Remix)",
         "url": "https://open.spotify.com/album/3fVnUAAyQFgv8LhjtSKMDs"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 255133,
       "name": "COPY COPY - Logic1000 & Big Ever Remix",
       "url": "https://open.spotify.com/track/44oj6fg5Wj1EdIcWGGuoTF"
-    },
-    {
-      "added_at": "2023-03-16 13:00:00",
-      "album": {
-        "name": "Equals",
-        "url": "https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
-        }
-      ],
-      "duration_ms": 286451,
-      "name": "Equals",
-      "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
     },
     {
       "added_at": "2023-03-16 13:00:00",
@@ -231,18 +231,22 @@
     {
       "added_at": "2023-03-16 13:00:00",
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF"
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
       "artists": [
         {
-          "name": "Juno Mamba",
-          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
         }
       ],
-      "duration_ms": 291657,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi"
+      "duration_ms": 218308,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
     },
     {
       "added_at": "2023-03-16 13:00:00",
@@ -263,22 +267,18 @@
     {
       "added_at": "2023-03-16 13:00:00",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
+        "name": "Us",
+        "url": "https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF"
       },
       "artists": [
         {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
         }
       ],
-      "duration_ms": 218308,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
+      "duration_ms": 291657,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi"
     },
     {
       "added_at": "2023-03-16 13:00:00",
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
     },
     {
-      "added_at": "2023-03-25 01:16:03",
+      "added_at": "2023-03-26 01:25:25",
       "album": {
         "name": "hollatchu",
         "url": "https://open.spotify.com/album/6v2Carq39870pglhzZeHqx"
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-16 13:00:00",
       "album": {
-        "name": "Call of the Whipbird",
-        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
-      },
-      "artists": [
-        {
-          "name": "Subset",
-          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
-        }
-      ],
-      "duration_ms": 388735,
-      "name": "Whipbird Dub",
-      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
-    },
-    {
-      "added_at": "2023-03-16 13:00:00",
-      "album": {
         "name": "In The Sweetness of You",
         "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 233253,
       "name": "21",
       "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
+    },
+    {
+      "added_at": "2023-03-16 13:00:00",
+      "album": {
+        "name": "Call of the Whipbird",
+        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
+      },
+      "artists": [
+        {
+          "name": "Subset",
+          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
+        }
+      ],
+      "duration_ms": 388735,
+      "name": "Whipbird Dub",
+      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
     },
     {
       "added_at": "2023-03-16 13:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-03-16 13:00:00",
       "album": {
-        "name": "Jewels from the Sun EP",
-        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 290847,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
-    },
-    {
-      "added_at": "2023-03-16 13:00:00",
-      "album": {
         "name": "meserole",
         "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 213760,
       "name": "meserole",
       "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
+    },
+    {
+      "added_at": "2023-03-16 13:00:00",
+      "album": {
+        "name": "Jewels from the Sun EP",
+        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 290847,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
     },
     {
       "added_at": "2023-03-16 13:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-16 13:00:00",
       "album": {
-        "name": "Happiness, Guaranteed",
-        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 281240,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9"
-    },
-    {
-      "added_at": "2023-03-16 13:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 298713,
       "name": "Water",
       "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
+    },
+    {
+      "added_at": "2023-03-16 13:00:00",
+      "album": {
+        "name": "Happiness, Guaranteed",
+        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 281240,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9"
     },
     {
       "added_at": "2023-03-16 13:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-03-16 13:00:00",
       "album": {
-        "name": "Have You Felt Lately? (Brijean Remix)",
-        "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Have You Felt Lately? - Brijean Remix",
-      "url": "https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d"
-    },
-    {
-      "added_at": "2023-03-16 13:00:00",
-      "album": {
         "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
         "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 274267,
       "name": "Shapeless",
       "url": "https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7"
+    },
+    {
+      "added_at": "2023-03-16 13:00:00",
+      "album": {
+        "name": "Have You Felt Lately? (Brijean Remix)",
+        "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Have You Felt Lately? - Brijean Remix",
+      "url": "https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d"
     },
     {
       "added_at": "2023-03-16 13:00:00",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2023-03-16 13:00:00",
       "album": {
-        "name": "Can Do This",
-        "url": "https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW"
+        "name": "All Ways",
+        "url": "https://open.spotify.com/album/2fSalddDJUxWeDeXl2yTwR"
       },
       "artists": [
         {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Mala",
+          "url": "https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu"
         }
       ],
-      "duration_ms": 228609,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup"
+      "duration_ms": 256000,
+      "name": "All Ways",
+      "url": "https://open.spotify.com/track/6FXo8XBPJVRVTnULgrMEVt"
     },
     {
       "added_at": "2023-03-16 13:00:00",
@@ -1095,90 +1099,18 @@
     {
       "added_at": "2023-03-16 13:00:00",
       "album": {
-        "name": "All Ways",
-        "url": "https://open.spotify.com/album/2fSalddDJUxWeDeXl2yTwR"
+        "name": "Can Do This",
+        "url": "https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW"
       },
       "artists": [
         {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
-        },
-        {
-          "name": "Mala",
-          "url": "https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu"
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
         }
       ],
-      "duration_ms": 256000,
-      "name": "All Ways",
-      "url": "https://open.spotify.com/track/6FXo8XBPJVRVTnULgrMEVt"
-    },
-    {
-      "added_at": "2023-03-16 13:00:00",
-      "album": {
-        "name": "Rainbows and Dreams",
-        "url": "https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        },
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 281060,
-      "name": "Rainbows and Dreams",
-      "url": "https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7"
-    },
-    {
-      "added_at": "2023-03-16 13:00:00",
-      "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
-      },
-      "artists": [
-        {
-          "name": "Mr. Sosa",
-          "url": "https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
-    },
-    {
-      "added_at": "2023-03-16 13:00:00",
-      "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
-    },
-    {
-      "added_at": "2023-03-16 13:00:00",
-      "album": {
-        "name": "Take Them",
-        "url": "https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 287542,
-      "name": "Take Them",
-      "url": "https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT"
+      "duration_ms": 228609,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup"
     },
     {
       "added_at": "2023-03-16 13:00:00",
@@ -1203,6 +1135,74 @@
       "duration_ms": 254268,
       "name": "TIME",
       "url": "https://open.spotify.com/track/0xwx7706qyfnugQQk7yTpN"
+    },
+    {
+      "added_at": "2023-03-16 13:00:00",
+      "album": {
+        "name": "Rainbows and Dreams",
+        "url": "https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 281060,
+      "name": "Rainbows and Dreams",
+      "url": "https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7"
+    },
+    {
+      "added_at": "2023-03-16 13:00:00",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2023-03-16 13:00:00",
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
+      },
+      "artists": [
+        {
+          "name": "Mr. Sosa",
+          "url": "https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
+    },
+    {
+      "added_at": "2023-03-16 13:00:00",
+      "album": {
+        "name": "Take Them",
+        "url": "https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 287542,
+      "name": "Take Them",
+      "url": "https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT"
     },
     {
       "added_at": "2023-03-16 13:00:00",

@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Masego
 
-824 songs - 2 day 0 hr 36 min
+825 songs - 2 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,7 @@
 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2022-07-22 | 2022-09-10 |
 | [I'm in It](https://open.spotify.com/track/6paAqzQNi3EQJUAZjaRXh0) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 3:30 | 2022-05-20 | 2022-05-28 |
 | [Icarus](https://open.spotify.com/track/58UVZ68VQiQ4EHeIIcX0gb) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Icarus](https://open.spotify.com/album/2pfKIrc0KoZvJ6DK7bLXbY) | 2:29 | 2020-09-25 | 2020-12-04 |
-| [Idol Eyes](https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Idol Eyes](https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D) | 4:48 | 2020-10-16 |  |
+| [Idol Eyes](https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Idol Eyes](https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D) | 4:48 | 2020-10-16 | 2023-03-26 |
 | [If The Love Goes \- A COLORS SHOW](https://open.spotify.com/track/6fcFACL3GGEynUlyvmbqRt) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv), [P2J](https://open.spotify.com/artist/7owWHiQB5FQHFiBYXxbphY) | [If The Love Goes \- A COLORS SHOW](https://open.spotify.com/album/39QsjJesAI2ufMadu1NRzu) | 3:43 | 2022-12-09 |  |
 | [Illjazz](https://open.spotify.com/track/7tB8wL6DdOpAWz7d3ofhR0) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr), [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w) | [Illjazz](https://open.spotify.com/album/7sT0wrwwiPM3lF3UamSAHi) | 3:25 | 2021-03-16 | 2022-07-13 |
 | [In My Head](https://open.spotify.com/track/2FygRDP2PuxcvWGGyf3nao) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [The View / In My Head](https://open.spotify.com/album/0dI9CNhsq619IK9WiXwHDf) | 2:10 | 2019-11-15 | 2020-02-20 |
@@ -640,6 +640,7 @@
 | [Slowdance](https://open.spotify.com/track/2rOSB52mcm036RHVrRBbYj) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Slowdance](https://open.spotify.com/album/2GNisekSr9oU1ZAgzUAIYX) | 5:15 | 2021-04-20 | 2022-07-29 |
 | [Slush](https://open.spotify.com/track/65G9ljHILZ3jYtQwnBIWSt) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Slush](https://open.spotify.com/album/5WI4Iwq4M6g4enr4ZCUozH) | 3:57 | 2021-04-12 | 2022-07-29 |
 | [Smoke](https://open.spotify.com/track/092s6wVDOgosfuZKY4ccj7) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Smoke](https://open.spotify.com/album/4xnAka30RUXgejpy6knE8M) | 4:24 | 2021-05-15 | 2022-07-27 |
+| [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 | 2023-03-24 |  |
 | [Snowflower](https://open.spotify.com/track/5iW0UFq95KuAbwoMyhgFB9) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Snowflower](https://open.spotify.com/album/5ZaTktssgaH0LP5boYH2K7) | 3:15 | 2020-10-16 | 2021-01-15 |
 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 | 2020-09-18 |  |
 | [So Long](https://open.spotify.com/track/0IgEhBc28DrqMaFCSWrSew) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [So Long](https://open.spotify.com/album/2WajwfUOqKOzoicUBCmo14) | 2:23 | 2022-04-15 | 2022-09-26 |

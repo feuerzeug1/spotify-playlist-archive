@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 李佳歡 \(KarFun\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,590 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,598 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 19 | [For Baby \(《愛情發生在三天後》戲劇片頭曲\)](https://open.spotify.com/track/59of7wz95nfPZ259e9I3c7) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [For Baby](https://open.spotify.com/album/7grcqCA5GJq0tyGRH81iIj) | 4:20 |
 | 20 | [魔鏡・魔境 \- 手遊《魔鏡物語》主題曲](https://open.spotify.com/track/7zrkPn8ki1zS30whTmOPrp) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [魔鏡・魔境 \(手遊《魔鏡物語》主題曲\)](https://open.spotify.com/album/1DVuWaxUQvGrzoqBI8gc5O) | 4:01 |
 | 21 | [縮影 \(《台北女子圖鑑》戲劇片頭曲\)](https://open.spotify.com/track/3VC4J1pj4oILfBtfhNY0SC) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [縮影](https://open.spotify.com/album/2h23nUlnKGy9Rzv0It2Rpx) | 3:49 |
-| 22 | [你怎麼還不睡呢](https://open.spotify.com/track/68GpgfyQldsiWumkYY76Nz) | [郭靜 \(Claire Kuo\)](https://open.spotify.com/artist/3GV6SjP0scJoncVohTOF3Z) | [So Lucky](https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7) | 3:17 |
+| 22 | [你怎麼還不睡呢](https://open.spotify.com/track/0MjZ9SUVFiaPo9s2umcBmc) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [你怎麼還不睡呢](https://open.spotify.com/album/6YmtnrcX86NoODrvpPCbjM) | 3:17 |
 | 23 | [你是說謊的人](https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa) | 3:52 |
 | 24 | [不如先慶祝能在一起](https://open.spotify.com/track/5P1sy6uSr5K0vvauivV0tO) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH), [陳偉](https://open.spotify.com/artist/7lgqd1jIK0bvRdycSqeRe2) | [Naked Truth赤裸真相](https://open.spotify.com/album/2DRRJ2qowL8vYYdVB4O5PW) | 4:16 |
 | 25 | [漢堡包](https://open.spotify.com/track/3hIzlOuqBKJnCINERJKiyY) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [漢堡包](https://open.spotify.com/album/0ileEFpKqNcdH0iAHeDESt) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [我們的寂寞](https://open.spotify.com/track/628YuhN8tCBaK52xpRdUbK) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [4 U](https://open.spotify.com/album/3s8Q2pYoAO73KDMYOLjTqw) | 4:26 |
 | 50 | [良人](https://open.spotify.com/track/4ovwOD6QlKmEWqRUtxV6JS) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [天空島](https://open.spotify.com/album/62Xx7MlXF9H7pE3YMyNcJX) | 4:19 |
 
-Snapshot ID: `MTY3NzY0NDQ3NCwwMDAwMDAwMDY0YmMwNmZiOWE0NGZlYjcyYWM0ZTNlN2M2M2YzN2Nj`
+Snapshot ID: `MTY3NzY0NDQ3NCwwMDAwMDAwMDg2YjE0NzU4NmNiZTFlZWE2YTQ3ZDE0YWI3YzBhMDJh`

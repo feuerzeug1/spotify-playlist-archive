@@ -492,6 +492,24 @@
     {
       "album": {
         "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404391,
+      "name": "Disco Illusion",
+      "url": "https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa"
+    },
+    {
+      "album": {
+        "name": "Disco Illusion",
         "url": "https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n"
       },
       "artists": [
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-26",
       "duration_ms": 256519,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o"

@@ -1,12 +1,12 @@
 {
   "description": "La playlist che \u00e8 come andare ai concerti. Sick Tamburo in cover!",
-  "num_followers": 18407,
+  "num_followers": 18418,
   "original_name": "Rock Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMjQ2MCwwMDAwMDAwMDEwYTA0NDA0NDU5NTNmNzc0YjEzOTEzMzVkYTdjODMw",
+  "snapshot_id": "MTY3OTYxMjQ2MCwwMDAwMDAwMDk2ZjAxNzJmM2RmYjMyYmZkNjcwMjg1ZWRhZWM3YzA2",
   "tracks": [
     {
       "added_at": "2023-03-23 23:01:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "EVERYTHING SUCKS!",
+        "url": "https://open.spotify.com/album/3F74AL4nsOcfw21EKINfbr"
+      },
+      "artists": [
+        {
+          "name": "Halflives",
+          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
+        }
+      ],
+      "duration_ms": 140559,
+      "name": "EVERYTHING SUCKS!",
+      "url": "https://open.spotify.com/track/453gVRCWZ0SKSoWfQzyFqY"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Pornolesbo",
         "url": "https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03"
       },
@@ -287,6 +303,22 @@
       "duration_ms": 144818,
       "name": "Pornolesbo",
       "url": "https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "RISERVE",
+        "url": "https://open.spotify.com/album/355pIopHNw6bmPned9sBlg"
+      },
+      "artists": [
+        {
+          "name": "I Boschi Bruciano",
+          "url": "https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "SARANNO ALTRI",
+      "url": "https://open.spotify.com/track/0g8YSJUxWL9WqTJ9FPCGI5"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -311,22 +343,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "RISERVE",
-        "url": "https://open.spotify.com/album/355pIopHNw6bmPned9sBlg"
-      },
-      "artists": [
-        {
-          "name": "I Boschi Bruciano",
-          "url": "https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "SARANNO ALTRI",
-      "url": "https://open.spotify.com/track/0g8YSJUxWL9WqTJ9FPCGI5"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Come mi vuoi",
         "url": "https://open.spotify.com/album/4FDhJ1zKCY51vAjCxNRSRX"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 182930,
       "name": "Come mi vuoi",
       "url": "https://open.spotify.com/track/50Q4NLN9n0p5XF3VObLq9T"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Signorina Mani Avanti",
-        "url": "https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl"
-      },
-      "artists": [
-        {
-          "name": "Manuel Agnelli",
-          "url": "https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4"
-        }
-      ],
-      "duration_ms": 232430,
-      "name": "Signorina Mani Avanti",
-      "url": "https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "Signorina Mani Avanti",
+        "url": "https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl"
+      },
+      "artists": [
+        {
+          "name": "Manuel Agnelli",
+          "url": "https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4"
+        }
+      ],
+      "duration_ms": 232430,
+      "name": "Signorina Mani Avanti",
+      "url": "https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Eclissi",
         "url": "https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 229285,
       "name": "Eclissi",
       "url": "https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Figli dei fiori",
-        "url": "https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs"
-      },
-      "artists": [
-        {
-          "name": "Barkee Bay",
-          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
-        }
-      ],
-      "duration_ms": 163894,
-      "name": "Figli dei fiori",
-      "url": "https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "Figli dei fiori",
+        "url": "https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs"
+      },
+      "artists": [
+        {
+          "name": "Barkee Bay",
+          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
+        }
+      ],
+      "duration_ms": 163894,
+      "name": "Figli dei fiori",
+      "url": "https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Dubbi",
         "url": "https://open.spotify.com/album/6omoVtfeupG4wYjvJGbmnK"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 141235,
       "name": "Dubbi",
       "url": "https://open.spotify.com/track/2wtWiOYLxZeWotEXMGqH56"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "How",
-        "url": "https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt"
-      },
-      "artists": [
-        {
-          "name": "dollsaway",
-          "url": "https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT"
-        }
-      ],
-      "duration_ms": 159121,
-      "name": "How",
-      "url": "https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -475,6 +475,54 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "How",
+        "url": "https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt"
+      },
+      "artists": [
+        {
+          "name": "dollsaway",
+          "url": "https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT"
+        }
+      ],
+      "duration_ms": 159121,
+      "name": "How",
+      "url": "https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Superhero Dopeproof",
+        "url": "https://open.spotify.com/album/7DTaDXygAePDZ4KuZI6AER"
+      },
+      "artists": [
+        {
+          "name": "Black Rainbows",
+          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
+        }
+      ],
+      "duration_ms": 276293,
+      "name": "Superhero Dopeproof",
+      "url": "https://open.spotify.com/track/6eQF2PeXF6zKjbm9w1JJzX"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "TUTTA FORTUNA",
+        "url": "https://open.spotify.com/album/4b4BvXjdn59TkNl9n7lpyE"
+      },
+      "artists": [
+        {
+          "name": "Mutonia",
+          "url": "https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER"
+        }
+      ],
+      "duration_ms": 165080,
+      "name": "TUTTA FORTUNA",
+      "url": "https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "TRANNE LA MIA",
         "url": "https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm"
       },
@@ -491,6 +539,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6LpWr2WlPPxAlhV37JDVU7"
+      },
+      "artists": [
+        {
+          "name": "simmcat",
+          "url": "https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/67maDzWmzcfKBu24z2XtWI"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "0 SENTIMENTO",
         "url": "https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE"
       },
@@ -503,6 +567,22 @@
       "duration_ms": 149629,
       "name": "0 SENTIMENTO",
       "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "GDPR",
+        "url": "https://open.spotify.com/album/50pO3NjGEEQyGRU9lpVbA6"
+      },
+      "artists": [
+        {
+          "name": "montag",
+          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "GDPR",
+      "url": "https://open.spotify.com/track/18vO34ifxlaN3b8VmKNnF6"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -539,54 +619,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6LpWr2WlPPxAlhV37JDVU7"
-      },
-      "artists": [
-        {
-          "name": "simmcat",
-          "url": "https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/67maDzWmzcfKBu24z2XtWI"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Volpi",
-        "url": "https://open.spotify.com/album/2ipqyNnq2rcaJqVoVMFkJB"
-      },
-      "artists": [
-        {
-          "name": "Ricche le Mura",
-          "url": "https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB"
-        }
-      ],
-      "duration_ms": 220555,
-      "name": "Volpi",
-      "url": "https://open.spotify.com/track/3OHRaBl0M2X5UWfgevbyVK"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "GDPR",
-        "url": "https://open.spotify.com/album/50pO3NjGEEQyGRU9lpVbA6"
-      },
-      "artists": [
-        {
-          "name": "montag",
-          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "GDPR",
-      "url": "https://open.spotify.com/track/18vO34ifxlaN3b8VmKNnF6"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "RAGAZZAcd",
         "url": "https://open.spotify.com/album/5biGGXXcg1SwYrzq5aeH15"
       },
@@ -611,34 +643,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "TUTTA FORTUNA",
-        "url": "https://open.spotify.com/album/4b4BvXjdn59TkNl9n7lpyE"
+        "name": "Volpi",
+        "url": "https://open.spotify.com/album/2ipqyNnq2rcaJqVoVMFkJB"
       },
       "artists": [
         {
-          "name": "Mutonia",
-          "url": "https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER"
+          "name": "Ricche le Mura",
+          "url": "https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB"
         }
       ],
-      "duration_ms": 165080,
-      "name": "TUTTA FORTUNA",
-      "url": "https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Piove Dentro",
-        "url": "https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex"
-      },
-      "artists": [
-        {
-          "name": "Gli Occhi Degli Altri",
-          "url": "https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ"
-        }
-      ],
-      "duration_ms": 197579,
-      "name": "Piove Dentro",
-      "url": "https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk"
+      "duration_ms": 220555,
+      "name": "Volpi",
+      "url": "https://open.spotify.com/track/3OHRaBl0M2X5UWfgevbyVK"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -659,34 +675,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Libera (esseri umani perfetti)",
-        "url": "https://open.spotify.com/album/4dTODDZeNDbKIsAWutEln2"
+        "name": "Piove Dentro",
+        "url": "https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex"
       },
       "artists": [
         {
-          "name": "\u2044handlogic",
-          "url": "https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z"
+          "name": "Gli Occhi Degli Altri",
+          "url": "https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ"
         }
       ],
-      "duration_ms": 407262,
-      "name": "Libera (esseri umani perfetti)",
-      "url": "https://open.spotify.com/track/2l5ym1CsjSg10FapXRbdkz"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "My Old Flame",
-        "url": "https://open.spotify.com/album/08GOUlXVokyOkTDCeqxs8S"
-      },
-      "artists": [
-        {
-          "name": "Persian Pelican",
-          "url": "https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "My Old Flame",
-      "url": "https://open.spotify.com/track/7y35wGyxOmxqXvUJJn3TKF"
+      "duration_ms": 197579,
+      "name": "Piove Dentro",
+      "url": "https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -703,6 +703,70 @@
       "duration_ms": 182253,
       "name": "Schifo",
       "url": "https://open.spotify.com/track/7faEMnYmpiNWxQoGcIDIbf"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Libera (esseri umani perfetti)",
+        "url": "https://open.spotify.com/album/4dTODDZeNDbKIsAWutEln2"
+      },
+      "artists": [
+        {
+          "name": "\u2044handlogic",
+          "url": "https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z"
+        }
+      ],
+      "duration_ms": 407262,
+      "name": "Libera (esseri umani perfetti)",
+      "url": "https://open.spotify.com/track/2l5ym1CsjSg10FapXRbdkz"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "FOR MYSELF",
+        "url": "https://open.spotify.com/album/4I3i5IJCtWaY9trGpEhoTq"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        }
+      ],
+      "duration_ms": 129149,
+      "name": "FOR MYSELF",
+      "url": "https://open.spotify.com/track/4fz3cHwbOheH4GxK2uCtGo"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Open Access",
+        "url": "https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF"
+      },
+      "artists": [
+        {
+          "name": "montag",
+          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Open Access",
+      "url": "https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "My Old Flame",
+        "url": "https://open.spotify.com/album/08GOUlXVokyOkTDCeqxs8S"
+      },
+      "artists": [
+        {
+          "name": "Persian Pelican",
+          "url": "https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/7y35wGyxOmxqXvUJJn3TKF"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -739,38 +803,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Open Access",
-        "url": "https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF"
-      },
-      "artists": [
-        {
-          "name": "montag",
-          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Open Access",
-      "url": "https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "FOR MYSELF",
-        "url": "https://open.spotify.com/album/4I3i5IJCtWaY9trGpEhoTq"
-      },
-      "artists": [
-        {
-          "name": "Scaglia",
-          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
-        }
-      ],
-      "duration_ms": 129149,
-      "name": "FOR MYSELF",
-      "url": "https://open.spotify.com/track/4fz3cHwbOheH4GxK2uCtGo"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/24ottTrnTzbGEDpomgejEh"
       },
@@ -803,22 +835,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "A New Light",
-        "url": "https://open.spotify.com/album/15Zt9VuEljTvIzCAQo6Ge9"
+        "name": "Manuale Illusione",
+        "url": "https://open.spotify.com/album/5mbSRdkta9YJNrE5enrRQp"
       },
       "artists": [
         {
-          "name": "Amarcord",
-          "url": "https://open.spotify.com/artist/48wxf1us9rk9qOPqL6Ltcp"
-        },
-        {
-          "name": "Altutt",
-          "url": "https://open.spotify.com/artist/7JHeVFGMb4p2Ayq1jU0g3p"
+          "name": "Ai!",
+          "url": "https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ"
         }
       ],
-      "duration_ms": 215760,
-      "name": "A New Light",
-      "url": "https://open.spotify.com/track/3OU1LHgAN5jN8ACshKZAqE"
+      "duration_ms": 612500,
+      "name": "Dimensioni",
+      "url": "https://open.spotify.com/track/5PyuNTJsfks0Ub77EvdOQ5"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -839,18 +867,22 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Manuale Illusione",
-        "url": "https://open.spotify.com/album/5mbSRdkta9YJNrE5enrRQp"
+        "name": "A New Light",
+        "url": "https://open.spotify.com/album/15Zt9VuEljTvIzCAQo6Ge9"
       },
       "artists": [
         {
-          "name": "Ai!",
-          "url": "https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ"
+          "name": "Amarcord",
+          "url": "https://open.spotify.com/artist/48wxf1us9rk9qOPqL6Ltcp"
+        },
+        {
+          "name": "Altutt",
+          "url": "https://open.spotify.com/artist/7JHeVFGMb4p2Ayq1jU0g3p"
         }
       ],
-      "duration_ms": 612500,
-      "name": "Dimensioni",
-      "url": "https://open.spotify.com/track/5PyuNTJsfks0Ub77EvdOQ5"
+      "duration_ms": 215760,
+      "name": "A New Light",
+      "url": "https://open.spotify.com/track/3OU1LHgAN5jN8ACshKZAqE"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -871,22 +903,6 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "CARNE OSSA",
-        "url": "https://open.spotify.com/album/5iIkvPvQvxoYFSoaId1YCX"
-      },
-      "artists": [
-        {
-          "name": "Marrano",
-          "url": "https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY"
-        }
-      ],
-      "duration_ms": 260053,
-      "name": "ALL'INFERNO C'\u00c8 IL SOLE",
-      "url": "https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
         "name": "Samurai",
         "url": "https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4"
       },
@@ -903,6 +919,38 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
+        "name": "CARNE OSSA",
+        "url": "https://open.spotify.com/album/5iIkvPvQvxoYFSoaId1YCX"
+      },
+      "artists": [
+        {
+          "name": "Marrano",
+          "url": "https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY"
+        }
+      ],
+      "duration_ms": 260053,
+      "name": "ALL'INFERNO C'\u00c8 IL SOLE",
+      "url": "https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Backrooms",
+        "url": "https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ"
+      },
+      "artists": [
+        {
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+        }
+      ],
+      "duration_ms": 111235,
+      "name": "Backrooms",
+      "url": "https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
         "name": "Destroy",
         "url": "https://open.spotify.com/album/4h8rs7FLRj0x5H1dgO8MrV"
       },
@@ -915,6 +963,22 @@
       "duration_ms": 130030,
       "name": "Destroy",
       "url": "https://open.spotify.com/track/1qyC24XBRS8gCtgHdogqSZ"
+    },
+    {
+      "added_at": "2023-03-23 23:01:00",
+      "album": {
+        "name": "Palle piene",
+        "url": "https://open.spotify.com/album/6uWUi8vGKSQmx9z9zKSZEG"
+      },
+      "artists": [
+        {
+          "name": "Brucher\u00f2 nei pascoli",
+          "url": "https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg"
+        }
+      ],
+      "duration_ms": 200475,
+      "name": "Palle piene",
+      "url": "https://open.spotify.com/track/5pUX3YSJvol5sBzAmBEIGb"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -951,18 +1015,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Palle piene",
-        "url": "https://open.spotify.com/album/6uWUi8vGKSQmx9z9zKSZEG"
+        "name": "Una guerra da perdere",
+        "url": "https://open.spotify.com/album/6HmjiLUlkcrNdX9mAMoiKs"
       },
       "artists": [
         {
-          "name": "Brucher\u00f2 nei pascoli",
-          "url": "https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg"
+          "name": "EX POLVERE",
+          "url": "https://open.spotify.com/artist/4gxwFXp6NjVvRyqM5KQyzb"
         }
       ],
-      "duration_ms": 200475,
-      "name": "Palle piene",
-      "url": "https://open.spotify.com/track/5pUX3YSJvol5sBzAmBEIGb"
+      "duration_ms": 220821,
+      "name": "Una guerra da perdere",
+      "url": "https://open.spotify.com/track/04EumUGooPGl61ogNI4fiN"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -983,34 +1047,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Una guerra da perdere",
-        "url": "https://open.spotify.com/album/6HmjiLUlkcrNdX9mAMoiKs"
+        "name": "Il Nuovo Mare",
+        "url": "https://open.spotify.com/album/74g4C5qxpHrF1xv0HkFRR8"
       },
       "artists": [
         {
-          "name": "EX POLVERE",
-          "url": "https://open.spotify.com/artist/4gxwFXp6NjVvRyqM5KQyzb"
+          "name": "Vintage Violence",
+          "url": "https://open.spotify.com/artist/0WGMKokl5OoPCHeP8Beydm"
         }
       ],
-      "duration_ms": 220821,
-      "name": "Una guerra da perdere",
-      "url": "https://open.spotify.com/track/04EumUGooPGl61ogNI4fiN"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Lentius Profundius Suavius",
-        "url": "https://open.spotify.com/album/6evTL0jvzNn2kOP2jEZsvw"
-      },
-      "artists": [
-        {
-          "name": "Krano",
-          "url": "https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Soa",
-      "url": "https://open.spotify.com/track/55sdacSFOkx0mewyYctT1d"
+      "duration_ms": 128500,
+      "name": "Il Nuovo Mare",
+      "url": "https://open.spotify.com/track/6Ozcuq3JqLMMl3PIjy8u4L"
     },
     {
       "added_at": "2023-03-23 23:01:00",
@@ -1031,66 +1079,18 @@
     {
       "added_at": "2023-03-23 23:01:00",
       "album": {
-        "name": "Quanto",
-        "url": "https://open.spotify.com/album/3kwtSVF7s2Cy6nsoqFX531"
+        "name": "Lentius Profundius Suavius",
+        "url": "https://open.spotify.com/album/6evTL0jvzNn2kOP2jEZsvw"
       },
       "artists": [
         {
-          "name": "Gazebo Penguins",
-          "url": "https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN"
+          "name": "Krano",
+          "url": "https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw"
         }
       ],
-      "duration_ms": 197226,
-      "name": "Erwin",
-      "url": "https://open.spotify.com/track/1AgaLw689q2wdgfP7LpbtR"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Parole D'Odio",
-        "url": "https://open.spotify.com/album/52gMCMOrYOIkHVviiTXLor"
-      },
-      "artists": [
-        {
-          "name": "Mondo Caos",
-          "url": "https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP"
-        }
-      ],
-      "duration_ms": 183882,
-      "name": "Parole D'Odio",
-      "url": "https://open.spotify.com/track/08Lf3i2zHNZmLLnceXA24k"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Goodbye Dreamers",
-        "url": "https://open.spotify.com/album/0dyFCerPTAuvIV19cIapoY"
-      },
-      "artists": [
-        {
-          "name": "Persian Pelican",
-          "url": "https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG"
-        }
-      ],
-      "duration_ms": 174189,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5GXBYq5eBPcb8yNw885PbB"
-    },
-    {
-      "added_at": "2023-03-23 23:01:00",
-      "album": {
-        "name": "Superhero Dopeproof",
-        "url": "https://open.spotify.com/album/7DTaDXygAePDZ4KuZI6AER"
-      },
-      "artists": [
-        {
-          "name": "Black Rainbows",
-          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
-        }
-      ],
-      "duration_ms": 276293,
-      "name": "Superhero Dopeproof",
-      "url": "https://open.spotify.com/track/6eQF2PeXF6zKjbm9w1JJzX"
+      "duration_ms": 238733,
+      "name": "Soa",
+      "url": "https://open.spotify.com/track/55sdacSFOkx0mewyYctT1d"
     }
   ],
   "unique_name": "Rock Italia",

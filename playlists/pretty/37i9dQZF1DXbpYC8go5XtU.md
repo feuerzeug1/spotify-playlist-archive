@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,816 likes - 150 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,875 likes - 150 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 80 | [Song for Milkweed \(asclepias, a genus of herbaceous, perennial, flowering plants\)](https://open.spotify.com/track/6kiL320opeuGmB8d4O7a3c) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w), [D\. Field Recording Co.](https://open.spotify.com/artist/5hdo68ZZKXYHWBu21odRQi) | [Song for Milkweed \(asclepias, a genus of herbaceous, perennial, flowering plants\)](https://open.spotify.com/album/3QnE3ye7yScDPQLdjN9UGr) | 2:21 |
 | 81 | [Together 11](https://open.spotify.com/track/4dELNFobQajFqSVESX8Fwz) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65), [Highland Park Sleep Collective](https://open.spotify.com/artist/52tBivESnfK4iqF7gYhn7T) | [TETHER](https://open.spotify.com/album/2q4uAGB47sgADbxwbDIhDc) | 4:00 |
 | 82 | [Take Me by the Hand \(36 After Dark Version\)](https://open.spotify.com/track/6LIqC6EASRPcMetiXt42H4) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [The Other Side of Darkness](https://open.spotify.com/album/0Tdcm7f0lANH7EwD6p7c8k) | 3:47 |
-| 83 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 |
+| 83 | [Mir](https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/5mA73OzLoiOQZK3no4z9OE) | 11:28 |
 | 84 | [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 |
 | 85 | [Tides IX](https://open.spotify.com/track/6Alc94RqPchQ9gFeJEDqY4) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Tides: Music for Meditation and Yoga](https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh) | 5:52 |
 | 86 | [What If](https://open.spotify.com/track/6Ze6f6eCLCSbxuTHtwyC68) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [What If](https://open.spotify.com/album/3LbiSkkcnKQHE8l69UpMFr) | 3:14 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 149 | [Heart of the Forest](https://open.spotify.com/track/5jDXQNtNbPWMQvMW6iIyhT) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/6Sr2sLVQAosKrGZyB7kdaD) | 5:56 |
 | 150 | [Faint Light](https://open.spotify.com/track/1gmQkUuVVE7mIyU4PDnnge) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 5:20 |
 
-Snapshot ID: `MTY3ODk4NDg0NCwwMDAwMDAwMGYyMjM3NmFjMDU0OTE1Nzg4NjJiNTZhM2VlY2U0ODgy`
+Snapshot ID: `MTY3ODk4NDg0NCwwMDAwMDAwMDAyZDBjNzk4ZTY3OGI3MWUwNDNiNGFhMTk4YzgyNTky`

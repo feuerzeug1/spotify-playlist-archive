@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Internet Money, NLE Choppa and more\. Cover: Baby Tate
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,018 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,075 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 37 | [Luv 4 My Block](https://open.spotify.com/track/7M1kT1qfYZjE8L2Bik8eUO) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Luv 4 My Block](https://open.spotify.com/album/6HV4YhvKzdeFJaHKaIB594) | 1:21 |
 | 38 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 |
 | 39 | [Side Eye](https://open.spotify.com/track/3nrPLwBP7AXFjjUV9XHkaI) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Side Eye](https://open.spotify.com/album/51vLXSdhW3vNQpqun8BoF6) | 2:52 |
-| 40 | [Home Confinement](https://open.spotify.com/track/2X7wRcHcXWAKZQA4jmtEsM) | [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [Home Confinement](https://open.spotify.com/album/44c4kyJ4lyuV70ScTrOwbx) | 2:24 |
+| 40 | [Home Confinement \- Home Confinement \(Explicit Stereo\)](https://open.spotify.com/track/2X7wRcHcXWAKZQA4jmtEsM) | [Wam SpinThaBin](https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt) | [Home Confinement](https://open.spotify.com/album/44c4kyJ4lyuV70ScTrOwbx) | 2:24 |
 | 41 | [Commas](https://open.spotify.com/track/3IM8sdoY61ppCc4l3edWdy) | [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Commas](https://open.spotify.com/album/0OTPgVM3oUkFwyMwrXdp2B) | 1:47 |
 | 42 | [No More](https://open.spotify.com/track/2ew6Sp4DaM7K3zqgQK3hDc) | [ItsWill](https://open.spotify.com/artist/4OiW70QEFqUjcIksQm6EPe) | [No More](https://open.spotify.com/album/0ivFRiA5GHzoE7OiM3GNum) | 2:29 |
 | 43 | [Double Tree](https://open.spotify.com/track/4z3lSW7uLPNAGwW3erymqz) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Double Tree](https://open.spotify.com/album/4luJh4nzTK6VFqILyqLM32) | 2:43 |

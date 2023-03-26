@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: The Blaze
 
-746 songs - 2 day 1 hr 5 min
+747 songs - 2 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,7 +688,7 @@
 | [Too Long](https://open.spotify.com/track/2UbcxMwKhJkMWjZhK8LNUH) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Too Long](https://open.spotify.com/album/6XRxElFCoPMCJ5mchJftwU) | 3:26 | 2021-10-15 | 2022-01-31 |
 | [Track of Time \(feat\. Haich Ber Na & Shay Lia\)](https://open.spotify.com/track/60mref14DIUaRjx1W7B9Gx) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV), [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Track of Time \(feat\. Haich Ber Na & Shay Lia\)](https://open.spotify.com/album/0AaOZesyar7iYCp0BQgMPV) | 3:53 | 2021-06-25 | 2022-05-18 |
 | [Treat You Better](https://open.spotify.com/track/2WGCtCxVwf1UmnKHA0SxrQ) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Treat You Better](https://open.spotify.com/album/57k05KUQxcqrf4ibcWepXB) | 2:54 | 2021-08-13 | 2022-02-04 |
-| [Tunnel](https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tunnel](https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX) | 5:10 | 2021-06-04 |  |
+| [Tunnel](https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tunnel](https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX) | 5:10 | 2021-06-04 | 2023-03-26 |
 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 | 2022-03-25 |  |
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-06-24 | 2022-08-05 |
 | [U Already Know](https://open.spotify.com/track/5AyANSMqfkoI2HtZQ5ikPL) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [U Already Know](https://open.spotify.com/album/67zbNHgYUej6u9dNUlV4Gr) | 4:12 | 2021-06-11 | 2022-07-28 |
@@ -744,6 +744,7 @@
 | [YKWIM? \- Cyril Hahn Remix](https://open.spotify.com/track/5Td4sG8hJuLauFoefeYHOY) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [YKWIM? \(Cyril Hahn Remix\)](https://open.spotify.com/album/6QhE4SbhZB5jbYsQO1J5ym) | 3:09 | 2021-08-27 | 2022-02-09 |
 | [You](https://open.spotify.com/track/5bDaY6dCXp6obvN6MKV23v) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Vol\. 1 \- The Mixtape](https://open.spotify.com/album/1ZZSNrohitWJIhvm4ThElN) | 3:22 | 2022-04-15 | 2022-07-23 |
 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 | 2023-01-20 |  |
+| [You Are Everywhere](https://open.spotify.com/track/4Wk3Z6fgpLepeL7LyPe1VI) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Turbo Goth](https://open.spotify.com/artist/5l86PXItUDrtnxT5EgQguJ) | [You Are Everywhere](https://open.spotify.com/album/3fU8kFquITfyKECN9ldSfz) | 3:24 | 2023-03-10 |  |
 | [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 | 2022-09-17 | 2022-10-06 |
 | [You Don't Know Me \(feat\. Duane Harden\) \- Radio Edit](https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [You Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb) | 4:02 | 2023-02-24 |  |
 | [You're Gone](https://open.spotify.com/track/21IKKtBdq0Pr0awJRFlLJ6) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [You're Gone](https://open.spotify.com/album/1ik4KA5cE3XE09wOqPvRuD) | 3:19 | 2021-11-12 | 2022-07-18 |

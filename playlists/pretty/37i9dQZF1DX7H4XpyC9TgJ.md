@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7H4XpyC9TgJ.md) - [plain]
 
 > Are you ready to FACE Jimin? 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,370 likes - 18 songs - 44 min 16 sec
+[Spotify](https://open.spotify.com/user/spotify) - 82,363 likes - 18 songs - 44 min 16 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
