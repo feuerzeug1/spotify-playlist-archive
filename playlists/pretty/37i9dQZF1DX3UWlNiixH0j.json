@@ -1,6 +1,6 @@
 {
   "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30b7\u30fc\u30f3\u6700\u5148\u7aef\u3092\u7279\u96c6\u3002Cover: odol",
-  "num_followers": 46261,
+  "num_followers": 46284,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -107,13 +107,17 @@
     {
       "added_at": "2023-03-23 15:26:33",
       "album": {
-        "name": "symphil|\u30b7\u30f3\u30d5\u30a3\u30eb",
+        "name": "symphil",
         "url": "https://open.spotify.com/album/7nLTJVDS7ovhfswVOa9S4X"
       },
       "artists": [
         {
           "name": "\u84ee\u6cbc\u57f7\u592a\u30d5\u30a3\u30eb",
           "url": "https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5"
+        },
+        {
+          "name": "xiangyu",
+          "url": "https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB"
         }
       ],
       "duration_ms": 174304,

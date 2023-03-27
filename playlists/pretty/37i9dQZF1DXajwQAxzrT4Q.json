@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Kanii",
-  "num_followers": 45004,
+  "num_followers": 45153,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMDJlMzM3ODY3NDYxM2M5NzE2ZjE5ZjhlOGM4YTgyNmNi",
+  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMGU4MWE3M2JjMmNiZGU5YWJiMzg3ZmYzMzNmMzI4NmU3",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -911,22 +911,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "POZZ",
-        "url": "https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F"
+        "name": "Chicago (Jersey Club)",
+        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
       },
       "artists": [
         {
-          "name": "Liva\u00ef",
-          "url": "https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp"
-        },
-        {
-          "name": "COSMO ENVOIE DES TRACKS",
-          "url": "https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI"
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
         }
       ],
-      "duration_ms": 128776,
-      "name": "POZZ",
-      "url": "https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx"
+      "duration_ms": 118256,
+      "name": "Chicago (Jersey Club)",
+      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -959,18 +955,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Chicago (Jersey Club)",
-        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
+        "name": "POZZ",
+        "url": "https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F"
       },
       "artists": [
         {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+          "name": "Liva\u00ef",
+          "url": "https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp"
+        },
+        {
+          "name": "COSMO ENVOIE DES TRACKS",
+          "url": "https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI"
         }
       ],
-      "duration_ms": 118256,
-      "name": "Chicago (Jersey Club)",
-      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
+      "duration_ms": 128776,
+      "name": "POZZ",
+      "url": "https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx"
     }
   ],
   "unique_name": "Jersey Club Heat",

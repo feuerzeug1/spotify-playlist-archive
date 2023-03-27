@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Tiller com Cíntia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,959 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,962 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 64 | [VEM CÁ](https://open.spotify.com/track/1g7U6zOh8csoqUabagx8lM) | [Divi](https://open.spotify.com/artist/5cSJHazvd6mT7yHlyeSrQ2), [TRINNI](https://open.spotify.com/artist/0wIqiATQ9OB7qeDvNb8Mtr), [ROBZI](https://open.spotify.com/artist/1rrQ8W9iGjjJJAQ6SA4Csc), [Slim G](https://open.spotify.com/artist/4NVuMgEqblB7LLKd6nY2bm) | [VEM CÁ](https://open.spotify.com/album/6t9UfbA738W8EZJknNWksT) | 3:15 |
 | 65 | [New Phone](https://open.spotify.com/track/0hRY0iehUKoX2yPMuFhW4g) | [Tóxico](https://open.spotify.com/artist/3ONsV60rJr2JohnIpFHHTi), [Real Punch](https://open.spotify.com/artist/2Cjyfjlqv9jMyaNP2HZc9c) | [New Phone](https://open.spotify.com/album/5G8XTvVwjzHEmHE4LmxrGO) | 4:06 |
 | 66 | [Room](https://open.spotify.com/track/6O4nV6rmc1oJtDvk39OogI) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Room](https://open.spotify.com/album/2AjIqnf2M8gc8zcrO5xQht) | 2:34 |
-| 67 | [P´ra Quê?](https://open.spotify.com/track/637vvrn5yPjuk36L6p6av1) | [Denise](https://open.spotify.com/artist/6t9iYij561aIw8DBdos1Wr), [Saju](https://open.spotify.com/artist/7cJdHas0c6j38OlrrLYyZd) | [P´ra Quê?](https://open.spotify.com/album/1H3qyrczItEPoheSPEDPyH) | 2:47 |
+| 67 | [P´ra Quê?](https://open.spotify.com/track/637vvrn5yPjuk36L6p6av1) | [Denise](https://open.spotify.com/artist/6t9iYij561aIw8DBdos1Wr), [Saju](https://open.spotify.com/artist/1tVn0wF1m92oHZ7l1D3wMX) | [P´ra Quê?](https://open.spotify.com/album/1H3qyrczItEPoheSPEDPyH) | 2:47 |
 | 68 | [Hot Or Fire](https://open.spotify.com/track/03ufBsWERNppFLwZedOK70) | [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35), [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Hot Or Fire](https://open.spotify.com/album/1tT2yp4Qq9NeikbtoPPPoW) | 3:50 |
 | 69 | [EGOH](https://open.spotify.com/track/0wvvRPSaBPo0YEo2y0Nnkx) | [OhTel](https://open.spotify.com/artist/3kQlFbgH44PqNUjSxyLviA) | [Mic el AngelOh](https://open.spotify.com/album/3MjOywF6hZtfTucw1TNLuJ) | 2:57 |
 | 70 | [REDFLAGS](https://open.spotify.com/track/6CFlhf6PbF7muUZHx0s1se) | [PNG](https://open.spotify.com/artist/4NxktUavjn7CoMmpDZOZwq) | [REDFLAGS](https://open.spotify.com/album/0BOLgNRI3skEgH8RRcolCJ) | 1:54 |

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,106 songs - 5 day 1 hr 7 min
+2,109 songs - 5 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [200 Years Early](https://open.spotify.com/track/1CuYQYXgruMUa4USBZqH5A) | [Loome](https://open.spotify.com/artist/5uacIDTlT52eDbiGbT1Le8) | [200 Years Early](https://open.spotify.com/album/7DFSQsc5uEL4tGkgykl6iA) | 3:48 | 2020-12-18 | 2021-01-03 |
 | [2015](https://open.spotify.com/track/5gYFRcwDnK0w5qJzF0uw2H) | [Mikaela Stenmo](https://open.spotify.com/artist/2NkXWIUXqFVM1gnOIpoVZq) | [2015](https://open.spotify.com/album/4Pg0uXD88uegQ38FvCy8GH) | 3:14 | 2023-01-06 | 2023-01-28 |
 | [2021](https://open.spotify.com/track/7KeUoG0jp7YVUL7O6HdRKF) | [EMPOWER](https://open.spotify.com/artist/1F146KPN8Pt5RtF3GNmysb) | [2021](https://open.spotify.com/album/6vig6WnPEpY81sPGRunJW0) | 4:54 | 2021-01-08 | 2021-01-23 |
+| [22 Years](https://open.spotify.com/track/0FllyNaq3SwLnyfhfBuJ27) | [Ethan Taylor](https://open.spotify.com/artist/2pTM43BOirAsjO6pKK3qjA) | [22 Years](https://open.spotify.com/album/3iL8gGg9WYAjL8PBwRD0w5) | 3:42 | 2023-03-27 |  |
 | [27 Thousand Days](https://open.spotify.com/track/6ybwD9zl51hJPZSRyZ6X7B) | [Lankford](https://open.spotify.com/artist/0RQHBhCCqqXhR9g8w7YIo5) | [Love With Passion](https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu) | 3:40 | 2022-04-01 | 2022-04-17 |
 | [2:22](https://open.spotify.com/track/5UmCfYzKWLBRoker1oJWVR) | [Pip](https://open.spotify.com/artist/6wYjE80aPC9C0sPFPCzyjb), [2AM](https://open.spotify.com/artist/1hM5rICjqAz92XJHKDuiCg) | [Cotton Candy Skies](https://open.spotify.com/album/0nbZRXvJpaZW9v1S1lhbhQ) | 3:16 | 2022-09-30 | 2022-10-18 |
 | [2AM](https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 4:02 | 2022-06-21 | 2022-07-27 |
@@ -791,6 +792,7 @@
 | [Happy Too](https://open.spotify.com/track/0wP4LXfQIQ7zFzGr6ZZISN) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Happy Too](https://open.spotify.com/album/227WR8aTwGwJrWCFBrJbQA) | 3:10 | 2020-07-11 | 2020-07-28 |
 | [Happy With Me](https://open.spotify.com/track/5c26M7Mc2XFzvR1gBOJcIP) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Happy With Me](https://open.spotify.com/album/49Xy2MqV2IrfFEOiq8lOaG) | 2:24 | 2022-05-23 | 2022-06-12 |
 | [HARD KNOCK LULLABY](https://open.spotify.com/track/0Ep8CAlS9lHGOtYfDpLyfc) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [HARD KNOCK LULLABY](https://open.spotify.com/album/0vTYYaXzrTelHVmPPGFIxc) | 2:33 | 2021-09-17 | 2021-10-04 |
+| [Hard to Sleep](https://open.spotify.com/track/7xdOprbOKdB3kAoizmayWF) | [Wolf Marte](https://open.spotify.com/artist/6tllOjgOkQ7q9ZSsfCTvJR) | [Hard to Sleep](https://open.spotify.com/album/21jKRoXRz0Tzj4A60W50eF) | 3:32 | 2023-03-27 |  |
 | [Harmless Fun](https://open.spotify.com/track/0bQjb0IEsdstyU9lbMrpvv) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Harmless Fun](https://open.spotify.com/album/793FnGjF7xF9u534THZKgC) | 2:12 | 2021-11-30 | 2021-12-20 |
 | [Harriet Tubman?](https://open.spotify.com/track/3rrwJ7jtjRt7IpFRSHlcGX) | [Harry Nathan](https://open.spotify.com/artist/2Sr0UVpJdu6joEkH10koQ9), [you](https://open.spotify.com/artist/3VuLvqIglstSL00kJEjobb) | [Sweet Release](https://open.spotify.com/album/4dhSEQinsLnGBtk2UCXrpI) | 3:19 | 2020-11-06 | 2020-11-21 |
 | [Hate : Love : Whatever \(Remix\)](https://open.spotify.com/track/6FL5nSoJE0veKo6qvxLOVm) | [Bigre !](https://open.spotify.com/artist/12WqMMErsScYUfMSTD68zd), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [To Bigre ! Or not to Bigre !?](https://open.spotify.com/album/5dsYb0A62igw386wmTDJye) | 3:13 | 2022-01-30 | 2022-02-18 |
@@ -1150,6 +1152,7 @@
 | [Lush Life](https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:40 | 2021-07-11 |  |
 | [Luv U Luv U Back](https://open.spotify.com/track/54y2U5I8ow66QvPVokAWhj) | [Trashy Annie](https://open.spotify.com/artist/1NE5iw2eDd0kgUlO23m1GV) | [Luv U Luv U Back](https://open.spotify.com/album/0fxrTskYVPzDv0kNCkOxKv) | 3:38 | 2022-09-23 | 2022-10-09 |
 | [Lying in LA](https://open.spotify.com/track/17Nv4GnG2JZJJK0aOXbW2w) | [Britta](https://open.spotify.com/artist/3t9YsSNIpCBQ6jrdaa8zA2) | [Lying in LA](https://open.spotify.com/album/1yeqhDrt1cYPozPCDad8IE) | 3:04 | 2023-03-10 |  |
+| [M.A.A.d World](https://open.spotify.com/track/1fSSSSN8aBZFdzo5eAW7sa) | [MckDarko](https://open.spotify.com/artist/3kGzTtCkOYz01yx278EAwf) | [DRK BLK](https://open.spotify.com/album/6ePkGP1fYM7cFmHxHEuJR1) | 2:51 | 2023-03-26 |  |
 | [Made It](https://open.spotify.com/track/5aI2VUmejj1Ywzj0tQLYH6) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 3:18 | 2020-08-20 | 2023-02-12 |
 | [Madonna](https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Madonna](https://open.spotify.com/album/2uNNQws3ix4ZyVxueGd2un) | 3:12 | 2022-02-25 | 2022-03-17 |
 | [Magic](https://open.spotify.com/track/0lr51NomFfWi1X6PxZmZSx) | [Jessica Manalo](https://open.spotify.com/artist/2NTeuat88PLcG0BEn1qIg6) | [Magic](https://open.spotify.com/album/6tAJXN6MwirohmRjPqaldV) | 4:44 | 2021-10-29 | 2021-11-14 |

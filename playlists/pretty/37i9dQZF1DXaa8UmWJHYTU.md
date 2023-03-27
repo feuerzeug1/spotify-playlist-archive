@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa8UmWJHYTU.md) - [plain]
 
 > Crackling and popping sounds of fireplaces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,790 likes - 141 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,830 likes - 141 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa8UmWJHYTU.md) - [plain]
 | 97 | [Fire, Fire, Flames Go Higher](https://open.spotify.com/track/4Ps1kczS5HbebYnimFpfq0) | [Mirai](https://open.spotify.com/artist/6oEZ7IsYCH7xwmb83A6eQx) | [Flames Of Sleep](https://open.spotify.com/album/7ylQnCCNsXkajWSuksUkxv) | 2:48 |
 | 98 | [Birch Wood Burning Close](https://open.spotify.com/track/7ydzKCAHI6irtu807lVHgG) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Campfire Sounds](https://open.spotify.com/album/3qT3XJhrTLgxViNJy3Dkxu) | 3:16 |
 | 99 | [Warm Dreams](https://open.spotify.com/track/2BrFiOzCDW5VBpd2Qok68p) | [Varuna Recordings](https://open.spotify.com/artist/14PnfeDCdj2PHrVMzTTddV) | [Warm Dreams](https://open.spotify.com/album/4RuCk0On70MP7tvXMd8GLJ) | 3:04 |
-| 100 | [Beach Fire Pile](https://open.spotify.com/track/3IUUgqEUGlNxOVUjlhHdW7) | [Heatseeker](https://open.spotify.com/artist/5ZRLFkGfeVRkSnbN8CuSyn) | [Beach Fire Pile](https://open.spotify.com/album/0huICvLhM402ETvHZ8mDQW) | 1:51 |
+| 100 | [Snaps, Crackles and Pops](https://open.spotify.com/track/3IUUgqEUGlNxOVUjlhHdW7) | [Krispy Fireplace](https://open.spotify.com/artist/3620DZj56oKYWgLzbljbNk) | [Beach Fire Pile](https://open.spotify.com/album/0huICvLhM402ETvHZ8mDQW) | 1:54 |
 | 101 | [Same Old Flame](https://open.spotify.com/track/4X5hfbIvuosh4OSvYSSPMN) | [Ray Karma](https://open.spotify.com/artist/6E1hjapw3zTcME5W9oj6lg) | [Same Old Flame](https://open.spotify.com/album/2BoTzjqegBTiuBeMQuxzvF) | 4:02 |
 | 102 | [Sleep Close To The Fire](https://open.spotify.com/track/1anOM3NUTrYjscG65fityh) | [Haruna Fields](https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL) | [Tender Fire](https://open.spotify.com/album/33O2REEcPsuIkq3qM9D9q5) | 2:44 |
 | 103 | [Wildfire](https://open.spotify.com/track/32CgLBFA2Bvl3O71k0aLpy) | [Bonfire Sleep Sound](https://open.spotify.com/artist/4qyBarAA064tSHmWNfEZ5y) | [Wildfire](https://open.spotify.com/album/3UlkPNErf6tKRgV63NIG0d) | 2:41 |

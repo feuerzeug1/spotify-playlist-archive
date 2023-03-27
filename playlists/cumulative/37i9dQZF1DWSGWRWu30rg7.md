@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Angie Zelena
 
-1,668 songs - 4 day 6 hr 9 min
+1,669 songs - 4 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,7 +754,8 @@
 | [Kejar](https://open.spotify.com/track/7rBowoPIX1R8Lj6cm1qfKy) | [Mariani](https://open.spotify.com/artist/2d8VU9F9peezh9QgVPZmxj) | [Kejar](https://open.spotify.com/album/452WK0GoOgprj8VZpuBEEO) | 4:26 | 2022-11-11 | 2022-12-01 |
 | [Kemalaman](https://open.spotify.com/track/1N8WtHRDrjf08dFKN850yl) | [Dvy](https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i) | [Kemalaman](https://open.spotify.com/album/7hlircDHurw6tkARX2iXd3) | 4:29 | 2022-05-26 | 2022-06-10 |
 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/63mbkvcPnMSd4vmPNsASSZ) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 | 2022-08-25 | 2022-09-09 |
-| [Kembalilah](https://open.spotify.com/track/0N0ymlMFvGnEWHPUoMfsET) | [Frelo](https://open.spotify.com/artist/5mdwcqwUZSvgftzx4KGCgq) | [Kembalilah](https://open.spotify.com/album/3TFo7AePEujhDCnBgJCz3g) | 3:51 | 2023-03-16 |  |
+| [Kembalilah](https://open.spotify.com/track/0N0ymlMFvGnEWHPUoMfsET) | [Frelo](https://open.spotify.com/artist/5mdwcqwUZSvgftzx4KGCgq) | [Kembalilah](https://open.spotify.com/album/3TFo7AePEujhDCnBgJCz3g) | 3:51 | 2023-03-16 | 2023-03-27 |
+| [Kembalilah \- Kembalilah](https://open.spotify.com/track/2ciBfK5Z2ZEcaiK9fLincr) | [Frelo](https://open.spotify.com/artist/5mdwcqwUZSvgftzx4KGCgq) | [Kembalilah](https://open.spotify.com/album/0M1UCRvw76NMDHir6GEJRL) | 3:51 | 2023-03-23 |  |
 | [Kenal](https://open.spotify.com/track/42Fefg3dc3oO1Q2pkJoQYG) | [Sampurna](https://open.spotify.com/artist/4FPCfg84YUp5CjtcSxQfv4) | [Kenal](https://open.spotify.com/album/0jFvdrRDnWNMnTxqgJSNnW) | 4:42 | 2022-03-04 | 2022-03-18 |
 | [Kenangan dan Kesepian](https://open.spotify.com/track/1YbL9mLjiAqjnyw7MvrrVT) | [Melodi Kursi](https://open.spotify.com/artist/3ZcZgvcg7vJsWBuqoNk5GI) | [Kenangan dan Kesepian](https://open.spotify.com/album/1GqKp7lP03yrLw37xUXOAU) | 3:24 | 2022-11-24 | 2022-12-01 |
 | [Kesimpulan \(Semua Karena Cinta\)](https://open.spotify.com/track/6dkHK8kTwDRWfRsstK4P8X) | [Mutiara Azka](https://open.spotify.com/artist/73t08q7TLi6Jta1BiMGFpz) | [Kesimpulan \(Semua Karena Cinta\)](https://open.spotify.com/album/2CKl3EXdqOMeSPF5oqxTph) | 3:05 | 2023-03-09 | 2023-03-25 |
@@ -1286,7 +1287,7 @@
 | [Seperti Aku](https://open.spotify.com/track/5BSUV6lPFFXNi28lwL5nM9) | [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor) | [Seperti Aku](https://open.spotify.com/album/3NQbPDZYRAJp88Jjj2MfZV) | 3:59 | 2022-05-12 | 2022-05-27 |
 | [Seperti Babi](https://open.spotify.com/track/2db8oXI1vxpegnQwRqiPGb) | [Caessaria](https://open.spotify.com/artist/4Lqjj5kam5AMYcZvdkKTvd) | [Halfstoria](https://open.spotify.com/album/65pZUsnAln7TSaFwegSEzD) | 4:00 | 2022-08-11 | 2022-09-02 |
 | [Seperti Kemarin](https://open.spotify.com/track/4n30m5qvT5Io6O4dnzq9y4) | [Purnama and The Rolled Pumpkins](https://open.spotify.com/artist/4VVoapnSi6Ctp6XGHDeyoI) | [Seperti Kemarin](https://open.spotify.com/album/7256P1b9bcN2kSaYbxjFH6) | 3:30 | 2022-09-15 | 2022-09-30 |
-| [seperti laut tenang tanpa pemenang](https://open.spotify.com/track/3P3gYF6Xi28yDxm9r5XJm9) | [Goodenough](https://open.spotify.com/artist/72x4pwJGCLEYunOidTNxWB) | [seperti laut tenang tanpa pemenang](https://open.spotify.com/album/563nG1sgqDE0SktefeKm5J) | 3:18 | 2023-03-23 |  |
+| [seperti laut tenang tanpa penenang](https://open.spotify.com/track/3P3gYF6Xi28yDxm9r5XJm9) | [Goodenough](https://open.spotify.com/artist/72x4pwJGCLEYunOidTNxWB) | [seperti laut tenang tanpa penenang](https://open.spotify.com/album/563nG1sgqDE0SktefeKm5J) | 3:18 | 2023-03-23 |  |
 | [Seperti Mereka](https://open.spotify.com/track/7GVQ10FH50ar1H8o3JuDlj) | [Tiara](https://open.spotify.com/artist/0wmCMW78BT8rCZsNvEOYbe) | [Seperti Mereka](https://open.spotify.com/album/0cEnUTSYKC51N6ccdSsFbK) | 3:43 | 2022-01-06 | 2022-01-21 |
 | [Sepi Dan Hilang](https://open.spotify.com/track/6eJzHMfnun88xtGFgnkVCH) | [Fery Raditia](https://open.spotify.com/artist/3jODsPAYZj31IU94irKKyB) | [Sepi Dan Hilang](https://open.spotify.com/album/6974SBY3e2Toz9JjYFEdNu) | 4:04 | 2022-02-03 | 2022-02-18 |
 | [Serius Tapi Santai](https://open.spotify.com/track/5cTI4yILlCANpgy9KiHvQt) | [Wanda Omar](https://open.spotify.com/artist/0D5Le7fBWp2bJEpMLhiVQm) | [Serius Tapi Santai](https://open.spotify.com/album/3pk9tG76xDQUIEhFEctk6L) | 3:51 | 2023-02-03 | 2023-02-17 |

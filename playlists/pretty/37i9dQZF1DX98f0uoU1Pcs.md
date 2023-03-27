@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: The Nude Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,551 likes - 126 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,658 likes - 126 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 44 | [Gettin' In The Way](https://open.spotify.com/track/1roUIc6mekrsZXcTveHhBe) | [Cooper T](https://open.spotify.com/artist/7t6usUnb0OZ2r0pi3nvdmB) | [Gettin' In The Way](https://open.spotify.com/album/3DOtxFD10eo8rhwGyvKjDC) | 3:38 |
 | 45 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
 | 46 | [Cadillac](https://open.spotify.com/track/3273Kpy786sstHxwBMMlnn) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Cadillac](https://open.spotify.com/album/572Ib97f5WARs6JjEEsKQS) | 2:28 |
-| 47 | [Life in the Void](https://open.spotify.com/track/5QiZwq0VvqREkkEKm2m41t) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [Life In The Void](https://open.spotify.com/album/7zeWrxLRDsvIC3zLLKrkK6) | 2:40 |
+| 47 | [Life in the Void](https://open.spotify.com/track/3PZWApSYXue8hahOGd6o2f) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [The Town That Cursed Your Name](https://open.spotify.com/album/2gp5BvkFNT3urcXjtZ22fs) | 2:40 |
 | 48 | [ENTITLED MAN](https://open.spotify.com/track/7Gak6IaDN5PsalA9W5TLez) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [ENTITLED MAN](https://open.spotify.com/album/49Ar7KlbIoX8XasFMYVfdp) | 2:25 |
 | 49 | [Born Yesterday](https://open.spotify.com/track/45TCUDE0fwhbP84CcTuYUh) | [Gladie](https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6) | [Born Yesterday](https://open.spotify.com/album/4YB32RDVOQCFIwF18pkmDy) | 3:22 |
 | 50 | [Soccer Mommy](https://open.spotify.com/track/7Eh51PbeKl19zS1dzWpTsO) | [Shalom](https://open.spotify.com/artist/5CgUSK3nZJAv90N00E6gj5) | [Soccer Mommy](https://open.spotify.com/album/4R3TpyRzegSa4DHpvmDqe5) | 1:53 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 125 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 126 | [Lighthouse](https://open.spotify.com/track/2h2bAydGjKeCW81EmbrOGs) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Lighthouse](https://open.spotify.com/album/2KudKrwmWH9dsQILx8Kouk) | 3:43 |
 
-Snapshot ID: `MTY3OTQzNDU0NywwMDAwMDAwMDkyYjU4ZjE4ZGQ5OGQ0MjhmNTNkMDQ3M2IxMjRlNThi`
+Snapshot ID: `MTY3OTQzNDU0NywwMDAwMDAwMDE0ODM3ODUzMWFiMjQ2MTBhYzA0YjVhNWMyZjJmOGQ3`

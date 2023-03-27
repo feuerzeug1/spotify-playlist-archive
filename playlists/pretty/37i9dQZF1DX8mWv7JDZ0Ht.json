@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Ziggy Alberts, Vitor Kley",
-  "num_followers": 418456,
+  "num_followers": 418489,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDA4NDBhMjFjMmUxMmE4M2FhNzk4ZTEyOGU2YzE3OTU4",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDBkNThiYzA2MGUzNTYxN2RjYzY2YzNlNjNlM2UzODVk",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -907,34 +907,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Org\u00e2nico Ver\u00e3o 2023",
-        "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "VNegreen",
-          "url": "https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG"
-        },
-        {
-          "name": "Samantha Machado",
-          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
-        }
-      ],
-      "duration_ms": 238051,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Unilateral",
         "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
       },
@@ -963,6 +935,34 @@
       "duration_ms": 176804,
       "name": "Passa",
       "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Org\u00e2nico Ver\u00e3o 2023",
+        "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "VNegreen",
+          "url": "https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG"
+        },
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        }
+      ],
+      "duration_ms": 238051,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -999,38 +999,6 @@
       "duration_ms": 190769,
       "name": "T\u00e3o Sem Gra\u00e7a",
       "url": "https://open.spotify.com/track/091LhYj7dDBpGT7Yrnuqi7"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Org\u00e2nico Ver\u00e3o 2023",
-        "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "S\u00f3CIRO",
-          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
-        },
-        {
-          "name": "Deb Ribeiro",
-          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
-        },
-        {
-          "name": "TK",
-          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
-        }
-      ],
-      "duration_ms": 236041,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/7yp9hrQRwoXIlkLnQjuYKH"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1123,18 +1091,50 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Pois \u00c9",
-        "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
+        "name": "Tudo Certo",
+        "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
       },
       "artists": [
         {
-          "name": "Iuri K",
-          "url": "https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W"
+          "name": "Gabriel Porto",
+          "url": "https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx"
         }
       ],
-      "duration_ms": 162188,
-      "name": "Pois \u00c9",
-      "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
+      "duration_ms": 181209,
+      "name": "Tudo Certo",
+      "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Org\u00e2nico Ver\u00e3o 2023",
+        "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        },
+        {
+          "name": "Deb Ribeiro",
+          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
+        }
+      ],
+      "duration_ms": 236041,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/7yp9hrQRwoXIlkLnQjuYKH"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Tudo Certo",
-        "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
+        "name": "Pois \u00c9",
+        "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
       },
       "artists": [
         {
-          "name": "Gabriel Porto",
-          "url": "https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx"
+          "name": "Iuri K",
+          "url": "https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W"
         }
       ],
-      "duration_ms": 181209,
-      "name": "Tudo Certo",
-      "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
+      "duration_ms": 162188,
+      "name": "Pois \u00c9",
+      "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Sozinha",
-        "url": "https://open.spotify.com/album/4VFfEutHruRsemwroKwvZN"
-      },
-      "artists": [
-        {
-          "name": "CALI",
-          "url": "https://open.spotify.com/artist/58XX830AG7eO98Od1VXwC8"
-        },
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
-        }
-      ],
-      "duration_ms": 188271,
-      "name": "Sozinha",
-      "url": "https://open.spotify.com/track/0mdlrJL3gSIl7z8PA6rBET"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Clara x Sofia x Moons",
         "url": "https://open.spotify.com/album/6oEQCEimNosm8bq8Wq6eed"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 304341,
       "name": "fala (t\u00f4 te querendo)",
       "url": "https://open.spotify.com/track/4PudtxTK0PUuH8FgaRdAW2"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Sozinha",
+        "url": "https://open.spotify.com/album/4VFfEutHruRsemwroKwvZN"
+      },
+      "artists": [
+        {
+          "name": "CALI",
+          "url": "https://open.spotify.com/artist/58XX830AG7eO98Od1VXwC8"
+        },
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "duration_ms": 188271,
+      "name": "Sozinha",
+      "url": "https://open.spotify.com/track/0mdlrJL3gSIl7z8PA6rBET"
     },
     {
       "added_at": "2023-03-24 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Bayanni
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,962 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,468 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 45 | [BB](https://open.spotify.com/track/2B4kKmVsTB2YvTcuU8HpZL) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [GINGER LOVE](https://open.spotify.com/album/1XqTyJRbyNXr7cAs3Syc96) | 2:56 |
 | 46 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 |
 | 47 | [Destiny](https://open.spotify.com/track/7zC2GxAopVulErd3DNGyPO) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Destiny](https://open.spotify.com/album/1lhPYoALoFeKqF3Azi1mMF) | 3:19 |
-| 48 | [Designer](https://open.spotify.com/track/4zM0WZs5xnIoJbYqlSjPQB) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Designer](https://open.spotify.com/album/3axl6saVOjcbY1RZJWB4XQ) | 3:19 |
+| 48 | [Designer](https://open.spotify.com/track/7dZsdVRJOf5SVRZN2LH6EH) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:19 |
 | 49 | [Corps](https://open.spotify.com/track/6FuEAShCFPB78SRLSFqmrt) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [BTLV](https://open.spotify.com/album/0RVI6Nf64FsFvG8yZJ7JNR) | 2:24 |
 | 50 | [Family Problem](https://open.spotify.com/track/09uz7ZgINfKSXcTPT2zrLb) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [GENESIS](https://open.spotify.com/album/0MrECtDGFvoeXxvsS7y9XV) | 3:41 |
 
-Snapshot ID: `MTY3OTYxMjQwMCwwMDAwMDAwMDk2NTE0ZjgwNzZkYjRiZTk0ZDUwNDUyODEzNjFkZDE2`
+Snapshot ID: `MTY3OTYxMjQwMCwwMDAwMDAwMGQ0MmI0ZTNmNjhmNDY3NTUzZTdhYjdjZDM4NzRmMDNl`

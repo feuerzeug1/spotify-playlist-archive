@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,995 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,001 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 72 | [Recognise \- Acoustic Version](https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Remixes\)](https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8) | 2:49 |
 | 73 | [Better Half Of Me \- Acoustic Mix](https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Better Half Of Me](https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG) | 3:32 |
 | 74 | [Shed a Light \- Acoustic Version](https://open.spotify.com/track/0GGVNLSXv3uaN0GrXvDsOC) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Shed a Light \(The Remixes Part 2\)](https://open.spotify.com/album/65h91TpH6k56OdninmMeov) | 3:19 |
-| 75 | [There Will Be Angels \- Acoustic Version](https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Audrey Gallagher](https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ) | [Sound Advice \(Chapter One\)](https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63) | 3:13 |
-| 76 | [Old Friend \- Live Acoustic](https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend / Capricorn \(Live Acoustic\)](https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN) | 2:52 |
+| 75 | [Old Friend \- Live Acoustic](https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Old Friend / Capricorn \(Live Acoustic\)](https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN) | 2:52 |
+| 76 | [There Will Be Angels \- Acoustic Version](https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Audrey Gallagher](https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ) | [Sound Advice \(Chapter One\)](https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63) | 3:13 |
 | 77 | [Thing Called Love](https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Acoustic](https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3) | 4:20 |
 | 78 | [Where Are Ü Now LIVE \(with Justin Bieber\)](https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Where Are Ü Now Live \(with Justin Bieber\)](https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b) | 3:36 |
 | 79 | [Hypnotized \- Acoustic](https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized \(Acoustic\)](https://open.spotify.com/album/31sIFQ5fOYUQZ62LpNmQzY) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Synchronize \- Acoustic](https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5), [Aaron Richards](https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp) | [Synchronize \(VIP / Acoustic\)](https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC) | 3:48 |
 | 100 | [Lost \- Acoustic](https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Moon Faces \(Acoustic Journey\)](https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0) | 3:29 |
 
-Snapshot ID: `MTY3OTM0MzU5MywwMDAwMDAwMDgxNTJhMzg4ZTg2YzgwMTM5MGU4ZWUyMjQxNjUwOGE3`
+Snapshot ID: `MTY3OTM0MzU5MywwMDAwMDAwMDAzZGUwOGVkZjAzNWFhMmNiNTEyOGZhZTRmYjRkYjdj`

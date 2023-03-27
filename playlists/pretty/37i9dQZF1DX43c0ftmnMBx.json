@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 206644,
+  "num_followers": 206776,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMGQ5ZjhiZTI5NTQ3YjliNmIzOWJjMWE1ODMwMWJjZDI0",
+  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMGRlOGU1NTg4ZDhjZmY0MzQ5NmM3NzJkMzUzZWZhZTE4",
   "tracks": [
     {
       "added_at": "2022-10-25 23:01:25",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
+        "name": "Amor En Silencio",
+        "url": "https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
         "name": "Ayer Me Llam\u00f3 Mi Ex \u2013 Remix",
         "url": "https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 256253,
       "name": "Ayer Me Llam\u00f3 Mi Ex \u2013 Remix",
       "url": "https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
-        "name": "Amor En Silencio",
-        "url": "https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx"
+        "name": "Tres Palabras",
+        "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
       },
       "artists": [
         {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+          "name": "Elvis Martinez El Camar\u00f3n",
+          "url": "https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP"
         }
       ],
-      "duration_ms": 360751,
-      "name": "Medicina De Amor",
-      "url": "https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ"
+      "duration_ms": 231191,
+      "name": "Maestra",
+      "url": "https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Tres Palabras",
-        "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx"
       },
       "artists": [
         {
-          "name": "Elvis Martinez El Camar\u00f3n",
-          "url": "https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 231191,
-      "name": "Maestra",
-      "url": "https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c"
+      "duration_ms": 360751,
+      "name": "Medicina De Amor",
+      "url": "https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ"
     },
     {
       "added_at": "2022-10-25 23:01:25",

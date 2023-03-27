@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: 01099
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,503 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,845 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 7 | [Mandala](https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Mandala](https://open.spotify.com/album/4dnEXvpTeEzyaN9zrk5hNX) | 2:01 |
 | 8 | [P.S.](https://open.spotify.com/track/4yCWbjNkL84M2l5izo0bAw) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [P.S.](https://open.spotify.com/album/5VUQm0q8PC1eNy9japTSdi) | 2:29 |
 | 9 | [Hör mal mein Herz <3…](https://open.spotify.com/track/4TVTKtOqCfx9MIckLwSfca) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Hör mal mein Herz <3…](https://open.spotify.com/album/5uACPYkV733Y98ZHQE6QMA) | 1:26 |
-| 10 | [My Love](https://open.spotify.com/track/1YWfc9iJW8N3bg3soZgAUN) | [Kiara Austen](https://open.spotify.com/artist/23OyEtxlI4OWrHE3SxCY4e) | [My Love](https://open.spotify.com/album/2hux3Lk8CL1SvKJGfDTSN6) | 3:01 |
+| 10 | [My Love](https://open.spotify.com/track/69eIYV80zISfItEDE0r0Ui) | [Lil\-K](https://open.spotify.com/artist/79hts1H3bhswabKZPnX9jB) | [My Love](https://open.spotify.com/album/3oRk46p3WHxtf2mLt9lmmR) | 3:04 |
 | 11 | [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [Yall](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 |
 | 12 | [Weit weg](https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Weit weg](https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv) | 2:41 |
 | 13 | [Sunglasses](https://open.spotify.com/track/7owu5qEotPwPCfngV9pagy) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Sunglasses](https://open.spotify.com/album/1objEKeuFIj0HYpj3HHTTu) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Herzcrash](https://open.spotify.com/album/6jZEA91XjhHizcWEQYbzSS) | 1:57 |
 | 100 | [Chrysanthemen](https://open.spotify.com/track/15i5jSYn8X8NdXMIJEUr2X) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Chrysanthemen](https://open.spotify.com/album/6igORa4loN6Ym7IDED0dO7) | 3:04 |
 
-Snapshot ID: `MTY3OTY0MDkwNSwwMDAwMDAwMGVjMGU0NTcwNzZmNDY0NjBhZTIxN2UyOGU4NzljNmU1`
+Snapshot ID: `MTY3OTY0MDkwNSwwMDAwMDAwMDdlYzVjODQzMWQ0NTQxN2M4YTZkOGVkMjk0MzFmZWU4`

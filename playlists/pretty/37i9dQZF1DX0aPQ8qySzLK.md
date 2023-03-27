@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,107 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 59 | [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 |
 | 60 | [Weatherman](https://open.spotify.com/track/0v8iaQnFPT8qkicB880pAr) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:05 |
 | 61 | [In The Summertime](https://open.spotify.com/track/3FHJjJV7HzkZUU7XdMV9QB) | [Taletta](https://open.spotify.com/artist/6x1ce1K5GZWggCkYDVTZwP) | [Cruel Joke](https://open.spotify.com/album/3XHPwHimw4VjTMSIdNgPCv) | 3:38 |
-| 62 | [Childhood](https://open.spotify.com/track/6JC1pkbT55lB2ua2npguzN) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 5:46 |
+| 62 | [Childhood](https://open.spotify.com/track/5FUOnXsUv0Ls9PjY0O6n7f) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 5:45 |
 | 63 | [Once](https://open.spotify.com/track/0bb3OVWJFZUklS9gfi8L7O) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [I've Felt All These Things](https://open.spotify.com/album/56cFvP1hiife9I02fM3CIS) | 3:25 |
 | 64 | [I Need Some Air](https://open.spotify.com/track/6JQIc5mZTWDnmOkuIC51QZ) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [I Need Some Air](https://open.spotify.com/album/0V6Iv7TMSMhkiy4hCAp1nB) | 4:11 |
 | 65 | [Bridges](https://open.spotify.com/track/69U6phr8zMQeDOUscOnKPM) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Bridges](https://open.spotify.com/album/7y0YxerpfxZI7MrclmgRCI) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 99 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
 | 100 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 |
 
-Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDkwMDc2YjZhOTFhY2NjOGYwYWM1Y2M1NmVlMDg5NzEx`
+Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDY1OTQ5ZjI1MGE4OWVmODBiYTBiMDA1MWRlZjg4OWQw`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Angie Zelena
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,787 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,789 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bulan Penuh](https://open.spotify.com/track/3cDAJkLI6JK4rxyHKFFvFd) | [Angie Zelena](https://open.spotify.com/artist/7HHWWA6zywWp8FBUTDRQXz) | [Bulan Penuh](https://open.spotify.com/album/5liswBDGvk6qnuKxZ0rda3) | 3:42 |
 | 2 | [Kiss n Tell](https://open.spotify.com/track/5MUuWwnfuO5XgX4YFKIcrf) | [Kandiya](https://open.spotify.com/artist/20OW5kxM7ZBU4lBLes56eC) | [Kiss n Tell](https://open.spotify.com/album/1P6UEd0QVOaQP82Q8QwY9c) | 2:55 |
-| 3 | [seperti laut tenang tanpa pemenang](https://open.spotify.com/track/3P3gYF6Xi28yDxm9r5XJm9) | [Goodenough](https://open.spotify.com/artist/72x4pwJGCLEYunOidTNxWB) | [seperti laut tenang tanpa pemenang](https://open.spotify.com/album/563nG1sgqDE0SktefeKm5J) | 3:18 |
+| 3 | [seperti laut tenang tanpa penenang](https://open.spotify.com/track/3P3gYF6Xi28yDxm9r5XJm9) | [Goodenough](https://open.spotify.com/artist/72x4pwJGCLEYunOidTNxWB) | [seperti laut tenang tanpa penenang](https://open.spotify.com/album/563nG1sgqDE0SktefeKm5J) | 3:18 |
 | 4 | [Hold](https://open.spotify.com/track/0Wh5JjY0NxkMMIZD86eTvO) | [Waldi Kyzo](https://open.spotify.com/artist/4znBC67Mci043Ana2BospW) | [TWENTY TWO](https://open.spotify.com/album/51MbzCiLZSE5wYY6n84pSZ) | 2:56 |
 | 5 | [ILYTM](https://open.spotify.com/track/4TMhTWZG9AnLRtIOrGXqDE) | [ALMIRA](https://open.spotify.com/artist/2IO36KLHh4Bydo52Qa5u1m) | [ILYTM](https://open.spotify.com/album/6wy7sr9NIDkvFPOBtfX2SO) | 3:04 |
 | 6 | [Run](https://open.spotify.com/track/6Lnb8cCLqHwpofO3o3pgzI) | [Frys](https://open.spotify.com/artist/4lCBdUlETFSzE8JhSHyhyJ) | [La Journée](https://open.spotify.com/album/6MwK3P1HHWGBQAK7Wl9yq8) | 3:43 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 46 | [Yang Tak Mungkin Kembali](https://open.spotify.com/track/1RgNqZtfCQDgxYLE6eV3qH) | [Tasha Bouslama](https://open.spotify.com/artist/1QDSCNOEEgZMBM09n1783e) | [Yang Tak Mungkin Kembali](https://open.spotify.com/album/5YvACAT3r5XRSaDL3FLAnt) | 3:58 |
 | 47 | [Why Don't We Give It a Go](https://open.spotify.com/track/2nJCqMalWSF19uTI4UTnoO) | [Alvin Wardiman](https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt) | [Why Don't We Give It a Go](https://open.spotify.com/album/3rtefsAOFDaiYhpwucpZrH) | 3:37 |
 | 48 | [Jika Bisa Kulupa](https://open.spotify.com/track/65GndBH8JO8V0fVLtDScC7) | [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Jika Bisa Kulupa](https://open.spotify.com/album/5GhMVtktt3q2tj2o0tecL2) | 3:26 |
-| 49 | [Kembalilah](https://open.spotify.com/track/0N0ymlMFvGnEWHPUoMfsET) | [Frelo](https://open.spotify.com/artist/5mdwcqwUZSvgftzx4KGCgq) | [Kembalilah](https://open.spotify.com/album/3TFo7AePEujhDCnBgJCz3g) | 3:51 |
+| 49 | [Kembalilah \- Kembalilah](https://open.spotify.com/track/2ciBfK5Z2ZEcaiK9fLincr) | [Frelo](https://open.spotify.com/artist/5mdwcqwUZSvgftzx4KGCgq) | [Kembalilah](https://open.spotify.com/album/0M1UCRvw76NMDHir6GEJRL) | 3:51 |
 | 50 | [Pendam Sendiri](https://open.spotify.com/track/7IAxfgkluVQZvuhLmsDOLK) | [Raracellina](https://open.spotify.com/artist/4c35lGsLbwUTvQzGZxb2iI) | [Pendam Sendiri](https://open.spotify.com/album/5lLSNwwO7BaJARFHH52CcW) | 4:06 |
 | 51 | [15:19](https://open.spotify.com/track/0m83OBrkCbEWW8b3OyMdAU) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [15:19](https://open.spotify.com/album/7uNjWAjBC5gjSj57v1kPj3) | 3:00 |
 | 52 | [Gentle Blues](https://open.spotify.com/track/1j88mpQqoRSH6dS9qTI42t) | [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Gentle Blues](https://open.spotify.com/album/7hyr1hyWYIvRVUKBmj4NAI) | 4:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 69 | [Wild Flowers](https://open.spotify.com/track/5u9qmXNM27BhvDwyYit4vI) | [Alya](https://open.spotify.com/artist/6GKrkG9wVGzDYxeghao93q) | [Wild Flowers](https://open.spotify.com/album/2NAGx29HgvRxs91zpEXz7b) | 3:35 |
 | 70 | [Dancing with the Purple Rain](https://open.spotify.com/track/5kUQbygdoAlLYKnk6LWdvD) | [Karmaphala](https://open.spotify.com/artist/2j9cvMEomhQw36RHVC1kzU), [Sahira](https://open.spotify.com/artist/3RlUljpVOTJSuK9I37PVDF) | [Dancing with the Purple Rain](https://open.spotify.com/album/7ehZrR6LmrwSFKYJ8sFmXv) | 3:56 |
 
-Snapshot ID: `MTY3OTU5MDgwMCwwMDAwMDAwMGFkMjkyZTAxMmJiN2NlNDM3NTEyYzNkMzM3NDk1ZjM1`
+Snapshot ID: `MTY3OTU5MDgwMCwwMDAwMDAwMDM2ZmQxNWRlMzIyMGU3NDA3M2ZmMWUzNDU3MWE4YjQ3`

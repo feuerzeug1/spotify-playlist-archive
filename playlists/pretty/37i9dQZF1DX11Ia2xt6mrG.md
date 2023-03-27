@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,085 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,088 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 38 | [Thousand Drums](https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Thousand Drums](https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd) | 3:21 |
 | 39 | [Desconocidos](https://open.spotify.com/track/0dWg2HiCEYeufMGvJOapX6) | [SBM](https://open.spotify.com/artist/10sogTUsGzLPeCcrOcEPF1), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP) | [Desconocidos](https://open.spotify.com/album/0f26pWyvXwc0gP6qdBRjWD) | 2:45 |
 | 40 | [No Vas A Volver](https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Danno Summer](https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2) | [Malas Decisiones](https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2) | 3:01 |
-| 41 | [FUEL](https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml) | [ENCORE](https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT) | 2:01 |
+| 41 | [Agua Pa Beber](https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Gerardo Varela](https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny) | [Agua Pa Beber](https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p) | 2:30 |
 | 42 | [Highway \- Original Mix](https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr) | [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Highway](https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7) | 6:09 |
-| 43 | [Agua Pa Beber](https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Gerardo Varela](https://open.spotify.com/artist/57j86YiiRgUagdEIbJN1Ny) | [Agua Pa Beber](https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p) | 2:30 |
+| 43 | [FUEL](https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml) | [ENCORE](https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT) | 2:01 |
 | 44 | [This Generation](https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [This Generation](https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK) | 2:52 |
 | 45 | [Addicted](https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK) | [Iker Azcué](https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp) | [Addicted](https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw) | 2:46 |
 | 46 | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [Riallo](https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u), [Alexia Langis](https://open.spotify.com/artist/1KnmhAncqCZIhgi2vD9x5x) | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 74 | [Scare](https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Gerard Butler](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U) | [Scare](https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC) | 3:24 |
 | 75 | [SWAP](https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE) | [SWAP](https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH) | 2:33 |
 
-Snapshot ID: `MTY3OTYwMjY3NywwMDAwMDAwMDc0NGE1NGZiMmUwYWYwN2VlZWIwMmUxZjFmMmJjYzc3`
+Snapshot ID: `MTY3OTYwMjY3NywwMDAwMDAwMDBjOTU5OWMyYTM5OWMyOTI1Mzc2MWUzMmY2YzFmM2Fl`

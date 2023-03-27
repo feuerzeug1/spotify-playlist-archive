@@ -4,7 +4,7 @@
 
 > The best new indie tracks every Friday\. Cover: Hannah Jadagu
 
-5,031 songs - 12 day 6 hr 51 min
+5,032 songs - 12 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3468,7 +3468,8 @@
 | [purgatory](https://open.spotify.com/track/7vIW48A9n1kDD14DI98lsc) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [purgatory](https://open.spotify.com/album/4YPPEhZL6jnJRyCYWu6UaU) | 4:08 | 2022-04-08 | 2022-05-07 |
 | [Push](https://open.spotify.com/track/31i8LS9lfi0T1Mb22xPswD) | [Ivers](https://open.spotify.com/artist/6Va33rzjjnsRblW4ALpXmW) | [Push](https://open.spotify.com/album/0br1ZzzfFyf5sa24kCFsPc) | 3:24 | 2021-04-10 | 2021-05-29 |
 | [Push Me Away](https://open.spotify.com/track/2o1JACZB8lpw7lkXlE3QYf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Push Me Away](https://open.spotify.com/album/4hlNGJ1p7zNa009uiFFFSQ) | 2:44 | 2021-04-24 | 2021-06-26 |
-| [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-10 |  |
+| [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-10 | 2023-03-27 |
+| [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/16cssMSjVqPJeBxRLy9FrF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 2:48 | 2023-03-10 |  |
 | [Q4](https://open.spotify.com/track/6GN8fc9sxaltugkHyRYUTN) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Q4](https://open.spotify.com/album/6TGNYqqV0CgruCKn7JC9Z4) | 4:57 | 2022-02-11 | 2022-03-12 |
 | [QADIR \- Single Version](https://open.spotify.com/track/42Ul22w633eGjYj59b9nwv) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [QADIR](https://open.spotify.com/album/1uV0IhVjPSe88XugMAFsmT) | 4:01 | 2020-04-03 | 2020-05-15 |
 | [Quarry](https://open.spotify.com/track/0G9v9DMNKxWk8w25CWLilK) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Quarry](https://open.spotify.com/album/2Z48McZfltPdZbp4dASRdp) | 2:52 | 2022-01-14 | 2022-02-26 |

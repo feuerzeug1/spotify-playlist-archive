@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Kaia Lana.",
-  "num_followers": 42160,
+  "num_followers": 42201,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA3MDAwNiwwMDAwMDAwMDQ4NmJhY2YyMGQyOGRhNjFjODZlOGM2OTFkNDk3Zjgx",
+  "snapshot_id": "MTY3OTA3MDAwNiwwMDAwMDAwMGEwYjYxODJiOGM4OWNkZmYyNzkzNDU5MzhhOTI4NjYw",
   "tracks": [
     {
       "added_at": "2023-03-17 16:20:06",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-03-17 16:20:06",
       "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
+      },
+      "artists": [
+        {
+          "name": "MOSBI",
+          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
+        }
+      ],
+      "duration_ms": 239965,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
+    },
+    {
+      "added_at": "2023-03-17 16:20:06",
+      "album": {
         "name": "deja de estudiar",
         "url": "https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-03-17 16:20:06",
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
-      },
-      "artists": [
-        {
-          "name": "MOSBI",
-          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
-        }
-      ],
-      "duration_ms": 239965,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
-    },
-    {
-      "added_at": "2023-03-17 16:20:06",
-      "album": {
         "name": "me pongo un poco sad",
         "url": "https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U"
       },
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2023-03-17 16:20:06",
       "album": {
-        "name": "didn't know",
-        "url": "https://open.spotify.com/album/6SPcRko47zyU386oL9RqkK"
+        "name": "No Te Vayas Nunca",
+        "url": "https://open.spotify.com/album/1UvWnU9UKjbxzKbLxk8Njx"
       },
       "artists": [
         {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+          "name": "Bella \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs"
         }
       ],
-      "duration_ms": 178453,
-      "name": "didn't know",
-      "url": "https://open.spotify.com/track/2UNwClFdYeUlJkejytviEF"
+      "duration_ms": 201216,
+      "name": "No Te Vayas Nunca",
+      "url": "https://open.spotify.com/track/5FMfpa1gMxWPg3INPurOI4"
     },
     {
       "added_at": "2023-03-17 16:20:06",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2023-03-17 16:20:06",
       "album": {
-        "name": "No Te Vayas Nunca",
-        "url": "https://open.spotify.com/album/1UvWnU9UKjbxzKbLxk8Njx"
+        "name": "didn't know",
+        "url": "https://open.spotify.com/album/6SPcRko47zyU386oL9RqkK"
       },
       "artists": [
         {
-          "name": "Bella \u00c1lvarez",
-          "url": "https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs"
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 201216,
-      "name": "No Te Vayas Nunca",
-      "url": "https://open.spotify.com/track/5FMfpa1gMxWPg3INPurOI4"
+      "duration_ms": 178453,
+      "name": "didn't know",
+      "url": "https://open.spotify.com/track/2UNwClFdYeUlJkejytviEF"
     },
     {
       "added_at": "2023-03-17 16:20:06",
@@ -1263,22 +1263,22 @@
     {
       "added_at": "2023-03-17 16:20:06",
       "album": {
-        "name": "Curriculum Completo",
-        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+        "name": "Para Hacernos Bien",
+        "url": "https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         },
         {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+          "name": "erihka",
+          "url": "https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd"
         }
       ],
-      "duration_ms": 145401,
-      "name": "Curriculum Completo",
-      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
+      "duration_ms": 190806,
+      "name": "Para Hacernos Bien",
+      "url": "https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu"
     },
     {
       "added_at": "2023-03-17 16:20:06",
@@ -1299,22 +1299,22 @@
     {
       "added_at": "2023-03-17 16:20:06",
       "album": {
-        "name": "Para Hacernos Bien",
-        "url": "https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A"
+        "name": "Curriculum Completo",
+        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
       },
       "artists": [
         {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         },
         {
-          "name": "erihka",
-          "url": "https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd"
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
         }
       ],
-      "duration_ms": 190806,
-      "name": "Para Hacernos Bien",
-      "url": "https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu"
+      "duration_ms": 145401,
+      "name": "Curriculum Completo",
+      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: BABYMETAL
 
-3,041 songs - 8 day 14 hr 22 min
+3,042 songs - 8 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1587,7 +1587,8 @@
 | [LIFELESS LEMONADE](https://open.spotify.com/track/55LBnkpAUKjw9MHIinCiCU) | [He Is Legend](https://open.spotify.com/artist/53cAPynhUIC5WFgPPfbp2r) | [THE PROWLER / LIFELESS LEMONADE](https://open.spotify.com/album/5bgYdeVOFA7FcZqW1kPn0J) | 4:07 | 2022-09-23 | 2022-10-01 |
 | [Lifetime](https://open.spotify.com/track/6HeaTl38wTgtMgGLTl9d13) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Lifetime](https://open.spotify.com/album/2vSmVwFn4mMHp1G57E9RJK) | 2:56 | 2022-04-15 | 2022-04-22 |
 | [Light and Darkness](https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL) | 4:04 | 2023-02-24 | 2023-03-04 |
-| [Light Reveals Our Wounds](https://open.spotify.com/track/5VeFZnmaZeINt2I92in4GU) | [Marianas Rest](https://open.spotify.com/artist/0k4zMzhcTcF2wQcbOMVZxD) | [Light Reveals Our Wounds](https://open.spotify.com/album/0CuLFAJBxPyU45daupRJtY) | 5:55 | 2023-03-24 |  |
+| [Light Reveals Our Wounds](https://open.spotify.com/track/2ALFloQY9hwCPI5AFyfFSg) | [Marianas Rest](https://open.spotify.com/artist/0k4zMzhcTcF2wQcbOMVZxD) | [Auer](https://open.spotify.com/album/7meSdeUAMuvpRM3DHtLBES) | 5:55 | 2023-03-24 |  |
+| [Light Reveals Our Wounds](https://open.spotify.com/track/5VeFZnmaZeINt2I92in4GU) | [Marianas Rest](https://open.spotify.com/artist/0k4zMzhcTcF2wQcbOMVZxD) | [Light Reveals Our Wounds](https://open.spotify.com/album/0CuLFAJBxPyU45daupRJtY) | 5:55 | 2023-03-24 | 2023-03-27 |
 | [Light The Shortening Fuse](https://open.spotify.com/track/4UFpR9JKj5XIZuwOu6pdro) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Light The Shortening Fuse](https://open.spotify.com/album/50UUnWSbhJ2KMdV7ukscIe) | 4:28 | 2022-03-03 | 2022-03-18 |
 | [LIGHT UP THE SKY](https://open.spotify.com/track/2eTWJLJmpR933MQTaxQmh2) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [LIGHT UP THE SKY](https://open.spotify.com/album/7C3k7lywLkaacfmAM2ScK9) | 2:56 | 2022-09-30 | 2022-10-08 |
 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 | 2023-01-06 | 2023-01-14 |

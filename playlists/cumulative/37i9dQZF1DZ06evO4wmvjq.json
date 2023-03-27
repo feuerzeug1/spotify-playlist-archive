@@ -408,7 +408,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 61714,
       "name": "Blyzole",
       "url": "https://open.spotify.com/track/6BrdVvQypYv7sw3YheghN2"
@@ -612,6 +612,28 @@
       "duration_ms": 800706,
       "name": "Danzero",
       "url": "https://open.spotify.com/track/6s5fuddspiuGL9jY4G66Oc"
+    },
+    {
+      "album": {
+        "name": "Way Out Yonder",
+        "url": "https://open.spotify.com/album/336G74NrqpBt6A3cXEoUg7"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 827826,
+      "name": "Dark Queen",
+      "url": "https://open.spotify.com/track/5GGEurc6TiBvLliZJhiNvG"
     },
     {
       "album": {
@@ -1590,7 +1612,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 275600,
       "name": "Music for the Gift: Part 3",
       "url": "https://open.spotify.com/track/3DFFbgbyx5Oxrl53w53nDT"
@@ -1954,7 +1976,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -2592,7 +2614,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 324680,
       "name": "The Lake",
       "url": "https://open.spotify.com/track/1kRvMfo4lmzxstmbozPm4N"
@@ -2810,7 +2832,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 154746,
       "name": "Underworld Arising",
       "url": "https://open.spotify.com/track/6xQjvLDZyNjvoRzFDHeXnM"

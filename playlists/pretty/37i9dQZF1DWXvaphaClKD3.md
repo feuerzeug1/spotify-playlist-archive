@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Banda El Recodo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,050 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,193 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 17 | [Nieves de Enero](https://open.spotify.com/track/1KwvjVi20ZpjdmbcHE7hK2) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Recordando Al Rey Del Corrido](https://open.spotify.com/album/4R4uheBSBWkYaODcJEyko2) | 3:26 |
 | 18 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 |
 | 19 | [Soy El Dany](https://open.spotify.com/track/1F9DZGbidGHy1aDelyA4Fb) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Soy El Dany](https://open.spotify.com/album/4zSWtxZIj2ga5eHVZQxnFP) | 2:43 |
-| 20 | [Al Mayo Lo Que Es del Mayo \- En Vivo](https://open.spotify.com/track/3XYHIZdyzlMMbwPVJ4LJNe) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Con Charchetas Y Tuba](https://open.spotify.com/album/4i8fVq7zdWnU0L3NiPJxLi) | 3:58 |
+| 20 | [Al Mayo Lo Que Es del Mayo \- Live](https://open.spotify.com/track/3XYHIZdyzlMMbwPVJ4LJNe) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Con Charchetas Y Tuba \(Live\)](https://open.spotify.com/album/4i8fVq7zdWnU0L3NiPJxLi) | 3:58 |
 | 21 | [El Pimpi](https://open.spotify.com/track/06v0NmEgHoWHHwAIuBgKCr) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Pimpi](https://open.spotify.com/album/59jFIQ9mXMP4b95iKqjeNr) | 2:35 |
 | 22 | [Yo Quisiera \- En Vivo](https://open.spotify.com/track/5N9B8FHeHhiuGauugMWUi6) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [Yo Quisiera \(En Vivo\)](https://open.spotify.com/album/631XUzOBpdGIFsdYTiUjET) | 3:24 |
 | 23 | [Turbo 2.0](https://open.spotify.com/track/1ZhhHiHcVJUKdGmdLEd6Df) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [Turbo 2.0](https://open.spotify.com/album/5DjoNZhzTopdznBTyoiapt) | 2:55 |

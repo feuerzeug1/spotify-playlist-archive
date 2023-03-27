@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "22 Years",
+        "url": "https://open.spotify.com/album/3iL8gGg9WYAjL8PBwRD0w5"
+      },
+      "artists": [
+        {
+          "name": "Ethan Taylor",
+          "url": "https://open.spotify.com/artist/2pTM43BOirAsjO6pKK3qjA"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222618,
+      "name": "22 Years",
+      "url": "https://open.spotify.com/track/0FllyNaq3SwLnyfhfBuJ27"
+    },
+    {
+      "album": {
         "name": "Love With Passion",
         "url": "https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu"
       },
@@ -14959,6 +14977,24 @@
     },
     {
       "album": {
+        "name": "Hard to Sleep",
+        "url": "https://open.spotify.com/album/21jKRoXRz0Tzj4A60W50eF"
+      },
+      "artists": [
+        {
+          "name": "Wolf Marte",
+          "url": "https://open.spotify.com/artist/6tllOjgOkQ7q9ZSsfCTvJR"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212076,
+      "name": "Hard to Sleep",
+      "url": "https://open.spotify.com/track/7xdOprbOKdB3kAoizmayWF"
+    },
+    {
+      "album": {
         "name": "Harmless Fun",
         "url": "https://open.spotify.com/album/793FnGjF7xF9u534THZKgC"
       },
@@ -21870,6 +21906,24 @@
       "duration_ms": 184477,
       "name": "Lying in LA",
       "url": "https://open.spotify.com/track/17Nv4GnG2JZJJK0aOXbW2w"
+    },
+    {
+      "album": {
+        "name": "DRK BLK",
+        "url": "https://open.spotify.com/album/6ePkGP1fYM7cFmHxHEuJR1"
+      },
+      "artists": [
+        {
+          "name": "MckDarko",
+          "url": "https://open.spotify.com/artist/3kGzTtCkOYz01yx278EAwf"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171299,
+      "name": "M.A.A.d World",
+      "url": "https://open.spotify.com/track/1fSSSSN8aBZFdzo5eAW7sa"
     },
     {
       "album": {

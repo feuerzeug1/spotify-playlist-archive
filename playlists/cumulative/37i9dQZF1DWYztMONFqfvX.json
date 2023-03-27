@@ -1253,6 +1253,28 @@
     },
     {
       "album": {
+        "name": "Zid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3uzoMn32aI8ZGlAUo0s7tM"
+      },
+      "artists": [
+        {
+          "name": "Shaarib Toshi",
+          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291148,
+      "name": "Mareez - E - Ishq",
+      "url": "https://open.spotify.com/track/2HqSND303T7sT0wOPj3K3C"
+    },
+    {
+      "album": {
         "name": "Yours Truly Arijit",
         "url": "https://open.spotify.com/album/3tzrtZvTODgW7tDew5E7nb"
       },
@@ -1268,7 +1290,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 293146,
       "name": "Mareez - E - Ishq (From \"Zid\")",
       "url": "https://open.spotify.com/track/6o027l399OQ5IadRrsRb31"

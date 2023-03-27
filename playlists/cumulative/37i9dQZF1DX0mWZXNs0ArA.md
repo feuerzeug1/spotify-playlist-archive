@@ -4,7 +4,7 @@
 
 > 150%
 
-183 songs - 7 hr 55 min
+185 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Nonsense \- Sped Up Version](https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Nonsense \(Sped Up Version\)](https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k) | 2:17 | 2022-11-15 |  |
 | [Not OK \- Sped Up](https://open.spotify.com/track/1UBErDGHs9OSGYiMXxhXgl) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Not OK \- Alt versions](https://open.spotify.com/album/0pJ4FQw91Jqceokv6lHtZw) | 1:57 | 2023-01-13 | 2023-03-18 |
 | [numb \(feat\. blackbear\) \[nitecore\]](https://open.spotify.com/track/2Y0rbe2vWWHlu9luTET1dg) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [numb \(feat\. blackbear\) \[slow + reverb / nitecore\]](https://open.spotify.com/album/4opM4mMCaGNxJiztRetx5I) | 2:39 | 2022-11-04 | 2022-12-14 |
-| [One Kiss \- Sped Up](https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [One Kiss \- Sped Up](https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM) | 2:43 | 2023-01-27 |  |
+| [One Kiss \- Sped Up](https://open.spotify.com/track/7zjeayoF3ziY3Hu3xdKQKr) | [DJ Tec](https://open.spotify.com/artist/6Ydp8ZG2TzDyUnJctruKiC), [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [One Kiss \(Sped Up\)](https://open.spotify.com/album/0RJnMCSv4HmIE42Xieb8RR) | 2:43 | 2023-01-27 |  |
+| [One Kiss \- Sped Up](https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [One Kiss \- Sped Up](https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM) | 2:43 | 2023-01-27 | 2023-03-27 |
 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 | 2022-08-05 |  |
 | [Out thë way \- sped up version](https://open.spotify.com/track/6B5pdKWob9kjr0WpjJkVVD) | [Yeat sped up](https://open.spotify.com/artist/1Bb7MWbSKAtxBl436nDnlS) | [Out thë way \(sped up version\)](https://open.spotify.com/album/1SS5Pz4SRRSiPCOrqjEKSn) | 2:05 | 2022-12-14 |  |
 | [Over \- Sped Up](https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over \(Sped Up\)](https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy) | 2:50 | 2022-06-09 |  |
@@ -188,7 +189,8 @@
 | [Where's My Love \- Sped Up](https://open.spotify.com/track/6UHkwuFF6CXKMqBtDRxk8C) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 2:48 | 2022-11-11 |  |
 | [why so serious?](https://open.spotify.com/track/3CcNuI3JbOw5n5Evl5Qjx6) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [why so serious?](https://open.spotify.com/album/0owMsQYWHryve339icpxYv) | 1:35 | 2022-06-24 | 2022-09-04 |
 | [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 | 2022-06-09 | 2022-10-12 |
-| [Woo \- Sped Up](https://open.spotify.com/track/4j5HkSWLaSlFxTPChb1D5l) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Woo \- Sped Up](https://open.spotify.com/album/3p8GIjiIs0aRd2OeAXuNap) | 3:03 | 2023-01-27 |  |
+| [Woo \- Sped Up](https://open.spotify.com/track/4EaaFIK3wArks2w1PMRh4f) | [DJ Tec](https://open.spotify.com/artist/6Ydp8ZG2TzDyUnJctruKiC), [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Woo \(Sped Up\)](https://open.spotify.com/album/75rS4UNZ7FrXLBJa9eoaQx) | 3:03 | 2023-01-27 |  |
+| [Woo \- Sped Up](https://open.spotify.com/track/4j5HkSWLaSlFxTPChb1D5l) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Woo \- Sped Up](https://open.spotify.com/album/3p8GIjiIs0aRd2OeAXuNap) | 3:03 | 2023-01-27 | 2023-03-27 |
 | [World's Smallest Violin \- Sped Up](https://open.spotify.com/track/2vyyvsyMcJkcvxMKch8Q1e) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [World's Smallest Violin \(Sped Up\)](https://open.spotify.com/album/6DNtrF8Ga0IhBjAZDzfnkx) | 2:16 | 2022-10-11 | 2022-12-14 |
 | [zombie \(hyper\)](https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ), [Keepitinside](https://open.spotify.com/artist/78cc6k0CLZpWYSO4x5xnro) | [reaper / zombie \(remixes\)](https://open.spotify.com/album/6rIGvpDxSbZABArWo8hwko) | 2:16 | 2022-06-09 | 2022-12-14 |
 

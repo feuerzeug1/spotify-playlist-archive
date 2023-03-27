@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 622893,
+  "num_followers": 623220,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDA5NCwwMDAwMDAwMGJlODQxODU2ZjkzMzM3MDUzNmFmYzdmOTExNTgwY2Qz",
+  "snapshot_id": "MTY3OTAxNDA5NCwwMDAwMDAwMGExZGQ0M2YxNGJmMWNlMGI0YThhZjM2MWU2ZThlOWZm",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Agradecimiento",
-        "url": "https://open.spotify.com/album/5lxFeS4lOHmN40iv7LsCWr"
+        "name": "Edgar Joel",
+        "url": "https://open.spotify.com/album/1qUYwSVh93Qe3IHBAdk8lk"
       },
       "artists": [
         {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+          "name": "Edgar Joel",
+          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
         }
       ],
-      "duration_ms": 298600,
-      "name": "Pagina Del Amor",
-      "url": "https://open.spotify.com/track/7otEYXe06YiUKPQsK4kGqf"
+      "duration_ms": 284108,
+      "name": "Hasta el Sol de Hoy",
+      "url": "https://open.spotify.com/track/5Wa6Ve3VfV79Mng5MSBxAY"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Edgar Joel",
-        "url": "https://open.spotify.com/album/1qUYwSVh93Qe3IHBAdk8lk"
+        "name": "Agradecimiento",
+        "url": "https://open.spotify.com/album/5lxFeS4lOHmN40iv7LsCWr"
       },
       "artists": [
         {
-          "name": "Edgar Joel",
-          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
         }
       ],
-      "duration_ms": 284108,
-      "name": "Hasta el Sol de Hoy",
-      "url": "https://open.spotify.com/track/5Wa6Ve3VfV79Mng5MSBxAY"
+      "duration_ms": 298600,
+      "name": "Pagina Del Amor",
+      "url": "https://open.spotify.com/track/7otEYXe06YiUKPQsK4kGqf"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 309826,
+      "name": "Lo M\u00edo Es Amor",
+      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
         "name": "Ironias",
         "url": "https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 231306,
       "name": "Cuando Te Miro",
       "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 309826,
-      "name": "Lo M\u00edo Es Amor",
-      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Te Sigo Esperando",
-        "url": "https://open.spotify.com/album/1nrtNO5m2b5wX95GuqgtTn"
-      },
-      "artists": [
-        {
-          "name": "Brenda K. Starr",
-          "url": "https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B"
-        }
-      ],
-      "duration_ms": 292480,
-      "name": "Herida",
-      "url": "https://open.spotify.com/track/6a09sAXkgnkfSW8HEDJzBf"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Muy Agradecido",
         "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 273746,
       "name": "La Salsa Vive",
       "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Te Sigo Esperando",
+        "url": "https://open.spotify.com/album/1nrtNO5m2b5wX95GuqgtTn"
+      },
+      "artists": [
+        {
+          "name": "Brenda K. Starr",
+          "url": "https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B"
+        }
+      ],
+      "duration_ms": 292480,
+      "name": "Herida",
+      "url": "https://open.spotify.com/track/6a09sAXkgnkfSW8HEDJzBf"
     },
     {
       "added_at": "2023-03-17 00:48:14",

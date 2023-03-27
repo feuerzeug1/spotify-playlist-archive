@@ -2301,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "The Summer Isles",
+        "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300546,
+      "name": "Remember Fall In Montreal",
+      "url": "https://open.spotify.com/track/6QKMam3vLX9hXvW488YXHU"
+    },
+    {
+      "album": {
         "name": "Remember Fall In Montreal",
         "url": "https://open.spotify.com/album/2yIDTUhXvmtDR504JIZOBr"
       },
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 301413,
       "name": "Remember Fall In Montreal",
       "url": "https://open.spotify.com/track/7hhxzsZse96VD6lr4tullS"

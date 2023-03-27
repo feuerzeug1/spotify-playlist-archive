@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 84321,
+  "num_followers": 84386,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMGI1ZDlkMzdmODI1NGZjMTU2YzUzNWQwZTNmMjQ4ZmYw",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDFlMjA2YWIxZDQ2YjAzOTQzM2RiYjY3MDFjZjBmYWU4",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -411,22 +411,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "So (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 638227,
-      "name": "In Your Eyes - Live",
-      "url": "https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Big Sound",
         "url": "https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 187160,
       "name": "Joromi",
       "url": "https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "So (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 638227,
+      "name": "In Your Eyes - Live",
+      "url": "https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12"
     },
     {
       "added_at": "2020-04-07 09:19:20",

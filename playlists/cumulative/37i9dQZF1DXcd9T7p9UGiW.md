@@ -4,7 +4,7 @@
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=WIJorOTzR5CeRRJGVsI4QQ"> Victony</a>,    <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=lcwwSOshQvO\_UQtpHLIR7w"> Rema </a>and  <a href="https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs?si=Xb0Xaf\_xTpKxDnxLpReLHQ"> Don Toliver</a>
 
-311 songs - 16 hr 55 min
+312 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Damn \(Feat\. 6LACK\) \(Bonus Track\)](https://open.spotify.com/track/45BFTgtQbHLsSs9lUmqtaz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [What Have We Done](https://open.spotify.com/album/0lN4UOd1DJQ7q2XCehxszU) | 2:39 | 2021-10-08 | 2022-07-29 |
 | [Dangerous Hearts](https://open.spotify.com/track/2FmOfwMOIL2WFEOcV08AKd) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Signs](https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK) | 3:30 | 2022-12-18 | 2023-01-07 |
 | [DEADMAN BONE \(feat\. Koffee\)](https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 | 2022-03-03 | 2022-07-22 |
-| [Designer](https://open.spotify.com/track/4zM0WZs5xnIoJbYqlSjPQB) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Designer](https://open.spotify.com/album/3axl6saVOjcbY1RZJWB4XQ) | 3:19 | 2023-03-03 |  |
+| [Designer](https://open.spotify.com/track/4zM0WZs5xnIoJbYqlSjPQB) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Designer](https://open.spotify.com/album/3axl6saVOjcbY1RZJWB4XQ) | 3:19 | 2023-03-03 | 2023-03-27 |
+| [Designer](https://open.spotify.com/track/7dZsdVRJOf5SVRZN2LH6EH) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:19 | 2023-03-23 |  |
 | [Dey For Me](https://open.spotify.com/track/1eEkjFWORg5NBhFuEPnPNa) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Insincerely AP](https://open.spotify.com/album/3kj8MeAuCML4nMgO4wNbEg) | 3:13 | 2022-02-24 | 2022-03-11 |
 | [Diana](https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:52 | 2022-08-05 |  |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-26 | 2023-01-07 |

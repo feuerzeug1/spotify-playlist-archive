@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-300 songs - 17 hr 15 min
+301 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [No Estamos Los Dos](https://open.spotify.com/track/5Nf8Sx3NKVC6sGK5fUIEI4) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Cumbia Casera](https://open.spotify.com/album/2ML2QNYZaJgM8lhFRg3Kp6) | 5:24 | 2022-08-12 | 2023-03-14 |
 | [No Estamos los Dos](https://open.spotify.com/track/4rB7If7QkuWwFgGoAFHSxB) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Lunamar](https://open.spotify.com/artist/1vVCKxWSpF9NU8MuvR7p5l), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq) | [No Estamos los Dos](https://open.spotify.com/album/179afntG7NwNCrpM9kM4Ad) | 5:24 | 2022-02-04 | 2022-07-25 |
 | [No Fue Culpa Mia](https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [No Fue Culpa Mia](https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p) | 3:48 | 2022-01-21 | 2022-07-20 |
-| [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 | 2022-01-14 |  |
+| [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 | 2022-01-14 | 2023-03-27 |
 | [No Lo Superaré / Si No Tengo Tus Besos](https://open.spotify.com/track/1baOB2lMvszo0BSSAJJtZ3) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [No Lo Superaré / Si No Tengo Tus Besos](https://open.spotify.com/album/4dw0ax4Y9ftSSJBGC2603U) | 3:26 | 2022-06-17 | 2022-08-30 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 | 2022-01-14 | 2023-03-12 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-03-10 |  |
@@ -291,6 +291,7 @@
 | [Ya No Quiero Tu Amor](https://open.spotify.com/track/727YOg5FXQRHGWuVQzA1fc) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Ya No Quiero Tu Amor](https://open.spotify.com/album/24j167X1ru66Um4uSmZB0V) | 3:35 | 2022-01-14 | 2022-04-16 |
 | [Yo Me Enamoré](https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:12 | 2023-03-10 |  |
 | [Yo me Enamoré](https://open.spotify.com/track/6wWLC6V7TJ7NEygWHc1CFh) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:12 | 2022-01-14 | 2023-03-12 |
+| [Yo Me Estoy Enamorando](https://open.spotify.com/track/2HlkWajTgCkjW8VxAdZCYN) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [La Gata](https://open.spotify.com/album/2HCzXSG2VU7NJ4NabIHYEU) | 3:51 | 2023-03-10 |  |
 | [Yo Me Estoy Enamorando](https://open.spotify.com/track/6ndtFs90yTcAghotHwP6TN) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [La Gata](https://open.spotify.com/album/00oXPHfuBNr2qDN7ORn6YP) | 3:51 | 2022-01-14 | 2023-03-12 |
 | [Yo No Fui](https://open.spotify.com/track/3YcmYycKWslwStc05Ayn2B) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Yo No Fui](https://open.spotify.com/album/0otb2F4xh0ZtxPTbzDe3lM) | 2:55 | 2022-10-06 | 2022-11-19 |
 | [Yo no se mañana](https://open.spotify.com/track/4AittymSSaHX1FSaXRnFEK) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Yo no sé Mañana](https://open.spotify.com/album/2cCG3eeEpcB9tdFYAc0ihP) | 2:50 | 2022-01-14 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kamaiyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,936 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,966 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 10 | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K) | 2:53 |
 | 11 | [Bop Slide \(feat\. Blueface, OHGEESY & Maxo Kream\)](https://open.spotify.com/track/1H8ZNpGyZybtxzK5JgeFGc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Bop Slide \(feat\. Blueface, OHGEESY & Maxo Kream\)](https://open.spotify.com/album/64OP2SCE7jhZP9h8T4GYgW) | 3:46 |
 | 12 | [Legendary](https://open.spotify.com/track/7dFIUaovJ1U3Ey4dHV0IcY) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Legendary](https://open.spotify.com/album/5UfVCzzsMDdam2tutHmUbn) | 2:12 |
-| 13 | [Bacc Like I Never Left](https://open.spotify.com/track/28UHFrXxU6V6J2Wh2Bp3gQ) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Bacc Like I Never Left](https://open.spotify.com/album/7o86mmziw5xMO0oIO3KGaB) | 2:35 |
+| 13 | [Bacc Like I Never Left](https://open.spotify.com/track/28UHFrXxU6V6J2Wh2Bp3gQ) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [BIGHEAD](https://open.spotify.com/artist/2H1LiROfuxEO0EORx0hFD4) | [Bacc Like I Never Left](https://open.spotify.com/album/7o86mmziw5xMO0oIO3KGaB) | 2:35 |
 | 14 | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g) | 3:03 |
 | 15 | [Flashlight](https://open.spotify.com/track/2nj3qkZhNhm9c82lFbZSFB) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5), [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2) | [Flashlight](https://open.spotify.com/album/16p15AnHo6FgqHZwoKyfmQ) | 2:13 |
 | 16 | [Ask G4](https://open.spotify.com/track/0OqO4zlrcwiZ8uglzz30Ne) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Ask G4](https://open.spotify.com/album/6EZcUQ9Tz8AcICBcCpJFCu) | 3:05 |

@@ -4,7 +4,7 @@
 
 > Celebrating all the great women of pop music\. Cover: Selena Gomez & Miley Cyrus
 
-523 songs - 1 day 7 hr 23 min
+524 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Most Girls](https://open.spotify.com/track/2mfUa8bLs2s5N4VaqJZ4lZ) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls](https://open.spotify.com/album/4D6OyZ4Q57vH7gul8PVzTv) | 3:24 | 2019-05-26\* | 2022-07-29 |
 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 | 2019-08-29 | 2022-07-29 |
 | [Mouth](https://open.spotify.com/track/2uWBgF1sPF8dSiig3ksgXZ) | [Merril Bainbridge](https://open.spotify.com/artist/0lSDlT2Z5EvUGNIl7WQ7k0) | [Radio Waves of the '90s: Pop Hits](https://open.spotify.com/album/2na3fS7r06IGua9sGMpCun) | 3:24 | 2021-03-19 | 2022-04-19 |
-| [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2021-03-01 |  |
+| [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2021-03-01 | 2023-03-27 |
 | [Más Fuerte](https://open.spotify.com/track/2fKwgxMdLZ1IZPUXEG1Si7) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Más Fuerte](https://open.spotify.com/album/0tl4xjlwaKi8mc24AlfV1v) | 3:04 | 2021-03-06 | 2022-04-21 |
 | [Nadie ha dicho \(feat\. Gente de Zona\)](https://open.spotify.com/track/0HGrhbUerQKu89GCy3zmlY) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Nadie ha dicho \(feat\. Gente de Zona\)](https://open.spotify.com/album/6wT1FlYeZb8ZnHIu5A5yGz) | 3:38 | 2021-03-17 | 2022-04-16 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2022-02-24 |  |
@@ -390,6 +390,7 @@
 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 | 2022-07-15 |  |
 | [Royals](https://open.spotify.com/track/3yvZ1VUso9Xi7EvIyLaj4o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/3Ywlsvgu3H6L3q9NHydNR3) | 3:10 | 2021-03-02 | 2022-04-04 |
 | [Run Away With Me](https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 4:11 | 2022-03-25 | 2022-04-21 |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-03-21 |  |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-08-12 | 2023-03-18 |
 | [Salt](https://open.spotify.com/track/7vgv8KZBSo0TPzyIWG9yzV) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Salt](https://open.spotify.com/album/6KPJTxKFCpuzrwyJGcURqK) | 3:00 | 2020-03-07 | 2020-07-09 |
 | [Save The Best For Last](https://open.spotify.com/track/4yRUjOBsj0cpjabtum0fML) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [The Best Of Vanessa Williams 20th Century Masters The Millennium Collection](https://open.spotify.com/album/2W4O6fmk96K7vLxExDzWST) | 3:39 | 2021-03-11 | 2022-04-17 |

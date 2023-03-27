@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "DOKI DOKI",
+        "url": "https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Service",
+          "url": "https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187994,
+      "name": "No Penguin",
+      "url": "https://open.spotify.com/track/22wWeskSlxpEWL1MW5wkoa"
+    },
+    {
+      "album": {
         "name": "Old Fashioned",
         "url": "https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh"
       },
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 185538,
       "name": "OTONABLUE",
       "url": "https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo"

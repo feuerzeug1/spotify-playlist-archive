@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-242 songs - 17 hr 35 min
+243 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Néfos](https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV) | [Ạoris](https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys) | [Néfos](https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B) | 3:12 | 2021-12-10 |  |
 | [Oath](https://open.spotify.com/track/5GHx3rKnPSrZLgHREGTW49) | [Tom Rogerson](https://open.spotify.com/artist/0iONcDu4zVlsw1LwIq4rrN) | [Oath](https://open.spotify.com/album/1vPCZ1h5SyB5DicmVcM7x3) | 4:36 | 2022-03-25 | 2022-06-07 |
 | [Ocean](https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv) | [Søndag Søndag](https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H) | [Ocean](https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF) | 3:58 | 2021-12-10 |  |
-| [On Being \[Foam and Sand Rework\]](https://open.spotify.com/track/2D43pD0M7hHCanJwgGJz5H) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [On Being \[Foam and Sand Rework\]](https://open.spotify.com/album/4XJwtAr2AISvX4GZByc0pG) | 4:14 | 2022-11-11 |  |
+| [On Being \[Foam and Sand Rework\]](https://open.spotify.com/track/2D43pD0M7hHCanJwgGJz5H) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [On Being \[Foam and Sand Rework\]](https://open.spotify.com/album/4XJwtAr2AISvX4GZByc0pG) | 4:14 | 2022-11-11 | 2023-03-27 |
 | [One Symphony](https://open.spotify.com/track/3SsepQPdBbByeC2pG4Lguu) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [One Symphony](https://open.spotify.com/album/4s7mDhDagSLPdw6GEka23m) | 4:23 | 2022-03-25 | 2022-04-01 |
 | [Orawa](https://open.spotify.com/track/1farisX137YtmtrET57xBR) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad), [Fuse](https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP) | [Studio 3](https://open.spotify.com/album/0gRyeLgYU7GUpjkGBSYpoi) | 6:51 | 2021-12-10 | 2022-01-17 |
 | [Ostinato](https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Piano](https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I) | 4:28 | 2021-12-10 |  |
@@ -216,6 +216,7 @@
 | [Stone Stairs](https://open.spotify.com/track/0tjlqNVncu5dZ2Snz0jAJ3) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z) | [Play Echoes](https://open.spotify.com/album/5hLbP2i4QeWU8twh9L9u6w) | 3:20 | 2022-11-18 | 2022-12-03 |
 | [Super Hexacordum \- Ensemb7e Version](https://open.spotify.com/track/6aL3anr4gLkHiPi9TM1PpJ) | [Chapelier Fou](https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd) | [Ensemb7e](https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU) | 5:18 | 2022-04-15 | 2022-07-29 |
 | [Synchronised Valve](https://open.spotify.com/track/3QuKpOxqvF5PTBANxKtx6p) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Synchronised Valve](https://open.spotify.com/album/725dZKUCaDY1QFjdoj0WYh) | 4:06 | 2021-12-10 | 2022-04-02 |
+| [Thaw](https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Thaw](https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7) | 3:34 | 2023-03-24 |  |
 | [The Bottom Line \- Live From Home](https://open.spotify.com/track/3f2rHgazwt7oppdxUI7XIa) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Bottom Line \(Live From Home\)](https://open.spotify.com/album/5DwChHfBiVNbFLwyJCqGTy) | 4:08 | 2021-12-10 | 2022-04-02 |
 | [The Cheek of Daniel](https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Building Blocks, Pt\. 5](https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq) | 4:40 | 2022-06-24 |  |
 | [The Moments We Keep](https://open.spotify.com/track/3v6FUJuz7vstBfuFykS6xp) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL), [Tara Nome Doyle](https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv) | [The Moments We Keep](https://open.spotify.com/album/6aEPTYd0F1FgAiYMMrkSAW) | 3:27 | 2021-12-10 | 2022-04-01 |

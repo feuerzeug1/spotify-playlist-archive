@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,062 likes - 71 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,260 likes - 71 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 28 | [The Rise Of The Starman](https://open.spotify.com/track/6p6ckkZDEbsrh2JuiwoWhq) | [Arjen Lucassen's Supersonic Revolution](https://open.spotify.com/artist/6FKUrDi8oDOzLFLGlb0hfK), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [The Rise Of The Starman](https://open.spotify.com/album/59VyKJPz5V6jq7tH8Qf2e8) | 4:49 |
 | 29 | [Weit ist das Meer](https://open.spotify.com/track/7zn94EFPC26MTerBRc2d1Y) | [Subway To Sally](https://open.spotify.com/artist/544X9aDcwFDSon8HevRcqg) | [Weit ist das Meer](https://open.spotify.com/album/1ueWrbAz2mOtMDXtJKvPpR) | 3:47 |
 | 30 | [Drifting in a Dream](https://open.spotify.com/track/2AJ7yy7ulIXoDgLNMzjfbv) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Drifting in a Dream](https://open.spotify.com/album/0hdLPkixmOIX2a4Rblj3nu) | 5:25 |
-| 31 | [Light Reveals Our Wounds](https://open.spotify.com/track/5VeFZnmaZeINt2I92in4GU) | [Marianas Rest](https://open.spotify.com/artist/0k4zMzhcTcF2wQcbOMVZxD) | [Light Reveals Our Wounds](https://open.spotify.com/album/0CuLFAJBxPyU45daupRJtY) | 5:55 |
+| 31 | [Light Reveals Our Wounds](https://open.spotify.com/track/2ALFloQY9hwCPI5AFyfFSg) | [Marianas Rest](https://open.spotify.com/artist/0k4zMzhcTcF2wQcbOMVZxD) | [Auer](https://open.spotify.com/album/7meSdeUAMuvpRM3DHtLBES) | 5:55 |
 | 32 | [The Promise](https://open.spotify.com/track/5hyPmTSBp59gRwDxJydtcW) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [The Promise](https://open.spotify.com/album/4CtOrOT6ozz3ZAj35eqJmq) | 3:19 |
 | 33 | [Hamburger Nächte](https://open.spotify.com/track/3tLuK4yu30s6IFonvNc36H) | [KneipenTerroristen](https://open.spotify.com/artist/1h7jNzOF7oZ6DUmbIrP1Xi) | [Hamburger Nächte](https://open.spotify.com/album/4OVxmuzArQm5xG79ESbuED) | 4:09 |
 | 34 | [We Are the Resistance](https://open.spotify.com/track/5TuE7SRjNueqNzZxI5IsVr) | [Graveworm](https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX) | [We are the Resistance](https://open.spotify.com/album/25g1KQsRmB1C1WZAuGXpMv) | 4:07 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 70 | [Mired Down in the Innermost Thicket](https://open.spotify.com/track/6z1cNYBrjpFKdPwCSyCrF4) | [Woe Unto Me](https://open.spotify.com/artist/7nFCNvJBqmpWIhyQbOdMfG) | [Along the Meandering Ordeals, Reshape the Pivot of Harmony](https://open.spotify.com/album/6JH7YMYxodFmHpyxmEN7td) | 12:09 |
 | 71 | [Walk on Down](https://open.spotify.com/track/76p3kxe3kuXeJVYNmFNT99) | [Dragon's eye](https://open.spotify.com/artist/1vSOt1gKdPlD447pc8UB2x) | [Walk on Down](https://open.spotify.com/album/3GwWhzAXZyNSI6hPNJwJ13) | 5:03 |
 
-Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMDE0YzZjZTFhMGMxNWI2YmIzNDk3N2FiY2ZlYzM0NGJh`
+Snapshot ID: `MTY3OTYzMDQ2MCwwMDAwMDAwMDE5MThlN2M0MmQxYTQyNDg2ZjE2NjM4YjYyMjYzNzU2`

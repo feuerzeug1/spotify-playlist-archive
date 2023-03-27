@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,627 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,786 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Veras](https://open.spotify.com/track/2INMbTvlLhGs1b1O3EYhiS) | [Alhama, Los](https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 2:26 |
 | 2 | [Vete de mi vera](https://open.spotify.com/track/14WUytY9xks121FAmVkwxo) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco Rumba](https://open.spotify.com/album/6Pth02lvYNd5mEAISGGb9r) | 3:44 |
-| 3 | [Bailando](https://open.spotify.com/track/6mRdsz7INXEZjFiPdXBbCp) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk) | [Best of Rafa El Tachuela: Flamenco](https://open.spotify.com/album/1ReQcQyYGGMCGmGglpcq0L) | 4:30 |
+| 3 | [Bailando](https://open.spotify.com/track/729HTgh7htIHseVz4lyrz9) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Bjorn Chico Werra](https://open.spotify.com/artist/1A4HrEESjDDhDPKjHwxTNk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 4:30 |
 | 4 | [Rayo](https://open.spotify.com/track/5FpJy5woYptiLlLY4M8b4t) | [Strunz & Farah](https://open.spotify.com/artist/2Vr1fub6eNIztdUNeFPvJj) | [Americas](https://open.spotify.com/album/4N1aKzXuJLHXBW6Hp5ZxSw) | 4:52 |
 | 5 | [Aunque Es de Noche \(Tango\)](https://open.spotify.com/track/2Ixtw9MGKVBxaa6aRb43H0) | [Enrique Morente](https://open.spotify.com/artist/4rJk8GmrNf1g07EsuoZSzJ) | [Esencial Enrique Morente](https://open.spotify.com/album/429mOLPu8Sl3E4Pw5wOPuc) | 4:10 |
 | 6 | [Sostén Mi Corazón](https://open.spotify.com/track/2VL18BYruMoFmrX2FOH0Kh) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Sostén Mi Corazón](https://open.spotify.com/album/59HfyTWuPadCXE8Nd7q3ij) | 3:15 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 50 | [Bumblebeat](https://open.spotify.com/track/0aiqrNJkcz1xDGUD8HLrRz) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Mosaico](https://open.spotify.com/album/6PAB5rJADQ7HFjp0fzKjba) | 4:34 |
 | 51 | [En la Mancha](https://open.spotify.com/track/6qixM3ocxbC7JzrDg2YwrD) | [Mari Nieto](https://open.spotify.com/artist/1kpBaXhyD5w2NMYoklvChj), [Juan Antonio Torres](https://open.spotify.com/artist/1JXR84Lo1dOJcc8re1H5lw), [Viguela](https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF) | [Temperamento: Traditional Music from Spain](https://open.spotify.com/album/7hlw3I2DL1JV4uw99h5BtC) | 5:50 |
 
-Snapshot ID: `MTY2MTg2NjczNiwwMDAwMDAwMDg2NmY0ODU0MjI5ZGYxZWJiMjkxMjBiNjZhYjk2M2I2`
+Snapshot ID: `MTY2MTg2NjczNiwwMDAwMDAwMGJhNjY3M2M1N2U4ZmM0NmY4YTUxMDE3YmUyZGNlMTEx`

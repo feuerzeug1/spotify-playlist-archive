@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > Songs to listen to while waiting to break the fast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,250 likes - 113 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,376 likes - 113 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-100 songs - 7 hr 20 min
+101 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Aux Vagues, Mix du Pelerinage](https://open.spotify.com/track/3Y1Mt1wDksUZXGTaY0jHGO) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO) | 4:57 | 2022-01-21 |  |
 | [Aux vagues, mix du pèlerinage](https://open.spotify.com/track/3ivU2l42eOkklCwbFeK748) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Gypsy Flamenco](https://open.spotify.com/album/3wNmAIO71efs1V7C2qjPZj) | 4:57 | 2022-08-30 | 2022-11-13 |
 | [Aux vagues, mix du pèlerinage](https://open.spotify.com/track/5DvHA9theiQ8yRrhsMqsIb) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/4OdCjbSwaBSAXZ3rf72r9a) | 4:57 | 2022-01-21 | 2022-07-29 |
-| [Bailando](https://open.spotify.com/track/6mRdsz7INXEZjFiPdXBbCp) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk) | [Best of Rafa El Tachuela: Flamenco](https://open.spotify.com/album/1ReQcQyYGGMCGmGglpcq0L) | 4:30 | 2022-01-21 |  |
+| [Bailando](https://open.spotify.com/track/6mRdsz7INXEZjFiPdXBbCp) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk) | [Best of Rafa El Tachuela: Flamenco](https://open.spotify.com/album/1ReQcQyYGGMCGmGglpcq0L) | 4:30 | 2022-01-21 | 2023-03-27 |
 | [Bailando](https://open.spotify.com/track/7k9sjRiArRI5IilO6Dl6AA) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk) | [Best of Rafa El Tachuela: Flamenco](https://open.spotify.com/album/6Of0l7qLCVmY3Kgfuc6san) | 4:30 | 2022-01-21 | 2022-07-29 |
+| [Bailando](https://open.spotify.com/track/729HTgh7htIHseVz4lyrz9) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Bjorn Chico Werra](https://open.spotify.com/artist/1A4HrEESjDDhDPKjHwxTNk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 4:30 | 2022-08-30 |  |
 | [Bailando \(Dancing\)](https://open.spotify.com/track/6ejiazJO470Ns1jVbiyZfW) | [Bjorn Chico Werra](https://open.spotify.com/artist/1A4HrEESjDDhDPKjHwxTNk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/6yB8gM1O5pLXW8XshuHX8X) | 4:30 | 2022-08-30 | 2022-11-13 |
 | [Barcelona Nights](https://open.spotify.com/track/2rJY1HlLcOXsQYMPUnhQxa) | [Ottmar Liebert](https://open.spotify.com/artist/1AhYnfs5mzb3ennyLFXlYD) | [Barcelona Nights: The Best Of Ottmar Liebert Volume One](https://open.spotify.com/album/0o91xvgRJz0ZLb5cCPzFo8) | 4:06 | 2022-01-21 |  |
 | [Buleria de Manuel](https://open.spotify.com/track/3LVBA3pqKNcNFyWOVjQOlI) | [Manuel Lopez\-Ruiz](https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo), [El Chachi](https://open.spotify.com/artist/4n875W84fNuDHcf9uD9D2R) | [Gypsy Rumba Flamenco](https://open.spotify.com/album/4SKgLW5QhafMeJocwxAleS) | 3:54 | 2022-01-21 |  |

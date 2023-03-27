@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-134 songs - 8 hr 18 min
+135 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Bridges](https://open.spotify.com/track/69U6phr8zMQeDOUscOnKPM) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Bridges](https://open.spotify.com/album/7y0YxerpfxZI7MrclmgRCI) | 4:11 | 2021-12-01 |  |
 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 | 2021-12-01 |  |
 | [Chance](https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 2:59 | 2021-12-01 |  |
+| [Childhood](https://open.spotify.com/track/5FUOnXsUv0Ls9PjY0O6n7f) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 5:45 | 2021-12-01 |  |
 | [Childhood](https://open.spotify.com/track/4EJiWw5JfcPL2v6BkjZglo) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Childhood](https://open.spotify.com/album/3psPknmWDOZJlZUxj79tn7) | 5:46 | 2021-12-01 | 2022-07-29 |
-| [Childhood](https://open.spotify.com/track/6JC1pkbT55lB2ua2npguzN) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 5:46 | 2021-12-01 |  |
+| [Childhood](https://open.spotify.com/track/6JC1pkbT55lB2ua2npguzN) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 5:46 | 2021-12-01 | 2023-03-27 |
 | [Coal Mine](https://open.spotify.com/track/2r28OVJXaUWY5gkMdAzpeu) | [I, the Mountain](https://open.spotify.com/artist/0SpaSO2rguoxdzRV0Cnnaq) | [Coal Mine](https://open.spotify.com/album/1iV6yD61SdNZ4tkQcoUtJw) | 3:25 | 2021-12-01 |  |
 | [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 | 2021-12-01 |  |
 | [Collectors](https://open.spotify.com/track/5kF2AYhDtFksrQGkSbhRp3) | [Laura Reznek](https://open.spotify.com/artist/04nT28h1eTiq4zIw7iOFSz) | [Agrimony](https://open.spotify.com/album/79URNHwVs8f6mGB1dgyN7W) | 3:41 | 2021-12-01 |  |

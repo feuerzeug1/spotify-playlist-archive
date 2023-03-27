@@ -3573,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "Blp Kosher And The Magic Dreidel",
+        "url": "https://open.spotify.com/album/7KP3jfdAFSjRx1HEQkIyyY"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129097,
+      "name": "Jew On The Canoe",
+      "url": "https://open.spotify.com/track/694GED3o0OdFTsoS0aNpEs"
+    },
+    {
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -6348,6 +6366,28 @@
       "duration_ms": 199493,
       "name": "Sick of Slime",
       "url": "https://open.spotify.com/track/4BWqc7XhJPFkbCvfDcAdYl"
+    },
+    {
+      "album": {
+        "name": "SURF OR DROWN",
+        "url": "https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256926,
+      "name": "Slipping Into Darkness",
+      "url": "https://open.spotify.com/track/1E9jnRS7TRaJtmBf7NzQWn"
     },
     {
       "album": {

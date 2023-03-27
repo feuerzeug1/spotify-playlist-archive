@@ -1490,6 +1490,24 @@
     {
       "album": {
         "name": "Ya Samti",
+        "url": "https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f"
+      },
+      "artists": [
+        {
+          "name": "Zuhair Francis",
+          "url": "https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232166,
+      "name": "Ya Samti",
+      "url": "https://open.spotify.com/track/02sG3ndWTK9PHBxPlaZwAH"
+    },
+    {
+      "album": {
+        "name": "Ya Samti",
         "url": "https://open.spotify.com/album/0I1DrBlH1G7tg0tbU7ux99"
       },
       "artists": [
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 185375,
       "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
       "url": "https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy"

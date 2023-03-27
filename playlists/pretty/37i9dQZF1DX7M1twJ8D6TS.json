@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 116830,
+  "num_followers": 116914,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGE3YzVkZjQwOTQ2OWFhMTcwNTcxNzgxY2U4NzNiZWU4",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDRjMDExM2MyNmQ5OTY0OGY2NDdlYmM4ZTQzYmVlZTFk",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
-      },
-      "artists": [
-        {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Broke Ass Kid",
         "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 242325,
       "name": "Broke Ass Kid",
       "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+      },
+      "artists": [
+        {
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Drowning in Dreams, Pt. 2",
-        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
+        "name": "Lovin' Where It's Goin'",
+        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
       },
       "artists": [
         {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
+      "duration_ms": 179691,
+      "name": "Lovin' Where It's Goin'",
+      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Lovin' Where It's Goin'",
-        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
+        "name": "Drowning in Dreams, Pt. 2",
+        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
         }
       ],
-      "duration_ms": 179691,
-      "name": "Lovin' Where It's Goin'",
-      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Don't Even Say Bye",
-        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
-      },
-      "artists": [
-        {
-          "name": "Cole Barnhill",
-          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
-        }
-      ],
-      "duration_ms": 237060,
-      "name": "Don't Even Say Bye",
-      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Borrowed Time",
         "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 220649,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Don't Even Say Bye",
+        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
+      },
+      "artists": [
+        {
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+        }
+      ],
+      "duration_ms": 237060,
+      "name": "Don't Even Say Bye",
+      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
-      "added_at": "2023-03-26 01:34:11",
+      "added_at": "2023-03-27 01:28:53",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Makin' It By (Side A)",
-        "url": "https://open.spotify.com/album/19luaHWSUvdGpgyTNOqt7D"
+        "name": "American Soul",
+        "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
       },
       "artists": [
         {
-          "name": "Keller Cox",
-          "url": "https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 210308,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex"
+      "duration_ms": 189045,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "American Soul",
-        "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
+        "name": "Makin' It By (Side A)",
+        "url": "https://open.spotify.com/album/19luaHWSUvdGpgyTNOqt7D"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Keller Cox",
+          "url": "https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u"
         }
       ],
-      "duration_ms": 189045,
-      "name": "Boots",
-      "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
+      "duration_ms": 210308,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
     },
     {
-      "added_at": "2023-03-26 01:34:11",
+      "added_at": "2023-03-27 01:28:53",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"

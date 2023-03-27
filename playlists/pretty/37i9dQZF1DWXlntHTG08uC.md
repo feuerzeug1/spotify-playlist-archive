@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,013 likes - 103 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,333 likes - 103 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 72 | [528 Hz \- Quiet Stars](https://open.spotify.com/track/4jXPbT4AZ3H9hfzex9jhFB) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/7HtP4dHkmBSY6bmEzRUqAg) | 1:55 |
 | 73 | [Astral Distance \- 528 Hz](https://open.spotify.com/track/630BHcaZy9eUFnQbkhuto9) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Astral Distance](https://open.spotify.com/album/6u40IEYn1dKNXC7rGBqM5N) | 2:05 |
 | 74 | [Miracles 528 Hz](https://open.spotify.com/track/2mFDUp9CvYn6mGtfhoiKk7) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 4:00 |
-| 75 | [Resonare 852 Hz](https://open.spotify.com/track/4yeHkbeopZeDd0uGbvzmvq) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [528 & 852](https://open.spotify.com/album/0wMnlSxk9JOM5GutgLLL5f) | 2:33 |
+| 75 | [Resonare 852 Hz](https://open.spotify.com/track/4yeHkbeopZeDd0uGbvzmvq) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [528 & 852](https://open.spotify.com/album/0wMnlSxk9JOM5GutgLLL5f) | 2:38 |
 | 76 | [528 Hz \- Tides of Eternity](https://open.spotify.com/track/61Lty0qrAURZPYhiEONE3X) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Tides of Eternity](https://open.spotify.com/album/6WgkixEENAU8DXDGjquVRo) | 2:18 |
 | 77 | [528 Hz Singing Tibetan Bowl \(Sound Bath\)](https://open.spotify.com/track/0r9oPEDEMdabiJvEwKV7Rl) | [Chakra Shack](https://open.spotify.com/artist/3SeXI5wCsQRDEoReZONV4d) | [Awareness](https://open.spotify.com/album/76K6DdL78XxjaL572w8Eqi) | 2:16 |
 | 78 | [Blue 528 hz](https://open.spotify.com/track/1uiIbOHk0pDxo7VIYy5diE) | [Fables From Mars](https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW) | [Blue Sinus](https://open.spotify.com/album/3TnvcL3axNy2n0tz84D84p) | 2:32 |

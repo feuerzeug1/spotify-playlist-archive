@@ -1,12 +1,12 @@
 {
   "description": "Revisit memories and make new ones with the best Kwaito songs ever released. Cover: Spikiri",
-  "num_followers": 24928,
+  "num_followers": 24976,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4Mzk0MCwwMDAwMDAwMGIyZWRjMzc0NjQ2Y2Y5YjFjMDkwZTVkODA5OTFiYzUy",
+  "snapshot_id": "MTY2Mzg4Mzk0MCwwMDAwMDAwMGM0NTgyMWU3ODY1ZDI4MTcwZTY1ZDVlMjFjNzJmMjBl",
   "tracks": [
     {
       "added_at": "2022-04-25 18:44:17",
@@ -67,22 +67,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "BullDawgz First Lady",
-        "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
-      },
-      "artists": [
-        {
-          "name": "Mshoza",
-          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Kortes (Kasi Luv)",
-      "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "M'du Or Die",
         "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 336666,
       "name": "Siya Jola (Ok'Salayo)",
       "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "BullDawgz First Lady",
+        "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
+      },
+      "artists": [
+        {
+          "name": "Mshoza",
+          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Kortes (Kasi Luv)",
+      "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "S'guqa Ngamadolo",
-        "url": "https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX"
-      },
-      "artists": [
-        {
-          "name": "Mzekezeke",
-          "url": "https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e"
-        }
-      ],
-      "duration_ms": 337400,
-      "name": "Amakoporosh",
-      "url": "https://open.spotify.com/track/0T3LbaGADVSPXU5Tzy7XDY"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Bash Mix 2",
         "url": "https://open.spotify.com/album/3jXFnAfB1GglFH95qcl1vA"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 243332,
       "name": "Klaimar",
       "url": "https://open.spotify.com/track/7yd9B48OQSRTUG2oKEoPXr"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "S'guqa Ngamadolo",
+        "url": "https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX"
+      },
+      "artists": [
+        {
+          "name": "Mzekezeke",
+          "url": "https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e"
+        }
+      ],
+      "duration_ms": 337400,
+      "name": "Amakoporosh",
+      "url": "https://open.spotify.com/track/0T3LbaGADVSPXU5Tzy7XDY"
     },
     {
       "added_at": "2022-04-25 18:44:17",

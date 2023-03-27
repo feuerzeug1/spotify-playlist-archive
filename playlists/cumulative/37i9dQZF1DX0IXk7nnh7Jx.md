@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Forrest Frank
 
-278 songs - 17 hr 20 min
+279 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [In the Valley](https://open.spotify.com/track/1mEREMPGZy8BzbNr7FinQ4) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [In the Valley](https://open.spotify.com/album/5yTIiQdHlCogJhpPqfH5Sh) | 4:53 | 2020-12-18 | 2022-07-29 |
 | [Island](https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Island](https://open.spotify.com/album/6xYY34SDgAPg308e965q0H) | 4:34 | 2020-12-18 | 2023-02-19 |
 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 | 2020-12-18 | 2023-02-19 |
+| [It's a Yes](https://open.spotify.com/track/2USftuoK2F8e3WOyl2hz90) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 3:19 | 2023-02-24 |  |
 | [It's a Yes](https://open.spotify.com/track/2mjjLHHQW55Y5kw6Ugfoc2) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [It's a Yes](https://open.spotify.com/album/0HEQDcYpmf87RJRAS19FFn) | 3:19 | 2023-02-21 | 2023-03-25 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/1MzsDT85FGT7NDwyc6EndI) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Wilder Years](https://open.spotify.com/album/6IljQe2zOTrM6NQpKfmrOb) | 3:24 | 2020-12-18 | 2022-07-26 |
 | [Jesus Always](https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Jesus Always](https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u) | 4:44 | 2023-02-19 |  |
@@ -273,7 +274,7 @@
 | [Wherever I Go \(Acoustic\)](https://open.spotify.com/track/2gBVcqS417YeS6Jr4rqvsg) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Wherever I Go \(Acoustic\)](https://open.spotify.com/album/48da3rX8UEuuwkS9t0LUBh) | 4:10 | 2023-02-24 |  |
 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 | 2023-02-19 |  |
 | [Who's That Guy?](https://open.spotify.com/track/0c9Pvl5ZbuSLz74zYaJOmE) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [fake strong](https://open.spotify.com/album/0MI00zdMi7R5he3t0aaVRm) | 2:42 | 2023-02-24 |  |
-| [Wildflower \- Single Version](https://open.spotify.com/track/2tKaFiKEIuFf5r3LXpiqPg) | [Baily Hager](https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb) | [Wildflower](https://open.spotify.com/album/1T6eFur755rELSRscSb0AK) | 5:31 | 2023-02-24 |  |
+| [Wildflower \- Single Version](https://open.spotify.com/track/2tKaFiKEIuFf5r3LXpiqPg) | [Baily Hager](https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb) | [Wildflower](https://open.spotify.com/album/1T6eFur755rELSRscSb0AK) | 5:31 | 2023-02-24 | 2023-03-27 |
 | [WINNING](https://open.spotify.com/track/2GV28Ng9Qb9nd1Eo0pcoIC) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [WINNING](https://open.spotify.com/album/5gACii71448MJmPfypnC80) | 2:18 | 2023-02-24 |  |
 | [With Us Still](https://open.spotify.com/track/3TxZrkbyMAsRPbYAzDS7ag) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [With Us Still](https://open.spotify.com/album/1xajWufL9Q5yU8abterSB5) | 3:37 | 2023-02-24 | 2023-03-26 |
 | [Without Your Love](https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [Without Your Love](https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC) | 2:59 | 2023-02-19 | 2023-02-24 |

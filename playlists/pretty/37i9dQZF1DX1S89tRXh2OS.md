@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 
 > La playlist idéale pour prendre la route.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,888 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,014 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 79 | [Way Home](https://open.spotify.com/track/5vBavF0DZKDeCEM1gZXTgW) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Way Home](https://open.spotify.com/album/50IewgySvPgiUeVvEJjHJs) | 2:52 |
 | 80 | [Sunday With A Flu](https://open.spotify.com/track/6zfT8ekh9fF4Tf2uEZYC6t) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Love songs 2000s](https://open.spotify.com/album/3RE8Y4VaZtmGCU7rqF7Mpm) | 2:17 |
 
-Snapshot ID: `MTY3OTY2Nzk4OCwwMDAwMDAwMGZiMzI5NTNiNjgwZTYyMzQ5ODZiYzVhZmI5YTY3ODky`
+Snapshot ID: `MTY3OTg0Nzk3MSwwMDAwMDAwMDA3YzM4OGY4OTc1M2QxZGU1YjE1NGZhMzMxOTMzMjJk`

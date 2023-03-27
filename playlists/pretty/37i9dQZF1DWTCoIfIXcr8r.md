@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 
 > Find your flow with a classical Indian soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,164 likes - 48 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,205 likes - 48 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 | 6 | [Flute Bhairavi](https://open.spotify.com/track/3y2qoG04eGcwXrpTzQSkzY) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:13 |
 | 7 | [Raag Shuddh Sarang\-Alap](https://open.spotify.com/track/5m7bVAjnN5tjcbcjBmDi7X) | [Raghunath Seth](https://open.spotify.com/artist/3R3kXhcudwAwi9WXL0nIjg) | [Pandit Raghunath Seth](https://open.spotify.com/album/7gA8iaSNVBHXMloszROyi8) | 6:32 |
 | 8 | [Asavari](https://open.spotify.com/track/3hsLPliFTPsnj1LJYSe88w) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:52 |
-| 9 | [Raga Ahiri Todi \(gat in Vilambit Ektaal\)](https://open.spotify.com/track/2u9opkWyJ5KdA9OaJUzais) | [Benjamin Shrivastav Shanson](https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl), [Partho Mukherjee](https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [The Art of the Indian Dilruba](https://open.spotify.com/album/3sKpqE3Q8WOBeYobxeLO85) | 15:32 |
+| 9 | [Raga Ahiri Todi \(gat in Vilambit Ektaal\)](https://open.spotify.com/track/3XGCHE9x5Fh7TFwK9VfokU) | [Benjamin Shrivastav Shanson](https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl), [Partho Mukherjee](https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [The Art of the Indian Dilruba](https://open.spotify.com/album/3eG6qaUjKMWZ2bz8tG0GwR) | 15:32 |
 | 10 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 |
 | 11 | [Pilu](https://open.spotify.com/track/0fhMfRX1cNa5YqjADO581I) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:52 |
 | 12 | [Raga Patdeep \- Alap](https://open.spotify.com/track/2LOwDjRTCEV72ijYjHSZlu) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Aradhana](https://open.spotify.com/album/2tGZD01y5HosmqD4Lssg9k) | 7:15 |
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 | 40 | [Raag Jhinjhoti](https://open.spotify.com/track/4ez9fZqF6ZZhLe9cWxXjQ5) | [Arnab Chakrabarty](https://open.spotify.com/artist/4Q71a45GZQftTkJRMYqtVn) | [De\-Stress Refresh](https://open.spotify.com/album/4KRf8I4ALrGL9vUrALCu2X) | 11:23 |
 | 41 | [Raga Kalavati \- Alaap](https://open.spotify.com/track/38W5klddZEyd4qw1DpTuFt) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Dreamwaves](https://open.spotify.com/album/1Fli4PL8CCyZ3KuhF6GPan) | 9:25 |
 | 42 | [Raga Shivaranjani \- Alaap and Jod](https://open.spotify.com/track/0mJb387czeAT18YUjtBSIS) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Mukundraj Deo](https://open.spotify.com/artist/4JMS6zNavFjxoH09RQq78D) | [Finesse On Flute](https://open.spotify.com/album/7dzYA4LH7OgBLoY4YYwpco) | 13:14 |
-| 43 | [Raag Jan Sammohini](https://open.spotify.com/track/2YslUCc6hajPui3BwhUUQs) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Baluji Shrivastav: Shadow of the Lotus \- Classical Indian Ragas](https://open.spotify.com/album/6f5DwByARxl4O8K3danrJ5) | 10:10 |
+| 43 | [Raag Jan Sammohini](https://open.spotify.com/track/5sOR6MZkrHWHKmHqvmrQuS) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Baluji Shrivastav: Shadow of the Lotus \- Classical Indian Ragas](https://open.spotify.com/album/7sq7QZGY6o4mFaFnXns4DN) | 10:10 |
 | 44 | [Prema Chakor](https://open.spotify.com/track/6pwSMTkChJf5uYM5vzjWKN) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Calcutta Slide\-Guitar](https://open.spotify.com/album/10xA7rIoH7opaKQHlG4SBv) | 9:20 |
 | 45 | [Beauty and Power of the Vina \- Malay Marutam](https://open.spotify.com/track/31VI1XppAaDdThtsNeUSzr) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 7:20 |
 | 46 | [Relaxing Into The Self \- Maya Malav Gaulay](https://open.spotify.com/track/4LHPsWgpZieOaXZDWqREYR) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 6:04 |
 | 47 | [Alap & Jor](https://open.spotify.com/track/5z2AySosw7Cokl8HLq1mPd) | [Ken Zuckerman](https://open.spotify.com/artist/0Qlqyvs4Clg3MhIRwxx5ku) | [Hemant \- an evening Raga](https://open.spotify.com/album/341RD2w3IhyPqjspyD1Ux4) | 19:06 |
 | 48 | [Chants\-Raag Bhatiyar, Pt\. 1](https://open.spotify.com/track/5aQTfzi7ph9kgOrN6d2WaX) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Sunil Das](https://open.spotify.com/artist/4a37LwWvVvqwiwdakKi6OB) | [Sacred Mantras of India](https://open.spotify.com/album/4qmDo5H84uQT50aCdPVPxE) | 2:48 |
 
-Snapshot ID: `MTY3ODk0OTkyMSwwMDAwMDAwMGM0Y2Q0NjhlYzY0OWQ1OGNlNTk3N2I3MjI4Mjg2YTQz`
+Snapshot ID: `MTY3ODk0OTkyMSwwMDAwMDAwMDFhODg2ZGYwM2IxOTJmYzAyMWY4YTllNmFiOTk3M2E3`

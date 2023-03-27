@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Blande  a.k.a\. <a href="https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0?si=lT1wzn6tTV604S4xgYVf6Q">Wande</a> :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,618 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,808 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 20 | [He's Just That Good](https://open.spotify.com/track/7xUh2Ii9oRhR1OncrupC7t) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [He's Just That Good](https://open.spotify.com/album/6vzLGaw7SgivnsvMoOD3QZ) | 3:29 |
 | 21 | [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 |
 | 22 | [Oh, What A Friend \- Live](https://open.spotify.com/track/6wVLiGYfEOAGUC0GUGX7ic) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Oh, What A Friend \(Live\)](https://open.spotify.com/album/6eIRbxNgzmfBMgKS7DseJ8) | 5:16 |
-| 23 | [Just One Drop \- Live in New Orleans](https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Just One Drop \(Live in New Orleans\)](https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD) | 6:24 |
+| 23 | [Just One Drop \- Live From New Orleans](https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Just One Drop \(Live From New Orleans\)](https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD) | 6:24 |
 | 24 | [Abide \- Live](https://open.spotify.com/track/4Bo1QB23vxppx9TklFsmKw) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/5u3wyUEBom81pTF57qjwZW) | 6:00 |
 | 25 | [Turn It Up](https://open.spotify.com/track/6ohI4t5YO6EC3HW9mtE26H) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [As For Us \(Live\)](https://open.spotify.com/album/0sNYIMGYhBqj2zdS7oeEnN) | 7:32 |
 | 26 | [Face to Face \- Single Version](https://open.spotify.com/track/0fjHBG8zMfydpiHqGBbRvf) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [Face to Face](https://open.spotify.com/album/6L12CQG5wsn4eQmu748646) | 5:29 |

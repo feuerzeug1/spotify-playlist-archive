@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Cover: Clara Rockmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,162 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,165 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 43 | [Suite No\. 3 in D, BWV 1068: Air on the G String](https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 4:28 |
 | 44 | [Melody](https://open.spotify.com/track/1B00mbs5juqngHKXGRTEaQ) | [Joseph Moiseyevich Schillinger](https://open.spotify.com/artist/2i4gqrJkFCowtXS72V2CEO), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv), [Joshua Pierce](https://open.spotify.com/artist/6VJexFMwB5GxEZH1We82Kp) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 1:51 |
 | 45 | [Cantilena No\. 3 \(Arr\. for Theremin, Cello Quartet and Double Bass\)](https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Rebekka Markowski](https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc), [Roman Eyck](https://open.spotify.com/artist/7rZPR5skCsBsl5FaKqdX5s) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 3:10 |
-| 46 | [Luna Hiena](https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 2:44 |
-| 47 | [Voice of Theremin](https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49) | [Vladimir Komarov](https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 8:47 |
+| 46 | [Voice of Theremin](https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49) | [Vladimir Komarov](https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 8:47 |
+| 47 | [Luna Hiena](https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 2:44 |
 | 48 | [荒城の月](https://open.spotify.com/track/62iNNRWB0tpmE8O6RuMGqV) | [Masami Takeuchi](https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq) | [Theremin Vox Collection Vol.1](https://open.spotify.com/album/7c94OMv4ypIwKaSL4DbLHu) | 3:02 |
-| 49 | [Theremin in the Rain](https://open.spotify.com/track/1LWMnApLb8gugGjEuufAQ1) | [Gordon Monahan](https://open.spotify.com/artist/4hM8esOTyFH8grxXR27Afm) | [Theremin in the Rain](https://open.spotify.com/album/6n5vZ6yqWTMD5bv1Ybu3K1) | 3:57 |
+| 49 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
 | 50 | [Somewhere over the Rainbow](https://open.spotify.com/track/5TFRWQT4v6LVQluDYoIcpe) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Ameriqué: The American Songbook](https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY) | 2:43 |
 
-Snapshot ID: `MTY0MTg3MDg5OCwwMDAwMDAwMDhhMmU3YmFkZWQ0NDVjMTcxMzMzMTBiYzEzNTg5MDAw`
+Snapshot ID: `MTY0MTg3MDg5OCwwMDAwMDAwMGJlZWFlMTUzMzgyZWE0YmY0MDg4NjcxOTE2YjNkMDEy`

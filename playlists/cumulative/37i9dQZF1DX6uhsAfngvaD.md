@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-343 songs - 21 hr 20 min
+344 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Collar de Perlas](https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl) | [MONTESCO](https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb) | [Collar de Perlas](https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM) | 4:29 | 2022-04-01 | 2022-04-21 |
 | [Come Down and Waste With Me](https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Ways To Get Out \(Deluxe\)](https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY) | 4:07 | 2022-02-24 |  |
 | [come over x](https://open.spotify.com/track/1wRiX5K2p8mKRZlNAPgRv7) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [come over x](https://open.spotify.com/album/75EJhhhNbIVjlpkd3Sy49e) | 4:16 | 2021-10-09 | 2022-07-25 |
-| [come over x](https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [monochrome blue](https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a) | 4:16 | 2022-07-06 |  |
+| [come over x](https://open.spotify.com/track/3xjIazvOeHqkO1WC91FXmY) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [monochrome blue](https://open.spotify.com/album/3xZnbyJaNMpXNbwHkUOE5a) | 4:16 | 2022-07-06 | 2023-03-27 |
 | [conventional ride](https://open.spotify.com/track/2s30KXFLxnyH9CHKoO3Yum) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Any Human Friend](https://open.spotify.com/album/1MyAYzrDvFNjNY689PtpWF) | 4:10 | 2019-11-19\* | 2020-08-09 |
 | [Conversaciones](https://open.spotify.com/track/2JoIsTLmlVGiY2y602IkZN) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Conversaciones](https://open.spotify.com/album/5JO7X3vUSFQpo91NibWW5G) | 3:17 | 2020-11-06 | 2020-12-22 |
 | [cool kid](https://open.spotify.com/track/7Iq3WKDjRaGyYjaAZr0Lcx) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [cool kid](https://open.spotify.com/album/2AXY3PdfKoLLcIHtEfPSZN) | 4:02 | 2021-07-04 | 2022-07-28 |
@@ -265,6 +265,7 @@
 | [Self Aware](https://open.spotify.com/track/0zxaeEmN9uxdvx7mrnmZAJ) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Do It Again](https://open.spotify.com/album/7KIGWJhK1TUev0tHh7CnGH) | 4:46 | 2020-08-09 | 2022-07-29 |
 | [Semana Satán](https://open.spotify.com/track/0pTFGLZAHPhGUVqu7IExr7) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Semana Satán](https://open.spotify.com/album/5OqHJeHbnFDqjkTfTcGk2E) | 5:05 | 2020-09-19 | 2022-04-18 |
 | [Sequence One](https://open.spotify.com/track/2SIgKA7WTqDWQrcO8IP8Sc) | [TOY](https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA) | [Sequence One](https://open.spotify.com/album/129F9ZEdD8qaFlC9FiEnfY) | 4:16 | 2019-11-19\* | 2020-12-22 |
+| [Shadam](https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Shadam](https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS) | 3:54 | 2023-03-24 |  |
 | [She's The One](https://open.spotify.com/track/1l0CFINuN2Ug755WAxblxL) | [Anemone](https://open.spotify.com/artist/6lAzHFVXFnFOc3AsBlDffR) | [She's The One](https://open.spotify.com/album/08lRDYtXnSO5T9AjEqSdee) | 3:13 | 2019-11-19\* | 2020-12-22 |
 | [SHIVER](https://open.spotify.com/track/7H885hNxbt9soYD43tT0OX) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [SHIVER](https://open.spotify.com/album/6HZ2cujvIP07kqhRDn3am1) | 2:58 | 2021-02-26 | 2022-04-21 |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2019-11-19\* | 2020-12-11 |

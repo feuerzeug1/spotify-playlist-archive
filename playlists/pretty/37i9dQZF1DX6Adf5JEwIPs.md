@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Dannylux
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,634 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,733 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 20 | [Soy El Dany](https://open.spotify.com/track/1F9DZGbidGHy1aDelyA4Fb) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Soy El Dany](https://open.spotify.com/album/4zSWtxZIj2ga5eHVZQxnFP) | 2:43 |
 | 21 | [Ando Dolido](https://open.spotify.com/track/5hUubz0WDy4enfsikTszRT) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W) | [Ando Dolido](https://open.spotify.com/album/2O3WNueK9COIFB73OrkCsw) | 2:43 |
 | 22 | [Nieves de Enero](https://open.spotify.com/track/1KwvjVi20ZpjdmbcHE7hK2) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Recordando Al Rey Del Corrido](https://open.spotify.com/album/4R4uheBSBWkYaODcJEyko2) | 3:26 |
-| 23 | [Al Mayo Lo Que Es del Mayo \- En Vivo](https://open.spotify.com/track/3XYHIZdyzlMMbwPVJ4LJNe) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Con Charchetas Y Tuba](https://open.spotify.com/album/4i8fVq7zdWnU0L3NiPJxLi) | 3:58 |
+| 23 | [Al Mayo Lo Que Es del Mayo \- Live](https://open.spotify.com/track/3XYHIZdyzlMMbwPVJ4LJNe) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Con Charchetas Y Tuba \(Live\)](https://open.spotify.com/album/4i8fVq7zdWnU0L3NiPJxLi) | 3:58 |
 | 24 | [El Pimpi](https://open.spotify.com/track/06v0NmEgHoWHHwAIuBgKCr) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Pimpi](https://open.spotify.com/album/59jFIQ9mXMP4b95iKqjeNr) | 2:35 |
 | 25 | [Fama Y Dinero](https://open.spotify.com/track/4Zuelt6C2bjgRegXmELWjc) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [Fama Y Dinero](https://open.spotify.com/album/4HgIprvfjuZzOTeQXwdO7i) | 3:08 |
 | 26 | [El Junior del Viejon \(En Vivo\)](https://open.spotify.com/track/3VZgkKmkLs4d4THOfAV1Ri) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Freddy Vega Jr.](https://open.spotify.com/artist/5tIHbtAWCSJ774Eckp2LCL) | [El Junior del Viejon \(En Vivo\)](https://open.spotify.com/album/26ALKhN10WTun7zsqJiXzF) | 3:47 |

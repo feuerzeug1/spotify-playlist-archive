@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,138 songs - 2 day 10 hr 33 min
+1,139 songs - 2 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 | 2022-04-24 | 2022-06-11 |
 | [A Meu Favor](https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:15 | 2022-07-13 | 2022-07-27 |
 | [A Verdadeira Magia](https://open.spotify.com/track/7JI1Xb6qXj1E9Usc5dBCQS) | [MC Guto VGS](https://open.spotify.com/artist/62aZgEriKUCni3x4j55BGF), [MC BN](https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe), [DJ Kley](https://open.spotify.com/artist/4tG1eaMCLhPsjN5mmrd9LZ) | [A Verdadeira Magia](https://open.spotify.com/album/6wpYAYAxXAg8xl1DuIbrZQ) | 3:00 | 2022-07-05 | 2022-07-22 |
+| [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-03-26 |  |
 | [ABALO EMOCIONAL \- Ao Vivo](https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY AVENIDA AMARILDO SANTANA \(Ao Vivo\)](https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF) | 2:33 | 2022-03-01 | 2022-04-13 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-01-17 | 2022-01-19 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-10 | 2022-06-09 |
@@ -196,7 +197,7 @@
 | [BRUXARIA ALTERNATIVA](https://open.spotify.com/track/729sVXS7KQK9akjCfAcXmL) | [DJ Magrão ZN](https://open.spotify.com/artist/03zVMgiW5IwavGS1Vyulju), [RITMO DOS BAILES](https://open.spotify.com/artist/65Td68i7HLpHYpmhF6dWRZ), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [BRUXARIA ALTERNATIVA](https://open.spotify.com/album/3hWYhx88mczxBURiUoHkBj) | 3:20 | 2022-07-13 | 2022-08-03 |
 | [Buceta Desgraçada](https://open.spotify.com/track/28dloadHfXGXg6ixIuyDXF) | [DJ R7](https://open.spotify.com/artist/6WuTZb8WWZ5xitAQrgAJY2), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM) | [Relíquia da Putaria](https://open.spotify.com/album/232WBvvmumGeBFN1rCBZ3D) | 2:54 | 2022-10-10 | 2022-10-14 |
 | [Bucoração](https://open.spotify.com/track/7jrI4QqqC8UIOgzeUkkYnr) | [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [Bucoração](https://open.spotify.com/album/6rVOAh9pRP7MdbOKKS8eiB) | 1:59 | 2022-06-19 | 2022-07-14 |
-| [Business](https://open.spotify.com/track/3B4MxQOkvwS5Cx3G4Csn03) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Gu$Z](https://open.spotify.com/artist/0NTTVLWsZy8PsDeT2JD1vv), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Essa é a Vida de um Corredor](https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO) | 2:12 | 2023-03-07 |  |
+| [Business](https://open.spotify.com/track/3B4MxQOkvwS5Cx3G4Csn03) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Gu$Z](https://open.spotify.com/artist/0NTTVLWsZy8PsDeT2JD1vv), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Essa é a Vida de um Corredor](https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO) | 2:12 | 2023-03-07 | 2023-03-27 |
 | [Cabeleira Do Zezé](https://open.spotify.com/track/7rwXwVOfULqhoa8vdOSLJx) | [Banda Gol](https://open.spotify.com/artist/3wJpJ3peSD0wgw8cttrr8k) | [Baile de Carnaval: As Melhores Marchinhas de Todos os Tempos](https://open.spotify.com/album/2soSNWvOOVLzQutEEkXtIA) | 2:28 | 2022-02-27 | 2023-02-27 |
 | [Cabelin Te Phonka Hoje](https://open.spotify.com/track/0r7aIZaaC0xI3ALGTlLW3J) | [Prod By vZz](https://open.spotify.com/artist/4ymeE5I93BfAn6dEQpRIRN) | [Cabelin Te Phonka Hoje](https://open.spotify.com/album/4memGtXCeJVE28RNHJtK5t) | 2:11 | 2023-01-17 | 2023-01-19 |
 | [Cabo C Tá](https://open.spotify.com/track/3m47ZCwPBF5WIkei0U55Kp) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [Poesia do Polly](https://open.spotify.com/album/0qReMRfKYJEQNmN4Byoxmd) | 2:50 | 2022-08-09 | 2022-08-24 |

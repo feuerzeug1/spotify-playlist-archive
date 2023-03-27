@@ -552,7 +552,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 132506,
       "name": "Aha-Aha",
       "url": "https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r"
@@ -3530,7 +3530,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
@@ -6904,7 +6904,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 120388,
       "name": "K\u00f6telez\u0151",
       "url": "https://open.spotify.com/track/56seL5ZZab8ZlmKoknPZh3"
@@ -13208,10 +13208,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 148607,
       "name": "Tropicalli",
       "url": "https://open.spotify.com/track/4aHCAQLGI3ekZm8rqwP2VC"
+    },
+    {
+      "album": {
+        "name": "Tr\u00f3nfoszt\u00f3",
+        "url": "https://open.spotify.com/album/4N8b0i798ZKaMDpAXvMhj6"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Tr\u00f3nfoszt\u00f3",
+      "url": "https://open.spotify.com/track/1k5srHy6QKbhOCApsBRFYu"
     },
     {
       "album": {
@@ -13672,7 +13690,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 154500,
       "name": "voltm\u00e1rkicsi",
       "url": "https://open.spotify.com/track/0faYxc8g09uniud0ToGDRb"

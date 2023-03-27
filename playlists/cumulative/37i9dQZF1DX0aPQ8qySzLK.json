@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "The Summer Isles",
+        "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345026,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/5FUOnXsUv0Ls9PjY0O6n7f"
+    },
+    {
+      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/3psPknmWDOZJlZUxj79tn7"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 346880,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/6JC1pkbT55lB2ua2npguzN"

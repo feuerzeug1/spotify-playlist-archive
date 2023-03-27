@@ -3935,13 +3935,17 @@
     },
     {
       "album": {
-        "name": "symphil|\u30b7\u30f3\u30d5\u30a3\u30eb",
+        "name": "symphil",
         "url": "https://open.spotify.com/album/7nLTJVDS7ovhfswVOa9S4X"
       },
       "artists": [
         {
           "name": "\u84ee\u6cbc\u57f7\u592a\u30d5\u30a3\u30eb",
           "url": "https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5"
+        },
+        {
+          "name": "xiangyu",
+          "url": "https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB"
         }
       ],
       "date_added": "2023-03-21",

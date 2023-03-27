@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,992 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,994 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 47 | [Jazz Me Blues](https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Pete Fountain Presents The Best Of Dixieland: Al Hirt](https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE) | 3:33 |
 | 48 | [Lassa's Trombone](https://open.spotify.com/track/40GGKzPCqYCqhydSjk3d6Y) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [The Best Of Dixieland Volume 2](https://open.spotify.com/album/1RB0fpiwqDNTEn6OECBiTV) | 2:47 |
 | 49 | [Dippermouth Blues](https://open.spotify.com/track/0OR6wvvgo0MXjlxsNrgmb7) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans, Vol\. 2](https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm) | 2:38 |
-| 50 | [In The Good Old Summertime](https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [50 Classics: The Best Of Dixieland Jazz](https://open.spotify.com/album/1ajfH3JSRXnjsnYNwsNCiO) | 3:08 |
-| 51 | [Nobody's Sweetheart](https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu) | [Frank Teschemacher feat\. McKenzie and Condons Chicagoans](https://open.spotify.com/artist/1v7KpWrDzfMXDJFQAdyCQf), [Frank Teschemacher](https://open.spotify.com/artist/1BCIGVImYhfnEafy4sZZQA), [McKenzie and Condon's Chicagoans](https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d) | [Jazz Chronicles: Frank Teschemacher, Vol\. 1](https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe) | 3:02 |
+| 50 | [Nobody's Sweetheart](https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu) | [Frank Teschemacher feat\. McKenzie and Condons Chicagoans](https://open.spotify.com/artist/1v7KpWrDzfMXDJFQAdyCQf), [Frank Teschemacher](https://open.spotify.com/artist/1BCIGVImYhfnEafy4sZZQA), [McKenzie and Condon's Chicagoans](https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d) | [Jazz Chronicles: Frank Teschemacher, Vol\. 1](https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe) | 3:02 |
+| 51 | [The Band Played On](https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [30 Patriotic American Songs for Armed Forces Day](https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu) | 3:19 |
 | 52 | [Bugle Call Blues](https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr) | [New Orleans Rhythm Kings](https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA) | [All Time Jazz: New Orleans Rhythm Kings](https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl) | 2:22 |
 | 53 | [Carry Me Back to Old Virginia](https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [30 Classics: Dixieland Jazz for Mardi Gras](https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE) | 3:52 |
 | 54 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 | 55 | [Dixie](https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP) | [Billy Randolph](https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF), [The High Hatters](https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u) | [Roaring' 20's](https://open.spotify.com/album/6yGyFKhtYmeatToldl421e) | 3:02 |
 
-Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMGM4YTkxZGNiMjI2NjY5Yzc3MmQxNzVjNjZlYWE2Yzc4`
+Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMDg5MDEzODFjZTE0NDUzNzYxNmFjNDIwYjFmNTY3MmQ2`

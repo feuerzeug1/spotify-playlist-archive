@@ -2080,6 +2080,32 @@
     {
       "album": {
         "name": "Rachmaninov: Symphony No. 1 / Caprice Bohemien",
+        "url": "https://open.spotify.com/album/3c0ClPoSHthoT7LXQ9GIk3"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "National Symphony Orchestra Of Ireland",
+          "url": "https://open.spotify.com/artist/1uMw04WZuyYiQaPsBNOMH8"
+        },
+        {
+          "name": "Alexander Anissimov",
+          "url": "https://open.spotify.com/artist/3HXvkZChjFMEaFWmBwb7mf"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572000,
+      "name": "Symphony No. 1 in D Minor, Op. 13: II. Allegro animato",
+      "url": "https://open.spotify.com/track/0Tmt5uYVe9GUZbXEH3PfeZ"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov: Symphony No. 1 / Caprice Bohemien",
         "url": "https://open.spotify.com/album/07pIR50cz8igbX6UJ6EOBG"
       },
       "artists": [
@@ -2098,7 +2124,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 572000,
       "name": "Symphony No. 1 in D Minor, Op. 13: II. Allegro animato",
       "url": "https://open.spotify.com/track/0r9Kxm3rIUXUi9Rk3QpSIH"
@@ -2132,6 +2158,58 @@
     {
       "album": {
         "name": "Rachmaninov: Symphony No. 1 / Caprice Bohemien",
+        "url": "https://open.spotify.com/album/3c0ClPoSHthoT7LXQ9GIk3"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "National Symphony Orchestra Of Ireland",
+          "url": "https://open.spotify.com/artist/1uMw04WZuyYiQaPsBNOMH8"
+        },
+        {
+          "name": "Alexander Anissimov",
+          "url": "https://open.spotify.com/artist/3HXvkZChjFMEaFWmBwb7mf"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 660133,
+      "name": "Symphony No. 1 in D Minor, Op. 13: III. Larghetto",
+      "url": "https://open.spotify.com/track/37YJJ6tFcJCZkfFXgOEKtc"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov: Symphony No. 1 / Caprice Bohemien",
+        "url": "https://open.spotify.com/album/3c0ClPoSHthoT7LXQ9GIk3"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "National Symphony Orchestra Of Ireland",
+          "url": "https://open.spotify.com/artist/1uMw04WZuyYiQaPsBNOMH8"
+        },
+        {
+          "name": "Alexander Anissimov",
+          "url": "https://open.spotify.com/artist/3HXvkZChjFMEaFWmBwb7mf"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 832506,
+      "name": "Symphony No. 1 in D Minor, Op. 13: IV. Allegro con fuoco",
+      "url": "https://open.spotify.com/track/5fKVSJNc04GPE8JqBGjF9g"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov: Symphony No. 1 / Caprice Bohemien",
         "url": "https://open.spotify.com/album/07pIR50cz8igbX6UJ6EOBG"
       },
       "artists": [
@@ -2150,7 +2228,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 832506,
       "name": "Symphony No. 1 in D Minor, Op. 13: IV. Allegro con fuoco",
       "url": "https://open.spotify.com/track/1xTDMbkrQrOYCWXp1GtkRJ"
@@ -2202,7 +2280,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 660133,
       "name": "Symphony No. 1 in D Minor, Op. 13: Larghetto",
       "url": "https://open.spotify.com/track/1bSl30b1bl6WKuadqORGK4"

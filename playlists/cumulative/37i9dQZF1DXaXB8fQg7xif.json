@@ -9352,7 +9352,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 180719,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
@@ -12678,6 +12678,28 @@
       "duration_ms": 189120,
       "name": "Physical - Claptone Remix",
       "url": "https://open.spotify.com/track/4KKaV1zUcpDecobqLjwIkB"
+    },
+    {
+      "album": {
+        "name": "Players (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/0SoJzCzWfs9nwKrLDiuXdu"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152494,
+      "name": "Players (with David Guetta) - David Guetta Remix",
+      "url": "https://open.spotify.com/track/2bgGETGKhv7V0WwQzzWqwc"
     },
     {
       "album": {

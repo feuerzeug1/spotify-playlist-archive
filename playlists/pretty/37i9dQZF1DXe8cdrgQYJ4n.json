@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 11822,
+  "num_followers": 11828,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMGE4ZDcyNTYxMTIxNjI1ZmVjOWNkOTdlMDJiNzcwNjE5",
+  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMDE4ZTE0NDJkY2Y3MjllMjc2NWFmYzcwM2I0OGIyY2Mz",
   "tracks": [
     {
       "added_at": "2023-02-14 07:48:55",
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
     },
     {
-      "added_at": "2023-03-26 01:43:47",
+      "added_at": "2023-03-27 01:21:05",
       "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 217595,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
-    },
-    {
-      "added_at": "2023-02-14 07:48:55",
-      "album": {
         "name": "LUCKY MAN",
         "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 216806,
       "name": "HeartBROKEN PlaYBoY",
       "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 217595,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
     },
     {
       "added_at": "2023-02-14 07:48:55",
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn"
     },
     {
-      "added_at": "2023-03-26 01:43:47",
+      "added_at": "2023-03-27 01:21:05",
       "album": {
         "name": "a tempo",
         "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"

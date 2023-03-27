@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Luis Figueroa
 
-234 songs - 14 hr 6 min
+235 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [inexplorado](https://open.spotify.com/track/2fXu56oDbvq1DWP6ZFlHVI) | [Savi](https://open.spotify.com/artist/1Evvp2uRCiq188dEeyUvpP) | [TUNES](https://open.spotify.com/album/72kTLeYTpvRgwJxUYUb8t8) | 2:48 | 2022-03-04 | 2022-06-30 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-29 |  |
 | [La Bendición](https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:14 | 2022-01-01 | 2022-06-30 |
-| [La Boda](https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Boda](https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ) | 3:53 | 2022-06-29 |  |
+| [La Boda](https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Boda](https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ) | 3:53 | 2022-06-29 | 2023-03-27 |
 | [La Calentura](https://open.spotify.com/track/3CYWetfSLNKTzWvJHx7Jlw) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Mónika Mesa](https://open.spotify.com/artist/4S3UpTG1a27NytI7bPptDx) | [La Calentura](https://open.spotify.com/album/46qYPmJnz621NNaUzo3Rts) | 5:17 | 2022-08-12 | 2023-01-14 |
 | [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 | 2022-06-29 | 2023-01-28 |
 | [La Culpa](https://open.spotify.com/track/5OkBHe7uEoC03x7x4sckQG) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [La Culpa](https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR) | 3:24 | 2022-07-19 | 2023-01-24 |
@@ -111,6 +111,7 @@
 | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2) | 3:11 | 2022-01-28 | 2022-06-30 |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-01-01 | 2022-06-30 |
 | [Ley de Gravedad](https://open.spotify.com/track/78CUtxSPPqQHyw7JM8Snys) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv), [Dj Dimen5ions](https://open.spotify.com/artist/120pQ3TUu98TWKhe2hBEJh), [DJ Alejandro](https://open.spotify.com/artist/0ym5ObOj6rNAGyq5ga7JhA) | [Ley de Gravedad](https://open.spotify.com/album/7EPlOoet3WAVcNJKID9Fkm) | 3:02 | 2022-04-29 | 2022-06-30 |
+| [Llegaste](https://open.spotify.com/track/5jU9Tj9Mlrwjr2SW5gElJz) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Llegaste](https://open.spotify.com/album/3KYHHZZqz8SEjCVbeUE8xO) | 3:21 | 2023-03-24 |  |
 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/1bTpL2sNbYVlNuxXIFI9jk) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Día Es Hoy](https://open.spotify.com/album/2Pnmt5sGCcrDUJmKqVx7Rb) | 3:20 | 2022-01-01 | 2022-01-29 |
 | [Los Celos Se Te Notan](https://open.spotify.com/track/66YC8rcYpImTugAA2m2yUb) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Los Celos Se Te Notan](https://open.spotify.com/album/2zg7DDi8vJ2gYy4wq2n1TG) | 3:10 | 2023-01-20 | 2023-03-22 |
 | [Luna](https://open.spotify.com/track/5Pdw0kGwWndeTsbOfVrv3r) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9), [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Suelta](https://open.spotify.com/album/0a75xzDuN6WBePejRqxLTZ) | 3:24 | 2022-01-01 | 2022-01-29 |

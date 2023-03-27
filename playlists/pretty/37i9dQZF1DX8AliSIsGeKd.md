@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Kevin de Vries
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,174 likes - 80 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,335 likes - 80 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 33 | [Maya!](https://open.spotify.com/track/648vCCLJeeabHS9ZXX9Zbe) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt) | [Maya!](https://open.spotify.com/album/7pfk9YvgMushhGl8NgpYgt) | 4:24 |
 | 34 | [El Medano](https://open.spotify.com/track/7uTLJJ0mb3LCsICzSlKrlR) | [Thomas Lizzara](https://open.spotify.com/artist/6WqAx7kpPz11g54zvpcOuU) | [El Medano](https://open.spotify.com/album/39n9hXab7m4eYvS64UN0Vz) | 8:29 |
 | 35 | [Alright](https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Alright](https://open.spotify.com/album/2Ee25kB7a4Jz4IkkClgmaw) | 6:52 |
-| 36 | [Tanze \- Club Mix](https://open.spotify.com/track/7faObkpb4luRpU8ULZ61ya) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa), [INA](https://open.spotify.com/artist/4hNUKeiLybGm01MssS6SIf) | [Tanze \(Club Mix\)](https://open.spotify.com/album/3Z9374xnVPvgfflbcjw7rh) | 7:19 |
+| 36 | [Tanzen \- Club Mix](https://open.spotify.com/track/7faObkpb4luRpU8ULZ61ya) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa), [INA](https://open.spotify.com/artist/4hNUKeiLybGm01MssS6SIf) | [Tanzen \(Club Mix\)](https://open.spotify.com/album/3Z9374xnVPvgfflbcjw7rh) | 7:19 |
 | 37 | [Portrait Of A Lady](https://open.spotify.com/track/32lgPeJWdkpruxnFaSkn0d) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Portrait Of A Lady](https://open.spotify.com/album/4vBD4hk1vQTHOsikuVGatM) | 7:40 |
 | 38 | [Perception](https://open.spotify.com/track/3ll4L5Dd6LIdYRvJnp9l7a) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Perception](https://open.spotify.com/album/3kKpXacCqn5kUo5wSbP93Z) | 6:44 |
 | 39 | [Zero to Ten](https://open.spotify.com/track/3VZvZ58FrDYGRD8wzerwGb) | [Carlo Ruetz](https://open.spotify.com/artist/5vDqopi7jF9kQoL6xg696f) | [Zero to Ten](https://open.spotify.com/album/48wu4siXxJgT4b8pIiKZvK) | 6:31 |

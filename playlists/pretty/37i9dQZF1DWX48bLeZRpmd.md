@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©N,K/Q　©N,K/Q2　©N,K/GM
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,745 likes - 47 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,772 likes - 47 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 | 40 | [五等分の花嫁\~ありがとうの花\~ウェディングver.](https://open.spotify.com/track/0glIXCoIt4OYY5HbzEqYR5) | [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [映画「五等分の花嫁」 オリジナル・サウンドトラック](https://open.spotify.com/album/5F2sSVV1saRB3feDpAnpEk) | 3:28 |
 | 41 | [Aitsu to Kimi \~Nidotonai Unmei\~ \- Colate Round & Beat Edit](https://open.spotify.com/track/025cBUjIIojyEeiPO9JBQk) | [Nakano Nino \(CV: Ayana Taketatsu\)](https://open.spotify.com/artist/3FukSXssXTJRXtrK0TC87I) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 3:33 |
 | 42 | [Sunao ni Open Heart \~Itsutsu Kazoete\~ \- Pandaboy Drum'N'Bass Edit](https://open.spotify.com/track/098Xk070LpHktpy0N75qCW) | [Nakano Itsuki \(CV: Inori Minase\)](https://open.spotify.com/artist/3atxCYuirEgMXUOn2LDbdV) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 3:22 |
-| 43 | [Lovely Music \~Sanshukan Maemade wa Shirokatta\~ \- Pandaboy Girly Pop Edit](https://open.spotify.com/track/5TsJ6rf3OF7HSG8NoyOKmZ) | [Nakano Miku \(CV: Miku Ito\)](https://open.spotify.com/artist/2Dqdhn6I1Z9gA5bsHtBVez) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/3ad7KbHVdttTlU8d6zhQu3) | 3:53 |
+| 43 | [Lovely Music \~Sanshukan Maemade wa Shirokatta\~ \- Pandaboy Girly Pop Edit](https://open.spotify.com/track/76JiCMn4whKbgkYRiviUor) | [Nakano Miku \(CV: Miku Ito\)](https://open.spotify.com/artist/2Dqdhn6I1Z9gA5bsHtBVez) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 3:53 |
 | 44 | [Hello, Dear My Dream \~Ichibyo Go Niwa\~ \- Pandaboy Jazzin' House Edit](https://open.spotify.com/track/3eoNhycVnMQG6uSkkBXiq7) | [Nakano Ichika \(CV: Kana Hanazawa\)](https://open.spotify.com/artist/0BkQLnAtAk3XvP6B0lTwpv) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 4:15 |
 | 45 | [Heart no Katachi \~Yotsuba no Clover\~ \- Colate Slow Dance Edit](https://open.spotify.com/track/4YuUr1Ktbmdj8hTdldzULx) | [Nakano Yotsuba \(CV: Ayane Sakura\)](https://open.spotify.com/artist/5nA4JBf4rndjwH2tKTFFsd) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 4:01 |
-| 46 | [Gobun no Ichi \- Pandaboy Tropical House Edit](https://open.spotify.com/track/3HWSkhw5FHsAGdWLyO7N01) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/3ad7KbHVdttTlU8d6zhQu3) | 4:40 |
+| 46 | [Gobun no Ichi \- Pandaboy Tropical House Edit](https://open.spotify.com/track/2HZTjHng09WdSzAQC9Fnt8) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 4:40 |
 | 47 | [Gotoubun no Kimochi \- Pandaboy Five Flowers Dance Edit](https://open.spotify.com/track/6oAfira2qMlknBX1EIBeQ3) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 3:48 |
 
-Snapshot ID: `MTY1MzQwNDQwMCwwMDAwMDAwMGUyZDM4NzAzNTY5NzBiNDFkNTVhOWM5M2ExOWQyOGY0`
+Snapshot ID: `MTY1MzQwNDQwMCwwMDAwMDAwMGNmM2Y3MDQ0OTc1OWI4YTY0MTg2ZTgwOGM5ZWRkMzVj`

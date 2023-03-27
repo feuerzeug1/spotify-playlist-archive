@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 181714,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/6nmPxOhrkI0hXqOWHajpE9"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 158000,
       "name": "could cry just thinkin about you - Full Version",
       "url": "https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 173637,
       "name": "Give You Love",
       "url": "https://open.spotify.com/track/0H4yyuVRMIXT9hkDZMc6D6"
@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "If I Weren't Me",
+        "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
+    },
+    {
+      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
@@ -1743,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Jupiter and Mars",
+        "url": "https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh"
+      },
+      "artists": [
+        {
+          "name": "Carla Wehbe",
+          "url": "https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247966,
+      "name": "jupiter and mars",
+      "url": "https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d"
+    },
+    {
+      "album": {
         "name": "Kind Of Girl",
         "url": "https://open.spotify.com/album/7M7Qc4c1qDMdrDWXtQ4NF7"
       },
@@ -1844,7 +1880,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 259195,
       "name": "Love Me Right",
       "url": "https://open.spotify.com/track/3HwzxCloueo5NI5XLSUru4"
@@ -2642,7 +2678,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 188500,
       "name": "Surface",
       "url": "https://open.spotify.com/track/4GVhluLOWE1vUZTTkNAhSP"
@@ -2718,7 +2754,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 174299,
       "name": "that way - with Jeremy Zucker",
       "url": "https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU"
@@ -2920,7 +2956,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 170957,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/6I56gU6RR784U5Tus65qet"

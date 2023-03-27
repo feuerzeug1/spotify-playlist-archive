@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Jimin
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,310 likes - 95 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,335 likes - 95 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 25 | [Hai, Senang Berjumpa Lagi Denganmu](https://open.spotify.com/track/0QQcLAZAREsp5S0xcvUre8) | [Erich henoch](https://open.spotify.com/artist/3EbYtQ0gt9e922cKPTVccm) | [Hai, Senang Berjumpa Lagi Denganmu](https://open.spotify.com/album/0Sp1kzwLIlPLa9pSfRR13A) | 4:22 |
 | 26 | [Hold](https://open.spotify.com/track/0Wh5JjY0NxkMMIZD86eTvO) | [Waldi Kyzo](https://open.spotify.com/artist/4znBC67Mci043Ana2BospW) | [TWENTY TWO](https://open.spotify.com/album/51MbzCiLZSE5wYY6n84pSZ) | 2:56 |
 | 27 | [Kala Hening](https://open.spotify.com/track/5UM0cPn8uvrpPtkX3kJJk9) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Trie Utami](https://open.spotify.com/artist/69Mg1bgPJAYaPpDHe4BlYi) | [Kala Hening](https://open.spotify.com/album/5PMLxg2JLLtO0MiWxxW1H2) | 5:31 |
-| 28 | [seperti laut tenang tanpa pemenang](https://open.spotify.com/track/3P3gYF6Xi28yDxm9r5XJm9) | [Goodenough](https://open.spotify.com/artist/72x4pwJGCLEYunOidTNxWB) | [seperti laut tenang tanpa pemenang](https://open.spotify.com/album/563nG1sgqDE0SktefeKm5J) | 3:18 |
+| 28 | [seperti laut tenang tanpa penenang](https://open.spotify.com/track/3P3gYF6Xi28yDxm9r5XJm9) | [Goodenough](https://open.spotify.com/artist/72x4pwJGCLEYunOidTNxWB) | [seperti laut tenang tanpa penenang](https://open.spotify.com/album/563nG1sgqDE0SktefeKm5J) | 3:18 |
 | 29 | [Sholat](https://open.spotify.com/track/2L4qllXAY1AoEgYhJONNNh) | [Vagetoz](https://open.spotify.com/artist/2W9qDNyAyKujPYk6TrQmXc) | [Sholat](https://open.spotify.com/album/391wA2DJpPu9ZvthYfi3I7) | 3:35 |
 | 30 | [Pagi Yang Mesra](https://open.spotify.com/track/3nigj9tlvyLxJ9O4g15YRp) | [ROFA](https://open.spotify.com/artist/24fOBtG2MUcVO490MuYSFL) | [Pagi Yang Mesra](https://open.spotify.com/album/6atiDBOrHr5mPM6f3YWQAr) | 3:14 |
 | 31 | [Jelita](https://open.spotify.com/track/4rcdDjqbUaumpXlwfpj2Aa) | [Ria Prawiro](https://open.spotify.com/artist/7teNOhHa6Vpbr61YfLuBOM), [Julita](https://open.spotify.com/artist/4MwCE5TG24hoQin5PjOUwF) | [Jelita](https://open.spotify.com/album/1CfYETGCSoIeTGyNPEGBdW) | 4:19 |

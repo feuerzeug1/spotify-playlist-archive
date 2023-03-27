@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,517 likes - 80 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,466 likes - 80 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 |
 | 2 | [Cocktails \(feat\. Asme\)](https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Cocktails \(feat\. Asme\)](https://open.spotify.com/album/0ZrYAHvPy0aTXpWhRN5es6) | 2:27 |
-| 3 | [Genua](https://open.spotify.com/track/12AvFLuM5FPrGb5WKLon3r) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Genua](https://open.spotify.com/album/5dHTG02KPD83NuYONPCb3e) | 2:20 |
-| 4 | [Nakala](https://open.spotify.com/track/3y5fUcF94aDFxA2HjrERDt) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Nakala](https://open.spotify.com/album/000n59cSc8psOiz5faS7sZ) | 2:33 |
-| 5 | [We Them Boys](https://open.spotify.com/track/4ThoiczTKlsb2AzBPkmBkc) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:50 |
+| 3 | [Nakala](https://open.spotify.com/track/3y5fUcF94aDFxA2HjrERDt) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Nakala](https://open.spotify.com/album/000n59cSc8psOiz5faS7sZ) | 2:33 |
+| 4 | [We Them Boys](https://open.spotify.com/track/4ThoiczTKlsb2AzBPkmBkc) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:50 |
+| 5 | [Genua](https://open.spotify.com/track/12AvFLuM5FPrGb5WKLon3r) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Genua](https://open.spotify.com/album/5dHTG02KPD83NuYONPCb3e) | 2:20 |
 | 6 | [LOGGA UT](https://open.spotify.com/track/6WZ0e4BsFb5tmGQeaOsuco) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO) | [LOGGA UT](https://open.spotify.com/album/5piGT2xQPt0xydho8ufEsO) | 2:05 |
 | 7 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 |
 | 8 | [Hallmattan](https://open.spotify.com/track/6qBwgf6ZTDyyG7GwQjoL27) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [Hallmattan](https://open.spotify.com/album/1lsPTXRLEQUT7lSX7gENT2) | 3:07 |
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 10 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 |
 | 11 | [Mendez](https://open.spotify.com/track/4W7yzpXpmBJhe5Guao0piy) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Mendez](https://open.spotify.com/album/1F1XXjNW4uNzNvOcCdJe13) | 2:09 |
 | 12 | [Låta mig va](https://open.spotify.com/track/3QIyTPHILvEB0IjQrxU2f8) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:24 |
-| 13 | [Bye](https://open.spotify.com/track/1rTUM3BdqYSTsZiUVL6YRY) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Bye](https://open.spotify.com/album/7ncknlyzo63JmvKfkpKdf2) | 3:26 |
-| 14 | [Ingen Annan](https://open.spotify.com/track/29f6emBNZc0WueYCU0Me2O) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ingen Annan](https://open.spotify.com/album/4BdMKdoEQPuCDEz14asIc6) | 2:08 |
-| 15 | [Ma Belle](https://open.spotify.com/track/1FPGuD3usIOivj1V2j4OMc) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Ma Belle](https://open.spotify.com/album/4ayd4KItCscPToowrTR3yY) | 3:34 |
+| 13 | [Ingen Annan](https://open.spotify.com/track/29f6emBNZc0WueYCU0Me2O) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ingen Annan](https://open.spotify.com/album/4BdMKdoEQPuCDEz14asIc6) | 2:08 |
+| 14 | [Ma Belle](https://open.spotify.com/track/1FPGuD3usIOivj1V2j4OMc) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Ma Belle](https://open.spotify.com/album/4ayd4KItCscPToowrTR3yY) | 3:34 |
+| 15 | [Bye](https://open.spotify.com/track/1rTUM3BdqYSTsZiUVL6YRY) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Bye](https://open.spotify.com/album/7ncknlyzo63JmvKfkpKdf2) | 3:26 |
 | 16 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 |
 | 17 | [BOTTEGA](https://open.spotify.com/track/3RRwRGSCAsokzDr5CL3ISC) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [BOTTEGA](https://open.spotify.com/album/3d8p48lwwRTX1ZcNpHxIX2) | 2:33 |
 | 18 | [TANKARNA](https://open.spotify.com/track/2vlzb4TbT7DOe0UzOJxgMI) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [TANKARNA](https://open.spotify.com/album/74k7FDQu7wy1NA3fRynoZC) | 2:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [Bad Man](https://open.spotify.com/track/5zHFfd6l0X0fcST9E4mbGd) | [Theo Ama](https://open.spotify.com/artist/49WKi1DsyLCsbVMNKvTIDQ) | [Bad Man](https://open.spotify.com/album/759pmm3SArDCljjz3CsxvU) | 2:58 |
 | 80 | [Fresh Manicure](https://open.spotify.com/track/2iS6jgjx55IQaDEBB9WBhN) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Fresh Manicure](https://open.spotify.com/album/6ZPNzDis4A1yLKXadgl9J9) | 2:10 |
 
-Snapshot ID: `MTY3OTYxMjQwMCwwMDAwMDAwMDJhODhhYzEwMzBhNjFiZWZkNTU5ZTNjYzkxMDdjMWI2`
+Snapshot ID: `MTY3OTg2MTI1NywwMDAwMDAwMDk4ODMyM2M0MzYwOGFhZDQzZTUwOTBmNmIwODMyYTE5`

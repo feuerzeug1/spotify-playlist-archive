@@ -1,15 +1,15 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 116264,
+  "num_followers": 116316,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDk5ZDA1YjE1ODdjYTNlMWZiN2M2MzBkYjc4MjEwNDRl",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDFmZGI5YWQxZjdjMTBhNDM0NDEwOWNlNDE1MmY1ZmI5",
   "tracks": [
     {
-      "added_at": "2023-03-26 00:21:07",
+      "added_at": "2023-03-27 01:15:42",
       "album": {
         "name": "Inhale / Exhale (with Sabrina Claudio)",
         "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s"
     },
     {
-      "added_at": "2023-03-26 00:21:07",
+      "added_at": "2023-03-27 01:15:42",
       "album": {
         "name": "Assumptions (Kaytranada Edit)",
         "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Been Thinking",
-        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187275,
-      "name": "Been Thinking",
-      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Midnight Hour with Boys Noize & Ty Dolla $ign",
@@ -879,6 +863,22 @@
       "duration_ms": 198839,
       "name": "Midnight Hour with Boys Noize & Ty Dolla $ign",
       "url": "https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Been Thinking",
+        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187275,
+      "name": "Been Thinking",
+      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
     },
     {
       "added_at": "2022-05-02 22:05:00",

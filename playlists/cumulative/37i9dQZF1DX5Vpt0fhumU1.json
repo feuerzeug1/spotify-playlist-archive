@@ -486,7 +486,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 270533,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/6mRdsz7INXEZjFiPdXBbCp"
@@ -508,6 +508,40 @@
       "duration_ms": 270533,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/7k9sjRiArRI5IilO6Dl6AA"
+    },
+    {
+      "album": {
+        "name": "Rafa El Tachliela: Flamenco Romantico",
+        "url": "https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Bjorn Chico Werra",
+          "url": "https://open.spotify.com/artist/1A4HrEESjDDhDPKjHwxTNk"
+        },
+        {
+          "name": "Thomas Koch",
+          "url": "https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65"
+        },
+        {
+          "name": "Topo Gioia",
+          "url": "https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8"
+        },
+        {
+          "name": "Khader Ahmad",
+          "url": "https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270533,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/729HTgh7htIHseVz4lyrz9"
     },
     {
       "album": {

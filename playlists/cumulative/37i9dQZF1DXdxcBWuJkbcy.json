@@ -3215,6 +3215,32 @@
     },
     {
       "album": {
+        "name": "Dooh Dooh (Stereo Sound)",
+        "url": "https://open.spotify.com/album/2Vk9sx2NOlxu6RL2JtJEoZ"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        },
+        {
+          "name": "Barcode Brothers",
+          "url": "https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125294,
+      "name": "Dooh Dooh (Stereo Sound)",
+      "url": "https://open.spotify.com/track/0pCgiDXakABvpav5gAwwBU"
+    },
+    {
+      "album": {
         "name": "Down For The Ride",
         "url": "https://open.spotify.com/album/54h5f6arTVEerecJIR9g84"
       },
@@ -4790,7 +4816,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-27",
       "duration_ms": 175773,
       "name": "Heaven (feat. Sofia Quinn) - Club Mix",
       "url": "https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9"

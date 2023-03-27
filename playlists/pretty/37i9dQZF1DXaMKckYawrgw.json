@@ -1,12 +1,12 @@
 {
   "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
-  "num_followers": 7880,
+  "num_followers": 7881,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGYxNGFhZjdhZjVkNzdlYWEzMDdmMTZkZGE1M2QxMWRi",
+  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGI0NjM2OTZiMzRjMDcxNzY0MmM1MjNiMDdkOGQ4YWIx",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1257,20 +1257,20 @@
       "url": "https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8"
     },
     {
-      "added_at": "2023-02-03 20:52:12",
+      "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Loco amor",
-        "url": "https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL"
+        "name": "Buena Vibra Social Sound, Vol. 1",
+        "url": "https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu"
       },
       "artists": [
         {
-          "name": "La trenza De La Abuela",
-          "url": "https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM"
+          "name": "Buena Vibra Social Sound",
+          "url": "https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01"
         }
       ],
-      "duration_ms": 180813,
-      "name": "alo alo",
-      "url": "https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl"
+      "duration_ms": 233299,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1305,20 +1305,20 @@
       "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
     },
     {
-      "added_at": "2023-02-24 06:00:00",
+      "added_at": "2023-02-03 20:52:12",
       "album": {
-        "name": "Buena Vibra Social Sound, Vol. 1",
-        "url": "https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu"
+        "name": "Loco amor",
+        "url": "https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL"
       },
       "artists": [
         {
-          "name": "Buena Vibra Social Sound",
-          "url": "https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01"
+          "name": "La trenza De La Abuela",
+          "url": "https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM"
         }
       ],
-      "duration_ms": 233299,
-      "name": "Bum Bum",
-      "url": "https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3"
+      "duration_ms": 180813,
+      "name": "alo alo",
+      "url": "https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Revoluciones",
+        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
+      },
+      "artists": [
+        {
+          "name": "La Hoja Ensamble",
+          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
+        }
+      ],
+      "duration_ms": 387922,
+      "name": "Revoluciones",
+      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Classic's Ska",
         "url": "https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 253270,
       "name": "No Insistas M\u00e1s",
       "url": "https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Revoluciones",
-        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
-      },
-      "artists": [
-        {
-          "name": "La Hoja Ensamble",
-          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
-        }
-      ],
-      "duration_ms": 387922,
-      "name": "Revoluciones",
-      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "La Ultima Noche",
-        "url": "https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT"
-      },
-      "artists": [
-        {
-          "name": "Pachecos Orchestra",
-          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
-        }
-      ],
-      "duration_ms": 248888,
-      "name": "La Ultima Noche",
-      "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "...y Como Dice Giles! (Tributo a los Giles)",
         "url": "https://open.spotify.com/album/08QgBZviqyuo7TJL5V7LqS"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 220880,
       "name": "Estereof\u00f3nica",
       "url": "https://open.spotify.com/track/72FA2PuToTQehqORbBlwGu"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "La Ultima Noche",
+        "url": "https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT"
+      },
+      "artists": [
+        {
+          "name": "Pachecos Orchestra",
+          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "La Ultima Noche",
+      "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
     },
     {
       "added_at": "2022-03-18 06:00:00",

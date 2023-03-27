@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-102 songs - 5 hr 29 min
+103 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 | 2021-11-11 |  |
 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 | 2021-11-11 |  |
 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 | 2021-11-11 | 2023-03-25 |
-| [SAMURAI](https://open.spotify.com/track/2isPgaZRGBRCeOor7zrAzg) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [SAMURAI](https://open.spotify.com/album/7jsidCZ1BLRHJbsuN0TTkO) | 3:20 | 2022-12-22 |  |
+| [SAMURAI](https://open.spotify.com/track/2isPgaZRGBRCeOor7zrAzg) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [SAMURAI](https://open.spotify.com/album/7jsidCZ1BLRHJbsuN0TTkO) | 3:20 | 2022-12-22 | 2023-03-27 |
+| [SAMURAI](https://open.spotify.com/track/67eaFgo8pgPLsWVz3yLcpH) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [SUSHI VENUS](https://open.spotify.com/album/3T7DBmR9LPQHlw3jIf2luu) | 3:20 | 2022-12-22 |  |
 | [Se Corre la Bola](https://open.spotify.com/track/7MIdTXBR5xOjxl8SOV4XAf) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [La Batalla](https://open.spotify.com/album/1SZ7Q7CMN9KSiOtz2L1PQh) | 3:43 | 2021-11-11 |  |
 | [Shake It Up](https://open.spotify.com/track/4IqBzJpsbE7fb8ocdX4ZZP) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Nico Baby](https://open.spotify.com/artist/523Q3hgqV3zr00ephVSfKX) | [Shake It Up](https://open.spotify.com/album/4DrsFB79n1wTqZ6e0wPT1C) | 2:46 | 2021-11-11 |  |
 | [Tal Como Soy](https://open.spotify.com/track/5rw5RHbmi7BLGJqpDjbCSr) | [ADIONE](https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l) | [Tal Como Soy](https://open.spotify.com/album/7LATzEUfsgsZ7UAw731bGS) | 3:37 | 2021-11-11 | 2022-06-27 |

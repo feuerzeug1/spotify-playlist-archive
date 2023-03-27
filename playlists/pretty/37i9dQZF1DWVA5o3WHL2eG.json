@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by CATT. Learn more in our playlist clips!",
-  "num_followers": 24846,
+  "num_followers": 24844,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDU3ZTQ2YWEzNTA4Yzk5MTM1OGU2ODhhZDdiOWUwZDcx",
+  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMGUyYmViODcyYWY1MjFjNWY5YTUzMTM3MjkzYTU0ZThj",
   "tracks": [
     {
       "added_at": "2023-03-06 09:38:59",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/0KQ9iYi8d7uHcOQYMW8xye"
-      },
-      "artists": [
-        {
-          "name": "ESKE",
-          "url": "https://open.spotify.com/artist/4WBzXEnsUE7dpyKjrZnF5D"
-        }
-      ],
-      "duration_ms": 185951,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/2aZwLAGErg6yY3i68sUDuw"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Born Digital",
         "url": "https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 201120,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/0KQ9iYi8d7uHcOQYMW8xye"
+      },
+      "artists": [
+        {
+          "name": "ESKE",
+          "url": "https://open.spotify.com/artist/4WBzXEnsUE7dpyKjrZnF5D"
+        }
+      ],
+      "duration_ms": 185951,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/2aZwLAGErg6yY3i68sUDuw"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Boxes",
-        "url": "https://open.spotify.com/album/5RYZA4UfF9LLPd3cmz4i1J"
-      },
-      "artists": [
-        {
-          "name": "Katha Pauer",
-          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
-        }
-      ],
-      "duration_ms": 191847,
-      "name": "Boxes",
-      "url": "https://open.spotify.com/track/724mj683MA2AeTe3kzyJ0o"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "MONDLICHT",
         "url": "https://open.spotify.com/album/4yDyWOKjSLyruosIWQ7usx"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Running Round",
-        "url": "https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez"
+        "name": "Boxes",
+        "url": "https://open.spotify.com/album/5RYZA4UfF9LLPd3cmz4i1J"
       },
       "artists": [
         {
-          "name": "Novaa",
-          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
         }
       ],
-      "duration_ms": 211034,
-      "name": "Running Round",
-      "url": "https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY"
+      "duration_ms": 191847,
+      "name": "Boxes",
+      "url": "https://open.spotify.com/track/724mj683MA2AeTe3kzyJ0o"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -479,6 +463,22 @@
       "duration_ms": 132008,
       "name": "TRAUM",
       "url": "https://open.spotify.com/track/6TUJs76PxY3geuAHoJSvF4"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Running Round",
+        "url": "https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Running Round",
+      "url": "https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "magnetic wave",
-        "url": "https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl"
-      },
-      "artists": [
-        {
-          "name": "Lore Vain",
-          "url": "https://open.spotify.com/artist/6DqrVKvdGRhx29OrkIolA5"
-        }
-      ],
-      "duration_ms": 224155,
-      "name": "magnetic wave",
-      "url": "https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Therapies",
         "url": "https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 189909,
       "name": "Therapies",
       "url": "https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "magnetic wave",
+        "url": "https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl"
+      },
+      "artists": [
+        {
+          "name": "Lore Vain",
+          "url": "https://open.spotify.com/artist/6DqrVKvdGRhx29OrkIolA5"
+        }
+      ],
+      "duration_ms": 224155,
+      "name": "magnetic wave",
+      "url": "https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl"
     },
     {
       "added_at": "2023-03-06 09:38:59",

@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 388028,
+  "num_followers": 388269,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc1NjA5OSwwMDAwMDAwMGFmNjk1YzhlZTE2MDhmNzQ1MzY3M2FiYWIxOTE3MWRh",
+  "snapshot_id": "MTY3Nzc1NjA5OSwwMDAwMDAwMGIyNTQ2NDQ4N2Y2MjJhOTYzMDkxMWQzNzZhODNjMzk4",
   "tracks": [
     {
       "added_at": "2023-03-02 11:21:39",
@@ -863,18 +863,22 @@
     {
       "added_at": "2023-03-02 11:21:39",
       "album": {
-        "name": "Mixer",
-        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
+        "name": "Liquid Spirit (Claptone Remix)",
+        "url": "https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 192823,
-      "name": "Mixer",
-      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
+      "duration_ms": 383552,
+      "name": "Liquid Spirit - Claptone Remix",
+      "url": "https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY"
     }
   ],
   "unique_name": "Serotonin",

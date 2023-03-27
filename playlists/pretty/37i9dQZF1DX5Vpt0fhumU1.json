@@ -1,12 +1,12 @@
 {
   "description": "Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.",
-  "num_followers": 86627,
+  "num_followers": 86786,
   "original_name": "Spanish Tapas Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2NjczNiwwMDAwMDAwMDg2NmY0ODU0MjI5ZGYxZWJiMjkxMjBiNjZhYjk2M2I2",
+  "snapshot_id": "MTY2MTg2NjczNiwwMDAwMDAwMGJhNjY3M2M1N2U4ZmM0NmY4YTUxMDE3YmUyZGNlMTEx",
   "tracks": [
     {
       "added_at": "2022-08-30 13:38:56",
@@ -43,18 +43,34 @@
     {
       "added_at": "2022-08-30 13:38:56",
       "album": {
-        "name": "Best of Rafa El Tachuela: Flamenco",
-        "url": "https://open.spotify.com/album/1ReQcQyYGGMCGmGglpcq0L"
+        "name": "Rafa El Tachliela: Flamenco Romantico",
+        "url": "https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB"
       },
       "artists": [
         {
           "name": "Rafa El Tachuela",
           "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Bjorn Chico Werra",
+          "url": "https://open.spotify.com/artist/1A4HrEESjDDhDPKjHwxTNk"
+        },
+        {
+          "name": "Thomas Koch",
+          "url": "https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65"
+        },
+        {
+          "name": "Topo Gioia",
+          "url": "https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8"
+        },
+        {
+          "name": "Khader Ahmad",
+          "url": "https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg"
         }
       ],
       "duration_ms": 270533,
       "name": "Bailando",
-      "url": "https://open.spotify.com/track/6mRdsz7INXEZjFiPdXBbCp"
+      "url": "https://open.spotify.com/track/729HTgh7htIHseVz4lyrz9"
     },
     {
       "added_at": "2022-08-30 13:38:56",

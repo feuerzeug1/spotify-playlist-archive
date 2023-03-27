@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 25523,
+  "num_followers": 25539,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGU5OWVmMTEyNzZiMmQ2Y2FiMmEyMTU3NmQwOTkwOTdm",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGFiMWM4Njc3OWFjYzk1NjJiYzY3YjI1YjYwZTk2YzBh",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "When You Focus On The Good The Good Gets Better",
+        "url": "https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm"
+      },
+      "artists": [
+        {
+          "name": "Devante Embers",
+          "url": "https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT"
+        }
+      ],
+      "duration_ms": 428023,
+      "name": "When You Focus On The Good The Good Gets Better",
+      "url": "https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Finding Foundations (The Remixes)",
         "url": "https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 367413,
       "name": "Learn Your Lesson - Photay Remix",
       "url": "https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "When You Focus On The Good The Good Gets Better",
-        "url": "https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm"
-      },
-      "artists": [
-        {
-          "name": "Devante Embers",
-          "url": "https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT"
-        }
-      ],
-      "duration_ms": 428023,
-      "name": "When You Focus On The Good The Good Gets Better",
-      "url": "https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -463,26 +463,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Make This Right",
-        "url": "https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7"
-      },
-      "artists": [
-        {
-          "name": "Ruf Dug",
-          "url": "https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T"
-        },
-        {
-          "name": "Lovescene",
-          "url": "https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Make This Right - Radio Edit",
-      "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Buya",
         "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 464182,
       "name": "Buya - Da Capo Remix",
       "url": "https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Make This Right",
+        "url": "https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7"
+      },
+      "artists": [
+        {
+          "name": "Ruf Dug",
+          "url": "https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T"
+        },
+        {
+          "name": "Lovescene",
+          "url": "https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Make This Right - Radio Edit",
+      "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -655,6 +655,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "See-Line Woman",
+        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "See-Line Woman - Main Mix",
+      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Straight Line (Remixed)",
         "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
       },
@@ -675,22 +695,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "See-Line Woman",
-        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
+        "name": "Moodymann",
+        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
       },
       "artists": [
         {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
         }
       ],
-      "duration_ms": 226000,
-      "name": "See-Line Woman - Main Mix",
-      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
+      "duration_ms": 708706,
+      "name": "Sloppy Cosmic",
+      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -715,22 +731,6 @@
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Moodymann",
-        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 708706,
-      "name": "Sloppy Cosmic",
-      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
     },
     {
       "added_at": "2021-10-08 17:36:35",

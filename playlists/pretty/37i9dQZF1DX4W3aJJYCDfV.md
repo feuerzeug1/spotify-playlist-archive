@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ed Sheeran \(pictured\), FLO, Ellie Goulding and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,048 likes - 133 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,104 likes - 133 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 83 | [Driving](https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Driving](https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m) | 3:09 |
 | 84 | [ACTIVE](https://open.spotify.com/track/0qLIM7t9IhSIGmAtibnolW) | [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [ACTIVE](https://open.spotify.com/album/6qbn5r6IbCvq4WZ2zeKQ5u) | 2:41 |
 | 85 | [Slowly Break My Heart](https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD) | [Frankie Beetlestone](https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH) | [Slowly Break My Heart](https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF) | 3:14 |
-| 86 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 |
+| 86 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 |
 | 87 | [God Knows](https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [God Knows](https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e) | 2:36 |
 | 88 | [Take some time](https://open.spotify.com/track/5YyvYFe0OPQgiCUNjFLrLP) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Take some time](https://open.spotify.com/album/4jJJXmI83b1HuLEKvjnyOk) | 3:10 |
 | 89 | [What Do You Call It?](https://open.spotify.com/track/7ecUCurEBR0QNXAMQ7CQxr) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [What Do You Call It?](https://open.spotify.com/album/2nJBW5F5IikPqN9MfBp0qL) | 3:22 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0NjE4MywwMDAwMDAwMDJmMGE4OTliODIzMzYzMGNlNzNiYWRhY2JiZjRlN2E0",
+  "snapshot_id": "MTY3OTA0NjE4MywwMDAwMDAwMDllMGM5YWUzY2VhY2ZkYmRmYWIzNGZlYzMyNWRiNDRk",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Sesame Street: Getting Ready for School",
+        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
+      },
+      "artists": [
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Sesame Street's Gordon",
+          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
+        }
+      ],
+      "duration_ms": 103147,
+      "name": "Exercise Time",
+      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "CD8: Lleg\u00f3 Panam",
         "url": "https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 150906,
       "name": "A Comer Que la Mesa Est\u00e1 Servida",
       "url": "https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Sesame Street: Getting Ready for School",
-        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
-      },
-      "artists": [
-        {
-          "name": "Big Bird",
-          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
-        },
-        {
-          "name": "Sesame Street's Gordon",
-          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
-        }
-      ],
-      "duration_ms": 103147,
-      "name": "Exercise Time",
-      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -835,18 +835,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Papa Goose",
-        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
+        "name": "Sesame Street: Getting Ready for School",
+        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
       },
       "artists": [
         {
-          "name": "Nat Hussey",
-          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Sesame Street's Olivia",
+          "url": "https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr"
         }
       ],
-      "duration_ms": 89306,
-      "name": "Wash The Dishes",
-      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
+      "duration_ms": 93812,
+      "name": "Snack Time (Juice and Cookies)",
+      "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
     }
   ],
   "unique_name": "Daily Rutina",

@@ -1,6 +1,6 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 8443,
+  "num_followers": 8446,
   "original_name": "BrooklynVegan Weekly Playlist",
   "owner": {
     "name": "BrooklynVegan",
@@ -314,6 +314,10 @@
         {
           "name": "Lucinda Chua",
           "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+        },
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
       "duration_ms": 250946,

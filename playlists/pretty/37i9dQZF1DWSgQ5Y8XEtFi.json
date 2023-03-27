@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 190906,
+  "num_followers": 191173,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGZmMDU1MjhiM2EwNjg5NWQ4OTViMTZmNDZjNTJkYTBk",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGQ0Y2Q3Mjg0YzFjMWFjMTZkYmQ3ZDczOTg2Mjc5MWRk",
   "tracks": [
     {
       "added_at": "2023-03-16 19:08:53",
@@ -481,6 +481,26 @@
       "url": "https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "SCARING THE HOES",
+        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 141089,
+      "name": "Burfict!",
+      "url": "https://open.spotify.com/track/5IZpEuLMO5lEmN1Rr008p8"
+    },
+    {
       "added_at": "2023-03-16 19:08:53",
       "album": {
         "name": "Freddie's Inferno",
@@ -515,22 +535,6 @@
       "duration_ms": 106877,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20"
-    },
-    {
-      "added_at": "2023-03-16 19:08:53",
-      "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887"
-      },
-      "artists": [
-        {
-          "name": "Mag.Lo",
-          "url": "https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y"
-        }
-      ],
-      "duration_ms": 126062,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
     }
   ],
   "unique_name": "LOCKJAW",
