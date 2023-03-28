@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 426805,
+  "num_followers": 427060,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODExMzg5MywwMDAwMDAwMGNlMWJiMTVhMmIyNGIzMzZhMmEyNjQ0ZDNkM2IyMjA5",
+  "snapshot_id": "MTY3ODExMzg5MywwMDAwMDAwMDMyYzZmNDJiYmM1NGY3YmJhNDA4YzExN2Y0NTM5MzA5",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -245,7 +229,23 @@
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
-      "added_at": "2023-03-27 00:42:08",
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2023-03-28 01:35:16",
       "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 206019,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -355,22 +355,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
     },
     {
-      "added_at": "2023-03-27 00:42:08",
+      "added_at": "2023-03-28 01:35:16",
       "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Stay the Night",
-        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 171954,
-      "name": "Stay the Night",
-      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Stay the Night",
+        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        }
+      ],
+      "duration_ms": 171954,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 132417,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/74fmYjFwt9CqEFAh8ybeBD"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 132417,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
     },
     {
-      "added_at": "2023-03-27 00:42:08",
+      "added_at": "2023-03-28 01:35:16",
       "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9"
       },
@@ -915,46 +931,6 @@
       "duration_ms": 195262,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Next To You (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Next To You (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1023,6 +999,30 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Next To You (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 161344,
+      "name": "Next To You (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Bel Mercy",
         "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
       },
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
+        "name": "Narco",
+        "url": "https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK"
       },
       "artists": [
         {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         }
       ],
-      "duration_ms": 129479,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
+      "duration_ms": 208634,
+      "name": "Narco",
+      "url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 129479,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Get Up Off The Floor",
         "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
@@ -1273,24 +1293,24 @@
       "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2023-03-28 01:35:16",
       "album": {
-        "name": "Narco",
-        "url": "https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK"
+        "name": "A Milli (SIDEPIECE Remix)",
+        "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
       },
       "artists": [
         {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 208634,
-      "name": "Narco",
-      "url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA"
+      "duration_ms": 153750,
+      "name": "A Milli - SIDEPIECE Remix",
+      "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1317,7 +1337,7 @@
       "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
     },
     {
-      "added_at": "2023-03-27 00:42:08",
+      "added_at": "2023-03-28 01:35:16",
       "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
@@ -1343,26 +1363,6 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
-    },
-    {
-      "added_at": "2023-03-27 00:42:08",
-      "album": {
-        "name": "A Milli (SIDEPIECE Remix)",
-        "url": "https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "A Milli - SIDEPIECE Remix",
-      "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Forget You (with Gabry Ponte)",
         "url": "https://open.spotify.com/album/4tSBBYZHikk7WnaZclkZ0i"
       },
@@ -1453,7 +1429,31 @@
       "url": "https://open.spotify.com/track/7gJynFtygTiif6xdoipmUm"
     },
     {
-      "added_at": "2023-03-27 00:42:08",
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
+    },
+    {
+      "added_at": "2023-03-28 01:35:16",
       "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"

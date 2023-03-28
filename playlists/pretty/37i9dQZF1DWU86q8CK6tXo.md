@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > New music from female\-identifying artists, co\-curated by  <a href=“https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs?si=ynZhn3bXQ5S1M1yxXVpkmg”>Janelle Monáe</a>  for International Women’s Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,746 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,758 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

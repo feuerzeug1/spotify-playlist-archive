@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,101 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,106 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 40 | [Nkwagala](https://open.spotify.com/track/531luMexKodEekscAlLyVu) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Nkwagala](https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo) | 3:10 |
 | 41 | [Little Faith](https://open.spotify.com/track/2DNOzgqgDrrB9j0LbMJs84) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Sandra Suubi](https://open.spotify.com/artist/33JYHmzZa3lNG7VtH0wNSM) | [Little Faith](https://open.spotify.com/album/6K43HxSlOV0wgIcJqgrege) | 3:15 |
 | 42 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 |
-| 43 | [BAMUTUTTE](https://open.spotify.com/track/2sZ4GjmmmpDqhQHg4MwxJM) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 2:59 |
+| 43 | [Bamututte](https://open.spotify.com/track/2sZ4GjmmmpDqhQHg4MwxJM) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 2:59 |
 | 44 | [Aluru](https://open.spotify.com/track/2cVZ1TxQaFHG7B6tNM0JoC) | [Ouma Myko](https://open.spotify.com/artist/1Hi1Y9xFG8qiUbBrVDVLm1) | [Ouma Myko: The Smooth Ugandan](https://open.spotify.com/album/57SrDn9x3hclQJq8e7suSq) | 3:32 |
 | 45 | [Best Thing](https://open.spotify.com/track/7avBilzcSIuGxBRxDAn5Qv) | [Dre Cali](https://open.spotify.com/artist/2U0aIJmjYUZZ26kIE0KxM1) | [Best Thing](https://open.spotify.com/album/6ODMED9ea9Ug2apZvtbO9a) | 3:33 |
 | 46 | [A Thing](https://open.spotify.com/track/0nN0RzQ80Um0Kljt4TXGE7) | [Abaasa](https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc) | [1947](https://open.spotify.com/album/7i5YB5dRHsoKsPHM6AL17U) | 3:45 |

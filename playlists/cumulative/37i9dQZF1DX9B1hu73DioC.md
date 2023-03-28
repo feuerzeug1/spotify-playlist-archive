@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-604 songs - 1 day 12 hr 38 min
+605 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 | 2023-03-06 |  |
 | [Cool Blue](https://open.spotify.com/track/0Lbe98RKWwBbu1sipPSa4n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Clean](https://open.spotify.com/album/4T1o6BUMpITeK7DfE5qZqp) | 3:51 | 2020-12-08 | 2022-04-20 |
 | [Copilot](https://open.spotify.com/track/1sK4hNmwCZNW4w4Z2NAnHh) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Copilot](https://open.spotify.com/album/1U3WRjASyoLl8j8ccTnzFZ) | 4:03 | 2020-10-05\* | 2022-04-21 |
-| [Cotton Candy](https://open.spotify.com/track/2UvMgTm9y3lStOyQE2yxKA) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/6II8lvrYj3muBLAzrC0Kzw) | 2:34 | 2023-03-21 |  |
+| [Cotton Candy](https://open.spotify.com/track/2UvMgTm9y3lStOyQE2yxKA) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/6II8lvrYj3muBLAzrC0Kzw) | 2:34 | 2023-03-21 | 2023-03-28 |
 | [Courtside](https://open.spotify.com/track/4QBs03zMdjDtS6ZRAdojDv) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Courtside](https://open.spotify.com/album/0tuclxQvDT0h8m37w3bfsD) | 3:06 | 2020-10-05\* | 2020-10-06 |
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2020-10-16 | 2022-10-15 |
 | [Crawling Home When the Morning Comes](https://open.spotify.com/track/3IxyQP9V0vE7Z7LCkLz7n9) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Crawling Home When the Morning Comes](https://open.spotify.com/album/4XEgFZJ17LOZJMOdlxB8QL) | 2:25 | 2021-06-15 | 2022-07-28 |
@@ -489,6 +489,7 @@
 | [Sixty Summers](https://open.spotify.com/track/595FAzn7RvuGdSn473jOaI) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Sixty Summers](https://open.spotify.com/album/51xOggJs98Kdp21rkQQexX) | 3:19 | 2021-05-10 | 2022-05-29 |
 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-07 |  |
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 | 2022-11-02 |
+| [Sole Obsession](https://open.spotify.com/track/7KyUA18iLNvY4rrIXtM9vN) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Sole Obsession](https://open.spotify.com/album/457QUbOQKv5pXEzvNXE1l8) | 4:17 | 2023-03-28 |  |
 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 | 2020-10-05\* | 2022-04-21 |
 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 | 2022-07-25 | 2022-09-30 |
 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 | 2020-10-20 |  |
@@ -507,7 +508,7 @@
 | [Summer 2019](https://open.spotify.com/track/1q2o5p3RJuMoeVWUszKDgH) | [Caroline Culver](https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0) | [Summer 2019](https://open.spotify.com/album/5dTd90vjm7gvka1Jy3lB3q) | 2:19 | 2022-11-10 |  |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-10-15 |  |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2022-06-01 | 2023-03-26 |
-| [Sunset For The Dead](https://open.spotify.com/track/3E2qVqPW3FS2LXzCbss9yq) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Glasshead](https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz) | 3:23 | 2023-03-27 |  |
+| [Sunset For The Dead](https://open.spotify.com/track/3E2qVqPW3FS2LXzCbss9yq) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Glasshead](https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz) | 3:23 | 2023-03-21 |  |
 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 | 2021-03-14 | 2022-10-29 |
 | [Sweet](https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:51 | 2021-03-14 | 2022-11-09 |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2020-10-16 |  |

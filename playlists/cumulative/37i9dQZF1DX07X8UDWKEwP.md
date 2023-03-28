@@ -2,7 +2,7 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Luis Figueroa
+> Lo nuevo del mundo tropical\. Cover: Ronald Borjas & Tito Nieves
 
 235 songs - 14 hr 10 min
 

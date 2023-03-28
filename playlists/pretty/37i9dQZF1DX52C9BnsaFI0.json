@@ -1,12 +1,12 @@
 {
   "description": "70s rock to fuel your ride. Cover: Aerosmith",
-  "num_followers": 145424,
+  "num_followers": 145599,
   "original_name": "70s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUxOTY2MywwMDAwMDAwMGI5MmFlYzcwNjYyMzIwYzM5NTFmYWU4YTgzYjIxZmU0",
+  "snapshot_id": "MTY1NjUxOTY2MywwMDAwMDAwMGUwNDc1OTlmNTgxMjE4YWQxNGVlYWJlMTU2MmViZDNj",
   "tracks": [
     {
       "added_at": "2021-03-16 22:29:33",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Stealers Wheel",
-        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
     },
     {
-      "added_at": "2022-06-29 16:21:03",
-      "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "You Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
-    },
-    {
       "added_at": "2021-03-16 22:29:33",
       "album": {
         "name": "Hotel California (2013 Remaster)",
@@ -327,6 +311,22 @@
       "duration_ms": 286219,
       "name": "Life in the Fast Lane - 2013 Remaster",
       "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "added_at": "2022-06-29 16:21:03",
+      "album": {
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 357041,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "I Want You to Want Me",
-      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "The Grand Illusion",
         "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 367000,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
+    },
+    {
+      "added_at": "2022-06-29 16:21:03",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Take The Money And Run",
+      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "I Want You to Want Me",
+      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
         "name": "Frampton",
         "url": "https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX"
       },
@@ -601,20 +617,20 @@
       "url": "https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL"
     },
     {
-      "added_at": "2022-06-29 16:21:03",
+      "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+        "name": "Stone Cold Classics",
+        "url": "https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 170173,
-      "name": "Take The Money And Run",
-      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
+      "duration_ms": 355400,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -663,22 +679,6 @@
       "duration_ms": 195306,
       "name": "China Grove",
       "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
-        "name": "Stone Cold Classics",
-        "url": "https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 355400,
-      "name": "Bohemian Rhapsody",
-      "url": "https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 252240,
+      "name": "Wheel in the Sky",
+      "url": "https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
         "name": "Running on Empty / Nothing but Time (Digital 45)",
         "url": "https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 267000,
       "name": "Bang a Gong (Get It On) - 2003 Remaster",
       "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 252240,
-      "name": "Wheel in the Sky",
-      "url": "https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d"
     },
     {
       "added_at": "2021-03-16 22:29:33",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-03-16 22:29:33",
       "album": {
-        "name": "We're An American Band (Expanded Edition / Remastered 2002)",
-        "url": "https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg"
-      },
-      "artists": [
-        {
-          "name": "Grand Funk Railroad",
-          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "We're An American Band - Remastered 2002",
-      "url": "https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd"
-    },
-    {
-      "added_at": "2021-03-16 22:29:33",
-      "album": {
         "name": "His Band and the Street Choir",
         "url": "https://open.spotify.com/album/3YdFToTF5Mr2HLx7zRUIQA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 189426,
       "name": "Domino - 1999 Remaster",
       "url": "https://open.spotify.com/track/0eti3iRdEgUxwcIcN2N9DY"
+    },
+    {
+      "added_at": "2021-03-16 22:29:33",
+      "album": {
+        "name": "We're An American Band (Expanded Edition / Remastered 2002)",
+        "url": "https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg"
+      },
+      "artists": [
+        {
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "We're An American Band - Remastered 2002",
+      "url": "https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd"
     },
     {
       "added_at": "2021-03-16 22:29:33",

@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: 100 gecs
 
-212 songs - 11 hr 1 min
+213 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [In the Dark Times](https://open.spotify.com/track/1uprgaMy777icaL9Jmir7X) | [VANT](https://open.spotify.com/artist/4Xxkt0tSJr1uNxGDZcJLRc) | [Extinction Ballads](https://open.spotify.com/album/5eKDVADjZz0v2FePmts8j7) | 3:16 | 2022-07-07 | 2022-08-26 |
 | [Inmyhead](https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Inmyhead](https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy) | 2:48 | 2023-02-17 | 2023-03-25 |
 | [It's Permanent](https://open.spotify.com/track/23q1TXvVESU4qh8GckHvM0) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 3:32 | 2022-09-29 | 2023-02-04 |
+| [It's Permanent](https://open.spotify.com/track/3OGkTlzC4Se6z6e9eEwMOt) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/1UgBF6FuYhQnnKPuPnxbVD) | 3:32 | 2023-02-17 |  |
 | [It's Permanent](https://open.spotify.com/track/7xb85Q1Wy969N6nkcJRWqX) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [It's Permanent](https://open.spotify.com/album/1SUPtafQuEviIXihO8mQmt) | 3:32 | 2021-12-20 | 2022-10-14 |
 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 | 2021-12-20 |  |
 | [K.K.O](https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [K.K.O](https://open.spotify.com/album/6QMZWUgeNUjAqwaxgFsPFm) | 1:56 | 2023-03-07 | 2023-03-27 |
@@ -151,7 +152,7 @@
 | [New Slang](https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 4:15 | 2022-07-07 |  |
 | [New Slang](https://open.spotify.com/track/2UGLTM8VWqQai7bq2X7OiK) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [New Slang](https://open.spotify.com/album/5n1bgsaXNRP8y4jXGOEic2) | 4:15 | 2021-12-20 | 2022-07-29 |
 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 | 2022-07-07 | 2023-02-03 |
-| [Night Pill](https://open.spotify.com/track/6M9YPsfizSSymcQCFUTlHz) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV) | 3:40 | 2023-02-17 |  |
+| [Night Pill](https://open.spotify.com/track/6M9YPsfizSSymcQCFUTlHz) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV) | 3:40 | 2023-02-17 | 2023-03-28 |
 | [Nothin](https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Nothin](https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES) | 2:47 | 2023-01-25 |  |
 | [NYAMA](https://open.spotify.com/track/7unmH3frGOaKtko1tRnZGV) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [HIS HAPPINESS SHALL COME FIRST EVEN THOUGH WE ARE SUFFERING](https://open.spotify.com/album/3hcIiisDhA18vwTG7ZDvqL) | 4:22 | 2022-11-18 | 2023-03-21 |
 | [obedient dog](https://open.spotify.com/track/3534Z4x8UqslonFDIBtqEb) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [obedient dog // what happened, Sofie?](https://open.spotify.com/album/0pIbHYat2Of99lZtJ4krdN) | 1:47 | 2022-01-21 | 2022-08-29 |

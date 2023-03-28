@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 121728,
+  "num_followers": 121853,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMDUwZjg1ZTY2ODE2ZmU1Y2FjN2UxYjNjMzY4M2Q1MzA1",
+  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMDE5YzZmYWZkYTA5MDAzNDVjMTE4NWZjYWZiMGM5YWVk",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Raop",
         "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 142462,
       "name": "Einmal um die Welt",
       "url": "https://open.spotify.com/track/7qiUjLVo6zLj8WmxPMqoXD"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 174873,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Reim (Expanded Edition)",
         "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 174873,
-      "name": "Du",
-      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Liebe zu dritt",
         "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Liege wieder wach",
-        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Liege wieder wach",
-      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Muttersprache (Deluxe Version)",
         "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 218546,
       "name": "Wie sch\u00f6n du bist",
       "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "F\u00fcr Immer",
-        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "F\u00fcr Immer",
-      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Mit K",
         "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 258360,
       "name": "Kein Liebeslied",
       "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
     },
     {
       "added_at": "2023-03-06 08:21:00",

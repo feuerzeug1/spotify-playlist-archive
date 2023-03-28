@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-869 songs - 1 day 23 hr 31 min
+870 songs - 1 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Monster Mash](https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC) | [Bobby "Boris" Pickett](https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX), [The Crypt\-Kickers](https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5) | [The Original Monster Mash](https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr) | 3:12 | 2022-11-01 | 2022-11-08 |
 | [Monstruo](https://open.spotify.com/track/7eDVXAFMt2EERfXy9i63T1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:55 | 2023-01-03 | 2023-01-11 |
 | [Montagem \- Conga Conga \(Remix\)](https://open.spotify.com/track/4h3IQVSBs8lbFCvwMjGp83) | [DJ RAMON SP](https://open.spotify.com/artist/3wpIT0RdJai5EyixwevHVq) | [Montagem \- Conga Conga \(Remix\)](https://open.spotify.com/album/1PNplJIKoEDSa3GfgMluKu) | 2:33 | 2023-03-21 |  |
+| [Montagem \- Conga Conga \(Slowed + Reverb\)](https://open.spotify.com/track/5olB6tpqsJ9W8AX6HdWQd5) | [DJ RAMON SP](https://open.spotify.com/artist/3wpIT0RdJai5EyixwevHVq) | [Montagem \- Conga Conga \(Remixes\)](https://open.spotify.com/album/215z8mWDSkmJLJVqLOM8iX) | 2:58 | 2023-03-27 |  |
 | [Montagem Orquestra Sinfônica](https://open.spotify.com/track/6IptkpsuIYGFtR16DaHVwC) | [DJ TENEBROSO ORIGINAL](https://open.spotify.com/artist/2mq1noMJKfEyEuCR3Iihhc) | [Montagem Orquestra Sinfônica](https://open.spotify.com/album/6Ja89uJAsjfln7NnoXHrIt) | 3:19 | 2022-12-09 | 2022-12-24 |
 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2023-03-21 |  |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/21xglza52MZF3At9wsC5HD) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7MSkU2pVl6Z3QxDNMJUn1T) | 3:00 | 2023-03-12 | 2023-03-19 |
@@ -725,7 +726,7 @@
 | [Síntomas de Soltera](https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Síntomas de Soltera](https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x) | 4:01 | 2023-01-03 | 2023-01-11 |
 | [Talk that Talk](https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:57 | 2022-09-20 | 2022-10-05 |
 | [Tamagotchi](https://open.spotify.com/track/0ztgfQJ8raYUjuuJC8Ik42) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL) | [Tamagotchi](https://open.spotify.com/album/1Z6JQqwz2U8Py6lsYh8j8P) | 2:31 | 2023-01-28 | 2023-03-02 |
-| [Tamagotchi](https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL) | [Tamagotchi](https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA) | 2:31 | 2023-03-01 |  |
+| [Tamagotchi](https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL) | [Tamagotchi](https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA) | 2:31 | 2023-03-01 | 2023-03-28 |
 | [Tarima](https://open.spotify.com/track/5yNlgsdQ7LsysOVhxYn5yk) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Pa K Te Enamore](https://open.spotify.com/album/1b1MIUkBs4F7Mhhx59Sbql) | 2:53 | 2022-07-29 | 2022-10-01 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-31 | 2022-06-30 |
 | [TASTE \(Lee Know, Hyunjin, Felix\)](https://open.spotify.com/track/2pH3EXnScj9T0Q2ZPpidNt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB) | 3:36 | 2022-11-01 | 2022-11-09 |

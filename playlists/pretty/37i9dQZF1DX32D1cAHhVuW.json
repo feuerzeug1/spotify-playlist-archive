@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 14845,
+  "num_followers": 14971,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDU0NGIyNjk1Y2UzYWI0YmQ4ZmY5YTliOWFlYmFlY2Q2",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGFjMGQ4ZDNlNDZiYzkyOTNjMmE2NWM2YWNmN2ZjMDQy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -135,6 +135,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 257604,
+      "name": "Way 2 Sexy (with Future & Young Thug)",
+      "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Pink Friday",
         "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },
@@ -187,30 +211,6 @@
       "duration_ms": 146844,
       "name": "Hellcats & Trackhawks",
       "url": "https://open.spotify.com/track/53tv6ZbyeAwfAUwFaxYbfO"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 257604,
-      "name": "Way 2 Sexy (with Future & Young Thug)",
-      "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -295,22 +295,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 221979,
-      "name": "Girls Want Girls (with Lil Baby)",
-      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
+      "duration_ms": 173893,
+      "name": "Letter From Houston",
+      "url": "https://open.spotify.com/track/64NX4R1rgHb1LMLDAnNNPp"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -327,6 +323,26 @@
       "duration_ms": 255532,
       "name": "Straightenin",
       "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 221979,
+      "name": "Girls Want Girls (with Lil Baby)",
+      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -351,22 +367,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Pray 4 Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "Letter From Houston",
-      "url": "https://open.spotify.com/track/64NX4R1rgHb1LMLDAnNNPp"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -379,6 +379,26 @@
       "duration_ms": 93799,
       "name": "Lick Back",
       "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 218610,
+      "name": "That's Facts",
+      "url": "https://open.spotify.com/track/6dug6dIV40JMz2myhafHrm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -407,26 +427,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 218610,
-      "name": "That's Facts",
-      "url": "https://open.spotify.com/track/6dug6dIV40JMz2myhafHrm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Young & Turnt 2",
         "url": "https://open.spotify.com/album/3K7w8ofzG4VpAnL3co76qq"
       },
@@ -439,6 +439,62 @@
       "duration_ms": 119409,
       "name": "Been Turnt",
       "url": "https://open.spotify.com/track/3Bnm2f2khLuWgBT9htSG9h"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 205721,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Forever Set In Stone",
+        "url": "https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 179997,
+      "name": "Forever Set In Stone",
+      "url": "https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 235014,
+      "name": "Rich Off Pain (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -483,22 +539,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 205721,
-      "name": "Pipe Down",
-      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
@@ -515,22 +555,6 @@
       "duration_ms": 123446,
       "name": "Face Of My City (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6MDdceLYec4AxohmorE4vH"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Forever Set In Stone",
-        "url": "https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 179997,
-      "name": "Forever Set In Stone",
-      "url": "https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -563,26 +587,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 235014,
-      "name": "Rich Off Pain (feat. Rod Wave)",
-      "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
+      "duration_ms": 296568,
+      "name": "In The Bible (with Lil Durk & Giveon)",
+      "url": "https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -635,26 +659,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         },
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 296568,
-      "name": "In The Bible (with Lil Durk & Giveon)",
-      "url": "https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT"
+      "duration_ms": 212063,
+      "name": "Already Won (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -675,22 +695,6 @@
       "duration_ms": 195063,
       "name": "Still Hood",
       "url": "https://open.spotify.com/track/1huoY7hw3hGVGfuPPe9y8P"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Mr. Crawford",
-        "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 126256,
-      "name": "Vaccine",
-      "url": "https://open.spotify.com/track/0EAvcQ4XKhvYww9YRrdwB1"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -723,26 +727,6 @@
       "duration_ms": 201546,
       "name": "Paid the Fine (feat. Lil Baby & YTB Trench)",
       "url": "https://open.spotify.com/track/0GqaZ1L5KAXMNngAZbGvLf"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "SoulFly (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 212063,
-      "name": "Already Won (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 276239,
       "name": "Walk (feat. Lil Baby & 42 Dugg)",
       "url": "https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Mr. Crawford",
+        "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 126256,
+      "name": "Vaccine",
+      "url": "https://open.spotify.com/track/0EAvcQ4XKhvYww9YRrdwB1"
     },
     {
       "added_at": "2022-10-01 16:00:00",

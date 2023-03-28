@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 104292,
+  "num_followers": 104311,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGYwZGUwYjc4MzZlZWEzNWZhMGE0N2JjZDEyNDkzZTgz",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDYxMWIwYzg1MjM3M2E1MmQwMGY1YTk5ZDM3NTllYjdm",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -191,22 +191,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 188213,
-      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
-      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -243,18 +239,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+      "duration_ms": 188213,
+      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
+      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -307,6 +307,22 @@
       "duration_ms": 144215,
       "name": "Qu\u00e9 bonito fue",
       "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Es Que Yo Te Quiero A Ti",
+        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 323625,
+      "name": "Es Que Yo Te Quiero A Ti",
+      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -395,22 +411,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Es Que Yo Te Quiero A Ti",
-        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 323625,
-      "name": "Es Que Yo Te Quiero A Ti",
-      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -455,6 +439,38 @@
       "duration_ms": 202446,
       "name": "Con La Miel En Los Labios",
       "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Toda Esta Ciudad",
+        "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 320603,
+      "name": "Toda Esta Ciudad",
+      "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -495,18 +511,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Toda Esta Ciudad",
-        "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
+        "name": "La Segunda Luz del D\u00eda",
+        "url": "https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
         }
       ],
-      "duration_ms": 320603,
-      "name": "Toda Esta Ciudad",
-      "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
+      "duration_ms": 199341,
+      "name": "Tristes Ojos",
+      "url": "https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 159480,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/2roQw5McQNlTzAu2dGGL14"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "La Segunda Luz del D\u00eda",
-        "url": "https://open.spotify.com/album/5Jo5OxaefaKKlxtnOurjZd"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        }
-      ],
-      "duration_ms": 199341,
-      "name": "Tristes Ojos",
-      "url": "https://open.spotify.com/track/1MKQDYp54fNueGUOWNgRPq"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
-      },
-      "artists": [
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 220075,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "La Cantera",
         "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "los d\u00edas en la sala",
-        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
+        "name": "Canciones Tristes",
+        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 163411,
-      "name": "siempre te voy a querer",
-      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+      "duration_ms": 186266,
+      "name": "Canciones Tristes",
+      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -723,24 +707,8 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Canciones Tristes",
-        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 186266,
-      "name": "Canciones Tristes",
-      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Devu\u00e9lvemelo",
-        "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
       },
       "artists": [
         {
@@ -748,9 +716,25 @@
           "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
         }
       ],
-      "duration_ms": 242546,
-      "name": "Devu\u00e9lvemelo",
-      "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
+      "duration_ms": 220075,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "los d\u00edas en la sala",
+        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "siempre te voy a querer",
+      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Devu\u00e9lvemelo",
+        "url": "https://open.spotify.com/album/1VTDSrRRsre4j3FeApaK8f"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "duration_ms": 242546,
+      "name": "Devu\u00e9lvemelo",
+      "url": "https://open.spotify.com/track/5KwzWrI7rj4O6Dj701hzpM"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Ausente",
-        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Perd\u00f3n (Acabo de ver tu llamada)",
-      "url": "https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "olas",
         "url": "https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 164081,
       "name": "olas",
       "url": "https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Ausente",
+        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Perd\u00f3n (Acabo de ver tu llamada)",
+      "url": "https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Un Poquito M\u00e1s",
-        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 179943,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "La Banqueta",
         "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 188320,
       "name": "La Banqueta",
       "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 179943,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 169399,
       "name": "C\u00f3seme (2:22am)",
       "url": "https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Nada Es Igual",
         "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 141882,
       "name": "No Estoy",
       "url": "https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2023-03-17 04:00:00",

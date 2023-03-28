@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/4Kz0omQwqDHEZP714wEPUK"
+      },
+      "artists": [
+        {
+          "name": "Joaquim Azevedo",
+          "url": "https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144708,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/2spEwOTf21NJD8nPxpFbsa"
+    },
+    {
+      "album": {
         "name": "As She Slowly Walks Away",
         "url": "https://open.spotify.com/album/0iNpCCDfnROVTnvJIaSeBY"
       },
@@ -4550,7 +4568,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 168500,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/3DRzFYttma1ZO0sHVCJmQn"
@@ -5324,7 +5342,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 140544,
       "name": "Drifting Sand",
       "url": "https://open.spotify.com/track/2ElVZ4JztgEiG6vfb0ZdB2"
@@ -7582,7 +7600,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 123777,
       "name": "Fulfilled",
       "url": "https://open.spotify.com/track/4rHaA21L4F8ScRLCCOZsCM"
@@ -8356,7 +8374,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 177041,
       "name": "Heather's Croft",
       "url": "https://open.spotify.com/track/1ZDPKU4OiLJoej4IFqOyHP"
@@ -8936,6 +8954,24 @@
       "duration_ms": 180889,
       "name": "Hopelessly in Love",
       "url": "https://open.spotify.com/track/4qJMyRUlLa6zIzq5yKrOPo"
+    },
+    {
+      "album": {
+        "name": "Hopelijk",
+        "url": "https://open.spotify.com/album/3CBJZX7YjdUt9Znda8dprR"
+      },
+      "artists": [
+        {
+          "name": "Annebelle Coenraad",
+          "url": "https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118252,
+      "name": "Hopelijk",
+      "url": "https://open.spotify.com/track/2s0aWHa34r7CbfzMjwfuOv"
     },
     {
       "album": {
@@ -10030,7 +10066,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 189318,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0CtEIiyMbfaRDamb6Xuowz"
@@ -11096,7 +11132,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 184579,
       "name": "La creacion",
       "url": "https://open.spotify.com/track/63OR2oeewLePYRBoHs5mIi"
@@ -14222,7 +14258,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 182288,
       "name": "Morgentau",
       "url": "https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8"
@@ -15234,7 +15270,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 154625,
       "name": "Num\u00e9ro 1",
       "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
@@ -15396,7 +15432,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 128146,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz"
@@ -15900,7 +15936,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 276250,
       "name": "Ornamental",
       "url": "https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm"
@@ -17358,7 +17394,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 133154,
       "name": "Qui vivra verra",
       "url": "https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd"
@@ -17988,7 +18024,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 215703,
       "name": "Reveries",
       "url": "https://open.spotify.com/track/2Wq70oxNy3i4KOW175fUs2"
@@ -19566,7 +19602,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 197673,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/0J1qj6Tn3Zwwggfsz08FXp"
@@ -21284,7 +21320,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 136500,
       "name": "Te lo prometto",
       "url": "https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO"
@@ -22184,7 +22220,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 140487,
       "name": "The Room Upstairs",
       "url": "https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ"
@@ -22814,7 +22850,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 128000,
       "name": "To You Again",
       "url": "https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu"
@@ -23264,7 +23300,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 116006,
       "name": "Truss",
       "url": "https://open.spotify.com/track/1GuA6RiXT3Pwc7Qyuty0pe"
@@ -25496,7 +25532,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 131777,
       "name": "Yellow Entropy",
       "url": "https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw"

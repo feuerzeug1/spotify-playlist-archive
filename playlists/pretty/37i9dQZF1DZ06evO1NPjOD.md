@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,082 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,091 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 5 | [My Type \(feat\. City Girls & Jhené Aiko\) \- Remix](https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [My Type \(feat\. City Girls & Jhené Aiko\) \[Remix\]](https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5) | 2:52 |
 | 6 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
 | 7 | [Twerk \(feat\. Cardi B\)](https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:46 |
-| 8 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
-| 9 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 |
+| 8 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 |
+| 9 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
 | 10 | [Said Sum \(feat\. City Girls & DaBaby\) \- Remix](https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:57 |
 | 11 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
 | 12 | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Surf](https://open.spotify.com/track/5EgSl85L3mZlAQFUt4I4BG) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Cyncerely, C3](https://open.spotify.com/album/6uNuXilVlRxt9ryawO1nCS) | 3:31 |
 | 50 | [Whisper \(feat\. City Girls\)](https://open.spotify.com/track/1oHkXeW88HEtFt6P3TvBIt) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Church on Sunday](https://open.spotify.com/album/3Pa7JytWVcEf3Unec8qku8) | 3:17 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDA5MTM0YjYyYjgxYzUxYzQzOTM3NmY4YjMxYzEzZTBkNQ==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDBmMDlmZTRkMTU1ZTQ4ZGZjNDBlNjJiMThkNzYyMjkxNQ==`

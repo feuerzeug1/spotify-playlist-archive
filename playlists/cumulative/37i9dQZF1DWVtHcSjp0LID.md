@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-146 songs - 14 hr 12 min
+147 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Harmony \- Original Mix](https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3) | [Francis Inferno Orchestra](https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe) | [Where Will You Be Spending Eternity?](https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi) | 5:14 | 2022-03-22 |  |
 | [Hawkmoth](https://open.spotify.com/track/0LQwjyPTElZ4rKxJXEPFnq) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Reachy Prints](https://open.spotify.com/album/1gEUsLhMFziQj29kuo65hk) | 4:48 | 2022-07-15 |  |
 | [Hawkmoth](https://open.spotify.com/track/44MqpNL8xdtG3hTT2QWbQ4) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Reachy Prints](https://open.spotify.com/album/4nwAU3LuHt6nL5KLqhzw1z) | 4:48 | 2022-03-22 | 2023-02-03 |
-| [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 | 2022-07-15 |  |
+| [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 | 2022-07-15 | 2023-03-28 |
 | [Home](https://open.spotify.com/track/01mTrac137TL0EgIktc4fo) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/2NarmNFabeJTZpjO4VL1eF) | 3:41 | 2022-03-22 |  |
 | [Hydra](https://open.spotify.com/track/7FfcZjLw8j8wJ3eBteDNiP) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Hydra](https://open.spotify.com/album/1zzNgVXcHUu1hw1iHEWtpn) | 7:31 | 2022-03-22 | 2022-07-29 |
 | [Immortal](https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Carlos Pérez](https://open.spotify.com/artist/6L9nhBLgFJjNsV6BJDhqRr) | [Thunderstorm EP](https://open.spotify.com/album/6R30YrcG8zrQwb5IpPsmWS) | 6:57 | 2022-03-22 | 2023-02-22 |
@@ -85,6 +85,7 @@
 | [Klettenberg](https://open.spotify.com/track/0JyX4qrpaxi8tYZ0BkKNQj) | [Eisket](https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK) | [Klettenberg](https://open.spotify.com/album/4fl6XcuxtB2P1GN0mcbRlE) | 5:11 | 2022-03-22 | 2022-07-29 |
 | [Knowing We'll Be Here](https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:42 | 2022-03-22 |  |
 | [Kollera](https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm) | [Dusty Kid](https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C) | [Rages 1992](https://open.spotify.com/album/6v9jhi0WbpnsFSaAAXX1HO) | 7:15 | 2022-03-22 |  |
+| [Lefty's Bar](https://open.spotify.com/track/3zsDzU5rmhseMKqSaJUjKc) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Kill Frenzy](https://open.spotify.com/album/5K9V9bm1Bn9xVviaCP5f0w) | 5:55 | 2022-07-15 |  |
 | [Lefty's Bar](https://open.spotify.com/track/4cNAVxOssXmb8Xl4yZ8QNO) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Kill Frenzy EP](https://open.spotify.com/album/3wDVTkC3IBNjlRHRs2iZUW) | 5:55 | 2022-03-22 | 2023-03-09 |
 | [Letters \- NTO Remix](https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [A Magic World \(Remixes\)](https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS) | 6:05 | 2022-03-22 |  |
 | [like me](https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76) | [paleboi](https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe) | [like me](https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup) | 5:11 | 2022-03-22 |  |

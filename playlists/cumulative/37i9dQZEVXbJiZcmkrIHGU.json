@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 147200,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/31XTkTTz3lTLXFiJgbrwsE"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 149030,
       "name": "Au Revoir",
       "url": "https://open.spotify.com/track/4HkRGYJYn1Y99uXpqTyOI6"
@@ -13677,6 +13677,24 @@
     },
     {
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/7IQX2Omt6aRPYwLWtZYDWa"
+      },
+      "artists": [
+        {
+          "name": "LLUISA",
+          "url": "https://open.spotify.com/artist/7ur9WUsgFMxnJAKojdVBeg"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1CR43xdfE45HWWxB8jntj7"
+    },
+    {
+      "album": {
         "name": "I DON\u2019T WANNA PARTY NO MORE",
         "url": "https://open.spotify.com/album/6r6ZAtU32Z5NxJClLFZjD8"
       },
@@ -17274,7 +17292,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 185706,
       "name": "Layla",
       "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"

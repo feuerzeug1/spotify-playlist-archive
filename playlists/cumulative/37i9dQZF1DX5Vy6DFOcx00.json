@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 119571,
       "name": "CHRONICALLY CAUTIOUS",
       "url": "https://open.spotify.com/track/73ZWAySu4UX5LkpCM6zjYh"
@@ -4976,7 +4976,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 160597,
       "name": "Favorite Song - Sped Up",
       "url": "https://open.spotify.com/track/0IQyjnzXpI67yaW53rRbKx"
@@ -8248,6 +8248,24 @@
       "duration_ms": 223992,
       "name": "La Bebe",
       "url": "https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6"
+    },
+    {
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "album": {
@@ -13388,7 +13406,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"

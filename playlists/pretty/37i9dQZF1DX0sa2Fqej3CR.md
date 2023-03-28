@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 지금 국내에서 가장 핫한 노래들을 만나보세요! \(커버: NMIXX\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,990 likes - 59 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,000 likes - 59 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 |
-| 2 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
-| 3 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 |
-| 4 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
+| 1 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
+| 2 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 |
+| 3 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
+| 4 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 |
 | 5 | [Grrr \- Spotify Singles](https://open.spotify.com/track/2UrBX2cG7ZSnN2SbgspmtK) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [BlackNut](https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ), [Jimmy Paige](https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [SMUGGLERS](https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p) | [Spotify Singles](https://open.spotify.com/album/2XAl1NxzmOcAgtXNwYjqWn) | 3:56 |
 | 6 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
 | 7 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 58 | [If We Ever Meet Again](https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 4:34 |
 | 59 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 |
 
-Snapshot ID: `MTY3OTYzODI2MSwwMDAwMDAwMGY5ZWM5Y2Q2YzEzMWEwODU3ZjkwMWIzZmFjMGQzMmQx`
+Snapshot ID: `MTY3OTg4OTY4OCwwMDAwMDAwMDAwNDk0YzMxMjEyOTgwMzEyNDI3ODlmZjliMTdjZjZk`

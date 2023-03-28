@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "DBSAC",
+        "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147764,
+      "name": "DBSAC",
+      "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
+    },
+    {
+      "album": {
         "name": "Deadzone",
         "url": "https://open.spotify.com/album/1tixQpiCa1jCbXmiEjNAM0"
       },
@@ -962,7 +980,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 159117,
       "name": "Happiness 4 Dummies",
       "url": "https://open.spotify.com/track/0WKZtlkkgK44fVSrP75EO2"

@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Candle Flame",
+        "url": "https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174020,
+      "name": "Candle Flame",
+      "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
+    },
+    {
+      "album": {
         "name": "H\u00e4xan",
         "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
       },
@@ -838,7 +860,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 271656,
       "name": "Oceans Niagara",
       "url": "https://open.spotify.com/track/57zPzYQf43mAewduTJPJLp"

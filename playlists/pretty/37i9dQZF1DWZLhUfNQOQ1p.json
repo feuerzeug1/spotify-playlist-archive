@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230957,
+  "num_followers": 230952,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDdkYjRiYjUxNmY0M2VmMDZkMzkwZTExZTAxOGExNDBm",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGFhZmM5OWU4NmZlZWMxYzAzNjRjOThjYWRlMDE3Yjhk",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Don't Ever Wonder",
         "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
       },
@@ -599,22 +583,6 @@
       "duration_ms": 147367,
       "name": "Don't Ever Wonder",
       "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Sooner Or Later",
-        "url": "https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky"
-      },
-      "artists": [
-        {
-          "name": "Cratouille",
-          "url": "https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR"
-        }
-      ],
-      "duration_ms": 172124,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -635,6 +603,38 @@
       "duration_ms": 162000,
       "name": "Love Me (Don't Worry)",
       "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Sooner Or Later",
+        "url": "https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky"
+      },
+      "artists": [
+        {
+          "name": "Cratouille",
+          "url": "https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR"
+        }
+      ],
+      "duration_ms": 172124,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2021-08-05 09:09:59",

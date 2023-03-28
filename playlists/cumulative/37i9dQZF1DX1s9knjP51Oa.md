@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-654 songs - 1 day 4 hr 13 min
+656 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Adagio No 2 C\-Minor](https://open.spotify.com/track/6L0JsNlvd8CgtJkhRxZd5f) | [Tony Austero](https://open.spotify.com/artist/4IcLLdhDhgVZtC1GmZxyzw) | [Adagio No 2 C\-Minor](https://open.spotify.com/album/5bx5oBzjzCLliHbkwDOjnF) | 3:48 | 2022-01-18 | 2022-12-22 |
 | [Adaptation](https://open.spotify.com/track/01skgeWTKAdGTKtgNyS1BC) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [Adaptation](https://open.spotify.com/album/3W36IZRNb6SMGFFkOqQmkv) | 3:01 | 2021-12-13 | 2022-05-27 |
 | [Adventure Book](https://open.spotify.com/track/5pnQN6F1XTlhScEjuIUOWu) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Adventure Book](https://open.spotify.com/album/4lZatyNO2dfAauo4UWvGdx) | 2:11 | 2021-12-13 | 2022-09-13 |
+| [Aftonstjärna](https://open.spotify.com/track/438tqm4eZnhsomXZPu2s2T) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Aftonstjärna](https://open.spotify.com/album/2an7srBOdWxQDg1IF8ToM4) | 2:57 | 2023-03-27 |  |
 | [Agonize](https://open.spotify.com/track/3FeGZb9pg7ws79UhhZP8lv) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Agonize](https://open.spotify.com/album/6PMNbI3D4rsYwWWgXZ9JHS) | 2:51 | 2021-12-13 | 2022-05-27 |
 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 | 2023-03-06 |  |
 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 | 2021-12-13 | 2022-08-10 |
@@ -313,7 +314,7 @@
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2021-12-13 | 2022-11-12 |
 | [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 | 2021-12-13 | 2022-05-27 |
 | [La Perte](https://open.spotify.com/track/4GQ9KRA4zzD4JTYFqAdNnt) | [Verney Pépin](https://open.spotify.com/artist/1m0iaSvYDVKEUe4gkPXriQ) | [La Perte](https://open.spotify.com/album/3u1DTMMatPzL1vppQQC7Kt) | 2:01 | 2021-12-13 |  |
-| [Laredo](https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Laredo](https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq) | 2:47 | 2022-03-02 |  |
+| [Laredo](https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Laredo](https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq) | 2:47 | 2022-03-02 | 2023-03-28 |
 | [Larks](https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:54 | 2021-12-13 | 2022-07-22 |
 | [Late](https://open.spotify.com/track/4U8rS9Zwponx3RtzspiQFx) | [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav) | [Late](https://open.spotify.com/album/2oaXu9YZPKsSuNOvBkAnGe) | 2:59 | 2021-12-13 | 2022-10-14 |
 | [Lavender](https://open.spotify.com/track/7cMwmMmh2RRtGv1jl3QPUH) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Lavender](https://open.spotify.com/album/0ydbZvW2I6oagnbyzvYg15) | 2:56 | 2021-12-13 | 2022-01-05 |
@@ -418,7 +419,7 @@
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2021-12-13 | 2022-07-22 |
 | [Page](https://open.spotify.com/track/02kN88Xc8ks3JiKkGrMNpm) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Page](https://open.spotify.com/album/7tzcbTuaT2q5xltVSk22ZK) | 2:08 | 2021-12-13 | 2023-01-10 |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2021-12-13 | 2022-08-10 |
-| [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 | 2021-12-13 |  |
+| [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 | 2021-12-13 | 2023-03-28 |
 | [Pardon](https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Pardon](https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz) | 2:30 | 2022-01-04 |  |
 | [Passing By](https://open.spotify.com/track/4cKIi7twv61qQ0z0Apuoxu) | [Mikayo Koide](https://open.spotify.com/artist/32D46op6s0swxNHe7MCxLv) | [Passing By](https://open.spotify.com/album/7L0eqs9WBSnYhfhFQr2cko) | 2:19 | 2021-12-13 | 2022-05-27 |
 | [Past and Present](https://open.spotify.com/track/0wGsqpAJcNNe7y8rF8Np2e) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Past and Present](https://open.spotify.com/album/5yWWDZmbpkp0pEfogVEMp7) | 2:55 | 2021-12-13 | 2022-03-03 |
@@ -569,13 +570,14 @@
 | [The Phenomenon](https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq) | [Macauley Hubert](https://open.spotify.com/artist/0XeGtlvUw6IYSA0HY3rjF8) | [The Phenomenon](https://open.spotify.com/album/5Z143iLwtuMHwu5NvUafJh) | 2:30 | 2021-12-13 | 2022-12-22 |
 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 |  |
 | [The Porch Swing](https://open.spotify.com/track/4Be7nKSjLG0iWmt0OJXEks) | [Billie Ivory](https://open.spotify.com/artist/6GtWlyQC6QxNGW1w3EQVpx) | [The Porch Swing](https://open.spotify.com/album/0abQ6KRfx1mMUwH73fFW99) | 2:09 | 2021-12-13 | 2023-01-28 |
-| [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2021-12-13 |  |
+| [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2021-12-13 | 2023-03-28 |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2021-12-13 | 2022-10-25 |
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-03-06 |  |
 | [the traveler](https://open.spotify.com/track/1Niqti17jYAgEBlHzUEQ02) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the traveler & fragile flowers](https://open.spotify.com/album/6RkJifc0y3nOQLHHWB0oC8) | 2:50 | 2022-11-11 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-01-18 |  |
 | [The Winds](https://open.spotify.com/track/29nz4Q61vwzYqgHrLDqPuz) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [The Winds](https://open.spotify.com/album/55K9a0Lmj1kPAtvnnK1cml) | 2:51 | 2021-12-13 | 2022-08-10 |
 | [The Woman Who Sat On A Shelf](https://open.spotify.com/track/7A13EdjItdR8H8stkIwJ77) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [Roar: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/56T17eSb3ZEPT39FaxRKkQ) | 3:57 | 2022-04-21 | 2022-09-13 |
+| [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 | 2023-03-27 |  |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2021-12-13 | 2022-10-25 |
 | [Thoughts From Above](https://open.spotify.com/track/7kaE0yge2zcyQn1SA6Ectq) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Thoughts From Above](https://open.spotify.com/album/3vzfmFLNTzqJatPJbAu3ch) | 2:11 | 2023-01-20 |  |
 | [Time](https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.1](https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB) | 2:04 | 2021-12-13 | 2022-09-13 |

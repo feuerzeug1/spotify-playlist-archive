@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 228689,
+  "num_followers": 228723,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUwMTk4MiwwMDAwMDAwMDkyZTYxOTgwYTFkMTk3MTAwYTM1ZDkxODU3MjUyMWE2",
+  "snapshot_id": "MTY3OTUwMTk4MiwwMDAwMDAwMDlmY2IzNGZiMThlM2M3NTEyYjAxOTQ2ZTRhNGUzMjM2",
   "tracks": [
     {
       "added_at": "2023-03-22 15:33:40",
@@ -183,6 +183,26 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "Fantasy (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+    },
+    {
+      "added_at": "2023-03-22 15:33:40",
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
-    },
-    {
-      "added_at": "2023-03-22 15:33:40",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 178274,
-      "name": "Fantasy (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
     },
     {
       "added_at": "2023-03-22 15:33:40",
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc"
     },
     {
-      "added_at": "2023-03-27 01:15:59",
+      "added_at": "2023-03-28 01:17:33",
       "album": {
         "name": "GLU",
         "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
     },
     {
-      "added_at": "2023-03-27 01:15:59",
+      "added_at": "2023-03-28 01:17:33",
       "album": {
         "name": "Fatal Attraction",
         "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 155298,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
-    },
-    {
-      "added_at": "2023-03-22 15:33:40",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/1DpF83ld572jojmymv9J8P"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 153364,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i"
+    },
+    {
+      "added_at": "2023-03-22 15:33:40",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
       "added_at": "2023-03-22 15:33:40",
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
     },
     {
-      "added_at": "2023-03-27 01:15:59",
+      "added_at": "2023-03-28 01:17:33",
       "album": {
         "name": "Victims & Villains",
         "url": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt"
     },
     {
-      "added_at": "2023-03-27 01:15:59",
+      "added_at": "2023-03-28 01:17:33",
       "album": {
         "name": "Heartbreak & Other Stories",
         "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Take It Slow",
-      "url": "https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw"
-    },
-    {
-      "added_at": "2023-03-22 15:33:40",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 270585,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4"
+    },
+    {
+      "added_at": "2023-03-22 15:33:40",
+      "album": {
+        "name": "Breezy (Deluxe)",
+        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
     },
     {
       "added_at": "2023-03-22 15:33:40",
@@ -871,34 +871,18 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
-        "name": "Breezy (Deluxe)",
-        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Petty",
-      "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
-    },
-    {
-      "added_at": "2023-03-22 15:33:40",
-      "album": {
-        "name": "What A Lie",
-        "url": "https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        }
-      ],
-      "duration_ms": 228562,
-      "name": "What A Lie",
-      "url": "https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD"
+      "duration_ms": 152000,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw"
     },
     {
       "added_at": "2023-03-22 15:33:40",
@@ -915,6 +899,22 @@
       "duration_ms": 196493,
       "name": "Connexion",
       "url": "https://open.spotify.com/track/5euRP53moGQyGCsq8aNjvo"
+    },
+    {
+      "added_at": "2023-03-22 15:33:40",
+      "album": {
+        "name": "What A Lie",
+        "url": "https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "duration_ms": 228562,
+      "name": "What A Lie",
+      "url": "https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD"
     },
     {
       "added_at": "2023-03-22 15:33:40",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY"
+    },
+    {
+      "added_at": "2023-03-22 15:33:40",
+      "album": {
         "name": "Conflict Of Interest",
         "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 274400,
       "name": "10,000 Tears (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA"
-    },
-    {
-      "added_at": "2023-03-22 15:33:40",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY"
     },
     {
       "added_at": "2023-03-22 15:33:40",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 201592,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
+    },
+    {
+      "added_at": "2023-03-22 15:33:40",
+      "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
-        "name": "Goofy",
-        "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
+        "name": "WHAT'S IT GONNA TAKE",
+        "url": "https://open.spotify.com/album/54t5qVOCwbNrgBySSr7eyS"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
         }
       ],
-      "duration_ms": 201592,
-      "name": "Goofy",
-      "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
+      "duration_ms": 196798,
+      "name": "WHAT'S IT GONNA TAKE",
+      "url": "https://open.spotify.com/track/5McNI2nNzvbefXlDWafirl"
     },
     {
       "added_at": "2023-03-22 15:33:40",
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
-        "name": "WHAT'S IT GONNA TAKE",
-        "url": "https://open.spotify.com/album/54t5qVOCwbNrgBySSr7eyS"
+        "name": "Bubble",
+        "url": "https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye"
       },
       "artists": [
         {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+          "name": "Noa Lauryn",
+          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
         }
       ],
-      "duration_ms": 196798,
-      "name": "WHAT'S IT GONNA TAKE",
-      "url": "https://open.spotify.com/track/5McNI2nNzvbefXlDWafirl"
+      "duration_ms": 195240,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB"
     },
     {
       "added_at": "2023-03-22 15:33:40",
@@ -1275,38 +1291,6 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
-        "name": "Bubble",
-        "url": "https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye"
-      },
-      "artists": [
-        {
-          "name": "Noa Lauryn",
-          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "Bubble",
-      "url": "https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB"
-    },
-    {
-      "added_at": "2023-03-22 15:33:40",
-      "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 145700,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
-    },
-    {
-      "added_at": "2023-03-22 15:33:40",
-      "album": {
         "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
         "url": "https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 230680,
       "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
+    },
+    {
+      "added_at": "2023-03-22 15:33:40",
+      "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 145700,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
     },
     {
       "added_at": "2023-03-22 15:33:40",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Haile",
-          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
-        }
-      ],
-      "duration_ms": 195976,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
-    },
-    {
-      "added_at": "2023-03-22 15:33:40",
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 218048,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
+    },
+    {
+      "added_at": "2023-03-22 15:33:40",
+      "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        }
+      ],
+      "duration_ms": 195976,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
     },
     {
       "added_at": "2023-03-22 15:33:40",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-03-22 15:33:40",
       "album": {
-        "name": "Y5",
-        "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 216603,
-      "name": "Can't Get Over You",
-      "url": "https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG"
-    },
-    {
-      "added_at": "2023-03-22 15:33:40",
-      "album": {
         "name": "Heart Is On My Sleeve",
         "url": "https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 205788,
       "name": "Miss My Dawgs (with 6LACK)",
       "url": "https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc"
+    },
+    {
+      "added_at": "2023-03-22 15:33:40",
+      "album": {
+        "name": "Y5",
+        "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 216603,
+      "name": "Can't Get Over You",
+      "url": "https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG"
     },
     {
       "added_at": "2023-03-22 15:33:40",

@@ -924,7 +924,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Carlita's 2023 Fresh Start DJ Mix](/playlists/pretty/37i9dQZF1DX7BBCSz2YSg7.md)
 - [Carnatic Instrumental](/playlists/pretty/37i9dQZF1DX1VHgGvdVgaZ.md)
 - [Carnita Asada](/playlists/pretty/37i9dQZF1DWY5Exaf30Ns0.md)
-- [Carnita Asada: Clásico Regio](/playlists/pretty/37i9dQZF1DWXLjydKDJPFJ.md)
+- [Carnita Asada \(2\)](/playlists/pretty/37i9dQZF1DWXLjydKDJPFJ.md)
 - [Carnival 2023](/playlists/pretty/37i9dQZF1DX0rM1NjYKMJa.md)
 - [Carpool Karaoke](/playlists/pretty/0NaXa68Xyo4wmMiun5Lqgm.md)
 - [Carry Me Away Radio](/playlists/pretty/37i9dQZF1E8FdFKgRxUOJv.md)

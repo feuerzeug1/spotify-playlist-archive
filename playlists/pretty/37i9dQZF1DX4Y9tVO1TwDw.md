@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,273 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,291 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 19 | [Te Conocí](https://open.spotify.com/track/0p0NODSyeAC6Pe4gKyDNOx) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Te Conocí](https://open.spotify.com/album/22O1jcpwaCovtabMwk0kEm) | 2:38 |
 | 20 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 |
 | 21 | [Hey There Delilah](https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 1](https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs) | 3:52 |
-| 22 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
-| 23 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
-| 24 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
+| 22 | [Mi Vecindario](https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
+| 23 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
+| 24 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
 | 25 | [P.O.V](https://open.spotify.com/track/0kYMvY7CEGe2Qlt7oYInXI) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [P.O.V](https://open.spotify.com/album/6zk5bTOjSKXykjcAYYx67B) | 1:57 |
-| 26 | [Mi Vecindario](https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
+| 26 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
 | 27 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
 | 28 | [Hija de Su](https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [ETC!ETC!](https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt) | [Hija de Su](https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl) | 2:59 |
 | 29 | [Olvidar De Ti](https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Olvidar De Ti](https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb) | 2:13 |
@@ -46,19 +46,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 36 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 |
 | 37 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 |
 | 38 | [Sexo Sin Drama](https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Sexo Sin Drama](https://open.spotify.com/album/2ndDGHFi69bEujXAftA959) | 2:22 |
-| 39 | [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 |
-| 40 | [Santee](https://open.spotify.com/track/5Jssxp8m8PbF7gd9lZFfsx) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Santee](https://open.spotify.com/album/2OWQzXNMHUMe35yaKbWXcb) | 1:49 |
-| 41 | [Mírame](https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN) | 3:06 |
-| 42 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
-| 43 | [déjame vivir](https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 3:27 |
-| 44 | [DE CERO A 100](https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN) | [Yeiow](https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl) | [DE CERO A 100](https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI) | 2:44 |
+| 39 | [Santee](https://open.spotify.com/track/5Jssxp8m8PbF7gd9lZFfsx) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Santee](https://open.spotify.com/album/2OWQzXNMHUMe35yaKbWXcb) | 1:49 |
+| 40 | [Mírame](https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN) | 3:06 |
+| 41 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
+| 42 | [déjame vivir](https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 3:27 |
+| 43 | [DE CERO A 100](https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN) | [Yeiow](https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl) | [DE CERO A 100](https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI) | 2:44 |
+| 44 | [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 |
 | 45 | [Flexa](https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Flexa](https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR) | 3:18 |
 | 46 | [De La Nada](https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Hd\_offisial](https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX) | [De La Nada](https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ) | 4:24 |
 | 47 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 |
 | 48 | [Nadie En Este Mundo](https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:52 |
 | 49 | [Del Amor Al Odio](https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV) | 3:16 |
-| 50 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
-| 51 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
+| 50 | [La Ingenua](https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [La Ingenua](https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5) | 3:37 |
+| 51 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
 | 52 | [Mirror In My Living Room](https://open.spotify.com/track/6sjd3IipyGU97VimolF0yR) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Mirror In My Living Room](https://open.spotify.com/album/59KKhEV8ydurxp9XxdQEwg) | 3:00 |
 | 53 | [overflow](https://open.spotify.com/track/54Emsvj9A1qPH6zXOafruV) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [overflow](https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU) | 2:55 |
 | 54 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 69 | [SOLO](https://open.spotify.com/track/2Gkjiu3HPOcK4qVDFRdrCE) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [SOLO](https://open.spotify.com/album/4NNdY7MuRfjtux9Dm4xFXN) | 3:32 |
 | 70 | [Estupido](https://open.spotify.com/track/0s0911eZbCQY93FjUYmTRr) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Estupido](https://open.spotify.com/album/06AFG4QcIJ6xyiF7DVRKyZ) | 3:06 |
 
-Snapshot ID: `MTY3OTAzMzI3MCwwMDAwMDAwMDlmYjg5NTY4NjdiNTQzNzhkOWRmNjBkMzBkMDgxZmZi`
+Snapshot ID: `MTY3OTAzMzI3MCwwMDAwMDAwMGJiYTExNDU1MDNjNmI4ZmY1MWEyZTBmNGRlMzY3Yzhk`

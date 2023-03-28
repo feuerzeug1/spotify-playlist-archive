@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Aly & AJ
 
-255 songs - 14 hr 44 min
+256 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All the Time in the World](https://open.spotify.com/track/480SRGJA3IAzyoamrpnkOX) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Talk](https://open.spotify.com/album/0FO0CHC3r7HQJXWSXE3F3l) | 3:44 | 2021-11-12 | 2022-07-19 |
 | [All We Ever Knew](https://open.spotify.com/track/5wrGviDHdJ2MYgDRow14cu) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [All We Ever Knew](https://open.spotify.com/album/2DxrFMvkLvj3CiTapFkXhX) | 3:45 | 2021-11-12 | 2022-04-29 |
 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 | 2022-03-12 |  |
-| [Always, Joni](https://open.spotify.com/track/61EzqOBuKeieLCgkO1xQv8) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Always, Joni](https://open.spotify.com/album/5kSFUmD1KNcPJP0A4Cdakp) | 3:09 | 2021-11-12 |  |
+| [Always, Joni](https://open.spotify.com/track/61EzqOBuKeieLCgkO1xQv8) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Always, Joni](https://open.spotify.com/album/5kSFUmD1KNcPJP0A4Cdakp) | 3:09 | 2021-11-12 | 2023-03-28 |
 | [am i not enough for now?](https://open.spotify.com/track/04xC7XwAsCqF3HOEFemLcz) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:52 | 2022-10-14 | 2022-11-13 |
 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 | 2021-11-12 |  |
 | [Amsterdam](https://open.spotify.com/track/1sIAk1Hpj5YsMyYYtTsdal) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam](https://open.spotify.com/album/6Ju9oTtTNypA2En3jEoXWP) | 3:33 | 2021-11-12 | 2022-07-29 |
@@ -33,6 +33,7 @@
 | [Back to You](https://open.spotify.com/track/7nlGMUcyIGWZQFkOOxOWl5) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Back to You](https://open.spotify.com/album/4cTUFRQRiMo5ubMtQLaFCG) | 3:15 | 2021-11-12 | 2022-05-16 |
 | [Backstage in Glasgow](https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Backstage in Glasgow](https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S) | 2:16 | 2023-01-27 |  |
 | [Backyard Mafia](https://open.spotify.com/track/6JaUlNchByw307rjCP2l8G) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Backyard Mafia](https://open.spotify.com/album/2YXuuAQR5idYgbz07rtmhn) | 3:35 | 2021-11-12 | 2022-07-17 |
+| [Be Here Now](https://open.spotify.com/track/1ZEEd0xgeZIW82fuzmJfJ2) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [The Art of Letting Go](https://open.spotify.com/album/449CV10TloVGhBv9NfwFTD) | 3:00 | 2023-03-24 |  |
 | [Being Together](https://open.spotify.com/track/75VX0bpv1hmUMvnGc3nQc4) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Being Together](https://open.spotify.com/album/3dek4SEQdJcTu9HHS6lw5E) | 3:28 | 2021-11-12 | 2022-07-27 |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-11-12 |  |
 | [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2022-10-14 |  |

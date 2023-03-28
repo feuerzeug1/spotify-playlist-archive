@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Simone Mendes, LUDMILLA, Ed Sheeran, Filipe Ret, Maiara & Maraisa, ROSALÍA e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,853,353 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,853,709 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 41 | [Conheço Teu Fogo \- Ao Vivo](https://open.spotify.com/track/0D5Nnj1NdSiF69ZOssTRJP) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Conheço Teu Fogo \(Ao Vivo\)](https://open.spotify.com/album/5lS6K5Pm03fHdep33HRbxj) | 3:37 |
 | 42 | [O Meu Amor é Seu](https://open.spotify.com/track/6VBqEj4qQaby8Sen3W0aG9) | [Na Hora H](https://open.spotify.com/artist/3nwLhoJrBjPgQwuAL7J3NJ), [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4) | [O Meu Amor é Seu](https://open.spotify.com/album/6a2QvOmHAvEg4r8ET5T6xC) | 4:27 |
 | 43 | [BAILE \(dnça p vc\)](https://open.spotify.com/track/0smLY1jIV1IuSVlWRqwRDu) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [BAILE \(dnça p vc\)](https://open.spotify.com/album/7EzrYEMoctQGQolFqUe32F) | 3:27 |
-| 44 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [: \(UMA BAD UMA FARRA: \) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 |
+| 44 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 |
 | 45 | [Descolada \- Ao Vivo](https://open.spotify.com/track/7t1yKAPEFIqXrkIwh4EVvs) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Gabby Moura Ao Vivo](https://open.spotify.com/album/1nLuvL2Ls7BSE1IgCYC19H) | 2:54 |
 | 46 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
 | 47 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |

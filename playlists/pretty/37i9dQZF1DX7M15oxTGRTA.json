@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 66432,
+  "num_followers": 66502,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0OTIzNiwwMDAwMDAwMGMyNTExYmE4MDExZjNlY2Y1OTA2NTdiYTI3NjRkNTU3",
+  "snapshot_id": "MTY3OTkzMTc0NSwwMDAwMDAwMGI0Y2QyMDA0NzU5OTgyMzAzNDg2MThkMmNjMWFmMjNi",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -43,22 +59,34 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Rufus Featuring Chaka Khan",
-        "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
       "artists": [
         {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
+      "duration_ms": 383502,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Harvest for the World",
+        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 323306,
+      "name": "(At Your Best) You Are Love",
+      "url": "https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -79,18 +107,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 338386,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
+      "duration_ms": 299333,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -115,66 +143,34 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 290933,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+        "name": "Cl\u00e1udio Zoli",
+        "url": "https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ"
       },
       "artists": [
         {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+          "name": "Claudio Zoli",
+          "url": "https://open.spotify.com/artist/4nlkuVUlkYrNMORAQ42fav"
         }
       ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Harvest for the World",
-        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 323306,
-      "name": "(At Your Best) You Are Love",
-      "url": "https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 383502,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+      "duration_ms": 288040,
+      "name": "Cada Um, Cada Um",
+      "url": "https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -191,6 +187,38 @@
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -243,22 +271,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -271,22 +283,6 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -351,6 +347,22 @@
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -455,6 +467,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "Perfect Angel",
         "url": "https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9"
       },
@@ -471,18 +499,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+        "name": "Rufus Featuring Chaka Khan",
+        "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+      "duration_ms": 200146,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -507,22 +539,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Karyn White",
         "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
       },
@@ -535,6 +551,22 @@
       "duration_ms": 347453,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -555,18 +587,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -599,38 +631,6 @@
       "duration_ms": 284119,
       "name": "You Are My Lady",
       "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "In A Special Way",
-        "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
+        "name": "Very Special",
+        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
       },
       "artists": [
         {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+          "name": "Debra Laws",
+          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
         }
       ],
-      "duration_ms": 225573,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
+      "duration_ms": 268173,
+      "name": "Very Special",
+      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Very Special",
-        "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
+        "name": "In A Special Way",
+        "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
       },
       "artists": [
         {
-          "name": "Debra Laws",
-          "url": "https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34"
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
         }
       ],
-      "duration_ms": 268173,
-      "name": "Very Special",
-      "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
+      "duration_ms": 225573,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
       },
       "artists": [
         {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 267066,
-      "name": "Don't Ask My Neighbors",
-      "url": "https://open.spotify.com/track/2GZe8LsPldakpQy5T8151f"
+      "duration_ms": 338386,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1159,6 +1159,22 @@
       "duration_ms": 290186,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Don't Ask My Neighbors",
+      "url": "https://open.spotify.com/track/2GZe8LsPldakpQy5T8151f"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Cl\u00e1udio Zoli",
-        "url": "https://open.spotify.com/album/2y2rRhSyXAIhIgr6LKONmQ"
-      },
-      "artists": [
-        {
-          "name": "Claudio Zoli",
-          "url": "https://open.spotify.com/artist/4nlkuVUlkYrNMORAQ42fav"
-        }
-      ],
-      "duration_ms": 288040,
-      "name": "Cada Um, Cada Um",
-      "url": "https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
       },
@@ -1407,6 +1407,26 @@
       "duration_ms": 219866,
       "name": "Playing Your Game, Baby - Single Version",
       "url": "https://open.spotify.com/track/5gMPyXsnILxJJn59G2cxpN"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "You Are My Heaven (feat. Donny Hathaway)",
+      "url": "https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1439,26 +1459,6 @@
       "duration_ms": 357333,
       "name": "It's Time for Love",
       "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "You Are My Heaven (feat. Donny Hathaway)",
-      "url": "https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Propositions",
-        "url": "https://open.spotify.com/album/79OFHrcTLjudoKPtFs29tn"
-      },
-      "artists": [
-        {
-          "name": "The Bar-Kays",
-          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
-        }
-      ],
-      "duration_ms": 346746,
-      "name": "Anticipation",
-      "url": "https://open.spotify.com/track/46ABOH3c3OmH5waNodL3FZ"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 245800,
       "name": "Amor Natural",
       "url": "https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Propositions",
+        "url": "https://open.spotify.com/album/79OFHrcTLjudoKPtFs29tn"
+      },
+      "artists": [
+        {
+          "name": "The Bar-Kays",
+          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+        }
+      ],
+      "duration_ms": 346746,
+      "name": "Anticipation",
+      "url": "https://open.spotify.com/track/46ABOH3c3OmH5waNodL3FZ"
     },
     {
       "added_at": "2023-01-19 17:27:16",

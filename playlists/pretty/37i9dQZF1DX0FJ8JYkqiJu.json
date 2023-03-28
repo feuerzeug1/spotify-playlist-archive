@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 371353,
+  "num_followers": 371396,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk2Njk2MCwwMDAwMDAwMDQ5OTZhNjAxZjYzZmQ2MTg5MDMxNDU2YzM5YWY4ODk2",
+  "snapshot_id": "MTY3ODk2Njk2MCwwMDAwMDAwMDlhMDUzYmQxN2IwOTk0N2M1NDQ2ZGViZDMzNzA0N2Fi",
   "tracks": [
     {
       "added_at": "2023-03-09 13:37:56",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
-      "added_at": "2023-03-27 00:46:23",
+      "added_at": "2023-03-28 01:14:38",
       "album": {
         "name": "A Different Path",
         "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
     },
     {
-      "added_at": "2023-03-27 00:46:23",
+      "added_at": "2023-03-28 01:14:38",
       "album": {
         "name": "To Be Yours (feat. Claud)",
         "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
       "artists": [
         {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2023-03-09 13:37:56",
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+      "duration_ms": 198813,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
     },
     {
       "added_at": "2023-03-09 13:37:56",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
     },
     {
       "added_at": "2023-03-09 13:37:56",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 197150,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
-    },
-    {
-      "added_at": "2023-03-09 13:37:56",
-      "album": {
         "name": "Red Lights (EMBRZ Remix)",
         "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
       },
@@ -651,22 +635,6 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Hopedrunk Everasking",
-      "url": "https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh"
-    },
-    {
-      "added_at": "2023-03-09 13:37:56",
-      "album": {
         "name": "Kahan (last year)",
         "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 216000,
       "name": "Kahan (last year)",
       "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": "2023-03-09 13:37:56",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Hopedrunk Everasking",
+      "url": "https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh"
+    },
+    {
+      "added_at": "2023-03-09 13:37:56",
+      "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 197150,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
     },
     {
       "added_at": "2023-03-09 13:37:56",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 242376,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
+    },
+    {
+      "added_at": "2023-03-09 13:37:56",
+      "album": {
         "name": "Tidal Waves",
         "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr"
       },
       "artists": [
         {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
         }
       ],
-      "duration_ms": 242376,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
+      "duration_ms": 206520,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W"
     },
     {
       "added_at": "2023-03-09 13:37:56",
@@ -787,22 +803,6 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2023-03-09 13:37:56",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W"
     },
     {
       "added_at": "2023-03-09 13:37:56",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
+        "name": "Soldiner",
+        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 346214,
+      "name": "Soldiner",
+      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
+    },
+    {
+      "added_at": "2023-03-09 13:37:56",
+      "album": {
         "name": "Colorblind (WhoMadeWho Remix)",
         "url": "https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon"
       },
@@ -975,18 +991,22 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
-        "name": "Soldiner",
-        "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
+        "name": "La Perla (Tourist Remix)",
+        "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
       },
       "artists": [
         {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 346214,
-      "name": "Soldiner",
-      "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
+      "duration_ms": 317003,
+      "name": "La Perla - Tourist Remix",
+      "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
     },
     {
       "added_at": "2023-03-09 13:37:56",
@@ -1007,26 +1027,6 @@
       "duration_ms": 226690,
       "name": "Above the Salt",
       "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
-    },
-    {
-      "added_at": "2023-03-09 13:37:56",
-      "album": {
-        "name": "La Perla (Tourist Remix)",
-        "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 317003,
-      "name": "La Perla - Tourist Remix",
-      "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
     },
     {
       "added_at": "2023-03-09 13:37:56",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
-    },
-    {
-      "added_at": "2023-03-09 13:37:56",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -1207,22 +1191,18 @@
     {
       "added_at": "2023-03-09 13:37:56",
       "album": {
-        "name": "Fade Into Black",
-        "url": "https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 244878,
-      "name": "Fade Into Black",
-      "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2023-03-09 13:37:56",
@@ -1239,6 +1219,26 @@
       "duration_ms": 158859,
       "name": "Hey Papi - Edit",
       "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
+    },
+    {
+      "added_at": "2023-03-09 13:37:56",
+      "album": {
+        "name": "Fade Into Black",
+        "url": "https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "Fade Into Black",
+      "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
     },
     {
       "added_at": "2023-03-09 13:37:56",
@@ -1301,20 +1301,28 @@
       "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
     },
     {
-      "added_at": "2023-03-09 13:37:56",
+      "added_at": "2023-03-28 01:14:38",
       "album": {
-        "name": "Shambles",
-        "url": "https://open.spotify.com/album/45RsCaNIIHCfoy4EOdtX4M"
+        "name": "EVEN MORE D4TA",
+        "url": "https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM"
       },
       "artists": [
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "Kin Leonn",
+          "url": "https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK"
+        },
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "duration_ms": 235250,
-      "name": "Promise Don't Forget",
-      "url": "https://open.spotify.com/track/2kQXyiK2Plxd9lxkLjnoul"
+      "duration_ms": 271795,
+      "name": "EASY PREY - yeule & Kin Leonn Remix",
+      "url": "https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh"
     }
   ],
   "unique_name": "Just Chill",

@@ -3950,7 +3950,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 119000,
       "name": "Cavtat",
       "url": "https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V"
@@ -8416,6 +8416,24 @@
       "duration_ms": 167374,
       "name": "Gently",
       "url": "https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn"
+    },
+    {
+      "album": {
+        "name": "Gently falling rain",
+        "url": "https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blois",
+          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Gently falling rain",
+      "url": "https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk"
     },
     {
       "album": {
@@ -24755,6 +24773,24 @@
     },
     {
       "album": {
+        "name": "This Tender Appeal",
+        "url": "https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168498,
+      "name": "This Tender Appeal",
+      "url": "https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ"
+    },
+    {
+      "album": {
         "name": "Numbered Places, Vol. 1",
         "url": "https://open.spotify.com/album/4YLbylwabfaYGdNjVLJvOo"
       },
@@ -27506,7 +27542,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 189750,
       "name": "Whereabouts",
       "url": "https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad"

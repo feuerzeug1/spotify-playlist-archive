@@ -4,7 +4,7 @@
 
 > New music from Roddy Ricch, Kodak Black, NLE Choppa and BIA.
 
-1,555 songs - 3 day 8 hr 18 min
+1,556 songs - 3 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [All Bad \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/021lWIHJrURZrmvYQ1xcM8) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:27 | 2020-05-15 | 2020-05-22 |
 | [All Dz Chainz \(feat\. Lil Baby\)](https://open.spotify.com/track/6f8nS2g21RNEL7gNG4WJVT) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [All Dz Chainz \(feat\. Lil Baby\)](https://open.spotify.com/album/6lXYbUYhqxR56YlzPe8NxW) | 2:18 | 2022-07-01 | 2022-07-23 |
 | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/12PNcnMsjsZ3eHm62t8hiy) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Victory](https://open.spotify.com/album/1yX1ZzW6TBvQ1qeNpbiONH) | 3:52 | 2022-08-25 | 2022-08-27 |
-| [All I Wanna Know](https://open.spotify.com/track/3rWGgckX6iOjacBDMCaV97) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Keed Talk To ‘Em 2](https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1) | 3:26 | 2023-03-17 |  |
+| [All I Wanna Know](https://open.spotify.com/track/3rWGgckX6iOjacBDMCaV97) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Keed Talk To ‘Em 2](https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1) | 3:26 | 2023-03-17 | 2023-03-28 |
 | [All In](https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [All In](https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U) | 2:36 | 2020-04-24 | 2020-05-01 |
 | [All In](https://open.spotify.com/track/26nhZEbbCTj6fXTC92wdKD) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Tracks from Top](https://open.spotify.com/album/6afZMmVApwhscCl9iLcvzt) | 2:36 | 2020-09-11 | 2020-10-02 |
 | [All Week](https://open.spotify.com/track/3lIvm65ESTYtJ66VmIyJem) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [All Week](https://open.spotify.com/album/5MatJ1L9cyAZ8yOLfaqqPA) | 2:50 | 2020-11-13 | 2020-12-18 |
@@ -342,6 +342,7 @@
 | [Do The Most](https://open.spotify.com/track/6ZBqCuo8fUGSZJGYR9LNwL) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Do The Most](https://open.spotify.com/album/1l0LngTiAHc8RvL3nqZ9Z4) | 2:24 | 2020-03-27 | 2020-04-10 |
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-04 | 2022-04-09 |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-10 | 2022-08-13 |
+| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-27 |  |
 | [Doja](https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Doja](https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o) | 2:51 | 2022-02-06 | 2022-03-12 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-22 | 2022-10-15 |
 | [DOLLA SIGN SLIME \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:25 | 2021-09-18 | 2021-10-02 |

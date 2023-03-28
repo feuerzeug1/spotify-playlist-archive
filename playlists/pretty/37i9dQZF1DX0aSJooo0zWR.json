@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 176533,
+  "num_followers": 176570,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDFhYjc3MzMxODVhMDQxZmVmOWFkMzRkMjUyOWQ5MDg3",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDkwY2VjYWExZWM0Y2JiMDNiODZkMWYxZDkyMDZlMDdh",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Tore Down House",
+        "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
+      },
+      "artists": [
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Dolemite",
+      "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Adventure",
         "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 251643,
       "name": "P64 By My Side",
       "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Tore Down House",
-        "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
-      },
-      "artists": [
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Dolemite",
-      "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Time In Place",
-        "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 462373,
-      "name": "Chromazone",
-      "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Trinity",
@@ -687,6 +671,22 @@
       "duration_ms": 474309,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Time In Place",
+        "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 462373,
+      "name": "Chromazone",
+      "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Mondo Garaj",
-        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
       },
       "artists": [
         {
-          "name": "Garaj Mahal",
-          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
+          "name": "Larry Carlton",
+          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
         }
       ],
-      "duration_ms": 333413,
-      "name": "Mondo Garaj",
-      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
+      "duration_ms": 297359,
+      "name": "You Gotta Get It While You Can",
+      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
+        "name": "Mondo Garaj",
+        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
       },
       "artists": [
         {
-          "name": "Larry Carlton",
-          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+          "name": "Garaj Mahal",
+          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
         }
       ],
-      "duration_ms": 297359,
-      "name": "You Gotta Get It While You Can",
-      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
+      "duration_ms": 333413,
+      "name": "Mondo Garaj",
+      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
       "added_at": "2021-02-12 00:49:35",

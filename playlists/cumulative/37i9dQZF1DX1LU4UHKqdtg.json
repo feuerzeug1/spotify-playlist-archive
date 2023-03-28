@@ -4349,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "Kitsch",
+        "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
+    },
+    {
+      "album": {
         "name": "Knock On My Door",
         "url": "https://open.spotify.com/album/1cNekjNeCf2CaHdiJk0S44"
       },

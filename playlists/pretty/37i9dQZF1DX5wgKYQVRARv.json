@@ -1,12 +1,12 @@
 {
   "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Ne Obliviscaris",
-  "num_followers": 492722,
+  "num_followers": 492828,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDdmNDU1NjIyYjQ2NDc5NWVjYWUzOTMyNDM2NjA2OWU5",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDhhOTkzZTI2ZmU0MjQ0MWI2ODIzNGRhMTlkMTg2NGI2",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "The Way It Ends",
+        "url": "https://open.spotify.com/album/2pVCexIJwUK0Mg9cFtDhxr"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 214477,
+      "name": "A Flag to Wave",
+      "url": "https://open.spotify.com/track/2vbIlZuY3e7Coho7Av1eYz"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Macro",
         "url": "https://open.spotify.com/album/4cTjPXaFkUyaHr29G1PiT9"
       },
@@ -239,6 +255,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Parrhesia",
+        "url": "https://open.spotify.com/album/1mIiGxlTjTnNMTS9HYwsuB"
+      },
+      "artists": [
+        {
+          "name": "Animals As Leaders",
+          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
+        }
+      ],
+      "duration_ms": 152840,
+      "name": "The Problem of Other Minds",
+      "url": "https://open.spotify.com/track/6NUQhf20QwI2h66k1PTH7t"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Outsider",
         "url": "https://open.spotify.com/album/1L6xcFfEIP4b8KUZCBj4jz"
       },
@@ -251,22 +283,6 @@
       "duration_ms": 249468,
       "name": "Outsider",
       "url": "https://open.spotify.com/track/2Hq9A0EbpApmncExOiG1oM"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "The Way It Ends",
-        "url": "https://open.spotify.com/album/2pVCexIJwUK0Mg9cFtDhxr"
-      },
-      "artists": [
-        {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
-        }
-      ],
-      "duration_ms": 214477,
-      "name": "A Flag to Wave",
-      "url": "https://open.spotify.com/track/2vbIlZuY3e7Coho7Av1eYz"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -303,22 +319,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Parrhesia",
-        "url": "https://open.spotify.com/album/1mIiGxlTjTnNMTS9HYwsuB"
-      },
-      "artists": [
-        {
-          "name": "Animals As Leaders",
-          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
-        }
-      ],
-      "duration_ms": 152840,
-      "name": "The Problem of Other Minds",
-      "url": "https://open.spotify.com/track/6NUQhf20QwI2h66k1PTH7t"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Dimorphous Display",
         "url": "https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7"
       },
@@ -331,6 +331,38 @@
       "duration_ms": 292963,
       "name": "Dimorphous Display",
       "url": "https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Parrhesia",
+        "url": "https://open.spotify.com/album/1mIiGxlTjTnNMTS9HYwsuB"
+      },
+      "artists": [
+        {
+          "name": "Animals As Leaders",
+          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
+        }
+      ],
+      "duration_ms": 206512,
+      "name": "Monomyth",
+      "url": "https://open.spotify.com/track/4AcbU1p5iQhhlTBHVXncdR"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0SwaDAEsaQynnwdlNa5SH6"
+      },
+      "artists": [
+        {
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+        }
+      ],
+      "duration_ms": 312788,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/1xj9Mdr9jtBpRA6WqqMYbn"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -367,22 +399,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/0SwaDAEsaQynnwdlNa5SH6"
-      },
-      "artists": [
-        {
-          "name": "TesseracT",
-          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
-        }
-      ],
-      "duration_ms": 312788,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/1xj9Mdr9jtBpRA6WqqMYbn"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Leviathan II",
         "url": "https://open.spotify.com/album/2DJ5MSG3P0ApFNUjyRVitN"
       },
@@ -395,38 +411,6 @@
       "duration_ms": 250923,
       "name": "Litany Of The Fallen",
       "url": "https://open.spotify.com/track/2FSiK95QHH9brWSaO8KlxZ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Parrhesia",
-        "url": "https://open.spotify.com/album/1mIiGxlTjTnNMTS9HYwsuB"
-      },
-      "artists": [
-        {
-          "name": "Animals As Leaders",
-          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
-        }
-      ],
-      "duration_ms": 206512,
-      "name": "Monomyth",
-      "url": "https://open.spotify.com/track/4AcbU1p5iQhhlTBHVXncdR"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Lovebite",
-        "url": "https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX"
-      },
-      "artists": [
-        {
-          "name": "Haken",
-          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Lovebite",
-      "url": "https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -447,6 +431,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Lovebite",
+        "url": "https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX"
+      },
+      "artists": [
+        {
+          "name": "Haken",
+          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Lovebite",
+      "url": "https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Early Grave",
         "url": "https://open.spotify.com/album/3U4Ej58L88Wr8mDjUhHdk1"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "In Stasis",
-        "url": "https://open.spotify.com/album/3Q0ElZiEA7GBDcqNyeF71r"
-      },
-      "artists": [
-        {
-          "name": "Monuments",
-          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Makeshift Harmony",
-      "url": "https://open.spotify.com/track/5hT9plaY8kgBZSmCUpfV47"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Periphery IV: HAIL STAN",
         "url": "https://open.spotify.com/album/0A3ms3uYiTs9MPAfQrfoKt"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 358120,
       "name": "Blood Eagle",
       "url": "https://open.spotify.com/track/32pjM7j9cfP3hlMsUTpwVE"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "In Stasis",
+        "url": "https://open.spotify.com/album/3Q0ElZiEA7GBDcqNyeF71r"
+      },
+      "artists": [
+        {
+          "name": "Monuments",
+          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
+        }
+      ],
+      "duration_ms": 270546,
+      "name": "Makeshift Harmony",
+      "url": "https://open.spotify.com/track/5hT9plaY8kgBZSmCUpfV47"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Periphery IV: HAIL STAN",
-        "url": "https://open.spotify.com/album/0A3ms3uYiTs9MPAfQrfoKt"
-      },
-      "artists": [
-        {
-          "name": "Periphery",
-          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
-        }
-      ],
-      "duration_ms": 356506,
-      "name": "Garden In The Bones",
-      "url": "https://open.spotify.com/track/1gigJImcWyDZZidGrqu2bX"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "What Is War",
         "url": "https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 287628,
       "name": "Don't Fall Asleep",
       "url": "https://open.spotify.com/track/41Rics7z4fUF82iHBxSfm0"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Periphery IV: HAIL STAN",
+        "url": "https://open.spotify.com/album/0A3ms3uYiTs9MPAfQrfoKt"
+      },
+      "artists": [
+        {
+          "name": "Periphery",
+          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
+        }
+      ],
+      "duration_ms": 356506,
+      "name": "Garden In The Bones",
+      "url": "https://open.spotify.com/track/1gigJImcWyDZZidGrqu2bX"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Future in Whose Eyes?",
-        "url": "https://open.spotify.com/album/3AglitukJSID7M51tDEDdH"
-      },
-      "artists": [
-        {
-          "name": "SikTh",
-          "url": "https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w"
-        }
-      ],
-      "duration_ms": 268666,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/4oOo9YXmxtrzCNOdTN7xI3"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The Eternal Reign",
         "url": "https://open.spotify.com/album/4cQvWOaOguhmfKKGlzzg1S"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 205529,
       "name": "Empires Erased",
       "url": "https://open.spotify.com/track/7LdWEEzQ7ppMKBBDzsGLEA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Future in Whose Eyes?",
+        "url": "https://open.spotify.com/album/3AglitukJSID7M51tDEDdH"
+      },
+      "artists": [
+        {
+          "name": "SikTh",
+          "url": "https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w"
+        }
+      ],
+      "duration_ms": 268666,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/4oOo9YXmxtrzCNOdTN7xI3"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -819,22 +819,6 @@
       "duration_ms": 206900,
       "name": "Nocturne: Lost Faith",
       "url": "https://open.spotify.com/track/0tTenNzVzQMdZK92jgcxIJ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Nightingale",
-        "url": "https://open.spotify.com/album/0zfKKza4jm4n4L2Z78bOd2"
-      },
-      "artists": [
-        {
-          "name": "Haken",
-          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
-        }
-      ],
-      "duration_ms": 443698,
-      "name": "Nightingale",
-      "url": "https://open.spotify.com/track/1J8fTSO6ywgqkygxRGAVof"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/0zfKKza4jm4n4L2Z78bOd2"
+      },
+      "artists": [
+        {
+          "name": "Haken",
+          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
+        }
+      ],
+      "duration_ms": 443698,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/1J8fTSO6ywgqkygxRGAVof"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Deadlock",
         "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Simulation",
-        "url": "https://open.spotify.com/album/5tpmUSORZay61ssi3WaKWv"
-      },
-      "artists": [
-        {
-          "name": "Born Of Osiris",
-          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "The Accursed",
-      "url": "https://open.spotify.com/track/258LZZ51Mxg6xr8Q7IMcUN"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/5X4CRGrc6q1ivnwgifLJJi"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 265714,
       "name": "Creatures from the Mud",
       "url": "https://open.spotify.com/track/4g74CSDNPepcXXWyJ53wry"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Simulation",
+        "url": "https://open.spotify.com/album/5tpmUSORZay61ssi3WaKWv"
+      },
+      "artists": [
+        {
+          "name": "Born Of Osiris",
+          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "The Accursed",
+      "url": "https://open.spotify.com/track/258LZZ51Mxg6xr8Q7IMcUN"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Abysmal Eye",
-        "url": "https://open.spotify.com/album/0TEywpRjtQ68lwnUO0uHSa"
+        "name": "Reptile",
+        "url": "https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4"
       },
       "artists": [
         {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
         }
       ],
-      "duration_ms": 295786,
-      "name": "The Abysmal Eye",
-      "url": "https://open.spotify.com/track/7Iogi1NuInEAxMBOreCB3b"
+      "duration_ms": 224160,
+      "name": "Reptile",
+      "url": "https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Reptile",
-        "url": "https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4"
+        "name": "The Abysmal Eye",
+        "url": "https://open.spotify.com/album/0TEywpRjtQ68lwnUO0uHSa"
       },
       "artists": [
         {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Reptile",
-      "url": "https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg"
+      "duration_ms": 295786,
+      "name": "The Abysmal Eye",
+      "url": "https://open.spotify.com/track/7Iogi1NuInEAxMBOreCB3b"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1119,42 +1119,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Apple of Discord",
-        "url": "https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX"
-      },
-      "artists": [
-        {
-          "name": "Ghost Iris",
-          "url": "https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka"
-        },
-        {
-          "name": "Tyler Shelton",
-          "url": "https://open.spotify.com/artist/05te9cG7cEF5EuxU9JqnCk"
-        }
-      ],
-      "duration_ms": 246750,
-      "name": "The Rat & The Snake",
-      "url": "https://open.spotify.com/track/6I1HQ1fAggIDm17CXJo6aq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "holywater",
-        "url": "https://open.spotify.com/album/2rDtya9iHi1StTjrVIiZMt"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "holywater",
-      "url": "https://open.spotify.com/track/1C8xKYntDnAzvzwcSLnU7W"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Terrene Hunter",
         "url": "https://open.spotify.com/album/60cruwKvuPfkevirdVpXC2"
       },
@@ -1183,6 +1147,42 @@
       "duration_ms": 699313,
       "name": "Blood Upon Stone",
       "url": "https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "holywater",
+        "url": "https://open.spotify.com/album/2rDtya9iHi1StTjrVIiZMt"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "holywater",
+      "url": "https://open.spotify.com/track/1C8xKYntDnAzvzwcSLnU7W"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Apple of Discord",
+        "url": "https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX"
+      },
+      "artists": [
+        {
+          "name": "Ghost Iris",
+          "url": "https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka"
+        },
+        {
+          "name": "Tyler Shelton",
+          "url": "https://open.spotify.com/artist/05te9cG7cEF5EuxU9JqnCk"
+        }
+      ],
+      "duration_ms": 246750,
+      "name": "The Rat & The Snake",
+      "url": "https://open.spotify.com/track/6I1HQ1fAggIDm17CXJo6aq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd"
+      },
+      "artists": [
+        {
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+        }
+      ],
+      "duration_ms": 393882,
+      "name": "Eden - P O R T A L S",
+      "url": "https://open.spotify.com/track/62duewknNqt9fZhBoYAanE"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Hello Death",
         "url": "https://open.spotify.com/album/6MFXRy30nk6khmwq6GWuHq"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 294852,
       "name": "Hello Death",
       "url": "https://open.spotify.com/track/2LEXNkVRuDfroBJRQ1zitM"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "PORTALS",
-        "url": "https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd"
-      },
-      "artists": [
-        {
-          "name": "TesseracT",
-          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
-        }
-      ],
-      "duration_ms": 393882,
-      "name": "Eden - P O R T A L S",
-      "url": "https://open.spotify.com/track/62duewknNqt9fZhBoYAanE"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "I'd Rather Be Asleep",
-        "url": "https://open.spotify.com/album/7l6W4a5eEiIsUHUojAimkp"
-      },
-      "artists": [
-        {
-          "name": "Red Handed Denial",
-          "url": "https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "White Water",
-      "url": "https://open.spotify.com/track/4lALBBj0EvYHn6T5rlYqYT"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Nous Sommes La Guerre",
         "url": "https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA"
       },
@@ -1435,26 +1419,34 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
-        "url": "https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk"
+        "name": "Loathing Light",
+        "url": "https://open.spotify.com/album/6XZzx7Yx0MWI7pCl2ptI06"
       },
       "artists": [
         {
           "name": "ONI",
           "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Randy Blythe",
-          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
         }
       ],
-      "duration_ms": 287475,
-      "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
-      "url": "https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4"
+      "duration_ms": 207579,
+      "name": "Against My Sins",
+      "url": "https://open.spotify.com/track/4MRwYzMlCH8wSNL9fP3nMW"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Different Animals",
+        "url": "https://open.spotify.com/album/0NIiSIJLgWjYiRtKWfTm4J"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "duration_ms": 136906,
+      "name": "Left For Dead",
+      "url": "https://open.spotify.com/track/0zNjr7ql6ifPvmNdSDx1qt"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1475,18 +1467,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Different Animals",
-        "url": "https://open.spotify.com/album/0NIiSIJLgWjYiRtKWfTm4J"
+        "name": "I'd Rather Be Asleep",
+        "url": "https://open.spotify.com/album/7l6W4a5eEiIsUHUojAimkp"
       },
       "artists": [
         {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+          "name": "Red Handed Denial",
+          "url": "https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7"
         }
       ],
-      "duration_ms": 136906,
-      "name": "Left For Dead",
-      "url": "https://open.spotify.com/track/0zNjr7ql6ifPvmNdSDx1qt"
+      "duration_ms": 214000,
+      "name": "White Water",
+      "url": "https://open.spotify.com/track/4lALBBj0EvYHn6T5rlYqYT"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1543,6 +1535,46 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
+        "url": "https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Randy Blythe",
+          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
+        }
+      ],
+      "duration_ms": 287475,
+      "name": "Secrets (feat. Iggy Pop and Randy Blythe)",
+      "url": "https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Pixelate",
+        "url": "https://open.spotify.com/album/5ab3fPnGY6OV34Swm5ffI0"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "duration_ms": 190435,
+      "name": "Pixelate",
+      "url": "https://open.spotify.com/track/5ITT2UsqV9R5jRnpUYebcA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Revel In Time",
         "url": "https://open.spotify.com/album/59eeYsYn4KBOtOtAPCESVW"
       },
@@ -1575,38 +1607,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "DAMNUM",
-        "url": "https://open.spotify.com/album/1LbK8xqE3DF6DE9drbwacI"
-      },
-      "artists": [
-        {
-          "name": "Allegaeon",
-          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
-        }
-      ],
-      "duration_ms": 310724,
-      "name": "Vermin",
-      "url": "https://open.spotify.com/track/6FDLIsQnjDx5KvI2586BAh"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Loathing Light",
-        "url": "https://open.spotify.com/album/6XZzx7Yx0MWI7pCl2ptI06"
-      },
-      "artists": [
-        {
-          "name": "ONI",
-          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
-        }
-      ],
-      "duration_ms": 207579,
-      "name": "Against My Sins",
-      "url": "https://open.spotify.com/track/4MRwYzMlCH8wSNL9fP3nMW"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "m\u00e5sstaden (forte)",
         "url": "https://open.spotify.com/album/5QGxkAyvsgRiQQw6K04ftz"
       },
@@ -1623,50 +1623,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "House of Glass",
-        "url": "https://open.spotify.com/album/5TrLKsPJImV04vaVsHy8rD"
+        "name": "DAMNUM",
+        "url": "https://open.spotify.com/album/1LbK8xqE3DF6DE9drbwacI"
       },
       "artists": [
         {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+          "name": "Allegaeon",
+          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
         }
       ],
-      "duration_ms": 260383,
-      "name": "House of Glass",
-      "url": "https://open.spotify.com/track/66aHsvy60nqm36rpVf5Nd3"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Pixelate",
-        "url": "https://open.spotify.com/album/5ab3fPnGY6OV34Swm5ffI0"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 190435,
-      "name": "Pixelate",
-      "url": "https://open.spotify.com/track/5ITT2UsqV9R5jRnpUYebcA"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/43pfkcNETmbajTLpxDfyMx"
-      },
-      "artists": [
-        {
-          "name": "Walking Across Jupiter",
-          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Neil",
-      "url": "https://open.spotify.com/track/7wiVnVgNhPICJsAIf8O00A"
+      "duration_ms": 310724,
+      "name": "Vermin",
+      "url": "https://open.spotify.com/track/6FDLIsQnjDx5KvI2586BAh"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1687,6 +1655,38 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/43pfkcNETmbajTLpxDfyMx"
+      },
+      "artists": [
+        {
+          "name": "Walking Across Jupiter",
+          "url": "https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Neil",
+      "url": "https://open.spotify.com/track/7wiVnVgNhPICJsAIf8O00A"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "House of Glass",
+        "url": "https://open.spotify.com/album/5TrLKsPJImV04vaVsHy8rD"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 260383,
+      "name": "House of Glass",
+      "url": "https://open.spotify.com/track/66aHsvy60nqm36rpVf5Nd3"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Rest",
         "url": "https://open.spotify.com/album/5J1F9sJQetwCcdMU6VfEHM"
       },
@@ -1699,22 +1699,6 @@
       "duration_ms": 243017,
       "name": "Rest",
       "url": "https://open.spotify.com/track/4PKGtdh5xf04gf1b5OlXR2"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Save Us",
-        "url": "https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW"
-      },
-      "artists": [
-        {
-          "name": "Evergrey",
-          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
-        }
-      ],
-      "duration_ms": 285586,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1735,6 +1719,22 @@
       "duration_ms": 246500,
       "name": "Gods Way is my Way",
       "url": "https://open.spotify.com/track/5vDwPAcIikEc4g21ndDtVw"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Save Us",
+        "url": "https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW"
+      },
+      "artists": [
+        {
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+        }
+      ],
+      "duration_ms": 285586,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/0zIO29lL9JxZCLhPszt6me"
+      },
+      "artists": [
+        {
+          "name": "ASHEN",
+          "url": "https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/1Uy2ftDSKw3WmS5pEbKPtx"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Reprogram",
         "url": "https://open.spotify.com/album/6VNdkapfDgOF42ZkB3kcRQ"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 231797,
       "name": "Picayune",
       "url": "https://open.spotify.com/track/5JPqKVQvEaSbYjDg56i8UX"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/0zIO29lL9JxZCLhPszt6me"
-      },
-      "artists": [
-        {
-          "name": "ASHEN",
-          "url": "https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/1Uy2ftDSKw3WmS5pEbKPtx"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Curses",
-        "url": "https://open.spotify.com/album/57CxAIvyxBKolsqkFuQjAH"
-      },
-      "artists": [
-        {
-          "name": "I Am Haunted",
-          "url": "https://open.spotify.com/artist/5klz2h3DJuI09eh1BHg6nS"
-        }
-      ],
-      "duration_ms": 208954,
-      "name": "Curses",
-      "url": "https://open.spotify.com/track/0Wjm38BazYve8BfoWX34Im"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Arcus",
         "url": "https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax"
       },
@@ -2115,50 +2099,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/2YDrqbtoNRZPdtWSA7wa38"
+        "name": "Curses",
+        "url": "https://open.spotify.com/album/57CxAIvyxBKolsqkFuQjAH"
       },
       "artists": [
         {
-          "name": "RVNT",
-          "url": "https://open.spotify.com/artist/22KUYijKLi9NjqQvslLNAK"
+          "name": "I Am Haunted",
+          "url": "https://open.spotify.com/artist/5klz2h3DJuI09eh1BHg6nS"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/2QlBlV967zy7AoA4DZoydi"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Artificial Void",
-        "url": "https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 346415,
-      "name": "Avatar",
-      "url": "https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Escapades",
-        "url": "https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo"
-      },
-      "artists": [
-        {
-          "name": "The Omnific",
-          "url": "https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR"
-        }
-      ],
-      "duration_ms": 342506,
-      "name": "Ne Plus Ultra",
-      "url": "https://open.spotify.com/track/7jZbzsR5oLAa1fJVeBufox"
+      "duration_ms": 208954,
+      "name": "Curses",
+      "url": "https://open.spotify.com/track/0Wjm38BazYve8BfoWX34Im"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2183,18 +2135,50 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Zoro Kokonotsu No Yaiba (From \"One Piece\")",
-        "url": "https://open.spotify.com/album/7IYQjOr9PKX8axdmoJgwc8"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2YDrqbtoNRZPdtWSA7wa38"
       },
       "artists": [
         {
-          "name": "Gabriele Motta",
-          "url": "https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ"
+          "name": "RVNT",
+          "url": "https://open.spotify.com/artist/22KUYijKLi9NjqQvslLNAK"
         }
       ],
-      "duration_ms": 119076,
-      "name": "Zoro Kokonotsu No Yaiba - From \"One Piece\"",
-      "url": "https://open.spotify.com/track/32P1WGuqcMRjYwafyuWJnS"
+      "duration_ms": 228000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2QlBlV967zy7AoA4DZoydi"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Escapades",
+        "url": "https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo"
+      },
+      "artists": [
+        {
+          "name": "The Omnific",
+          "url": "https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR"
+        }
+      ],
+      "duration_ms": 342506,
+      "name": "Ne Plus Ultra",
+      "url": "https://open.spotify.com/track/7jZbzsR5oLAa1fJVeBufox"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Artificial Void",
+        "url": "https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 346415,
+      "name": "Avatar",
+      "url": "https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2211,6 +2195,22 @@
       "duration_ms": 219737,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0MhMeOy3Rq1LkaB7puQRRp"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Zoro Kokonotsu No Yaiba (From \"One Piece\")",
+        "url": "https://open.spotify.com/album/7IYQjOr9PKX8axdmoJgwc8"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Motta",
+          "url": "https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ"
+        }
+      ],
+      "duration_ms": 119076,
+      "name": "Zoro Kokonotsu No Yaiba - From \"One Piece\"",
+      "url": "https://open.spotify.com/track/32P1WGuqcMRjYwafyuWJnS"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Apex",
-        "url": "https://open.spotify.com/album/4zim0xEXs4qma90rRl6dnn"
-      },
-      "artists": [
-        {
-          "name": "Mycelia",
-          "url": "https://open.spotify.com/artist/08vNN31sWBehxdwHOLpf48"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Eight Milligrams",
-      "url": "https://open.spotify.com/track/25rY5RVLYvQxe924Ej1xSp"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Paragon",
         "url": "https://open.spotify.com/album/4TLl1j6ojm8pTMRucMVVqT"
       },
@@ -2487,6 +2471,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Apex",
+        "url": "https://open.spotify.com/album/4zim0xEXs4qma90rRl6dnn"
+      },
+      "artists": [
+        {
+          "name": "Mycelia",
+          "url": "https://open.spotify.com/artist/08vNN31sWBehxdwHOLpf48"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Eight Milligrams",
+      "url": "https://open.spotify.com/track/25rY5RVLYvQxe924Ej1xSp"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Paradox",
         "url": "https://open.spotify.com/album/5xFeSK8J6lfeasHsBQsoMY"
       },
@@ -2499,6 +2499,26 @@
       "duration_ms": 365571,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/1ROfYhP82KdoGemAD026Sj"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/6vydOYFChvEWsa9SgYdCrU"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        },
+        {
+          "name": "Vincent Schmitz",
+          "url": "https://open.spotify.com/artist/5GQ5RVVNOw8XqUN9xOwDef"
+        }
+      ],
+      "duration_ms": 207176,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/1tamD4SIIH3yyiRihgd24a"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2535,22 +2555,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/6vydOYFChvEWsa9SgYdCrU"
+        "name": "Everything Sucks and I Think I'm a Big Part of It",
+        "url": "https://open.spotify.com/album/4Y3QeJZDThwEXt057VZmqw"
       },
       "artists": [
         {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        },
-        {
-          "name": "Vincent Schmitz",
-          "url": "https://open.spotify.com/artist/5GQ5RVVNOw8XqUN9xOwDef"
+          "name": "Destrage",
+          "url": "https://open.spotify.com/artist/4aOJwHpU6TcuhC4QKNn8MS"
         }
       ],
-      "duration_ms": 207176,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/1tamD4SIIH3yyiRihgd24a"
+      "duration_ms": 258680,
+      "name": "Everything Sucks and I Think I'm a Big Part of It",
+      "url": "https://open.spotify.com/track/4J1AWHqM14RphuStdjljcy"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2567,22 +2583,6 @@
       "duration_ms": 246720,
       "name": "The Modern Rage",
       "url": "https://open.spotify.com/track/7DctyL6bo2ourw7PeAD72S"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Everything Sucks and I Think I'm a Big Part of It",
-        "url": "https://open.spotify.com/album/4Y3QeJZDThwEXt057VZmqw"
-      },
-      "artists": [
-        {
-          "name": "Destrage",
-          "url": "https://open.spotify.com/artist/4aOJwHpU6TcuhC4QKNn8MS"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "Everything Sucks and I Think I'm a Big Part of It",
-      "url": "https://open.spotify.com/track/4J1AWHqM14RphuStdjljcy"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Different Kinds of Losses",
-        "url": "https://open.spotify.com/album/0MvqWh7ClKxsWSndsSpEni"
-      },
-      "artists": [
-        {
-          "name": "Rioghan",
-          "url": "https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw"
-        }
-      ],
-      "duration_ms": 364895,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/6suhC134iU9dsegUGIngx6"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Blind Lead the Blind",
         "url": "https://open.spotify.com/album/2V7CF3U5UTrmbB6AoZOEiW"
       },
@@ -2667,18 +2651,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Final Tale",
-        "url": "https://open.spotify.com/album/674JZuzPnJtJ7JjN04GZEo"
+        "name": "Different Kinds of Losses",
+        "url": "https://open.spotify.com/album/0MvqWh7ClKxsWSndsSpEni"
       },
       "artists": [
         {
-          "name": "Ghost Iris",
-          "url": "https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka"
+          "name": "Rioghan",
+          "url": "https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw"
         }
       ],
-      "duration_ms": 226320,
-      "name": "Final Tale",
-      "url": "https://open.spotify.com/track/4MWWBvlwxNE6mZ58u3hScY"
+      "duration_ms": 364895,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/6suhC134iU9dsegUGIngx6"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2699,6 +2683,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Final Tale",
+        "url": "https://open.spotify.com/album/674JZuzPnJtJ7JjN04GZEo"
+      },
+      "artists": [
+        {
+          "name": "Ghost Iris",
+          "url": "https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "Final Tale",
+      "url": "https://open.spotify.com/track/4MWWBvlwxNE6mZ58u3hScY"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Skylla",
         "url": "https://open.spotify.com/album/2mmTwMMc5IPDfAziKQoYwQ"
       },
@@ -2711,6 +2711,22 @@
       "duration_ms": 258214,
       "name": "Skylla",
       "url": "https://open.spotify.com/track/5rsJEHEMaEerw1uNH1FksB"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Lie",
+        "url": "https://open.spotify.com/album/1qKCuTTwzdCZnKKwo5hqP7"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        }
+      ],
+      "duration_ms": 197134,
+      "name": "The Lie",
+      "url": "https://open.spotify.com/track/4CJcbhNcSiuRsgbw2bubCB"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2747,22 +2763,6 @@
       "duration_ms": 272360,
       "name": "Katabasis",
       "url": "https://open.spotify.com/track/4AQSYo9ooWD3aHWBxAB8Yv"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "The Lie",
-        "url": "https://open.spotify.com/album/1qKCuTTwzdCZnKKwo5hqP7"
-      },
-      "artists": [
-        {
-          "name": "ONI",
-          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
-        }
-      ],
-      "duration_ms": 197134,
-      "name": "The Lie",
-      "url": "https://open.spotify.com/track/4CJcbhNcSiuRsgbw2bubCB"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2863,22 +2863,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Against All Odds",
-        "url": "https://open.spotify.com/album/2mBtsWW7nAgy5jUJDnayTf"
-      },
-      "artists": [
-        {
-          "name": "Prospective",
-          "url": "https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Against All Odds",
-      "url": "https://open.spotify.com/track/5FiRXKrXSDYyhXbPeimIPL"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Ghost Pains",
         "url": "https://open.spotify.com/album/1K675PF4REEeBp5eGstXWA"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 259875,
       "name": "Ghost Pains",
       "url": "https://open.spotify.com/track/1fxIQuoSAEXeRuddsuroMr"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Against All Odds",
+        "url": "https://open.spotify.com/album/2mBtsWW7nAgy5jUJDnayTf"
+      },
+      "artists": [
+        {
+          "name": "Prospective",
+          "url": "https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/5FiRXKrXSDYyhXbPeimIPL"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2959,38 +2959,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Dissonance",
-        "url": "https://open.spotify.com/album/21JBvvner2uMhhsufWMQ8v"
-      },
-      "artists": [
-        {
-          "name": "Deceptic",
-          "url": "https://open.spotify.com/artist/71waPeZf36tWy5Ha4PLupX"
-        }
-      ],
-      "duration_ms": 222989,
-      "name": "Dissonance",
-      "url": "https://open.spotify.com/track/3VTipthZvRfTC2KQhJUi5q"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Towards The Sun",
-        "url": "https://open.spotify.com/album/2ZNCXlSWQMQOGVeiybemmX"
-      },
-      "artists": [
-        {
-          "name": "BillyTheBard11th",
-          "url": "https://open.spotify.com/artist/1NWS9zltQ2PT5YXsAbQVLE"
-        }
-      ],
-      "duration_ms": 182752,
-      "name": "Flooded Ruins",
-      "url": "https://open.spotify.com/track/1YBJlczQBTidHtijtqppv1"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Sardonyx",
         "url": "https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort"
       },
@@ -3011,6 +2979,38 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Towards The Sun",
+        "url": "https://open.spotify.com/album/2ZNCXlSWQMQOGVeiybemmX"
+      },
+      "artists": [
+        {
+          "name": "BillyTheBard11th",
+          "url": "https://open.spotify.com/artist/1NWS9zltQ2PT5YXsAbQVLE"
+        }
+      ],
+      "duration_ms": 182752,
+      "name": "Flooded Ruins",
+      "url": "https://open.spotify.com/track/1YBJlczQBTidHtijtqppv1"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Dissonance",
+        "url": "https://open.spotify.com/album/21JBvvner2uMhhsufWMQ8v"
+      },
+      "artists": [
+        {
+          "name": "Deceptic",
+          "url": "https://open.spotify.com/artist/71waPeZf36tWy5Ha4PLupX"
+        }
+      ],
+      "duration_ms": 222989,
+      "name": "Dissonance",
+      "url": "https://open.spotify.com/track/3VTipthZvRfTC2KQhJUi5q"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Mind Lapse",
         "url": "https://open.spotify.com/album/5lAeQk1q1WU8dyJXcQUwvB"
       },
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Demeter",
-        "url": "https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp"
-      },
-      "artists": [
-        {
-          "name": "Indigo Storm",
-          "url": "https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Right In Front of Me",
-      "url": "https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Radiant Bloom",
         "url": "https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 324160,
       "name": "Human",
       "url": "https://open.spotify.com/track/1Oketc8Fgr7OZD8fvOigxC"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Demeter",
+        "url": "https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp"
+      },
+      "artists": [
+        {
+          "name": "Indigo Storm",
+          "url": "https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Right In Front of Me",
+      "url": "https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -3131,22 +3131,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Head Mounted Sideways (Live From The Pool)",
-        "url": "https://open.spotify.com/album/7f0FMxMSGA29AFeqGI678l"
-      },
-      "artists": [
-        {
-          "name": "VOLA",
-          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
-        }
-      ],
-      "duration_ms": 345480,
-      "name": "Head Mounted Sideways - Live From The Pool",
-      "url": "https://open.spotify.com/track/4FQTC43CEgeZpZfrsYkGAE"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Turned",
         "url": "https://open.spotify.com/album/4S61VNyGoPh1bwqk5Im0jH"
       },
@@ -3159,6 +3143,22 @@
       "duration_ms": 219666,
       "name": "Turned",
       "url": "https://open.spotify.com/track/00CTRQJyxO0inKmGou2UEo"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Head Mounted Sideways (Live From The Pool)",
+        "url": "https://open.spotify.com/album/7f0FMxMSGA29AFeqGI678l"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        }
+      ],
+      "duration_ms": 345480,
+      "name": "Head Mounted Sideways - Live From The Pool",
+      "url": "https://open.spotify.com/track/4FQTC43CEgeZpZfrsYkGAE"
     },
     {
       "added_at": "2023-02-24 05:00:00",

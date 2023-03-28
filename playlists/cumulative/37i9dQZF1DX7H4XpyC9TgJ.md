@@ -4,7 +4,7 @@
 
 > Are you ready to FACE Jimin? 💜
 
-18 songs - 44 min 16 sec
+21 songs - 54 min 20 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,10 @@
 | [Jimin's Message to ARMY \- Set Me Free Pt.2](https://open.spotify.com/track/3cz0CnRD14qlRoHgdFswxK) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Jimin's Message to ARMY Audio Liners](https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV) | 0:16 | 2023-03-24 |  |
 | [Lie](https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:35 | 2023-03-24 |  |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-24 |  |
+| [Like Crazy \(Deep House Remix\)](https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Like Crazy \(Remixes\)](https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2) | 3:00 | 2023-03-27 |  |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-24 |  |
+| [Like Crazy \(Instrumental\)](https://open.spotify.com/track/0cxhv3PpIkmREXqobuB0zG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Like Crazy \(Remixes\)](https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2) | 3:32 | 2023-03-27 |  |
+| [Like Crazy \(UK Garage Remix\)](https://open.spotify.com/track/5tDxLjAnkojfnXnjOk6mvh) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Like Crazy \(Remixes\)](https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2) | 3:30 | 2023-03-27 |  |
 | [Outro Message from Jimin](https://open.spotify.com/track/1uCSqZZIan266XTbkmTCCV) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Jimin's Message to ARMY Audio Liners](https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV) | 0:05 | 2023-03-24 |  |
 | [Promise](https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Promise](https://open.spotify.com/album/7zugzVgHDiDlcwvsLxz43A) | 2:31 | 2023-03-24 |  |
 | [Serendipity \- Full Length Edition](https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:36 | 2023-03-24 |  |

@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Devon Gilfillian
 
-218 songs - 13 hr 0 min
+219 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Endless Afternoon](https://open.spotify.com/track/43qnFgYuN5YMfLoghgTVws) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/5Cx0Q4bHaAxNZ7xKaNYmuJ) | 4:35 | 2022-06-01 | 2022-07-29 |
 | [Every Night](https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo) | [Walker Lukens](https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4) | [Every Night](https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS) | 2:54 | 2021-10-01 | 2022-10-16 |
 | [Everyday](https://open.spotify.com/track/7hIYbL6zpb1nF8pfrIpBmB) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [Everyday](https://open.spotify.com/album/00l30ofA09sEhZtnlCRNdv) | 3:24 | 2021-10-01 | 2022-07-29 |
-| [Fever](https://open.spotify.com/track/4VvGTLSffmfxIQk1GkccST) | [The Jaws of Brooklyn](https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP) | [The Shoals](https://open.spotify.com/album/3rCqGDpEJVKz0pYZDabBIj) | 3:15 | 2022-08-02 |  |
+| [Fever](https://open.spotify.com/track/4VvGTLSffmfxIQk1GkccST) | [The Jaws of Brooklyn](https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP) | [The Shoals](https://open.spotify.com/album/3rCqGDpEJVKz0pYZDabBIj) | 3:15 | 2022-08-02 | 2023-03-28 |
 | [Fine and Mellow](https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [My Dearest Darkest Neighbor](https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9) | 3:37 | 2021-10-01 | 2022-07-01 |
 | [Fine to Me](https://open.spotify.com/track/5zMxWgi2SJ8NMDj7J6WqSX) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Fine to Me](https://open.spotify.com/album/7m1gJq3SBJHvpw50OeyKps) | 3:58 | 2021-10-01 |  |
 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 | 2021-10-01 |  |
@@ -201,6 +201,7 @@
 | [Sugaree](https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED), [Friends](https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:59 | 2022-06-01 |  |
 | [Summer Sun](https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [All My Shades Of Blue](https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ) | 3:21 | 2021-10-01 | 2023-02-27 |
 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 | 2021-10-01 |  |
+| [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-24 |  |
 | [Tell the Falling Sun](https://open.spotify.com/track/247qxelzjSgKDWINzRJ7Pf) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 4:00 | 2021-10-01 | 2022-07-28 |
 | [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 | 2022-06-01 |  |
 | [The Ballad of Johnny Steel](https://open.spotify.com/track/0WNnCTRREQ8wFNoI1vQHch) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 2:53 | 2021-10-01 | 2022-07-29 |

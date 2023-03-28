@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,664 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,688 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [I Wish You Were Here](https://open.spotify.com/track/078MAirupKl43OeGplw8aW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 4:21 |
 | 50 | [Jimmy Collins' Wake](https://open.spotify.com/track/3YmC2Q6kZ4jIrSlxRDEFLZ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 2:59 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDAwYzljMzUyYTBmNDkxMWNkNDliYzk4MjQxODI2NDMzOQ==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDAxODg1ZjYxMTYzZDIzYWM1MTJkYmE4YjQ0OTcyZjM1Mw==`

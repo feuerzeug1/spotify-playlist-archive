@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,974 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,990 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 2 | [Mi Meta Contigo](https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:08 |
 | 3 | [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
 | 4 | [Indeleble](https://open.spotify.com/track/7zG3VQz6zBRYoIb5kV6gST) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 3:07 |
-| 5 | [Prometo](https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Prometo](https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D) | 3:21 |
+| 5 | [Cuánto A Que Te Olvido](https://open.spotify.com/track/1oQaNAOQa1gdHpbHxxugSd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:23 |
 | 6 | [En Vida](https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 2:25 |
-| 7 | [Cuánto A Que Te Olvido](https://open.spotify.com/track/1oQaNAOQa1gdHpbHxxugSd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:23 |
+| 7 | [Prometo](https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Prometo](https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D) | 3:21 |
 | 8 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 |
 | 9 | [Dentro De Tu Corazón](https://open.spotify.com/track/4oJRZ1TI7S89tnDYZU2y9P) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:17 |
 | 10 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/0WwP5kBrbmp3Or469SbSwR) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:39 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 32 | [Pa' Qué Son Pasiones](https://open.spotify.com/track/1g8OBHnpZeQI1yoyJrjWQ2) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pa' Qué Son Pasiones](https://open.spotify.com/album/3ghUPKQkDQ0ZjNTePotJDj) | 2:50 |
 | 33 | [La Idea](https://open.spotify.com/track/0m8zn0rPVukkX2tQWEHoWz) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/6hoLNlNN1dOq5Fl6dmOQ57) | 2:56 |
 | 34 | [La Persona Perfecta](https://open.spotify.com/track/278nH9m4i4Zp4hgRv7dYuh) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:08 |
-| 35 | [Debí](https://open.spotify.com/track/3dPqITmMgFYgmeHgn45kjt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [¡Ay Dolor!](https://open.spotify.com/album/5DHROQu03oTApPdCy3375A) | 3:12 |
-| 36 | [Olvidarte No Es Lo Mío](https://open.spotify.com/track/7eHM7vCmPlBYjcjHnWgFy4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:02 |
+| 35 | [Olvidarte No Es Lo Mío](https://open.spotify.com/track/7eHM7vCmPlBYjcjHnWgFy4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:02 |
+| 36 | [Debí](https://open.spotify.com/track/3dPqITmMgFYgmeHgn45kjt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [¡Ay Dolor!](https://open.spotify.com/album/5DHROQu03oTApPdCy3375A) | 3:12 |
 | 37 | [Sin Miedo Al Éxito](https://open.spotify.com/track/21YeNeTRlPnYgKvdLYFs2C) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/5Wfvg8DIqTcq7LcoG92dZh) | 2:12 |
 | 38 | [Su Ex](https://open.spotify.com/track/5iOBVp8GOUNi7McqMkkP0e) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Su Ex](https://open.spotify.com/album/2t5OkH8EsSABpNopumZDHs) | 2:56 |
 | 39 | [Y Sólo Tú](https://open.spotify.com/track/4dgaCpg0k6iNUh1UUDvKay) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:47 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 50 | [Chuyito Y El Mayo](https://open.spotify.com/track/7qij8ekUUYngWL9vh9jrOW) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:18 |
 | 51 | [A Través Del Vaso](https://open.spotify.com/track/0W8rADAiBVT14LcWmYrct0) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5K8Gihi37TnPa2SyfPbggP) | 3:00 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDBiMTA1YTEwNThlMDU1OTdkNGIxN2EyZTA4MmM0YTJjNg==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDA3Mzk0YTFiMTRhOWM0ODNiYzVjN2VhNzdhMTEzYzQ4ZA==`

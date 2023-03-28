@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-779 songs - 1 day 19 hr 4 min
+780 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-10-13 | 2021-11-07 |
 | [Lift Me Up](https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:16 | 2022-11-12 | 2022-11-28 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-29 | 2022-11-13 |
+| [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-27 |  |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-25 | 2023-03-27 |
 | [Lingerie](https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Lingerie](https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0) | 3:34 | 2022-10-19 | 2022-10-23 |
 | [Lisabona](https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F) | [Plutónio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Lisabona](https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN) | 3:12 | 2021-03-27\* | 2021-05-16 |
@@ -710,7 +711,7 @@
 | [Tinoni](https://open.spotify.com/track/3x3vUHznzPNEbXTJBUkhZb) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 2:32 | 2021-03-27\* | 2021-04-26 |
 | [Tipo Gin \- Ao Vivo](https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Todo Mundo Ama O Chris \(Ao Vivo\)](https://open.spotify.com/album/5bISzaxE6WVsJjQj2BpWTX) | 2:39 | 2021-04-30 | 2022-01-04 |
 | [Tirar Bilhete](https://open.spotify.com/track/3lq7iyMDvegqcMcSi3qAlI) | [Plutónio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Tirar Bilhete](https://open.spotify.com/album/1LARFxMfvrS6hr8F2sA3uG) | 3:05 | 2021-12-29 | 2021-12-31 |
-| [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-08-14 |  |
+| [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-08-14 | 2023-03-28 |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-23 |
 | [TO THE MOON](https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TO THE MOON](https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt) | 2:32 | 2022-01-18 | 2022-01-21 |
 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 | 2022-01-29 | 2022-03-04 |

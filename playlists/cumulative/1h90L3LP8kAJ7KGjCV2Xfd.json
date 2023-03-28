@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/1kKazJ5YxsH7iV351nvXfs"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202110,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/1HuujiW4Juu0OcxvueBY2E"
+    },
+    {
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
       },

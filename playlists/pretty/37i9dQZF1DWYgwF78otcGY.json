@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMDVmN2Q2N2EzOTVkNTkwNDU1ODE0N2MwYmMwODM1M2Zj",
+  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMDIyNTYxNjAwOTUzNzc0ZTRkYzRhOTcyYTQ5MjdmNzUx",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "As I Lay Me Down",
         "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 182773,
       "name": "H\u00e5ll om mig",
       "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "R\u00f6k 'n Roll",
-        "url": "https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc"
-      },
-      "artists": [
-        {
-          "name": "Brandsta City Sl\u00e4ckers",
-          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Kom och ta mig",
-      "url": "https://open.spotify.com/track/3NVIuvSnsjBMWR8RCXQbHi"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Bada Nakna",
         "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 191047,
       "name": "Bada nakna",
       "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "R\u00f6k 'n Roll",
+        "url": "https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc"
+      },
+      "artists": [
+        {
+          "name": "Brandsta City Sl\u00e4ckers",
+          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Kom och ta mig",
+      "url": "https://open.spotify.com/track/3NVIuvSnsjBMWR8RCXQbHi"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
-      },
-      "artists": [
-        {
-          "name": "Janne Lucas",
-          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "V\u00e4xeln hall\u00e5",
-      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Dance You Off",
         "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 182134,
       "name": "Dance You Off",
       "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+      },
+      "artists": [
+        {
+          "name": "Janne Lucas",
+          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "V\u00e4xeln hall\u00e5",
+      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Live Forever - The Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
+        "name": "Busy Doin' Nothin'",
+        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
       },
       "artists": [
         {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+          "name": "Ace Wilder",
+          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
         }
       ],
-      "duration_ms": 182626,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
+      "duration_ms": 173346,
+      "name": "Busy Doin' Nothin'",
+      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Busy Doin' Nothin'",
-        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
+        "name": "Live Forever - The Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
       },
       "artists": [
         {
-          "name": "Ace Wilder",
-          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
         }
       ],
-      "duration_ms": 173346,
-      "name": "Busy Doin' Nothin'",
-      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+      "duration_ms": 182626,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
     }
   ],
   "unique_name": "Schlagerfest",

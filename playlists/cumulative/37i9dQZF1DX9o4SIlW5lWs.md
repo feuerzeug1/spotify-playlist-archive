@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-301 songs - 17 hr 19 min
+302 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Detente](https://open.spotify.com/track/0WrzoYSsOWbQ3b4ZFiD21m) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg) | [Detente](https://open.spotify.com/album/0G2y3AhSTSVYaQZbCz8yBi) | 3:05 | 2022-04-08 | 2022-05-20 |
 | [Dile](https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Dile](https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9) | 2:55 | 2022-12-16 |  |
 | [Dile Tu \- En Vivo](https://open.spotify.com/track/20mrMuyFD9lP8gTpuIKkxy) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Éxitos de Siempre \(En Vivo\)](https://open.spotify.com/album/5CprFOLiFLLU2EDC3BOUB6) | 2:00 | 2022-01-21 | 2022-07-12 |
-| [Donde Estas](https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg) | 2:34 | 2023-01-06 |  |
+| [Donde Estas](https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg) | 2:34 | 2023-01-06 | 2023-03-28 |
 | [Donde Estas](https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT) | 2:37 | 2022-02-18 | 2022-09-18 |
 | [Donde Estas](https://open.spotify.com/track/3yc2mUwr91MyZDkq98pVLQ) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Donde Estas](https://open.spotify.com/album/2josnzGzDa3cSeWJndXVEj) | 2:55 | 2022-01-21 | 2022-06-17 |
 | [Duele](https://open.spotify.com/track/0uphJWk7TaEOMVYirZnulQ) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Momentos II](https://open.spotify.com/album/05IbVYCdIMsr9KU7Z0ZVhB) | 3:00 | 2022-12-24 | 2023-01-06 |
@@ -251,6 +251,7 @@
 | [Te Extraño :\(](https://open.spotify.com/track/5Lg7nUobqmANgJAnb8XHWo) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Te Extraño :\(](https://open.spotify.com/album/7sRJzszfNpe3RjjTgNovwZ) | 2:45 | 2022-04-01 | 2022-05-23 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 | 2022-01-14 |  |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/7x0Y9NVem9mV0Ly4DDf5G2) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Te Juro Que Te Amo](https://open.spotify.com/album/2HfZ9Nip6khFvSEeodwOtf) | 3:45 | 2022-07-22 | 2022-08-13 |
+| [Te sorprenderás / Hasta el sol de hoy \- Live Session](https://open.spotify.com/track/4FpsFwMMjiHgyx8xjpgzN7) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Te sorprenderas / Hasta el sol de hoy \(Live Session\)](https://open.spotify.com/album/0DkqXH8VLBX0HaonaiXCCt) | 2:51 | 2023-03-27 |  |
 | [Te Vas](https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH) | 3:49 | 2022-01-14 | 2022-07-29 |
 | [Te Vas](https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe) | 3:54 | 2022-07-22 |  |
 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 | 2022-01-14 |  |

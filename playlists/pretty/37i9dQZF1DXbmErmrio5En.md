@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: Riovaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,162 likes - 95 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,285 likes - 95 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

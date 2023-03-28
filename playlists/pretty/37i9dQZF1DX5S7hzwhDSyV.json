@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 68847,
+  "num_followers": 68977,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ4OTQxOSwwMDAwMDAwMGNjZmE5NGE3ZjJkODI3N2FkZWVkNGFkMDg3Njk3ZDg0",
+  "snapshot_id": "MTY3OTQ4OTQxOSwwMDAwMDAwMDE3NGVlMTQ2MjU5MmNlNmM2MTIxZWZkZTdmZWU3ZGQ2",
   "tracks": [
     {
       "added_at": "2023-03-22 12:50:19",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
         "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 321026,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -311,8 +311,8 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
       },
       "artists": [
         {
@@ -320,9 +320,73 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 477760,
-      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
+      "duration_ms": 824133,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/3ZikLQCnH3SIswlGENBcKe"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "Cookin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/50J57uCvPub0yK2kjkfC9J"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 360826,
+      "name": "My Funny Valentine - Rudy Van Gelder Remaster 2007",
+      "url": "https://open.spotify.com/track/4Ti7XXjHWi4P3ygJ1GAZMn"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "A Jazz Portrait Of Frank Sinatra",
+        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "The Magnificent Thad Jones (Remastered)",
+        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
+      },
+      "artists": [
+        {
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
+        }
+      ],
+      "duration_ms": 403360,
+      "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "Jazz Masters",
+        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -359,70 +423,6 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "The Magnificent Thad Jones (Remastered)",
-        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
-      },
-      "artists": [
-        {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
-        }
-      ],
-      "duration_ms": 403360,
-      "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
-        "name": "A Jazz Portrait Of Frank Sinatra",
-        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
-        "name": "Cookin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/50J57uCvPub0yK2kjkfC9J"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 360826,
-      "name": "My Funny Valentine - Rudy Van Gelder Remaster 2007",
-      "url": "https://open.spotify.com/track/4Ti7XXjHWi4P3ygJ1GAZMn"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
-        "name": "Jazz Masters",
-        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
         "name": "Kelly Blue (Keepnews Collection)",
         "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 393000,
       "name": "Softly As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
-        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
-        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/6c43P6dajhlC62yCOxkWKf"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
+        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
+        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         }
       ],
-      "duration_ms": 824133,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/3ZikLQCnH3SIswlGENBcKe"
+      "duration_ms": 194173,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/6c43P6dajhlC62yCOxkWKf"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 403826,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
         "name": "In a Sentimental Mood",
         "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 191293,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 403826,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -687,6 +671,38 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
+        "name": "Moon Beams [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 365666,
+      "name": "It Might As Well Be Spring",
+      "url": "https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 352146,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/6s5Ush55ZistjzNAbbIpoL"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
-        "name": "Moon Beams [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 365666,
-      "name": "It Might As Well Be Spring",
-      "url": "https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 213720,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
+        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
+        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
         "name": "Chet (Keepnews Collection)",
         "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
       },
@@ -879,22 +899,18 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
-        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+        "name": "Coltrane's Sound",
+        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
+      "duration_ms": 411293,
+      "name": "The Night Has a Thousand Eyes",
+      "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -919,18 +935,18 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Coltrane's Sound",
-        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
         }
       ],
-      "duration_ms": 411293,
-      "name": "The Night Has a Thousand Eyes",
-      "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
+      "duration_ms": 390666,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -963,22 +979,6 @@
       "duration_ms": 406066,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+        "name": "Everybody Still Digs Bill Evans",
+        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 199573,
-      "name": "I Can't Give You Anything But Love",
-      "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
+      "duration_ms": 454186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -1215,22 +1211,6 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Everybody Still Digs Bill Evans",
-        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 454186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
       },
@@ -1247,18 +1227,22 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 837813,
-      "name": "Lush Life - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
+      "duration_ms": 199573,
+      "name": "I Can't Give You Anything But Love",
+      "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 837813,
+      "name": "Lush Life - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
         "name": "Introducing Nat Adderley",
         "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 267560,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -1323,22 +1339,6 @@
       "duration_ms": 322960,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Nancy Wilson/Cannonball Adderley",
-        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs"
-        }
-      ],
-      "duration_ms": 297533,
-      "name": "I Can't Get Started - Instrumental",
-      "url": "https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
         "name": "Cannonball Adderley Quintet In Chicago",
         "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
       },
@@ -1567,6 +1547,42 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Can't We Be Friends - Remastered",
+      "url": "https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
+        "name": "Nancy Wilson/Cannonball Adderley",
+        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs"
+        }
+      ],
+      "duration_ms": 297533,
+      "name": "I Can't Get Started - Instrumental",
+      "url": "https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De"
+    },
+    {
+      "added_at": "2023-03-22 12:50:19",
+      "album": {
         "name": "Dizzy 100",
         "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 300077,
       "name": "Exactly Like You",
       "url": "https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf"
-    },
-    {
-      "added_at": "2023-03-22 12:50:19",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Can't We Be Friends - Remastered",
-      "url": "https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB"
     },
     {
       "added_at": "2023-03-22 12:50:19",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2023-03-22 12:50:19",
       "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+        "name": "Take Five: Jazz Classics",
+        "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Teddy Wilson Trio",
+          "url": "https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7"
         }
       ],
-      "duration_ms": 457560,
-      "name": "Love For Sale - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0"
+      "duration_ms": 185293,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
     }
   ],
   "unique_name": "Instrumental Jazz Standards",

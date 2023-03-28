@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,334 likes - 146 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,336 likes - 146 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 48 | [Sad Songs In The Summer](https://open.spotify.com/track/1MijKOgtIl3uK70qYrZnoy) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [It Was A Sad Fucking Summer](https://open.spotify.com/album/3E3BHUrEHQodei0Mtwjtmi) | 2:58 |
 | 49 | [Work It Out \(feat\. Digital Farm Animals\)](https://open.spotify.com/track/2Zh7PQ1JFEsBclf7WIsfIV) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [3](https://open.spotify.com/album/5RpkF55XZzzpWO0CnqcWw8) | 3:18 |
 | 50 | [Dancing Next To Me](https://open.spotify.com/track/2VAanTPaOihruBcIsoQT1Z) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Dancing Next To Me](https://open.spotify.com/album/7iENJztCzQ9a4xsBPC0IiH) | 2:50 |
-| 51 | [Liberated](https://open.spotify.com/track/5OQByVDbs9788HBRIBqgNW) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Liberated](https://open.spotify.com/album/18fTRuJJDlbhrl2SREyuJA) | 3:19 |
-| 52 | [Last Call](https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Last Call](https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD) | 2:54 |
+| 51 | [Last Call](https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Last Call](https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD) | 2:54 |
+| 52 | [Liberated](https://open.spotify.com/track/5OQByVDbs9788HBRIBqgNW) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Liberated](https://open.spotify.com/album/18fTRuJJDlbhrl2SREyuJA) | 3:19 |
 | 53 | [We Lied To Each Other](https://open.spotify.com/track/6QWDugB33Mqc4v0Q0IlCbF) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Was It Even Real?](https://open.spotify.com/album/6UNHnZrpLH56Bk5okVGlI2) | 3:35 |
 | 54 | [Vampire](https://open.spotify.com/track/56WkfBKWfbvauMgeK8nivR) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/7Gq6sRRezEa7QKpX4oXVjr) | 3:34 |
 | 55 | [Machine](https://open.spotify.com/track/4hGBLGIu8Gbqs6C0gqVEb1) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 4:07 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 145 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 146 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc5OTc5MjcsMDAwMDAwMDAyN2UwY2M3YmEzYzYwMWNjN2FiZTE3ZGQyODBlMmIzNg==`
+Snapshot ID: `Mjc5OTkzNjcsMDAwMDAwMDA3YjM0ZjQzM2MyY2I0MjMzMWFhMzAwMzFiOGNiZTc5Mw==`

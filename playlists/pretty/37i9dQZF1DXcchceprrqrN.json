@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 29036,
+  "num_followers": 29205,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA3ODM1MCwwMDAwMDAwMGJiYWIxNGIxODRlZWVmYzczNGI0YzIyZWJiNDA4YTZl",
+  "snapshot_id": "MTY3OTA3ODM1MCwwMDAwMDAwMDlmYTdkYjYxZjk1YTZkMzVmMjc0ZjJlYmQyNTZiNDdk",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn"
     },
     {
-      "added_at": "2023-03-17 18:39:10",
-      "album": {
-        "name": "Applause",
-        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
-      },
-      "artists": [
-        {
-          "name": "Liily",
-          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Paramore",
@@ -431,6 +415,22 @@
       "duration_ms": 222693,
       "name": "Fast in My Car",
       "url": "https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK"
+    },
+    {
+      "added_at": "2023-03-17 18:39:10",
+      "album": {
+        "name": "Applause",
+        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
+      },
+      "artists": [
+        {
+          "name": "Liily",
+          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Any Shape You Take",
         "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 260355,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
     },
     {
       "added_at": "2023-01-13 05:00:00",

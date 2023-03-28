@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Kim Suyoung(\uae40\uc218\uc601)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: ADYNE) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 216124,
       "name": "Cue Sign",
       "url": "https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 236413,
       "name": "Glass",
       "url": "https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu"
@@ -3916,7 +3916,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 222999,
       "name": "I Know Where The Rainbow has Fallen",
       "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
@@ -4890,7 +4890,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 226559,
       "name": "Let's Meet In Spring",
       "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
@@ -6050,7 +6050,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 205161,
       "name": "naps!",
       "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
@@ -7626,7 +7626,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 214800,
       "name": "Seoul City - Spotify Singles",
       "url": "https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx"
@@ -7792,6 +7792,24 @@
       "duration_ms": 206091,
       "name": "Sins",
       "url": "https://open.spotify.com/track/5nStARhedIpOobuno0xhGW"
+    },
+    {
+      "album": {
+        "name": "Sketch",
+        "url": "https://open.spotify.com/album/6ggGiZQHxDZrTarX59E142"
+      },
+      "artists": [
+        {
+          "name": "ADYNE",
+          "url": "https://open.spotify.com/artist/67h4m3goe8wwHDXBSuOlG4"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Sketch",
+      "url": "https://open.spotify.com/track/3tJAKYkit1NVqLc3rPHFLt"
     },
     {
       "album": {
@@ -8468,6 +8486,24 @@
       "duration_ms": 200000,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB"
+    },
+    {
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181046,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp"
     },
     {
       "album": {
@@ -9248,7 +9284,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 293413,
       "name": "Under the Sea",
       "url": "https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk"
@@ -9504,7 +9540,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 255013,
       "name": "Wandering",
       "url": "https://open.spotify.com/track/2qDoBvu7ro7yTB2K6xGyZK"

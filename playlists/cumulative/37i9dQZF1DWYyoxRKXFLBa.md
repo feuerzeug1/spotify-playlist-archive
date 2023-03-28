@@ -4,7 +4,7 @@
 
 > Puras morras rifadas\. ¡Súbele al volumen! En portada: Ivana
 
-60 songs - 3 hr 24 min
+61 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 | 2023-02-03 |  |
 | [Dentro](https://open.spotify.com/track/7zygrEhhUZgzLzoX8RWdWR) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:25 | 2023-02-03 |  |
 | [Desvelo](https://open.spotify.com/track/1jxb4xO5jc3yOazCbl5jy3) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:34 | 2023-02-03 |  |
+| [Escapar](https://open.spotify.com/track/6eK3x5Q6m3ItwHGdmVEo1d) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 4:01 | 2023-02-03 |  |
 | [extrañar](https://open.spotify.com/track/6d027hfAISK0YshtXlAKKv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [extrañar](https://open.spotify.com/album/6i5T4HCJRgYKN8M5vmCvh3) | 3:17 | 2023-02-03 |  |
 | [FAKE](https://open.spotify.com/track/51t95XJ2OQ9MLRKWd1PXEp) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FAKE](https://open.spotify.com/album/2sK71LmqForUrfyjX7pFdq) | 2:40 | 2023-02-03 |  |
 | [FBI](https://open.spotify.com/track/7Cb7KptiBrbDHaKKFN6iAn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:24 | 2023-02-03 |  |
@@ -58,7 +59,7 @@
 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 | 2023-02-03 |  |
 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 | 2023-02-03 |  |
 | [Stay in the Car](https://open.spotify.com/track/7koczHxYr1lXuMXNdOLPvT) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin' Sun](https://open.spotify.com/album/0eVcVsr64cQbiGAOVefybc) | 2:44 | 2023-02-03 |  |
-| [Superdependiente](https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Superdependiente](https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t) | 2:56 | 2023-02-03 |  |
+| [Superdependiente](https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Superdependiente](https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t) | 2:56 | 2023-02-03 | 2023-03-28 |
 | [SUPERFICIAL](https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xADR3N4LIN4x](https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0) | 2:00 | 2023-02-03 |  |
 | [surrealismo.](https://open.spotify.com/track/6MtkCUkLfo9lxnbofkQbjC) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [surrealismo.](https://open.spotify.com/album/24gpp8Y3ggwerd9gUKNnre) | 3:11 | 2023-03-25 |  |
 | [todo lo que pasa](https://open.spotify.com/track/0BkhmwWZOCcQEMO3je2lZQ) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [todo lo que pasa](https://open.spotify.com/album/3efcjft7NVnRr20mD5JveU) | 3:42 | 2023-02-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,539 likes - 30 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,561 likes - 30 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 29 | [Black Girl Memoir](https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:40 |
 | 30 | [Drop Out](https://open.spotify.com/track/2CurM6dvt60EhRzNrU14EE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:01 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDA3NzIxZDBiODBlMDdmM2E3NjJiYmIwMjE0ZWM5ZmE2Nw==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDBiZjc5OGM1YzdjNjUxNWJkMDczNTE2NDY4ZWQ4YTAyYw==`

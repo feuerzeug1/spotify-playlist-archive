@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,943 likes - 47 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,955 likes - 47 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 46 | [Kapitel 3.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/7prZIfKOmh3he01CQT1IR5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 4:34 |
 | 47 | [Kapitel 5.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/1BdmIEWEmG9nwqzIHQnU9M) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 5:19 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDA2NzNhNmI1YTI0ODg0MzM3NDQ2NGFlNmEzZGQwMDViNQ==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDA2NGQyMTUyZGE3ZGRjZDBmMWUxMjFiNzgzNjlmYjc2ZA==`

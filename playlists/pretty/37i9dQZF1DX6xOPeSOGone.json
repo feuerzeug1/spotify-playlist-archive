@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3579188,
+  "num_followers": 3579309,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMGY2MDYzMzgzNmJlZjE2MGQ4MmFmNTdjMGQ0YThiNTY1",
+  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMDVmZmMzYmRiNTA2ZjJiZTMxY2U5ZDk3NDUwYjA2N2Fj",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "Abandoned Luncheonette",
         "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 233866,
       "name": "Lost In Love",
       "url": "https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Handy Man",
-      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "French Kiss",
         "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 363413,
       "name": "I.G.Y.",
       "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Handy Man",
+      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Robbie Dupree",
-        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 221432,
-      "name": "Hot Rod Hearts - Remastered",
-      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Player",
         "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Luna Sea",
-        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
+        "name": "Robbie Dupree",
+        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
       },
       "artists": [
         {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
         }
       ],
-      "duration_ms": 196893,
-      "name": "Just Remember I Love You",
-      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
+      "duration_ms": 221432,
+      "name": "Hot Rod Hearts - Remastered",
+      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -923,6 +907,22 @@
       "duration_ms": 282040,
       "name": "Get It Right Next Time",
       "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Luna Sea",
+        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
+      },
+      "artists": [
+        {
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Just Remember I Love You",
+      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Change Of Heart",
-        "url": "https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw"
+        "name": "Arc Of A Diver",
+        "url": "https://open.spotify.com/album/6st1dtm8abvdd1S9vWLUQL"
       },
       "artists": [
         {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
         }
       ],
-      "duration_ms": 196986,
-      "name": "Baby I Need Your Lovin'",
-      "url": "https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g"
+      "duration_ms": 313493,
+      "name": "While You See A Chance",
+      "url": "https://open.spotify.com/track/4tFumK7mnlcpNeHCNEQ4wc"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "Change Of Heart",
+        "url": "https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Baby I Need Your Lovin'",
+      "url": "https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "But Seriously, Folks...",
         "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 183200,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/44yC6xqdIvE4G60mGc81ng"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "Arc Of A Diver",
-        "url": "https://open.spotify.com/album/6st1dtm8abvdd1S9vWLUQL"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "While You See A Chance",
-      "url": "https://open.spotify.com/track/4tFumK7mnlcpNeHCNEQ4wc"
     },
     {
       "added_at": "2023-03-20 17:07:41",

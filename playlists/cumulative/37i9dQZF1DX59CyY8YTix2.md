@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: 新しい学校のリーダーズ\(ATARASHII GAKKO! \)
 
-845 songs - 2 day 5 hr 55 min
+846 songs - 2 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Leon](https://open.spotify.com/track/0ctWWj9EtgPRx61Z6nw06r) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Reveal](https://open.spotify.com/album/0hK64US1J7Tt2F07xNsxsS) | 3:33 | 2022-06-16 | 2022-07-29 |
 | [LiE LiE LiE](https://open.spotify.com/track/6XH4XZRcMAKfCE3fjyM6vI) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [LiE LiE LiE](https://open.spotify.com/album/3LgdW4j5F11p7tfDPfGjaD) | 2:55 | 2022-07-12 | 2022-07-15 |
 | [Light and Darkness](https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL) | 4:04 | 2023-02-23 | 2023-03-27 |
+| [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 | 2023-03-23 |  |
 | [like like](https://open.spotify.com/track/3ITJU5IAi49tuu7ROVWMSt) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [like like](https://open.spotify.com/album/0UFQXjTiyoyJiB9axeHYd2) | 4:36 | 2022-10-18 | 2023-01-18 |
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-05-26 | 2022-07-27 |
 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 | 2023-03-16 |  |
@@ -656,7 +657,7 @@
 | [君が好き](https://open.spotify.com/track/5ayV49fExKlGllY8oyebHI) | [Easycome](https://open.spotify.com/artist/6sXjklgdrq2fcMVZ9gh6do) | [君が好き](https://open.spotify.com/album/1ilZXqYgWvF23c13eWO39D) | 3:37 | 2022-06-23 | 2022-07-03 |
 | [君と夏フェス](https://open.spotify.com/track/74zARC4MuJSrlq0QaaE13j) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 2](https://open.spotify.com/album/5IrLSSicyUJipJvCfOAfwb) | 3:44 | 2023-02-03 | 2023-02-05 |
 | [君と夏フェス](https://open.spotify.com/track/0mVtmQomDom72Y7UDm1ODi) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO BEST](https://open.spotify.com/album/6q8CiqzaJZIfYmoBAnkXxx) | 3:44 | 2022-07-28 | 2022-12-08 |
-| [君と夏フェス](https://open.spotify.com/track/2nSJH1z0BScpVsTP7EFtX7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:45 | 2023-02-03 |  |
+| [君と夏フェス](https://open.spotify.com/track/2nSJH1z0BScpVsTP7EFtX7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:45 | 2023-02-03 | 2023-03-28 |
 | [君のこゝろ](https://open.spotify.com/track/4z9eQafGoStgUATU9b7KNO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:13 | 2022-08-18 | 2022-08-20 |
 | [君はいなせなガール](https://open.spotify.com/track/3QFzoUHBlSLAA7RMR4umgU) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws), [日本松 ひとみ](https://open.spotify.com/artist/2HewoxIYwiA5DoOk4rFgNc) | [君はいなせなガール](https://open.spotify.com/album/0a8wJacfTpSenRSb4TCrNC) | 4:22 | 2022-06-07 | 2022-07-24 |
 | [吸って、吐いて](https://open.spotify.com/track/1jDkBxbUhmgQ0MJ8N2Sjcy) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [後日改めて伺います](https://open.spotify.com/album/5j9v6cG9gytC1hmNj0Zmmb) | 3:44 | 2022-06-16 | 2022-07-16 |

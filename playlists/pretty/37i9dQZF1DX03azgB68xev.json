@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 195931,
+  "num_followers": 195970,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDE2ZTk0MDcwOWFiNzg4MDRjY2M3ZmIyYTVkOWU5ZWIw",
+  "snapshot_id": "MTY3MzY0NjQxNiwwMDAwMDAwMDM4M2M0ZDk5MWE0ODJlODU0Y2IzMjZlMmMyZGQ2ODE2",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Grace In The Wilderness",
         "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 166788,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Love Is Everything We Need",
-        "url": "https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "Love Is Everything We Need",
-      "url": "https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Come Home (Warehouse Mix)",
         "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 158096,
       "name": "Come Home - Warehouse Mix",
       "url": "https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Love Is Everything We Need",
+        "url": "https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "Love Is Everything We Need",
+      "url": "https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 208564,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Dwell in Your House",
         "url": "https://open.spotify.com/album/1kD9ruaU9ozoo1GOSI6Hq7"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
         }
       ],
-      "duration_ms": 241371,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+      "duration_ms": 208564,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Where To Find Me",
         "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 174314,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "How Far",
         "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
       },
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z"
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
       "artists": [
         {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
         }
       ],
-      "duration_ms": 177250,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7"
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -931,26 +931,6 @@
       "duration_ms": 197834,
       "name": "This Love",
       "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Unashamed",
-        "url": "https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey"
-      },
-      "artists": [
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        },
-        {
-          "name": "HGHTS",
-          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
-        }
-      ],
-      "duration_ms": 178928,
-      "name": "Unashamed",
-      "url": "https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -999,18 +979,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug"
+        "name": "Unashamed",
+        "url": "https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey"
       },
       "artists": [
         {
-          "name": "Christian Paul",
-          "url": "https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe"
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        },
+        {
+          "name": "HGHTS",
+          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
         }
       ],
-      "duration_ms": 209429,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2"
+      "duration_ms": 178928,
+      "name": "Unashamed",
+      "url": "https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1031,6 +1015,22 @@
       "duration_ms": 344125,
       "name": "This Is Freedom (Ain't No Rock) - Live",
       "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug"
+      },
+      "artists": [
+        {
+          "name": "Christian Paul",
+          "url": "https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe"
+        }
+      ],
+      "duration_ms": 209429,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Searching For",
         "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
-      },
-      "artists": [
-        {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
+      },
+      "artists": [
+        {
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/690c43quycAQBnis0vi4mY"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 137990,
       "name": "Fake It - Warehouse Mix",
       "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
-      },
-      "artists": [
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/690c43quycAQBnis0vi4mY"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "ECHO",
-        "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
-      },
-      "artists": [
-        {
-          "name": "Damaris Guerra",
-          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
-        },
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "ECHO",
-      "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "This Is The Love",
         "url": "https://open.spotify.com/album/3qJbjQzqUv8AOQBlOEXlNr"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 165941,
       "name": "Out Of The Dark - Petey Martin Remix",
       "url": "https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
+      },
+      "artists": [
+        {
+          "name": "Damaris Guerra",
+          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
+        },
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
     },
     {
       "added_at": "2023-01-13 21:46:56",

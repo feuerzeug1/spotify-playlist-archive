@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-144 songs - 11 hr 10 min
+145 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Canard Apicius..........](https://open.spotify.com/track/2iFBu52IjPSXkPtyiyHbB3) | [Daniel Lentz](https://open.spotify.com/artist/1ZQoNPK02AD5iWU6HcPb1f) | [Huit Ou Neuf Pieces Dorees A Point](https://open.spotify.com/album/6ScmzBPZ8Im98kVdAnXG0k) | 3:13 | 2022-05-18 | 2022-07-27 |
 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2022-05-18 |  |
 | [Celeste Song](https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 3:30 | 2022-05-18 |  |
-| [chamomile](https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25) | [chamomile](https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj) | 4:02 | 2022-12-20 |  |
+| [chamomile](https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25) | [chamomile](https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj) | 4:02 | 2022-12-20 | 2023-03-28 |
 | [Chapitre I](https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Lost in Time](https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7) | 1:54 | 2022-07-01 |  |
 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 | 2022-05-18 |  |
 | [Cosmic Ray](https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Crépuscule I & II](https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs) | 3:26 | 2023-03-10 |  |
@@ -125,6 +125,7 @@
 | [Solari](https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Solari](https://open.spotify.com/album/16K2TOPALbZceZTYWUV2bu) | 2:45 | 2023-01-29 |  |
 | [Sorry](https://open.spotify.com/track/1VOsiZYiNHAUisapZtXpKh) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/4ltdtRBUlN4xym6T6Isnng) | 17:40 | 2022-05-18 | 2022-07-28 |
 | [Sorry](https://open.spotify.com/track/70wiCLAuAs2yjRQHkPuMN7) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/3jwdZ5aqNto6V6XY2ob6Vv) | 17:40 | 2022-12-02 | 2023-01-21 |
+| [Soul Voices](https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s) | [SOUL VOICES](https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU) | 7:43 | 2023-03-24 |  |
 | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/track/5JiFKhr3UWiSHvHPci8kgZ) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/album/622E7ReGxO1WJc6lju3oLJ) | 2:51 | 2022-05-18 | 2022-07-29 |
 | [Spirit of the Forest](https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Spirit of the Forest](https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD) | 2:43 | 2022-05-18 |  |
 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 | 2022-05-18 |  |

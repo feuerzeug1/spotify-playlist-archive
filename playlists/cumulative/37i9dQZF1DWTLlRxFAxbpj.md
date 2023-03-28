@@ -4,7 +4,7 @@
 
 > Get ready to soak up the sun with some carefree jams.
 
-152 songs - 9 hr 10 min
+153 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 | 2022-12-28 | 2023-03-14 |
 | [GOOD TIME](https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:34 | 2022-12-28 | 2023-01-15 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-12-28 |  |
-| [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2023-03-14 |  |
+| [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2023-03-14 | 2023-03-28 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-03-14 |  |
 | [Hits from the Bong](https://open.spotify.com/track/0cfqYhY6B8PbGF9vaVNUeG) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 2:40 | 2022-07-29 | 2022-12-29 |
 | [Hits from the Bong](https://open.spotify.com/track/1BZPxM9mXiSwlxOKJRo17Y) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/5NW6qqGJwDv1AYJt2CJfzw) | 2:40 | 2014-02-21 | 2022-07-29 |
@@ -135,6 +135,7 @@
 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 | 2022-12-28 | 2023-03-14 |
 | [Shots](https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Party Rock](https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR) | 3:42 | 2022-12-28 | 2023-03-14 |
 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 | 2023-03-14 |  |
+| [SLUT ME OUT](https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT](https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ) | 2:03 | 2023-03-14 |  |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2023-03-14 |  |
 | [Started From the Bottom](https://open.spotify.com/track/5DI9jxTHrEiFAhStG7VA8E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same](https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t) | 2:54 | 2022-07-29 | 2022-12-29 |
 | [Started From the Bottom](https://open.spotify.com/track/5bm0CcD5R9Nj04QbMvwugt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 2:54 | 2022-11-12 | 2022-11-13 |

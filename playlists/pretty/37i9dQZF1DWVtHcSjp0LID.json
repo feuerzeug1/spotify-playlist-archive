@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 53402,
+  "num_followers": 53497,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDAzYmQwYjI5Yjg1MDM5ODQ0YzY0ZDU1OTEwNmE1MWNi",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDgyZThmNjAyMDliNjBmZjExNjdkMzgyYjUzM2Q0MDAx",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -95,26 +95,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Opal (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 494256,
-      "name": "Opal - Four Tet Remix",
-      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Nude Remixes",
         "url": "https://open.spotify.com/album/13V7SBTiEGttVK8zwqd2tr"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 424431,
       "name": "Mystery - Tale Of Us & Mathame Remix",
       "url": "https://open.spotify.com/track/3fdXEMBTjHNJ5Bug5c7rZi"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Opal (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 494256,
+      "name": "Opal - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 216267,
-      "name": "Ayaya",
-      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 487868,
       "name": "Fading",
       "url": "https://open.spotify.com/track/770zzJRmEN0sudaxuD7GkB"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Patterns & Light",
-        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
-      },
-      "artists": [
-        {
-          "name": "Kodomo",
-          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
-        }
-      ],
-      "duration_ms": 295049,
-      "name": "Red Giant",
-      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "See You When You Get There",
         "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 364795,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Patterns & Light",
+        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
+      },
+      "artists": [
+        {
+          "name": "Kodomo",
+          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
+        }
+      ],
+      "duration_ms": 295049,
+      "name": "Red Giant",
+      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
-      },
-      "artists": [
-        {
-          "name": "Coeo",
-          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
-        }
-      ],
-      "duration_ms": 416652,
-      "name": "Timid Dancer",
-      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Science Is Science",
         "url": "https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 423445,
       "name": "Bassment Dweller - Original Mix",
       "url": "https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
+      },
+      "artists": [
+        {
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+        }
+      ],
+      "duration_ms": 416652,
+      "name": "Timid Dancer",
+      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Drone Logic",
+        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Knowing We'll Be Here",
+      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Drone Logic",
-        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 342853,
-      "name": "Knowing We'll Be Here",
-      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Moons",
-        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
-      },
-      "artists": [
-        {
-          "name": "Embee",
-          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Moons",
-      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Sky Float Sun",
         "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 331203,
       "name": "Bonder",
       "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Moons",
+        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
+      },
+      "artists": [
+        {
+          "name": "Embee",
+          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Moons",
+      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "like me",
-        "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
-      },
-      "artists": [
-        {
-          "name": "paleboi",
-          "url": "https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe"
-        }
-      ],
-      "duration_ms": 311186,
-      "name": "like me",
-      "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Dance Machine",
         "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 340100,
       "name": "Dance Machine - Original Mix",
       "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "like me",
+        "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
+      },
+      "artists": [
+        {
+          "name": "paleboi",
+          "url": "https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe"
+        }
+      ],
+      "duration_ms": 311186,
+      "name": "like me",
+      "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 401084,
-      "name": "Godt Begyndt",
-      "url": "https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
         "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 288554,
       "name": "Hawkmoth",
       "url": "https://open.spotify.com/track/0LQwjyPTElZ4rKxJXEPFnq"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 401084,
+      "name": "Godt Begyndt",
+      "url": "https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Endless Sacrifice",
-        "url": "https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J"
+        "name": "Kill Frenzy",
+        "url": "https://open.spotify.com/album/5K9V9bm1Bn9xVviaCP5f0w"
       },
       "artists": [
         {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "Flu",
-          "url": "https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi"
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
         }
       ],
-      "duration_ms": 437653,
-      "name": "Heading North",
-      "url": "https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL"
+      "duration_ms": 355540,
+      "name": "Lefty's Bar",
+      "url": "https://open.spotify.com/track/3zsDzU5rmhseMKqSaJUjKc"
     }
   ],
   "unique_name": "Deep Study",

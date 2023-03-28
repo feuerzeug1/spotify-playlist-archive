@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Cannibals",
+        "url": "https://open.spotify.com/album/2ErPugQ583sNsbtLL7vyo2"
+      },
+      "artists": [
+        {
+          "name": "Of Virtue",
+          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "Cannibals",
+      "url": "https://open.spotify.com/track/3RouwrOg0CZ2JeQ97sSYR5"
+    },
+    {
+      "album": {
         "name": "Carbon Mono",
         "url": "https://open.spotify.com/album/0v1HAzbDsY1Z1g66s1LDtf"
       },

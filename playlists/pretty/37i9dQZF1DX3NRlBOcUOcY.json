@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 447785,
+  "num_followers": 447810,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMzAxMCwwMDAwMDAwMDQ3MTE0ZTg5NTNjNjg5NThiNWY1MTE3YzZiYzE3YzA0",
+  "snapshot_id": "MTY3NzgzMzAxMCwwMDAwMDAwMDM1OTVlM2Y3Y2NlNGMxYzA1ODU2ZmY4Y2I3MmI5ZWY0",
   "tracks": [
     {
       "added_at": "2023-03-03 08:43:30",
@@ -151,22 +151,18 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "ULALA (OOH LA LA)",
-        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 188009,
-      "name": "ULALA (OOH LA LA)",
-      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -295,6 +291,26 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
+        "name": "ULALA (OOH LA LA)",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 188009,
+      "name": "ULALA (OOH LA LA)",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -311,38 +327,6 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -391,6 +375,22 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 173119,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 219320,
-      "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Los Cachos",
-        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Los Cachos",
-      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
+        "name": "Los Cachos",
+        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Los Cachos",
+      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
+        "name": "De Vuelta Pa' La Vuelta",
+        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "De Vuelta Pa' La Vuelta",
+      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
         "name": "Si Me Dices Que S\u00ed",
         "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 211651,
       "name": "Si Me Dices Que S\u00ed",
       "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
-        "name": "De Vuelta Pa' La Vuelta",
-        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "De Vuelta Pa' La Vuelta",
-      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Real G",
-        "url": "https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Real G",
-      "url": "https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
+        "name": "Real G",
+        "url": "https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Real G",
+      "url": "https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
         "name": "S\u00edntomas de Soltera",
         "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
@@ -1275,26 +1295,6 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
         "name": "EL HOMBRE PERFECTO",
         "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Toy a Mil",
-        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "Toy a Mil",
-      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 169536,
       "name": "Desde Mis Ojos",
       "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
+        "name": "Toy a Mil",
+        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "Toy a Mil",
+      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1371,6 +1371,22 @@
       "duration_ms": 165200,
       "name": "TV",
       "url": "https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
+        "name": "Favorito",
+        "url": "https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Favorito",
+      "url": "https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1411,22 +1427,6 @@
       "duration_ms": 148700,
       "name": "Luna",
       "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
-        "name": "Favorito",
-        "url": "https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Favorito",
-      "url": "https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
+        "name": "Apretaito",
+        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Apretaito",
+      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -1731,26 +1751,6 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Apretaito",
-        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Apretaito",
-      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
         "name": "Sabe",
         "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
       },
@@ -1771,22 +1771,34 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Cachito",
-        "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 188546,
-      "name": "Cachito",
-      "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
+      "duration_ms": 154628,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1807,18 +1819,42 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+        "name": "Mal de Amores",
+        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+      "duration_ms": 188333,
+      "name": "Mal de Amores",
+      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
+        "name": "Cachito",
+        "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 188546,
+      "name": "Cachito",
+      "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1855,22 +1891,18 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Mal de Amores",
-        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
+        "name": "Qu\u00e9 Chimba",
+        "url": "https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Mal de Amores",
-      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
+      "duration_ms": 169740,
+      "name": "Qu\u00e9 Chimba",
+      "url": "https://open.spotify.com/track/0rIZ49wxDf8H2LXOKmAMW5"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1891,38 +1923,6 @@
       "duration_ms": 172481,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
-        "name": "Qu\u00e9 Chimba",
-        "url": "https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 169740,
-      "name": "Qu\u00e9 Chimba",
-      "url": "https://open.spotify.com/track/0rIZ49wxDf8H2LXOKmAMW5"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
-        "name": "La Copa",
-        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 154628,
-      "name": "La Copa",
-      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
     },
     {
       "added_at": "2023-03-03 08:43:30",

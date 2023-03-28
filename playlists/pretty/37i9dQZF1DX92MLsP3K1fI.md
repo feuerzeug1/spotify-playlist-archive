@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! RBD en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,587 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,648 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 29 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 |
 | 30 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 |
 | 31 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 |
-| 32 | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 |
-| 33 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 |
+| 32 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 |
+| 33 | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 |
 | 34 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
 | 35 | [Mi Destino](https://open.spotify.com/track/33ghys6pfpQBc5aiChHlzV) | [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm), [Alejo Valencia](https://open.spotify.com/artist/1TUyZTjkJZFFvGdXYW1zLj), [Guita](https://open.spotify.com/artist/0LEqiMyg7tH6JV2afcxyVd) | [La Reina del Flow 2 \(Banda Sonora Oficial de la Serie de Televisión\)](https://open.spotify.com/album/7FIXzHY9IPsbFGK50aAoc5) | 3:21 |
 | 36 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 |
 | 37 | [Me Liberé](https://open.spotify.com/track/54o97glZqjfQambK2yyNCG) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Me Liberé](https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S) | 3:37 |
 | 38 | [Bailo Sola](https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bailo Sola](https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA) | 2:35 |
 | 39 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 |
-| 40 | [Cruda](https://open.spotify.com/track/1ZhNiBiRdBZgOWVzm6aC9F) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Cruda](https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH) | 2:45 |
-| 41 | [Frida](https://open.spotify.com/track/4FJ3UEXLSb071ZWAmoYjyx) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Frida](https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK) | 2:47 |
+| 40 | [Frida](https://open.spotify.com/track/4FJ3UEXLSb071ZWAmoYjyx) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Frida](https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK) | 2:47 |
+| 41 | [Cruda](https://open.spotify.com/track/1ZhNiBiRdBZgOWVzm6aC9F) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Cruda](https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH) | 2:45 |
 | 42 | [Que PASE y YA](https://open.spotify.com/track/5znAcI91hov7U28bpvycXr) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Que PASE y YA](https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4) | 2:26 |
 | 43 | [Fotonovela](https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Fotonovela](https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ) | 4:42 |
 | 44 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [Pasos de Gigante](https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Pasos de Gigante](https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP) | 3:41 |
 | 50 | [TERMINAMOS](https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [TERMINAMOS](https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu) | 2:37 |
 
-Snapshot ID: `MTY3NzI3NjQxMiwwMDAwMDAwMDI1ZjU4MDg5MWNkODZkNTQxZTc3YjRiYzNiNGU3MTIz`
+Snapshot ID: `MTY3NzI3NjQxMiwwMDAwMDAwMGQ3NGY0MmZkZDM0NzdkMjI4MjlmMTY0NGI2YzdiNTk4`

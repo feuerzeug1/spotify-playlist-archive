@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,871 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,314 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 28 | [The Greatest Day of My Life](https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Greatest Day of My Life](https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7) | 3:58 |
 | 29 | [Flying or Crying](https://open.spotify.com/track/7oPTiW1fZyvIPeYOZTY4Wh) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:49 |
 | 30 | [Quiet, Heavy Dreams](https://open.spotify.com/track/3JGqdP88wrRe9QEVCDHQv9) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 2:54 |
-| 31 | [From a Lover's Point of View](https://open.spotify.com/track/6N7FFwu2DQer3wB7rEmm6u) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:04 |
-| 32 | [Tishomingo](https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:08 |
+| 31 | [Tishomingo](https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:08 |
+| 32 | [From a Lover's Point of View](https://open.spotify.com/track/6N7FFwu2DQer3wB7rEmm6u) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:04 |
 | 33 | [Don't Give up on Me](https://open.spotify.com/track/1lGtn2Y4XarLIKdgoAeUdU) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 3:23 |
 | 34 | [Birmingham](https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Quiet, Heavy Dreams](https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ) | 3:26 |
 | 35 | [Twenty So](https://open.spotify.com/track/6W2PvnTNWUgxCJxRh84ALu) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:19 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 42 | [Codeine Pills \- Part One](https://open.spotify.com/track/3OBXZXFYDouFlKdlFO6NLC) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:16 |
 | 43 | [Sweet DeAnn \- Live](https://open.spotify.com/track/0GC43uyv1rSUW0y9ODjq4u) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 3:04 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDBlZDJiZjYwYWFjZWMwNjBlZDRlMDFlOTk2OTY2NTI1ZA==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDAyYTgyZTRmZjE5MTU4MGE5ZDk5N2U1ZDVhYTM5YTY0MQ==`

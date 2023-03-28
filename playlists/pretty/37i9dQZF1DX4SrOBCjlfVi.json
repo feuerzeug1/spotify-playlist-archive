@@ -1,13 +1,29 @@
 {
   "description": "All the New Joints featuring Internet Money, NLE Choppa and more. Cover: Baby Tate",
-  "num_followers": 210111,
+  "num_followers": 210142,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDMxZmYyYjY3MzMyMjM5MGViNjI3MjRiYjY5ZGI2ZjVk",
+  "snapshot_id": "MTY3OTkzNTQ3NCwwMDAwMDAwMDYyOWI1NGQ1MmI5MmZhMzRmYzBhOTVmMzBmZGNlNDNh",
   "tracks": [
+    {
+      "added_at": "2023-03-27 16:44:34",
+      "album": {
+        "name": "DOGTOOTH",
+        "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
+    },
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-311 songs - 22 hr 1 min
+312 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All Hands On Deck!](https://open.spotify.com/track/44U31ReufqAcif83U3ACf1) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [All Hands On Deck!](https://open.spotify.com/album/0k10IRpaCJf3Ql8gOfrvob) | 3:13 | 2023-03-16 |  |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 |  |
 | [All My Tomorrows \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:22 | 2021-12-16 | 2022-11-11 |
-| [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-02-02 |  |
+| [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-02-02 | 2023-03-28 |
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2022-11-11 | 2023-03-10 |
 | [Almost Like Being In Love](https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:31 | 2021-12-16 | 2022-11-13 |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-11-11 |  |
@@ -227,6 +227,7 @@
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-11-11 |  |
 | [Ruby My Dear](https://open.spotify.com/track/4UsWPDI7ztp83qi9QVLp0C) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Ruby My Dear](https://open.spotify.com/album/5oTmFu8GHDDeSIr1ui7opy) | 3:51 | 2023-03-16 |  |
+| [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-23 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-11 | 2023-01-17 |
 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 | 2021-12-16 | 2022-11-11 |
 | [September Song](https://open.spotify.com/track/3jeqeE91AY5KDbccCBZ1o1) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Riverside Profiles: Chet Baker](https://open.spotify.com/album/0onIVgbXEDmbcR4ZiyGNg9) | 3:03 | 2022-06-29 | 2022-11-11 |

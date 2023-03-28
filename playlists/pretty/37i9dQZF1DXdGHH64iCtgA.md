@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,103 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,130 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 22 | [Han Jan \- Edit](https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Han Jan](https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc) | 4:02 |
 | 23 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 |
 | 24 | [Love On A Real Train \- From 'Risky Business' Original Motion Picture Soundtrack](https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Hyperborea \(Deluxe Version / Remastered 2020\)](https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U) | 3:59 |
-| 25 | [sad day](https://open.spotify.com/track/68lrQ6jAW5cOyn7GX39uzz) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 4:15 |
-| 26 | [Controller](https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Controller](https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht) | 3:28 |
+| 25 | [Controller](https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Controller](https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht) | 3:28 |
+| 26 | [sad day](https://open.spotify.com/track/68lrQ6jAW5cOyn7GX39uzz) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 4:15 |
 | 27 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 |
 | 28 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
 | 29 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 87 | [The Ghost](https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 4:04 |
 | 88 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
 | 89 | [Young Lies](https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Young Lies](https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z) | 3:50 |
-| 90 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
-| 91 | [Like A Good Old Friend](https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8) | 3:38 |
+| 90 | [Like A Good Old Friend](https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8) | 3:38 |
+| 91 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
 | 92 | [We All Move Together \- Kevin Saunderson x Latroit Remix](https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [We All Move Together \(Kevin Saunderson x Latroit Remix\)](https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc) | 3:20 |
 | 93 | [Sol](https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [Sol De Mi Vida](https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve) | 3:07 |
 | 94 | [Lucky](https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Eat](https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 |
 | 100 | [August in Paris](https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y) | [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf), [Shonky](https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14) | [Mobilee Back to Back Vol\. 2 \- Presented By Gummihz](https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ) | 8:36 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDBiYmMxOGQ4NTFjYWMzM2EyMmMzMjViZWJhMmFmNjgy`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGZhM2RhZGJkY2YwYmY2YzJmMTU0YWJkNzcwZTU3YTgw`

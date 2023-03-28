@@ -4,14 +4,14 @@
 
 > Fresh Latin Indie\. Cover: Isra y Vale
 
-305 songs - 17 hr 4 min
+306 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\- es + \(menos es más\)](https://open.spotify.com/track/3A5qg9rPxX4ANtff8ZLhMX) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [\- es + \(menos es más\)](https://open.spotify.com/album/1y0JGvEzLx4z5kW1RbJaJA) | 2:59 | 2022-11-24 |  |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 |  |
 | [7'11](https://open.spotify.com/track/49f4F5vB3f3Bt8jDPU2eRZ) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [7'11](https://open.spotify.com/album/7LMPO9UhGA06NlyoR2qZze) | 3:27 | 2021-11-18 | 2022-07-29 |
-| [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 | 2022-12-09 |  |
+| [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 | 2022-12-09 | 2023-03-28 |
 | [A carta cabal](https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 4:29 | 2022-05-06 | 2023-01-21 |
 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 | 2023-03-10 |  |
 | [A Veces](https://open.spotify.com/track/2hEGuvAcZGt6kOh5COiBgF) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [A Veces](https://open.spotify.com/album/6miHXeWD9DWJLrUtgNAf5C) | 2:45 | 2021-11-18 | 2022-11-25 |
@@ -109,6 +109,7 @@
 | [Flores](https://open.spotify.com/track/7KWDvbAWboTeiv88krkdLR) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/7M9NCzlNxeDsW8kiIZzaW4) | 3:22 | 2021-11-18 | 2022-07-28 |
 | [Flores](https://open.spotify.com/track/5fi7LBIH0j7ZZlHn7Yjrmo) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/6AEvvF0EnuyBbehpsOYUi6) | 3:22 | 2022-06-29 | 2022-08-12 |
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-11-18 | 2022-10-28 |
+| [Fuego \- A COLORS SHOW](https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Fuego \- A COLORS SHOW](https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k) | 3:19 | 2023-03-24 |  |
 | [Funeral](https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Funeral](https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA) | 3:14 | 2023-03-24 |  |
 | [Ganas](https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Ganas](https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2) | 2:46 | 2022-10-27 | 2022-12-14 |
 | [Girasol](https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M) | [mi jardín](https://open.spotify.com/artist/2Wurz87TqcSpxiCTGDZPAo) | [Girasol](https://open.spotify.com/album/7Jai8njio3jGUOtrH0fLuI) | 2:14 | 2022-01-10 | 2022-07-29 |

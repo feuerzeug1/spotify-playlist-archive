@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Armand Van Helden, Karen Harding, Jackson Wang, MK",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Armand Van Helden, Karen Harding, Biscits",
   "name": "EDM Top 100",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2020-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 165004,
       "name": "Addict",
       "url": "https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 211216,
       "name": "Aftergold (feat. Tove Styrke) - Hanz Remix",
       "url": "https://open.spotify.com/track/4o9ewq4kmihwHcl1fRVdLH"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 202786,
       "name": "Bad For You (feat. 90's Kids)",
       "url": "https://open.spotify.com/track/2m70pnnWWOcItUhWHJbPu1"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 151600,
       "name": "Break A Sweat",
       "url": "https://open.spotify.com/track/2WKHv9lUvKA3dEnJy0t9ie"
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 160887,
       "name": "Breath By Breath",
       "url": "https://open.spotify.com/track/4HSEJ8rmp21rUtqE9CNxFh"
@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
@@ -6162,6 +6162,36 @@
       "duration_ms": 186264,
       "name": "Dance With Me - Edit",
       "url": "https://open.spotify.com/track/7IPdXJf4DEisUUL0WqTcKL"
+    },
+    {
+      "album": {
+        "name": "Dance with Somebody",
+        "url": "https://open.spotify.com/album/7vxQ7D4GYhkaFo6qDyKgL4"
+      },
+      "artists": [
+        {
+          "name": "Riggi & Piros",
+          "url": "https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH"
+        },
+        {
+          "name": "Dave Crusher",
+          "url": "https://open.spotify.com/artist/23TjYnUK2xGyalo5ABFV5F"
+        },
+        {
+          "name": "JackMar",
+          "url": "https://open.spotify.com/artist/568HxcrJjVhue3gt9VCdFx"
+        },
+        {
+          "name": "Scarlett Quinn",
+          "url": "https://open.spotify.com/artist/76gUhHYidD1iQF2TrvFULv"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "Dance with Somebody",
+      "url": "https://open.spotify.com/track/0ThqsnddBDqUqD6nawh5wX"
     },
     {
       "album": {
@@ -11072,7 +11102,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 208505,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
@@ -14652,7 +14682,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 296226,
       "name": "Jalisco",
       "url": "https://open.spotify.com/track/0xaAxijxtuzHb67Ai1kouN"
@@ -15052,7 +15082,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 193568,
       "name": "Kill Me Better",
       "url": "https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk"
@@ -16022,7 +16052,7 @@
       ],
       "date_added": "2020-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Life Is One",
       "url": "https://open.spotify.com/track/5kGVL2l2eEqaFPuYU1mdbl"
@@ -18126,7 +18156,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 202222,
       "name": "Momma Always Told Me (feat. Stanaj & Yung Bae) - Matoma Remix",
       "url": "https://open.spotify.com/track/6QD2VjrjttjljqUZPf9R89"
@@ -18986,7 +19016,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 175500,
       "name": "Never Been Better",
       "url": "https://open.spotify.com/track/0EVbZWxLOZT1siPMzEGNwc"
@@ -20787,6 +20817,28 @@
     },
     {
       "album": {
+        "name": "Opa",
+        "url": "https://open.spotify.com/album/6Ds82KME1uLRZBx1V2JI5E"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Opa",
+      "url": "https://open.spotify.com/track/7wxeGWvf8HNuUeK4k06mOr"
+    },
+    {
+      "album": {
         "name": "Open Your Eyes",
         "url": "https://open.spotify.com/album/4Jx57d55AtHxiIurArTZyQ"
       },
@@ -21056,7 +21108,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 301174,
       "name": "Oxas",
       "url": "https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl"
@@ -22990,7 +23042,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 170740,
       "name": "Rollerblade",
       "url": "https://open.spotify.com/track/1hz0SWhLPWKqpGiEBnWFpm"
@@ -23864,7 +23916,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 168937,
       "name": "Scrub The Ground",
       "url": "https://open.spotify.com/track/1AJAQmdCa9D1JhN6vVbaLJ"
@@ -26356,7 +26408,7 @@
       ],
       "date_added": "2020-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 192755,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/1kwJP2mZ7NSFvtuAxqtCED"
@@ -26644,7 +26696,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 197502,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
@@ -27090,7 +27142,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 187491,
       "name": "Tell You What It Is",
       "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
@@ -28214,7 +28266,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 263373,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/11KJSRSgaDxqydKYiD2Jew"
@@ -28672,7 +28724,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 220560,
       "name": "Turn On the Bass",
       "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"

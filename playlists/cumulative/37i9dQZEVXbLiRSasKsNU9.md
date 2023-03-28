@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,316 songs - 2 day 22 hr 34 min
+1,317 songs - 2 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Cbat](https://open.spotify.com/track/0AzD1FEuvkXP1verWfaZdv) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Satin Panthers](https://open.spotify.com/album/0d99LxnQpiPLgSGDRuU9HT) | 2:51 | 2022-09-05 | 2022-10-09 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-25 |  |
 | [Cesaretsizce Olmuyor](https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw) | [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Yineleme](https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3) | 3:12 | 2022-12-09 | 2022-12-25 |
-| [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-03-01 |  |
+| [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-03-01 | 2023-03-28 |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-02-26 | 2022-05-04 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-03-15 | 2022-04-13 |
 | [CHASE THE SUN](https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt) | [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [CHASE THE SUN](https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc) | 3:31 | 2022-11-25 | 2022-12-03 |
@@ -638,6 +638,7 @@
 | [La Fory Fay](https://open.spotify.com/track/78IuTC0zgUmVL4jMcpwPAw) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:28 | 2022-06-26 | 2022-07-02 |
 | [La goffa Lolita](https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN) | [La petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [La goffa Lolita](https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC) | 3:41 | 2022-08-20 | 2022-08-31 |
 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 | 2022-12-27 | 2023-01-10 |
+| [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1) | [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [Mayerling](https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz) | 1:45 | 2023-03-27 |  |
 | [La Melodía de Dios](https://open.spotify.com/track/7ESKEiE8LRLrDwdS2ZgUiR) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C) | 4:45 | 2022-11-06 | 2022-11-13 |
 | [La Sonrisa Obligatoria](https://open.spotify.com/track/1nBOAbDuCryfokrS40T6w2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:40 | 2022-06-23 | 2022-07-06 |
 | [LA STREGA DEL FRUTTETO \(feat\. chiello & Madame\)](https://open.spotify.com/track/4g0OWz92tgdNlBgc80qF6y) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:05 | 2022-01-09 | 2022-01-17 |

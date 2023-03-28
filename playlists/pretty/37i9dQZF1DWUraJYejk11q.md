@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,267 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,287 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 22 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA) | 3:26 |
 | 23 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 |
 | 24 | [sunflower](https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [it's a secret / sunflower](https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6) | 3:44 |
-| 25 | [Slice of Life](https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn) | [usr/friendly](https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE), [Oketo](https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg) | [This Is An Advertisement](https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9) | 3:19 |
-| 26 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
+| 25 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
+| 26 | [Slice of Life](https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn) | [usr/friendly](https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE), [Oketo](https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg) | [This Is An Advertisement](https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9) | 3:19 |
 | 27 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 |
 | 28 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 |
 | 29 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 36 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
 | 37 | [So](https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [So](https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS) | 4:39 |
 | 38 | [Head Above The Parakeets](https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC) | 7:16 |
-| 39 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
-| 40 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
-| 41 | [17°C](https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [17°C](https://open.spotify.com/album/1HuXrTydaxznPxtVZMnnRc) | 4:02 |
-| 42 | [Hondo \(Remix\)](https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Hondo \(Remix\)](https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn) | 5:21 |
+| 39 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
+| 40 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
+| 41 | [Hondo \(Remix\)](https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Hondo \(Remix\)](https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn) | 5:21 |
+| 42 | [17°C](https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [17°C](https://open.spotify.com/album/1HuXrTydaxznPxtVZMnnRc) | 4:02 |
 | 43 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 |
 | 44 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
 | 45 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Subxet](https://open.spotify.com/artist/5dxUiR8ZvHWBoMS1iRdDey) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 | 50 | [ITSAME \[group hugg\]](https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [ITSAME](https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx) | 7:41 |
 
-Snapshot ID: `MTY3NzgxNzQ4MCwwMDAwMDAwMGZhNmNjYjI2OGQxMDNlM2JlMjVhNjEyNDM4MzRiZThl`
+Snapshot ID: `MTY3NzgxNzQ4MCwwMDAwMDAwMDVkNDBjYzUwYjYzOGZiNzVhZTEwYzRiOWQ2Y2YzZjhi`

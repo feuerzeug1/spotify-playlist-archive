@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-378 songs - 22 hr 49 min
+379 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Caile](https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Top Of The Line](https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb) | 3:11 | 2021-12-17 |  |
 | [Calentamiento](https://open.spotify.com/track/0qdtqLSltKJK7TXtXca2zr) | [Jadiel](https://open.spotify.com/artist/1K0lOPFlbPF3Volp5qIYNw) | [El Tsunami](https://open.spotify.com/album/04P2E4ZJalvqAZGeQCI2OB) | 3:38 | 2022-07-27 | 2022-12-31 |
 | [Calentamiento](https://open.spotify.com/track/3WG9ylk2JJmGcYeyxkRgFS) | [Jadiel](https://open.spotify.com/artist/1K0lOPFlbPF3Volp5qIYNw), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Calentamiento](https://open.spotify.com/album/2lOim5kBvhZBmC3C2BhPYw) | 3:38 | 2022-12-16 | 2023-02-27 |
+| [Calentamiento](https://open.spotify.com/track/6bKLzIH6wdyX4y1cl0O2fN) | [Jadiel](https://open.spotify.com/artist/1K0lOPFlbPF3Volp5qIYNw), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Calentamiento](https://open.spotify.com/album/50P9Kc9hBUuyNiozCKMDTo) | 3:38 | 2022-12-16 |  |
 | [Cantinero](https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc) | [Fusion Perreo](https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI) | [Cantinero](https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1) | 3:41 | 2022-05-13 | 2022-06-09 |
 | [Carita Bonita](https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4) | [Erre XI](https://open.spotify.com/artist/3mqvfyOtukTRmUkZHuP1ed), [PeeWee](https://open.spotify.com/artist/34w2CxXOMbQeaIkoKDiJhp) | [Luny Tunes Presents ERRE XI](https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl) | 4:14 | 2022-10-12 |  |
 | [Chica 10](https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh) | [Fusion Perreo](https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI) | [Chica 10](https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG) | 3:49 | 2022-05-13 |  |
@@ -257,7 +258,7 @@
 | [Porque Me Tratas Así?](https://open.spotify.com/track/6NoFVCCFpjWsHVYvinUeZG) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Pose](https://open.spotify.com/track/5BB5zjzCzo9M3uOKzhiXZB) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento de Barrio](https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr) | 3:37 | 2021-12-17 | 2022-07-29 |
 | [Punto y Aparte](https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Rompe La Discoteca](https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R) | 3:26 | 2021-12-17 |  |
-| [Punto y Coma](https://open.spotify.com/track/6vCBn43dpEaVCHR3UbDl85) | [Magnate](https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Exitos](https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3) | 3:36 | 2021-12-17 |  |
+| [Punto y Coma](https://open.spotify.com/track/6vCBn43dpEaVCHR3UbDl85) | [Magnate](https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Exitos](https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3) | 3:36 | 2021-12-17 | 2023-03-28 |
 | [Que Tengo Que Hacer](https://open.spotify.com/track/3rFgTFJVdDBCYiZt1zdoQ7) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento De Barrio](https://open.spotify.com/album/7n8EDZcG8iOUezWUEK07Ba) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [Quiero Bailar](https://open.spotify.com/track/4HNlRF6Nux7jU68kTpX7CP) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [e5](https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp) | 3:03 | 2021-12-17 | 2022-07-29 |
 | [Quiero Bailar](https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 3:04 | 2022-07-27 | 2023-01-12 |

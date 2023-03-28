@@ -1,47 +1,15 @@
 {
   "description": "Listen to the soundtracks of GENIE TV's original drama Delivery Man. (\uc9c0\ub2c8TV \uc624\ub9ac\uc9c0\ub110 \ub4dc\ub77c\ub9c8 \ub51c\ub9ac\ubc84\ub9ac \ub9e8\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1263,
+  "num_followers": 1290,
   "original_name": "\ub51c\ub9ac\ubc84\ub9ac\ub9e8 (Delivery Man)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTM4MDUwMCwwMDAwMDAwMDIwZWE5MGY2ODA4Njc2MTRjM2M3NTJkNmU5YmI0YTZj",
+  "snapshot_id": "MTY3OTkxNDI2MCwwMDAwMDAwMDEwMjE4YTU0OWE4ZmRlYTM4YzkyNzg2MGZiMzZiY2M3",
   "tracks": [
     {
-      "added_at": "2023-03-21 06:35:00",
-      "album": {
-        "name": "Delivery Man, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1k2WDyfk5bfjnVhKi2enLC"
-      },
-      "artists": [
-        {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
-        }
-      ],
-      "duration_ms": 282943,
-      "name": "What do you think",
-      "url": "https://open.spotify.com/track/67eDtcGNwhdNbjAJCuTd23"
-    },
-    {
-      "added_at": "2023-03-21 06:35:00",
-      "album": {
-        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 164861,
-      "name": "Dream about You",
-      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
-    },
-    {
-      "added_at": "2023-03-21 06:35:00",
+      "added_at": "2023-03-27 10:51:00",
       "album": {
         "name": "Delivery Man, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6mOZeWDgFFPyucNrUl4Ied"
@@ -57,7 +25,23 @@
       "url": "https://open.spotify.com/track/7E6PllCLelrFIzcoG3sMWl"
     },
     {
-      "added_at": "2023-03-21 06:35:00",
+      "added_at": "2023-03-27 10:51:00",
+      "album": {
+        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 164861,
+      "name": "Dream about You",
+      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+    },
+    {
+      "added_at": "2023-03-27 10:51:00",
       "album": {
         "name": "Delivery Man, Pt. 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1k2WDyfk5bfjnVhKi2enLC"
@@ -69,11 +53,43 @@
         }
       ],
       "duration_ms": 282943,
-      "name": "What do you think - Instrumental",
-      "url": "https://open.spotify.com/track/4njlAyCTCIMqKzWAcKTFTs"
+      "name": "What do you think",
+      "url": "https://open.spotify.com/track/67eDtcGNwhdNbjAJCuTd23"
     },
     {
-      "added_at": "2023-03-21 06:35:00",
+      "added_at": "2023-03-27 10:51:00",
+      "album": {
+        "name": "Delivery Man, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/45NhpIvySrXGxhKv2u3HhB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 220298,
+      "name": "Didn\u2019t love to fullest",
+      "url": "https://open.spotify.com/track/346MMYSVdjNlyN61rkmOWY"
+    },
+    {
+      "added_at": "2023-03-27 10:51:00",
+      "album": {
+        "name": "Delivery Man, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6mOZeWDgFFPyucNrUl4Ied"
+      },
+      "artists": [
+        {
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+        }
+      ],
+      "duration_ms": 159034,
+      "name": "Stuck on You - Instrumental",
+      "url": "https://open.spotify.com/track/3Qvda3PiZGSluOsAztzoPN"
+    },
+    {
+      "added_at": "2023-03-27 10:51:00",
       "album": {
         "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
@@ -89,20 +105,36 @@
       "url": "https://open.spotify.com/track/4k70P1EOktPIGE4fZaZNAk"
     },
     {
-      "added_at": "2023-03-21 06:35:00",
+      "added_at": "2023-03-27 10:51:00",
       "album": {
-        "name": "Delivery Man, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6mOZeWDgFFPyucNrUl4Ied"
+        "name": "Delivery Man, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1k2WDyfk5bfjnVhKi2enLC"
       },
       "artists": [
         {
-          "name": "Yu Seung Woo",
-          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
         }
       ],
-      "duration_ms": 159034,
-      "name": "Stuck on You - Instrumental",
-      "url": "https://open.spotify.com/track/3Qvda3PiZGSluOsAztzoPN"
+      "duration_ms": 282943,
+      "name": "What do you think - Instrumental",
+      "url": "https://open.spotify.com/track/4njlAyCTCIMqKzWAcKTFTs"
+    },
+    {
+      "added_at": "2023-03-27 10:51:00",
+      "album": {
+        "name": "Delivery Man, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/45NhpIvySrXGxhKv2u3HhB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 220298,
+      "name": "Didn\u2019t love to fullest - Instrumental",
+      "url": "https://open.spotify.com/track/5Z3e87951foxdZowDjcogV"
     }
   ],
   "unique_name": "\ub51c\ub9ac\ubc84\ub9ac\ub9e8 (Delivery Man)",

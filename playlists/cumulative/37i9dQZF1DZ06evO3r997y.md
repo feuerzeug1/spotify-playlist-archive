@@ -4,7 +4,7 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 55 min
+59 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 | 2022-06-09 |  |
 | [Always Going My Way](https://open.spotify.com/track/12qUwGKPv6SLq11EdyE4Zc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 3:54 | 2022-11-28 | 2022-12-13 |
 | [Always Going My Way](https://open.spotify.com/track/1E2hCcuow0owPXhYaMmvHr) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 3:54 | 2022-06-27 | 2022-06-29 |
-| [Blue Velvet \- From CrosSing](https://open.spotify.com/track/1stcaK4Jiau9TzqkxujW8C) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- From CrosSing](https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q) | 3:54 | 2022-12-23 |  |
+| [Blue Velvet \- From CrosSing](https://open.spotify.com/track/1stcaK4Jiau9TzqkxujW8C) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- From CrosSing](https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q) | 3:54 | 2022-12-23 | 2023-03-28 |
+| [Blue Velvet \- from CrosSing](https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- from CrosSing](https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh) | 3:54 | 2023-03-27 |  |
 | [BYERONY](https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:04 | 2022-10-13 |  |
 | [Closer](https://open.spotify.com/track/46DQR62IXSiU9ssucbeARZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/3V5PD4Kz8oFjW9WLmd15Vr) | 3:18 | 2022-09-22 |  |
 | [Closer](https://open.spotify.com/track/7kwA5rCeqFbExV7AAq7tuM) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 3:18 | 2022-06-09 | 2023-03-12 |

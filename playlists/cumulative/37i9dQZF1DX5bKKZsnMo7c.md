@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-220 songs - 12 hr 6 min
+222 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,10 +58,12 @@
 | [Coffee](https://open.spotify.com/track/2zmo93xTzKTP0lztR9iy9H) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Shop: A Pop Opera](https://open.spotify.com/album/1PzQlma9FcRRGwMDmJIUyX) | 0:58 | 2023-01-18 |  |
 | [cold weather](https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 2:18 | 2022-07-07 | 2023-01-14 |
 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 | 2023-01-13 |  |
+| [Cupid](https://open.spotify.com/track/2t7RNUa8I8fbZAEAmZOkBl) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Dinner Is Not Over / There's Something Happening / Keyman / Cupid](https://open.spotify.com/album/5fj1GdFNLbru8pCOqNmLaK) | 3:40 | 2023-03-27 |  |
 | [cut my fingers off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 | 2022-05-17 | 2023-01-14 |
 | [Danke Schoen](https://open.spotify.com/track/0udPmR2HQO8iaCMqF6rrIL) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/1kwJPORCIZEZ57iE9mziXZ) | 2:38 | 2023-02-02 | 2023-02-05 |
 | [Danke Schoen](https://open.spotify.com/track/4uq0JdZB0O52Zw3OHl3O1n) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71) | 2:38 | 2023-02-02 |  |
 | [despair](https://open.spotify.com/track/292JruITePIpFvRpPb85GF) | [leo.](https://open.spotify.com/artist/0YYWwSEUilM9sK1A12GSGC) | [despair](https://open.spotify.com/album/4N3ckWWF9Z4ysPv7LHakOr) | 2:55 | 2022-05-17 |  |
+| [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 | 2023-03-27 |  |
 | [Doomscrollers](https://open.spotify.com/track/65TxQkmxPrkLujVZjjWLj8) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Doomscrollers](https://open.spotify.com/album/0i9pDfwACtlX4kkXd9tE6I) | 4:23 | 2022-11-25 | 2022-11-30 |
 | [Drown Me!](https://open.spotify.com/track/0HqpmGvujuyXod8f9LDvZo) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5l3wkGjjglxU4Z9fSE5YA6) | 2:52 | 2022-08-05 | 2022-10-05 |
 | [Drown Me!](https://open.spotify.com/track/6e5joNjVEy5XYZ9EBFYslh) | [Junie & TheHutFriends](https://open.spotify.com/artist/0gyIKQjGADguUDfr7NdPU4) | [Drown Me!](https://open.spotify.com/album/5L2TC2jEJAYN9gLE7pMohj) | 2:52 | 2022-05-17 | 2022-08-06 |

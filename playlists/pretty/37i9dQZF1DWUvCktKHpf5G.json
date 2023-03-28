@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 188719,
+  "num_followers": 188864,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzNzYwMCwwMDAwMDAwMGU2YWIwNjJkMDc1YWU1ZTNiYWUwNTFmNzc5NTViMjFj",
+  "snapshot_id": "MTY3OTYzNzYwMCwwMDAwMDAwMGUwMjNlNzc0ZjU3ZDAwNDM5MTMwMTY5NTk5NmY0NWRh",
   "tracks": [
     {
       "added_at": "2023-03-02 18:30:35",
@@ -123,26 +123,6 @@
     {
       "added_at": "2023-03-02 18:30:35",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 206420,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
-    },
-    {
-      "added_at": "2023-03-02 18:30:35",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2023-03-02 18:30:35",
+      "album": {
+        "name": "C\u00d3MO SE SIENTE (Remix)",
+        "url": "https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "C\u00d3MO SE SIENTE - Remix",
+      "url": "https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC"
     },
     {
       "added_at": "2023-03-24 06:00:00",
@@ -187,22 +187,22 @@
     {
       "added_at": "2023-03-02 18:30:35",
       "album": {
-        "name": "C\u00d3MO SE SIENTE (Remix)",
-        "url": "https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 227520,
-      "name": "C\u00d3MO SE SIENTE - Remix",
-      "url": "https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC"
+      "duration_ms": 206420,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
       "added_at": "2023-03-02 18:30:35",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-03-02 18:30:35",
       "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2023-03-02 18:30:35",
+      "album": {
         "name": "Pretty Boy, Dirty Boy",
         "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
       },
@@ -399,6 +415,26 @@
       "duration_ms": 207306,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
+    },
+    {
+      "added_at": "2023-03-24 06:00:00",
+      "album": {
+        "name": "LA FOTO REMIX",
+        "url": "https://open.spotify.com/album/4HdjfhDGrYMZQ20SfPyrVi"
+      },
+      "artists": [
+        {
+          "name": "Zaucy",
+          "url": "https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv"
+        },
+        {
+          "name": "DEEIKEL",
+          "url": "https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi"
+        }
+      ],
+      "duration_ms": 173348,
+      "name": "LA FOTO REMIX",
+      "url": "https://open.spotify.com/track/2xRYql6rtMQ5peet1FBrGp"
     },
     {
       "added_at": "2023-03-02 18:30:35",
@@ -425,40 +461,20 @@
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
     },
     {
-      "added_at": "2023-03-24 06:00:00",
-      "album": {
-        "name": "LA FOTO REMIX",
-        "url": "https://open.spotify.com/album/4HdjfhDGrYMZQ20SfPyrVi"
-      },
-      "artists": [
-        {
-          "name": "Zaucy",
-          "url": "https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv"
-        },
-        {
-          "name": "DEEIKEL",
-          "url": "https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi"
-        }
-      ],
-      "duration_ms": 173348,
-      "name": "LA FOTO REMIX",
-      "url": "https://open.spotify.com/track/2xRYql6rtMQ5peet1FBrGp"
-    },
-    {
       "added_at": "2023-03-02 18:30:35",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2023-03-02 18:30:35",
@@ -495,38 +511,6 @@
       "duration_ms": 199711,
       "name": "Fantasias",
       "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
-    },
-    {
-      "added_at": "2023-03-02 18:30:35",
-      "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2023-03-02 18:30:35",
-      "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2023-03-02 18:30:35",
@@ -587,26 +571,42 @@
     {
       "added_at": "2023-03-02 18:30:35",
       "album": {
-        "name": "Mayor Que Usted",
-        "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
       },
       "artists": [
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 233519,
-      "name": "Mayor Que Usted",
-      "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
+    },
+    {
+      "added_at": "2023-03-02 18:30:35",
+      "album": {
+        "name": "La Loto",
+        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "La Loto",
+      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
     },
     {
       "added_at": "2023-03-02 18:30:35",
@@ -643,42 +643,26 @@
     {
       "added_at": "2023-03-02 18:30:35",
       "album": {
-        "name": "La Loto",
-        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+        "name": "Mayor Que Usted",
+        "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 190666,
-      "name": "La Loto",
-      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
-    },
-    {
-      "added_at": "2023-03-02 18:30:35",
-      "album": {
-        "name": "Ay, DiOs M\u00edo!",
-        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
+      "duration_ms": 233519,
+      "name": "Mayor Que Usted",
+      "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
     },
     {
       "added_at": "2023-03-02 18:30:35",
@@ -715,6 +699,22 @@
       "duration_ms": 208291,
       "name": "Sexo Virtual",
       "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
+    },
+    {
+      "added_at": "2023-03-02 18:30:35",
+      "album": {
+        "name": "Ay, DiOs M\u00edo!",
+        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
     },
     {
       "added_at": "2023-03-02 18:30:35",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-02 18:30:35",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "La Old Skul",
-      "url": "https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4"
-    },
-    {
-      "added_at": "2023-03-02 18:30:35",
-      "album": {
         "name": "Ghetto Star",
         "url": "https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 197142,
       "name": "Ghetto Star",
       "url": "https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl"
+    },
+    {
+      "added_at": "2023-03-02 18:30:35",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "La Old Skul",
+      "url": "https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4"
     },
     {
       "added_at": "2023-03-02 18:30:35",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
     },
     {
+      "added_at": "2023-03-02 18:30:35",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
       "added_at": "2023-03-17 06:00:00",
       "album": {
         "name": "Nopalatele",
@@ -935,22 +951,6 @@
       "duration_ms": 257683,
       "name": "NOPALATELE",
       "url": "https://open.spotify.com/track/0gytcfGU4mtSfckMajYQS9"
-    },
-    {
-      "added_at": "2023-03-02 18:30:35",
-      "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-03-02 18:30:35",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-03-02 18:30:35",
       "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
-    },
-    {
-      "added_at": "2023-03-02 18:30:35",
-      "album": {
         "name": "Reloj",
         "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 231594,
       "name": "Reloj",
       "url": "https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8"
+    },
+    {
+      "added_at": "2023-03-02 18:30:35",
+      "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
     }
   ],
   "unique_name": "Perrea en tu Cuarto",

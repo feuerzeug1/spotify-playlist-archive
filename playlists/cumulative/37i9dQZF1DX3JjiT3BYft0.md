@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-326 songs - 23 hr 48 min
+327 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [FIRE BIRD](https://open.spotify.com/track/3wClfr5M3l64ZldVXcig4g) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/2qtBhMhhcR4hO7JQOuyHI5) | 5:24 | 2022-06-23 | 2022-10-02 |
 | [FIRE BIRD](https://open.spotify.com/track/5YT7dwVt5HIm8PuXvXOS4s) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/2rkv0Q1Yn6raeCuk9U4ta5) | 5:25 | 2022-05-17 | 2022-07-28 |
 | [flame of hope](https://open.spotify.com/track/5gVM0EJQqP5dOc3fnIpHSb) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk) | 4:12 | 2022-09-20 | 2023-03-18 |
+| [flame of hope](https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:12 | 2023-03-14 |  |
 | [flame of hope](https://open.spotify.com/track/33uMSExcz6590qktXXRXD2) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4bDKZvWxDa4b2U5f6HxkqD) | 4:13 | 2022-06-23 | 2022-07-10 |
 | [flame of hope](https://open.spotify.com/track/5uszBzVvtvw29ZTYmpyE6U) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Bloom Bloom](https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf) | 4:13 | 2022-06-23 | 2022-10-02 |
 | [fly with the night](https://open.spotify.com/track/1wQ3iyPGJ1TeCsHUby6ta2) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [fly with the night](https://open.spotify.com/album/4gI6NqgDPRzTNYzHko6Cyv) | 4:00 | 2022-05-17 | 2022-07-29 |
@@ -220,7 +221,7 @@
 | [せかいのっびのびトレジャー!](https://open.spotify.com/track/1AdZsqtHt4XGHy2TLomUtC) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU) | 3:30 | 2022-06-23 | 2022-07-29 |
 | [ときめきエクスペリエンス!](https://open.spotify.com/track/52sMyIxbz7FuCnaQyCacIk) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TVアニメ「BanG Dream!」OP主題歌「ときめきエクスペリエンス!」](https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh) | 4:17 | 2022-05-17 | 2022-07-28 |
 | [ときめきエクスペリエンス!](https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 4:17 | 2022-10-25 | 2022-12-03 |
-| [どきどきSING OUT!](https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 4:08 | 2022-09-20 |  |
+| [どきどきSING OUT!](https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 4:08 | 2022-09-20 | 2023-03-28 |
 | [どきどきSING OUT!](https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 4:09 | 2022-05-17 | 2022-07-28 |
 | [ないすみちゅっ!](https://open.spotify.com/track/2KBY80dH79sb17t4qNrbeJ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 4:17 | 2022-06-23 | 2022-07-25 |
 | [にこ×にこ=ハイパースマイルパワー!](https://open.spotify.com/track/5W2FJECSmMGcEpzJ2g7cRL) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 3:52 | 2022-05-17 | 2022-06-23 |

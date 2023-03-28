@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,562 songs - 2 day 21 hr 38 min
+1,564 songs - 2 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Cascada](https://open.spotify.com/track/7dMT5XlXtLoFkUBzJapLUr) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Cascada](https://open.spotify.com/album/7IQlp6U0qYQuaYZqgD96Z0) | 3:09 | 2022-11-09 |  |
 | [Castor](https://open.spotify.com/track/7urR40aaLV1jRneNj2ykva) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Castor / Pollux](https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t) | 2:48 | 2019-06-13 | 2021-03-24 |
 | [Causality](https://open.spotify.com/track/2HQg7uhg7cLtMmzpwN2Itf) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Causality](https://open.spotify.com/album/7HVzua7bH0DxfiHETR7ytg) | 2:03 | 2019-07-05 | 2021-01-18 |
-| [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 | 2021-10-01 |  |
+| [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 | 2021-10-01 | 2023-03-28 |
 | [Ce jour là](https://open.spotify.com/track/3lUAjSVqgu8A7e7Vhlu74G) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Ce jour là](https://open.spotify.com/album/2XPO10I96fugOchMhRpqxW) | 2:27 | 2020-08-04 | 2020-10-13 |
 | [Ce n’est pas la mer à boire](https://open.spotify.com/track/2LdkHXvU7cvGzybVuIBlXZ) | [Vail Bizier](https://open.spotify.com/artist/33QYi4D3jB1OJig8upNeMR) | [Ce n’est pas la mer à boire](https://open.spotify.com/album/6KBRQMShV9Bw3ANK9PIQI6) | 2:31 | 2019-12-17 | 2021-04-22 |
 | [Ceci n'est pas une Valse](https://open.spotify.com/track/2vsAgLO9cV6kTOXYiPHSKN) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Ceci n'est pas une Valse](https://open.spotify.com/album/5IngGOItgt0ztSb84yyP23) | 1:45 | 2021-11-11 | 2022-04-29 |
@@ -473,6 +473,7 @@
 | [Geniality](https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Geniality](https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn) | 2:50 | 2022-01-04 | 2023-01-10 |
 | [Gentle Stir](https://open.spotify.com/track/43gzo5RNf3HP1OLoJQsmQG) | [McCadden](https://open.spotify.com/artist/5EdcxBjQTVWZ1WN3S9L02i) | [Gentle Stir](https://open.spotify.com/album/0MUXkBjytOAusBIhPgX4ch) | 2:39 | 2022-10-13 |  |
 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2021-04-28 | 2022-09-24 |
+| [Gently falling rain](https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Gently falling rain](https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c) | 2:07 | 2023-03-27 |  |
 | [Giuoco Piano](https://open.spotify.com/track/6Uk13zgb5WGAm44OpM2FXX) | [Uno Conte](https://open.spotify.com/artist/259PkwoDlbW9KUQMPhWnxi) | [Giuoco Piano](https://open.spotify.com/album/3Bps7quQzAirtS9iasIPHh) | 2:20 | 2020-08-04 | 2022-04-15 |
 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-02-03 |  |
 | [Gleam](https://open.spotify.com/track/4ODEul9zEesE2R8wMUs8eh) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Gleam](https://open.spotify.com/album/1km00QBaAtmwWqsQWjrsPH) | 2:33 | 2021-09-09 | 2022-07-07 |
@@ -1375,6 +1376,7 @@
 | [Thinking about Jane](https://open.spotify.com/track/1p8USVDsfuc1bJPYEHdaXK) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Thinking about Jane](https://open.spotify.com/album/1IndXeuwjyE7OReVMHEiEY) | 2:24 | 2019-10-16 | 2020-04-28 |
 | [This Moment](https://open.spotify.com/track/6gp6sejiJXYU1i6xHPf8hh) | [Bela Nemeth](https://open.spotify.com/artist/53y0Ghe3FgBnguwmI68OWT) | [This Moment](https://open.spotify.com/album/1vRv2ehtwimsY7L34S6Rbd) | 2:34 | 2019-05-26\* | 2021-06-24 |
 | [This Morning](https://open.spotify.com/track/4222J8ROCEqgnnLqCC6Z7l) | [Thomasine Robinson](https://open.spotify.com/artist/0cJB6JE2hZxv7fH4XBs4dF) | [This Morning](https://open.spotify.com/album/08wPquhlETA4U8P0Q2xbd0) | 1:39 | 2019-11-12 | 2020-01-08 |
+| [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 | 2023-03-27 |  |
 | [Three Bridges](https://open.spotify.com/track/6rqxGNzKxZUZeOysgBP09M) | [Juan María Solare](https://open.spotify.com/artist/0sr00YxbHKRAruzYrJ6PEg) | [Numbered Places, Vol\. 1](https://open.spotify.com/album/4YLbylwabfaYGdNjVLJvOo) | 2:25 | 2020-01-22 | 2020-09-30 |
 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 | 2019-05-26\* | 2019-08-30 |
 | [Throes](https://open.spotify.com/track/41Uz23jubhxB8YREUHvueV) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/1bAXNvCKZQ7aB5m3d6rFa4) | 0:54 | 2019-05-26\* | 2019-11-14 |
@@ -1527,7 +1529,7 @@
 | [Whenever You Are With Me](https://open.spotify.com/track/2E4e5HgV9h58cJdYcZpEX0) | [Aron Risa](https://open.spotify.com/artist/4ZBYqZ6jRnD5xPtLWDvexS) | [Whenever You Are With Me](https://open.spotify.com/album/1uKbXNyPfiNS2vIxTj7QiA) | 2:26 | 2019-10-16 | 2020-03-03 |
 | [Where The Clouds Go](https://open.spotify.com/track/1HNMaNRnCVbX3ZtW92QsyZ) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Where The Clouds Go](https://open.spotify.com/album/0qtsQ42NbVrziSnmt8xANe) | 2:28 | 2020-08-25 | 2021-09-09 |
 | [Where's My Love \- Piano Solo](https://open.spotify.com/track/7ih16mauHrpUMOIeWEOyVO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Piano Solo\)](https://open.spotify.com/album/6YhPay3BxJkrx8WGrgNdj2) | 4:34 | 2019-05-26\* | 2020-08-11 |
-| [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-03-10 |  |
+| [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-03-10 | 2023-03-28 |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-03-10 |  |
 | [Whispered Winds](https://open.spotify.com/track/3Ts6C6TMvIzPIvdudMX7bH) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Whispered Winds](https://open.spotify.com/album/0et0WwbdnUCOzoDMQ4K8yQ) | 2:28 | 2020-11-03 | 2021-09-24 |
 | [Whitby](https://open.spotify.com/track/7JVjcxfs9CG6Ozlmibdrkl) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Whitby](https://open.spotify.com/album/14YTLf3CZsyOvooAwyJfUV) | 3:15 | 2020-05-06 | 2021-09-09 |

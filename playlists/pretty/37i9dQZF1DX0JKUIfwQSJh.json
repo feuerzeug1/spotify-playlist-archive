@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 833266,
+  "num_followers": 833456,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MTAwMSwwMDAwMDAwMDBiOTlhYzcyYTZiMzZjZjZmNDA3NjlkODY2YjU5YTAx",
+  "snapshot_id": "MTY3Mjc2MTAwMSwwMDAwMDAwMGQxNDc5Mzk1ODNmYzIxMmFkYzliYWE4MjY3ZjcyMmY4",
   "tracks": [
     {
       "added_at": "2023-01-03 15:50:01",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
+        "name": "I Can Stand A Little Rain",
+        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 228133,
       "name": "Across The Universe - Remastered 2009",
       "url": "https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
-        "name": "I Can Stand A Little Rain",
-        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Led Zeppelin IV (Remaster)",
-        "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Going to California - Remaster",
-      "url": "https://open.spotify.com/track/1YVc2NJBwOtAebQiSUbt5T"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "Songs Of Love And Hate",
         "url": "https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B"
       },
@@ -799,22 +783,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 229066,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/0LXljhKMUgoLv8tLwZ1hmf"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Led Zeppelin IV (Remaster)",
+        "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Going to California - Remaster",
+      "url": "https://open.spotify.com/track/1YVc2NJBwOtAebQiSUbt5T"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0"
     },
     {
       "added_at": "2023-01-03 15:50:01",

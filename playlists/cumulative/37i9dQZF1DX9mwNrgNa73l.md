@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-125 songs - 14 hr 18 min
+126 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aameen Sum Aameen](https://open.spotify.com/track/2tvbXJeZYwii8TQrq8b3Mx) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Aameen Sum Aameen](https://open.spotify.com/album/7GAzkyAAWcYpcfB5l28cYm) | 4:23 | 2022-06-21 |  |
 | [Aaqa](https://open.spotify.com/track/1wA9pLwDJstxgABp8D4mDF) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 9: Sound of the Nation](https://open.spotify.com/album/4X5hkWWjsoqKNeDimjWF5L) | 8:27 | 2022-06-21 | 2022-07-29 |
 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 | 2022-06-21 |  |
+| [Aaqa Teri Rehmat \- Presented by Rivayat](https://open.spotify.com/track/3QuoSyPh0KEYyC1brxkEJr) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy), [Afzaal Ali Khan](https://open.spotify.com/artist/4P6RKmuyKGks8Nm6G2f3Vd), [Anton Davidyants](https://open.spotify.com/artist/66d6zyM2sXbxpVa6BVMLKq) | [Aaqa Teri Rehmat \(Presented by Rivayat\)](https://open.spotify.com/album/3dGlou4FunV5GGtjB7TUQO) | 12:17 | 2023-03-27 |  |
 | [Aas Paas Khuda](https://open.spotify.com/track/3kuxr8U3QynLzyW82p5hYR) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 5:19 | 2022-10-25 |  |
 | [Aas Paas Khuda \(Unplugged\)](https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 3:24 | 2022-06-21 |  |
 | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/track/7pBcon5GqvUfn58HRfF8wv) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId) | 6:40 | 2022-08-02 |  |

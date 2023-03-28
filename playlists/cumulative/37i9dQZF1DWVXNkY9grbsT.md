@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-304 songs - 1 day 1 hr 45 min
+305 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [AVI \- Joseph Shabason + Vibrant Matter Remix](https://open.spotify.com/track/6ACrwGYBc9Zxq4xLhKqulg) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Vibrant Matter](https://open.spotify.com/artist/55q7xAm5t2bTlhtSw8N2UY) | [AVI REMIX EP](https://open.spotify.com/album/2kPAby0flE4TQGyZvoV8Fc) | 3:56 | 2022-11-22 |  |
 | [Baresi](https://open.spotify.com/track/3X0GKQRNLjVjNs3E5z695C) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Baresi](https://open.spotify.com/album/0sBNgCtkmhq1eC7RR3UQ1y) | 4:54 | 2021-12-26 | 2022-07-27 |
 | [Beethoven 250](https://open.spotify.com/track/4F4XbR8oZKp4iNj1WAq11d) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [@0 EP2](https://open.spotify.com/album/7JhFp9EZEw22dpg3P93HiO) | 4:11 | 2021-12-26 |  |
-| [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 | 2022-03-25 |  |
+| [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 | 2022-03-25 | 2023-03-28 |
 | [Blaumeise](https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Avichrom](https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP) | 5:09 | 2022-03-04 |  |
 | [Blessed Are The Lovers](https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA) | [Soundwalk Collective](https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC), [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Lovotic](https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0) | 5:47 | 2022-04-01 |  |
 | [Bluet](https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Bluet](https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP) | 4:51 | 2022-11-11 |  |
@@ -305,6 +305,7 @@
 | [White Cells](https://open.spotify.com/track/5s07q4raSD1ib5O9ZvARJy) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [White Cells](https://open.spotify.com/album/62wYM2rikYdv1siwTNrNqO) | 5:48 | 2022-03-18 | 2022-07-27 |
 | [Who You Are](https://open.spotify.com/track/7B8kFfDxMuQxR0nB7ZD1RM) | [Etibar Asadli](https://open.spotify.com/artist/1pxYHvjHJul1t7PFTZaf9c) | [Who You Are](https://open.spotify.com/album/2flEFWLYGlxaX6JR3AY3Pl) | 4:24 | 2022-01-28 | 2022-07-12 |
 | [Wild Animal](https://open.spotify.com/track/04mOMGg8C8h8sJMALXhQB4) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Unfolding](https://open.spotify.com/album/7wxd4u4qDhBamLFUUp4J2H) | 3:55 | 2022-04-01 | 2023-02-24 |
+| [Wild Animal](https://open.spotify.com/track/77lMQKLRs97Qoveegdf2TA) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Unfolding](https://open.spotify.com/album/1i4GbF35hBkHQhPPfa1oTU) | 3:55 | 2023-03-23 |  |
 | [Windmills \- Salamanda Remix](https://open.spotify.com/track/49w8Me7pwfgdHidun5OXEh) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Windmills \(Salamanda Remix\)](https://open.spotify.com/album/79FJtZq42O1z9ISnqZqMWL) | 3:29 | 2023-01-16 |  |
 | [Wing Pinger 02](https://open.spotify.com/track/1Qlk7bOGlvqtncjCZf8bJE) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 5:01 | 2021-12-26 | 2023-02-20 |
 | [Winter's Melt](https://open.spotify.com/track/3rcSl72boGsikNIlF1mWWZ) | [Carl Lord](https://open.spotify.com/artist/2LmBmuBKjJg3Xqh24WwpoN) | [Winter's Melt](https://open.spotify.com/album/0lzh9y8SDCaHqAipgINFwd) | 6:25 | 2022-03-25 | 2023-01-27 |

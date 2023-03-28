@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Jão, Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,669 likes - 95 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,631 likes - 95 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 |
+| 1 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 |
 | 2 | [Make Love](https://open.spotify.com/track/3aQVJli1oacTuEez1JNOp9) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:41 |
 | 3 | [Hotel Caro](https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Hotel Caro](https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU) | 3:41 |
 | 4 | [BAILE \(dnça p vc\)](https://open.spotify.com/track/0smLY1jIV1IuSVlWRqwRDu) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [BAILE \(dnça p vc\)](https://open.spotify.com/album/7EzrYEMoctQGQolFqUe32F) | 3:27 |
-| 5 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 |
+| 5 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 |
 | 6 | [Viver Não É Fácil](https://open.spotify.com/track/6buSH6iPzl8aLxULGCyqP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Viver Não É Fácil](https://open.spotify.com/album/4E8UaGCzrc81dToAd5y1CW) | 2:44 |
 | 7 | [Mais Uma](https://open.spotify.com/track/1ttR4WB57ZZQqVBGiUZVis) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9), [Zain](https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp) | [Mais Uma](https://open.spotify.com/album/4dnZFRXRCa2ez2jLAUcNp1) | 2:07 |
 | 8 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 94 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 |
 | 95 | [VOU EMBORA DO BRASIL](https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [VOU EMBORA DO BRASIL](https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD) | 2:57 |
 
-Snapshot ID: `MTY3OTYyNjgwMCwwMDAwMDAwMDMwNzE0NjRhODkyMTA3MzJkNjE3M2JhMTg3YWIyMGRm`
+Snapshot ID: `MTY3OTkyODY2OCwwMDAwMDAwMDVhM2NmYjE0ZDUzMDU2YTJiYWE2ZWU4ZTk4MTE1OTg4`

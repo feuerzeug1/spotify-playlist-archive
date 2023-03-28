@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 755066,
+  "num_followers": 755268,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMGQyZWMwY2QyNDE2OTc3ODFiMjZjY2QxMDE4MTdmYjdi",
+  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMGY5OGJjNjE2MTAxNzRhNWUzYTU1Y2ZkMTQwYWFlMzMz",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Somebody Else's Guy",
+        "url": "https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 386026,
+      "name": "Somebody Else's Guy",
+      "url": "https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "The Gap Band IV",
         "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 276666,
       "name": "So Emotional",
       "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Somebody Else's Guy",
-        "url": "https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 386026,
-      "name": "Somebody Else's Guy",
-      "url": "https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 297973,
-      "name": "The Pleasure Principle",
-      "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 232133,
       "name": "Back To Life (However Do You Want Me)",
       "url": "https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "The Pleasure Principle",
+      "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"
     }
   ],
   "unique_name": "\u201980s Jam Session",

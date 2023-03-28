@@ -1,12 +1,12 @@
 {
   "description": "Explore the world of ballet.",
-  "num_followers": 264398,
+  "num_followers": 264472,
   "original_name": "Classical Ballet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODIyMjEwOSwwMDAwMDAwMDE5ZGY0NGY5MjY4ODRhNzc5Y2EwNmMxOTUzZjgwOTk5",
+  "snapshot_id": "MTY1ODIyMjEwOSwwMDAwMDAwMGFjYWJjMTAyNGE1NmQ5NmYxN2FkMzAxYjA0NDU3NGUy",
   "tracks": [
     {
       "added_at": "2022-07-08 09:57:31",
@@ -300,13 +300,9 @@
       "added_at": "2022-07-08 09:57:31",
       "album": {
         "name": "Khachaturian, A.I.: Spartacus [Ballet]",
-        "url": "https://open.spotify.com/album/7LnY6AhixCNVZBPk9l1gko"
+        "url": "https://open.spotify.com/album/1DSECbUuomWOMgZEak0GDv"
       },
       "artists": [
-        {
-          "name": "Yuri Grigorovich",
-          "url": "https://open.spotify.com/artist/1M5N3Z40b04WgW0Hl60s5z"
-        },
         {
           "name": "Aram Khachaturian",
           "url": "https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in"
@@ -325,8 +321,8 @@
         }
       ],
       "duration_ms": 563693,
-      "name": "Spartacus (1968 Bolshoi version) (arr. Y. Grigorovich): Act III: Adagio of Spartacus and Phrygia",
-      "url": "https://open.spotify.com/track/0J6itzTcqu5pIPFS7fXbzy"
+      "name": "Spartacus, Act III: Adagio of Spartacus and Phrygia (arr. Y. Grigorovich) [1968 Bolshoi Version]",
+      "url": "https://open.spotify.com/track/1SWAxEdvQpu9ARUn9Xw1bp"
     },
     {
       "added_at": "2022-07-08 09:57:31",

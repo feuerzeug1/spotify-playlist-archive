@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics.",
-  "num_followers": 147943,
+  "num_followers": 148164,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg5ODAyMywwMDAwMDAwMDAyZDY4YzI4MGRmMTU2ZDg5NDNjYzJhOGE5OWI0YmEw",
+  "snapshot_id": "MTY3NTg5ODAyMywwMDAwMDAwMGNiYmZjNjU3ZTMzNWZmNWQ1MzU0NWE3ZDljZjExY2Ew",
   "tracks": [
     {
       "added_at": "2023-02-08 23:13:43",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -195,6 +179,22 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 206611,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 206611,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -311,18 +311,22 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 184970,
-      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
-      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -343,22 +347,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Viaje Por Lo Eterno",
-        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
-      },
-      "artists": [
-        {
-          "name": "Reyno",
-          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Nunca Me Dejes",
-      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
       },
@@ -375,22 +363,34 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+      "duration_ms": 184970,
+      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
+      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Viaje Por Lo Eterno",
+        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
+      },
+      "artists": [
+        {
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
         "name": "Nuevos Aires",
         "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 212894,
       "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 261813,
-      "name": "Ejercicio #16 - Remastered",
-      "url": "https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Gran Santiago",
         "url": "https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 228098,
       "name": "Eras mi persona favorita",
       "url": "https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 261813,
+      "name": "Ejercicio #16 - Remastered",
+      "url": "https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 190462,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
         "name": "Ag\u00fcita",
         "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 190462,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Oom Velt",
         "url": "https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 252889,
       "name": "Toca Madera",
       "url": "https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
-        "name": "Ag\u00fcita: Remixes",
-        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1659,6 +1643,22 @@
       "duration_ms": 234240,
       "name": "Inercia",
       "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Estereomance",
+        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
+      },
+      "artists": [
+        {
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+        }
+      ],
+      "duration_ms": 255597,
+      "name": "Dung Ding Dang",
+      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
     }
   ],
   "unique_name": "Latin Indie Classics",

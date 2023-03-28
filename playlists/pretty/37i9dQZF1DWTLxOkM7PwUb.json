@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 10557,
+  "num_followers": 10681,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGZiNDM0YTE0YjViNTRiMmUyYjEwZDYzN2FkMjJkMDVh",
+  "snapshot_id": "MTY3MDU1NDgwMCwwMDAwMDAwMGZlNDBhZWUxMDhmOTg1YzY4NWQ3OGYwOTM2MTg3Mjg3",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Dos Mil 16",
+      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "La Oscuridad",
         "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 264905,
       "name": "Triste",
       "url": "https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Dos Mil 16",
-      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -227,6 +227,38 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 221083,
+      "name": "Chica Paranormal",
+      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Amorfoda",
+        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 153887,
+      "name": "Amorfoda",
+      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
       },
@@ -243,6 +275,30 @@
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "C\u00f3mo Le Digo",
+        "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/4rbj52UIyw3wd42EMaS0Tp"
+        }
+      ],
+      "duration_ms": 226100,
+      "name": "C\u00f3mo Le Digo",
+      "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -279,62 +335,6 @@
       "duration_ms": 330040,
       "name": "Adem\u00e1s de M\u00ed - Remix",
       "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Amorfoda",
-        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 153887,
-      "name": "Amorfoda",
-      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 221083,
-      "name": "Chica Paranormal",
-      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "C\u00f3mo Le Digo",
-        "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        },
-        {
-          "name": "Asan",
-          "url": "https://open.spotify.com/artist/4rbj52UIyw3wd42EMaS0Tp"
-        }
-      ],
-      "duration_ms": 226100,
-      "name": "C\u00f3mo Le Digo",
-      "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 226626,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Nunca Me Amo",
         "url": "https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU"
       },
@@ -627,6 +607,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 270400,
       "name": "ODIO",
       "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Ahora No (feat. Kodigo)",
-        "url": "https://open.spotify.com/album/6hoAtWCxorwTPscEuWK4Ys"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Ahora No (feat. Kodigo)",
-      "url": "https://open.spotify.com/track/26CBgVxQ7oxdiKWVpfN9xJ"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Illuminati (Remix)",
         "url": "https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 270608,
       "name": "Quedate Sola",
       "url": "https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Ahora No (feat. Kodigo)",
+        "url": "https://open.spotify.com/album/6hoAtWCxorwTPscEuWK4Ys"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Ahora No (feat. Kodigo)",
+      "url": "https://open.spotify.com/track/26CBgVxQ7oxdiKWVpfN9xJ"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Bonus Trap",
+        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "Me Prefiere A Mi",
+      "url": "https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "MORDIENDO EL BOZAL",
         "url": "https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 197107,
       "name": "LA PRIMERA VEZ",
       "url": "https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Bonus Trap",
-        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 166346,
-      "name": "Me Prefiere A Mi",
-      "url": "https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "L\u00e1grimas",
         "url": "https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 235720,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1895,30 +1895,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Calle 2 (Remix)",
-        "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Coscu",
-          "url": "https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Calle 2 - Remix",
-      "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "CON OTRA",
         "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
       },
@@ -1931,6 +1907,26 @@
       "duration_ms": 181500,
       "name": "CON OTRA",
       "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Debo Cambiar (feat. KHEA)",
+        "url": "https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 172803,
+      "name": "Debo Cambiar (feat. KHEA)",
+      "url": "https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1963,6 +1959,30 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Calle 2 (Remix)",
+        "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Coscu",
+          "url": "https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Calle 2 - Remix",
+      "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65"
       },
@@ -1979,26 +1999,6 @@
       "duration_ms": 196800,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Debo Cambiar (feat. KHEA)",
-        "url": "https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To"
-      },
-      "artists": [
-        {
-          "name": "Asan",
-          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 172803,
-      "name": "Debo Cambiar (feat. KHEA)",
-      "url": "https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q"
     },
     {
       "added_at": "2022-12-09 03:00:00",

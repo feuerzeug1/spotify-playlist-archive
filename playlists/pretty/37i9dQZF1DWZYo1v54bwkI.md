@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,014 likes - 192 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,304 likes - 192 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 71 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 |
 | 72 | [Silver Ocean](https://open.spotify.com/track/0nUmtaGW0KUELFtMBhxeAt) | [Monet Benitez](https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz) | [Silver Ocean](https://open.spotify.com/album/2dyjYTPkDOwRfbBEuPxPNC) | 2:49 |
 | 73 | [Spiritus](https://open.spotify.com/track/2CZtUi10ysWgxKIcTqWOti) | [Devon Hayes](https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W) | [Spiritus](https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm) | 2:27 |
-| 74 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |
+| 74 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |
 | 75 | [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 |
 | 76 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 |
 | 77 | [Rosētum](https://open.spotify.com/track/0Q8YbkwiUQTvxTYvofeAJB) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Rosētum](https://open.spotify.com/album/3nug1l3A0hWw3xNS7zhflP) | 3:20 |

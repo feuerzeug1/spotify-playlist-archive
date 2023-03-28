@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,212 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,597 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 9 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 10 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 |
 | 11 | [Warsh\_Tippy and Zelda](https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Grade Pending](https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP) | 4:14 |
-| 12 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 |
+| 12 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 |
 | 13 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 |
-| 14 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 |
+| 14 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 |
 | 15 | [Become the Warm Jets](https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 5:34 |
 | 16 | [Chamber of Reflection \(Live Cover\)](https://open.spotify.com/track/2wCbsLmmjendUDzsMGubP0) | [Your Anxiety Buddy](https://open.spotify.com/artist/6krQn0Lyb7Wj0Yz03Z2Ts0) | [Chamber of Reflection \(Remixes\)](https://open.spotify.com/album/4SmPOUhbSUydP4jg0KZNfT) | 2:30 |
 | 17 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 49 | [Familiar Fields](https://open.spotify.com/track/2JaUbapUFcKEly61vqlaRz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 5:12 |
 | 50 | [Triptych](https://open.spotify.com/track/5SYfajDZMuiromYotmMp3i) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:06 |
 
-Snapshot ID: `MTY3OTU5NDkyNSwwMDAwMDAwMGRlYTBlMDJlODIxY2UzNGRiMzRjYjM4NTJkZmUxMDc3`
+Snapshot ID: `MTY3OTU5NDkyNSwwMDAwMDAwMDkzNGNjYzg2MDZmOWQ4YTUzODBkNzRiYzFjNWEwMzky`

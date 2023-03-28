@@ -4388,7 +4388,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 209142,
       "name": "Lurker",
       "url": "https://open.spotify.com/track/5rGPjCjKJUUcZpZB72hgOT"
@@ -8572,6 +8572,24 @@
       "duration_ms": 273802,
       "name": "Words - Vocal Mix",
       "url": "https://open.spotify.com/track/1RTowRTwyaC86M9ga49PYB"
+    },
+    {
+      "album": {
+        "name": "Wriggle",
+        "url": "https://open.spotify.com/album/1HmkK4okglpviZ4NssumLI"
+      },
+      "artists": [
+        {
+          "name": "Wraz.",
+          "url": "https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251571,
+      "name": "Wriggle",
+      "url": "https://open.spotify.com/track/3EW5sNOYG0NoiYDYBX3GTD"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 602667,
+  "num_followers": 603138,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDM5N2MxZWI2Nzc4MjQ0MmQxZjRmYTc0NzQ0ZWRmYWEw",
+  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDJlYTExODA5NjBkZDljNzVmNzBmNGQxYjhjZjk3MjBm",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -175,6 +175,38 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Fear of Dying",
+        "url": "https://open.spotify.com/album/56Dlp0JgocLaF8r6HYZe0Z"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 163062,
+      "name": "Fear of Dying",
+      "url": "https://open.spotify.com/track/30NCaDbTGyUJKTMrQwgXQG"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -207,38 +239,6 @@
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 118863,
-      "name": "Pink Rover",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Fear of Dying",
-        "url": "https://open.spotify.com/album/56Dlp0JgocLaF8r6HYZe0Z"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Fear of Dying",
-      "url": "https://open.spotify.com/track/30NCaDbTGyUJKTMrQwgXQG"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -281,54 +281,6 @@
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
     },
     {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "You're Not Gone, You're Just Dead!",
-        "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
-      },
-      "artists": [
-        {
-          "name": "VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 175229,
-      "name": "You're Not Gone, You're Just Dead!",
-      "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "The Phantom Agony (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Sensorium",
-      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "We Bring You the Stars",
-        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "We Bring You the Stars",
-      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "Mother",
@@ -345,36 +297,20 @@
       "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
+      "added_at": "2023-03-02 22:02:34",
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "You're Not Gone, You're Just Dead!",
+        "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
       },
       "artists": [
         {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+          "name": "VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
         }
       ],
-      "duration_ms": 210304,
-      "name": "Back From The Dead",
-      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD"
+      "duration_ms": 175229,
+      "name": "You're Not Gone, You're Just Dead!",
+      "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -395,6 +331,70 @@
       "duration_ms": 148500,
       "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
       "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "The Phantom Agony (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Sensorium",
+      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 210304,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "We Bring You the Stars",
+        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "We Bring You the Stars",
+      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4"
-    },
-    {
       "added_at": "2023-02-10 15:44:35",
       "album": {
         "name": "Not My Problem",
@@ -479,22 +463,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
       },
@@ -507,6 +475,38 @@
       "duration_ms": 243783,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2023-02-10 15:44:35",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Sad Girl Mixtape",
+        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 155342,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Entertain You",
         "url": "https://open.spotify.com/album/0kLPfU7TA882mqHNmrMVWB"
       },
@@ -607,6 +623,38 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "weapon",
+        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "weapon",
+      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
+    },
+    {
+      "added_at": "2023-03-02 22:02:34",
+      "album": {
+        "name": "BEAVER CAGE",
+        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 218487,
+      "name": "BEAVER CAGE",
+      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Handshake with Hell",
         "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
       },
@@ -623,22 +671,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "weapon",
-        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "weapon",
-      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
       },
@@ -651,22 +683,6 @@
       "duration_ms": 245470,
       "name": "Better Without You",
       "url": "https://open.spotify.com/track/2Mall0tN73JmkmihTZPlVt"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Sad Girl Mixtape",
-        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 155342,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -689,22 +705,6 @@
       "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
     },
     {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "BEAVER CAGE",
-        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 218487,
-      "name": "BEAVER CAGE",
-      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "Once",
@@ -719,6 +719,22 @@
       "duration_ms": 276200,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -803,54 +819,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
-      },
-      "artists": [
-        {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
-    },
-    {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Off With Your Head",
-        "url": "https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 132391,
-      "name": "Off With Your Head",
-      "url": "https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "FYB",
         "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
       },
@@ -883,6 +851,54 @@
       "duration_ms": 270226,
       "name": "And So It Went [Feat. Tom Morello]",
       "url": "https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Sleeping with the Enemy",
+        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 212927,
+      "name": "Sleeping with the Enemy",
+      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Off With Your Head",
+        "url": "https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 132391,
+      "name": "Off With Your Head",
+      "url": "https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -971,18 +987,18 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Sleeping with the Enemy",
-        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
       "artists": [
         {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 212927,
-      "name": "Sleeping with the Enemy",
-      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
+      "duration_ms": 300647,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
     },
     {
       "added_at": "2023-03-17 17:53:23",
@@ -1003,22 +1019,6 @@
       "duration_ms": 183491,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 300647,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
+        "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 176587,
+      "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
+      "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Do Or Die (feat. Nathan James)",
         "url": "https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 193068,
       "name": "Do Or Die (feat. Nathan James)",
       "url": "https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
-        "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 176587,
-      "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
-      "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
     },
     {
+      "added_at": "2023-03-02 22:02:34",
+      "album": {
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+    },
+    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "Ghost Myself",
@@ -1227,6 +1243,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Selkie",
+        "url": "https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 263799,
+      "name": "Selkie",
+      "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Cure 4 Psycho",
         "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
       },
@@ -1255,22 +1287,6 @@
       "duration_ms": 212826,
       "name": "Swamped XX",
       "url": "https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Selkie",
-        "url": "https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 263799,
-      "name": "Selkie",
-      "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
     },
     {
       "added_at": "2023-03-02 22:02:34",
@@ -1319,22 +1335,6 @@
       "duration_ms": 210848,
       "name": "Yeah Right",
       "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Praise Armageddonism",
-        "url": "https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb"
-      },
-      "artists": [
-        {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
-        }
-      ],
-      "duration_ms": 207808,
-      "name": "A Villain's Monologue",
-      "url": "https://open.spotify.com/track/2Cn2uobw2l8SlCL7t3KZGM"
     }
   ],
   "unique_name": "Heavy Queens",

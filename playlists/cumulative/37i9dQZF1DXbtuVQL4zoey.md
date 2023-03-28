@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-480 songs - 18 hr 34 min
+483 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [It Takes Two](https://open.spotify.com/track/39CaGsdQPIFBA3EYFRFwSF) | [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G) | [It Takes Two](https://open.spotify.com/album/68OQPLk5mwFDd9r9B4wqRR) | 1:29 | 2022-07-29 | 2022-12-10 |
 | [iykyk](https://open.spotify.com/track/1ljFw0Kwk2iYoQUeg5RAp1) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [gliding on vibes](https://open.spotify.com/album/0FsO0vZwBtOVav3LTmG274) | 2:06 | 2022-05-20 |  |
 | [jasmine tea](https://open.spotify.com/track/2OAIFxaM3GIQS659wryfsp) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [jasmine tea](https://open.spotify.com/album/3TBmIVqWX0qVX6jbbXpJMw) | 3:39 | 2022-12-09 |  |
+| [Jazz Hands](https://open.spotify.com/track/5XHdUoAA96TKnA4NObcGtj) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Technological Jazz](https://open.spotify.com/album/0z71M5doa8M9G39UIWiSTl) | 1:09 | 2023-03-27 |  |
 | [JazzJoint](https://open.spotify.com/track/1BcKCvfTMW3gVOw0TAkAqI) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [JazzJoint](https://open.spotify.com/album/1HrIClYxvKNhJJ6LaRNin6) | 1:57 | 2022-06-24 | 2022-07-01 |
 | [jazzy gyal](https://open.spotify.com/track/0uban5XYHLYwQQIOPLpwEZ) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [straight no chaser](https://open.spotify.com/album/56xRWuR1WApF2n8IItVVQX) | 1:33 | 2022-05-20 | 2022-09-17 |
 | [Joao](https://open.spotify.com/track/3JuBTWJDNuiyfBCaZHUs2I) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [Joao](https://open.spotify.com/album/1gFmVLrF9Zakob9dlHCHXL) | 2:21 | 2022-07-29 |  |
@@ -289,6 +290,7 @@
 | [Negotiations](https://open.spotify.com/track/0lfrr8sbylho6f8VZV2ACG) | [Mask the Man](https://open.spotify.com/artist/2oBRQMRQ4B3A0jovCWaJxC) | [Negotiations](https://open.spotify.com/album/2qpmTK2EiOjCs7gLJg2UFA) | 1:45 | 2022-05-20 | 2022-05-27 |
 | [Night Blue Skies](https://open.spotify.com/track/69oebUHeibzbgcD1MUsSsl) | [Midnight Smoothie](https://open.spotify.com/artist/6f4iOB89UDwS8PToDSVkMB) | [Night Blue Skies](https://open.spotify.com/album/13kmXJCG5VJtNalpumVr0e) | 2:08 | 2022-05-20 |  |
 | [Night Life](https://open.spotify.com/track/2zUieLYGQw3zc0OypN47qQ) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:27 | 2022-05-20 | 2022-07-01 |
+| [nightfall](https://open.spotify.com/track/5ecjLNs1mY61pMIA4XQRut) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [nightfall](https://open.spotify.com/album/0i7GY4fhjgv1aAuVlxNY1b) | 2:27 | 2023-03-27 |  |
 | [Nightscape](https://open.spotify.com/track/7qhvsU1cjfjQjTRtuwxud4) | [Mr Beats Lofi](https://open.spotify.com/artist/4fphH75OM3CI7WSS6OqG3z) | [Nightscape](https://open.spotify.com/album/5SlmpQzlySQkInjX810NQu) | 3:15 | 2022-06-17 |  |
 | [Nine One Nine](https://open.spotify.com/track/56Bovd4TcOgv6LbVpSMgh8) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Carolina Sound](https://open.spotify.com/album/0Vux1XegJB79Un1aRtrRog) | 2:16 | 2022-05-20 |  |
 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 | 2022-05-20 |  |
@@ -309,6 +311,7 @@
 | [Paint Drip](https://open.spotify.com/track/7JlI1eHDw1XWFiMy3LKJ8b) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Paint Drip](https://open.spotify.com/album/2JRmuTzGZjgKW6Xyq3oUBE) | 1:46 | 2022-05-20 |  |
 | [Palm Beach](https://open.spotify.com/track/3EK9wi1Guh6qmKuPbjGKIC) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Palm Beach](https://open.spotify.com/album/2GHQLU614JS7x2M93SFf5a) | 2:07 | 2022-05-20 | 2022-07-01 |
 | [PALMTREES](https://open.spotify.com/track/68LpjjFHicK5YIM5I5KMex) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [PALMTREES](https://open.spotify.com/album/19TpbK79ZyrZUzgv2dwdfK) | 2:10 | 2022-05-20 |  |
+| [papagai](https://open.spotify.com/track/1QGdyJWTOW4hKngf9FuhZY) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [Bossa Brazil](https://open.spotify.com/album/4I95kwOb1FXOzGuV7VJ87T) | 2:16 | 2023-03-27 |  |
 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 | 2022-05-20 |  |
 | [Parallels](https://open.spotify.com/track/6Puzyr6rxBYIjlKG5GTifj) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Parallels](https://open.spotify.com/album/4AtoJKSW4QAAJYRQTuZVwQ) | 2:38 | 2022-05-27 |  |
 | [Park Swing](https://open.spotify.com/track/2OtSn8KFe1yhbOZhFAv4t9) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Park Swing](https://open.spotify.com/album/55Ej3cy2XsbtqVj4aTAVd4) | 2:17 | 2023-01-13 |  |

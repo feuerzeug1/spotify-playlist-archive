@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,248 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,322 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 26 | [Tell That Devil](https://open.spotify.com/track/4wU4XL8nX0we6MXgmFAmnh) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Tell That Devil](https://open.spotify.com/album/4SUzxP2sBgdjiogiNlbSaw) | 2:38 |
 | 27 | [No Witness](https://open.spotify.com/track/0hJJeoT5Rmi5IF3ZhC7TIZ) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:28 |
 | 28 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
-| 29 | [Stompa](https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony \(Deluxe\)](https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7) | 3:41 |
-| 30 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 |
+| 29 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 |
+| 30 | [Stompa](https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony \(Deluxe\)](https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7) | 3:41 |
 | 31 | [Woman Go Wild](https://open.spotify.com/track/020YsiW7gnBiqTAmEg7eTc) | [Pixie Geldof](https://open.spotify.com/artist/2t0wLTcIYFtfsQU0erDjpZ) | [I'm Yours](https://open.spotify.com/album/1W9c669YOTvdVNkp2I5uCr) | 3:58 |
 | 32 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
 | 33 | [Habit](https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 4:09 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 55 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
 | 56 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 |
 | 57 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
-| 58 | [The High Road](https://open.spotify.com/track/4pzFGh9NGkmnaZnFiTAoFb) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd) | 4:39 |
-| 59 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
-| 60 | [Carry On](https://open.spotify.com/track/3y9NrDzc6IfDQabE38Xw0D) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Roses \(Deluxe Edition\)](https://open.spotify.com/album/4rb0ToWRx0JUKakgtc8VOy) | 3:35 |
-| 61 | [Cannonball \- Acoustic](https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Cannonball \(Acoustic\)](https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn) | 4:38 |
+| 58 | [Cannonball \- Acoustic](https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Cannonball \(Acoustic\)](https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn) | 4:38 |
+| 59 | [The High Road](https://open.spotify.com/track/4pzFGh9NGkmnaZnFiTAoFb) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd) | 4:39 |
+| 60 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
+| 61 | [Carry On](https://open.spotify.com/track/3y9NrDzc6IfDQabE38Xw0D) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Roses \(Deluxe Edition\)](https://open.spotify.com/album/4rb0ToWRx0JUKakgtc8VOy) | 3:35 |
 | 62 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 |
 | 63 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
 | 64 | [Moonlit and Devious](https://open.spotify.com/track/01hcQ2RByLTyvoJ0EuejFA) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Moonlit and Devious](https://open.spotify.com/album/5S9XXlP7dHIcK9mZNnzqAr) | 5:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 |
 | 70 | [Help Yourself](https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y) | [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [EP1](https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju) | 2:58 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGNjM2VlMzIxODkxY2EzMGRkZjAzOTIwNmVkYjU2YjRk`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDIwN2UyMzhiMWY0YmE1OWU4OGEyNmEzMmU3NjQ4MGE3`

@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 67450,
+  "num_followers": 67617,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ4ODg0OCwwMDAwMDAwMDZkYzE2YWViMGRhNmQ2ODAxMjEwMGYyN2FhMTczYTU4",
+  "snapshot_id": "MTY3OTQ4ODg0OCwwMDAwMDAwMDFhYTk2MWYzYjJmYjUxZjM2MmQxZjJiNWM3ZWJlM2M5",
   "tracks": [
     {
       "added_at": "2023-03-22 12:40:48",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
         "name": "Sweet Thing",
         "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
       },
@@ -167,6 +183,22 @@
       "duration_ms": 234733,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -203,38 +235,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Slow Jam",
-      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "Pleasure Seeker",
-      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/2XzZV3u8qwJLOke0J8DvGB"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 408466,
       "name": "Maputo",
       "url": "https://open.spotify.com/track/0QM8IOYgFzvWcBYn0oi0Cs"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "Pleasure Seeker",
+      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 259973,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/75YDo9npGeipsBmVIxcPtC"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 313066,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Who's That Lady",
+      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Who's That Lady",
-      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Soul Express",
         "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
@@ -523,6 +507,38 @@
       "duration_ms": 278666,
       "name": "Soul Express",
       "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "The Closer I Get To You",
+      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -575,38 +591,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Still Lovin' You",
-      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
-      },
-      "artists": [
-        {
-          "name": "Jeff Golub",
-          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "On The Wes Side",
-      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -627,18 +611,34 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
       },
       "artists": [
         {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
         }
       ],
-      "duration_ms": 266693,
-      "name": "The Closer I Get To You",
-      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
+      "duration_ms": 253053,
+      "name": "Still Lovin' You",
+      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Dance Of The Soul",
+        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis",
+          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Love's Serenade",
+      "url": "https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Dance Of The Soul",
-        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
       },
       "artists": [
         {
-          "name": "Ramsey Lewis",
-          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
+          "name": "Jeff Golub",
+          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Love's Serenade",
-      "url": "https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS"
+      "duration_ms": 266106,
+      "name": "On The Wes Side",
+      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Excusez-Moi",
-        "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 356040,
-      "name": "Dreamwalk",
-      "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
+        "name": "Excusez-Moi",
+        "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 356040,
+      "name": "Dreamwalk",
+      "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Nice And Easy",
-      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 308826,
       "name": "A Summer Night's Dream",
       "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Nice And Easy",
+      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 304400,
+      "name": "Sneak a Peek",
+      "url": "https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
         "name": "Above The Clouds",
         "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
       },
@@ -955,38 +971,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 304400,
-      "name": "Sneak a Peek",
-      "url": "https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 295933,
-      "name": "Later Tonight",
-      "url": "https://open.spotify.com/track/3gQjJXN3AnbvgeBY4Vomi4"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 343093,
       "name": "That's The Way Of The World",
       "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 295933,
+      "name": "Later Tonight",
+      "url": "https://open.spotify.com/track/3gQjJXN3AnbvgeBY4Vomi4"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Somethin' Bout Love",
-        "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "Somethin' Bout Love",
-      "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 283866,
       "name": "Twice in a Lifetime",
       "url": "https://open.spotify.com/track/0DFNqX97HJYLNFtYRu2FpO"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Somethin' Bout Love",
+        "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "Somethin' Bout Love",
+      "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -1243,38 +1243,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Body And Soul",
-        "url": "https://open.spotify.com/album/6NJ38pECn4SDnsUXJuzGdi"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Missing in Venice",
-      "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
-        "name": "Nice & Slow",
-        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Songs From The Night Before",
         "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
       },
@@ -1291,6 +1259,22 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
+        "name": "Body And Soul",
+        "url": "https://open.spotify.com/album/6NJ38pECn4SDnsUXJuzGdi"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Missing in Venice",
+      "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
         "name": "For The Love",
         "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 280868,
       "name": "I Just Can't Let Go",
       "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Nice & Slow",
+        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 288800,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -1335,30 +1335,6 @@
       "duration_ms": 276106,
       "name": "Last Look",
       "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
-        "name": "One Special Moment",
-        "url": "https://open.spotify.com/album/4OzVLEUQ8StLgWCarWmyvC"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        },
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        },
-        {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Secrets Told",
-      "url": "https://open.spotify.com/track/5lj52TLx3oa8qoVdTCpvZH"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -1411,6 +1387,30 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
+        "name": "One Special Moment",
+        "url": "https://open.spotify.com/album/4OzVLEUQ8StLgWCarWmyvC"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        },
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        },
+        {
+          "name": "Meli'sa Morgan",
+          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+        }
+      ],
+      "duration_ms": 317066,
+      "name": "Secrets Told",
+      "url": "https://open.spotify.com/track/5lj52TLx3oa8qoVdTCpvZH"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
       },
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
+        "name": "Hardcastle 2",
+        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Bird Island",
+      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
         "name": "In Joy",
         "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 332333,
       "name": "Grace",
       "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
-        "name": "Hardcastle 2",
-        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Bird Island",
-      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
     },
     {
       "added_at": "2023-03-22 12:40:48",

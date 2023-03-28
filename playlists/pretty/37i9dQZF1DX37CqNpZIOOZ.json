@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 18600,
+  "num_followers": 18617,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMGI4MzdhZGMwNjE3YTkwNzcxYjRmMzA4MmQyOWE2MjE5",
+  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDhjN2ZhNzEyMWUxMjIxYTQwZDJjZGFmMWNhOWIwNzdh",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -363,30 +363,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Through Life & Love",
-        "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Louise Alder",
-          "url": "https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq"
-        },
-        {
-          "name": "Joseph Middleton",
-          "url": "https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd"
-        }
-      ],
-      "duration_ms": 138834,
-      "name": "Rote Rosen, TrV 119",
-      "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
       },
@@ -407,6 +383,30 @@
       "duration_ms": 180320,
       "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
       "url": "https://open.spotify.com/track/0l0weeIrC9ueCHJPi3XLlh"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Through Life & Love",
+        "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Louise Alder",
+          "url": "https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq"
+        },
+        {
+          "name": "Joseph Middleton",
+          "url": "https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd"
+        }
+      ],
+      "duration_ms": 138834,
+      "name": "Rote Rosen, TrV 119",
+      "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -579,6 +579,54 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss: Piano Trios Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Amelia Piano Trio",
+          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
+        },
+        {
+          "name": "Max Mandel",
+          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
+        }
+      ],
+      "duration_ms": 366773,
+      "name": "2 Pieces for Piano Quartet, TrV 169: No. 2. Liebesliedchen",
+      "url": "https://open.spotify.com/track/5DV0s6mKqxuQqNGPsksamK"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
+        "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        },
+        {
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
+        }
+      ],
+      "duration_ms": 928133,
+      "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
+      "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss: Elektra",
         "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
       },
@@ -619,54 +667,6 @@
       "duration_ms": 369720,
       "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
       "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
-        "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        },
-        {
-          "name": "Andris Nelsons",
-          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
-        }
-      ],
-      "duration_ms": 928133,
-      "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
-      "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Piano Trios Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Amelia Piano Trio",
-          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
-        },
-        {
-          "name": "Max Mandel",
-          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
-        }
-      ],
-      "duration_ms": 366773,
-      "name": "2 Pieces for Piano Quartet, TrV 169: No. 2. Liebesliedchen",
-      "url": "https://open.spotify.com/track/5DV0s6mKqxuQqNGPsksamK"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -963,30 +963,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "R. Strauss & Wagner: Lieder",
-        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Adrianne Pieczonka",
-          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
-        },
-        {
-          "name": "Brian Zeger",
-          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
-      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
         "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 904333,
       "name": "Capriccio, Op. 85, TrV 279: Kein Andres, das mir so im Herzen loht",
       "url": "https://open.spotify.com/track/7znTc6EpRkCepCLxEcJ66s"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "R. Strauss & Wagner: Lieder",
+        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Adrianne Pieczonka",
+          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
+        },
+        {
+          "name": "Brian Zeger",
+          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
+      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
     },
     {
       "added_at": "2022-06-20 09:55:21",

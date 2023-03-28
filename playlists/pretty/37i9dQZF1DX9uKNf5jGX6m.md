@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,805,985 likes - 292 songs - 13 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,806,542 likes - 292 songs - 13 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,7 +267,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 257 | [Dimensional](https://open.spotify.com/track/3uIuiNwPXMiPWdVRfHRYNV) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:30 |
 | 258 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
 | 259 | [Without U](https://open.spotify.com/track/2qkC6uOCQJX6JaND1peK3S) | [Rania Lees](https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ) | [Without U](https://open.spotify.com/album/05H4wQDpRpe6vyAJw5bT6i) | 2:18 |
-| 260 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |
+| 260 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |
 | 261 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 |
 | 262 | [Beautiful Whispers](https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 3](https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn) | 2:53 |
 | 263 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 |

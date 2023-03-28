@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 93464,
+  "num_followers": 93586,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgzMzQxOCwwMDAwMDAwMDE1MDYwNzI5NWVhOWI3MjMwMDhhYjhjZTg4MzE2NWQ1",
+  "snapshot_id": "MTY3ODgzMzQxOCwwMDAwMDAwMDdkNzEyMjc0N2YyZTcwMTQ3ZmY3ZWFkM2Q0YzllMWRl",
   "tracks": [
     {
       "added_at": "2023-03-14 22:36:58",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
+        "name": "Translating the Name",
+        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "3rd Measurement in C",
+      "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
         "name": "American Football",
         "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 172600,
       "name": "Getchoo",
       "url": "https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Translating the Name",
-        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "3rd Measurement in C",
-      "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "For Me This Is Heaven",
-      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "In / Casino / Out",
-        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
       "artists": [
         {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 288066,
-      "name": "Napoleon Solo",
-      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
+      "duration_ms": 246560,
+      "name": "For Me This Is Heaven",
+      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -615,6 +599,38 @@
       "duration_ms": 267173,
       "name": "Undone",
       "url": "https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "Tip Your Bartender",
+      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Napoleon Solo",
+      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -651,18 +667,18 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Worship And Tribute (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S"
       },
       "artists": [
         {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+          "name": "Sparta",
+          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
         }
       ],
-      "duration_ms": 179493,
-      "name": "Tip Your Bartender",
-      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
+      "duration_ms": 264280,
+      "name": "While Oceana Sleeps",
+      "url": "https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S"
-      },
-      "artists": [
-        {
-          "name": "Sparta",
-          "url": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "While Oceana Sleeps",
-      "url": "https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Giving Birth to Thunder",
         "url": "https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 445293,
       "name": "Woolworm",
       "url": "https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Everything You Ever Wanted To Know About Silence Remaster",
+        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Siberian Kiss - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -775,22 +791,6 @@
       "duration_ms": 66053,
       "name": "Pathfinder",
       "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Everything You Ever Wanted To Know About Silence Remaster",
-        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Siberian Kiss - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
     },
     {
       "added_at": "2023-03-14 22:36:58",

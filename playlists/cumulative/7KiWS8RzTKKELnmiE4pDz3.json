@@ -4067,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Locusts",
+        "url": "https://open.spotify.com/album/00FePblmr3mcHeFHXlAeqb"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116376,
+      "name": "Locusts",
+      "url": "https://open.spotify.com/track/7LpVvEMb8s30QfGKoHMuu0"
+    },
+    {
+      "album": {
         "name": "Yellow Tape",
         "url": "https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9"
       },

@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Love The One Above",
+        "url": "https://open.spotify.com/album/3oelJkqQMfZvhfdVkjKrR2"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Road",
+          "url": "https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126931,
+      "name": "Descent From the Heavens",
+      "url": "https://open.spotify.com/track/3IKqDr3H0uSEAqwS8uXJ6z"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/3RVyMhWyrEqRwkWkaBD2cI"
       },
@@ -4078,6 +4096,24 @@
       "duration_ms": 141180,
       "name": "Primetime",
       "url": "https://open.spotify.com/track/6ykb5iNlaQvvK2dDnKdGVq"
+    },
+    {
+      "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/6tv6vvfGMIykmGB5JDjyXT"
+      },
+      "artists": [
+        {
+          "name": "Charley Hewits",
+          "url": "https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195928,
+      "name": "Project X",
+      "url": "https://open.spotify.com/track/1TbEJzyaY8hRgyqX2vOFs0"
     },
     {
       "album": {

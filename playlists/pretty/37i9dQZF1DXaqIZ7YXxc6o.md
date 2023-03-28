@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Tom Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,701 likes - 109 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,726 likes - 109 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 66 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
 | 67 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
 | 68 | [Drop Da Bomb](https://open.spotify.com/track/2p7x2Ogr7rVINUj7AT1M6L) | [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Drop Da Bomb](https://open.spotify.com/album/1gK92tqHvmH1We7jphlE0N) | 2:29 |
-| 69 | [New Bottega](https://open.spotify.com/track/2Xy868PdXC7mV3Y9fRBSNz) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/405q3ZXJJum0c6ojdu6s2U) | 3:08 |
+| 69 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
 | 70 | [MADLY](https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:09 |
 | 71 | [Today](https://open.spotify.com/track/79UxTfv0TRgly553eiphBt) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Today](https://open.spotify.com/album/3iCgYS2lyCQI71zlvQrgOJ) | 3:35 |
 | 72 | [wide awake](https://open.spotify.com/track/4jOeXb2wVeFcQMUHe3333z) | [Nuxe](https://open.spotify.com/artist/5Sq2960LCdGIniRjmbmT6G), [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [wide awake](https://open.spotify.com/album/2HzG5LJbMvb5RV6GBvjKXJ) | 3:29 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 108 | [Saint Tropez](https://open.spotify.com/track/13qxlA5L5JQjvEtbfestMC) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Zaerd](https://open.spotify.com/artist/3FKsmekOtx5vmiE9lSbjLU) | [Saint Tropez](https://open.spotify.com/album/7IP09RX6OGHHdpnllmTtpW) | 2:34 |
 | 109 | [Drifting](https://open.spotify.com/track/7uToGdhcxRZ5lo9WCVVQdx) | [London Topaz](https://open.spotify.com/artist/2QNu1AjQAl2trTfbVMovyd), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Drifting](https://open.spotify.com/album/62BaTuGHN2cqQvah1IhuZ0) | 3:46 |
 
-Snapshot ID: `MTY3OTU4NjMyOSwwMDAwMDAwMGRjMjY4NmEwNmM5NGQ0N2JmNGNmMzYzMTAwNTdkNWRh`
+Snapshot ID: `MTY3OTU4NjMyOSwwMDAwMDAwMDdhZWUxMGQ1MGQ4ZGEzNzJhMGE5ZmI5MGUzM2NkZDM3`

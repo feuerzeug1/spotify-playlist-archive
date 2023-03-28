@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-924 songs - 2 day 8 hr 32 min
+925 songs - 2 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Aqui](https://open.spotify.com/track/5hKjTCIKRc4xGJlmzxlEw8) | [De Trueno](https://open.spotify.com/artist/6QPxvCeqJ4kJ12x5VAtscJ) | [Elemento](https://open.spotify.com/album/4S7xoXOFYE2aT1PK0TXjdb) | 1:23 | 2022-03-24 | 2022-03-31 |
 | [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-03-28 | 2022-04-19 |
 | [Arde la Ciudad](https://open.spotify.com/track/3tBDMih3NYaLGWP3RqusrA) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Rock & Tekis](https://open.spotify.com/album/4WnbIMi6p4bYlPdadsqnRn) | 4:23 | 2022-03-24 | 2022-04-04 |
-| [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 | 2021-12-24 |  |
+| [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 | 2021-12-24 | 2023-03-28 |
 | [Arrancacorazones](https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:19 | 2022-04-13 |  |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-04-08 |  |
 | [Ausente](https://open.spotify.com/track/5exqYvTUN4tm2TS2NT94tt) | [Lucas Heredia](https://open.spotify.com/artist/2kyFUFJ61joLNbZb9dnWlc) | [Ausente](https://open.spotify.com/album/4WwabDUI3p9Mcii2qqRDNC) | 3:26 | 2022-04-13 | 2022-04-21 |
@@ -144,6 +144,7 @@
 | [Calavera](https://open.spotify.com/track/5QLbG1uIdSQyiKOY69SN4v) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 3:32 | 2022-03-28 | 2022-04-07 |
 | [Call Me Maybe](https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [Call Me Maybe](https://open.spotify.com/album/3iQeXzGeBiPYGoweNfxDpW) | 3:31 | 2022-04-01 | 2022-04-19 |
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2022-04-13 | 2022-04-17 |
+| [CAMA KING \(feat\. Chita\)](https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-03-28 |  |
 | [Cambio y fuera](https://open.spotify.com/track/7n6KU2wVHQ04TNTVAQA1EK) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Cambio y Fuera](https://open.spotify.com/album/0kyGSEa7aY4L5ucu9F25LS) | 5:08 | 2022-04-01 | 2022-04-15 |
 | [Cambá Galleta](https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP) | [Dúo Bote](https://open.spotify.com/artist/0L2SCJoosQOW5BRqi9fEgL) | [Ysyry](https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn) | 2:34 | 2022-03-24 | 2022-04-09 |
 | [Camina \(Suave y Elegante\)](https://open.spotify.com/track/1fi9cZSvHWP7z6N8HihILu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Camina \(Suave y Elegante\)](https://open.spotify.com/album/3io8feqVIqEiEXlvxXaGM6) | 3:29 | 2022-02-18 | 2022-07-29 |

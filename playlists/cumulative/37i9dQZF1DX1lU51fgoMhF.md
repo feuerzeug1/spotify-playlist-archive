@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-289 songs - 16 hr 4 min
+290 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [DREAMLIKE](https://open.spotify.com/track/3Hpzmd4GsW2vqxNplwUL1r) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:46 | 2021-11-17 | 2022-07-29 |
 | [DREAMLIKE](https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:46 | 2022-09-05 |  |
 | [Drive Away](https://open.spotify.com/track/0AghOiiy5SQslFmbtb87O3) | [SONG JU HEE](https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC) | [Drive Away](https://open.spotify.com/album/6XBlTQ8DNF7T69ohs9SxTq) | 3:03 | 2022-05-11 | 2022-07-09 |
+| [Drowning \(Feat\. SOLE\)](https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [1st Single 'S.i.R'](https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH) | 2:49 | 2023-03-28 |  |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2021-11-17 |  |
 | [Dynamite \- Acoustic Remix](https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:17 | 2022-07-27 |  |
 | [Dynamite \- Acoustic Remix](https://open.spotify.com/track/29QQoKCiBil8wTBeP1GDBm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(Extended\)](https://open.spotify.com/album/2UX7xCHxzTLKuEom7VdwMJ) | 3:17 | 2021-11-17 | 2022-07-05 |
@@ -275,7 +276,7 @@
 | [Tra\-la](https://open.spotify.com/track/4s8IMVq4fLVCiovaW7HEim) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Neverland](https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi) | 3:57 | 2021-11-17 | 2022-07-29 |
 | [Up](https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb) | 3:12 | 2022-07-27 |  |
 | [Up](https://open.spotify.com/track/0yKtEkiVN8rPDWbtn6HvDd) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/2UBE2MgNdsGa9OCSbvwdEQ) | 3:12 | 2021-11-17 | 2022-07-28 |
-| [Waka Boom \(My Way\) \(feat\. Lee Young Ji\)](https://open.spotify.com/track/7ffdSBhoPgPcyVn2hNmiDz) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 4:33 | 2022-06-09 |  |
+| [Waka Boom \(My Way\) \(feat\. Lee Young Ji\)](https://open.spotify.com/track/7ffdSBhoPgPcyVn2hNmiDz) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 4:33 | 2022-06-09 | 2023-03-28 |
 | [Wave](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 | 2021-11-17 |  |
 | [WAVE](https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Album 'OK' Prologue : Be OK](https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR) | 3:19 | 2021-11-17 | 2022-07-28 |
 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 | 2021-11-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: Loggins and Messina",
-  "num_followers": 899863,
+  "num_followers": 900071,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUxMTc5MCwwMDAwMDAwMDA0ZDRmMGYyMTYyM2RkZjNmZDlmNWUyNjgyMjk0NTM0",
+  "snapshot_id": "MTY2NTUxMTc5MCwwMDAwMDAwMDcxYzZjMDU1OTBmYzRhNTNlNDZmNDNhYWQ2NzVjOGFl",
   "tracks": [
     {
       "added_at": "2021-01-06 18:39:03",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 258411,
       "name": "You're so Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
       "added_at": "2022-06-30 18:06:09",
       "album": {
         "name": "Can't Buy A Thrill",
@@ -299,22 +315,6 @@
       "duration_ms": 284000,
       "name": "My Life",
       "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2021-12-14 20:08:41",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 357041,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
-    },
-    {
       "added_at": "2021-12-14 20:07:58",
       "album": {
         "name": "Jackson Browne (Saturate Before Using)",
@@ -443,6 +427,22 @@
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "added_at": "2021-12-14 20:17:09",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 357041,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "Life & Times",
-        "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
-    },
-    {
       "added_at": "2021-01-06 18:39:03",
       "album": {
         "name": "Dreams",
@@ -619,6 +603,22 @@
       "duration_ms": 288506,
       "name": "Ramblin' Man",
       "url": "https://open.spotify.com/track/5cfYurP1XKldMBtvBBJiTs"
+    },
+    {
+      "added_at": "2021-12-14 20:17:09",
+      "album": {
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2022-06-30 18:06:09",

@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-219 songs - 11 hr 20 min
+220 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [License](https://open.spotify.com/track/5ZyPiaFTDOX68KYU5zFMqz) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [License](https://open.spotify.com/album/31TyYecWH5bkMTLkyWKYPU) | 2:30 | 2023-03-25 |  |
 | [Like You Mean It](https://open.spotify.com/track/2Q360Avw62vStpD1JjFlZ8) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [G.D.S](https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [A Lifetime Is Not Enough](https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH) | 3:21 | 2023-01-20 | 2023-01-28 |
 | [Little \(Love I Love\)](https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:31 | 2022-06-23 | 2023-03-19 |
+| [Lock Up](https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Lock Up](https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz) | 3:43 | 2023-03-28 |  |
 | [Loco Loco](https://open.spotify.com/track/6SvFJmOalLcBYl8hJIlp79) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Idwala](https://open.spotify.com/album/2nBnaZl4NHAOZWjB1V5GbS) | 4:42 | 2022-08-25 | 2022-09-26 |
 | [Lokoto Riddim](https://open.spotify.com/track/7eJFM6oO1wWj3K3XsTtBV9) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Lokoto Riddim](https://open.spotify.com/album/0nMh9jzd86LakvmyHwkUjY) | 3:07 | 2022-06-30 | 2022-08-07 |
 | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw) | 3:08 | 2022-09-30 |  |
@@ -146,7 +147,7 @@
 | [No Money](https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [OmoAkin](https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh) | [Global Party](https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y) | 2:57 | 2023-03-25 |  |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-06-09 | 2022-10-31 |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 | 2023-01-21 |
-| [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2022-06-09 |  |
+| [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2022-06-09 | 2023-03-28 |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-22 | 2022-10-31 |
 | [OCEAN \- GuiltyBeatz Remix](https://open.spotify.com/track/0R1LtMkJJxzE1cwKjwemkG) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [OCEAN \(GuiltyBeatz Remix\)](https://open.spotify.com/album/1jlNrH2DpKVDFGKUWtjoQz) | 4:06 | 2022-07-28 | 2022-08-26 |
 | [Oh No](https://open.spotify.com/track/4jwurGL9RR5d8QCoFhF30s) | [Vudumane](https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14) | [Oh No](https://open.spotify.com/album/5qvAz1vTAJOte0KdYObPsg) | 4:21 | 2022-07-28 | 2022-10-01 |

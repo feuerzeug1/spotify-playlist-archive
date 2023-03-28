@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: 3AM",
-  "num_followers": 274320,
+  "num_followers": 274368,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDY1NGQ2NzA4Mjc4NDZkNmE4ZTFhMjM0ZDEyMDViMDk1",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDVmNzg1NWNmZDllOGUwMTAwOGVlMGJlN2IxZTc2MGI0",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -171,6 +171,30 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Mu\u00f1ecas",
+        "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 156318,
+      "name": "Mu\u00f1ecas",
+      "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "La Reina",
         "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
       },
@@ -223,6 +247,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "NO voy a llorar :')",
+        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "NO voy a llorar :')",
+      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "CORAZONES ROTOS",
         "url": "https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4"
       },
@@ -239,46 +279,6 @@
       "duration_ms": 230130,
       "name": "CORAZONES ROTOS",
       "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Mu\u00f1ecas",
-        "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 156318,
-      "name": "Mu\u00f1ecas",
-      "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "NO voy a llorar :')",
-        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 178874,
-      "name": "NO voy a llorar :')",
-      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 155380,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Yo Te Dir\u00e9",
         "url": "https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J"
       },
@@ -479,34 +463,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 130653,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "LA SANTA",
-        "url": "https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 165285,
-      "name": "LA SANTA",
-      "url": "https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs"
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -531,6 +499,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "LA SANTA",
+        "url": "https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 165285,
+      "name": "LA SANTA",
+      "url": "https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "sanvalent\u00edn:(",
         "url": "https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 242424,
       "name": "sanvalent\u00edn:(",
       "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 130653,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -583,6 +583,30 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "No Me Controles",
+        "url": "https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 162149,
+      "name": "No Me Controles",
+      "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Infieles",
         "url": "https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd"
       },
@@ -615,30 +639,6 @@
       "duration_ms": 147821,
       "name": "Abajito",
       "url": "https://open.spotify.com/track/5bXTL6PtdA9g1TFE0VZC7O"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "No Me Controles",
-        "url": "https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 162149,
-      "name": "No Me Controles",
-      "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -699,22 +699,6 @@
       "duration_ms": 197036,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/3eMoJmr1Cb6fnZhBbIKCgR"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 150644,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/3ad4HMun4ij9XwEShGPJTc"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/3eMoJmr1Cb6fnZhBbIKCgR"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 150644,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/3ad4HMun4ij9XwEShGPJTc"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "ELEVATION",
         "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 223352,
       "name": "BAILAR CONTIGO",
       "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "La Idea",
-        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 194257,
-      "name": "La Idea",
-      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -887,6 +871,22 @@
       "duration_ms": 147149,
       "name": "A Poca Luz",
       "url": "https://open.spotify.com/track/4RSCTqtn9ymYFPMapDtGvO"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "La Idea",
+        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 194257,
+      "name": "La Idea",
+      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
     },
     {
       "added_at": "2023-03-24 04:00:00",

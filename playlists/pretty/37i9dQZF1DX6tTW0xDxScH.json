@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 671535,
+  "num_followers": 671652,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA5MTE4NCwwMDAwMDAwMDNkNzIzNTI5NmFjYmQzNWRhOTMyMmY5ZWMyOTdlMjIz",
+  "snapshot_id": "MTY3NzA5MTE4NCwwMDAwMDAwMDQ2N2VhNWJhYjFkMjZlZjBmMmQ4NzE3ZGM0NmRjMmVi",
   "tracks": [
     {
       "added_at": "2023-02-07 18:06:48",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
     },
     {
-      "added_at": "2023-03-27 00:55:32",
+      "added_at": "2023-03-28 00:41:39",
       "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
+        "name": "Black Leaves",
+        "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 104280,
+      "name": "Black Leaves",
+      "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "Black Leaves",
-        "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 104280,
-      "name": "Black Leaves",
-      "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 229293,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Whipped Cream & Other Delights",
-        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Ladyfingers",
-      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Rearrange Us",
         "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 188066,
       "name": "Rearrange Us",
       "url": "https://open.spotify.com/track/1uZIL52W5zXEF55fCh5lqP"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Whipped Cream & Other Delights",
+        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Ladyfingers",
+      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Sound & Color (Deluxe)",
         "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 268853,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Guard Dog",
-        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+        "name": "The Waterfall II",
+        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
         }
       ],
-      "duration_ms": 335503,
-      "name": "Used To Be Friends",
-      "url": "https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P"
+      "duration_ms": 277093,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1431,34 +1431,18 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "The Waterfall II",
-        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
       },
       "artists": [
         {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 277093,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Catch Your Eye",
-      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
+      "duration_ms": 335503,
+      "name": "Used To Be Friends",
+      "url": "https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
         }
       ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
+      "duration_ms": 162560,
+      "name": "Catch Your Eye",
+      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
         "name": "Shanti",
         "url": "https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 163072,
       "name": "Love Child",
       "url": "https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "This Is My Country",
+        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "I'm Loving Nothing",
+      "url": "https://open.spotify.com/track/7bJ4yFd2JPJfxrpbJXPeRC"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1543,22 +1559,6 @@
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "This Is My Country",
-        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "I'm Loving Nothing",
-      "url": "https://open.spotify.com/track/7bJ4yFd2JPJfxrpbJXPeRC"
     },
     {
       "added_at": "2023-02-07 18:06:48",

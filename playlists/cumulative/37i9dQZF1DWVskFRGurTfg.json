@@ -4878,7 +4878,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 151988,
       "name": "LA NENA DE ARGENTINA",
       "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
@@ -11022,6 +11022,36 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/6vFeKKeRjOrndZ4OT80E7g"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217756,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/7dnWwiWTF7JSEAXhmeUBpa"
     },
     {
       "album": {

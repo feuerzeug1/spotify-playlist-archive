@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/48ipTBEr85O48Ig0CAQc5x"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177196,
+      "name": "Gaffe aux autres",
+      "url": "https://open.spotify.com/track/33mN4sWswIF5wlRs061KXX"
+    },
+    {
+      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 168186,
       "name": "Sympathique",
       "url": "https://open.spotify.com/track/1sKpay0q1lsH8RgafNzdI1"
@@ -2260,7 +2278,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 258373,
       "name": "The A Team",
       "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 220909,
       "name": "The Fool on the Hill",
       "url": "https://open.spotify.com/track/7IN0LLAhDgpqNz1cFNbYQl"
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 265798,
       "name": "There\u2019d Better Be A Mirrorball",
       "url": "https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR"
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 252413,
       "name": "Une autre histoire d'amour",
       "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"

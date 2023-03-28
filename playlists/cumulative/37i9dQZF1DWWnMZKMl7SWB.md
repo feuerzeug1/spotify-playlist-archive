@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-308 songs - 19 hr 49 min
+313 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Walk](https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:16 | 2022-04-12 |  |
 | [A Walk](https://open.spotify.com/track/4EBDIr95pP7ZwMuxdg3gvk) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Hohokum \(Original Game Soundtrack\)](https://open.spotify.com/album/1tw5RIi23yCOWlyPKRx8zx) | 5:16 | 2022-09-09 | 2022-11-13 |
 | [A Walk](https://open.spotify.com/track/6koWevx9MqN6efQ6qreIbm) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/3I3PmRvn5iFY8i6zzvEcci) | 5:16 | 2022-04-12 | 2022-07-29 |
+| [Acquavella](https://open.spotify.com/track/4i6bRNQT3v1fMpP9B1o8ye) | [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Acquavella](https://open.spotify.com/album/7wRM0DrhB01pkg10NZENCj) | 2:36 | 2023-03-27 |  |
 | [Adventum](https://open.spotify.com/track/7vpCYtQSePi6rdgWSByixm) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Adventum](https://open.spotify.com/album/18UFPRyd8Tnn4DAuMBBJ48) | 2:29 | 2022-04-12 |  |
 | [Afternoon](https://open.spotify.com/track/7bLHWQicZFxR1dkvYrYNCj) | [mushii.](https://open.spotify.com/artist/3ytz3wAW8Qg1GqedDm5E2h), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Village](https://open.spotify.com/album/00aPsGMmRq7ZL7vcj4HyNz) | 2:27 | 2022-04-12 |  |
 | [Again \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/114BzpOMtJscxWepVeoRmF) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 5:26 | 2022-04-12 |  |
@@ -160,6 +161,7 @@
 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 | 2022-04-12 |  |
 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 | 2022-04-12 |  |
 | [Memorand](https://open.spotify.com/track/1JL0mPAwcHB5nYba61C1s2) | [Monitor](https://open.spotify.com/artist/5OUfsZqqBlsVtWIzayDPF5) | [Memorand](https://open.spotify.com/album/3fkwq5Um4ELQXvDKFZ85DT) | 3:27 | 2022-04-12 |  |
+| [Mi amor](https://open.spotify.com/track/0lVTHCppuXrtMw5HhBKB7e) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Technological Jazz](https://open.spotify.com/album/0z71M5doa8M9G39UIWiSTl) | 1:27 | 2023-03-27 |  |
 | [Midnight Diner](https://open.spotify.com/track/01lpL7ZN4x3znSlYCGFV89) | [oksami](https://open.spotify.com/artist/1b0Xogb0sa1XfgUXFWPb26) | [Midnight Diner](https://open.spotify.com/album/6TtrE0YPHoYdOqWKeTZ8Kw) | 2:50 | 2022-04-12 |  |
 | [Minutes](https://open.spotify.com/track/2FSSZL61RdVYXsyOacxReU) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Confessions](https://open.spotify.com/album/5vvby3mFBAzt10wi3YvFyQ) | 3:30 | 2022-04-12 |  |
 | [Moments](https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:48 | 2022-04-12 |  |
@@ -194,6 +196,7 @@
 | [Over the Sky](https://open.spotify.com/track/2j2p1uJgUqqHyQPUZaRJBA) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [A Mix of Feelings](https://open.spotify.com/album/52gavUrAe1daARHrPsbq8d) | 2:11 | 2022-04-12 |  |
 | [Pai Mei](https://open.spotify.com/track/4EY0SD8MYZ4bPwAfmp3WdC) | [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe) | [Audio Dope](https://open.spotify.com/album/5nV4Hzh3BK01gMq1M1gibu) | 2:42 | 2022-04-12 |  |
 | [Passing Trains](https://open.spotify.com/track/01oZjrRICAL5l0sSFqpb5D) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 3:13 | 2022-04-12 |  |
+| [Pearls](https://open.spotify.com/track/42P8KxGfdFrY26zVovIdaJ) | [Ryan Randolph](https://open.spotify.com/artist/1DnbNSRsPs7dLlnBYti0jB) | [Pearls](https://open.spotify.com/album/03hLFQObxUo97XQIt4OzOr) | 2:39 | 2023-03-27 |  |
 | [Places](https://open.spotify.com/track/3RN6IMCkcJr44Xm7tdWWaK) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh) | 5:02 | 2022-04-12 |  |
 | [Places](https://open.spotify.com/track/02heicX2suyGhOC7ppejvX) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [!K7 Kollections 02: Classics](https://open.spotify.com/album/1hD3Hu8pLuTb7ShwaSkNKb) | 5:03 | 2022-09-09 | 2022-11-13 |
 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2022-04-12 |  |
@@ -303,6 +306,7 @@
 | [Weather](https://open.spotify.com/track/71ZFs7nzJHstB2dNcQ3aG8) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Weather \(Nitemoves Remix\)](https://open.spotify.com/album/1gq8jZDjMm5uxTRyIXHf8r) | 4:14 | 2022-09-09 | 2022-11-14 |
 | [Wen Uuu](https://open.spotify.com/track/1Q8lDjEzlTwATSZz2zgPd9) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Vacation \- Single](https://open.spotify.com/album/3LVxeR0VvnVs1jkIIaqLau) | 3:53 | 2022-04-12 | 2022-07-29 |
 | [Wen Uuu](https://open.spotify.com/track/3CFLz9Enes0cQksNSNLlXy) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Vacation \- Single](https://open.spotify.com/album/1RhXvTjZRTJYC7SGdGvZYE) | 3:53 | 2022-04-12 |  |
+| [when I met you](https://open.spotify.com/track/0cylOa4HJsPfwuCqidVHpU) | [Silk Mhake](https://open.spotify.com/artist/6TMEF8gGAMgtb4tRfGQGyD) | [Surfin'](https://open.spotify.com/album/1JGXsngHExaIt6y4qDOTYT) | 2:07 | 2023-03-27 |  |
 | [Where To Go](https://open.spotify.com/track/0kLLT6X6nPjPSEggRVyaQM) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/3Al0anvIeIVpJez6yrjXnM) | 4:11 | 2023-02-21 |  |
 | [Where To Go](https://open.spotify.com/track/5EIPYlUGHcWXFV8DHINuBa) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/4PpRIBNZW0EW3gG3dwAuLX) | 4:11 | 2022-04-12 | 2022-07-29 |
 | [Where To Go](https://open.spotify.com/track/5VsZd4qGOSTRdsNC0XRU1F) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/7JnNqcLoD25tZeO0jQQnpW) | 4:11 | 2022-04-12 | 2023-03-01 |
@@ -312,6 +316,7 @@
 | [Wind](https://open.spotify.com/track/6LAa61F7hUUHSci69xhnZh) | [Osoku](https://open.spotify.com/artist/7tGFPYtcRKqkiEYu9ryCcl) | [Dew](https://open.spotify.com/album/3N6iOoXO8kbOoTFLt8xqdv) | 2:47 | 2022-04-12 |  |
 | [Work Work](https://open.spotify.com/track/58yJSCXlZ93mEtEwj9cAIc) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Work Work](https://open.spotify.com/album/4J3JglCtfxFMDjjbEFbRkv) | 4:20 | 2022-04-12 |  |
 | [you a happiness](https://open.spotify.com/track/2nATgZkBUhNrnx6EsbKoAu) | [E.lementaL](https://open.spotify.com/artist/2d8wfAQVpYHvfumKsfB12Q) | [you a happiness](https://open.spotify.com/album/1vz2l5i4X0BIpDC8s9RMuq) | 5:32 | 2022-04-12 |  |
+| [You Can Have It](https://open.spotify.com/track/1xTo1SwN5FswdeBXyq9Xfa) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [You Can Have It](https://open.spotify.com/album/1aaqe1wHZzy9dO9Altzn3U) | 1:36 | 2023-03-27 |  |
 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 | 2022-04-12 | 2023-01-11 |
 | [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 | 2022-04-12 |  |
 | [You'll be Mine](https://open.spotify.com/track/2aptkMenBc4SkIS6vcIOID) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [You'll Be Mine](https://open.spotify.com/album/1mFM3IJ59RI8W7zjYKoxA4) | 3:49 | 2022-04-12 |  |

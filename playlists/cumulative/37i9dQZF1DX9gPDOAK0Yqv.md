@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-204 songs - 18 hr 35 min
+205 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Equal](https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 5:19 | 2023-03-03 | 2023-03-22 |
 | [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-02-10 | 2023-03-11 |
 | [Eternity](https://open.spotify.com/track/1qolXijooNmOF6qs5Jz7Aq) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Eternity](https://open.spotify.com/album/0PUSgcVtMYG0RkeE6IQyxC) | 6:56 | 2022-11-23 | 2023-01-28 |
+| [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-03-28 |  |
 | [Faceless](https://open.spotify.com/track/3kqt49NJLMtAkmjuAsQq79) | [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [Faceless](https://open.spotify.com/album/74BOGboC3BF4wz3IbThmDj) | 3:45 | 2022-12-28 | 2023-01-06 |
 | [Faces](https://open.spotify.com/track/1pJnlza96BNgidDe5uiAPI) | [Madeaux](https://open.spotify.com/artist/1LTDQMVIIdgiJePJvUkBA3) | [Near Life Experience](https://open.spotify.com/album/4xbQZTi5cpWVfSWzldlsDv) | 4:29 | 2022-11-23 | 2023-02-28 |
 | [Fade In To You](https://open.spotify.com/track/22tFXsl4XmedYLNMU88qlx) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Nothing Around Us](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj) | 6:27 | 2022-11-23 | 2023-02-04 |
@@ -96,7 +97,7 @@
 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 | 2022-11-23 |  |
 | [Last Call](https://open.spotify.com/track/3cyzzLSYKLoaYv1xt2asZJ) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/0kbgja4YAnLwNeGc8THZ75) | 6:55 | 2023-02-10 | 2023-02-16 |
 | [Last Call](https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR) | 6:55 | 2023-02-10 |  |
-| [Life Moves Fast](https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Life Moves Fast](https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW) | 3:53 | 2023-03-25 |  |
+| [Life Moves Fast](https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Life Moves Fast](https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW) | 3:53 | 2023-03-24 |  |
 | [Liquid Fantasy \- Edit](https://open.spotify.com/track/6fBTtzHK8itlE1mqgDTLmH) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Liquid Fantasy](https://open.spotify.com/album/1qkpQWUWtHprhuiVsGDz9p) | 3:54 | 2023-02-04 | 2023-02-10 |
 | [Loneliness \- Original Mix](https://open.spotify.com/track/00IWep1lbWW2wJog8Ewgsj) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Loneliness](https://open.spotify.com/album/48wWbXN8jBw4KCDeF70Zwj) | 6:09 | 2022-12-02 |  |
 | [Looking Class](https://open.spotify.com/track/0l0iDqdVu0CgllGFKQ6D5l) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Looking Class / Full Circle Moment](https://open.spotify.com/album/1G56ouG8pijwEgYzlbtpWN) | 4:35 | 2023-02-17 |  |
@@ -129,7 +130,7 @@
 | [Oxum](https://open.spotify.com/track/4x9XExsgIQcNMVN3AU482m) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Oxum](https://open.spotify.com/album/01euR0VLorIF6V1Tck6zSo) | 3:09 | 2022-12-28 | 2023-01-06 |
 | [Oxygen Levels Low](https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Oxygen Levels Low EP](https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il) | 7:26 | 2022-11-23 |  |
 | [Pantheon](https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/6CCx2uI8l08YutD22C7BvT) | 4:32 | 2023-01-13 |  |
-| [Pegasus](https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Pegasus](https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV) | 6:52 | 2023-03-25 |  |
+| [Pegasus](https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Pegasus](https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV) | 6:52 | 2023-03-24 |  |
 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-03-21 |  |
 | [Power of Universe](https://open.spotify.com/track/5U7LGWuifQ0agJ8kWoJ0ra) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Power of Universe](https://open.spotify.com/album/1Dx8Mh4vL259V4ENQOnYal) | 6:04 | 2022-12-28 | 2023-01-06 |
 | [Prometheus](https://open.spotify.com/track/7sO0E7yfhhLjWoKOt4aZ7j) | [Avidus](https://open.spotify.com/artist/6v1l56EZ8Wl7gpZhfihaKQ) | [Goethe \- EP](https://open.spotify.com/album/3hp5jQqJW4iygbwprFOA67) | 8:20 | 2022-11-24 | 2022-12-24 |

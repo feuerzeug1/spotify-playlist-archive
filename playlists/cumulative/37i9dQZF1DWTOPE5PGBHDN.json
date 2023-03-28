@@ -365,6 +365,28 @@
     },
     {
       "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "album": {
         "name": "Bola Rebola",
         "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
       },
@@ -2408,7 +2430,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 315862,
       "name": "Mi Error - Remix",
       "url": "https://open.spotify.com/track/0lbhKycRyqkOMKZ6thzfU4"
@@ -2470,7 +2492,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 200666,
       "name": "Morado",
       "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
@@ -3136,7 +3158,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"

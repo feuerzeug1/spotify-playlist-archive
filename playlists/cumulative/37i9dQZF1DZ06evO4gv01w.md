@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-90 songs - 5 hr 21 min
+92 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Deep Stays Down](https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:19 | 2022-11-13 | 2023-03-10 |
 | [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 | 2023-02-24 |  |
 | [Don't](https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:04 | 2022-08-05 |  |
-| [Easy Street](https://open.spotify.com/track/1JbHMSiZowEjVrRhXh3XjZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:17 | 2022-08-05 |  |
+| [Easy Street](https://open.spotify.com/track/1JbHMSiZowEjVrRhXh3XjZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:17 | 2022-08-05 | 2023-03-28 |
+| [Easy Street](https://open.spotify.com/track/6Xrax57hlpq52OARjKFXFo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 2:17 | 2023-03-27 |  |
 | [Elephant](https://open.spotify.com/track/19UCWFnyGHSE3DOOtdFPGn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:29 | 2022-08-05 | 2022-10-19 |
 | [Ex\-Con](https://open.spotify.com/track/0uPbGYrOp7Svg1eyJsE3Hx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:56 | 2022-08-18 | 2022-08-20 |
 | [Fly Away](https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 3:30 | 2023-03-21 | 2023-03-26 |
@@ -71,7 +72,8 @@
 | [Nights In White Satin](https://open.spotify.com/track/5VuqRSDZ2qjA13Ngu8PDo0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:40 | 2022-08-05 | 2023-03-20 |
 | [P\-R\-O\-B\-L\-E\-M](https://open.spotify.com/track/39H4oaLj3DgbkFmFSY76fY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:23 | 2022-08-05 | 2022-11-14 |
 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 | 2022-08-05 |  |
-| [Ramblin’ Man](https://open.spotify.com/track/259VJcGmSfzWzyR9sWxqTm) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 2:43 | 2022-08-05 |  |
+| [Ramblin' Man](https://open.spotify.com/track/1wbeozaNyIwKOUwocSzdLE) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 2:43 | 2023-03-27 |  |
+| [Ramblin’ Man](https://open.spotify.com/track/259VJcGmSfzWzyR9sWxqTm) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 2:43 | 2022-08-05 | 2023-03-28 |
 | [Rattlesnake Shakin’ Woman](https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Co\-Starring](https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET) | 4:31 | 2022-08-05 |  |
 | [Rockin’ In The Free World](https://open.spotify.com/track/5PcXOrBmMkQ1iY77Hp7CXb) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 4:14 | 2022-08-05 | 2023-03-27 |
 | [Run for Your Money \- Audiotree Live Version](https://open.spotify.com/track/4FpDCiB4kVfrADT50s6GXq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Larkin Poe on Audiotree Live](https://open.spotify.com/album/0OiEBU03Rq4OxtXL2M6VEy) | 3:31 | 2022-08-05 | 2022-11-19 |

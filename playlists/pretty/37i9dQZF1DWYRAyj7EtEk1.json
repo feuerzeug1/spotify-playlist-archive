@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Pop Latino para que los disfrute toda la familia.",
-  "num_followers": 4410,
+  "num_followers": 4413,
   "original_name": "\u00a1Pop Latino!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2NjYwMywwMDAwMDAwMGQ0YmM1OGMyMDljODNmYTNkZjRiNTE0MjY4YjAyNGYx",
+  "snapshot_id": "MTY2MjM2NjYwMywwMDAwMDAwMGQ2YTExZmMxMzU4YmQ4NTQ1ODFiZjM0NWM0ZmJiOWU5",
   "tracks": [
     {
       "added_at": "2022-09-05 08:30:03",
@@ -325,6 +325,34 @@
       "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
+      "added_at": "2021-12-06 16:14:22",
+      "album": {
+        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
       "added_at": "2020-09-29 17:20:38",
       "album": {
         "name": "Amor Prohibido",
@@ -355,34 +383,6 @@
       "duration_ms": 182600,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
-    },
-    {
-      "added_at": "2021-12-06 16:14:22",
-      "album": {
-        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
     },
     {
       "added_at": "2020-09-29 17:20:38",
@@ -529,24 +529,24 @@
       "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
     },
     {
-      "added_at": "2020-09-29 17:20:38",
+      "added_at": "2021-12-06 16:14:22",
       "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         },
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 218232,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP"
+      "duration_ms": 178613,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
     },
     {
       "added_at": "2020-09-29 17:20:38",
@@ -571,6 +571,26 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 218232,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP"
+    },
+    {
+      "added_at": "2020-09-29 17:20:38",
+      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -591,46 +611,6 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
-        "name": "Latina",
-        "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Desde Esa Noche (feat. Maluma)",
-      "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
-    },
-    {
-      "added_at": "2021-12-06 16:14:22",
-      "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
-    },
-    {
-      "added_at": "2020-09-29 17:20:38",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 159573,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9"
+    },
+    {
+      "added_at": "2020-09-29 17:20:38",
+      "album": {
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Desde Esa Noche (feat. Maluma)",
+      "url": "https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E"
     },
     {
       "added_at": "2021-12-06 16:14:22",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
-        "name": "Hey DJ (Pop Version)",
-        "url": "https://open.spotify.com/album/5hHBkqV6gED9WKE6qr0DfP"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Hey DJ - Pop Version",
-      "url": "https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9"
-    },
-    {
-      "added_at": "2020-09-29 17:20:38",
-      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
+        "name": "Hey DJ (Pop Version)",
+        "url": "https://open.spotify.com/album/5hHBkqV6gED9WKE6qr0DfP"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Hey DJ - Pop Version",
+      "url": "https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9"
+    },
+    {
+      "added_at": "2020-09-29 17:20:38",
+      "album": {
         "name": "D\u00edganle (Tainy Remix)",
         "url": "https://open.spotify.com/album/6riomP8beIR2o5VENYyZDd"
       },
@@ -875,26 +875,6 @@
     {
       "added_at": "2020-09-29 17:20:38",
       "album": {
-        "name": "Deseo",
-        "url": "https://open.spotify.com/album/6Wh6P7tuc6F0eewCvO8nuT"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "Mi Nuevo Vicio",
-      "url": "https://open.spotify.com/track/3p770TQzJS3rNUHlDGV54Q"
-    },
-    {
-      "added_at": "2020-09-29 17:20:38",
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 188813,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP"
+    },
+    {
+      "added_at": "2020-09-29 17:20:38",
+      "album": {
+        "name": "Index",
+        "url": "https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Ahora Lloras T\u00fa (feat. CNCO)",
+      "url": "https://open.spotify.com/track/7soFqD1nuVVsc5MOvo13Ad"
     }
   ],
   "unique_name": "\u00a1Pop Latino!",

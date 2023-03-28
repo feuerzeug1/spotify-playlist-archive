@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: NewJeans\(뉴진스\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-527 songs - 1 day 5 hr 2 min
+528 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-02-15 |  |
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2022-03-24 | 2022-04-18 |
 | [Back Door](https://open.spotify.com/track/6nGDbTIv7jH4NJKpF435GD) | [JEON JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj), [IN SEONG](https://open.spotify.com/artist/0JxQHl0AkdY6GI3C5gtFeo) | [Watcha Original <DOUBLE TROUBLE> EPISODE.5 History – ‘Back Door](https://open.spotify.com/album/3EBv3HESakoTQkUWWv6qYt) | 3:42 | 2022-04-18 | 2022-04-21 |
-| [Back Door](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:09 | 2023-03-06 |  |
+| [Back Door](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:09 | 2023-03-06 | 2023-03-28 |
 | [Back Door](https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:09 | 2022-01-14 | 2022-04-20 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-08 |  |
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2022-03-14 | 2022-04-18 |
@@ -224,7 +224,7 @@
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-07-04 | 2022-08-15 |
 | [Heart Shaker](https://open.spotify.com/track/6WJWTeZExNu0X42hiegRVs) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Merry & Happy](https://open.spotify.com/album/7z35ak4YnECGLJADDJ4obf) | 3:06 | 2022-04-05 | 2022-04-21 |
 | [HELICOPTER](https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [HELICOPTER](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) | 3:45 | 2022-01-14 | 2022-07-20 |
-| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-07 |  |
+| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-07 | 2023-03-28 |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-12-21 | 2022-07-27 |
 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 | 2022-03-24 | 2022-04-14 |
 | [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [Minhyun](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-02-27 |  |
@@ -361,7 +361,7 @@
 | [Peek\-A\-Boo](https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 3:09 | 2022-03-02 | 2022-04-14 |
 | [PERFUME](https://open.spotify.com/track/3pjOGd5o1jFJeoYjVikSGw) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [PERFUME](https://open.spotify.com/album/3tpVxUoanwClXujLRctalj) | 3:13 | 2022-03-29 | 2022-04-01 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-12-21 | 2022-07-29 |
-| [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2022-07-28 | 2023-03-07 |
+| [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2022-07-28 |  |
 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-03 | 2022-07-01 |
 | [Phobia](https://open.spotify.com/track/6m8vPz16wTojmAnVgdWtls) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:32 | 2022-03-02 | 2022-04-17 |
 | [PICK ME](https://open.spotify.com/track/1LShDXXs40R8bQFNBBupI3) | [PRODUCE 48](https://open.spotify.com/artist/5ORE0ElD7HiONogJZzhKrS) | [PRODUCE 48 \- NEKKOYA \(PICK ME\)](https://open.spotify.com/album/2bl024XQdz3Pd4jQLNyaZg) | 4:39 | 2022-03-24 | 2022-04-04 |
@@ -422,6 +422,7 @@
 | [Secret Story of the Swan](https://open.spotify.com/track/3FARQP8fA49bSsTWjNyWmY) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [Oneiric Diary](https://open.spotify.com/album/0Feph4xWbYik7e0oLR08sN) | 3:12 | 2022-01-03 | 2022-07-22 |
 | [Secret Triangle \- OFF Team Version](https://open.spotify.com/track/52aCoiaQJEz2UzEUROUOqN) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:02 | 2022-03-31 | 2022-04-17 |
 | [Serious](https://open.spotify.com/track/59RTmOmr6G0Ly0MIJqKn1f) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [HOT&COLD](https://open.spotify.com/album/58ExAS9X4jUAtZLBGoBfOJ) | 3:14 | 2022-03-24 | 2022-04-17 |
+| [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-28 |  |
 | [Show Your Love](https://open.spotify.com/track/1VG2YcjPA6XQtiJOoCx9zu) | [BTOB 4U](https://open.spotify.com/artist/29txRD4cY4geQXKUZvmseW) | [INSIDE](https://open.spotify.com/album/4hqp6ROKgjybbv6zsDkcwb) | 3:11 | 2022-03-31 | 2022-04-15 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [Side Effect \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/4bEQRIAxd6pRg4t32yzdge) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 2:56 | 2022-04-05 | 2022-04-14 |

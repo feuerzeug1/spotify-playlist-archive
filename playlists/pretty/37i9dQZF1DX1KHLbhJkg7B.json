@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 85488,
+  "num_followers": 85543,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDhjNDJkZTc1NjlhMDJhNmYxZmQ4ZDZhYjEyNjRkN2I4",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGI1YjQwNWM1Y2YzMDZiZmY0MmUzMGI5MjI1OWY3ZjA0",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Dammit",
-        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
-        }
-      ],
-      "duration_ms": 199445,
-      "name": "Dammit",
-      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 182973,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Dammit",
+        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 199445,
+      "name": "Dammit",
+      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "He Got the Best of Me",
-        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 158461,
-      "name": "He Got the Best of Me",
-      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Cypress Hills and the Big Country",
         "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 184040,
       "name": "Let's All Help the Cowboys (Sing the Blues)",
       "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "He Got the Best of Me",
+        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "He Got the Best of Me",
+      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Forever and Ever, Amen",
-        "url": "https://open.spotify.com/album/5wjcHJKRGMNd3te7DDF3lF"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
       },
       "artists": [
         {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
         }
       ],
-      "duration_ms": 194457,
-      "name": "Forever and Ever, Amen",
-      "url": "https://open.spotify.com/track/0oMLaBjKKvoPfBPT1Z2zra"
+      "duration_ms": 262520,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
     },
     {
       "added_at": "2023-03-24 04:00:00",

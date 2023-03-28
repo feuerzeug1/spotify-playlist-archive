@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-457 songs - 1 day 3 hr 8 min
+458 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [I'm the One \- Acoustic](https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx) | [Sunset & Highland](https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT) | [I'm the One \(Acoustic\)](https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe) | 3:53 | 2021-03-09 |  |
 | [I'm Yours \- Live on HSN Live](https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Spotify Sessions](https://open.spotify.com/album/22MrOvzmcn6WeE4v6Ua6dj) | 4:03 | 2021-03-09 |  |
 | [IDGAF \- Acoustic](https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [IDGAF \(Remixes II\)](https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq) | 3:37 | 2021-03-09 |  |
-| [If I Lose Myself \- Acoustic](https://open.spotify.com/track/0W3kIk1w1qw0G3zKQsuApH) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hangover Hug](https://open.spotify.com/album/0bQ1ggkiRbGhWgYXNXxqaj) | 3:50 | 2022-01-10 |  |
+| [If I Lose Myself \- Acoustic](https://open.spotify.com/track/0W3kIk1w1qw0G3zKQsuApH) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hangover Hug](https://open.spotify.com/album/0bQ1ggkiRbGhWgYXNXxqaj) | 3:50 | 2022-01-10 | 2023-03-28 |
 | [If I Lose Myself \- Acoustic](https://open.spotify.com/track/5QPg2mhf4lXe53bj4hhuO7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 3:50 | 2021-03-09 | 2022-07-29 |
 | [If I Lose Myself \- Acoustic](https://open.spotify.com/track/7680cGQC4epfVn5qtTuz6Q) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Best of Acoustic](https://open.spotify.com/album/6nylznZYZUfprJfzLOu9fD) | 3:50 | 2022-01-10 | 2022-11-12 |
 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 | 2021-03-09 |  |
@@ -265,6 +265,7 @@
 | [Night Changes \- Live Acoustic Session](https://open.spotify.com/track/7aee6sIrFxp6ohSIq3TmHd) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Acoustic \- EP](https://open.spotify.com/album/5VX4SyOXpLW7d0jBGW6AP2) | 3:41 | 2022-01-10 |  |
 | [No Air \(feat\. Chris Brown\) \- Acoustic Version](https://open.spotify.com/track/4oElMo1UEpdwVqtGFJBh8F) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Pure..\. Acoustic](https://open.spotify.com/album/5VLrH7L6Vw0IMCwMghmTLq) | 4:13 | 2021-03-09 | 2022-07-29 |
 | [No Air \(feat\. Chris Brown\) \- Acoustic Version](https://open.spotify.com/track/5tmambyCorzpRg7ViOO3SN) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [No Air Duet With Chris Brown Acoustic Version](https://open.spotify.com/album/7pGk91GOMtNZ0iruHgZFsv) | 4:13 | 2022-01-10 |  |
+| [No One \- Acoustic](https://open.spotify.com/track/0DeNwzmYKxmAe7XtfXRsB6) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [No One \(Remixes\)](https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6) | 4:19 | 2022-01-10 |  |
 | [No One \- Acoustic](https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Playlist Vol\. 1](https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5) | 4:19 | 2021-03-09 | 2022-07-29 |
 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 | 2022-01-10 | 2023-03-27 |
 | [No Promises \(feat\. Demi Lovato\) \- Stripped Version](https://open.spotify.com/track/52iFqPveidhkYAcH5CnE9t) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [No Promises \(feat\. Demi Lovato\) \[Stripped Version\]](https://open.spotify.com/album/6ruJJ58MiEsQUXo5r0AUCk) | 3:26 | 2022-01-10 | 2022-11-13 |

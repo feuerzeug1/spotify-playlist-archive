@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Sans Soucis in cover, e <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">nella playlist global</a> \u2728 ",
-  "num_followers": 5304,
+  "num_followers": 5306,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3ODI4NiwwMDAwMDAwMGYzMThjZWE4ZDU4NWQ4NGRiZjc0MTNiMzBjMGY1Yjll",
+  "snapshot_id": "MTY3OTY3ODI4NiwwMDAwMDAwMDlhYmI5ZGU0MjA1YTY2MTNiN2E2MzQxOWM1MTllMmJj",
   "tracks": [
     {
       "added_at": "2023-03-17 08:35:32",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5"
     },
     {
-      "added_at": "2023-03-27 00:50:00",
+      "added_at": "2023-03-28 00:39:45",
       "album": {
         "name": "She's so different\u0259",
         "url": "https://open.spotify.com/album/7CQ0JTjZ2W5poSmG7cr1Ps"
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
+        "name": "Perch\u00e9 piangi Palermo",
+        "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 349133,
+      "name": "Perch\u00e9 piangi Palermo",
+      "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 142852,
       "name": "Flauta Magica",
       "url": "https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
-        "name": "Perch\u00e9 piangi Palermo",
-        "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 349133,
-      "name": "Perch\u00e9 piangi Palermo",
-      "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
+        "name": "Leo Mas Presents Mediterraneo",
+        "url": "https://open.spotify.com/album/2n9PPXncxZeGFBGgWD6JT5"
+      },
+      "artists": [
+        {
+          "name": "La Bellini",
+          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
+        }
+      ],
+      "duration_ms": 217584,
+      "name": "Satan in Love",
+      "url": "https://open.spotify.com/track/19BrvODRFitoD156Syg7nW"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
         "name": "Comet",
         "url": "https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr"
       },
@@ -991,30 +1007,6 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "Kiddy Smile",
-          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
-        },
-        {
-          "name": "David Blank",
-          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
-      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
         "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
         "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
       },
@@ -1039,18 +1031,26 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
-        "name": "Leo Mas Presents Mediterraneo",
-        "url": "https://open.spotify.com/album/2n9PPXncxZeGFBGgWD6JT5"
+        "name": "CLUB TOPPERIA",
+        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
       "artists": [
         {
-          "name": "La Bellini",
-          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Kiddy Smile",
+          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
+        },
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
         }
       ],
-      "duration_ms": 217584,
-      "name": "Satan in Love",
-      "url": "https://open.spotify.com/track/19BrvODRFitoD156Syg7nW"
+      "duration_ms": 196653,
+      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
+      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
     },
     {
       "added_at": "2023-03-17 08:35:32",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-03-17 08:35:32",
       "album": {
+        "name": "Credo che tra un po'",
+        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
+      },
+      "artists": [
+        {
+          "name": "Whitemary",
+          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
+        }
+      ],
+      "duration_ms": 218628,
+      "name": "Credo che tra un po'",
+      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
+    },
+    {
+      "added_at": "2023-03-17 08:35:32",
+      "album": {
         "name": "Suicidio",
         "url": "https://open.spotify.com/album/0hL1QZ2GTU2EN9auyN4DcA"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 221039,
       "name": "Cerco un uomo",
       "url": "https://open.spotify.com/track/7tJy22xDBueKtHRbO8rVVE"
-    },
-    {
-      "added_at": "2023-03-17 08:35:32",
-      "album": {
-        "name": "Credo che tra un po'",
-        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
-      },
-      "artists": [
-        {
-          "name": "Whitemary",
-          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
-        }
-      ],
-      "duration_ms": 218628,
-      "name": "Credo che tra un po'",
-      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
     },
     {
       "added_at": "2023-03-17 08:35:32",

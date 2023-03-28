@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: JPEGMAFIA & Danny Brown
 
-1,944 songs - 4 day 13 hr 10 min
+1,945 songs - 4 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Fellowship](https://open.spotify.com/track/5BFe78RJ9sUnv2Zwklb6SH) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Fellowship](https://open.spotify.com/album/643pg0Lw8S3i21fAJSNl8R) | 3:39 | 2021-01-25 | 2021-06-03 |
 | [Fellowship \(Remix\) ft\. Ambré & Alex Isley](https://open.spotify.com/track/23quKa0BHCq8CKcoFKbHRL) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ambre](https://open.spotify.com/artist/5mmOgnbsj8LXOUWqLPcoMa), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Fellowship \(Remix\) ft\. Ambré & Alex Isley](https://open.spotify.com/album/0z9WlDfltYm5CAyWHIkXPd) | 3:40 | 2021-11-05 | 2022-02-26 |
 | [Fencing \- DJ Counselling Remix](https://open.spotify.com/track/1rCylaG3y0NNJyM4HVNMIX) | [The Micronaut](https://open.spotify.com/artist/5BNKzWZCbIsQz9zAsg9n6V), [Saskia Streck](https://open.spotify.com/artist/0kKfjs9bW8dAP1Turdc554), [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Fencing \(DJ Counselling Remix\)](https://open.spotify.com/album/5jnm1oyV6ytYuqSJKbSCE0) | 4:46 | 2021-09-04 | 2021-10-07 |
+| [Fentanyl Tester](https://open.spotify.com/track/4pfhCrRk6P2tMU2D0Mb2z5) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:37 | 2023-03-27 |  |
 | [Ferris Wheel \- Maya Jane Coles Remix](https://open.spotify.com/track/1k75gxfIGirdvS8MqMnWsh) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Ferris Wheel \(Maya Jane Coles Remix\)](https://open.spotify.com/album/0mZc9rzgNi9Jl0PbuU0G3H) | 4:18 | 2020-10-30 | 2021-02-06 |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-11-11 | 2023-03-11 |
 | [Fight Like Ida B & Marsha P](https://open.spotify.com/track/6j8Gt38Q03oMTSXr8O8WCR) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Fight Like Ida B & Marsha P](https://open.spotify.com/album/7jWVBbk9N8mVPOrD50aZAX) | 3:07 | 2020-06-18 | 2020-11-21 |

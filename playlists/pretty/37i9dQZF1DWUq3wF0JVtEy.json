@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 903112,
+  "num_followers": 903365,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDRkZGNhYjRhM2I5ZTkzZjMyYzRiZjUwZjZjMTBhM2Yz",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMGVkOWU4NDM3ODk2MThjNGFkMzE0NzE2ZGEzYWQ5NDQw",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -319,26 +319,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Hooked",
         "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Outer Space",
         "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -751,6 +751,30 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "No Piensa",
+        "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Boaz van de Beatz",
+          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
+        }
+      ],
+      "duration_ms": 149268,
+      "name": "No Piensa",
+      "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Backseat Tape",
         "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
       },
@@ -783,6 +807,26 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Way It Is",
+        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        }
+      ],
+      "duration_ms": 192905,
+      "name": "Way It Is",
+      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -807,50 +851,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Way It Is",
-        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        },
-        {
-          "name": "RSCL",
-          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
-        }
-      ],
-      "duration_ms": 192905,
-      "name": "Way It Is",
-      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "No Piensa",
-        "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "Boaz van de Beatz",
-          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
-        }
-      ],
-      "duration_ms": 149268,
-      "name": "No Piensa",
-      "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Goodies - Knock2 Remix",
         "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 209523,
       "name": "Goodies - Knock2 Remix",
       "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -939,22 +955,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "All That You Need",
-        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All That You Need",
-      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
       },
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Losing My Head",
         "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 142857,
       "name": "Bring Et",
       "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "duration_ms": 219523,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 184266,
       "name": "Don't Say You Love Me",
       "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Come Together",
-        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "DJ Glen",
-          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
-        }
-      ],
-      "duration_ms": 219523,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Push And Pull",
-        "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Push And Pull",
-      "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Grimestar",
         "url": "https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 168857,
       "name": "Grimestar",
       "url": "https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Push And Pull",
+        "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Push And Pull",
+      "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
+        "name": "Bumba Bass",
+        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 133125,
+      "name": "Bumba Bass",
+      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
         "name": "Hypno",
         "url": "https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 146250,
       "name": "LEFT TO RIGHT",
       "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Bumba Bass",
-        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
-      },
-      "artists": [
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 133125,
-      "name": "Bumba Bass",
-      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "It Doesn't Matter",
-        "url": "https://open.spotify.com/album/60pKd4GWa9RYzVRspilfHg"
-      },
-      "artists": [
-        {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
-        },
-        {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        }
-      ],
-      "duration_ms": 144922,
-      "name": "It Doesn't Matter",
-      "url": "https://open.spotify.com/track/5I9JYEaXmKsrHlXsnvNYjd"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
         "name": "Rave Shake",
         "url": "https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 148809,
       "name": "Cathedral (Piece Of Me) [feat. JEN]",
       "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "It Doesn't Matter",
+        "url": "https://open.spotify.com/album/60pKd4GWa9RYzVRspilfHg"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        }
+      ],
+      "duration_ms": 144922,
+      "name": "It Doesn't Matter",
+      "url": "https://open.spotify.com/track/5I9JYEaXmKsrHlXsnvNYjd"
     },
     {
       "added_at": "2023-03-24 04:01:00",

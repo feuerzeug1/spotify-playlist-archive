@@ -4,7 +4,7 @@
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-65 songs - 5 hr 41 min
+66 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Hawa dolo](https://open.spotify.com/track/5STlvzO9CX7G8xdk0oNVSi) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 4:58 | 2022-07-21 |  |
 | [Heygana](https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 5:58 | 2021-12-28 |  |
 | [Hilly Yoro](https://open.spotify.com/track/3eeuqMWGPDgKVdH0WzEGzO) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 3:39 | 2021-12-28 | 2023-03-18 |
+| [I Go Ka \- 2017 Remastered Version](https://open.spotify.com/track/6J2fUEVtSk5oDxJnloWs7g) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 4:01 | 2023-03-27 |  |
 | [Inchana Massina \(feat\. Nitin Sawhney\) \- 2017 Remastered Version](https://open.spotify.com/track/3wvU3SK6KD2m4y5eOEAGjR) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:08 | 2021-12-28 |  |
 | [Jungou](https://open.spotify.com/track/4BYctbh0cJOBwoTv8U8tym) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 7:23 | 2021-12-28 | 2022-10-15 |
 | [Kadi kadi](https://open.spotify.com/track/5tJEyk2wHEkTdcEbuUzLua) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 3:19 | 2022-05-09 | 2022-05-11 |

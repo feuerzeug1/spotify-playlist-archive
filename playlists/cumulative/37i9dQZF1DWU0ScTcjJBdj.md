@@ -4,7 +4,7 @@
 
 > Let your worries and cares slip away.
 
-266 songs - 17 hr 16 min
+267 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Only Lonely](https://open.spotify.com/track/2BzYOfztRMaIVKTfYOGQgR) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Only Lonely](https://open.spotify.com/album/5scmOTsoWe6xJyG5otiiZU) | 3:37 | 2019-05-26\* | 2021-10-02 |
 | [Only Love](https://open.spotify.com/track/0QB71BDzh36guAExsTIgNO) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 4:09 | 2019-05-26\* | 2022-07-29 |
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2022-06-24 |  |
+| [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-27 |  |
 | [Party of One \(feat\. Sam Smith\)](https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Party of One \(feat\. Sam Smith\)](https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47) | 4:19 | 2019-05-26\* | 2019-08-13 |
 | [People Change](https://open.spotify.com/track/3Ed55g8hCz1GmqRTelIPIW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [People Change](https://open.spotify.com/album/0ynSa86jw1PqCHRBcWYskU) | 3:32 | 2019-05-26\* | 2022-07-29 |
 | [People Change](https://open.spotify.com/track/3X8nisFKqIo9JyCgRXyKZL) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [People Change](https://open.spotify.com/album/381HJLxqIIyyXIOM3S3P9f) | 3:32 | 2022-06-24 | 2022-11-13 |

@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Dinner Is Not Over / There's Something Happening / Keyman / Cupid",
+        "url": "https://open.spotify.com/album/5fj1GdFNLbru8pCOqNmLaK"
+      },
+      "artists": [
+        {
+          "name": "Jack Stauber's Micropop",
+          "url": "https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220245,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/2t7RNUa8I8fbZAEAmZOkBl"
+    },
+    {
+      "album": {
         "name": "cut my fingers off",
         "url": "https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo"
       },
@@ -1014,6 +1032,24 @@
       "duration_ms": 175500,
       "name": "despair",
       "url": "https://open.spotify.com/track/292JruITePIpFvRpPb85GF"
+    },
+    {
+      "album": {
+        "name": "Cavetown",
+        "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179955,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 283294,
+  "num_followers": 283700,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk4NDg2NiwwMDAwMDAwMGI3ZWJhZjk4NzllNGY0NzdkYjFlOGZmMTc0ZWFmYjNi",
+  "snapshot_id": "MTY3OTk0NTgwOCwwMDAwMDAwMDE3MjNiZGUwNTUzYmQ4ZjNhYjk1NWNkZjEzYTExYjUy",
   "tracks": [
     {
       "added_at": "2023-03-15 14:00:49",
@@ -71,6 +71,22 @@
       "duration_ms": 215960,
       "name": "Hermit the Frog",
       "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
+    },
+    {
+      "added_at": "2023-03-27 19:36:48",
+      "album": {
+        "name": "Cavetown",
+        "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 179955,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -167,6 +183,22 @@
       "duration_ms": 73320,
       "name": "Blue Haired Boy",
       "url": "https://open.spotify.com/track/74aKOiizkE9bZTTaRw1pfW"
+    },
+    {
+      "added_at": "2023-03-27 19:36:48",
+      "album": {
+        "name": "Dinner Is Not Over / There's Something Happening / Keyman / Cupid",
+        "url": "https://open.spotify.com/album/5fj1GdFNLbru8pCOqNmLaK"
+      },
+      "artists": [
+        {
+          "name": "Jack Stauber's Micropop",
+          "url": "https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/2t7RNUa8I8fbZAEAmZOkBl"
     },
     {
       "added_at": "2023-02-24 05:00:00",

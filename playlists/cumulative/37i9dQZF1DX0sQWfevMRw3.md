@@ -2,7 +2,7 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> Det enda sex jag ville ha var sexa jäger!!
+> Om jag ramlar omkull så är det bara för att jag är fuuuull!!
 
 564 songs - 1 day 0 hr 46 min
 

@@ -121,6 +121,32 @@
     },
     {
       "album": {
+        "name": "Aaqa Teri Rehmat (Presented by Rivayat)",
+        "url": "https://open.spotify.com/album/3dGlou4FunV5GGtjB7TUQO"
+      },
+      "artists": [
+        {
+          "name": "Mekaal Hasan Band",
+          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
+        },
+        {
+          "name": "Afzaal Ali Khan",
+          "url": "https://open.spotify.com/artist/4P6RKmuyKGks8Nm6G2f3Vd"
+        },
+        {
+          "name": "Anton Davidyants",
+          "url": "https://open.spotify.com/artist/66d6zyM2sXbxpVa6BVMLKq"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 737000,
+      "name": "Aaqa Teri Rehmat - Presented by Rivayat",
+      "url": "https://open.spotify.com/track/3QuoSyPh0KEYyC1brxkEJr"
+    },
+    {
+      "album": {
         "name": "Anjaana Anjaani",
         "url": "https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9"
       },

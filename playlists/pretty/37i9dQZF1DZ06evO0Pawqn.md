@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,019 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,025 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [Amor de Ayer](https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 2](https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD) | 3:10 |
 | 50 | [Diamante Negro](https://open.spotify.com/track/0ceiWUkNNYVmF1uzkGyj3H) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mas Llegadoras](https://open.spotify.com/album/4AFzIdSy43aJ2Hk26O9MS7) | 3:15 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDAwMTAyMjBiMWQ2MjZjYWJlMDQ5MDY2NDZkMGFiMzk3Ng==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDA2N2NjMGRmOGJhOGUxZmJlNTYzZTdhYTQ3ZjQ3NDU4ZQ==`

@@ -4,7 +4,7 @@
 
 > Éxitos del Regional Mexicano de ayer y hoy para acompañarte en la troca.
 
-349 songs - 18 hr 47 min
+350 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 | 2022-03-09 |  |
 | [Calidad Y Cantidad](https://open.spotify.com/track/6L1zCcEC2nflzD0lMiAvBn) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/2WNKpTs5TLYjY2FnYvqjWV) | 3:28 | 2022-03-09 | 2022-07-06 |
 | [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 | 2022-03-09 | 2023-01-10 |
+| [Carta Abierta](https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Internacionalmente Norteños](https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42) | 2:52 | 2023-03-18 |  |
 | [Casi Perfecta](https://open.spotify.com/track/11LsnRtCKFgqhQGqnAekFA) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Mane de la Parra](https://open.spotify.com/artist/0HADOzU8NWOajMtJvwG4Ck) | [Casi Perfecta](https://open.spotify.com/album/7pcJSHA6dzjmoUZVoyVuen) | 2:47 | 2022-03-09 | 2022-07-29 |
 | [Catarino Y Los Rurales](https://open.spotify.com/track/0xLOfZEzRtkzy1ADdZ2m3W) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Ramalazo](https://open.spotify.com/album/15qK1WoL0Rh066I1PJnVLy) | 2:55 | 2022-03-09 | 2022-07-27 |
 | [Cedí](https://open.spotify.com/track/0C5u9cvJGDP4YpIbUyzJW4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Cedí](https://open.spotify.com/album/6Tez8YETehXZ8GS6Q9yh4j) | 3:13 | 2022-03-09 | 2022-09-24 |
@@ -264,7 +265,7 @@
 | [Pedro Y Pablo](https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 3:13 | 2022-03-09 |  |
 | [Perdon Perdon](https://open.spotify.com/track/3hj4BrNPg1N6fv7zPGaKGA) | [Los Necios](https://open.spotify.com/artist/2ksSO9pB8GaQfmzO3dhRaF) | [Perdon Perdon](https://open.spotify.com/album/5o5UpMFTyu1uxYSriD7bud) | 3:10 | 2023-03-09 |  |
 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 | 2022-09-23 | 2023-01-10 |
-| [Pistoleros Famosos](https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:39 | 2022-03-09 |  |
+| [Pistoleros Famosos](https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:39 | 2022-03-09 | 2023-03-28 |
 | [Pistoleros Famosos](https://open.spotify.com/track/2BBIY8c9rASdkjGbinuPJG) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/4lS9Q5BR7QycY2rH5J9i2G) | 2:39 | 2022-03-09 | 2022-07-29 |
 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 | 2022-03-09 |  |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-02-24 |  |

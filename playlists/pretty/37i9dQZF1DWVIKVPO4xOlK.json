@@ -1,12 +1,12 @@
 {
   "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Chino Pacas",
-  "num_followers": 380873,
+  "num_followers": 380928,
   "original_name": "Rompiendo: Los Angeles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MDg0MCwwMDAwMDAwMDZhYzhhNWZkOTgwN2E1NzFkOTdjZGZiYjg3NjdiMTQ0",
+  "snapshot_id": "MTY3OTA0MDg0MCwwMDAwMDAwMDVmYjNjNDdjYTA5M2QxMDE3NjNkZWI3ODM0YjU4MzQw",
   "tracks": [
     {
       "added_at": "2023-03-17 08:14:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2023-03-17 08:14:00",
       "album": {
+        "name": "CAIRO",
+        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
+    },
+    {
+      "added_at": "2023-03-17 08:14:00",
+      "album": {
         "name": "PUNTO 40",
         "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
       },
@@ -567,26 +587,6 @@
     {
       "added_at": "2023-03-17 08:14:00",
       "album": {
-        "name": "CAIRO",
-        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
-    },
-    {
-      "added_at": "2023-03-17 08:14:00",
-      "album": {
         "name": "Andamos Mejor",
         "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
@@ -599,26 +599,6 @@
       "duration_ms": 137183,
       "name": "Andamos Mejor",
       "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
-    },
-    {
-      "added_at": "2023-03-17 08:14:00",
-      "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
     },
     {
       "added_at": "2023-03-17 08:14:00",
@@ -667,6 +647,26 @@
     {
       "added_at": "2023-03-17 08:14:00",
       "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
+    },
+    {
+      "added_at": "2023-03-17 08:14:00",
+      "album": {
         "name": "El Pickles",
         "url": "https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq"
       },
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-03-17 08:14:00",
       "album": {
-        "name": "Te Quiero Besar",
-        "url": "https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 190334,
-      "name": "Te Quiero Besar",
-      "url": "https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz"
-    },
-    {
-      "added_at": "2023-03-17 08:14:00",
-      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 169548,
       "name": "Cambio De Canci\u00f3n",
       "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
+    },
+    {
+      "added_at": "2023-03-17 08:14:00",
+      "album": {
+        "name": "Te Quiero Besar",
+        "url": "https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 190334,
+      "name": "Te Quiero Besar",
+      "url": "https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz"
     },
     {
       "added_at": "2023-03-17 08:14:00",

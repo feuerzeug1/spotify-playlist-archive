@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 396 songs - 17 hr 39 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 397 songs - 17 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -404,5 +404,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 394 | [Fish & Chips](https://open.spotify.com/track/0L06mPuSfUUGoOzK3fa9zD) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 2:53 |
 | 395 | [Jew On The Canoe](https://open.spotify.com/track/694GED3o0OdFTsoS0aNpEs) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Blp Kosher And The Magic Dreidel](https://open.spotify.com/album/7KP3jfdAFSjRx1HEQkIyyY) | 2:09 |
 | 396 | [Slipping Into Darkness](https://open.spotify.com/track/1E9jnRS7TRaJtmBf7NzQWn) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 4:16 |
+| 397 | [Locusts](https://open.spotify.com/track/7LpVvEMb8s30QfGKoHMuu0) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Locusts](https://open.spotify.com/album/00FePblmr3mcHeFHXlAeqb) | 1:56 |
 
-Snapshot ID: `Njk2NSxlNzFkZGFmNzI0OTZhZDNiMmEwZjc1NjJkN2MzYThkZTgzNzkyZDM5`
+Snapshot ID: `Njk2Niw3MGNlNDQ5ZTZjZDkwMjM2MzEyOTdmMDViMmUwMWI2N2MyZTY5ZmI3`

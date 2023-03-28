@@ -74,10 +74,28 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 246857,
       "name": "7CHOUMA",
       "url": "https://open.spotify.com/track/0bmnCDY8M8fBtlPwMrLIu9"
+    },
+    {
+      "album": {
+        "name": "7CHOUMA",
+        "url": "https://open.spotify.com/album/6EE03Qicg9RZIZbYeIS0Dj"
+      },
+      "artists": [
+        {
+          "name": "Mouh Milano",
+          "url": "https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "7CHOUMA",
+      "url": "https://open.spotify.com/track/797McgitlHovktyFPMDZYc"
     },
     {
       "album": {
@@ -1052,6 +1070,24 @@
     {
       "album": {
         "name": "GHAZALI",
+        "url": "https://open.spotify.com/album/1bMeGmCiuPxq3TyiK0zmWm"
+      },
+      "artists": [
+        {
+          "name": "Mouh Milano",
+          "url": "https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "GHAZALI",
+      "url": "https://open.spotify.com/track/2JCxNic0pS1pAXNnRKS3QH"
+    },
+    {
+      "album": {
+        "name": "GHAZALI",
         "url": "https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l"
       },
       "artists": [
@@ -1066,7 +1102,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 196595,
       "name": "GHAZALI",
       "url": "https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA"

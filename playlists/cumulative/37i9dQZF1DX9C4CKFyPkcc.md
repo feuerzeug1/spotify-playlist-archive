@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-175 songs - 10 hr 21 min
+176 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Christmas Valentine](https://open.spotify.com/track/3IGnC58kVTeQQGxEybWtaE) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [This Christmas](https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF) | 3:02 | 2022-12-11 | 2023-03-21 |
 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/16IA6igILbx316CPY6CwjP) | 5:12 | 2022-12-11 |  |
 | [Deck The Halls](https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [A Soulful Holiday](https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT) | 4:08 | 2021-12-24 | 2022-11-27 |
-| [Deck the Halls](https://open.spotify.com/track/6RVYDDcu8qfcGgCPNPDJBS) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 4:09 | 2021-12-24 |  |
+| [Deck the Halls](https://open.spotify.com/track/6RVYDDcu8qfcGgCPNPDJBS) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 4:09 | 2021-12-24 | 2023-03-28 |
 | [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 | 2022-12-11 |  |
 | [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 | 2021-12-24 | 2023-03-11 |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas +](https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3) | 3:12 | 2021-12-24 |  |
@@ -168,6 +168,7 @@
 | [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 |  |
 | [UNEXPECTED KING](https://open.spotify.com/track/10j0mfFINV55qklpdPkuNx) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [UNEXPECTED KING](https://open.spotify.com/album/7JiiLLPbmDA6fAyfmz3uME) | 3:41 | 2022-12-11 |  |
 | [Unto Us](https://open.spotify.com/track/74s6HoDu3xKX8zzk56DYBK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Unto Us](https://open.spotify.com/album/663RXaFX5ngMLhSFDsjFaR) | 4:03 | 2022-11-26 |  |
+| [We Bow](https://open.spotify.com/track/49pJVkJhuISvkHBY65K6RG) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif), [Isa Ma](https://open.spotify.com/artist/0pWvGTyszb31m9wq2cLlJ0), [Astyn Turr](https://open.spotify.com/artist/2By37PSkMs1WNuiTY0CbQl) | [We Bow / Christmas Is Here](https://open.spotify.com/album/5XDAp6GrTOpatrrFuz30HB) | 3:48 | 2022-12-11 |  |
 | [We Need A Little Christmas](https://open.spotify.com/track/0tuY26eUFAtEWxVrj5fojS) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 2:26 | 2021-12-24 |  |
 | [Welcome to Our World](https://open.spotify.com/track/1wAMMKFVZJ3AHgGCvYMBpK) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n) | [Welcome To Our World](https://open.spotify.com/album/2Xl3s1pssq11jtDsQYOEdm) | 4:07 | 2022-12-11 | 2023-01-16 |
 | [What Child Is This?](https://open.spotify.com/track/5rM3dXlmgy5BtkamHPxdQl) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Morgan Ranney](https://open.spotify.com/artist/4NAuhahng7kSZqvfIXHFR9) | [What Child Is This?](https://open.spotify.com/album/2ZbATgq2AqrhhftlpkC0eb) | 2:16 | 2021-12-24 |  |

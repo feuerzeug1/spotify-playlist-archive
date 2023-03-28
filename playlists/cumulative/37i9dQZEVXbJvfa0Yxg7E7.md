@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,014 songs - 2 day 5 hr 1 min
+1,015 songs - 2 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 | 2023-01-03 | 2023-01-17 |
 | [Extremes](https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Extremes](https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj) | 2:29 | 2022-10-01 | 2022-10-09 |
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-25 |  |
+| [F.H.D.S!](https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [F.H.D.S!](https://open.spotify.com/album/57nk6LQlgsL7PMyxHnSAxj) | 2:38 | 2023-03-27 |  |
 | [F64](https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [F64](https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE) | 3:24 | 2023-01-21 | 2023-01-23 |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-05 | 2021-10-17 |
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 | 2021-11-30 | 2022-12-30 |
@@ -779,7 +780,7 @@
 | [Rich \- Interlude](https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 1:43 | 2022-05-14 | 2022-05-16 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2022-12-03 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-27 |
-| [RID MIG SOM EN DALAHÄST](https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [JAG VILL HA DIG HÄR HOS MIG](https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA) | 2:01 | 2022-10-31 |  |
+| [RID MIG SOM EN DALAHÄST](https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [JAG VILL HA DIG HÄR HOS MIG](https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA) | 2:01 | 2022-10-31 | 2023-03-28 |
 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 | 2021-03-27\* | 2021-05-18 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-11 | 2023-03-19 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-28 | 2022-12-30 |

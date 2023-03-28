@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-478 songs - 1 day 3 hr 27 min
+479 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ayer](https://open.spotify.com/track/74VnW6FcqDA0dIya9myWhA) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [Ayer](https://open.spotify.com/album/4uGoe4piSnx77jxLOJPMKz) | 3:05 | 2022-07-15 | 2022-07-28 |
 | [AYER](https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP) | 3:55 | 2023-02-03 |  |
 | [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 | 2022-01-21 | 2023-01-14 |
+| [Azúcar](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [Azúcar](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 | 2023-03-24 |  |
 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 | 2022-01-14 |  |
 | [Besos Que Nos Dimos](https://open.spotify.com/track/7u5ubiYPA1a1tACQrZicY7) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Besos Que Nos Dimos](https://open.spotify.com/album/0gOurSKwd8MBVE7DANvFKX) | 3:07 | 2022-11-28 | 2023-02-10 |
 | [Blusito](https://open.spotify.com/track/5uaQ2JqKFUbku7ssEgWjte) | [Lulioli](https://open.spotify.com/artist/1sBDWlxYFLnrmmbrgKI4O4) | [Blusito](https://open.spotify.com/album/4WQpIrBMxLjRKcrkluurb3) | 5:17 | 2022-04-01 | 2022-06-29 |
@@ -422,7 +423,7 @@
 | [tarde](https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tarde](https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq) | 3:37 | 2022-01-14 | 2022-07-27 |
 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 | 2022-07-15 |  |
 | [Te Guardo](https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:21 | 2022-01-14 | 2022-07-29 |
-| [Te Pense un Monton](https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Te Pense un Monton](https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE) | 2:24 | 2022-09-23 |  |
+| [Te Pense un Monton](https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Te Pense un Monton](https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE) | 2:24 | 2022-09-23 | 2023-03-28 |
 | [Te Pido](https://open.spotify.com/track/17aiyNeLuMT3a88sr4Bsmt) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [Te Pido](https://open.spotify.com/album/1pmpmLXG9a8YSAALamKYuF) | 2:56 | 2022-04-01 | 2022-04-21 |
 | [Te Queria](https://open.spotify.com/track/4nkStFVaOEAz6BEtoNb3YN) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Te Queria](https://open.spotify.com/album/14hqEl8VjNWqXfBWW7hmJX) | 4:02 | 2022-01-21 | 2022-07-27 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2022-01-21 |  |

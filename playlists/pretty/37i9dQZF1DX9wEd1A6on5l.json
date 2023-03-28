@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 25368,
+  "num_followers": 25410,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3NjQ5MCwwMDAwMDAwMDI0MGQ2MmY5MmRhZTI5NmVmYjk1YzViYThjODJjZTkz",
+  "snapshot_id": "MTY3OTY3NjQ5MCwwMDAwMDAwMGE1MTBiMGRhNWY5NTZkZjc0YTNiZmJmMThhZGMyZmFl",
   "tracks": [
     {
       "added_at": "2023-03-24 16:48:10",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Joha",
+      "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
         "name": "Buga (Lo Lo Lo)",
         "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Joha",
-      "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
     },
     {
       "added_at": "2023-03-24 16:48:10",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 123716,
+      "name": "Organise",
+      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 123716,
-      "name": "Organise",
-      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
     },
     {
       "added_at": "2023-03-24 16:48:10",
@@ -511,6 +511,34 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
+        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -555,34 +583,6 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
         "name": "Loaded",
         "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220525,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
         "name": "RTID (Rich Till I Die)",
         "url": "https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 172881,
       "name": "RTID (Rich Till I Die)",
       "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220525,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
     },
     {
       "added_at": "2023-03-24 16:48:10",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
         "name": "Ijo (Laba Laba)",
         "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
     },
     {
       "added_at": "2023-03-24 16:48:10",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
         "name": "Big Flexa",
         "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
       },
@@ -1055,38 +1039,6 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Eh God (Barnabas)",
-      "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
       },
@@ -1103,6 +1055,54 @@
       "duration_ms": 169822,
       "name": "Let There Be Light",
       "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
+        "name": "Barnabas",
+        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Eh God (Barnabas)",
+      "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
     },
     {
       "added_at": "2023-03-24 16:48:10",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG"
       },
@@ -1311,26 +1287,6 @@
       "duration_ms": 162720,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2023-03-24 16:48:10",
@@ -1379,6 +1335,66 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        }
+      ],
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 143452,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
         "name": "Come My Way",
         "url": "https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 208718,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
       "added_at": "2023-03-24 16:48:10",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 143452,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
       "added_at": "2023-03-24 16:48:10",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-03-24 16:48:10",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 125030,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
-    },
-    {
-      "added_at": "2023-03-24 16:48:10",
-      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 237876,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
+    },
+    {
+      "added_at": "2023-03-24 16:48:10",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 125030,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
     }
   ],
   "unique_name": "Party Dey!",

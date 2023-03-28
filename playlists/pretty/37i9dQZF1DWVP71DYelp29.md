@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\.  Cover: Taylor Swift.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,437 likes - 116 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,485 likes - 116 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,15 +74,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 64 | [bad guy \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66wi6NRfwsula1n68bJEod) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 2:47 |
 | 65 | [2002 \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:12 |
 | 66 | [Sexual \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 3:09 |
-| 67 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
-| 68 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
+| 67 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
+| 68 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
 | 69 | [Teenage Dirtbag \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Spotify Singles](https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6) | 4:06 |
 | 70 | [There She Goes \- Spotify Singles](https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Spotify Singles](https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ) | 2:57 |
 | 71 | [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38) | 4:04 |
 | 72 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
 | 73 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk) | 4:39 |
-| 74 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 |
-| 75 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn) | 3:01 |
+| 74 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn) | 3:01 |
+| 75 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 |
 | 76 | [Better Now \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Spotify Singles](https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7) | 3:50 |
 | 77 | [Tequila \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 2:54 |
 | 78 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 115 | [Black Beatles \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07MbSpXIjhoUzh0QBUM1J1) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:33 |
 | 116 | [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 |
 
-Snapshot ID: `MTY3MzQ2Njg4OCwwMDAwMDAwMDBjYWViZjQ4OWIxYmE5MjQ5MzdkM2MxYjg3NjlkNzRi`
+Snapshot ID: `MTY3MzQ2Njg4OCwwMDAwMDAwMDA3MWZhZWQyMmZjNWZlODBkYTlmNWM0YmNiMjdkYWNk`

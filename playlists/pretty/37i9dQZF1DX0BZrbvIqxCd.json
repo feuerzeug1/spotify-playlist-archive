@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 524675,
+  "num_followers": 524708,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMGQxYTk0YWMyZjAxODc2YWFiZTZkMjQwZWZjOTJiZTM5",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMGU4ZGYxY2YwZDMyZWYxNmQ3NzQ1NTE2OGVjOTU5NzAy",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -127,18 +143,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -155,6 +171,22 @@
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -191,38 +223,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -235,38 +235,6 @@
       "duration_ms": 110093,
       "name": "Fell In Love With a Girl",
       "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Miss Murder",
-      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "We The Kings",
-        "url": "https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB"
-      },
-      "artists": [
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Check Yes, Juliet",
-      "url": "https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -291,6 +259,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Miss Murder",
+      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 257826,
       "name": "Self Esteem",
       "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "We The Kings",
+        "url": "https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Check Yes, Juliet",
+      "url": "https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 233280,
-      "name": "Broken Dreams, Inc.",
-      "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "MONOMANIA",
         "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 215053,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 233280,
+      "name": "Broken Dreams, Inc.",
+      "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Degenerates",
+      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 185419,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 175272,
-      "name": "We\u2019re Not Alright",
-      "url": "https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Degenerates",
-      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
+      "duration_ms": 175272,
+      "name": "We\u2019re Not Alright",
+      "url": "https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "From The Outside",
+      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Sundressed & Nominee",
         "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 191756,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "From The Outside",
-      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 211100,
+      "name": "Want Me Around",
+      "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 190000,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/7vUeM6Bftbd4wBSml0KffV"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 211100,
-      "name": "Want Me Around",
-      "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"
     },
     {
       "added_at": "2020-11-20 21:27:18",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,471 likes - 62 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,640 likes - 62 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Que manera de quererte](https://open.spotify.com/track/6ZUoOdl1enEmiLtTdWcM4w) | [Grupo Cimarron De Cuba](https://open.spotify.com/artist/43Nf9Fu11OoPHkbZFfGMCE) | [The Most Popular Songs from Cuba](https://open.spotify.com/album/4C3zYZy8KynpglX602ev5l) | 5:04 |
 | 2 | [A Buena Vista](https://open.spotify.com/track/6K4iVISawI285iTxyvBIEB) | [Soneros De Verdad](https://open.spotify.com/artist/12eNUx8BvR5qmpFssq8Vkt), [Luis Frank](https://open.spotify.com/artist/3NOoOH3WZuJRNe5cvmW7ic) | [A Buena Vista: Barrio De La Habana](https://open.spotify.com/album/5hSWRDgVuz5mVirkTXPcfO) | 3:13 |
-| 3 | [Los aretes](https://open.spotify.com/track/6GEQM9yoFzdQtALGcILSca) | [Mario Manzanares](https://open.spotify.com/artist/3r7BC9mw1EwyzOp6lU1ZXt), [Sergio Alvarez](https://open.spotify.com/artist/6n8BdKdBM7ckmMhz1Wr1N9), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [Miguel Castro](https://open.spotify.com/artist/4811WtF0znWG09E9YG8mXF) | [Sergio Alvarez: Cuba, Cuba! \- The Most Popular Songs](https://open.spotify.com/album/6LucKJfqdrd4Mzh4BjXVbN) | 2:30 |
+| 3 | [Los aretes](https://open.spotify.com/track/2CimHhLjxIQVLfo5T75ABN) | [Anonymous](https://open.spotify.com/artist/3H269p8sGhjP7WBYlGsN18), [Mario Manzanares](https://open.spotify.com/artist/3r7BC9mw1EwyzOp6lU1ZXt), [Sergio Alvarez](https://open.spotify.com/artist/6n8BdKdBM7ckmMhz1Wr1N9), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [Miguel Castro](https://open.spotify.com/artist/4811WtF0znWG09E9YG8mXF) | [Sergio Alvarez: Cuba, Cuba! \- The Most Popular Songs](https://open.spotify.com/album/4YRflLUQPNyugAgWNV9cfI) | 2:30 |
 | 4 | [El Carretero](https://open.spotify.com/track/5UxSH2QqmPlfeoqspQVZEA) | [Guillermo Portabales](https://open.spotify.com/artist/5tU4QY77fd3PavzBZvM3bJ) | [Son Cubano Para Cantar](https://open.spotify.com/album/4QIpeZWyufZKw0C9AEJES2) | 4:18 |
 | 5 | [El manisero](https://open.spotify.com/track/5Us6WiDjBOTyabRsOeKafH) | [Jorge Anibal Mendoza](https://open.spotify.com/artist/56YAAzaH2jKV3F2vlBODKt), [Teresa Gonzáles Feldmann](https://open.spotify.com/artist/3FTIC0VPS6p22gX0Mh7Wc4), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS) | [World Dance: Cuba](https://open.spotify.com/album/7bUTs0Sq3rDoCy2UZ9bZtP) | 3:42 |
 | 6 | [Uchi Beng Guau Guau](https://open.spotify.com/track/2br7aDq2ZMOQSqe550ZuQc) | [Roberto Santamaria](https://open.spotify.com/artist/1AtHEOeoytbnFMzsuUT2BL) | [Cuba: The Ultimate Salsa Collection](https://open.spotify.com/album/5eu5gIZatGsL1r8EaG29ft) | 5:53 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 61 | [Habanera](https://open.spotify.com/track/5fJ59hC02dd43Ej9I1Zyyp) | [Cuba Cafe Express](https://open.spotify.com/artist/5suSWbd4Oy5ZBnwvk2ruCt) | [What About Cuba](https://open.spotify.com/album/2PpQzhiPBQl6cbWvmgNhTn) | 3:42 |
 | 62 | [El Guayo de Catilina](https://open.spotify.com/track/0YMHpQZ6FYqS4V6J6xOVqL) | [Havana Club](https://open.spotify.com/artist/3OVEfqUmt746LvlpP2rKK2) | [Cafè de Cuba \(Latin Music, Cuba\)](https://open.spotify.com/album/1hPlkjUn6C9cRVVN3VEfhu) | 3:17 |
 
-Snapshot ID: `MTY1OTY5OTY4NSwwMDAwMDAwMDAyZjA2YjQ4YzU2YWEwNWE1Mjc2YWE1ZDFhOWIwM2Qz`
+Snapshot ID: `MTY1OTY5OTY4NSwwMDAwMDAwMGY0MTNiMmZhMjI5NjRkYTI2ODkyOWM3NWUyNzY2NzVj`

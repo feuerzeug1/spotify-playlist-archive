@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: TWICE",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u7c73\u6d25\u7384\u5e2b",
   "name": "Hot Hits Japan",
   "tracks": [
     {
@@ -385,6 +385,42 @@
     },
     {
       "album": {
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
+      "album": {
         "name": "F64",
         "url": "https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE"
       },
@@ -396,7 +432,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 204893,
       "name": "F64",
       "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
@@ -458,6 +494,28 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Fly Girl (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "Fly Girl (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
     },
     {
       "album": {
@@ -700,7 +758,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 262623,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5"
@@ -842,6 +900,24 @@
       "duration_ms": 220403,
       "name": "Like A Saviour",
       "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Like Crazy (English Version)",
+      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
     },
     {
       "album": {
@@ -1138,7 +1214,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 141971,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/6W3UEFq0oD8EBILiyn9B48"
@@ -1290,7 +1366,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -1414,6 +1490,24 @@
       "duration_ms": 183925,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
+    },
+    {
+      "album": {
+        "name": "Time Machine/Kazokuno Fukei",
+        "url": "https://open.spotify.com/album/5fB1LmRdJBtp4qZ6990791"
+      },
+      "artists": [
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217191,
+      "name": "Time Machine/Kazokuno Fukei",
+      "url": "https://open.spotify.com/track/341Yx5D0ebbX7FcWDEHtRp"
     },
     {
       "album": {
@@ -1758,7 +1852,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 270186,
       "name": "\u591c\u7a7a\u3092\u7fd4\u3051\u308b",
       "url": "https://open.spotify.com/track/23HPYqUEwJ6CaUGoTaY3fK"

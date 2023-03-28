@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Los Bitchos
 
-118 songs - 5 hr 52 min
+119 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [D.R.I.L.D.O](https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:12 | 2022-12-02 |  |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-12-02 |  |
 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 | 2023-03-20 |  |
+| [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 | 2023-03-27 |  |
 | [Deadzone](https://open.spotify.com/track/3wnVGG4XF8VbhdfvY8hd1F) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Deadzone](https://open.spotify.com/album/1tixQpiCa1jCbXmiEjNAM0) | 2:50 | 2022-12-02 | 2023-02-03 |
 | [Demolition Row](https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp) | 4:18 | 2023-03-03 |  |
 | [Desire](https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Desire](https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay) | 1:55 | 2023-02-06 |  |
@@ -59,7 +60,7 @@
 | [Groundhog Day](https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Groundhog Day](https://open.spotify.com/album/415iY0uDENvjox5USnF9uC) | 3:37 | 2022-12-02 |  |
 | [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 | 2022-12-02 |  |
 | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 | 2022-12-02 | 2023-01-20 |
-| [Happiness 4 Dummies](https://open.spotify.com/track/0WKZtlkkgK44fVSrP75EO2) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness 4 Dummies](https://open.spotify.com/album/7mSqGeFRzvBcjywz52XY6N) | 2:39 | 2022-12-02 |  |
+| [Happiness 4 Dummies](https://open.spotify.com/track/0WKZtlkkgK44fVSrP75EO2) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness 4 Dummies](https://open.spotify.com/album/7mSqGeFRzvBcjywz52XY6N) | 2:39 | 2022-12-02 | 2023-03-28 |
 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2022-12-02 | 2023-02-19 |
 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 | 2022-12-02 | 2023-03-21 |
 | [Here In Your Bedroom \(feat\. Avril Lavigne\)](https://open.spotify.com/track/0eOKxLySILR9x85cknejae) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Never Look Back \(Deluxe\)](https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx) | 3:12 | 2022-12-02 |  |

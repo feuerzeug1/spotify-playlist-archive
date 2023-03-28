@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5CSEaABQkS1hoLza0IpK2r"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5QyOjKJhR1iyF0DHQM2IvW"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/6JNluWWlzWmrW1LKR5X2SN"
@@ -1665,6 +1665,32 @@
     },
     {
       "album": {
+        "name": "Street Dancer 3D",
+        "url": "https://open.spotify.com/album/50FHINh9xisewZgfucGbVL"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Varun Dhawan",
+          "url": "https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182738,
+      "name": "Garmi (feat. Varun Dhawan)",
+      "url": "https://open.spotify.com/track/2J6eJ4OtqTiKSQr3pIwxmD"
+    },
+    {
+      "album": {
         "name": "Garmi (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7"
       },
@@ -1684,7 +1710,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 182738,
       "name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
       "url": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF"
@@ -1735,6 +1761,36 @@
     },
     {
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/0z7bJ6UpjUw8U4TATtc5Ku"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302935,
+      "name": "Ghungroo",
+      "url": "https://open.spotify.com/track/6EAMI8iHwC3TCSBGVKoWng"
+    },
+    {
+      "album": {
         "name": "Ghungroo (From \"War\")",
         "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
       },
@@ -1758,7 +1814,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 302935,
       "name": "Ghungroo (From \"War\")",
       "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
@@ -2061,6 +2117,28 @@
     },
     {
       "album": {
+        "name": "Street Dancer 3D",
+        "url": "https://open.spotify.com/album/50FHINh9xisewZgfucGbVL"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188606,
+      "name": "Illegal Weapon 2.0",
+      "url": "https://open.spotify.com/track/7CY0CmCpSglfUKCBOOiRfw"
+    },
+    {
+      "album": {
         "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl"
       },
@@ -2084,10 +2162,40 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 188606,
       "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
+    },
+    {
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/0z7bJ6UpjUw8U4TATtc5Ku"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230557,
+      "name": "Jai Jai Shivshankar",
+      "url": "https://open.spotify.com/track/6IYS7wNZxRBvLpwMZDbcdP"
     },
     {
       "album": {
@@ -2580,7 +2688,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-14",
+      "date_removed": null,
       "duration_ms": 215075,
       "name": "Let's Nacho",
       "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
@@ -3602,7 +3710,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 211489,
       "name": "Rock Tha Party",
       "url": "https://open.spotify.com/track/0MJCvfI7CV8drZaQlJynYR"
@@ -3754,6 +3862,32 @@
       "duration_ms": 234737,
       "name": "Sau Aasmaan",
       "url": "https://open.spotify.com/track/0zHZSO80CTxNtvtRhveHRJ"
+    },
+    {
+      "album": {
+        "name": "Dishoom",
+        "url": "https://open.spotify.com/album/6DtMXD2zJumu3R2e54OVKT"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Amit Mishra",
+          "url": "https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238994,
+      "name": "Sau Tarah Ke",
+      "url": "https://open.spotify.com/track/54SQet8YMttOgTqDNGcGpe"
     },
     {
       "album": {
@@ -3936,7 +4070,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": "2021-03-16",
+      "date_removed": null,
       "duration_ms": 264854,
       "name": "Sooraj Dooba Hain",
       "url": "https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn"

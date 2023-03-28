@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Mc Davi, MC GP",
-  "num_followers": 92795,
+  "num_followers": 92909,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTcxMzI2MCwwMDAwMDAwMDk2YmMzYzllYmZmMWZkMmRkMmI2NGNlN2MyMGVmOTc2",
+  "snapshot_id": "MTY3OTcxMzI2MCwwMDAwMDAwMGE0NzdjNWQxNDkzNDNmY2ViZTVjMDVlMDE1YmJlNmY3",
   "tracks": [
     {
       "added_at": "2023-03-25 03:01:00",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-03-25 03:01:00",
       "album": {
+        "name": "Vestido da Fendi",
+        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 164203,
+      "name": "Vestido da Fendi",
+      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
+    },
+    {
+      "added_at": "2023-03-25 03:01:00",
+      "album": {
         "name": "Gucci, Prada",
         "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
       },
@@ -387,26 +407,6 @@
     {
       "added_at": "2023-03-25 03:01:00",
       "album": {
-        "name": "Vestido da Fendi",
-        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 164203,
-      "name": "Vestido da Fendi",
-      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
-    },
-    {
-      "added_at": "2023-03-25 03:01:00",
-      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -431,6 +431,30 @@
       "duration_ms": 245987,
       "name": "INEF\u00c1VEL (feat. Leviano)",
       "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+    },
+    {
+      "added_at": "2023-03-25 03:01:00",
+      "album": {
+        "name": "N\u00c9 SEGREDO",
+        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Bairro 13",
+          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
+        }
+      ],
+      "duration_ms": 155771,
+      "name": "N\u00c9 SEGREDO",
+      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
     },
     {
       "added_at": "2023-03-25 03:01:00",
@@ -471,58 +495,6 @@
     {
       "added_at": "2023-03-25 03:01:00",
       "album": {
-        "name": "N\u00c9 SEGREDO",
-        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Bairro 13",
-          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
-        }
-      ],
-      "duration_ms": 155771,
-      "name": "N\u00c9 SEGREDO",
-      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
-    },
-    {
-      "added_at": "2023-03-25 03:01:00",
-      "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 229894,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
-    },
-    {
-      "added_at": "2023-03-25 03:01:00",
-      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -555,6 +527,34 @@
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
+    },
+    {
+      "added_at": "2023-03-25 03:01:00",
+      "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 229894,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
     },
     {
       "added_at": "2023-03-25 03:01:00",
@@ -651,6 +651,58 @@
     {
       "added_at": "2023-03-25 03:01:00",
       "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 307692,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
+    },
+    {
+      "added_at": "2023-03-25 03:01:00",
+      "album": {
+        "name": "Dolce & Gabbana",
+        "url": "https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 145307,
+      "name": "Dolce & Gabbana",
+      "url": "https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY"
+    },
+    {
+      "added_at": "2023-03-25 03:01:00",
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -683,30 +735,6 @@
     {
       "added_at": "2023-03-25 03:01:00",
       "album": {
-        "name": "Dolce & Gabbana",
-        "url": "https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 145307,
-      "name": "Dolce & Gabbana",
-      "url": "https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY"
-    },
-    {
-      "added_at": "2023-03-25 03:01:00",
-      "album": {
         "name": "Jovens do Reggae",
         "url": "https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp"
       },
@@ -727,34 +755,6 @@
       "duration_ms": 183652,
       "name": "Jovens do Reggae",
       "url": "https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o"
-    },
-    {
-      "added_at": "2023-03-25 03:01:00",
-      "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 307692,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
     },
     {
       "added_at": "2023-03-25 03:01:00",
@@ -843,34 +843,6 @@
     {
       "added_at": "2023-03-25 03:01:00",
       "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "EU SOU O TREM",
-      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
-    },
-    {
-      "added_at": "2023-03-25 03:01:00",
-      "album": {
         "name": "Bahia",
         "url": "https://open.spotify.com/album/5Rt4zzyB0s5OK99uAt4mRU"
       },
@@ -947,6 +919,58 @@
     {
       "added_at": "2023-03-25 03:01:00",
       "album": {
+        "name": "Papo Reto",
+        "url": "https://open.spotify.com/album/1FUpuwNLfw4qhiGneHh1zg"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Papo Reto",
+      "url": "https://open.spotify.com/track/2zKo0ACLlB9TOuzeVhMjjq"
+    },
+    {
+      "added_at": "2023-03-25 03:01:00",
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "EU SOU O TREM",
+      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
+    },
+    {
+      "added_at": "2023-03-25 03:01:00",
+      "album": {
         "name": "20G",
         "url": "https://open.spotify.com/album/5bkswgL6FGAbnXZ3z9SEKy"
       },
@@ -971,30 +995,6 @@
       "duration_ms": 186666,
       "name": "20G",
       "url": "https://open.spotify.com/track/69Flz1PeHxdGW0trMUNjll"
-    },
-    {
-      "added_at": "2023-03-25 03:01:00",
-      "album": {
-        "name": "Papo Reto",
-        "url": "https://open.spotify.com/album/1FUpuwNLfw4qhiGneHh1zg"
-      },
-      "artists": [
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "\u00e9oTGL",
-          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Papo Reto",
-      "url": "https://open.spotify.com/track/2zKo0ACLlB9TOuzeVhMjjq"
     },
     {
       "added_at": "2023-03-25 03:01:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-03-25 03:01:00",
       "album": {
-        "name": "Dores",
-        "url": "https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 195224,
-      "name": "Dores",
-      "url": "https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P"
-    },
-    {
-      "added_at": "2023-03-25 03:01:00",
-      "album": {
         "name": "Volvo sem placa",
         "url": "https://open.spotify.com/album/1SfbniI5nihS2tv51SvZ6z"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 168000,
       "name": "Volvo sem placa",
       "url": "https://open.spotify.com/track/4QiAwMtRTvSdup6BtOgDYJ"
+    },
+    {
+      "added_at": "2023-03-25 03:01:00",
+      "album": {
+        "name": "Dores",
+        "url": "https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 195224,
+      "name": "Dores",
+      "url": "https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P"
     }
   ],
   "unique_name": "O Drip",

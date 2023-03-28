@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 142348,
+  "num_followers": 142466,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDk5ZjYzMmEzMjQ5ZTUwOGNjZjQzMTc5YTY3NzE1ODA5",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDIyZjNiM2JmMGJjNTFiYmM0ZDQyZGM0NWFjODA0ZTM2",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -123,26 +123,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Cappadocia",
-        "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 282063,
-      "name": "Cappadocia",
-      "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Because You Move Me",
         "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Cappadocia",
+        "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 282063,
+      "name": "Cappadocia",
+      "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -283,42 +283,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "No Time (R\u00dcF\u00dcS DU SOL Remix)",
-        "url": "https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        },
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 398969,
-      "name": "No Time - R\u00dcF\u00dcS DU SOL Remix",
-      "url": "https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Came Here For Love EP",
-        "url": "https://open.spotify.com/album/5nPnubdJCVf8E6vxcbEFOi"
-      },
-      "artists": [
-        {
-          "name": "My Friend",
-          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
-        }
-      ],
-      "duration_ms": 266707,
-      "name": "Came Here For Love",
-      "url": "https://open.spotify.com/track/3SWZ0hpjeYT1BCx0Auqi6l"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
       },
@@ -339,6 +303,42 @@
       "duration_ms": 262249,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Came Here For Love EP",
+        "url": "https://open.spotify.com/album/5nPnubdJCVf8E6vxcbEFOi"
+      },
+      "artists": [
+        {
+          "name": "My Friend",
+          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
+        }
+      ],
+      "duration_ms": 266707,
+      "name": "Came Here For Love",
+      "url": "https://open.spotify.com/track/3SWZ0hpjeYT1BCx0Auqi6l"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "No Time (R\u00dcF\u00dcS DU SOL Remix)",
+        "url": "https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        },
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 398969,
+      "name": "No Time - R\u00dcF\u00dcS DU SOL Remix",
+      "url": "https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -411,6 +411,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Floral Decor",
         "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 216393,
       "name": "Alkantara",
       "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -535,6 +535,42 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Unity Pt. 2",
+        "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
+      },
+      "artists": [
+        {
+          "name": "Tale Of Us",
+          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 372906,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA"
       },
@@ -567,26 +603,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Unity Pt. 2",
-        "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
-      },
-      "artists": [
-        {
-          "name": "Tale Of Us",
-          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
-        },
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 372906,
-      "name": "Vanishing",
-      "url": "https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Lose Your Head (CamelPhat Remix)",
         "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 216200,
       "name": "Lose Your Head - CamelPhat Remix",
       "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 253662,
-      "name": "Zeit & Raum",
-      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -819,30 +819,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Brightest Lights Remixed",
-        "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Kauf",
-          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
-        },
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 295597,
-      "name": "How Often - Ben B\u00f6hmer Remix",
-      "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 206612,
       "name": "Hide - Original Mix",
       "url": "https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Brightest Lights Remixed",
+        "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Kauf",
+          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 295597,
+      "name": "How Often - Ben B\u00f6hmer Remix",
+      "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/5zgVbEqb773OX6liiiZ7Ap"
+      },
+      "artists": [
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        }
+      ],
+      "duration_ms": 403747,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/7ooSRbTulJUUtatq4pl80X"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 190084,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/5zgVbEqb773OX6liiiZ7Ap"
-      },
-      "artists": [
-        {
-          "name": "Artche",
-          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
-        }
-      ],
-      "duration_ms": 403747,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/7ooSRbTulJUUtatq4pl80X"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Shizumu",
+        "url": "https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj"
+      },
+      "artists": [
+        {
+          "name": "Lycoriscoris",
+          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+        }
+      ],
+      "duration_ms": 231830,
+      "name": "Shizumu",
+      "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/5b0xNdKy95XcpoGMrRlUto"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 466035,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/5n9si61BkJLFrxyCUABT62"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Shizumu",
-        "url": "https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj"
-      },
-      "artists": [
-        {
-          "name": "Lycoriscoris",
-          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
-        }
-      ],
-      "duration_ms": 231830,
-      "name": "Shizumu",
-      "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
     },
     {
       "added_at": "2022-11-25 16:56:36",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-746 songs - 1 day 14 hr 55 min
+747 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Kérdőjelek és a válaszok](https://open.spotify.com/track/17jtfrOhR0AqiiZHEBe9Qs) | [Ivan & The Parazol](https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8), [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Kérdőjelek és a válaszok](https://open.spotify.com/album/3DxbwWvxCUhnLDIUyFi1v9) | 2:58 | 2021-11-21 | 2021-11-27 |
 | [Késő már](https://open.spotify.com/track/3FuvMgmA7axMw9sps0JM4x) | [Mehringer Marci](https://open.spotify.com/artist/5F3j6uAy19mqLhQy50x1At) | [Késő már](https://open.spotify.com/album/1qT0n9ADqn8uQh03ruCnq5) | 2:13 | 2021-11-10 | 2021-12-16 |
 | [Két Buli](https://open.spotify.com/track/4KfDCXn8QyDVCAcnHgSSeg) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 3:15 | 2023-02-24 | 2023-03-20 |
+| [Kóborló](https://open.spotify.com/track/5SIWaBphpIP5bzab2iObnW) | [ibbigang](https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy) | [Meztelen](https://open.spotify.com/album/5LhVVVtCePRdN8BpUTQAKb) | 3:06 | 2023-03-27 |  |
 | [Körforgalom](https://open.spotify.com/track/62PcQw5WFsENhAxufi3slu) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Körforgalom](https://open.spotify.com/album/3tOag75czA6HzZQfDOQ8bG) | 3:10 | 2022-10-12 | 2022-10-17 |
 | [Kötelező](https://open.spotify.com/track/56seL5ZZab8ZlmKoknPZh3) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Ótvar Pestis](https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 2:00 | 2023-03-02 | 2023-03-27 |
 | [labtorlorekakiltam.mp3](https://open.spotify.com/track/0OsukLOsU4j2d698vrdTOC) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 0:52 | 2022-03-12 | 2022-03-16 |
@@ -695,7 +696,7 @@
 | [Visszatértem](https://open.spotify.com/track/4hPaoh0KU6iK1bvG4olh2d) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 1:57 | 2023-02-24 | 2023-02-26 |
 | [Visz a vérem](https://open.spotify.com/track/5ljaIN5amyFn4fluFmjXy6) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [Manuel](https://open.spotify.com/artist/3HLb9k75O3qP4GklxUGn7s) | [Visz a vérem](https://open.spotify.com/album/4z36zSFApY8fkbCprjgEV4) | 3:07 | 2022-04-15 | 2022-04-17 |
 | [Vodkaszóda](https://open.spotify.com/track/2T3QFG6QCvfQfgpTRQmjaY) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 2:35 | 2022-04-23 | 2022-04-25 |
-| [voltmárkicsi](https://open.spotify.com/track/0faYxc8g09uniud0ToGDRb) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [voltmárkicsi](https://open.spotify.com/album/3QQwB99anYJvVbJIxe6uGR) | 2:34 | 2022-06-09 |  |
+| [voltmárkicsi](https://open.spotify.com/track/0faYxc8g09uniud0ToGDRb) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [voltmárkicsi](https://open.spotify.com/album/3QQwB99anYJvVbJIxe6uGR) | 2:34 | 2022-06-09 | 2023-03-28 |
 | [Vágod](https://open.spotify.com/track/17pnPXV2AYZEl3D5Cdmr7v) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Tirpa](https://open.spotify.com/artist/0JKuWiUU9NSMX6aHa2hX6S) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:48 | 2023-02-24 | 2023-02-27 |
 | [Vámpír](https://open.spotify.com/track/7iIik9a8QMxwFq2K1SZppX) | [Berry](https://open.spotify.com/artist/2bEeaSG5gZ9beyGIn55Mp0), [Showmi](https://open.spotify.com/artist/1VUnR2eqIoIwsn5coJK0ZF) | [Vámpír](https://open.spotify.com/album/6IUyRVKvqNxfIVEYeCRCrX) | 2:14 | 2022-09-05 | 2022-09-17 |
 | [Várnék](https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Várnék](https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1) | 3:07 | 2022-08-06 |  |

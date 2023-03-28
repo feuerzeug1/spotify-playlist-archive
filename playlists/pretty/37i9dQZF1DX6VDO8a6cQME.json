@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 90s. Cover: Sade",
-  "num_followers": 3172159,
+  "num_followers": 3173010,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxODQ1NCwwMDAwMDAwMDkzNzNiYmI0ZGUxZWZhMWUxYzUwODlkMTVlZDNiZWYz",
+  "snapshot_id": "MTY2OTkxODQ1NCwwMDAwMDAwMGY5NTkyMDBiZjdhYzdiNjMwNGY3YmFhMjQ5NGM1MWUy",
   "tracks": [
     {
       "added_at": "2022-10-27 04:00:00",
@@ -145,20 +145,20 @@
       "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
+      "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 279506,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+      "duration_ms": 239226,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -175,22 +175,6 @@
       "duration_ms": 440466,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -215,18 +199,18 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
         }
       ],
-      "duration_ms": 351466,
-      "name": "End Of The Road",
-      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
+      "duration_ms": 279506,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -245,22 +229,6 @@
       "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
-      },
-      "artists": [
-        {
-          "name": "Bell Biv DeVoe",
-          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
-        }
-      ],
-      "duration_ms": 261853,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "The Miseducation of Lauryn Hill",
@@ -275,6 +243,38 @@
       "duration_ms": 326533,
       "name": "Ex-Factor",
       "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 351466,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "duration_ms": 261853,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+      },
+      "artists": [
+        {
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 275706,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Rated Next",
-        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
-      },
-      "artists": [
-        {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
     },
     {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "The Boy Is Mine",
+        "url": "https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Things Fall Apart",
@@ -535,22 +551,6 @@
       "duration_ms": 259306,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "The Boy Is Mine",
-        "url": "https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Mary Jane (All Night Long)",
-      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "Release Some Tension",
         "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
       },
@@ -839,42 +823,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "I'll Make Love To You",
-      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Share My World",
-        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "I Can Love You",
-      "url": "https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -887,6 +835,38 @@
       "duration_ms": 386626,
       "name": "Next Lifetime",
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Mary Jane (All Night Long)",
+      "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "I'll Make Love To You",
+      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -943,22 +923,6 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Jade To The Max",
-        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
-      },
-      "artists": [
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -971,6 +935,22 @@
       "duration_ms": 346266,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Jade To The Max",
+        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
+      },
+      "artists": [
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
       "added_at": "2022-07-28 15:25:39",
@@ -1003,6 +983,26 @@
       "duration_ms": 332133,
       "name": "Cherish the Day",
       "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "I Can Love You",
+      "url": "https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1077,20 +1077,20 @@
       "url": "https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
+      "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+        "name": "Fortunate",
+        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
       },
       "artists": [
         {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 243360,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
+      "duration_ms": 301160,
+      "name": "Fortunate",
+      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1109,20 +1109,20 @@
       "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
+      "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Fortunate",
-        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
         }
       ],
-      "duration_ms": 301160,
-      "name": "Fortunate",
-      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
+      "duration_ms": 243360,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
     },
     {
       "added_at": "2021-08-20 04:02:00",

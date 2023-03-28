@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos que no sab\u00edas que eran covers para disfrutar con pap\u00e1.",
-  "num_followers": 60786,
+  "num_followers": 60796,
   "original_name": "Covers Padres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMGYwY2E4ODMwZGVhZWQxODliYjJiY2MxMjA4YTc1MjZm",
+  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMGQ0ZTExY2MyOTYzYWJhZWNlN2I2YzQ2NzVhZWFhODY1",
   "tracks": [
     {
       "added_at": "2021-10-29 16:31:16",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "(I Can't Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Chapter 1: The Sandworm Cometh - Early Recordings, B-Sides, Covers, y Mas",
         "url": "https://open.spotify.com/album/1yUh9U9797bPXiqDLZVuht"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 299826,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/3q6BJcC0i7UyM8oWn6ntRQ"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "(I Can't Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Everything You've Come To Expect (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
-      },
-      "artists": [
-        {
-          "name": "The Last Shadow Puppets",
-          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
-        }
-      ],
-      "duration_ms": 200673,
-      "name": "Les Cactus",
-      "url": "https://open.spotify.com/track/4Wg7fFccdDBL1sJGiu14w7"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/2XIlp6UgHAQYNg3OTtoD54"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 230933,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/0sRzDwpSHxPDhpB9yKlTaq"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Everything You've Come To Expect (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
+      },
+      "artists": [
+        {
+          "name": "The Last Shadow Puppets",
+          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+        }
+      ],
+      "duration_ms": 200673,
+      "name": "Les Cactus",
+      "url": "https://open.spotify.com/track/4Wg7fFccdDBL1sJGiu14w7"
     },
     {
       "added_at": "2021-10-29 16:31:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The best of today's true alternative rock scene\. Cover: The Luka State
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,017 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,063 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 18 | [Life Support](https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Life Support / Ms\. Supernova](https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy) | 3:11 |
 | 19 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 |
 | 20 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 |
-| 21 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
-| 22 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 |
-| 23 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 |
-| 24 | [One True Prince](https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:58 |
+| 21 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 |
+| 22 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
+| 23 | [One True Prince](https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:58 |
+| 24 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 |
 | 25 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 |
 | 26 | [Longshot](https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Longshot](https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8) | 3:52 |
 | 27 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 40 | [Come Thru](https://open.spotify.com/track/4o48EHVTIDb3PS0EIQ5l7A) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Come Thru](https://open.spotify.com/album/2QGtEKawGRCMRIhbp3SbvB) | 2:57 |
 | 41 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 |
 | 42 | [Lava Lamp Pisco](https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 4:01 |
-| 43 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
-| 44 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 |
+| 43 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 |
+| 44 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
 | 45 | [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 |
 | 46 | [All Being Fine](https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:29 |
-| 47 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
-| 48 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 |
+| 47 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 |
+| 48 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
 | 49 | [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 |
 | 50 | [Make A Dime](https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [What's So Fucking Funny?](https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG) | 2:56 |
 | 51 | [Cause You Got Me](https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA) | [MOSES](https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum) | [Cause You Got Me](https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ) | 3:52 |
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 55 | [Back Foot](https://open.spotify.com/track/6hZ11ThYoAHlLJsBK2U3jH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Back Foot](https://open.spotify.com/album/4q7m6brjyKWXqpvyg3kAdQ) | 3:08 |
 | 56 | [Stranded](https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 4:01 |
 | 57 | [Way Down](https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Mother Nature](https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm) | 3:21 |
-| 58 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
-| 59 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 |
-| 60 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:50 |
-| 61 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 |
-| 62 | [SAY IT](https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv) | [NEW LANGUAGE](https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL) | [SAY IT](https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH) | 2:41 |
-| 63 | [Get Out Of My Life](https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Get Out Of My Life](https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o) | 3:07 |
+| 58 | [Rafters](https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Rafters](https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60) | 3:50 |
+| 59 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
+| 60 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 |
+| 61 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 |
+| 62 | [Get Out Of My Life](https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Get Out Of My Life](https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o) | 3:07 |
+| 63 | [SAY IT](https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv) | [NEW LANGUAGE](https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL) | [SAY IT](https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH) | 2:41 |
 | 64 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
 | 65 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
 | 66 | [Going Clear](https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present Is a Foreign Land](https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi) | 3:21 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 79 | [These Days](https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty) | 3:17 |
 | 80 | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/6eYr9mXnX7TSBSn6Y2Bazc) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/0ENZf1H4TdOjZNhEBmtnZG) | 2:48 |
 | 81 | [Tear Me To Pieces](https://open.spotify.com/track/5zJiFmoADZPlvXPO1PuI0d) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Tear Me To Pieces](https://open.spotify.com/album/6VkLYHpgk4saImc0fFOZYi) | 3:07 |
-| 82 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 |
+| 82 | [Earth Is A Black Hole](https://open.spotify.com/track/7eaEaXAiGR3i3LUJUDRRXc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2oRaxJoPECqRRpQ9PK2UVA) | 2:55 |
 | 83 | [Choking](https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:07 |
-| 84 | [Earth Is A Black Hole](https://open.spotify.com/track/7eaEaXAiGR3i3LUJUDRRXc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2oRaxJoPECqRRpQ9PK2UVA) | 2:55 |
+| 84 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 |
 | 85 | [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 |
 | 86 | [Missile Command](https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:24 |
 | 87 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [Around the Bend](https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC) | [Strata](https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv) | [Around the Bend](https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz) | 3:34 |
 | 100 | [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 |
 
-Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGQ5OGUwZWY5NWFlNWNmOWU3ZWY3NWQ2YmIzZWIzMDkw`
+Snapshot ID: `MTY3OTAyNTYwMCwwMDAwMDAwMGU4NWMxM2YxMzY2MGI5NTE3N2YxZjUwMDA4Zjg0OGZj`

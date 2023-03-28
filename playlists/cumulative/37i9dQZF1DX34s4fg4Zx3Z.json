@@ -3617,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "C\u00f2n L\u1ea1i G\u00ec Sau Chia Tay",
+        "url": "https://open.spotify.com/album/5i5A8wZ1PMm5Airlduohs2"
+      },
+      "artists": [
+        {
+          "name": "Ng\u00f4 Anh \u0110\u1ea1t",
+          "url": "https://open.spotify.com/artist/15BdWDB7smcW5zPsl26u44"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354805,
+      "name": "C\u00f2n L\u1ea1i G\u00ec Sau Chia Tay",
+      "url": "https://open.spotify.com/track/72FYKhXpAuVummmi5oT0Dm"
+    },
+    {
+      "album": {
         "name": "C\u00f2n Nhi\u1ec1u \u0110i\u1ec1u Ch\u01b0a N\u00f3i",
         "url": "https://open.spotify.com/album/0yHR1va1APaBk1CHK4hmP4"
       },
@@ -12485,6 +12503,24 @@
     },
     {
       "album": {
+        "name": "S\u00e0i G\u00f2n, C\u1ea7n Nh\u1eefng C\u00e1i \u00d4m",
+        "url": "https://open.spotify.com/album/2StYmKEQpZFgh0DPOwePck"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u00e0o Duy Qu\u00fd",
+          "url": "https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303105,
+      "name": "S\u00e0i G\u00f2n, C\u1ea7n Nh\u1eefng C\u00e1i \u00d4m",
+      "url": "https://open.spotify.com/track/0rc01P8QHm2PSCHrjxNEm4"
+    },
+    {
+      "album": {
         "name": "S\u00e0i G\u00f2n, Ta L\u1ea1c Nhau!",
         "url": "https://open.spotify.com/album/1aQG71AZO1uuhnEtFsmITt"
       },
@@ -14710,7 +14746,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 249000,
       "name": "Venesa (feat. Hani)",
       "url": "https://open.spotify.com/track/0uswAWA02m6qsoD0UpQJHA"

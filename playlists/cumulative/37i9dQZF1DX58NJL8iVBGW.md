@@ -4,7 +4,7 @@
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-196 songs - 11 hr 54 min
+197 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bilgewater](https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:46 | 2021-08-16 |  |
 | [Black Dog Sin](https://open.spotify.com/track/7h0TNtloK2rFT1DwErSbYn) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Black Dog Sin](https://open.spotify.com/album/1nRFcm0e5wDmejKX2HgQhB) | 3:22 | 2021-08-16 | 2022-11-13 |
 | [Blackland Farmer](https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Blackland Farmer](https://open.spotify.com/album/5dzpYBxnAftQ8cQhMgjNDl) | 7:37 | 2021-08-16 | 2022-07-28 |
-| [Bless Your Soul](https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bless Your Soul](https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB) | 3:32 | 2021-08-16 |  |
+| [Bless Your Soul](https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bless Your Soul](https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB) | 3:32 | 2021-08-16 | 2023-03-28 |
 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 | 2021-08-16 |  |
 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 | 2021-08-16 |  |
 | [Boy Got It Bad](https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Heatstroke/The Wind and the War](https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ) | 2:38 | 2022-06-06 |  |
@@ -120,6 +120,7 @@
 | [Iuka](https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Put Your Needle Down](https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok) | 4:42 | 2022-06-06 |  |
 | [Iuka](https://open.spotify.com/track/1jzfEz82pQL6I6S3QnkKET) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Iuka](https://open.spotify.com/album/2RMiOPbbi4kDUeZFspOkUD) | 4:42 | 2021-08-16 | 2022-07-29 |
 | [James Monroe \(feat\. the Bog Neck Brass Band\)](https://open.spotify.com/track/4Dwuv0XbjXqpYcc5F9IBf7) | [The Henry Girls](https://open.spotify.com/artist/02KeGV8345Zm6WfWdCiD2i), [The Bog Neck Brass Band](https://open.spotify.com/artist/1d7vtWAF7L4Dc1fnY4g2hD) | [Louder Than Words](https://open.spotify.com/album/0LdAR7aEQlbwzV3ULlh9Dx) | 3:44 | 2021-08-16 | 2022-07-11 |
+| [John Came Home](https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [John Came Home](https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p) | 3:11 | 2023-03-28 |  |
 | [Jordan](https://open.spotify.com/track/19ZqrVEiqcfsJUXsSyRFM3) | [Roanoke](https://open.spotify.com/artist/3DiJ8FDytuRHd8ayygyN8x) | [Jordan](https://open.spotify.com/album/3j8Ze4riA4lZXFPPDKMSLf) | 4:01 | 2021-08-16 | 2022-07-27 |
 | [Lay This Body Down](https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7) | [Lay This Body Down](https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1) | 4:47 | 2021-08-16 |  |
 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 | 2021-08-16 |  |

@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-151 songs - 7 hr 48 min
+152 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Adua \(Remix\)](https://open.spotify.com/track/7oZDRbZggx7wHJpQJqUGFp) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Adua \(Remix\)](https://open.spotify.com/album/1qkEUpHPioAcOlMjDkEGLV) | 2:53 | 2022-06-09 | 2023-03-04 |
 | [Afraid to Lose You](https://open.spotify.com/track/2rhQwPsQi6oqLyc1fVkLm8) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Afraid to Lose You](https://open.spotify.com/album/12AqU8dNMrCvL0beCDohYv) | 3:27 | 2022-06-09 | 2022-08-22 |
 | [Alone](https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Alone](https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg) | 2:46 | 2022-06-09 |  |
-| [alright, ok](https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [alright, ok](https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7) | 2:53 | 2022-06-09 |  |
+| [alright, ok](https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [alright, ok](https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7) | 2:53 | 2022-06-09 | 2023-03-28 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2022-06-09 |  |
 | [BAD 4 ME](https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [BAD 4 ME](https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN) | 2:20 | 2022-12-08 | 2023-03-25 |
 | [Bad Influence](https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy) | 2:18 | 2022-06-09 |  |
@@ -96,6 +96,7 @@
 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 | 2022-08-05 | 2023-03-04 |
 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-06-09 |  |
 | [Never Love Again](https://open.spotify.com/track/0NLRTMtyvgX4HC9Yyf7fO9) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Never Love Again](https://open.spotify.com/album/0DyQM70GwzJIhxLDHeaULt) | 3:05 | 2022-06-09 | 2022-08-07 |
+| [No letting guh](https://open.spotify.com/track/4C0DwDS6OzrUjtU8VtwhUN) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [No letting guh](https://open.spotify.com/album/1nW3aKGYni9OSGk2311kr9) | 2:24 | 2023-03-24 |  |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 |  |
 | [Oha](https://open.spotify.com/track/2PZlJEj06ZZZAe13OdHM22) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [Crave](https://open.spotify.com/album/15OKHri5NUgFB11KpzmfW3) | 3:12 | 2022-06-09 | 2022-10-01 |
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-06-09 |  |

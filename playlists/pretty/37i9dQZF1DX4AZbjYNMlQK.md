@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,880 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,862 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 57 | [ESTE DICIEMBRE](https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ESTE DICIEMBRE](https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w) | 3:02 |
 | 58 | [Human Nature \- En Español](https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 4:15 |
 | 59 | [Mix Navideño](https://open.spotify.com/track/59UYBKR8C6O8aW4bB34JzL) | [Maxi Brito](https://open.spotify.com/artist/1gAwItzJvuDNCkLBeksvqk), [E Negrito](https://open.spotify.com/artist/3cbXGLH5iFcHdxHjoetzuB), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Mix Navideño](https://open.spotify.com/album/4vrnz7ohoGvbtiBT8cYflV) | 3:19 |
-| 60 | [Para Navidad](https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB) | [The Fam](https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH) | [Para Navidad](https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2) | 2:57 |
-| 61 | [Nuestra Canción De Navidad](https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad](https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG) | 3:36 |
+| 60 | [Nuestra Canción De Navidad](https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad](https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG) | 3:36 |
+| 61 | [Para Navidad](https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB) | [The Fam](https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH) | [Para Navidad](https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2) | 2:57 |
 
-Snapshot ID: `MTY3MTczNDI2OSwwMDAwMDAwMGM3ZjdiYjNmNTg5YzM4MmZjNjNiMWU1MjFiNTQzZjJl`
+Snapshot ID: `MTY3MTczNDI2OSwwMDAwMDAwMGYzZGVmYTk2MjE2ZDI2MzhiZTllZTA3YjJhOTRlMTJl`

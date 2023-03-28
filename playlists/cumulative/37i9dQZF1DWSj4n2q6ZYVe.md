@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2000s.
 
-105 songs - 6 hr 47 min
+106 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 | 2021-10-06 |  |
 | [Invaders Must Die](https://open.spotify.com/track/1j6lrR4BzRGKwvAPfrIcbf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Invaders Must Die](https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM) | 4:55 | 2021-04-29 |  |
 | [It Just Won't Do \- Radio Edit](https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9) | [Tim Deluxe](https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0), [Sam Obernik](https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ) | [It Just Won't Do](https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd) | 3:18 | 2021-04-29 |  |
+| [Jumping All Over The World](https://open.spotify.com/track/0pCZZa7f636OXB8jO0czci) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Jumping All over the World \- Whatever You Want](https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy) | 3:48 | 2021-04-29 |  |
 | [L'Amour Toujours](https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d) | 4:02 | 2021-04-29 |  |
 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 | 2021-04-29 |  |
 | [Leave The World Behind \- Radio Edit](https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [Leave The World Behind](https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM) | 2:41 | 2021-04-29 |  |
@@ -106,7 +107,7 @@
 | [Voyage voyage](https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Free](https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9) | 3:04 | 2021-04-29 |  |
 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ) | 3:23 | 2021-04-29 |  |
 | [Wearing My Rolex \- Radio Edit](https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [See Clear Now](https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR) | 2:50 | 2021-04-29 |  |
-| [Weekend!](https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore \(Remastered\)](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:35 | 2021-04-29 |  |
+| [Weekend!](https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore \(Remastered\)](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:35 | 2021-04-29 | 2023-03-28 |
 | [Welcome to the Club \- Video Edit](https://open.spotify.com/track/7k1ec3h9VeecxLSUbnGxAN) | [Manian](https://open.spotify.com/artist/2zgkC2iqDlq3FcI2B7ChnD) | [Zoopreme Volume 01](https://open.spotify.com/album/0mEy3RBuVUwWFrx5yfM897) | 3:12 | 2021-04-29 |  |
 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 | 2021-04-29 |  |
 | [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 4:45 | 2021-04-29 |  |

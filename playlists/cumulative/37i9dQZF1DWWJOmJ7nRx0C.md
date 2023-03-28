@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Nita Strauss
 
-706 songs - 1 day 18 hr 12 min
+707 songs - 1 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 | 2022-03-11 | 2022-08-06 |
 | [Calm Before The Storm](https://open.spotify.com/track/00pQHFVMLQFxJ5YGJlRwpy) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Calm Before The Storm](https://open.spotify.com/album/7rZYtNrVKMr5wR7e6zH9pa) | 3:47 | 2023-03-17 |  |
 | [Can't Get High Enough](https://open.spotify.com/track/29x83ECDaWQ0CUXLv8fxOk) | [Motor Sister](https://open.spotify.com/artist/2PSgWUN5hVuv4LYulLxaT3) | [Can't Get High Enough](https://open.spotify.com/album/5SzXbcSEPyCDVL1Dil3sx8) | 3:17 | 2022-03-11 | 2022-04-09 |
+| [Cannibals](https://open.spotify.com/track/3RouwrOg0CZ2JeQ97sSYR5) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Cannibals](https://open.spotify.com/album/2ErPugQ583sNsbtLL7vyo2) | 3:15 | 2023-03-27 |  |
 | [Carbon Mono](https://open.spotify.com/track/64xUhEM5WTbtqWEhLGbXQD) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Carbon Mono](https://open.spotify.com/album/0v1HAzbDsY1Z1g66s1LDtf) | 3:55 | 2021-08-20 | 2022-02-19 |
 | [Carousel](https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Carousel](https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o) | 3:05 | 2023-01-06 |  |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 | 2022-07-02 |

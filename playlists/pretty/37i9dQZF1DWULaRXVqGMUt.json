@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 34750,
+  "num_followers": 34788,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzI2OSwwMDAwMDAwMGEwYTU0ZDI4MTc1OWY1M2UxMjIxMWIyNzRhM2YxZDNi",
+  "snapshot_id": "MTY3MzU1NzI2OSwwMDAwMDAwMGM1OWNiNjNhYjIyM2I3NmFlMjQ2ZGViNzAwNGVmN2Mw",
   "tracks": [
     {
       "added_at": "2023-01-10 17:34:17",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
+        "name": "Two-Fisted Mama!",
+        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
+      },
+      "artists": [
+        {
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "C.Q. Boogie",
+      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 218626,
       "name": "Pauly's Birthday Boogie",
       "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
-        "name": "Two-Fisted Mama!",
-        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
-      },
-      "artists": [
-        {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "C.Q. Boogie",
-      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Rock Me Daddy, Vol. 1",
         "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
@@ -227,22 +211,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Caldonia - Single Version",
-      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Boogie Woogie Country Man",
         "url": "https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB"
       },
@@ -255,6 +223,38 @@
       "duration_ms": 224533,
       "name": "Boogie Woogie Country Man",
       "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 138933,
+      "name": "I Got It - Remastered",
+      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 173293,
       "name": "The House of Blue Lights",
       "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
-        "name": "The Essential Little Richard",
-        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 138933,
-      "name": "I Got It - Remastered",
-      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Blues Kingpin",
-        "url": "https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "Boogie Woogie Baby",
-      "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "The Boogie Woogie Trio vol. 1",
         "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 123626,
       "name": "Sue's Boogie",
       "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Blues Kingpin",
+        "url": "https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "Boogie Woogie Baby",
+      "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
         "name": "New Way",
         "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
       },
@@ -791,6 +811,22 @@
       "duration_ms": 160795,
       "name": "Boogie Woogie - Mono",
       "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "\"Devil Digit Boogie Woogie\"",
+        "url": "https://open.spotify.com/album/0HCzwcdrad0FPYjSyv5U16"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "A Boogie Woogie Sunday",
+      "url": "https://open.spotify.com/track/2PBCW7owo2RtDjgm5VSkzz"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -831,26 +867,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Tell Me Pretty Baby",
-        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Pete Johnson",
-          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Rocket Boogie \"88\" (Pt. 1)",
-      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Omniboogie 2012",
         "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
       },
@@ -863,6 +879,22 @@
       "duration_ms": 115582,
       "name": "Quarter Bass Boogie",
       "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -903,22 +935,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "\"Devil Digit Boogie Woogie\"",
-        "url": "https://open.spotify.com/album/0HCzwcdrad0FPYjSyv5U16"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "A Boogie Woogie Sunday",
-      "url": "https://open.spotify.com/track/2PBCW7owo2RtDjgm5VSkzz"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Cincinnati Stomp",
         "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 146066,
       "name": "Dollar Bill Boogie",
       "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Boogie Woogie",
-        "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
+        "name": "No Hats",
+        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
       "artists": [
         {
-          "name": "Henning Pertiet",
-          "url": "https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5"
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
         }
       ],
-      "duration_ms": 198733,
-      "name": "Get in the Groove, Boys!",
-      "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
+      "duration_ms": 200040,
+      "name": "Bluegrass Boogie Woogie",
+      "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "No Hats",
-        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
+        "name": "Boogie Woogie",
+        "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
       },
       "artists": [
         {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+          "name": "Henning Pertiet",
+          "url": "https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Bluegrass Boogie Woogie",
-      "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
+      "duration_ms": 198733,
+      "name": "Get in the Groove, Boys!",
+      "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc"
-      },
-      "artists": [
-        {
-          "name": "Kjell S\u00f8nksen",
-          "url": "https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
         "name": "Detroit Rocks",
         "url": "https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc"
+      },
+      "artists": [
+        {
+          "name": "Kjell S\u00f8nksen",
+          "url": "https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
         "name": "Boogie Woogie Gals",
         "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
       },
@@ -1207,6 +1207,26 @@
       "duration_ms": 160306,
       "name": "Bongo Boogie",
       "url": "https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj"
+    },
+    {
+      "added_at": "2023-01-10 17:34:17",
+      "album": {
+        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
+        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
+      },
+      "artists": [
+        {
+          "name": "Charles \"Cow Cow\" Davenport",
+          "url": "https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd"
+        },
+        {
+          "name": "Ivy Smith",
+          "url": "https://open.spotify.com/artist/3Cn3MlNoC7D2vHMvjJgV2Y"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "State Street Jive",
+      "url": "https://open.spotify.com/track/2SDm7Yn0uWuiimKzFpnoEW"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -1239,26 +1259,6 @@
       "duration_ms": 177933,
       "name": "Chicago Breakdown",
       "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
-    },
-    {
-      "added_at": "2023-01-10 17:34:17",
-      "album": {
-        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
-        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
-      },
-      "artists": [
-        {
-          "name": "Charles \"Cow Cow\" Davenport",
-          "url": "https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd"
-        },
-        {
-          "name": "Ivy Smith",
-          "url": "https://open.spotify.com/artist/3Cn3MlNoC7D2vHMvjJgV2Y"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "State Street Jive",
-      "url": "https://open.spotify.com/track/2SDm7Yn0uWuiimKzFpnoEW"
     },
     {
       "added_at": "2023-01-10 17:34:17",

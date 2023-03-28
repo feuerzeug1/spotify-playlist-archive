@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-342 songs - 15 hr 52 min
+344 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [danyyye](https://open.spotify.com/track/5gJ9rmN0ix8XkyX7FhxTso) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [danyyye / rowdy](https://open.spotify.com/album/0Rtjj04prMwTFjlREiwKHH) | 2:44 | 2022-09-16 |  |
 | [Dark Driller](https://open.spotify.com/track/5oV8ZbsR5V3qYosiPanwn0) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Dark Driller](https://open.spotify.com/album/1kDL8AlPDymFcCbq0XWJZb) | 3:44 | 2022-05-20 |  |
 | [Daz](https://open.spotify.com/track/6P4UKqyzjaIXSVgaBKy2pn) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Daz](https://open.spotify.com/album/5Y6wMfvkvKWYyHhhSaXpmH) | 2:47 | 2021-11-10 | 2022-09-17 |
+| [Descent From the Heavens](https://open.spotify.com/track/3IKqDr3H0uSEAqwS8uXJ6z) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Love The One Above](https://open.spotify.com/album/3oelJkqQMfZvhfdVkjKrR2) | 2:06 | 2023-03-27 |  |
 | [Diamond](https://open.spotify.com/track/76eugDRGuXdmmewhJtCuU0) | [DJ M](https://open.spotify.com/artist/3P5DeQSZXl547HcStiUkoY) | [Diamond](https://open.spotify.com/album/3RVyMhWyrEqRwkWkaBD2cI) | 2:36 | 2021-04-26\* | 2021-08-26 |
 | [Dimes](https://open.spotify.com/track/0lvgCep2yv7x6eQlT5Xanu) | [Lazy Lovers](https://open.spotify.com/artist/1HMmdYdBAElZlWljQBAoCq) | [Big Little Man](https://open.spotify.com/album/22DORZ7yDp2y3bu4hIw7Wc) | 3:36 | 2021-11-10 | 2022-07-22 |
 | [Dior](https://open.spotify.com/track/5taACEkO7njxSO6J6vJKvN) | [Lofi Chill Hip Hop Beat](https://open.spotify.com/artist/67zHwgyDYiE73CKWv5rMHT) | [Certified Lover Boy](https://open.spotify.com/album/2gY1mHdwqG8sA9lkaBMbiA) | 3:39 | 2021-07-09 | 2021-10-14 |
@@ -232,6 +233,7 @@
 | [Powerwalk](https://open.spotify.com/track/2ph6ScN92MMhfJQfRrU1nJ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Wheel of Life](https://open.spotify.com/album/2SwyzaK73I5ynws5UNyfyg) | 2:56 | 2021-04-26\* | 2021-06-18 |
 | [Presi Face](https://open.spotify.com/track/52v3ynq7TeiusKESiwUIRv) | [Jharee](https://open.spotify.com/artist/1h8ZzbKCnh7wCxDH8Z3iJi) | [Presi Face](https://open.spotify.com/album/2elmCoxrHi4lsKaIuMfjV7) | 3:10 | 2022-05-27 |  |
 | [Primetime](https://open.spotify.com/track/6ykb5iNlaQvvK2dDnKdGVq) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Midas Touch](https://open.spotify.com/album/0MZgSxNdAJyb1IN6y2Z2AE) | 2:21 | 2021-04-26\* | 2021-08-26 |
+| [Project X](https://open.spotify.com/track/1TbEJzyaY8hRgyqX2vOFs0) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Project X](https://open.spotify.com/album/6tv6vvfGMIykmGB5JDjyXT) | 3:15 | 2023-03-27 |  |
 | [Prompts](https://open.spotify.com/track/1V0lsm8TLZzHI3vzKjKATo) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Fork Lifts](https://open.spotify.com/album/74lP9vtmwJIVpVKjFnHx15) | 2:06 | 2022-09-02 |  |
 | [PTA](https://open.spotify.com/track/43xik565joqdebuxma8Jd9) | [Hi Rodee](https://open.spotify.com/artist/51UCiViOBxBnEOyvHH4TpL) | [Güd Week](https://open.spotify.com/album/0ILe5XAKhhduIgaySBn25s) | 5:47 | 2021-08-26 | 2022-10-29 |
 | [PunchOut](https://open.spotify.com/track/5a8RDAInofwrvmcCt0X5u1) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Murder Your TV](https://open.spotify.com/album/4w2s6eauvRZf9qtzw0JmdA) | 2:35 | 2021-08-26 | 2022-05-27 |

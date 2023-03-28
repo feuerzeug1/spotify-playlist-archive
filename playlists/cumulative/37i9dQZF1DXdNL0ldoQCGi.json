@@ -1465,6 +1465,32 @@
     },
     {
       "album": {
+        "name": "Combinadinho",
+        "url": "https://open.spotify.com/album/2TqritjMLjbcYejnZvZElm"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163234,
+      "name": "Combinadinho",
+      "url": "https://open.spotify.com/track/3o1wkALMRxFgotr82yUnSY"
+    },
+    {
+      "album": {
         "name": "Purple Hearts (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
       },

@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-600 songs - 1 day 9 hr 26 min
+602 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,13 +183,13 @@
 | [Feel So Good](https://open.spotify.com/track/2EcxZvYB7yf4RaRncKRJ0p) | [Del.Mo](https://open.spotify.com/artist/5BkWgaEvV3vJ8zn4CeHKaH) | [ON&OFF](https://open.spotify.com/album/4f1uiXycXLHyffJCrzV2RJ) | 3:30 | 2022-03-24 | 2022-04-18 |
 | [Feel so good](https://open.spotify.com/track/2N6Sf7zENnpltAb0LgY6xn) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gongzza, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2WMCIxUpPYulkVWLTu1ghK) | 3:10 | 2022-06-20 | 2022-07-28 |
 | [Feel Special](https://open.spotify.com/track/2HtcPHFdo7eu4Ilbvb0BVI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/5MmndGNrJgTLd5W7HNmVST) | 3:26 | 2022-01-03 | 2022-07-24 |
-| [Feel Special](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) | 3:26 | 2022-08-19 |  |
+| [Feel Special](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) | 3:26 | 2022-08-19 | 2023-03-28 |
 | [Festival](https://open.spotify.com/track/6bbGdzd2wwAMQ8t9a8iXtg) | [HERD](https://open.spotify.com/artist/6aQtLvZBb5B8fy6KfWRvTQ) | [New Forest](https://open.spotify.com/album/6KayWBF4SwMXmRq7T0r1SX) | 3:31 | 2022-03-24 | 2022-04-16 |
 | [FEVER](https://open.spotify.com/track/6eKNfMj4VnioR0LcXo6ktd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:25 | 2022-03-24 | 2022-04-14 |
 | [FIESTA](https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:37 | 2022-08-12 |  |
 | [FIESTA](https://open.spotify.com/track/71vPAjlG1x606483GTJNhY) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:37 | 2021-12-07 | 2022-07-28 |
 | [Find Me](https://open.spotify.com/track/71UON3eyYef8AB9gNWXcXM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 4:07 | 2022-03-24 | 2022-04-10 |
-| [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-10-07 |  |
+| [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-10-07 | 2023-03-28 |
 | [Fire Saturday](https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Fire Saturday](https://open.spotify.com/album/51cLLBwum2814O6R3iEtyq) | 3:21 | 2022-03-24 | 2022-04-09 |
 | [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2022-02-03 |  |
 | [Flamingo](https://open.spotify.com/track/1fLLxMudwvBxDyYGooLJ4K) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6), [Geuneul](https://open.spotify.com/artist/6uSaCBHrprsu7g60k2pcIW) | [Flamingo](https://open.spotify.com/album/0AWzM5jb8KCBx6eF5L9w4I) | 3:02 | 2022-03-24 | 2022-04-09 |
@@ -322,6 +322,7 @@
 | [Life Goes On](https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:27 | 2021-12-07 | 2022-07-28 |
 | [Life is Beautiful](https://open.spotify.com/track/7ddidn8lqsvjGCvwOFMXQZ) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [ONEUS THEATRE : Life is Beautiful](https://open.spotify.com/album/0PHu8jLNsawhOUxBwFk7KU) | 3:40 | 2021-12-07 | 2022-07-22 |
 | [Light](https://open.spotify.com/track/2wdRoqxx2fYLisSIgIkCB5) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Light UP](https://open.spotify.com/album/00UNGSfgWWNow3i8cebDdu) | 3:28 | 2022-03-24 | 2022-04-10 |
+| [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-28 |  |
 | [Like OOH\-AHH](https://open.spotify.com/track/2SivUkzgql54t0O4dH1b7O) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE STORY BEGINS](https://open.spotify.com/album/5BS8vLmfcGi7apTuSpdoVq) | 3:35 | 2022-01-03 | 2022-07-15 |
 | [Like Water](https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:21 | 2021-12-07 | 2022-11-24 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-12-07 |  |
@@ -335,7 +336,7 @@
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-21 |  |
 | [Love Maze](https://open.spotify.com/track/645YBsxhFPSOKxGep3uHLv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 3:41 | 2021-12-29 | 2022-07-29 |
 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-21 | 2023-03-25 |
-| [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-25 |  |
+| [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-24 |  |
 | [Love my stereo](https://open.spotify.com/track/2HURvzRbnwCdOBfToQ5Rns) | [Red House](https://open.spotify.com/artist/4VsMli3t4LtmPPGCHcyfON) | [Perpetual](https://open.spotify.com/album/15eHMRz0ch6UgRMBcinFAy) | 3:08 | 2022-03-24 | 2022-04-15 |
 | [Love Paranoia](https://open.spotify.com/track/3ej4aFOFyt0EoxXZHBHVyP) | [LUNA](https://open.spotify.com/artist/24czKkgx0KoQ239m9tvDyk) | [Love Paranoia](https://open.spotify.com/album/1D9utBj0lUeNuJsyXNcZgT) | 3:38 | 2022-02-03 | 2022-07-17 |
 | [Love Signal](https://open.spotify.com/track/54xCQxSzYmi01mO1Kz4UNt) | [roomer](https://open.spotify.com/artist/20zFJZ21BJrOTytnwoNUgp), [Oul](https://open.spotify.com/artist/57JZZuDhppSQr6uyJNzKSa) | [In My Room : Vol.5 \(Our Diary\)](https://open.spotify.com/album/3TVWdZ8J8g1ZW6NWx2aulz) | 3:01 | 2022-03-24 | 2022-04-17 |
@@ -475,6 +476,7 @@
 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 | 2022-03-24 | 2022-04-06 |
 | [Seoul Night 서울 밤 \(feat\. Beenzino\)](https://open.spotify.com/track/2ixSmjqBk2I2kPaECL9YWf) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Seoul Night 서울 밤 \(feat\. Beenzino\)](https://open.spotify.com/album/5LuQRdh5B1QZQqauDdSl14) | 3:25 | 2022-03-24 | 2022-04-19 |
 | [Serious](https://open.spotify.com/track/59RTmOmr6G0Ly0MIJqKn1f) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [HOT&COLD](https://open.spotify.com/album/58ExAS9X4jUAtZLBGoBfOJ) | 3:14 | 2022-03-24 | 2022-04-18 |
+| [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-28 |  |
 | [Seven Breeze \(Feat\. Ldy\)](https://open.spotify.com/track/6WHEV4TkWE2XlMC0ZoByoi) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Ldy](https://open.spotify.com/artist/2MAu2oPXgklWH93ogCNEiy) | [New Edition 22](https://open.spotify.com/album/0Wi4E0M5Jy5z8BIMayUByQ) | 3:40 | 2022-03-24 | 2022-04-16 |
 | [Shine](https://open.spotify.com/track/4y7ThZR71L7XtRvcm1vcD0) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Cheering song for you](https://open.spotify.com/album/6dY5qohydaTZXyYihaAUtI) | 3:03 | 2022-03-24 | 2022-04-09 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-21 |  |

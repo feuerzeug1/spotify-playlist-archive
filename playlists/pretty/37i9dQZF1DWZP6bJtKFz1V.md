@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: Bea Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,778 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,780 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 | 46 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |
 | 47 | [Did I Make You Up?](https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Did I Make You Up?](https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc) | 2:29 |
 | 48 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
-| 49 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 |
-| 50 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
+| 49 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
+| 50 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 |
 | 51 | [I Do](https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [I Do](https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg) | 2:18 |
 | 52 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
 | 53 | [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 | 86 | [Robbery](https://open.spotify.com/track/2QwrcxUvwVxvNjk83Xsrf6) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Robbery](https://open.spotify.com/album/2Grp2EjKlLzlZYZBHk9Q6h) | 2:28 |
 | 87 | [Can't Be Lonely](https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Can't Be Lonely](https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq) | 3:09 |
 | 88 | [Skate](https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 2:53 |
-| 89 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 |
-| 90 | [Anything But You](https://open.spotify.com/track/2FQnmZO1hJ8EAYx7BSBMIw) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Anything But You](https://open.spotify.com/album/2lVpuysUoXYL2hBVeujKn1) | 3:41 |
+| 89 | [Anything But You](https://open.spotify.com/track/2FQnmZO1hJ8EAYx7BSBMIw) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Anything But You](https://open.spotify.com/album/2lVpuysUoXYL2hBVeujKn1) | 3:41 |
+| 90 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 |
 | 91 | [Elevator](https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Elevator](https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC) | 2:45 |
 | 92 | [THREE HEADS\*](https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 |
 | 93 | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 | 99 | [Demon](https://open.spotify.com/track/6eqQ8jPo5Bx0abOQIYbJTp) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:45 |
 | 100 | [Jealousy](https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Jealousy](https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav) | 3:12 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDAwM2QyNjM0NTA4NWQ1MTMzYTE0NDA5NGMwMzMxNGNj`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDg0N2Q0NGQ0OGZiYjgzMTBkNWRhOTc2MDc1OTc3N2Ey`

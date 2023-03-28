@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Lainey Wilson",
-  "num_followers": 111431,
+  "num_followers": 111443,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTM2MDI2MiwwMDAwMDAwMGUwMmY2ZDAwMzk5MGQ1NDFiZmNlZTdmZTJlNjM3MTQ3",
+  "snapshot_id": "MTY3OTM2MDI2MiwwMDAwMDAwMGFhYjJhY2FmMDNmMTJkNmNhZGY0N2NkMDNjZGFmMzg5",
   "tracks": [
     {
       "added_at": "2023-03-21 00:57:42",
@@ -132,17 +132,17 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 228460,
-      "name": "Delicate - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
+      "duration_ms": 287440,
+      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -164,22 +164,6 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
       },
       "artists": [
@@ -191,6 +175,42 @@
       "duration_ms": 233973,
       "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
       "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228460,
+      "name": "Delicate - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        },
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 214655,
+      "name": "House Fire (feat. The Travelin' McCourys)",
+      "url": "https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -227,26 +247,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        },
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 214655,
-      "name": "House Fire (feat. The Travelin' McCourys)",
-      "url": "https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-03-21 00:57:42",
       "album": {
+        "name": "Smalltown Boy (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 317729,
+      "name": "Smalltown Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 268840,
       "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
       "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Smalltown Boy (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 317729,
-      "name": "Smalltown Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-21 00:57:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Folsom Prison Blues - Spotify Singles",
-      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
         "name": "Strawberry Wine - Spotify Singles",
         "url": "https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 260368,
       "name": "Strawberry Wine - Spotify Singles",
       "url": "https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Folsom Prison Blues - Spotify Singles",
+      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2023-03-21 00:57:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 182469,
-      "name": "Dear God - Recorded at Woodshed Recording Malibu",
-      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
-      },
-      "artists": [
-        {
-          "name": "Michael Ray",
-          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
-        }
-      ],
-      "duration_ms": 184742,
-      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
-      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -1079,6 +1047,38 @@
       "duration_ms": 259430,
       "name": "What The Cowgirls Do - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5BjNw6Nehreg15LXEWD5Sl"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 182469,
+      "name": "Dear God - Recorded at Woodshed Recording Malibu",
+      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "duration_ms": 184742,
+      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
+      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
     },
     {
       "added_at": "2023-03-21 00:57:42",

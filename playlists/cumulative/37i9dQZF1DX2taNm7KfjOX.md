@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: boygenius
 
-475 songs - 1 day 5 hr 47 min
+476 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Even The Darkness Has Arms](https://open.spotify.com/track/6Wu4c7dHTsO42UG4D3IFyx) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Even The Darkness Has Arms](https://open.spotify.com/album/5jPNYtypqCu2vPNzb16Sm7) | 3:50 | 2022-04-13 | 2022-04-20 |
 | [Ever New \- Reworked by Bon Iver & Flock of Dimes](https://open.spotify.com/track/2DRr5wyIo7Fs4ziuIppSeB) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Ever New \(Reworked by Bon Iver & Flock Of Dimes\)](https://open.spotify.com/album/6YBMppvgwzEQ1WluBwDVBE) | 6:24 | 2022-01-14 |  |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-10-22 |  |
+| [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 | 2023-03-24 |  |
 | [Everything Everything](https://open.spotify.com/track/56LspSpx7X7nCATWGZLYs5) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Everything Everything](https://open.spotify.com/album/492OrRXjvLw08OJBFscrGB) | 3:26 | 2021-10-22 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/0k5szLN0SJYB1LdEBUFUIS) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Everything I had](https://open.spotify.com/album/7FGdBrnsFUgWNcppcDfkxU) | 4:06 | 2021-10-22 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:06 | 2022-06-24 |  |
@@ -315,7 +316,7 @@
 | [Paula Collins](https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r) | 3:15 | 2021-10-22 | 2022-04-20 |
 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 | 2022-06-24 |  |
 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/5fwabfmJtYmNbcNd2ISl3x) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/album/3hzBgKpVyownETEhtDeuMS) | 4:15 | 2021-10-22 | 2022-07-29 |
-| [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 | 2022-02-25 |  |
+| [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 | 2022-02-25 | 2023-03-28 |
 | [pirate song](https://open.spotify.com/track/0wnZAXlg3CPUgAKFQblzff) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners](https://open.spotify.com/album/1I0ykzztcM5pM4frXEUmVO) | 3:11 | 2022-06-24 |  |
 | [Plans](https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 3:49 | 2022-06-24 | 2022-08-04 |
 | [Plans](https://open.spotify.com/track/3OrVrL2kbABZ3wOXObKEVY) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/29RlEE3lLFeyJwLqlv8WRZ) | 3:49 | 2022-04-13 | 2022-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 309,057 likes - 152 songs - 8 hr 43 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 309,032 likes - 153 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,8 +157,9 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 147 | [Meet Your Mama](https://open.spotify.com/track/5YS7OWTpQVhv38cdC1WvFH) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Meet Your Mama](https://open.spotify.com/album/4aam4kwHC8owvaXnbb5NFY) | 2:58 |
 | 148 | [Handful \- Acoustic](https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Handful / Already Broke Up](https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS) | 2:42 |
 | 149 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 |
-| 150 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 |
-| 151 | [2 Dumb Kids](https://open.spotify.com/track/75bs250qy6CzGEDxExe3sP) | [Levent Geiger](https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG) | [2 Dumb Kids](https://open.spotify.com/album/2rvUElOjzUMKDVkAFVGR3v) | 2:39 |
-| 152 | [Do It Again](https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Do It Again](https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ) | 2:55 |
+| 150 | [Blonde](https://open.spotify.com/track/1HuujiW4Juu0OcxvueBY2E) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Blonde](https://open.spotify.com/album/1kKazJ5YxsH7iV351nvXfs) | 3:22 |
+| 151 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 |
+| 152 | [2 Dumb Kids](https://open.spotify.com/track/75bs250qy6CzGEDxExe3sP) | [Levent Geiger](https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG) | [2 Dumb Kids](https://open.spotify.com/album/2rvUElOjzUMKDVkAFVGR3v) | 2:39 |
+| 153 | [Do It Again](https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Do It Again](https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ) | 2:55 |
 
-Snapshot ID: `MzQ0Niw4YTExOTJjNmM0MzRjNTE5NTY3MTZiMTNkZmExZWRjODQ3MmY1YzUz`
+Snapshot ID: `MzQ0NyxhZTdlZTA2NjZlNWJmYzljZDdmYTM1N2UyNzg2NjdkZDY1MzE5NTY1`

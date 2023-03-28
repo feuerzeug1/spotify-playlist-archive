@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 698203,
+  "num_followers": 698438,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMDE5ZjYyOWI5MTdlYjBjNDljZmRkY2JjN2I1MGExZjlk",
+  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMGJlMWM1Mzg2ZTZjNzYzN2M5ZmJhZDcxM2YwZDhkOTQ2",
   "tracks": [
     {
       "added_at": "2023-02-17 15:33:17",
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
     },
     {
-      "added_at": "2023-03-27 01:00:54",
+      "added_at": "2023-03-28 01:05:43",
       "album": {
         "name": "Limbo EP",
         "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
     },
     {
-      "added_at": "2023-03-27 01:00:54",
+      "added_at": "2023-03-28 01:05:43",
       "album": {
         "name": "Dancing Colours",
         "url": "https://open.spotify.com/album/7zoVXfKEQorTWts3Lz3gmp"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN"
     },
     {
-      "added_at": "2023-03-27 01:00:54",
+      "added_at": "2023-03-28 01:05:43",
       "album": {
         "name": "Pantarei",
         "url": "https://open.spotify.com/album/0h6dsjcjf7sGbu0NSX88o3"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
     },
     {
-      "added_at": "2023-03-27 01:00:54",
+      "added_at": "2023-03-28 01:05:43",
       "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
     },
     {
-      "added_at": "2023-03-27 01:00:54",
+      "added_at": "2023-03-28 01:05:43",
       "album": {
         "name": "Bekaboo",
         "url": "https://open.spotify.com/album/1A05Xaf6VxzQVJpEiMsa75"
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Milambi",
         "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 193278,
       "name": "Milambi",
       "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Star Tripper",
+        "url": "https://open.spotify.com/album/4acnlgRObU8twYND7ktUc3"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Star Tripper",
+      "url": "https://open.spotify.com/track/2y1VCMCb4brGaqlnH0WFH3"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Global Entry 2",
         "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 418364,
       "name": "Worak",
       "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Star Tripper",
-        "url": "https://open.spotify.com/album/4acnlgRObU8twYND7ktUc3"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Star Tripper",
-      "url": "https://open.spotify.com/track/2y1VCMCb4brGaqlnH0WFH3"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
         "name": "Samra Samra",
         "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
       },
@@ -1083,26 +1067,6 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
         "name": "Graceland",
         "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
       },
@@ -1115,6 +1079,38 @@
       "duration_ms": 405213,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
       },
       "artists": [
         {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
         }
       ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1295,22 +1295,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
+        "name": "Na Lagoa (Remixes)",
+        "url": "https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm"
       },
       "artists": [
         {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         },
         {
-          "name": "Tripoli",
-          "url": "https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46"
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
         }
       ],
-      "duration_ms": 382066,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
+      "duration_ms": 264317,
+      "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
+      "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Na Lagoa (Remixes)",
-        "url": "https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm"
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
       },
       "artists": [
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
         },
         {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+          "name": "Tripoli",
+          "url": "https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46"
         }
       ],
-      "duration_ms": 264317,
-      "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
-      "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
+      "duration_ms": 382066,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
     },
     {
       "added_at": "2023-02-17 15:33:17",

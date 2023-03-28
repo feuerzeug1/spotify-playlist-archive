@@ -4,7 +4,7 @@
 
 > 
 
-410 songs - 18 hr 14 min
+411 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Lindsay Lohan](https://open.spotify.com/track/4LPyJrC3Yd40AlkEaPgcA2) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Lindsay Lohan](https://open.spotify.com/album/5ygWbWxDInjLZyAPudyaQP) | 2:46 | 2022-10-24 |  |
 | [Live & Die Again](https://open.spotify.com/track/0oUMoq7NOyQdkTGwIAb24A) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [BABY WHOA](https://open.spotify.com/album/4LwBYHKVRaFll4wNsVA2TV) | 2:08 | 2023-01-11 |  |
 | [Living Single](https://open.spotify.com/track/36xxq7VDZZsGwARsn6Clo7) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Living Single](https://open.spotify.com/album/02pV9mCJ2PJNPVWyOFTv37) | 4:36 | 2022-08-23 |  |
+| [Locusts](https://open.spotify.com/track/7LpVvEMb8s30QfGKoHMuu0) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Locusts](https://open.spotify.com/album/00FePblmr3mcHeFHXlAeqb) | 1:56 | 2023-03-27 |  |
 | [Look At They Face](https://open.spotify.com/track/5Otd4NFsyhjFKLkYgivIY8) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:45 | 2022-07-08 |  |
 | [Lookbook](https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:30 | 2022-10-31 |  |
 | [Losing My Mind](https://open.spotify.com/track/2JMW1iCKgPnSqbVVhHR6wI) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Serious](https://open.spotify.com/album/6vAdaRFZy95JxZqmt9q0wk) | 3:02 | 2022-04-17 |  |

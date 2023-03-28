@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 117204,
+  "num_followers": 117231,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMGUyOTU0ZTIzNTM1OWI4ZjEzYjAzOGM0YjAzNDliMGY4",
+  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMDhmODdhMDZmMzNkN2I0Y2UwNjQ4ZjczOTcwNGNmZjE5",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Dear Mama",
-        "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
-      },
-      "artists": [
-        {
-          "name": "Benitez, Darren",
-          "url": "https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI"
-        }
-      ],
-      "duration_ms": 307213,
-      "name": "Nani Wale Ka Lau Oliva",
-      "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Soul Of The Drums",
         "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 135946,
       "name": "Coffee Bean / Calabash Annie",
       "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Dear Mama",
+        "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
+      },
+      "artists": [
+        {
+          "name": "Benitez, Darren",
+          "url": "https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI"
+        }
+      ],
+      "duration_ms": 307213,
+      "name": "Nani Wale Ka Lau Oliva",
+      "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
     },
     {
       "added_at": "2022-03-30 01:46:18",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Primitiva",
         "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 134506,
       "name": "Llama Serenade",
       "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
-        "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
-      },
-      "artists": [
-        {
-          "name": "King Curtis",
-          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Melancholy Serenade - Remastered",
-      "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Fuzzy Retail Sampler",
         "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 143666,
       "name": "Glow Worm Cha Cha Cha - Remastered",
       "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
+        "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
+      },
+      "artists": [
+        {
+          "name": "King Curtis",
+          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Melancholy Serenade - Remastered",
+      "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Cool Heat + Exotic Dreams",
-        "url": "https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK"
-      },
-      "artists": [
-        {
-          "name": "Ethel Azama",
-          "url": "https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV"
-        }
-      ],
-      "duration_ms": 154575,
-      "name": "Ringo Oiwake",
-      "url": "https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Jungle Drums",
         "url": "https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ"
       },
@@ -1191,22 +1175,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Songs Of The Islands",
-        "url": "https://open.spotify.com/album/2fHURThRK2CbhwhJz6jF9x"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Welk & His Orchestra",
-          "url": "https://open.spotify.com/artist/4phr6llU1BoO8p2qg6I69R"
-        }
-      ],
-      "duration_ms": 138092,
-      "name": "Sweet Leilani",
-      "url": "https://open.spotify.com/track/0eIb5Pu0dEaNw2OOTwkFa2"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/5YO2Bk5jkOTrlKl9ZcVZWI"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 192975,
       "name": "Moon Of Manakoora",
       "url": "https://open.spotify.com/track/3NLbKZRBnyUSt1ZL2HFj9l"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Cool Heat + Exotic Dreams",
+        "url": "https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK"
+      },
+      "artists": [
+        {
+          "name": "Ethel Azama",
+          "url": "https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV"
+        }
+      ],
+      "duration_ms": 154575,
+      "name": "Ringo Oiwake",
+      "url": "https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Songs Of The Islands",
+        "url": "https://open.spotify.com/album/2fHURThRK2CbhwhJz6jF9x"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Welk & His Orchestra",
+          "url": "https://open.spotify.com/artist/4phr6llU1BoO8p2qg6I69R"
+        }
+      ],
+      "duration_ms": 138092,
+      "name": "Sweet Leilani",
+      "url": "https://open.spotify.com/track/0eIb5Pu0dEaNw2OOTwkFa2"
     },
     {
       "added_at": "2022-01-11 02:53:42",

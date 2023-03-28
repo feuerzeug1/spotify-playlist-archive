@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-221 songs - 13 hr 21 min
+223 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-06-09 |  |
 | [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 | 2022-05-11 | 2022-08-22 |
 | [Endless](https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9) | [JIN](https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ) | [Endless](https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5) | 3:15 | 2023-02-03 | 2023-02-26 |
+| [Errr Day](https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Errr Day](https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK) | 3:24 | 2023-03-28 |  |
 | [Especially For You](https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ) | [Lee Daneung](https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO) | [Especially For You](https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl) | 2:34 | 2022-12-26 |  |
 | [Even if time passes](https://open.spotify.com/track/41AtZo3oUoJfyvgbPRoh8H) | [CHILDDIAHN](https://open.spotify.com/artist/2xIwnQi8JNCYpJjPivvKBr) | [Even if time passes](https://open.spotify.com/album/18sJ1IXGO8jjFzdFv1hxwX) | 4:14 | 2022-05-11 | 2022-07-05 |
 | [Evening \(feat\. BIG Naughty\)](https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Evening](https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6) | 3:37 | 2022-08-01 |  |
@@ -122,7 +123,7 @@
 | [LOVERS](https://open.spotify.com/track/4jENXV8X49X7yZzwCpDJIU) | [Obze](https://open.spotify.com/artist/7IkXZygwi0pf87bIeHK5ZX) | [Jewelry case](https://open.spotify.com/album/1ALi3pC1MocycJ9h4rzCBM) | 3:47 | 2022-05-11 | 2022-07-21 |
 | [Loving U](https://open.spotify.com/track/5eYEY02R2PslTPTDSQm0h2) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Revolutionary Sisters \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2qRldVbg6EoCNBfafQMOpJ) | 2:50 | 2022-05-11 | 2022-07-28 |
 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 | 2022-06-18 | 2022-07-30 |
-| [Marry Me](https://open.spotify.com/track/7BNV7EACj2jSl0fdiG6726) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Marry Me](https://open.spotify.com/album/0qkWVEZ616XWGaxME5RyHP) | 3:08 | 2023-02-03 |  |
+| [Marry Me](https://open.spotify.com/track/7BNV7EACj2jSl0fdiG6726) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Marry Me](https://open.spotify.com/album/0qkWVEZ616XWGaxME5RyHP) | 3:08 | 2023-02-03 | 2023-03-28 |
 | [Mirage](https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9) | [Unchan](https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF) | [Mirage](https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP) | 3:34 | 2022-05-11 | 2022-12-06 |
 | [Moontanroad \(feat\. 40\)](https://open.spotify.com/track/62HpuRTjvR6rr1S3XOH6pP) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW), [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [d'motive](https://open.spotify.com/album/7agoIZYuOrEpnhIobnqZfO) | 3:30 | 2022-05-11 | 2022-07-14 |
 | [My Day Is Full Of You](https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz) | 3:40 | 2022-05-11 | 2022-07-28 |
@@ -154,6 +155,7 @@
 | [Shall we dance tonight](https://open.spotify.com/track/7J7XWKFgpUqiq0sYnm0kBu) | [이정권](https://open.spotify.com/artist/2JTaMLHMmhuALiVj8vpGg9) | [Shall we dance tonight](https://open.spotify.com/album/6alu7CXqzSj3g45f8r8WBv) | 3:25 | 2022-06-13 | 2022-07-03 |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 |  |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-20 |  |
+| [Single](https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Single](https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY) | 2:45 | 2023-03-28 |  |
 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 | 2023-02-24 |  |
 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 | 2022-07-08 |  |
 | [Some](https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn) | 3:01 | 2022-05-11 | 2022-07-29 |
@@ -215,7 +217,7 @@
 | [You are My Night](https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Someone's playlist \#7](https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em) | 2:35 | 2022-07-04 | 2022-07-29 |
 | [You Are So Beautiful](https://open.spotify.com/track/55H1e6ITKdYJAh23znaxXF) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [BROWN EYED SOUL 4th Regular Album ‘SOUL COOKE’](https://open.spotify.com/album/283nFxxtOCBUaiAC4OitCo) | 5:18 | 2022-05-11 | 2022-07-18 |
 | [You make me feel](https://open.spotify.com/track/0oYdeqSOzOCqKw0uqtVySS) | [Kim Greem](https://open.spotify.com/artist/1mJ8v3a8vsNWdP0FpUqeda) | [You make me feel](https://open.spotify.com/album/1ejEGlvoZhhDEinK9NE5KK) | 3:36 | 2022-05-11 | 2022-07-09 |
-| [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 | 2022-07-08 |  |
+| [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 | 2022-07-08 | 2023-03-28 |
 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/2alRAEyM5GvxE8G94Lav4R) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:40 | 2022-06-09 | 2022-07-28 |
 | [YOU YOU YOU](https://open.spotify.com/track/3sK8BhpcaBNqjiYU8rT8YL) | [Floody](https://open.spotify.com/artist/1btrLpznqZabTXLcxUHDUF) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'YOU YOU YOU'](https://open.spotify.com/album/0qIJnaW3ADumGC4HSwzxlX) | 3:45 | 2022-06-09 | 2022-07-25 |
 | [You'll be fine](https://open.spotify.com/track/6nRvFUhyQtBxw4gPCF3OzR) | [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [You'll be fine](https://open.spotify.com/album/60m28acTUmMG2FRi4oxYu8) | 2:56 | 2022-07-08 | 2022-07-29 |

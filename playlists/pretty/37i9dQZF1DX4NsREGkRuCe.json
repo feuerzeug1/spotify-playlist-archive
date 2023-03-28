@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 34445,
+  "num_followers": 34515,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3NTM4OSwwMDAwMDAwMDhjZWMwMzFmMjVlNDc0NmFmYWUxMTQ3NjEwZmFjMGEy",
+  "snapshot_id": "MTY3OTY3NTM4OSwwMDAwMDAwMDFhNGQxYWMzMjEzNzRkYjVhOTgxOWVmMzBhMGFkZGY5",
   "tracks": [
     {
       "added_at": "2023-03-24 16:29:49",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
-        "name": "Bayanni",
-        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 159425,
-      "name": "Ta Ta Ta",
-      "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
-    },
-    {
-      "added_at": "2023-03-24 16:29:49",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 183056,
       "name": "soso",
       "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+    },
+    {
+      "added_at": "2023-03-24 16:29:49",
+      "album": {
+        "name": "Bayanni",
+        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 159425,
+      "name": "Ta Ta Ta",
+      "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
     },
     {
       "added_at": "2023-03-24 16:29:49",
@@ -479,42 +479,6 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
-        "name": "Hide & Seek (Rema Remix)",
-        "url": "https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Hide & Seek - Rema Remix",
-      "url": "https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb"
-    },
-    {
-      "added_at": "2023-03-24 16:29:49",
-      "album": {
-        "name": "Bezos",
-        "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
-      },
-      "artists": [
-        {
-          "name": "Dboi",
-          "url": "https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8"
-        }
-      ],
-      "duration_ms": 168437,
-      "name": "Bezos",
-      "url": "https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs"
-    },
-    {
-      "added_at": "2023-03-24 16:29:49",
-      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
@@ -535,18 +499,54 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4"
+        "name": "Bezos",
+        "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Dboi",
+          "url": "https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
+      "duration_ms": 168437,
+      "name": "Bezos",
+      "url": "https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs"
+    },
+    {
+      "added_at": "2023-03-24 16:29:49",
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 123716,
+      "name": "Organise",
+      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
+    },
+    {
+      "added_at": "2023-03-24 16:29:49",
+      "album": {
+        "name": "Hide & Seek (Rema Remix)",
+        "url": "https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Hide & Seek - Rema Remix",
+      "url": "https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb"
     },
     {
       "added_at": "2023-03-24 16:29:49",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 123716,
-      "name": "Organise",
-      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
+      "duration_ms": 171764,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
     },
     {
       "added_at": "2023-03-24 16:29:49",
@@ -723,6 +723,34 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
+        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "added_at": "2023-03-24 16:29:49",
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -767,22 +795,6 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 183349,
-      "name": "All Of Us (Ashawo)",
-      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
-    },
-    {
-      "added_at": "2023-03-24 16:29:49",
-      "album": {
         "name": "Good Bad Boy",
         "url": "https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E"
       },
@@ -799,30 +811,18 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+      "duration_ms": 183349,
+      "name": "All Of Us (Ashawo)",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
     },
     {
       "added_at": "2023-03-24 16:29:49",
@@ -907,6 +907,26 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
+        "name": "Omo Ope",
+        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Omo Ope (feat. Olamide)",
+      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
+    },
+    {
+      "added_at": "2023-03-24 16:29:49",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
-    },
-    {
-      "added_at": "2023-03-24 16:29:49",
-      "album": {
-        "name": "Omo Ope",
-        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Omo Ope (feat. Olamide)",
-      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
     },
     {
       "added_at": "2023-03-24 16:29:49",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
-        "name": "Pheelz Good EP",
-        "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 170097,
-      "name": "Pheelz Like Summer",
-      "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
-    },
-    {
-      "added_at": "2023-03-24 16:29:49",
-      "album": {
         "name": "Barnabas",
         "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-03-24 16:29:49",
+      "album": {
+        "name": "Pheelz Good EP",
+        "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 170097,
+      "name": "Pheelz Like Summer",
+      "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
     },
     {
       "added_at": "2023-03-24 16:29:49",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 210346,
-      "name": "Common Person",
-      "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2023-03-24 16:29:49",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 146367,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
+      "duration_ms": 210346,
+      "name": "Common Person",
+      "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
     },
     {
       "added_at": "2023-03-24 16:29:49",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 146367,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
+    },
+    {
+      "added_at": "2023-03-24 16:29:49",
+      "album": {
         "name": "Billion Dollar Baby",
         "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
       },
@@ -1475,26 +1491,6 @@
       "duration_ms": 177449,
       "name": "Chance (Na Ham)",
       "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
-    },
-    {
-      "added_at": "2023-03-24 16:29:49",
-      "album": {
-        "name": "Otilo (Izz Gone)",
-        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Otilo (Izz Gone)",
-      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
     },
     {
       "added_at": "2023-03-24 16:29:49",
@@ -1519,18 +1515,22 @@
     {
       "added_at": "2023-03-24 16:29:49",
       "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+        "name": "Otilo (Izz Gone)",
+        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+      "duration_ms": 162782,
+      "name": "Otilo (Izz Gone)",
+      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring Cuco & The Mar\u00edas.",
-  "num_followers": 148416,
+  "num_followers": 148464,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDRlY2U4ZDY3ZGVlMmVlYWE2ZmMzMGE5ZTkzMDBlM2Vk",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGQzZGFhODJjMDYxYmJmOGJjY2Y2OTgzMzhiOTg2NzM4",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -115,18 +115,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Buen Pez",
-        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 193426,
-      "name": "Somos Instantes",
-      "url": "https://open.spotify.com/track/4eWC4PIRnCAiSo028OWh62"
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+        "name": "Buen Pez",
+        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+      "duration_ms": 193426,
+      "name": "Somos Instantes",
+      "url": "https://open.spotify.com/track/4eWC4PIRnCAiSo028OWh62"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -271,6 +271,42 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Ivory (Marfil)",
+        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 154119,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 150699,
+      "name": "Worth the Wait (feat. Omar Apollo)",
+      "url": "https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Pendant",
         "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
       },
@@ -311,22 +347,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
         }
       ],
-      "duration_ms": 150699,
-      "name": "Worth the Wait (feat. Omar Apollo)",
-      "url": "https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3"
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -347,38 +379,6 @@
       "duration_ms": 167218,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Someone To Spend Time With",
-        "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "Someone To Spend Time With",
-      "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Ivory (Marfil)",
-        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 154119,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -415,22 +415,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "- es + (menos es m\u00e1s)",
-        "url": "https://open.spotify.com/album/1y0JGvEzLx4z5kW1RbJaJA"
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
       "artists": [
         {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
-        },
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 179648,
-      "name": "- es + (menos es m\u00e1s)",
-      "url": "https://open.spotify.com/track/3A5qg9rPxX4ANtff8ZLhMX"
+      "duration_ms": 134860,
+      "name": "Como Te Quiero Yo",
+      "url": "https://open.spotify.com/track/2VxQqF52M7IPkiLd4XmTNi"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -451,34 +447,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+        "name": "- es + (menos es m\u00e1s)",
+        "url": "https://open.spotify.com/album/1y0JGvEzLx4z5kW1RbJaJA"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 134860,
-      "name": "Como Te Quiero Yo",
-      "url": "https://open.spotify.com/track/2VxQqF52M7IPkiLd4XmTNi"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Ivory (Marfil)",
-        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
-      },
-      "artists": [
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        },
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
         }
       ],
-      "duration_ms": 153258,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/5Q4SaYmdH63hto9fxkd300"
+      "duration_ms": 179648,
+      "name": "- es + (menos es m\u00e1s)",
+      "url": "https://open.spotify.com/track/3A5qg9rPxX4ANtff8ZLhMX"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -495,6 +479,22 @@
       "duration_ms": 193429,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Ivory (Marfil)",
+        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 153258,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/5Q4SaYmdH63hto9fxkd300"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 189311,
+      "name": "Un Momento",
+      "url": "https://open.spotify.com/track/5xtBpogt0Id3kcnj7fP1nK"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 213893,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Limerencia",
-        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 189311,
-      "name": "Un Momento",
-      "url": "https://open.spotify.com/track/5xtBpogt0Id3kcnj7fP1nK"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        }
-      ],
-      "duration_ms": 205462,
-      "name": "Leche de Tigre",
-      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Se Apag\u00f3",
         "url": "https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        }
+      ],
+      "duration_ms": 205462,
+      "name": "Leche de Tigre",
+      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "RQR",
-        "url": "https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb"
-      },
-      "artists": [
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 177581,
-      "name": "RQR",
-      "url": "https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 153500,
       "name": "Cohen's Cumbia",
       "url": "https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "RQR",
+        "url": "https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "duration_ms": 177581,
+      "name": "RQR",
+      "url": "https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD"
     },
     {
       "added_at": "2023-03-24 04:00:00",

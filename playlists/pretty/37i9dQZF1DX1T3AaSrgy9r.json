@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 88193,
+  "num_followers": 88284,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGQwYjJjMDRiZjljZDRiZDE3ODQ5OWI1NjMwYTZmYTVi",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGMwM2E3ZDY3Nzg3MzIxOGNjNTM5YzUzZDBlOWNlZjcy",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -91,18 +91,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -123,18 +123,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "1992 - 2012",
-        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
       "artists": [
         {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 456480,
-      "name": "Born Slippy (Nuxx)",
-      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -151,6 +151,38 @@
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "Born Slippy (Nuxx)",
+      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Dig Your Own Hole",
+        "url": "https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 313666,
+      "name": "Block Rockin' Beats",
+      "url": "https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -175,38 +207,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dig Your Own Hole",
-        "url": "https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 313666,
-      "name": "Block Rockin' Beats",
-      "url": "https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Vegas",
         "url": "https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt"
       },
@@ -223,18 +223,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Movin' Melodies",
-        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
       },
       "artists": [
         {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 193880,
-      "name": "9Pm (Till I Come)",
-      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -251,6 +251,22 @@
       "duration_ms": 228840,
       "name": "6 Underground",
       "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Movin' Melodies",
+        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "9Pm (Till I Come)",
+      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -307,22 +323,6 @@
       "duration_ms": 211506,
       "name": "A Little Less Conversation - JXL Radio Edit Remix",
       "url": "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 328680,
-      "name": "Da Funk",
-      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -483,18 +483,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Maxinquaye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
       "artists": [
         {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
         }
       ],
-      "duration_ms": 227066,
-      "name": "Hell Is Round The Corner",
-      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
+      "duration_ms": 300266,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -515,18 +515,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
         }
       ],
-      "duration_ms": 300266,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
+      "duration_ms": 227066,
+      "name": "Hell Is Round The Corner",
+      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 117240,
-      "name": "Organ Donor",
-      "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Play & Play: B Sides",
         "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
@@ -691,22 +675,6 @@
       "duration_ms": 253760,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 382360,
-      "name": "Original - Remastered",
-      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -727,6 +695,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Original - Remastered",
+      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 252360,
       "name": "Human Behaviour",
       "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 117240,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Music for the Jilted Generation",
-        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 387066,
-      "name": "Voodoo People",
-      "url": "https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "808:88:98",
         "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 233906,
       "name": "Pacific 707",
       "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Music for the Jilted Generation",
+        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 387066,
+      "name": "Voodoo People",
+      "url": "https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "U.F.Off: The Best Of The Orb",
-        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Toxygene - 7\" Edit",
-      "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "New Forms",
         "url": "https://open.spotify.com/album/0RFE2IiZa7OCGrEZngGlGJ"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Saturday Teenage Kick",
-        "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
+        "name": "U.F.Off: The Best Of The Orb",
+        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
       },
       "artists": [
         {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
         }
       ],
-      "duration_ms": 327173,
-      "name": "Dealing with the Roster",
-      "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
+      "duration_ms": 211533,
+      "name": "Toxygene - 7\" Edit",
+      "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1283,6 +1267,22 @@
       "duration_ms": 388200,
       "name": "The Box, Pt. 1",
       "url": "https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Saturday Teenage Kick",
+        "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
+      },
+      "artists": [
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "duration_ms": 327173,
+      "name": "Dealing with the Roster",
+      "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Swamp Thing",
-        "url": "https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq"
-      },
-      "artists": [
-        {
-          "name": "The Grid",
-          "url": "https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo"
-        }
-      ],
-      "duration_ms": 237453,
-      "name": "Swamp Thing",
-      "url": "https://open.spotify.com/track/2TU5HRSj7cSjkKwNzF8NhS"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Dead Cities",
         "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Swamp Thing",
+        "url": "https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq"
+      },
+      "artists": [
+        {
+          "name": "The Grid",
+          "url": "https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo"
+        }
+      ],
+      "duration_ms": 237453,
+      "name": "Swamp Thing",
+      "url": "https://open.spotify.com/track/2TU5HRSj7cSjkKwNzF8NhS"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Spin Spin Sugar",
         "url": "https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 544093,
       "name": "Spin Spin Sugar - Armands Dark Garage Mix",
       "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Second Toughest In The Infants (Remastered)",
-        "url": "https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Blueski - Remastered",
-      "url": "https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Halfway Between The Gutter And The Stars",
-        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
+        "name": "Second Toughest In The Infants (Remastered)",
+        "url": "https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         }
       ],
-      "duration_ms": 345893,
-      "name": "Weapon Of Choice",
-      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
+      "duration_ms": 183013,
+      "name": "Blueski - Remastered",
+      "url": "https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1447,6 +1431,22 @@
       "duration_ms": 260640,
       "name": "Gabriel",
       "url": "https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Halfway Between The Gutter And The Stars",
+        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 345893,
+      "name": "Weapon Of Choice",
+      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
     },
     {
       "added_at": "2021-07-14 17:36:34",

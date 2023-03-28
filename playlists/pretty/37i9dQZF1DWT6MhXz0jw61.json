@@ -1,12 +1,12 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Little Simz",
-  "num_followers": 1212407,
+  "num_followers": 1212816,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGQ4NzAxNTFiOGJhOTE1NmVmMWI0N2UzZDA0MDVkNmM5",
+  "snapshot_id": "MTY3OTk0MzM1NSwwMDAwMDAwMDQ1ZTA3ODliZDkwZjA1ODQ5NmJlYjBiMmI0NmJlYzZl",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Ways of Knowing",
-        "url": "https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO"
-      },
-      "artists": [
-        {
-          "name": "Navy Blue",
-          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
-        }
-      ],
-      "duration_ms": 147608,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0TGy4z6QYxKKMdi3QLW7Ef"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Flowers (feat. MAVI)",
         "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Ways of Knowing",
+        "url": "https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        }
+      ],
+      "duration_ms": 201164,
+      "name": "Kill Switch",
+      "url": "https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -507,6 +507,22 @@
       "duration_ms": 352178,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
+    },
+    {
+      "added_at": "2023-03-27 18:55:55",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Inwood Hill Park",
+      "url": "https://open.spotify.com/track/4qZLrKsaGkYmVRGUviVPtk"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
         }
       ],
-      "duration_ms": 201164,
-      "name": "Kill Switch",
-      "url": "https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y"
+      "duration_ms": 147608,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0TGy4z6QYxKKMdi3QLW7Ef"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1595,34 +1611,6 @@
       "duration_ms": 158048,
       "name": "Foot Prints",
       "url": "https://open.spotify.com/track/3JQYpVlXLJhpI7wCQzQn5S"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "FAR (feat. T'nah)",
-        "url": "https://open.spotify.com/album/1AFHGTHIqhKhr3sBNY0qJj"
-      },
-      "artists": [
-        {
-          "name": "Nyck Caution",
-          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
-        },
-        {
-          "name": "Kirk Knight",
-          "url": "https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq"
-        },
-        {
-          "name": "Dirty Sanchez 47",
-          "url": "https://open.spotify.com/artist/1BjpW3842PBA7yMIJUbGfQ"
-        },
-        {
-          "name": "T'nah",
-          "url": "https://open.spotify.com/artist/6O4dbSgX35YBM1yhXRknZp"
-        }
-      ],
-      "duration_ms": 202849,
-      "name": "FAR (feat. T'nah)",
-      "url": "https://open.spotify.com/track/1qJTwgAgVjBtVrk9w7Evfz"
     },
     {
       "added_at": "2023-03-24 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. A Winged Victory For The Sullen on cover.",
-  "num_followers": 144367,
+  "num_followers": 144522,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDQ3MDM5NzExMmIwMWVlZDBkMWIxOTdjYWJhNGU1Mzk3",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDFkNDk4NmRhM2EyMjFlNDNhMTJkMGIwMGFiMGNkYjkw",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -651,6 +651,42 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7pBF8GrCJah3ZXbVeTm5e1"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/768xi4B8fL5dG028KbCjLl"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "rescue",
+        "url": "https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "ashess",
+          "url": "https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "rescue",
+      "url": "https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "SLEEP: Tranquility Base",
         "url": "https://open.spotify.com/album/47SL4kZlIzoTa3CMsT5ZNL"
       },
@@ -675,26 +711,6 @@
       "duration_ms": 82229,
       "name": "Tranquility II",
       "url": "https://open.spotify.com/track/3C6SnHzfIxlUFyVPK7vqJG"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "rescue",
-        "url": "https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "ashess",
-          "url": "https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "rescue",
-      "url": "https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -835,6 +851,26 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "wistful",
+        "url": "https://open.spotify.com/album/0CIzRlVNXg18ThmbWglFtu"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "james king",
+          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
+        }
+      ],
+      "duration_ms": 157183,
+      "name": "wistful",
+      "url": "https://open.spotify.com/track/3MRsE4kOIhk4FNTTwu3X6w"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
       },
@@ -851,22 +887,6 @@
       "duration_ms": 82334,
       "name": "Path 3 (7676) - Pt. 1",
       "url": "https://open.spotify.com/track/16BSYdWcO54eHEgIHsFGrR"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/7pBF8GrCJah3ZXbVeTm5e1"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/768xi4B8fL5dG028KbCjLl"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -939,26 +959,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "wistful",
-        "url": "https://open.spotify.com/album/0CIzRlVNXg18ThmbWglFtu"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "james king",
-          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
-        }
-      ],
-      "duration_ms": 157183,
-      "name": "wistful",
-      "url": "https://open.spotify.com/track/3MRsE4kOIhk4FNTTwu3X6w"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
@@ -971,6 +971,26 @@
       "duration_ms": 190482,
       "name": "20220302 - sarabande",
       "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Leave Your Memories Behind",
+        "url": "https://open.spotify.com/album/3jzpsBUHS0r7yn7PgKMvlS"
+      },
+      "artists": [
+        {
+          "name": "Nectry",
+          "url": "https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG"
+        },
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "duration_ms": 143483,
+      "name": "Shards",
+      "url": "https://open.spotify.com/track/06djq5wohrG47TNFMVm9rv"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -999,26 +1019,6 @@
       "duration_ms": 413241,
       "name": "Psychogeography",
       "url": "https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Leave Your Memories Behind",
-        "url": "https://open.spotify.com/album/3jzpsBUHS0r7yn7PgKMvlS"
-      },
-      "artists": [
-        {
-          "name": "Nectry",
-          "url": "https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG"
-        },
-        {
-          "name": "Antent",
-          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
-        }
-      ],
-      "duration_ms": 143483,
-      "name": "Shards",
-      "url": "https://open.spotify.com/track/06djq5wohrG47TNFMVm9rv"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "ambient vol 3",
-        "url": "https://open.spotify.com/album/1SEsmp8PM5sHb4XUhUr0M7"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 90625,
-      "name": "i tried to forget",
-      "url": "https://open.spotify.com/track/2TaqpLkqsteD1vDZksgI8k"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Velocity (Music from the Film)",
         "url": "https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 111023,
       "name": "Best of Luck",
       "url": "https://open.spotify.com/track/3D0SDYQLsZFt3DK6iRiWs1"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "ambient vol 3",
+        "url": "https://open.spotify.com/album/1SEsmp8PM5sHb4XUhUr0M7"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 90625,
+      "name": "i tried to forget",
+      "url": "https://open.spotify.com/track/2TaqpLkqsteD1vDZksgI8k"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "LUX 1",
-        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "LUX 1.1",
-      "url": "https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Escape (Hania Rani Remix)",
         "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "LUX 1.1",
+      "url": "https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Starlit Lake",
         "url": "https://open.spotify.com/album/0o3BzLWKCPllbznVgozHzg"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 297874,
       "name": "Interstellar Clouds",
       "url": "https://open.spotify.com/track/0cK11RP6yVl1OM6oIpUZre"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "angel",
         "url": "https://open.spotify.com/album/6fXHpLaNWwAg6AZEqHP6Ej"
       },
@@ -1427,6 +1427,26 @@
       "duration_ms": 110488,
       "name": "angel",
       "url": "https://open.spotify.com/track/2VoPJtFM9gGLqUryqZfqsW"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "by my side",
+        "url": "https://open.spotify.com/album/37DgWI3XMaQI1FNtZlRsNj"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        },
+        {
+          "name": "Droner",
+          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "by my side",
+      "url": "https://open.spotify.com/track/5eddI8OItrcdyfXQptGMuH"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1463,42 +1483,6 @@
       "duration_ms": 546586,
       "name": "amb23 - 2",
       "url": "https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "by my side",
-        "url": "https://open.spotify.com/album/37DgWI3XMaQI1FNtZlRsNj"
-      },
-      "artists": [
-        {
-          "name": "alixe.",
-          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
-        },
-        {
-          "name": "Droner",
-          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "by my side",
-      "url": "https://open.spotify.com/track/5eddI8OItrcdyfXQptGMuH"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Flur",
-        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 197335,
-      "name": "LUN",
-      "url": "https://open.spotify.com/track/5ipMiNXR4MATOx8pqCQpFo"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1551,6 +1535,22 @@
       "duration_ms": 427266,
       "name": "Receiving",
       "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Flur",
+        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "duration_ms": 197335,
+      "name": "LUN",
+      "url": "https://open.spotify.com/track/5ipMiNXR4MATOx8pqCQpFo"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1639,38 +1639,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "OHM",
-        "url": "https://open.spotify.com/album/7JTtmK945FIeGFbQMhM57a"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 254910,
-      "name": "OHM",
-      "url": "https://open.spotify.com/track/2S6YpBrnYIoZz1OUvNRZP2"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Myfanwy (Ambient Mix)",
         "url": "https://open.spotify.com/album/4Q0ZB1THID7YteRQSEfH4p"
       },
@@ -1687,6 +1655,22 @@
       "duration_ms": 243818,
       "name": "Myfanwy - Matt Robertson Ambient Mix",
       "url": "https://open.spotify.com/track/0eVZZGq7eM6VlkRJSeSmY5"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Partisans",
+        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "OHM",
+        "url": "https://open.spotify.com/album/7JTtmK945FIeGFbQMhM57a"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "duration_ms": 254910,
+      "name": "OHM",
+      "url": "https://open.spotify.com/track/2S6YpBrnYIoZz1OUvNRZP2"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Nouveau-N\u00e9",
         "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
@@ -1759,26 +1759,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Follower",
-        "url": "https://open.spotify.com/album/0Yz7gx5EnZuO7H3tTX1mya"
+        "name": "Epilogue",
+        "url": "https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4"
       },
       "artists": [
         {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Mari Samuelsen",
-          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
-        },
-        {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 303126,
-      "name": "Follower",
-      "url": "https://open.spotify.com/track/4P6pUEL57ZUJElgzM1EQE2"
+      "duration_ms": 249081,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
     }
   ],
   "unique_name": "Ambiente",

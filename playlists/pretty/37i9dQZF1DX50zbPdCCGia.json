@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: The Velvet Underground",
-  "num_followers": 187803,
+  "num_followers": 187950,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3OTI5NywwMDAwMDAwMGIyMjRjZTJjMjQyNWE1MmNhM2RjZTkyMjZlM2FmMGI2",
+  "snapshot_id": "MTY3NDA3OTI5NywwMDAwMDAwMDg2NWIzZjk1NGVmYTRkZDAwMjQwMTkwMjFiYmUyOWNj",
   "tracks": [
     {
       "added_at": "2023-01-18 22:01:37",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 270213,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 187866,
       "name": "Imagine - Remastered 2010",
       "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 270213,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -335,38 +335,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -383,6 +351,22 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
         "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 272000,
       "name": "Angie",
       "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 252773,
       "name": "Rhiannon",
       "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Verities & Balderdash",
-        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
-      },
-      "artists": [
-        {
-          "name": "Harry Chapin",
-          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
-        }
-      ],
-      "duration_ms": 222951,
-      "name": "Cat's in the Cradle",
-      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Abandoned Luncheonette",
         "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 313373,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Verities & Balderdash",
+        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
+      },
+      "artists": [
+        {
+          "name": "Harry Chapin",
+          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
+        }
+      ],
+      "duration_ms": 222951,
+      "name": "Cat's in the Cradle",
+      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "The Long Run (2013 Remaster)",
-        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 295049,
-      "name": "I Can't Tell You Why - 2013 Remaster",
-      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
       },
@@ -863,22 +847,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Just a Song Before I Go",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
       },
@@ -891,6 +859,38 @@
       "duration_ms": 271093,
       "name": "Rikki Don't Lose That Number",
       "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 295049,
+      "name": "I Can't Tell You Why - 2013 Remaster",
+      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 187266,
       "name": "Any Major Dude Will Tell You",
       "url": "https://open.spotify.com/track/7BVIm4yj3PQ6MwTPwcjka6"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 456640,
+      "name": "Deacon Blues",
+      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
         "name": "Hair Of The Dog",
         "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 281213,
       "name": "We've Got Tonight",
       "url": "https://open.spotify.com/track/3mj46XKJ2aEm1z7ZvbwyLi"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 456640,
-      "name": "Deacon Blues",
-      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
-      },
-      "artists": [
-        {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 210866,
       "name": "Long As I Can See The Light",
       "url": "https://open.spotify.com/track/4Sk6QA0RoRqZ3Hg9TlAX4X"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+      },
+      "artists": [
+        {
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
+        "name": "London Town (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ye0I2FTRyBCNSbxk5KsTk"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 344773,
+      "name": "With A Little Luck - Remastered 1993",
+      "url": "https://open.spotify.com/track/0wLpW3AwfNicWHef8joJLb"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
         "name": "Book Of Dreams",
         "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
       },
@@ -1519,38 +1535,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 430877,
-      "name": "Isn't It a Pity - 2014 Remaster",
-      "url": "https://open.spotify.com/track/1mBGRVmAV83ahj2HjehcRn"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
-        "name": "London Town (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ye0I2FTRyBCNSbxk5KsTk"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 344773,
-      "name": "With A Little Luck - Remastered 1993",
-      "url": "https://open.spotify.com/track/0wLpW3AwfNicWHef8joJLb"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "CSN 2012",
         "url": "https://open.spotify.com/album/1gKLKKS7zYJJsV0pF1R2f9"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 226560,
       "name": "Our House",
       "url": "https://open.spotify.com/track/6ofrP1AqJbDg5T3NKxcKlG"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 430877,
+      "name": "Isn't It a Pity - 2014 Remaster",
+      "url": "https://open.spotify.com/track/1mBGRVmAV83ahj2HjehcRn"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Gimme Back My Bullets",
-        "url": "https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "All I Can Do Is Write About It",
-      "url": "https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Wings Greatest",
         "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 286346,
       "name": "Mull Of Kintyre",
       "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Gimme Back My Bullets",
+        "url": "https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "All I Can Do Is Write About It",
+      "url": "https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/3AA5tSzFHffDc4UUXCVfj2"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 298840,
       "name": "In The Land Of Grey & Pink",
       "url": "https://open.spotify.com/track/4Z335bGhpA68s6sq40UDfe"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/3AA5tSzFHffDc4UUXCVfj2"
     },
     {
       "added_at": "2023-01-18 22:01:37",

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 63920,
+  "num_followers": 64091,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjEwMywwMDAwMDAwMDI0MmZiZWM2YWQ5OTI5NDFjYzM4MmEyYjkzMzgwNjM1",
+  "snapshot_id": "MTY1MDkxNjEwMywwMDAwMDAwMGE5ZTY0NDZjYjAxMmVjNGI0Mjg4YmQ5MjEwNjViYmQy",
   "tracks": [
     {
       "added_at": "2022-03-29 19:14:26",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -203,38 +203,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Rocanrol Bumerang",
-        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
-      },
-      "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Santa Lucia - Remastered 2005",
-      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Recuerdos II",
-        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
@@ -251,6 +219,22 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
+        "name": "Rocanrol Bumerang",
+        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Santa Lucia - Remastered 2005",
+      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
         "name": "Exclusive Ricchi E Poveri - 15 Exitos",
         "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 190564,
       "name": "Sera Porque Te Amo",
       "url": "https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Recuerdos II",
+        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Descanso Dominical (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
+        "name": "Amor prohibido",
+        "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
         }
       ],
-      "duration_ms": 311160,
-      "name": "La Fuerza del Destino",
-      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
+      "duration_ms": 236453,
+      "name": "Yo no te pido la luna (Non voglio mica la luna)",
+      "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
+        "name": "Descanso Dominical (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Tu Pirata Soy Yo",
-      "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
+      "duration_ms": 311160,
+      "name": "La Fuerza del Destino",
+      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Amor prohibido",
-        "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
       },
       "artists": [
         {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 236453,
-      "name": "Yo no te pido la luna (Non voglio mica la luna)",
-      "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
+      "duration_ms": 173560,
+      "name": "Tu Pirata Soy Yo",
+      "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Haciendo Camino",
-        "url": "https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz"
+        "name": "Timbiriche 8",
+        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
         }
       ],
-      "duration_ms": 252839,
-      "name": "Tan Enamorados (Nina Bonita)",
-      "url": "https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9"
+      "duration_ms": 260786,
+      "name": "T\u00fa Y Yo Somos Uno Mismo",
+      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -455,6 +455,22 @@
       "duration_ms": 152600,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/5OiU5DLjmMBF7ELAjIKxCZ"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Haciendo Camino",
+        "url": "https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 252839,
+      "name": "Tan Enamorados (Nina Bonita)",
+      "url": "https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -491,6 +507,22 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
+        "name": "Timbiriche 8",
+        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "\u00c1mame Hasta Con Los Dientes",
+      "url": "https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
         "name": "Bravo Bos\u00e9 - 30 Grandes Exitos",
         "url": "https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS"
       },
@@ -507,34 +539,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Timbiriche 8",
-        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
+        "name": "Mecano",
+        "url": "https://open.spotify.com/album/1OWPlRO2vf9QFXqw4uPy8D"
       },
       "artists": [
         {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 260786,
-      "name": "T\u00fa Y Yo Somos Uno Mismo",
-      "url": "https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0icRKYwFGNIZdLiwVnwFTY"
-      },
-      "artists": [
-        {
-          "name": "Locomia",
-          "url": "https://open.spotify.com/artist/1T8NnxA0fnU3TQ6aiTNNtw"
-        }
-      ],
-      "duration_ms": 348960,
-      "name": "Locomia",
-      "url": "https://open.spotify.com/track/08UjtrYy1Gnm6R9jW97Toi"
+      "duration_ms": 256853,
+      "name": "Me Col\u00e9 en una Fiesta",
+      "url": "https://open.spotify.com/track/170mnGhvEfUmWMuwfhCKaU"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -555,18 +571,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Mecano",
-        "url": "https://open.spotify.com/album/1OWPlRO2vf9QFXqw4uPy8D"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0icRKYwFGNIZdLiwVnwFTY"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Locomia",
+          "url": "https://open.spotify.com/artist/1T8NnxA0fnU3TQ6aiTNNtw"
         }
       ],
-      "duration_ms": 256853,
-      "name": "Me Col\u00e9 en una Fiesta",
-      "url": "https://open.spotify.com/track/170mnGhvEfUmWMuwfhCKaU"
+      "duration_ms": 348960,
+      "name": "Locomia",
+      "url": "https://open.spotify.com/track/08UjtrYy1Gnm6R9jW97Toi"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -651,22 +667,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Timbiriche 8",
-        "url": "https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "\u00c1mame Hasta Con Los Dientes",
-      "url": "https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Sasha",
         "url": "https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "!Volare! The Very Best of the Gipsy Kings",
-        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "Bamboleo",
-      "url": "https://open.spotify.com/track/4EveU9Zb50mjgi5avDNqlK"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 282866,
       "name": "Fuiste un Trozo de Hielo en la Escarcha",
       "url": "https://open.spotify.com/track/5zKq55gTFV7MvS3f9T4Gqu"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "!Volare! The Very Best of the Gipsy Kings",
+        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 203173,
+      "name": "Bamboleo",
+      "url": "https://open.spotify.com/track/4EveU9Zb50mjgi5avDNqlK"
     },
     {
       "added_at": "2022-03-29 19:14:26",

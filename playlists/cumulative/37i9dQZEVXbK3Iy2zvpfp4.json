@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-27",
+      "date_removed": null,
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -5339,6 +5339,24 @@
     },
     {
       "album": {
+        "name": "Memento Mori",
+        "url": "https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238945,
+      "name": "Ghosts Again",
+      "url": "https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf"
+    },
+    {
+      "album": {
         "name": "GigaChad Theme (Phonk House Version)",
         "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
       },
@@ -8034,7 +8052,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 153650,
       "name": "Latyo \u00e9s haze",
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
@@ -8074,7 +8092,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 120433,
       "name": "Lekkere Boterham",
       "url": "https://open.spotify.com/track/1xQ7uibzjdYQ0UsIKhdF5E"
@@ -9354,7 +9372,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
@@ -12262,7 +12280,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 218880,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
@@ -13374,7 +13392,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 166420,
       "name": "Six Lines, Two Dragons, and a Messiah",
       "url": "https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap"
@@ -16362,7 +16380,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
@@ -16532,6 +16550,24 @@
       "duration_ms": 196470,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"
+    },
+    {
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "album": {
@@ -17152,7 +17188,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 300068,
       "name": "zahorela",
       "url": "https://open.spotify.com/track/5CsZipTG0ERDqid17pcMyz"

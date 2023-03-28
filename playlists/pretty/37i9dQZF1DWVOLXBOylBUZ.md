@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de LUDMILA & Piso 21
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,646 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,735 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vem Por Cima](https://open.spotify.com/track/1VeGot9OEjti5tUbd7VuLi) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 3:12 |
-| 2 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 |
-| 3 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 |
+| 1 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 |
+| 2 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 |
+| 3 | [Vem Por Cima](https://open.spotify.com/track/1VeGot9OEjti5tUbd7VuLi) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 3:12 |
 | 4 | [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 |
 | 5 | [Verte de Nuevo](https://open.spotify.com/track/7M8BZVPwEvO66vJCZvBXOY) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:16 |
 | 6 | [Sueltas](https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sueltas](https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [Chiste](https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Chiste](https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA) | 2:51 |
 | 100 | [Anoche llamé](https://open.spotify.com/track/69AGmizjPlRLhOnHqvhZfB) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Legarda](https://open.spotify.com/artist/3XC7vn6odSKiwiRDloI9Vs) | [Anoche llamé](https://open.spotify.com/album/3BuaUFvRBxVEeRoHvYsG1i) | 2:22 |
 
-Snapshot ID: `MTY3OTYyNjgwMCwwMDAwMDAwMDdjOGJkYmIxYjhhODM2ZmQxZDVmNTE4ZDVkY2Y4M2Yw`
+Snapshot ID: `MTY3OTk0NzEyOSwwMDAwMDAwMGYzZjYxZmMzNTI4MTZjMTAyZTU0MTA0YjljNGJkY2Iy`

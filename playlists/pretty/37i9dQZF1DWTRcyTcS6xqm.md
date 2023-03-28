@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,853 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,860 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 35 | [Palace Of The King \- Remastered](https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 3:40 |
 | 36 | [Soul Shake](https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Stompin' Ground](https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti) | 3:59 |
 | 37 | [Best in Town](https://open.spotify.com/track/5sPZH5scVV63witIumgJIa) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:55 |
-| 38 | [Good Time](https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 2:52 |
-| 39 | [Shakin' Shakin' Shakes](https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:50 |
+| 38 | [Shakin' Shakin' Shakes](https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:50 |
+| 39 | [Good Time](https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 2:52 |
 | 40 | [Hail Mighty Caesar](https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:16 |
 | 41 | [Whoop And Holler](https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Stronger For It](https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA) | 2:36 |
 | 42 | [Satisfy My Soul](https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 2:43 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 47 | [She Got Some Money](https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [She Got Some Money](https://open.spotify.com/album/6dvZHqoGgZjlTnNhYRpmjc) | 3:02 |
 | 48 | [Little Juke Joint](https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Show Of Strength](https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3) | 6:00 |
 | 49 | [Big Mama's Soul Food](https://open.spotify.com/track/0PmnHzal7bupGVxxVsWiV9) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Big Mama's Soul Food](https://open.spotify.com/album/7bxcXUEuJWhx1rot455Mlx) | 4:09 |
-| 50 | [Let The Good Time Party Begin](https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5), [Danielia Cotton](https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t), [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [50 \- Just warming up !](https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt) | 4:35 |
+| 50 | [Shake For Me](https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Blues Survivor](https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr) | 6:50 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDQzZDIwZTk4NzZiNjkxMzFmNWEzNjA0YjhmZDIxM2U2`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDI4YmQ4YmNjNDAwY2IxNDNmNDRhNTM4ZmExM2I2ZGU1`

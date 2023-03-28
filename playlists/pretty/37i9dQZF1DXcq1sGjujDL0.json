@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3 pra quem usa a colher de pau como microfone.",
-  "num_followers": 164024,
+  "num_followers": 164054,
   "original_name": "Cantando na Cozinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NzA3NCwwMDAwMDAwMDViNzVhMTkyOWZiMDAzMWViY2ZkOWE4OTA4OTYxNGU4",
+  "snapshot_id": "MTY2NDg5NzA3NCwwMDAwMDAwMGMzNDE4ZTZhN2ZjNDdlY2FjYjFlODM1NDMwZWQzOGIz",
   "tracks": [
     {
       "added_at": "2022-06-30 13:51:59",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 238266,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -367,18 +351,18 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -415,6 +399,22 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -495,22 +511,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "St. Elsewhere",
-        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
-      },
-      "artists": [
-        {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "St. Elsewhere",
+        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 203680,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "Cheryl Lynn (Expanded Edition)",
-        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
-      },
-      "artists": [
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 307946,
-      "name": "Got to Be Real",
-      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 354533,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "Cheryl Lynn (Expanded Edition)",
+        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 307946,
+      "name": "Got to Be Real",
+      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
     },
     {
       "added_at": "2022-06-30 13:51:59",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+        "name": "Daylight Again (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+      "duration_ms": 281000,
+      "name": "Southern Cross - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
     }
   ],
   "unique_name": "Cantando na Cozinha",

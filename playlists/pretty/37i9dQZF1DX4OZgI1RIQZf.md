@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,855 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,947 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 36 | [Skeleton Song](https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 5:07 |
 | 37 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
 | 38 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 |
-| 39 | [Halloween Blues](https://open.spotify.com/track/0LEycyIxbAwwB9U0GgMx39) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [We Need Medicine \(Deluxe Edition\)](https://open.spotify.com/album/6E1stKFODamAR9n0TddMy7) | 3:16 |
-| 40 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
+| 39 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
+| 40 | [Halloween Blues](https://open.spotify.com/track/0LEycyIxbAwwB9U0GgMx39) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [We Need Medicine \(Deluxe Edition\)](https://open.spotify.com/album/6E1stKFODamAR9n0TddMy7) | 3:16 |
 | 41 | [Skeleton Boy](https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU) | 3:33 |
 | 42 | [The Witch](https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Introducing The Sonics](https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv) | 2:38 |
 | 43 | [Highly Suspicious](https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Evil Urges](https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1) | 3:04 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 48 | [Ghost Town](https://open.spotify.com/track/347OA86TbdeTydHhy90blH) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Come Of Age](https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4) | 2:20 |
 | 49 | [Boris The Spider \- Mono Version](https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Expanded Edition\)](https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P) | 2:29 |
 | 50 | [Trick or Treatz](https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Pip Paine \(Pay The £5000 You Owe\)](https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt) | 4:41 |
-| 51 | [A Girl Like You](https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [A Girl Like You](https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4) | 3:12 |
-| 52 | [So Haunted](https://open.spotify.com/track/63MaRhpygmnQk38HQU1gse) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:26 |
+| 51 | [So Haunted](https://open.spotify.com/track/63MaRhpygmnQk38HQU1gse) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:26 |
+| 52 | [A Girl Like You](https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [A Girl Like You](https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4) | 3:12 |
 | 53 | [Zombie Prom](https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Zombie Prom \(Hallowe'en At Home Edition\)](https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW) | 3:38 |
 | 54 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 | 55 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 64 | [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 |
 | 65 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
 
-Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMGYwYTkwNDI3NDQxMzc0Mzk5MzMxYWM0YWQwNjE1NDQw`
+Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMGI5YzIxYTk0MjNkYzAyNTM4NmYxMGRiYjE0Y2Q1OTlk`

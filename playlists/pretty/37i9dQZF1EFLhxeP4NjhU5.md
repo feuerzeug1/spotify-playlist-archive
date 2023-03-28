@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 904 likes - 164 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 905 likes - 164 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 117 | [Lamento Tu Perdida](https://open.spotify.com/track/1c47gRjNPik1Y9u9m4ZssL) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 2:41 |
 | 118 | [Corazón De Metal](https://open.spotify.com/track/0jpOYcaDlWUD1c4IlI2DJX) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [La Movida](https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM) | 3:53 |
 | 119 | [Amigos Na' Mas](https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 |
-| 120 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 |
-| 121 | [TO' ESTO ES TUYO](https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [TO' ESTO ES TUYO](https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn) | 3:13 |
+| 120 | [TO' ESTO ES TUYO](https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [TO' ESTO ES TUYO](https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn) | 3:13 |
+| 121 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 |
 | 122 | [Inmoral](https://open.spotify.com/track/46gbEJEggbwei6Jo9upjCc) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:57 |
 | 123 | [OTRA NO](https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:32 |
 | 124 | [Como la Primera Vez](https://open.spotify.com/track/0UEtBB5XmhnvHJFYQhAFEH) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Como la Primera Vez](https://open.spotify.com/album/0pmiKB4we2oro8peDqzs5c) | 4:20 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 163 | [Rally](https://open.spotify.com/track/0snt078vtq4zd5F1K1zSOF) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:28 |
 | 164 | [Fire](https://open.spotify.com/track/6fGjKSs0onPKmsjA4ZwDPp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Mr.Phillips](https://open.spotify.com/artist/500Pu8sBollg8xWSu9TR3E) | [The Last Album](https://open.spotify.com/album/30t1kkG1NrdaCnr4NppWzs) | 3:45 |
 
-Snapshot ID: `Mjc5OTc5MjEsMDAwMDAwMDA0ZWExYTM2NWZmZmI2ODYxZDQ4ZTRkYjk5YjEzMGY1Zg==`
+Snapshot ID: `Mjc5OTkzNjEsMDAwMDAwMDBiOTFhYzExYTQ1YWNjOWI2ZWEyNTkwYjk1OTA5MzFkYQ==`

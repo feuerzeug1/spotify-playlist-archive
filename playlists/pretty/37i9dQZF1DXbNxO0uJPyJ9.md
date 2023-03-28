@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,084 likes - 80 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,234 likes - 80 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 12 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 |
 | 13 | [Rhythm Is A Dancer \- 12'' Version](https://open.spotify.com/track/6NLAzDPHSlV2bl7XbmivOq) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [Rhythm Is a Dancer 2008](https://open.spotify.com/album/0fCSmPLktcURKcwkO06qeN) | 5:16 |
 | 14 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
-| 15 | [Sounds Like a Melody \- 2019 Remaster](https://open.spotify.com/track/4yDCTzaFfr7YOuYKpwgidL) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:46 |
-| 16 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 |
+| 15 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 |
+| 16 | [Sounds Like a Melody \- 2019 Remaster](https://open.spotify.com/track/4yDCTzaFfr7YOuYKpwgidL) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:46 |
 | 17 | [I Feel Love \- 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 8:15 |
 | 18 | [1999 \- 2019 Remaster](https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 6:13 |
 | 19 | [Red Red Wine](https://open.spotify.com/track/1tOE1dIyIjsfLJWiQ4ZRJW) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love](https://open.spotify.com/album/5kxx0oDspXVyGCOjdDjSFi) | 5:20 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 75 | [Vogue \- 12" Version](https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Vogue](https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX) | 8:21 |
 | 76 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
 | 77 | [Precious Little Diamond \- 12" Mix](https://open.spotify.com/track/2IilSSaVhuQLjCqlubC4qE) | [Fox the Fox](https://open.spotify.com/artist/7fcUoP9P3QEP2m8jdQWTh9) | [Collections](https://open.spotify.com/album/4zEi9uAv9KKrYTG2bLDeCT) | 5:09 |
-| 78 | [Pulstar](https://open.spotify.com/track/617Q6rtyEGRhWGCPRYFs1x) | [Hypnosis](https://open.spotify.com/artist/7GlFV8o2NCkvCu29FMZkUb) | [80s Hit News](https://open.spotify.com/album/5nROXEanX68PMIOLdAw91D) | 3:49 |
-| 79 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:48 |
-| 80 | [Like a Virgin \- Extended Dance Remix](https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
+| 78 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:48 |
+| 79 | [Pulstar](https://open.spotify.com/track/617Q6rtyEGRhWGCPRYFs1x) | [Hypnosis](https://open.spotify.com/artist/7GlFV8o2NCkvCu29FMZkUb) | [80s Hit News](https://open.spotify.com/album/5nROXEanX68PMIOLdAw91D) | 3:49 |
+| 80 | [White Lines \(Long Version\) \[Re\-Recorded\]](https://open.spotify.com/track/0Dj3iMM3fvHMOqWsqS64Fu) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [Hip Hop Soundtrack To The Concrete Jungle \(Re\-Recorded\)](https://open.spotify.com/album/5bl0ggdoV1nNEGuVkUG9c3) | 7:45 |
 
-Snapshot ID: `MTY3MTgwNDIyOCwwMDAwMDAwMDZjNTI5MDM2YWVkYzBkMzZiNWZkOGVhZThiNjdjMTI2`
+Snapshot ID: `MTY3MTgwNDIyOCwwMDAwMDAwMDE1YWU4MzI4Mzc2YTBhZGMwNmEyOWZhOTNjOTU5NTYz`

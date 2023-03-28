@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,204 likes - 48 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,204 likes - 47 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,6 +55,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 45 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
 | 46 | [Avenue of Shapes](https://open.spotify.com/track/6x9zUu9p3rHOl5eEgfHjsA) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:27 |
 | 47 | [Deva C](https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:51 |
-| 48 | [Ice Floes In Eden](https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 3:28 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDBjYjVjNmQ1OGYzMTBkZTYzYzc0ZGUzYWRlNjE0MmI0Mg==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDA0ZWE4ODc4YmRjYzlmZDU4YjdkMjUzM2ExM2VjN2ZjYg==`

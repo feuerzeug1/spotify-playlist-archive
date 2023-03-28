@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 192488,
+  "num_followers": 192549,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MzE2OSwwMDAwMDAwMDI1MDQ0MGQwMjhjZDk0MzIxNzZlOGVkZTNiMjQ4YTY5",
+  "snapshot_id": "MTY3Njk5MzE2OSwwMDAwMDAwMDJjNTAyYzkwYTFmYWM0MmZhZDQ3M2E3Zjc1ZmNiYjc4",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 351466,
-      "name": "End Of The Road",
-      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 351466,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 261573,
       "name": "My Love Is Your Love",
       "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 306560,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Lean on Me: The Best of Bill Withers",
-        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Every Home Should Have One",
         "url": "https://open.spotify.com/album/6j8fP0fRB4TqeJiNJdSVlU"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 215386,
       "name": "Baby, Come To Me",
       "url": "https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Lean on Me: The Best of Bill Withers",
+        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Day Dreaming",
+      "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Young, Gifted and Black",
-        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Day Dreaming",
-      "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 275226,
       "name": "Love Ballad",
       "url": "https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "High Crime",
+        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "High Crime",
-        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 259532,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Let's Get It On (Expanded Edition)",
         "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 255986,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Float On - Single Version",
-      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Float On - Single Version",
+      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Original Musiquarium",
         "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "After Midnight (Expanded Version)",
-        "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 281853,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Car Wash",
         "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 238200,
       "name": "I Wanna Get Next To You",
       "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "After Midnight (Expanded Version)",
+        "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Street Called Desire (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3pUaS5txjbE7K6LwdTTay5"
+        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
+        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
       },
       "artists": [
         {
-          "name": "Rene & Angela",
-          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
         }
       ],
-      "duration_ms": 255973,
-      "name": "Your Smile",
-      "url": "https://open.spotify.com/track/7GPd68coLrQ0prQcbceWkG"
+      "duration_ms": 270760,
+      "name": "Almaz",
+      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Every Kind Of Mood (Randy, Randi, Randee)",
-        "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
+        "name": "Street Called Desire (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3pUaS5txjbE7K6LwdTTay5"
       },
       "artists": [
         {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+          "name": "Rene & Angela",
+          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
         }
       ],
-      "duration_ms": 270760,
-      "name": "Almaz",
-      "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
+      "duration_ms": 255973,
+      "name": "Your Smile",
+      "url": "https://open.spotify.com/track/7GPd68coLrQ0prQcbceWkG"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "The Best Of The Stylistics and More 30th Anniversary Edition",
-        "url": "https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "People Make The World Go Round",
-      "url": "https://open.spotify.com/track/0JB6XDnV6U6M9U6j4VotoH"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Jewels In The Crown",
         "url": "https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi"
       },
@@ -1903,6 +1887,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Color Rit (Remastered)",
+        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "I Can\u2019t Let Go - Remastered",
+      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Al Wilson",
         "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
       },
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Color Rit (Remastered)",
-        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
+        "name": "The Best Of The Stylistics and More 30th Anniversary Edition",
+        "url": "https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW"
       },
       "artists": [
         {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 256173,
-      "name": "I Can\u2019t Let Go - Remastered",
-      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+      "duration_ms": 211560,
+      "name": "People Make The World Go Round",
+      "url": "https://open.spotify.com/track/0JB6XDnV6U6M9U6j4VotoH"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1999,18 +1999,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+        "name": "Golden Time Of Day (Remastered)",
+        "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
       },
       "artists": [
         {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
         }
       ],
-      "duration_ms": 138893,
-      "name": "Ebony Eyes",
-      "url": "https://open.spotify.com/track/63oCradne6LGBBo4MxIQwq"
+      "duration_ms": 333666,
+      "name": "Golden Time Of Day - Remastered",
+      "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2033,27 +2037,7 @@
       "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
     },
     {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Golden Time Of Day (Remastered)",
-        "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
-      },
-      "artists": [
-        {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
-        }
-      ],
-      "duration_ms": 333666,
-      "name": "Golden Time Of Day - Remastered",
-      "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
-    },
-    {
-      "added_at": "2023-03-27 01:30:19",
+      "added_at": "2023-03-28 01:30:35",
       "album": {
         "name": "Take Care",
         "url": "https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7"
@@ -2087,6 +2071,22 @@
       "duration_ms": 316893,
       "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
       "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Ebony Eyes",
+      "url": "https://open.spotify.com/track/63oCradne6LGBBo4MxIQwq"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "This Could Be Real",
-      "url": "https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Givin' It Up",
         "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 301000,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "This Could Be Real",
+      "url": "https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Come Share My Love",
+        "url": "https://open.spotify.com/album/0qBTPs9JvnVolUM4zvAoCf"
+      },
+      "artists": [
+        {
+          "name": "Miki Howard",
+          "url": "https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh"
+        }
+      ],
+      "duration_ms": 290533,
+      "name": "Come Share My Love",
+      "url": "https://open.spotify.com/track/2tEifcUedZAkWUnRB1O4E5"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "There's No Me Without You (Expanded Edition)",
         "url": "https://open.spotify.com/album/6nGP2C8BMkIqnVyPzXSUFr"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 309226,
       "name": "I'm Back for More",
       "url": "https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Come Share My Love",
-        "url": "https://open.spotify.com/album/0qBTPs9JvnVolUM4zvAoCf"
-      },
-      "artists": [
-        {
-          "name": "Miki Howard",
-          "url": "https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh"
-        }
-      ],
-      "duration_ms": 290533,
-      "name": "Come Share My Love",
-      "url": "https://open.spotify.com/track/2tEifcUedZAkWUnRB1O4E5"
     },
     {
       "added_at": "2022-05-11 12:25:18",

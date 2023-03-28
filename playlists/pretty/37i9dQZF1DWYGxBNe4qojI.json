@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: 50 Cent",
-  "num_followers": 292121,
+  "num_followers": 292656,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIxMjkwMSwwMDAwMDAwMDE0ZTE5N2M2MTQ4NmFjYTYxZmI2NDg0NjQyMGE3MjU2",
+  "snapshot_id": "MTY3NTIxMjkwMSwwMDAwMDAwMDcxNmQyODk1NGRjMzUwOTNkYTNmOWNkNTBhYmQ5YmI0",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
     },
     {
-      "added_at": "2023-03-27 01:07:31",
+      "added_at": "2023-03-28 00:10:36",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Hypnotize - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -199,22 +183,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Survival of the Fittest",
-      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
       },
@@ -247,8 +215,8 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
       "artists": [
         {
@@ -256,9 +224,41 @@
           "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Survival of the Fittest",
+      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -307,22 +307,6 @@
       "duration_ms": 291066,
       "name": "Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",
       "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Many Men (Wish Death)",
-      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -395,6 +379,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
@@ -429,7 +429,23 @@
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
     },
     {
-      "added_at": "2023-03-27 01:07:31",
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Poverty's Paradise (25th Anniversary - Remastered)",
+        "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "Feel Me Flow",
+      "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
+    },
+    {
+      "added_at": "2023-03-28 00:10:36",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -447,30 +463,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        }
-      ],
-      "duration_ms": 257399,
-      "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
-      "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
@@ -483,22 +475,6 @@
       "duration_ms": 252600,
       "name": "Represent",
       "url": "https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Poverty's Paradise (25th Anniversary - Remastered)",
-        "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Feel Me Flow",
-      "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -535,6 +511,30 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Hard To Earn",
         "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 221026,
       "name": "Mass Appeal",
       "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 366880,
-      "name": "Notorious Thugs - 2014 Remaster",
-      "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -651,22 +635,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
-      },
-      "artists": [
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "Brooklyn Zoo",
-      "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Only Built 4 Cuban Linx...",
         "url": "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
       },
@@ -695,6 +663,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "Brooklyn Zoo",
+      "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Life Story",
         "url": "https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 366880,
+      "name": "Notorious Thugs - 2014 Remaster",
+      "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Illadelph Halflife",
         "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Diplomatic Immunity",
+        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
+      },
+      "artists": [
+        {
+          "name": "The Diplomats",
+          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
+        }
+      ],
+      "duration_ms": 249040,
+      "name": "Dipset Anthem",
+      "url": "https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -759,22 +775,6 @@
       "duration_ms": 229373,
       "name": "Loungin (Who Do Ya Luv) - Remix",
       "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Diplomatic Immunity",
-        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
-      },
-      "artists": [
-        {
-          "name": "The Diplomats",
-          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
-        }
-      ],
-      "duration_ms": 249040,
-      "name": "Dipset Anthem",
-      "url": "https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa"
     },
     {
       "added_at": "2022-10-28 04:00:00",

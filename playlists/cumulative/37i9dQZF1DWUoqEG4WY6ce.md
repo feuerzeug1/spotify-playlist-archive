@@ -4,7 +4,7 @@
 
 > Hop in.
 
-310 songs - 19 hr 56 min
+311 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-09-02 |  |
 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2022-07-03 | 2022-10-13 |
 | [1901](https://open.spotify.com/track/5JtPGzRgrWxkXX9LoROq3d) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/6YXmQrXOjJoMheJ2IA5NqK) | 3:13 | 2021-10-09 | 2022-07-28 |
+| [3D Country](https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4) | 5:13 | 2023-03-27 |  |
 | [A\-Punk](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 2:17 | 2020-10-29\* | 2021-10-16 |
 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2022-07-03 |  |
 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 | 2022-07-03 |  |
@@ -200,7 +201,7 @@
 | [Oom Sha La La](https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 2:57 | 2020-10-29\* | 2022-07-29 |
 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 | 2022-09-27 | 2023-03-22 |
 | [Ophelia](https://open.spotify.com/track/3qhobDAfBcVoOWZP8Ck8R2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Ophelia](https://open.spotify.com/album/6lyCWslIfNEmAWe6ps2KNh) | 2:40 | 2021-10-10 | 2021-10-16 |
-| [Outer Banks](https://open.spotify.com/track/0MirXZ0Mt24Dw8ZH2bG7sz) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Outer Banks](https://open.spotify.com/album/7kODNL79h9WgsfeBbglRI2) | 3:43 | 2023-03-06 |  |
+| [Outer Banks](https://open.spotify.com/track/0MirXZ0Mt24Dw8ZH2bG7sz) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Outer Banks](https://open.spotify.com/album/7kODNL79h9WgsfeBbglRI2) | 3:43 | 2023-03-06 | 2023-03-28 |
 | [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 | 2022-05-04 |  |
 | [Oxford Comma](https://open.spotify.com/track/1CZw0Lymzi2Lvy1XZ6rXh5) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 3:15 | 2022-05-04 | 2022-07-29 |
 | [Packed Powder](https://open.spotify.com/track/4JbKTG0iQ41As64aMNKkit) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [Packed Powder](https://open.spotify.com/album/7n5cBc4GxUh8ZAzzkWcNgS) | 3:36 | 2021-01-15 | 2022-05-22 |

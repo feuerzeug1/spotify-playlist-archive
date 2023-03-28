@@ -4,7 +4,7 @@
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!
 
-211 songs - 11 hr 47 min
+212 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Better Than Real Life](https://open.spotify.com/track/2M6cDSP1uMGkSQsl9KqRPw) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Better Than Real Life](https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng) | 2:13 | 2022-06-03 | 2023-01-07 |
 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv) | 3:01 | 2022-06-03 |  |
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-06-03 |  |
+| [Blonde](https://open.spotify.com/track/1HuujiW4Juu0OcxvueBY2E) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Blonde](https://open.spotify.com/album/1kKazJ5YxsH7iV351nvXfs) | 3:22 | 2023-03-27 |  |
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-23 | 2023-01-07 |
 | [Boys In Boots](https://open.spotify.com/track/4RF5esexSW7Pc4qOTlAPLA) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Boys In Boots](https://open.spotify.com/album/0afJB6vLFBo59YpUJpjQ1P) | 2:54 | 2023-01-23 |  |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-01 |  |

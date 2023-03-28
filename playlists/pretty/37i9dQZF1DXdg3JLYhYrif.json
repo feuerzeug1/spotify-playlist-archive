@@ -1,12 +1,12 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 304945,
+  "num_followers": 304997,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNTE0NywwMDAwMDAwMDEyZjEyMTRjNzk1NGE0YjUwNzE4MzA2YWQxYzlhNDhi",
+  "snapshot_id": "MTY3NDgzNTE0NywwMDAwMDAwMDlmMGI0NzQ4ZDNmNDc1YmFjNmU4YTBhNGEwZTUyOWJi",
   "tracks": [
     {
       "added_at": "2022-03-24 13:07:25",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Na Balada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4urZPIaswCaFNXZoZ3adkw"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        }
+      ],
+      "duration_ms": 170493,
+      "name": "Ai Se Eu Te Pego - Ao Vivo",
+      "url": "https://open.spotify.com/track/46aIq2GKW7Vr6i4g2Vvycd"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
         "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
@@ -143,50 +159,6 @@
       "duration_ms": 180921,
       "name": "Apaixonadinha - Ao Vivo",
       "url": "https://open.spotify.com/track/0rUL7vUZmCKxB0gS83W3aM"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Na Balada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4urZPIaswCaFNXZoZ3adkw"
-      },
-      "artists": [
-        {
-          "name": "Michel Tel\u00f3",
-          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
-        }
-      ],
-      "duration_ms": 170493,
-      "name": "Ai Se Eu Te Pego - Ao Vivo",
-      "url": "https://open.spotify.com/track/46aIq2GKW7Vr6i4g2Vvycd"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Bola Rebola",
-        "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
-      },
-      "artists": [
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "Bola Rebola",
-      "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -235,6 +207,34 @@
       "duration_ms": 156921,
       "name": "Cobertor de Orelha - Ao Vivo",
       "url": "https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Bola Rebola",
+        "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
+      },
+      "artists": [
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "Bola Rebola",
+      "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "O Nosso Santo Bateu - Live",
+      "url": "https://open.spotify.com/track/5C0wi5U4l0YUv7yIKe2TEe"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "Diversoficando",
         "url": "https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 177093,
       "name": "Hoje Eu Vou Parar Na Gaiola",
       "url": "https://open.spotify.com/track/2u2T2sB5Geli45Wh7r4lhr"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "O Nosso Santo Bateu - Live",
-      "url": "https://open.spotify.com/track/5C0wi5U4l0YUv7yIKe2TEe"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Fazer Falta",
-        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Fazer Falta",
-      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Surtada (Remix Brega Funk)",
         "url": "https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 152783,
       "name": "Surtada - Remix Brega Funk",
       "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Fazer Falta",
+        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Fazer Falta",
+      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "N\u00e3o sou obrigada",
-        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 148340,
-      "name": "N\u00e3o sou obrigada",
-      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "N\u00e3o sou obrigada",
+        "url": "https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 148340,
+      "name": "N\u00e3o sou obrigada",
+      "url": "https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Bebe e Vem Me Procurar",
-        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 154291,
-      "name": "Bebe e Vem Me Procurar",
-      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Deu Onda",
         "url": "https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 143800,
       "name": "Deu Onda",
       "url": "https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Bebe e Vem Me Procurar",
+        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 154291,
+      "name": "Bebe e Vem Me Procurar",
+      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
     },
     {
       "added_at": "2022-03-24 13:07:25",

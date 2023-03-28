@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 138928,
+  "num_followers": 138975,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDkwZjNlMThmODA4MzUzZTM0MGRmYzM4MTI2NjZjOWNm",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGI2NGZlMDk1MjZlMDRlNTlhYTZmYjQ3NDc4YzQwMjQ0",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Sonido Subtropical",
-        "url": "https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 310295,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3"
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "Sonido Subtropical",
+        "url": "https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+      "duration_ms": 310295,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
       "artists": [
         {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         }
       ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
+      "duration_ms": 247893,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 267826,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "La Noche",
         "url": "https://open.spotify.com/album/06Z89FVJ5rOZKw3wRRAexV"
       },
@@ -503,6 +503,26 @@
       "duration_ms": 208057,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/1WyoLJHC6VJKX9DeLUEaTr"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -555,26 +575,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Guaracha Sabrosona",
         "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
       },
@@ -623,6 +623,26 @@
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "C\u00f3mo Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Mis Sentimientos",
+      "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -695,46 +715,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "C\u00f3mo Te Voy a Olvidar",
-        "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Mis Sentimientos",
-      "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s",
         "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 207516,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -811,22 +811,6 @@
       "duration_ms": 198306,
       "name": "Amores como el nuestro",
       "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "EL Gil De Tu Ex",
-      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -887,26 +871,34 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Perrito Malvado",
-        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Marita",
-          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 280895,
-      "name": "Perrito Malvado",
-      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
+      "duration_ms": 212754,
+      "name": "Me Enamore",
+      "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "EL Gil De Tu Ex",
+      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -927,18 +919,26 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+        "name": "Perrito Malvado",
+        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
       "artists": [
         {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Marita",
+          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
         }
       ],
-      "duration_ms": 212754,
-      "name": "Me Enamore",
-      "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
+      "duration_ms": 280895,
+      "name": "Perrito Malvado",
+      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Guarachando",
-        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 244413,
-      "name": "Coraz\u00f3n Solitario",
-      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "No Me Arrepiento De Este Amor",
         "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 227373,
       "name": "No Me Arrepiento de Este Amor",
       "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 244413,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Grupo Play (La poes\u00eda musical)",
-        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Llora me llama",
-      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Vol\u00f3 la Paloma",
         "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 290120,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Grupo Play (La poes\u00eda musical)",
+        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Llora me llama",
+      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Un Homenaje al Cielo",
         "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 212533,
       "name": "Tramposa y Mentirosa",
       "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
       "artists": [
         {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
         }
       ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "15A\u00f1ero",
-        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
-      },
-      "artists": [
-        {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Para dormir contigo otra vez",
-      "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Furia Loca",
-        "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
-      },
-      "artists": [
-        {
-          "name": "La Gran Magia Tropical",
-          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
-        }
-      ],
-      "duration_ms": 190970,
-      "name": "Furia Loca (Mujer C\u00f3smica)",
-      "url": "https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "A\u00fan Sigue La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG"
       },
@@ -1451,18 +1419,34 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Los Reyes De Los Sonidos",
-        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+        "name": "Furia Loca",
+        "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
       },
       "artists": [
         {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+          "name": "La Gran Magia Tropical",
+          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
         }
       ],
-      "duration_ms": 216613,
-      "name": "El Paso Del Gigante",
-      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+      "duration_ms": 190970,
+      "name": "Furia Loca (Mujer C\u00f3smica)",
+      "url": "https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "15A\u00f1ero",
+        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Para dormir contigo otra vez",
+      "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Los Reyes De Los Sonidos",
+        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "El Paso Del Gigante",
+      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "La Fiesta es de Nosotros",
-        "url": "https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT"
-      },
-      "artists": [
-        {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
-        }
-      ],
-      "duration_ms": 272044,
-      "name": "Serenata cruel",
-      "url": "https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "La Fiesta es de Nosotros",
+        "url": "https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "duration_ms": 272044,
+      "name": "Serenata cruel",
+      "url": "https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "15A\u00f1ero",
-        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
-      },
-      "artists": [
-        {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Prisionera",
-      "url": "https://open.spotify.com/track/1aQsmA0kB65bp19qG8WfxD"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "No Est\u00e1 en la Flecha Sino en el Indio",
         "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 185453,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "15A\u00f1ero",
+        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Prisionera",
+      "url": "https://open.spotify.com/track/1aQsmA0kB65bp19qG8WfxD"
     },
     {
       "added_at": "2023-02-10 03:00:00",

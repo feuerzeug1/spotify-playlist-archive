@@ -4,7 +4,7 @@
 
 > Si tocan a una respondemos todas.
 
-65 songs - 3 hr 47 min
+66 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Historika](https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU) | 4:26 | 2023-03-10 |  |
 | [La Cumbia Feminazi](https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG) | [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [La Cumbia Feminazi](https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p) | 3:49 | 2023-03-10 |  |
 | [La Fortaleza](https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 3:55 | 2023-03-10 |  |
-| [La Loba \(Trooko Remix\)](https://open.spotify.com/track/4h1Y0K73QoylJoXQAnUikz) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/3hUyUAq0S8ccXaHsRGXXwa) | 4:16 | 2023-03-10 |  |
+| [La Loba \(Trooko Remix\)](https://open.spotify.com/track/4h1Y0K73QoylJoXQAnUikz) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/3hUyUAq0S8ccXaHsRGXXwa) | 4:16 | 2023-03-10 | 2023-03-28 |
 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 | 2023-03-10 |  |
 | [Libres](https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Libres](https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye) | 3:41 | 2023-03-10 |  |
 | [Lisístrata](https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG) | 3:57 | 2023-03-10 |  |
@@ -72,6 +72,7 @@
 | [Somos Hermanas](https://open.spotify.com/track/3SW2TbBtYupZDVeHiiAku5) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Sof Tot](https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [Somos Hermanas](https://open.spotify.com/album/2VdoxpDbGIyzgXJDMyKSPR) | 4:25 | 2023-03-10 |  |
 | [Sororidad](https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestión y Resistencia](https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W) | 3:40 | 2023-03-10 |  |
 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 | 2023-03-10 |  |
+| [Tenemos Voz](https://open.spotify.com/track/6f8kxxFWgxesyVsrbHn0Sh) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [SUELTA](https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP) | 3:43 | 2023-03-10 |  |
 | [Volando en la Nube](https://open.spotify.com/track/4kDO7SsBLzlXXNl1bKozFn) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la Nube](https://open.spotify.com/album/2dopJK4bzSHttm5bxMd495) | 3:11 | 2023-03-10 |  |
 
 \*This playlist was first scraped on 2023-03-25. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Dale play, y que la cumbia no pare.
 
-141 songs - 8 hr 29 min
+142 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 | 2022-04-15 |  |
 | [Eres Mi Amor](https://open.spotify.com/track/6EYjGhtDE4kuCg8aVsl1wE) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Eres Mi Amor](https://open.spotify.com/album/5b3RpCBKpJae2pzAhGDwnm) | 3:00 | 2022-04-15 | 2022-07-27 |
 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 | 2022-04-15 |  |
+| [Esa Te Dejó](https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Regalo de Dios](https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1) | 2:58 | 2023-03-27 |  |
 | [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 | 2022-04-15 | 2023-03-12 |
 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 | 2023-03-10 |  |
 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2022-04-15 |  |
@@ -54,7 +55,7 @@
 | [La Cumbita](https://open.spotify.com/track/4De1d3fqH4Pnb6K20sRVBa) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [Grandes Exitos](https://open.spotify.com/album/2wmLRAy98OUv8l5OXFSE2L) | 3:14 | 2022-04-15 | 2022-07-29 |
 | [La Falta de Tu Amor](https://open.spotify.com/track/7BR0T8W4U86LiafL6kxJuZ) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [La Falta de Tu Amor](https://open.spotify.com/album/0Ij1GlQnetqoz51wtvkmRO) | 3:12 | 2022-04-15 | 2022-06-11 |
 | [La Mejor de Todas / Vienes y Te Vas / Toma la Mema](https://open.spotify.com/track/2kEo5e4AuF1hcV4D4UO8R0) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [La Mejor de Todas / Vienes y Te Vas / Toma la Mema](https://open.spotify.com/album/1yE0Oyk1DKqrZc5f9ELQCl) | 7:40 | 2022-04-15 | 2022-07-15 |
-| [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2022-04-15 |  |
+| [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2022-04-15 | 2023-03-28 |
 | [La pollera amarilla](https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE), [Gladys La Bomba Tucumana](https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ) | [Un sueño hecho realidad](https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj) | 3:06 | 2022-04-15 | 2023-03-14 |
 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 | 2022-04-15 |  |
 | [La Pollera Colorada](https://open.spotify.com/track/0v1f1x1F0ktGyX1sNfhHq7) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Imbatibles](https://open.spotify.com/album/4K2hBLfgSLYfJowi58zWCb) | 2:50 | 2022-04-15 | 2022-08-02 |

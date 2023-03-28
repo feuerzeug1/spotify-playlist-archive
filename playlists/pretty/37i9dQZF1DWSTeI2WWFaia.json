@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Armani Caesar",
-  "num_followers": 1605533,
+  "num_followers": 1605621,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDYxYWQ0NWM1MjRmZmQ3OTExODhlYmZlYmYzZjA5ODRh",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGU3Y2M4NDY3OTViZmJkY2JjOTQ0ZTBiZDBmYzQ4NTc3",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Devil's Work 2",
-        "url": "https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        }
-      ],
-      "duration_ms": 301445,
-      "name": "Devil's Work 2",
-      "url": "https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 224466,
       "name": "Savior",
       "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Devil's Work 2",
+        "url": "https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 301445,
+      "name": "Devil's Work 2",
+      "url": "https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "60 Days",
-        "url": "https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 199498,
-      "name": "60 Days",
-      "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "A Quarter Til",
         "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
       },
@@ -415,26 +395,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Wake Up (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Wake Up (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },
@@ -471,6 +431,46 @@
       "duration_ms": 209864,
       "name": "Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)",
       "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "60 Days",
+        "url": "https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 199498,
+      "name": "60 Days",
+      "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Wake Up (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Wake Up (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "I Still Don't Cry",
-        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I Still Don't Cry",
-      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 108387,
       "name": "In my lifetime (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "I Still Don't Cry",
+        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I Still Don't Cry",
+      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Live At The Novo",
+        "url": "https://open.spotify.com/album/4WHyqGqxCHQRnn56JCYuhg"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 83514,
+      "name": "Cold As Love",
+      "url": "https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Dark Hearted",
         "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Live At The Novo",
-        "url": "https://open.spotify.com/album/4WHyqGqxCHQRnn56JCYuhg"
+        "name": "Spread The Opps",
+        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
       },
       "artists": [
         {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 83514,
-      "name": "Cold As Love",
-      "url": "https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW"
+      "duration_ms": 181795,
+      "name": "Spread The Opps",
+      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -819,18 +835,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Spread The Opps",
-        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 181795,
-      "name": "Spread The Opps",
-      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
+      "duration_ms": 156972,
+      "name": "Ghetto Reporter",
+      "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -847,22 +863,6 @@
       "duration_ms": 142409,
       "name": "Wimbledon",
       "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 156972,
-      "name": "Ghetto Reporter",
-      "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Church Clothes 4",
+        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Still In America",
+      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Cocodrillo Turbo",
         "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 163733,
       "name": "247",
       "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Bobby Tarantino III",
-        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 116829,
-      "name": "Theme For The People",
-      "url": "https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE"
     }
   ],
   "unique_name": "Spilled Ink",

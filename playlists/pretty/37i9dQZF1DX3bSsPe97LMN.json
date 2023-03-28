@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Rub\u00e9n Figueroa en portada.",
-  "num_followers": 51747,
+  "num_followers": 51789,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMDMwZGE5NWE0N2FiYWM2ZDZiNTJiMWQ5NzZlNjE1ZjEz",
+  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMDc5MDRkYmUyZmI5ZTEwY2ZkZmM1NDE4OGZlY2I5MjQ5",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
+        "name": "Ni Modo Que Sea Mentira",
+        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 183934,
+      "name": "El Gallo Negro",
+      "url": "https://open.spotify.com/track/76usisYYCiUistKv5mpWO0"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
         "name": "Yo Soy El Bueno (En Vivo)",
         "url": "https://open.spotify.com/album/3aDn1xUk7p7Ec9CCgl1NtY"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 176613,
       "name": "Yo Soy El Bueno - En Vivo",
       "url": "https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Ni Modo Que Sea Mentira",
-        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 183934,
-      "name": "El Gallo Negro",
-      "url": "https://open.spotify.com/track/76usisYYCiUistKv5mpWO0"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
         "name": "Pa Que Ordene y Mande",
         "url": "https://open.spotify.com/album/7aRQCuOu5zMNi2Y1AphjPY"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "Un Gallito",
         "url": "https://open.spotify.com/album/5YmoiDDH7cL9R1DA1W1iGZ"
       },
@@ -775,6 +775,26 @@
       "duration_ms": 182453,
       "name": "Un Gallito",
       "url": "https://open.spotify.com/track/05zSBtOKH2ROvTGq1cQs6s"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "El Sera Y El Chavo",
+        "url": "https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "El Sera Y El Chavo",
+      "url": "https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -823,26 +843,6 @@
       "duration_ms": 163824,
       "name": "Traigo Un Equip\u00f3n",
       "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "El Sera Y El Chavo",
-        "url": "https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "El Sera Y El Chavo",
-      "url": "https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Barba De Herencia",
-        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 204675,
-      "name": "Barba De Herencia",
-      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "Ese Fui Yo",
         "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 248117,
       "name": "Eres",
       "url": "https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Barba De Herencia",
+        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 204675,
+      "name": "Barba De Herencia",
+      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Sigo De Pie (En Vivo)",
-        "url": "https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 200187,
-      "name": "Sigo De Pie (En Vivo)",
-      "url": "https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "El Flaco",
         "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
       },
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
+        "name": "Sigo De Pie (En Vivo)",
+        "url": "https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 200187,
+      "name": "Sigo De Pie (En Vivo)",
+      "url": "https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
         "name": "Soy Nayarita",
         "url": "https://open.spotify.com/album/3DTxuAjvu0P7tZlEmdA6Pv"
       },
@@ -1095,6 +1095,26 @@
       "duration_ms": 189052,
       "name": "Soy Nayarita",
       "url": "https://open.spotify.com/track/0YkJpBbsTm7oY7jfqrFZ6A"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Somos de la Mayiza (El Checo)",
+        "url": "https://open.spotify.com/album/1aGbaVQ2bC4F1egBPyqN04"
+      },
+      "artists": [
+        {
+          "name": "Herencia Del Cartel",
+          "url": "https://open.spotify.com/artist/5oM5epBqQmd0FZlhJcpCdH"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 143683,
+      "name": "Somos de la Mayiza (El Checo)",
+      "url": "https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1119,22 +1139,18 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Somos de la Mayiza (El Checo)",
-        "url": "https://open.spotify.com/album/1aGbaVQ2bC4F1egBPyqN04"
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
       },
       "artists": [
-        {
-          "name": "Herencia Del Cartel",
-          "url": "https://open.spotify.com/artist/5oM5epBqQmd0FZlhJcpCdH"
-        },
         {
           "name": "Los Chavalitos",
           "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
         }
       ],
-      "duration_ms": 143683,
-      "name": "Somos de la Mayiza (El Checo)",
-      "url": "https://open.spotify.com/track/2oQ8EAsQ7IjD1wDq9O8r68"
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 193920,
       "name": "Qui\u00e9n Te Entiende - En Vivo",
       "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2023-02-24 06:00:00",

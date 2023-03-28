@@ -4,7 +4,7 @@
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Bella Shmurda
 
-94 songs - 4 hr 31 min
+95 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 | 2022-11-25 |  |
 | [Attends](https://open.spotify.com/track/1rMnlh7YO6lb9dGZiasVwt) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Attends](https://open.spotify.com/album/6rRwP9eQqtS03jtLomkFvB) | 2:25 | 2023-02-16 | 2023-03-25 |
 | [Back To Sender](https://open.spotify.com/track/4IhkeUUPpPfT3eP0yN4bq7) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Back To Sender](https://open.spotify.com/album/0rThnN5X2Ktwkh8qEid6eH) | 2:27 | 2023-02-03 | 2023-02-11 |
-| [BADDEST](https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [BADDEST](https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL) | 3:45 | 2022-08-12 |  |
+| [BADDEST](https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [BADDEST](https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL) | 3:45 | 2022-08-12 | 2023-03-28 |
 | [Banga](https://open.spotify.com/track/2aoXJ2B1v1OEqHGxdv1gEy) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Banga \(feat\. Portable\)](https://open.spotify.com/album/49wtNf0riNWWlUb3phQcQc) | 3:13 | 2023-02-23 |  |
 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 | 2022-06-29 |  |
 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 | 2022-08-25 |  |
@@ -50,6 +50,7 @@
 | [Ikebe Supa](https://open.spotify.com/track/7FBXDNS5zK0BBltUjXnttC) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Ikebe Supa](https://open.spotify.com/album/4mnduAfflZxa1pqvQybyb6) | 2:21 | 2022-11-04 |  |
 | [Instagram](https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Instagram](https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS) | 3:08 | 2022-06-29 |  |
 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 | 2022-09-16 |  |
+| [Jambo](https://open.spotify.com/track/2NMfL5jeGKg1x5dgm46LpR) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Jambo](https://open.spotify.com/album/6msrTfFHef2GWcRFTB7ed2) | 2:34 | 2023-03-24 |  |
 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:41 | 2022-06-29 |  |
 | [Koni Baje](https://open.spotify.com/track/4kOKUxm84unlT2VxwEp1pB) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Stranger](https://open.spotify.com/album/5XgZB2QHhjbyFduvvHkh0A) | 2:13 | 2023-02-14 | 2023-02-17 |
 | [Kosalabaro](https://open.spotify.com/track/6M5uAfQ1rfLpgPAtl5ArCl) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Ika of Africa](https://open.spotify.com/album/7a1ykEG6P58L8iJ4mnDSva) | 3:09 | 2022-11-25 | 2022-12-02 |

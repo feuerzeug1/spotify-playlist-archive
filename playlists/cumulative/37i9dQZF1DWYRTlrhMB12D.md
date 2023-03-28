@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Kabhi Kabhie
 
-132 songs - 9 hr 55 min
+133 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,12 +98,13 @@
 | [Na Tum Hamen Jano \- Male Vocals](https://open.spotify.com/track/63duKTfcFc60adEHebFkD9) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baat Ek Raat Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SMMj9xYoZSg6VpmQltOu1) | 3:21 | 2021-09-29 |  |
 | [O Haseena Zulfonwale Jane Jahan \(From "Teesri Manzil"\)](https://open.spotify.com/track/1JHNf1BPNDQEVZehemIDay) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 6:55 | 2021-09-29 | 2023-02-22 |
 | [O Mere Dil Ke Chain \(From "Mere Jeevan Saathi"\)](https://open.spotify.com/track/71hanKncfyBt0Yi66LRUYm) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 4:33 | 2021-09-29 |  |
+| [O Saathi Re \(From "Muqaddar Ka Sikandar"\)](https://open.spotify.com/track/48D8kYVTIwnkBoYvvb3hsv) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Coffee Aur Kishore](https://open.spotify.com/album/0bX8qbSF7lWNygaTcpcwQz) | 4:30 | 2023-03-27 |  |
 | [O Saathi Re \- Female Vocals](https://open.spotify.com/track/1dYOciuxgvYcepVR1ZmQNk) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Muqaddar Ka Sikandar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5) | 5:35 | 2021-09-29 | 2022-07-29 |
 | [O Saathi Re \- Male Vocals](https://open.spotify.com/track/63S7VKZE3X5wHVTmSwxuSF) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Muqaddar Ka Sikandar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5) | 4:29 | 2021-09-29 | 2022-07-15 |
 | [Pal Pal Dil Ke Paas \- From Blackmail](https://open.spotify.com/track/0HI3O9uCBWtu7B3boRpCaL) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Blackmail](https://open.spotify.com/album/2ynfe6E7ukd6HgaEvVNOwF) | 5:29 | 2021-09-29 |  |
 | [Phir Chiddi Raat](https://open.spotify.com/track/5DI7IS8qdv97z9INeqeL15) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar](https://open.spotify.com/album/1S0AbwkAswdVC4oEWGsh8e) | 5:08 | 2021-09-29 | 2022-07-19 |
 | [Phoolon Ke Rang Se](https://open.spotify.com/track/5XDngPrHgHqf7eWBxe2D5L) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Prem Pujari](https://open.spotify.com/album/2BmgtXGVLaxBuI14LAkh8O) | 5:06 | 2021-09-29 | 2022-07-28 |
-| [Phoolon Ke Rang Se \(From "Prem Pujari"\)](https://open.spotify.com/track/3J0VEn67cJuMUrJWDbsXiN) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Coffee Aur Kishore](https://open.spotify.com/album/0bX8qbSF7lWNygaTcpcwQz) | 5:06 | 2023-03-06 |  |
+| [Phoolon Ke Rang Se \(From "Prem Pujari"\)](https://open.spotify.com/track/3J0VEn67cJuMUrJWDbsXiN) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Coffee Aur Kishore](https://open.spotify.com/album/0bX8qbSF7lWNygaTcpcwQz) | 5:06 | 2023-03-06 | 2023-03-28 |
 | [Piya Tose Naina Laage Re](https://open.spotify.com/track/6yoT89zUSra0wzS1DKFC1w) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Guide](https://open.spotify.com/album/1I60Zkmz3nddV5WFOU6o2T) | 8:29 | 2022-01-05 | 2022-07-26 |
 | [Pyar Diwana Hota Hai \(From "Kati Patang"\)](https://open.spotify.com/track/6MYmHgOoy0BLOtdL2Zug6e) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 4:44 | 2021-09-29 |  |
 | [Pyar Hamen Kis Mod Pe \- Satte Pe Satta / Soundtrack Version](https://open.spotify.com/track/4wznSF1uFh5g8RqChA6Np8) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne), [Sapan Chakraborty](https://open.spotify.com/artist/7z3MqKz5P7DjYSEIRHMSws), [Gulshan Bawra](https://open.spotify.com/artist/2Vrmg3gxg4FX3J13yA2j5P) | [Satte Pe Satta](https://open.spotify.com/album/1a6VZwmYX6TwvQOTdkvKgJ) | 6:33 | 2022-01-05 |  |

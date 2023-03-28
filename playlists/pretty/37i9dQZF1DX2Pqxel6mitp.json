@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 52640,
+  "num_followers": 52694,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDQwOGFlZjE1NGVjNTlhMTAyYmE4MjVkMjhiYTE1Zjg2",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMGViYjc2ZmI1ODE4OTFkZDJkYWQyYzM0ODgwYTZkMDVj",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Bring It On Home",
-      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 138426,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/3xoMRK8egNvtjrCEQieLko"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Blues Up The River",
-      "url": "https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Scoundrel",
         "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 154760,
+      "name": "Blues Up The River",
+      "url": "https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Yellow Peril",
-        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Yellow Peril",
-      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Blues From The Gutter",
         "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 261092,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Yellow Peril",
+        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Yellow Peril",
+      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Presenting Arthur \"Big Boy\" Crudup",
-        "url": "https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ"
-      },
-      "artists": [
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
-        }
-      ],
-      "duration_ms": 144613,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/4ejf5eNPwEMjmN92vgArBz"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Presenting Arthur \"Big Boy\" Crudup",
+        "url": "https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 144613,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/4ejf5eNPwEMjmN92vgArBz"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "The Future Ain't What It Used to Be",
-        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "The Future Ain't What It Used to Be",
-      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "The \"Killer\" Rocks On",
         "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 172800,
       "name": "C.C. Rider",
       "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "The Future Ain't What It Used to Be",
+        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "The Future Ain't What It Used to Be",
+      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Philadelphia Mississippi",
+        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Too Wet to Plow",
         "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 99866,
       "name": "I Want to Go",
       "url": "https://open.spotify.com/track/6y2PzzIq9rPM5zzcRDmuYH"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Philadelphia Mississippi",
-        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 156465,
+      "name": "The Sun is Shining",
+      "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Call Me King",
         "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 178276,
       "name": "Great God Almighty - Demo, Summer 2018",
       "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 156465,
-      "name": "The Sun is Shining",
-      "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "The Radio Tisdas Sessions",
+        "url": "https://open.spotify.com/album/3RHckcouC1a09YjhaznsrM"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 386173,
+      "name": "Imidiwaren",
+      "url": "https://open.spotify.com/track/1Qwja8HWcjNHEPSE4ctSvz"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Navigation Blues",
         "url": "https://open.spotify.com/album/1uVVEurSRPaxgJF2EuAHEr"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 296466,
       "name": "Navigation Blues",
       "url": "https://open.spotify.com/track/55WTb0BjmzXUUurFiNRWVk"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "The Radio Tisdas Sessions",
-        "url": "https://open.spotify.com/album/3RHckcouC1a09YjhaznsrM"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 386173,
-      "name": "Imidiwaren",
-      "url": "https://open.spotify.com/track/1Qwja8HWcjNHEPSE4ctSvz"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Tough Times",
-      "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "The Road to Liberty, Pt. 1",
         "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
       },
@@ -1807,18 +1791,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
       "artists": [
         {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
         }
       ],
-      "duration_ms": 335880,
-      "name": "Stagolee",
-      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
+      "duration_ms": 179293,
+      "name": "Tough Times",
+      "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1843,22 +1827,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/4vGUbTrcdm108ZtfZaESjc"
-      },
-      "artists": [
-        {
-          "name": "Vicky Tafoya",
-          "url": "https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu"
-        }
-      ],
-      "duration_ms": 154065,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/5nWSboBwJLJvoLx0VOEVFd"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Wild Country",
         "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
       },
@@ -1875,18 +1843,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Guitar Blues 101",
-        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
       },
       "artists": [
         {
-          "name": "Buddy Guy & Junior Wells",
-          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 273573,
-      "name": "Rollin' and Tumblin'",
-      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
+      "duration_ms": 335880,
+      "name": "Stagolee",
+      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1907,6 +1875,38 @@
       "duration_ms": 179778,
       "name": "Take a Little Walk With Me",
       "url": "https://open.spotify.com/track/6oMY5SOMbPuUPkV0RkNzzH"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/4vGUbTrcdm108ZtfZaESjc"
+      },
+      "artists": [
+        {
+          "name": "Vicky Tafoya",
+          "url": "https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu"
+        }
+      ],
+      "duration_ms": 154065,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/5nWSboBwJLJvoLx0VOEVFd"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Guitar Blues 101",
+        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy & Junior Wells",
+          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Rollin' and Tumblin'",
+      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
-      },
-      "artists": [
-        {
-          "name": "R\u012b Wolf",
-          "url": "https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n"
-        },
-        {
-          "name": "Justin Johnson",
-          "url": "https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z"
-        }
-      ],
-      "duration_ms": 247630,
-      "name": "Another Weary Soul",
-      "url": "https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 188306,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
+      },
+      "artists": [
+        {
+          "name": "R\u012b Wolf",
+          "url": "https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n"
+        },
+        {
+          "name": "Justin Johnson",
+          "url": "https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z"
+        }
+      ],
+      "duration_ms": 247630,
+      "name": "Another Weary Soul",
+      "url": "https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x"
     },
     {
       "added_at": "2023-03-24 00:01:00",

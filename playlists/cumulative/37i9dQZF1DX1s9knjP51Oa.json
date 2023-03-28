@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Aftonstj\u00e4rna",
+        "url": "https://open.spotify.com/album/2an7srBOdWxQDg1IF8ToM4"
+      },
+      "artists": [
+        {
+          "name": "Christian Peterson-Bergling",
+          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177624,
+      "name": "Aftonstj\u00e4rna",
+      "url": "https://open.spotify.com/track/438tqm4eZnhsomXZPu2s2T"
+    },
+    {
+      "album": {
         "name": "Agonize",
         "url": "https://open.spotify.com/album/6PMNbI3D4rsYwWWgXZ9JHS"
       },
@@ -5526,7 +5544,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 167500,
       "name": "Laredo",
       "url": "https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc"
@@ -7424,7 +7442,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 137500,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx"
@@ -10146,7 +10164,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 181250,
       "name": "The Question",
       "url": "https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu"
@@ -10258,6 +10276,24 @@
       "duration_ms": 237893,
       "name": "The Woman Who Sat On A Shelf",
       "url": "https://open.spotify.com/track/7A13EdjItdR8H8stkIwJ77"
+    },
+    {
+      "album": {
+        "name": "This Tender Appeal",
+        "url": "https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168498,
+      "name": "This Tender Appeal",
+      "url": "https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ"
     },
     {
       "album": {

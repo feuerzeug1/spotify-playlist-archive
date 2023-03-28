@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,274 likes - 35 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,358 likes - 35 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 34 | [What It Takes \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [What It Takes](https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ) | 3:46 |
 | 35 | [Rescata](https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 3:35 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDBiMTM0ODQ0MmU2ZTBhYzQ2YmU2OTljMzZiYzI3ZjU5ZA==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDA5MjA2MzhlY2UyM2Q2M2RkOGI3MWNmZjdlYWQ5NGQxNA==`

@@ -4,7 +4,7 @@
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-58 songs - 4 hr 26 min
+59 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 | 2023-01-14 |  |
 | [Bless His Holy Name](https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:31 | 2022-09-14 |  |
 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 | 2022-09-14 |  |
+| [Bridge Over Troubled Water \(with CeCe Winans\) \- Live VH1 Honors \- June 22, 1995](https://open.spotify.com/track/767NCpvhtPBaQKsHWEGbHh) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [I Go To The Rock: The Gospel Music Of Whitney Houston](https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn) | 5:34 | 2023-03-27 |  |
 | [Come Fill My Heart](https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:48 | 2022-09-14 |  |
 | [Comforter](https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:42 | 2022-09-14 |  |
 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 | 2022-09-14 |  |
@@ -63,7 +64,7 @@
 | [Well, Alright](https://open.spotify.com/track/22zZfNtNFd46tAAC4rsyRa) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:18 | 2022-09-14 |  |
 | [When You Love \(feat\. CeCe Winans, Yolanda Adams & Mary Mary\)](https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [We All Are One \(Live In Detroit\)](https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk) | 4:26 | 2022-09-15 |  |
 | [Why Me](https://open.spotify.com/track/55lij8lwwJko3565p77R74) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall in Love](https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt) | 3:26 | 2022-09-14 |  |
-| [Worthy](https://open.spotify.com/track/1fEHKfIhgVMb9PJCOr9e97) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:22 | 2022-09-14 |  |
+| [Worthy](https://open.spotify.com/track/1fEHKfIhgVMb9PJCOr9e97) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:22 | 2022-09-14 | 2023-03-28 |
 | [Worthy Of It All \- Live](https://open.spotify.com/track/6AcReG4UWPWnNDhIYMTZV2) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 5:29 | 2022-09-14 |  |
 | [You Are Loved](https://open.spotify.com/track/5QnvVn3CFujK70HOLYFiju) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 6:03 | 2022-09-14 |  |
 

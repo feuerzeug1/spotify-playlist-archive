@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf"
+    },
+    {
+      "album": {
         "name": "Faceless",
         "url": "https://open.spotify.com/album/74BOGboC3BF4wz3IbThmDj"
       },
@@ -1774,7 +1792,7 @@
           "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         }
       ],
-      "date_added": "2023-03-25",
+      "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233673,
@@ -2448,7 +2466,7 @@
           "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "date_added": "2023-03-25",
+      "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 412505,

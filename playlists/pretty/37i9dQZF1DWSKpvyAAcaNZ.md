@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,408 likes - 158 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,522 likes - 158 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 6 | [Blues Worse Than I Ever Had](https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Blues Worse Than I Ever Had](https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg) | 3:31 |
 | 7 | [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 |
 | 8 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 |
-| 9 | [Family](https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I) | 4:46 |
+| 9 | [Family](https://open.spotify.com/track/509c3CN2oJcceQPtagGxpb) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 4:46 |
 | 10 | [Let It Slide](https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Big Bottle of Joy](https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4) | 3:34 |
 | 11 | [Oh Betty](https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:56 |
 | 12 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 157 | [Breathing Bullets \- US Radio Mix](https://open.spotify.com/track/3afn6c2nBmPqogKrYO06qd) | [Owen Campbell](https://open.spotify.com/artist/3euYobDxHiDFZFGnVu23qe) | [Breathing Bullets \(US Radio Mix\)](https://open.spotify.com/album/3Kb4S90XjZF8qekzIc2Wbq) | 3:46 |
 | 158 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGY1YjcwNThlYzc1M2IyMjhkMDQwODRlYWViOTVjNTE1`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGYwOTc0Y2ZkYzdkOTc0MGE1ZDc2ODNlMjJiMDExNDJi`

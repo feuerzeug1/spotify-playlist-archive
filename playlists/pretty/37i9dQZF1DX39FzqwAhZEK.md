@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,419 likes - 222 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,455 likes - 222 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 | 50 | [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 |
 | 51 | [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 |
 | 52 | [Endelig](https://open.spotify.com/track/3NUwa9esOC8gpVzWVV9xW4) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Endelig](https://open.spotify.com/album/37uRrJ3uV7tAazUMMfTAnR) | 2:39 |
-| 53 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |
+| 53 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |
 | 54 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 |
 | 55 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 |
 | 56 | [Eloquence](https://open.spotify.com/track/0ORCs88ABmuctkBdkAWRwF) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Eloquence](https://open.spotify.com/album/7nhKY56BddXIBgih1EJrfy) | 2:21 |

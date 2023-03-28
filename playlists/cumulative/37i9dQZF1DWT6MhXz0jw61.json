@@ -3066,7 +3066,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 202849,
       "name": "FAR (feat. T'nah)",
       "url": "https://open.spotify.com/track/1qJTwgAgVjBtVrk9w7Evfz"
@@ -4520,6 +4520,24 @@
       "duration_ms": 173146,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/3lKfWEjux1xF8aKTOR5JQh"
+    },
+    {
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "Inwood Hill Park",
+      "url": "https://open.spotify.com/track/4qZLrKsaGkYmVRGUviVPtk"
     },
     {
       "album": {

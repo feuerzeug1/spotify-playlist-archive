@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Allison Russell",
-  "num_followers": 47948,
+  "num_followers": 47957,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMDhlNjZlMGQxOGIyMDAyNTQyMzQ2YmYyZTc0YTRiOTY5",
+  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMGZmNTM5ZDA1ZjUwMTA3YzI4YzUxYmJlZmFiMmY3YTJk",
   "tracks": [
     {
       "added_at": "2022-07-27 14:00:29",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 272346,
       "name": "San Luis",
       "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "Lost With You",
         "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 239001,
       "name": "Dead of Night",
       "url": "https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Ode to a Friend",
-        "url": "https://open.spotify.com/album/4nJtIUkvEQe6X4QCbcjehD"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/0DOUO2YQnDrD5ad3qXA0vO"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Ode to a Friend",
+        "url": "https://open.spotify.com/album/4nJtIUkvEQe6X4QCbcjehD"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0DOUO2YQnDrD5ad3qXA0vO"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -611,38 +611,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Birdcage",
-      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "The Open Road",
-      "url": "https://open.spotify.com/track/2Dj9OOoQHG5f0jlL5vt7Ve"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -675,6 +643,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "The Open Road",
+      "url": "https://open.spotify.com/track/2Dj9OOoQHG5f0jlL5vt7Ve"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "Vide Noir",
         "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 311226,
       "name": "When the Night is Over",
       "url": "https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Birdcage",
+      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -719,6 +719,22 @@
       "duration_ms": 181750,
       "name": "A Troubled Mind",
       "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Like a River",
+        "url": "https://open.spotify.com/album/3o8nivVQguilisc4zKinYI"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 215164,
+      "name": "Like a River",
+      "url": "https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -795,22 +811,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Like a River",
-        "url": "https://open.spotify.com/album/3o8nivVQguilisc4zKinYI"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 215164,
-      "name": "Like a River",
-      "url": "https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -843,22 +843,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "How Lucky",
-        "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
       "artists": [
         {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        },
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 203117,
-      "name": "How Lucky",
-      "url": "https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR"
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -879,18 +875,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Long Lost",
-        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
+        "name": "How Lucky",
+        "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        },
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
+      "duration_ms": 203117,
+      "name": "How Lucky",
+      "url": "https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 179061,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 179061,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Fifteen",
         "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 192813,
       "name": "To Live a Life",
       "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 195923,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "They Are Going Away",
         "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "All The Light Above It Too",
-        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Fragments - From The Film \"The Smog Of The Sea\"",
-      "url": "https://open.spotify.com/track/2eVKwKivluiYn67kLtZ3d7"
+      "duration_ms": 195923,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1599,6 +1583,22 @@
       "duration_ms": 198546,
       "name": "Come Home Soon",
       "url": "https://open.spotify.com/track/1cphwoceaKmjUZSRKYbFh2"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "All The Light Above It Too",
+        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Fragments - From The Film \"The Smog Of The Sea\"",
+      "url": "https://open.spotify.com/track/2eVKwKivluiYn67kLtZ3d7"
     },
     {
       "added_at": "2022-07-27 14:00:29",

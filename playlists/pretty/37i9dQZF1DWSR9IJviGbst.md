@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,864 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,932 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 5 | [River Roots](https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Weather and Nature Sounds](https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7) | 3:02 |
 | 6 | [Gentle Brook](https://open.spotify.com/track/0LmZCiJJm2g4ZPiN3B7hgB) | [Natural Symphony](https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF) | [Calming Nature Sounds](https://open.spotify.com/album/68zHKb2TfQN0NnUXotpZNM) | 3:16 |
 | 7 | [Fjällbäck](https://open.spotify.com/track/6d54aNX0e0Y4IvncHa3whr) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [More Swedish River Sounds](https://open.spotify.com/album/4yhFtZFQE8rgGX81kYWAlv) | 2:02 |
-| 8 | [Waterfall Creek](https://open.spotify.com/track/1fXu9OU5gVwTwjeScrRwMK) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:42 |
-| 9 | [Deep River Rapid Flow](https://open.spotify.com/track/1ixae5u6IU5ngF2j1vWWQk) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 3:02 |
+| 8 | [Deep River Rapid Flow](https://open.spotify.com/track/1ixae5u6IU5ngF2j1vWWQk) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 3:02 |
+| 9 | [Waterfall Creek](https://open.spotify.com/track/1fXu9OU5gVwTwjeScrRwMK) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:42 |
 | 10 | [A Babbling Brook](https://open.spotify.com/track/6SwFLZEH7gG2fxGLAdsj4m) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Babbling Stream in the Forest](https://open.spotify.com/album/0fN39o8AJyHObpdmuoVUda) | 3:21 |
 | 11 | [Flood Of Dreams](https://open.spotify.com/track/2abDqcxNlX6FtkpZ2VJ00Z) | [Memminger](https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME) | [Porthgain Wave](https://open.spotify.com/album/640iYvnQKp9oL17PkcHI6t) | 2:07 |
 | 12 | [Värnen](https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 23 | [Babbling Forest Brook](https://open.spotify.com/track/70wI8fVLWlH0Cy0jZlH7tf) | [Calming Water](https://open.spotify.com/artist/0BEeBDjTHbZ0SS6NVRNcUn) | [Babbling Stream](https://open.spotify.com/album/6odFmCA3nOYG362B7Bel5v) | 3:31 |
 | 24 | [Rippling Water](https://open.spotify.com/track/0oAaI5xIkUhztpphsElfh5) | [Monterio](https://open.spotify.com/artist/2FPcGoYsX7uC8f9EZae0of) | [River Creek](https://open.spotify.com/album/30VELFnoOR9DXklDdBQQWj) | 3:12 |
 | 25 | [Pond Of Sleep](https://open.spotify.com/track/6sURZokRcztKu6xYfsatXm) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Pond Of Sleep](https://open.spotify.com/album/5ldXqn6VEKsa2TBnONcyV4) | 2:07 |
-| 26 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 |
-| 27 | [Spring Creek](https://open.spotify.com/track/4AubLLJUxHh4PxDCJUZiSx) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Spring Creek](https://open.spotify.com/album/1qq0T0W2P5yH7rsjSwWMWV) | 2:23 |
+| 26 | [Spring Creek](https://open.spotify.com/track/4AubLLJUxHh4PxDCJUZiSx) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Spring Creek](https://open.spotify.com/album/1qq0T0W2P5yH7rsjSwWMWV) | 2:23 |
+| 27 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 |
 | 28 | [Riverside Rocks](https://open.spotify.com/track/2IMSmgeJgxcfKvc1rqZy8f) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [River Relaxation](https://open.spotify.com/album/2eFLy8Nq0j7oUt7KxZka22) | 3:15 |
 | 29 | [Gentle River Flow](https://open.spotify.com/track/3Gs2QLEuEXUEJeLidHuk7y) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Flowing Rivers](https://open.spotify.com/album/7uhHSNlivW28TuDO2fs6J4) | 3:21 |
-| 30 | [Forest River](https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0) | [the river scout](https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw) | [Relaxing River](https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs) | 3:13 |
-| 31 | [Small River in the Forest](https://open.spotify.com/track/4G2Q9vWyTg0wAGzHzKuscy) | [Nature Library](https://open.spotify.com/artist/1ZziVLB2fJY09QInnbK12X) | [Rivers & Creeks Recordings](https://open.spotify.com/album/2oKiktP91bHOAXKjBKpVZh) | 3:25 |
-| 32 | [Water Under a One\-Lane Bridge](https://open.spotify.com/track/358516P2aKvwSwQ82SZMGy) | [The One\-Lane Bridge](https://open.spotify.com/artist/22FY3gz7p5v6XbQ9SRDtiZ) | [Watching a Stream](https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk) | 4:00 |
+| 30 | [Water Under a One\-Lane Bridge](https://open.spotify.com/track/358516P2aKvwSwQ82SZMGy) | [The One\-Lane Bridge](https://open.spotify.com/artist/22FY3gz7p5v6XbQ9SRDtiZ) | [Watching a Stream](https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk) | 4:00 |
+| 31 | [Forest River](https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0) | [the river scout](https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw) | [Relaxing River](https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs) | 3:13 |
+| 32 | [Small River in the Forest](https://open.spotify.com/track/4G2Q9vWyTg0wAGzHzKuscy) | [Nature Library](https://open.spotify.com/artist/1ZziVLB2fJY09QInnbK12X) | [Rivers & Creeks Recordings](https://open.spotify.com/album/2oKiktP91bHOAXKjBKpVZh) | 3:25 |
 | 33 | [Winter River](https://open.spotify.com/track/5FXaMOQhFTRqTq2srk6EU0) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [JBE River Sounds 2 \(Deluxe Edition\)](https://open.spotify.com/album/3EO82RP4AsdHuoKNc1cpDm) | 2:36 |
 | 34 | [Dalälven](https://open.spotify.com/track/6JA24CJig6oYX2A0Hkl9OT) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
 | 35 | [Birds and A Beautiful Brook](https://open.spotify.com/track/4OYT2GFHJmObxsuZdA8m0R) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Sounds Of The Forest](https://open.spotify.com/album/4LRcAAnR6Zlg200Op6tiZC) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 49 | [Sparkling Energy Creek](https://open.spotify.com/track/7CQpRxRhiPsTIzbVaiMdXZ) | [Embracing Sounds](https://open.spotify.com/artist/3yrsA40P229aJh2vhsvn61) | [Sparkling Energy Creek](https://open.spotify.com/album/3H8VAtA2cT2BbZwSZ42aPB) | 1:55 |
 | 50 | [Recordings from Avaiki Cave](https://open.spotify.com/track/2eA1w9Q6bfMusKEbOe7bSb) | [Shoreline](https://open.spotify.com/artist/79VpsHg6Cb4FOzObCEh42h) | [Recordings from Avaiki Cave](https://open.spotify.com/album/6JBeZUOWw58Ou5sjJNBa6l) | 3:20 |
 
-Snapshot ID: `MTY2OTIxNjI4OCwwMDAwMDAwMDEyYzdlMjllNTU2MzA5YzEyNzc4MjBiMzExY2IyNjJl`
+Snapshot ID: `MTY2OTIxNjI4OCwwMDAwMDAwMDc5M2Y5MWZhNjFmZTllZTgxNjRlZGEwYjgyYTA4MDkw`

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: على لوكا
 
-378 songs - 22 hr 4 min
+379 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [تتر مسلسل إيجار قديم](https://open.spotify.com/track/78UmbZ12RIuxdH0DJPi79B) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [تتر مسلسل إيجار قديم](https://open.spotify.com/album/5PverpMPdObPEdRQ5AM41K) | 2:17 | 2022-11-17 | 2023-01-27 |
 | [تجاوز](https://open.spotify.com/track/6dGF8eFaRmMMQ72EJd8c7W) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [تجاوز](https://open.spotify.com/album/2bsAJySmgxtPwwtHQ13SQE) | 2:53 | 2023-01-19 | 2023-02-24 |
 | [حبينا](https://open.spotify.com/track/1S3appxEsM5sN3qEURkPt2) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:18 | 2023-01-12 | 2023-02-24 |
+| [حمد الله على السلامة](https://open.spotify.com/track/2iKkj34fFU0fiQQm2HPuEx) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [حمد الله على السلامة](https://open.spotify.com/album/6otpGoLEbwlOE4Zm5UZmtv) | 2:55 | 2023-03-27 |  |
 | [خليني](https://open.spotify.com/track/6fO7U0lirfa5kcgJngHqA8) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [خليني](https://open.spotify.com/album/5fE5KlF2945Q1Vm2sQXOuU) | 3:12 | 2023-03-02 |  |
 | [خليني شوية معاك](https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [خليني شوية معاك](https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc) | 4:12 | 2023-02-14 |  |
 | [روق](https://open.spotify.com/track/60RmfptZLtkoxaCZuuTrVg) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [روق](https://open.spotify.com/album/6X1CS8FShrwAZDmUgrqTFV) | 3:01 | 2022-01-27 | 2022-04-29 |
@@ -359,7 +360,7 @@
 | [قلب إتدفن](https://open.spotify.com/track/6xTx0hhLkZQYIjM1uRnDJf) | [El Megheny](https://open.spotify.com/artist/3mfzJJIc6jzl9FNOaNrGsV) | [قلب إتدفن](https://open.spotify.com/album/7N12eSAx3UgGRPJKon4Kvs) | 3:11 | 2022-02-16 | 2022-05-19 |
 | [كان ليا حبايب](https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كان ليا حبايب](https://open.spotify.com/album/2rUngNOWjttCruLwgnEHUp) | 4:18 | 2023-02-16 |  |
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2022-07-08 |
-| [كلام كبار](https://open.spotify.com/track/3hOPWTX0f8Slj25cBdsZTG) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd), [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [كلام كبار](https://open.spotify.com/album/4EJnHL42dS4JXcda5oFIIn) | 4:36 | 2023-02-09 |  |
+| [كلام كبار](https://open.spotify.com/track/3hOPWTX0f8Slj25cBdsZTG) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd), [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [كلام كبار](https://open.spotify.com/album/4EJnHL42dS4JXcda5oFIIn) | 4:36 | 2023-02-09 | 2023-03-28 |
 | [لما تحس](https://open.spotify.com/track/5gTOE3Z7sTgN26AQo15cjU) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [لما تحس](https://open.spotify.com/album/0PLVHSEYE7wjxQyrenVWT1) | 4:10 | 2021-12-23 | 2022-03-10 |
 | [لو تخاصمني](https://open.spotify.com/track/2ijApNHjp90HBYZLZKVCue) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [لو تخاصمني](https://open.spotify.com/album/5S17tuujr6lGt6Cmv0L4Ie) | 3:10 | 2022-11-08 | 2023-01-21 |
 | [ليه خسرتك](https://open.spotify.com/track/4mqAEhjGpFZRTi1DnRBlvA) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [ليه خسرتك](https://open.spotify.com/album/00s1ad6SOrgQc97aLd3eju) | 2:28 | 2023-01-26 | 2023-03-08 |

@@ -4,7 +4,7 @@
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-145 songs - 9 hr 21 min
+146 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Cumbia Pa' Gozar](https://open.spotify.com/track/34KCj9Hh9W4RoDu9KJZghy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [20 Exitos..\. Historia Musical](https://open.spotify.com/album/5GNYu7Z0JkSIDJGp10Vwjd) | 3:27 | 2022-01-24 | 2022-01-30 |
 | [Cumbia poder](https://open.spotify.com/track/43067bbX2FhYHpfAntTIYB) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:00 | 2021-09-14 | 2022-11-13 |
 | [Cumbia Sampuesana](https://open.spotify.com/track/0rhFOZktswEji0h4IuruvM) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [10 Exitos A Bailar Cumbia](https://open.spotify.com/album/1Q1ebViTjarKSUqf1Mre1Z) | 3:00 | 2021-09-14 | 2022-07-29 |
-| [Cumbia Sampuesana](https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [Los Exitos Mas Calientes](https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt) | 3:53 | 2022-04-22 |  |
+| [Cumbia Sampuesana](https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [Los Exitos Mas Calientes](https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt) | 3:53 | 2022-04-22 | 2023-03-28 |
 | [Cumbia Sobre El Rio](https://open.spotify.com/track/3RXhO8IlQNwnH6FFXBYQMn) | [Blanquito Man](https://open.spotify.com/artist/061kEmfoGaZAVZITlkWQuM), [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 4:42 | 2021-09-14 | 2022-06-26 |
 | [Cumbia sobre el río / Interludio](https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:42 | 2021-09-14 |  |
 | [Cumbia Valledupar](https://open.spotify.com/track/7r2W5f8W70eGz2DlOD7S5g) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Ronda Bogotá](https://open.spotify.com/artist/7843pz6oKe2jtcPew109fr) | [Cumbia Valledupar](https://open.spotify.com/album/3GZ1KTKbHZ5QFAXx0Thjtp) | 4:18 | 2021-09-14 | 2022-08-03 |
@@ -66,7 +66,7 @@
 | [Golpe Con Golpe](https://open.spotify.com/track/4LZ0xWXt8vQz5nYNH7doRr) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección 100 Exitos de Pastor López](https://open.spotify.com/album/4KwbyCFUhUF5e3iCQgsZbS) | 3:32 | 2022-01-24 | 2022-02-10 |
 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 | 2022-04-22 |  |
 | [Guaracha Sabrosona](https://open.spotify.com/track/6MSCSfId8BhAc7PlW6uOJZ) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [De Reventon](https://open.spotify.com/album/2LlcZX27HHaJVnHkYWvV5r) | 3:40 | 2021-09-14 | 2022-07-29 |
-| [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2022-08-12 |  |
+| [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2022-08-12 | 2023-03-28 |
 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 | 2022-04-22 |  |
 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 | 2021-09-14 |  |
 | [La Carta Numero Tres](https://open.spotify.com/track/4hewF4lWqN4HrB4eLUP5SO) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [A Fondo Con..Alfredo Gutierrez](https://open.spotify.com/album/556lbUQ84zEMzapccGuOQI) | 3:43 | 2022-01-24 | 2022-07-16 |
@@ -146,11 +146,12 @@
 | [Voy a pintar un corazón](https://open.spotify.com/track/6JVU5TollB4mTzMkb5d8Z9) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [12 Grandes exitos Vol\. 1](https://open.spotify.com/album/4MS8BBgk33mKvBT2MfjTWa) | 3:28 | 2021-09-14 | 2022-07-29 |
 | [Y Ahora Te Vas](https://open.spotify.com/track/1dA4KSiSE6vPoRGxabPgM7) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Humildad y Talento](https://open.spotify.com/album/6YVP2f6OTBea8x0Qr7LALG) | 3:50 | 2021-09-14 | 2022-07-20 |
 | [Y Ahora Te Vas](https://open.spotify.com/track/33D63T3UWawJDiuGtdqs0a) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Humildad y Talento](https://open.spotify.com/album/4kL9pFuQ2QF46cxCCAcrsF) | 3:50 | 2022-08-12 |  |
+| [Yo Me Enamoré](https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:12 | 2023-02-13 |  |
 | [Yo me Enamoré](https://open.spotify.com/track/6wWLC6V7TJ7NEygWHc1CFh) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:12 | 2022-04-22 | 2023-02-17 |
 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 | 2023-02-13 |  |
 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2022-04-22 | 2023-03-12 |
 | [¡Ay! El Amor](https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:31 | 2021-09-14 | 2022-07-29 |
-| [¿Dónde Estarás?](https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 3:51 | 2022-04-22 | 2023-03-26 |
+| [¿Dónde Estarás?](https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 3:51 | 2022-04-22 |  |
 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 | 2021-09-14 | 2022-11-13 |
 | [Él Soy Yo](https://open.spotify.com/track/5wAuauXzrKjAeppxX1IsZ7) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5QJn7lCZyefBlDVTfOPlAb) | 3:13 | 2021-09-14 | 2022-07-29 |
 

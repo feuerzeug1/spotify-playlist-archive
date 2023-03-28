@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 24 | [Mambo Maria](https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 2:41 |
 | 25 | [Creiste](https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 2:43 |
 | 26 | [Sombrero, Zarape Y Guitarra](https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 3:06 |
-| 27 | [El Loco Bailarín](https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Pura Pachanga](https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr) | 2:29 |
-| 28 | [El Suegro](https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 3:22 |
+| 27 | [El Suegro](https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 3:22 |
+| 28 | [El Loco Bailarín](https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Pura Pachanga](https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr) | 2:29 |
 | 29 | [Me Estas Volviendo Loco](https://open.spotify.com/track/3D0dwXxPkJ19PNlMyqfyNS) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 4:07 |
 | 30 | [El Sancudito](https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:49 |
 | 31 | [Muevelo Bien](https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:01 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 42 | [Claridad](https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:38 |
 | 43 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDBlZDBmZmRkMDdiYzVmNGEzZDQ3N2M3OTI4OGM3Njc3MQ==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDBhYWU1MThjNTM5YmY5MWRjNjJjZTZmMWFjY2RiMTFmOA==`

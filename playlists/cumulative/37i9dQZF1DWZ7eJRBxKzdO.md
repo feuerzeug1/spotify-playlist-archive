@@ -4,7 +4,7 @@
 
 > The summer needs dance hits 😎☀️
 
-231 songs - 11 hr 47 min
+232 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Girl](https://open.spotify.com/track/0WAgwdyjTwx2TT55W8z8lu) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/2AqUNG1UqSQrik7Q3YWCNm) | 2:39 | 2022-05-02 | 2022-07-27 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-03-01 |  |
 | [Good Feeling](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE) | 2:49 | 2022-05-02 |  |
+| [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-03-28 |  |
 | [Good on You](https://open.spotify.com/track/3Skzc6bYZur8BWZhfUpAP1) | [Alex Hobson](https://open.spotify.com/artist/6LgR7bFuOxzCtVyHRg4OLa), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Good on You](https://open.spotify.com/album/6FhKty9OrWtsrmfOmkyO6t) | 2:58 | 2022-05-26 | 2022-05-30 |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2022-07-28 | 2023-01-13 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-05-02 |  |
@@ -97,7 +98,7 @@
 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 | 2022-11-20 |  |
 | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3) | 2:33 | 2022-05-02 |  |
 | [Hypnotized](https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized](https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM) | 3:15 | 2022-05-02 | 2022-07-29 |
-| [Hypnotized](https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:15 | 2023-03-01 |  |
+| [Hypnotized](https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:15 | 2023-03-01 | 2023-03-28 |
 | [i miss u \(with Au/Ra\)](https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [i miss u \(with Au/Ra\)](https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5) | 2:52 | 2022-05-02 | 2022-06-01 |
 | [I Need to Know \(feat\. Flynn\)](https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [I Need to Know \(feat\. Flynn\)](https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA) | 2:35 | 2023-02-09 |  |
 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 | 2022-05-02 |  |

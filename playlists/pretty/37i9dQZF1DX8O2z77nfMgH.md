@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Maluma y Anuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,740 likes - 67 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,793 likes - 67 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 48 | [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 |
 | 49 | [Una Nota](https://open.spotify.com/track/4Et0oE3sFAWJmqHJGyeWv1) | [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4), [Daya La Del Bobo](https://open.spotify.com/artist/2elF27bcdzvdrkrwqq3fqb) | [Una Nota](https://open.spotify.com/album/7C4Wfrp3pyRbfvOJMlWe4d) | 2:21 |
 | 50 | [Estar Mejor](https://open.spotify.com/track/4eaK1m8IrTjQDnBLRpaUMk) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Estar Mejor](https://open.spotify.com/album/5oKwBbh0NTAh6WdCKDDCVy) | 3:28 |
-| 51 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [: \(UMA BAD UMA FARRA: \) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 |
+| 51 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 |
 | 52 | [Los Mejores Años](https://open.spotify.com/track/4ZZsf7ibICgB0prrFGnUu7) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Los Mejores Años](https://open.spotify.com/album/0Fql6MTLoWFSZ7FDI4fojO) | 2:28 |
 | 53 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 |
 | 54 | [plan](https://open.spotify.com/track/0H9UKVMv725ASb34l8OIVL) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [plan](https://open.spotify.com/album/0aj9WFB9hsubUgiU6jolp9) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,272 likes - 266 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,487 likes - 266 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 74 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 |
 | 75 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 |
 | 76 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 |
-| 77 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |
+| 77 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |
 | 78 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 |
 | 79 | [Skirr](https://open.spotify.com/track/0tzo8lb0ghQsazQTkmUtss) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Skirr](https://open.spotify.com/album/02bD03yEh1tcxFNVEIIXqj) | 2:30 |
 | 80 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 |

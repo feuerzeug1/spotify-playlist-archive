@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,103 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,106 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 29 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |
 | 30 | [花降る時の彼方](https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [花降る時の彼方](https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx) | 6:04 |
 | 31 | [Phase \- Extended Version](https://open.spotify.com/track/08rXHo15Jw4zsKjj9p2pbM) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [Phase \(Extended Version\)](https://open.spotify.com/album/5Ymjmii57wYbrbYXX4kuBL) | 4:43 |
-| 32 | [minority](https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM) | 2:27 |
+| 32 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
 | 33 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 |
-| 34 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
+| 34 | [minority](https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM) | 2:27 |
 | 35 | [Alice](https://open.spotify.com/track/6lNoFGUr7bXvHRF8TM92gr) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Alice](https://open.spotify.com/album/2zjDNX7u3kuY2FFbiNgJ5p) | 3:33 |
 | 36 | [Bidan](https://open.spotify.com/track/0fJ3AlXNydfMNIBA5OuqiI) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 4:50 |
 | 37 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 39 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 |
 | 40 | [Conflict](https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Conflict](https://open.spotify.com/album/2nQEY7KQXip32OrIyOGJc4) | 2:47 |
 | 41 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
-| 42 | [逃避行](https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [逃避行](https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R) | 3:11 |
-| 43 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
+| 42 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
+| 43 | [逃避行](https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [逃避行](https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R) | 3:11 |
 | 44 | [ブラウニー](https://open.spotify.com/track/2R6xQVJCCk1u8rPrxD5SmC) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブラウニー](https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG) | 3:30 |
 | 45 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 |
 | 46 | [リンジュー・ラヴ](https://open.spotify.com/track/4InoeTKoMnvrcKOAuvbUeT) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [wheel of life](https://open.spotify.com/album/23V4MjO0LO5wMfDg0Al29s) | 3:06 |
 | 47 | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6) | 5:03 |
 | 48 | [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 |
 | 49 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
-| 50 | [ゆらり](https://open.spotify.com/track/1iYhCf64iv0IDFAMrzyMnU) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [ゆらり](https://open.spotify.com/album/6IyVIDV21dBy08woNYXlxa) | 3:31 |
+| 50 | [Grow Old](https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Grow Old](https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb) | 3:04 |
 
-Snapshot ID: `MTY3OTYwNDIzMCwwMDAwMDAwMDNkOGQwYjc2MzFlMTNmNTg1MGQ3M2RlNGM1YzNkZmMx`
+Snapshot ID: `MTY3OTYwNDIzMCwwMDAwMDAwMDkxYWY0ZjEwNjcxZTA4MTcxZWNiOGU5ODA5NDBlMWZk`

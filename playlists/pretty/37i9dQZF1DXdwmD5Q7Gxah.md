@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,843 likes - 103 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,290 likes - 103 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

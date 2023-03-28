@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 223352,
       "name": "Bailar contigo",
       "url": "https://open.spotify.com/track/2EMkEil00JbwV78CoRgd3E"
@@ -12125,6 +12125,24 @@
     },
     {
       "album": {
+        "name": "Rien 100 Rien",
+        "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "La bandite",
+      "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
+    },
+    {
+      "album": {
         "name": "JVLIVS II",
         "url": "https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7"
       },
@@ -17126,7 +17144,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 198386,
       "name": "NOCHEY",
       "url": "https://open.spotify.com/track/1ndtoMKQj4N3quUzJvPEsK"
@@ -21364,7 +21382,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 217413,
       "name": "Shining Light",
       "url": "https://open.spotify.com/track/3PqAQRlPl0yOnqqcB6Y5Cw"
@@ -25352,7 +25370,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 206840,
       "name": "\u0398. Macarena",
       "url": "https://open.spotify.com/track/2ewjMyCbNv2X1dB2qIDCwD"

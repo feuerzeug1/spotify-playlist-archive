@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 84386,
+  "num_followers": 84420,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDFlMjA2YWIxZDQ2YjAzOTQzM2RiYjY3MDFjZjBmYWU4",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDkwMTNiODZlYWQwZjFmYmY5NThmN2EzOTdjZWVjN2Vm",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -125,6 +125,26 @@
       "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
     },
     {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
+    },
+    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Third World Child",
@@ -211,26 +231,6 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -379,6 +379,22 @@
     {
       "added_at": "2020-04-07 09:19:20",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
         "name": "Memeza",
         "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
@@ -441,20 +457,20 @@
       "url": "https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
+      "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Afro Tropical Soundz, Vol. 1",
+        "url": "https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7"
         }
       ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+      "duration_ms": 365693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -475,22 +491,6 @@
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Afro Tropical Soundz, Vol. 1",
-        "url": "https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7"
-        }
-      ],
-      "duration_ms": 365693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -559,22 +559,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "I Like Your Style",
-        "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
-      },
-      "artists": [
-        {
-          "name": "Tony Wilson",
-          "url": "https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "I Like Your Style",
-      "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "The Best Of The Black President 2",
         "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 793200,
       "name": "Expensive Shit",
       "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "I Like Your Style",
+        "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
+      },
+      "artists": [
+        {
+          "name": "Tony Wilson",
+          "url": "https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "I Like Your Style",
+      "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
     },
     {
       "added_at": "2020-04-07 09:19:20",

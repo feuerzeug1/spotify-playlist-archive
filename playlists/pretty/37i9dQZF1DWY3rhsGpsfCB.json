@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 8374,
+  "num_followers": 8393,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3NDg2NSwwMDAwMDAwMGRlMTg2NzM5YmE2NGI5Njg2YzE2NWVhY2VkNzc5Nzc5",
+  "snapshot_id": "MTY3OTY3NDg2NSwwMDAwMDAwMGUzNzRkNGM2MWJiYjdhZjdjODM4ZDJjYjk1YWJjYWIz",
   "tracks": [
     {
       "added_at": "2023-03-24 16:21:05",
@@ -167,30 +167,6 @@
     {
       "added_at": "2023-03-24 16:21:05",
       "album": {
-        "name": "People (feat. Ayra Starr & Omah Lay) [Remix]",
-        "url": "https://open.spotify.com/album/689njStjzEujqVZtSDlpha"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "People (feat. Ayra Starr & Omah Lay)",
-      "url": "https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr"
-    },
-    {
-      "added_at": "2023-03-24 16:21:05",
-      "album": {
         "name": "Float (feat. Seun Kuti & Egypt 80)",
         "url": "https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7"
       },
@@ -211,6 +187,30 @@
       "duration_ms": 242166,
       "name": "Float (feat. Seun Kuti & Egypt 80)",
       "url": "https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu"
+    },
+    {
+      "added_at": "2023-03-24 16:21:05",
+      "album": {
+        "name": "People (feat. Ayra Starr & Omah Lay) [Remix]",
+        "url": "https://open.spotify.com/album/689njStjzEujqVZtSDlpha"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "People (feat. Ayra Starr & Omah Lay)",
+      "url": "https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr"
     },
     {
       "added_at": "2023-03-24 16:21:05",
@@ -267,18 +267,22 @@
     {
       "added_at": "2023-03-24 16:21:05",
       "album": {
-        "name": "Fatal Attraction",
-        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 196933,
-      "name": "Fatal Attraction",
-      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
+      "duration_ms": 190000,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
     },
     {
       "added_at": "2023-03-24 16:21:05",
@@ -319,26 +323,6 @@
     {
       "added_at": "2023-03-24 16:21:05",
       "album": {
-        "name": "My Baby",
-        "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
-    },
-    {
-      "added_at": "2023-03-24 16:21:05",
-      "album": {
         "name": "Wetin",
         "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
       },
@@ -351,22 +335,6 @@
       "duration_ms": 78946,
       "name": "Wetin",
       "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
-    },
-    {
-      "added_at": "2023-03-24 16:21:05",
-      "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 165161,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ"
     },
     {
       "added_at": "2023-03-24 16:21:05",
@@ -387,6 +355,22 @@
       "duration_ms": 139586,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
+    },
+    {
+      "added_at": "2023-03-24 16:21:05",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 165161,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ"
     },
     {
       "added_at": "2023-03-24 16:21:05",
@@ -419,6 +403,22 @@
       "duration_ms": 150280,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+    },
+    {
+      "added_at": "2023-03-24 16:21:05",
+      "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
     },
     {
       "added_at": "2023-03-24 16:21:05",
@@ -563,22 +563,18 @@
     {
       "added_at": "2023-03-24 16:21:05",
       "album": {
-        "name": "TOP BOY",
-        "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
+        "name": "NANA",
+        "url": "https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         }
       ],
-      "duration_ms": 226377,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA"
+      "duration_ms": 146155,
+      "name": "NANA",
+      "url": "https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO"
     },
     {
       "added_at": "2023-03-24 16:21:05",
@@ -643,18 +639,22 @@
     {
       "added_at": "2023-03-24 16:21:05",
       "album": {
-        "name": "NANA",
-        "url": "https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y"
+        "name": "TOP BOY",
+        "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
         }
       ],
-      "duration_ms": 146155,
-      "name": "NANA",
-      "url": "https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO"
+      "duration_ms": 226377,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA"
     },
     {
       "added_at": "2023-03-24 16:21:05",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-03-24 16:21:05",
       "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+    },
+    {
+      "added_at": "2023-03-24 16:21:05",
+      "album": {
         "name": "Handle Me (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 168275,
       "name": "Pour Me a Drink",
       "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
-    },
-    {
-      "added_at": "2023-03-24 16:21:05",
-      "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
       "added_at": "2023-03-24 16:21:05",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-03-24 16:21:05",
       "album": {
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
+      "added_at": "2023-03-24 16:21:05",
+      "album": {
         "name": "Jane",
         "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 193515,
       "name": "In A Loop",
       "url": "https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U"
-    },
-    {
-      "added_at": "2023-03-24 16:21:05",
-      "album": {
-        "name": "Lock Up",
-        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 223005,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
     },
     {
       "added_at": "2023-03-24 16:21:05",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-03-24 16:21:05",
       "album": {
-        "name": "Fine Wine (ft. Amaarae)",
-        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
-      },
-      "artists": [
-        {
-          "name": "Kelechief",
-          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Fine Wine (ft. Amaarae)",
-      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
-    },
-    {
-      "added_at": "2023-03-24 16:21:05",
-      "album": {
         "name": "Some Nights I Dream of Doors",
         "url": "https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 202066,
       "name": "Wrong for It",
       "url": "https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7"
+    },
+    {
+      "added_at": "2023-03-24 16:21:05",
+      "album": {
+        "name": "Fine Wine (ft. Amaarae)",
+        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
+      },
+      "artists": [
+        {
+          "name": "Kelechief",
+          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Fine Wine (ft. Amaarae)",
+      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
     }
   ],
   "unique_name": "Cocoa Butter ",

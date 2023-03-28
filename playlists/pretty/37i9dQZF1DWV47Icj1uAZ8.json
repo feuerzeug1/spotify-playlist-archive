@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 15611,
+  "num_followers": 15657,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMDA2ZGU1NjExZWFkMTBhNzg2MjE4MWY0N2VmN2NlMTI1",
+  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMDI5ZGJkODA2MWEzMmVlNzVhNTU1MmRhZThmMDkxMjNi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -147,26 +147,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
@@ -207,6 +187,42 @@
       "duration_ms": 234093,
       "name": "The Message",
       "url": "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Found (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Found (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "MERCEDES",
+        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 233069,
+      "name": "MERCEDES",
+      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -267,22 +283,6 @@
       "duration_ms": 239635,
       "name": "7am On Bridle Path",
       "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "MERCEDES",
-        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 233069,
-      "name": "MERCEDES",
-      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "25 million",
+      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 139574,
       "name": "Bria's Interlude (feat. Omarion)",
       "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "25 million",
-      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 291448,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 291448,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253803,
-      "name": "Dreams Money Can Buy",
-      "url": "https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 224730,
-      "name": "Piece Of Me",
-      "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
+      "duration_ms": 253803,
+      "name": "Dreams Money Can Buy",
+      "url": "https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -619,6 +603,22 @@
       "duration_ms": 339866,
       "name": "I Used to Love Him (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/3IRdgbdqDcmJBIa6TY2mKX"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 224730,
+      "name": "Piece Of Me",
+      "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 400840,
+      "name": "Time's A Wastin",
+      "url": "https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Summers",
         "url": "https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 223811,
       "name": "Still Think of You",
       "url": "https://open.spotify.com/track/0VtFjHIopAFm0h9NyD7P7f"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Process (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 263923,
-      "name": "Timmy's Prayer",
-      "url": "https://open.spotify.com/track/16bQdxSVtmvL2hc4h3OJE3"
     }
   ],
   "unique_name": "Kofi Siriboe's Taste",

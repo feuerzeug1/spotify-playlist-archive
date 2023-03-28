@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -6060,7 +6078,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 164985,
       "name": "Febrero",
       "url": "https://open.spotify.com/track/4LIVoYHPiHaxQZAnsEe4sI"
@@ -9714,7 +9732,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 210986,
       "name": "MA\u00d1ANA SER\u00c1 BONITO",
       "url": "https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH"
@@ -10616,6 +10634,24 @@
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+      "album": {
+        "name": "Montagem - Conga Conga (Remixes)",
+        "url": "https://open.spotify.com/album/215z8mWDSkmJLJVqLOM8iX"
+      },
+      "artists": [
+        {
+          "name": "DJ RAMON SP",
+          "url": "https://open.spotify.com/artist/3wpIT0RdJai5EyixwevHVq"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "Montagem - Conga Conga (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/5olB6tpqsJ9W8AX6HdWQd5"
     },
     {
       "album": {
@@ -13479,6 +13515,24 @@
     },
     {
       "album": {
+        "name": "Que Chulada",
+        "url": "https://open.spotify.com/album/35HE2PSxlcKtIIkkC1bagQ"
+      },
+      "artists": [
+        {
+          "name": "Alexis Garcilazo",
+          "url": "https://open.spotify.com/artist/5tHu8TW9KdNoJPvltlE8uo"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136533,
+      "name": "Que Chulada (En vivo)",
+      "url": "https://open.spotify.com/track/0EiUeRwMQOJF3MllMJSTnp"
+    },
+    {
+      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -14112,7 +14166,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 185933,
       "name": "Rosa Pastel",
       "url": "https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF"

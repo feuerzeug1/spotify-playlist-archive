@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2 seater",
+        "url": "https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65982,
+      "name": "2 seater",
+      "url": "https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT"
+    },
+    {
+      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -306,7 +328,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 258999,
       "name": "Caballo Blanco (feat. Macaco)",
       "url": "https://open.spotify.com/track/5uifWhPVNCyg0n6PhjjT05"
@@ -874,7 +896,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 212017,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
@@ -1336,7 +1358,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 237746,
       "name": "Moving in Slow Motion",
       "url": "https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x"
@@ -1412,7 +1434,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 228646,
       "name": "No One's Gonna Love You (Stockholm Version)",
       "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
@@ -1700,7 +1722,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 185274,
       "name": "Place We Were Made",
       "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
@@ -1758,7 +1780,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 233289,
       "name": "Real Peach",
       "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
@@ -1776,7 +1798,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 242000,
       "name": "Recording 15",
       "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
@@ -1794,7 +1816,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 343249,
       "name": "reverie",
       "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
@@ -1834,6 +1856,24 @@
       "duration_ms": 229226,
       "name": "She Burns",
       "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
+    },
+    {
+      "album": {
+        "name": "Si Fueras Lluvia",
+        "url": "https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Si Fueras Lluvia",
+      "url": "https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN"
     },
     {
       "album": {
@@ -2050,7 +2090,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 201933,
       "name": "The Spark",
       "url": "https://open.spotify.com/track/1jkBuvWI9IGEz9thXiKOlP"
@@ -2075,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Ugly Duck",
+        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "To be, or not to be ugly",
+      "url": "https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c"
+    },
+    {
+      "album": {
         "name": "To Die For",
         "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
       },
@@ -2086,7 +2144,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 193795,
       "name": "To Die For",
       "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
@@ -2104,7 +2162,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 236838,
       "name": "To Love",
       "url": "https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT"
@@ -2212,7 +2270,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 141743,
       "name": "Yards / Gardens",
       "url": "https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ"
@@ -2248,7 +2306,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"

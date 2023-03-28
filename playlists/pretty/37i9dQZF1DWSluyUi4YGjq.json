@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 49322,
+  "num_followers": 50007,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3MzY1MCwwMDAwMDAwMDIwNjMwNmMzZmNmMzUzMWI5MGI5NjQ3YzlkNWZiYjFh",
+  "snapshot_id": "MTY3OTY3MzY1MCwwMDAwMDAwMDc3NjJjNDllMGE5ZjJmMTQ4NTRmZjhhZDE1MDA3NzM2",
   "tracks": [
     {
       "added_at": "2023-01-12 03:08:14",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
-    },
-    {
       "added_at": "2022-09-29 00:07:21",
       "album": {
         "name": "Blue Rev",
@@ -379,6 +363,22 @@
       "duration_ms": 165445,
       "name": "Belinda Says",
       "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 188050,
-      "name": "Out of Mind",
-      "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 198842,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 188050,
+      "name": "Out of Mind",
+      "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Blankenship",
-      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
       "artists": [
         {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 250096,
-      "name": "Famine Asylum",
-      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+      "duration_ms": 236746,
+      "name": "Blankenship",
+      "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -829,6 +813,22 @@
       "url": "https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+    },
+    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "taste of concrete",
@@ -843,22 +843,6 @@
       "duration_ms": 152061,
       "name": "taste of concrete",
       "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 235565,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -909,22 +893,6 @@
       "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270281,
-      "name": "The Dead Are Dumb",
-      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
-    },
-    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Better Off Alone",
@@ -943,6 +911,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 235565,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Dead Kids R.I.P. City",
         "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
       },
@@ -955,6 +939,38 @@
       "duration_ms": 151560,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1069,38 +1085,6 @@
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Winks & Kisses: Melted",
-        "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 566466,
-      "name": "In Your Room",
-      "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
-    },
-    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Out of Line",
@@ -1135,6 +1119,22 @@
       "duration_ms": 236000,
       "name": "OUTLAW69",
       "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2022-12-12 18:23:41",

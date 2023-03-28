@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 121601,
+  "num_followers": 121613,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDM4ODg4MzdhNjFkYjA0NDUwNjZjMzM0MWEwYWU0ZTI2",
+  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDBlOWJlMjU5ZGU5OTcwMTRmYTBmODJiZDViM2I0ODZk",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 254815,
-      "name": "Coraz\u00f3n de Rub\u00ed",
-      "url": "https://open.spotify.com/track/4zBYQGO8dU0SVpm3Zld6q2"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Orcas",
         "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
       },
@@ -163,6 +143,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "Prender el Alma",
+        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 315493,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "La Danza",
         "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
       },
@@ -179,18 +175,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Prender el Alma",
-        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
       },
       "artists": [
         {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 315493,
-      "name": "La Cosecha",
-      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
+      "duration_ms": 254815,
+      "name": "Coraz\u00f3n de Rub\u00ed",
+      "url": "https://open.spotify.com/track/4zBYQGO8dU0SVpm3Zld6q2"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -215,6 +215,38 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "Mirla",
+        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
+      },
+      "artists": [
+        {
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Mirla",
+      "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Ch'usay",
+        "url": "https://open.spotify.com/album/5aYodFC2rZJsJrUSWizQzn"
+      },
+      "artists": [
+        {
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        }
+      ],
+      "duration_ms": 226780,
+      "name": "Herejia",
+      "url": "https://open.spotify.com/track/54M4kdHYlMY0xO2ENIE5KV"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Amansara Remixed",
         "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
       },
@@ -231,22 +263,6 @@
       "duration_ms": 239417,
       "name": "Sueno en Paraguay - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Mirla",
-        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
-      },
-      "artists": [
-        {
-          "name": "Monte",
-          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Mirla",
-      "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -271,18 +287,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Ch'usay",
-        "url": "https://open.spotify.com/album/5aYodFC2rZJsJrUSWizQzn"
+        "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
+        "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
       },
       "artists": [
         {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+          "name": "Savia Andina",
+          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
         }
       ],
-      "duration_ms": 226780,
-      "name": "Herejia",
-      "url": "https://open.spotify.com/track/54M4kdHYlMY0xO2ENIE5KV"
+      "duration_ms": 214906,
+      "name": "Boquer\u00f3n Abandonado",
+      "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -299,22 +315,6 @@
       "duration_ms": 175506,
       "name": "El Canto del Cuculi",
       "url": "https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
-        "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
-      },
-      "artists": [
-        {
-          "name": "Savia Andina",
-          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "Boquer\u00f3n Abandonado",
-      "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Mezcla",
-        "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
-      },
-      "artists": [
-        {
-          "name": "M.A.K.U SoundSystem",
-          "url": "https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh"
-        }
-      ],
-      "duration_ms": 351173,
-      "name": "De Barrio",
-      "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "No Vuelvo a Amar (feat. Yuri Ortu\u00f1o Le\u00f3n, Rafael Arias Paz, Orlando Jim\u00e9nez, Ra\u00fal Muriel) [Bolivia y Su Folklore]",
         "url": "https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 162168,
       "name": "Sajsahuaman",
       "url": "https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Mezcla",
+        "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
+      },
+      "artists": [
+        {
+          "name": "M.A.K.U SoundSystem",
+          "url": "https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh"
+        }
+      ],
+      "duration_ms": 351173,
+      "name": "De Barrio",
+      "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
-      },
-      "artists": [
-        {
-          "name": "LaTorre",
-          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
-        }
-      ],
-      "duration_ms": 170037,
-      "name": "Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Ay Palomita",
         "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
       },
@@ -855,22 +839,34 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "No Me Quiero Doler",
-        "url": "https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ"
+        "name": "Pu\u00f1ales",
+        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
       },
       "artists": [
         {
-          "name": "Arrabalero",
-          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
-        },
-        {
-          "name": "Carlos Rizzi",
-          "url": "https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7"
+          "name": "LaTorre",
+          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
         }
       ],
-      "duration_ms": 326037,
-      "name": "No Me Quiero Doler",
-      "url": "https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG"
+      "duration_ms": 170037,
+      "name": "Pu\u00f1ales",
+      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Lo Mejor de los Kjarkas",
+        "url": "https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9"
+      },
+      "artists": [
+        {
+          "name": "Los Kjarkas",
+          "url": "https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN"
+        }
+      ],
+      "duration_ms": 216372,
+      "name": "Sunch'u T'ikitay - Remastered",
+      "url": "https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu"
     }
   ],
   "unique_name": "Entre los Andes",

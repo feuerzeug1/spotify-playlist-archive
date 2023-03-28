@@ -4,7 +4,7 @@
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-333 songs - 17 hr 16 min
+334 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 | 2022-11-01 |  |
 | [Cigarettes out the Window](https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:18 | 2022-10-07 | 2022-11-08 |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/1ZV8n0wJ4htdpGRBEt25B6) | [intomusic brazil](https://open.spotify.com/artist/7a65BfOit4jjLQiH1jLz9N) | [Coisas Que Eu Sei](https://open.spotify.com/album/6L0TgC0N85KnF2cCL7t0es) | 3:05 | 2023-03-14 |  |
+| [Combinadinho](https://open.spotify.com/track/3o1wkALMRxFgotr82yUnSY) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Combinadinho](https://open.spotify.com/album/2TqritjMLjbcYejnZvZElm) | 2:43 | 2023-03-27 |  |
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-08-15 | 2022-11-23 |
 | [Contagem](https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH) | [G.AZINN](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Contagem](https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA) | 3:29 | 2022-09-28 | 2022-10-22 |
 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 | 2022-05-25 | 2022-09-06 |

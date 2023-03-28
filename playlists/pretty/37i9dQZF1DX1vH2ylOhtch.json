@@ -1,12 +1,12 @@
 {
   "description": "uh-oh?",
-  "num_followers": 62563,
+  "num_followers": 62666,
   "original_name": "pov: te enamoras de tu bestie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQzMjcyMywwMDAwMDAwMGM4ZGE0YzUxY2FiNzBjODI1YjY1NDFlZTc5YThkOWNj",
+  "snapshot_id": "MTY3OTQzMjcyMywwMDAwMDAwMDhiZDcxOTk2MWJjZmJhZTY5NTE0NTQxNDdhNWI5ODc1",
   "tracks": [
     {
       "added_at": "2023-03-21 21:05:23",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-03-21 21:05:23",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2023-03-21 21:05:23",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 240133,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
+    },
+    {
+      "added_at": "2023-03-21 21:05:23",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2023-03-21 21:05:23",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-03-21 21:05:23",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 342040,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
-    },
-    {
-      "added_at": "2023-03-21 21:05:23",
-      "album": {
         "name": "This Love (Taylor\u2019s Version)",
         "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 250100,
       "name": "This Love (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
+    },
+    {
+      "added_at": "2023-03-21 21:05:23",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 342040,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
     },
     {
       "added_at": "2023-03-21 21:05:23",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-21 21:05:23",
       "album": {
-        "name": "ENTROP\u00cdA",
-        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 199614,
-      "name": "EL POETA",
-      "url": "https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9"
-    },
-    {
-      "added_at": "2023-03-21 21:05:23",
-      "album": {
         "name": "never knew a heart could break itself",
         "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+    },
+    {
+      "added_at": "2023-03-21 21:05:23",
+      "album": {
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 199614,
+      "name": "EL POETA",
+      "url": "https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9"
     },
     {
       "added_at": "2023-03-21 21:05:23",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-03-21 21:05:23",
       "album": {
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/2SGqPctdqs0xkFexK0cAOC"
+    },
+    {
+      "added_at": "2023-03-21 21:05:23",
+      "album": {
         "name": "chiquita",
         "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
       },
@@ -883,18 +899,22 @@
     {
       "added_at": "2023-03-21 21:05:23",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+        "name": "Dos X Tres (Demo)",
+        "url": "https://open.spotify.com/album/08Zm5sk7EWsFa0vunI16rJ"
       },
       "artists": [
         {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 213773,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/2SGqPctdqs0xkFexK0cAOC"
+      "duration_ms": 150991,
+      "name": "Dos X Tres (Demo)",
+      "url": "https://open.spotify.com/track/5uOdakRKQbRu6HJnorQ5on"
     },
     {
       "added_at": "2023-03-21 21:05:23",
@@ -931,58 +951,6 @@
     {
       "added_at": "2023-03-21 21:05:23",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
-    },
-    {
-      "added_at": "2023-03-21 21:05:23",
-      "album": {
-        "name": "Dos X Tres (Demo)",
-        "url": "https://open.spotify.com/album/08Zm5sk7EWsFa0vunI16rJ"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        },
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 150991,
-      "name": "Dos X Tres (Demo)",
-      "url": "https://open.spotify.com/track/5uOdakRKQbRu6HJnorQ5on"
-    },
-    {
-      "added_at": "2023-03-21 21:05:23",
-      "album": {
-        "name": "Ella Es",
-        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
-    },
-    {
-      "added_at": "2023-03-21 21:05:23",
-      "album": {
         "name": "Nada Y Nadie",
         "url": "https://open.spotify.com/album/5EuXUizMNBLhrMKtSUMLkb"
       },
@@ -999,6 +967,22 @@
     {
       "added_at": "2023-03-21 21:05:23",
       "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2023-03-21 21:05:23",
+      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 228999,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/0wzK2m89t22oOayHYfV75U"
+    },
+    {
+      "added_at": "2023-03-21 21:05:23",
+      "album": {
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
     },
     {
       "added_at": "2023-03-21 21:05:23",

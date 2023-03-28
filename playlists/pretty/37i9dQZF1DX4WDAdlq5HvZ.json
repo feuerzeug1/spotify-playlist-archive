@@ -1,12 +1,12 @@
 {
   "description": "Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.",
-  "num_followers": 37196,
+  "num_followers": 37218,
   "original_name": "Love for Mother's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDAwMDU3ODhkZWFhMDA3MjExNTFjNWMzMGY3YzJjYjllYWQ3",
+  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDAwMDNjYmZiMjRkOWQzMjM1ODEzNDZjMWFkMGQyMDdlYjJj",
   "tracks": [
     {
       "added_at": "2022-05-06 04:02:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+        "name": "Good News (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
       },
       "artists": [
         {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 229760,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm"
+      "duration_ms": 302780,
+      "name": "Counting Every Blessing",
+      "url": "https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -175,40 +175,8 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Good News (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 302780,
-      "name": "Counting Every Blessing",
-      "url": "https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
       "artists": [
         {
@@ -216,9 +184,25 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 183013,
-      "name": "Look Up Child",
-      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -287,6 +271,22 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Look Up Child",
+      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
         "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
         "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 223626,
       "name": "Overcomer",
       "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -403,6 +387,38 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
+        "name": "There Is More (Studio Sessions)",
+        "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Who You Say I Am",
+      "url": "https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
         "name": "Over And Underneath",
         "url": "https://open.spotify.com/album/6owfUdoDWVCB7S00NDKPKM"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 268533,
       "name": "I Will Be Here",
       "url": "https://open.spotify.com/track/7w0CEIlW8kcomXPgxQ55Hj"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "There Is More (Studio Sessions)",
-        "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Who You Say I Am",
-      "url": "https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
+        "name": "It Is Well (Expanded Edition)",
+        "url": "https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "What Faith Can Do",
+      "url": "https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
         "name": "Fighting For Me",
         "url": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 226866,
       "name": "Your Love Defends Me",
       "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "It Is Well (Expanded Edition)",
-        "url": "https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "What Faith Can Do",
-      "url": "https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "More Beautiful You",
-        "url": "https://open.spotify.com/album/27qh9LZsrPEPAdxKvbUPBp"
+        "name": "Love God Love People (Radio Version)",
+        "url": "https://open.spotify.com/album/1vopwBYonLDhkmOfDcJGNG"
       },
       "artists": [
         {
-          "name": "Jonny Diaz",
-          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 231000,
-      "name": "More Beautiful You",
-      "url": "https://open.spotify.com/track/0BD6kjnLp2CGYAY3Vb6bUY"
+      "duration_ms": 192893,
+      "name": "Love God Love People - Radio Version",
+      "url": "https://open.spotify.com/track/4AzZt81qe4U17x6LFBj10S"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Love God Love People (Radio Version)",
-        "url": "https://open.spotify.com/album/1vopwBYonLDhkmOfDcJGNG"
+        "name": "More Beautiful You",
+        "url": "https://open.spotify.com/album/27qh9LZsrPEPAdxKvbUPBp"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
         }
       ],
-      "duration_ms": 192893,
-      "name": "Love God Love People - Radio Version",
-      "url": "https://open.spotify.com/track/4AzZt81qe4U17x6LFBj10S"
+      "duration_ms": 231000,
+      "name": "More Beautiful You",
+      "url": "https://open.spotify.com/track/0BD6kjnLp2CGYAY3Vb6bUY"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
+        "name": "Haven't Seen It Yet",
+        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "More Than I Could Be",
+      "url": "https://open.spotify.com/track/5eeRjz62jBGLuLgjxVI1AR"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 245226,
       "name": "Becoming Me",
       "url": "https://open.spotify.com/track/4UIKecHJRFBtOg3FjHPbrO"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Haven't Seen It Yet",
-        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "More Than I Could Be",
-      "url": "https://open.spotify.com/track/5eeRjz62jBGLuLgjxVI1AR"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Child Of The Father",
-        "url": "https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG"
-      },
-      "artists": [
-        {
-          "name": "Cheri Keaggy",
-          "url": "https://open.spotify.com/artist/0TJpmZw9iFR95HEsRxcvzL"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Little Boy On His Knees AKA Cameron's Song",
-      "url": "https://open.spotify.com/track/6Hczkb1UlY1QfS0aO8nqTN"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
         "name": "Blink",
         "url": "https://open.spotify.com/album/3r9SKtHFReLzHXaswU4S49"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 273493,
       "name": "Me",
       "url": "https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Child Of The Father",
+        "url": "https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG"
+      },
+      "artists": [
+        {
+          "name": "Cheri Keaggy",
+          "url": "https://open.spotify.com/artist/0TJpmZw9iFR95HEsRxcvzL"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Little Boy On His Knees AKA Cameron's Song",
+      "url": "https://open.spotify.com/track/6Hczkb1UlY1QfS0aO8nqTN"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0hx7o90RXZZtJ6MS5nvxjF"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 201813,
-      "name": "After The Fire",
-      "url": "https://open.spotify.com/track/4Gqx9729vziD22mSmqAewG"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
         "name": "O God Our Mother",
         "url": "https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 221732,
       "name": "O God Our Mother",
       "url": "https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0hx7o90RXZZtJ6MS5nvxjF"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 201813,
+      "name": "After The Fire",
+      "url": "https://open.spotify.com/track/4Gqx9729vziD22mSmqAewG"
     },
     {
       "added_at": "2022-05-06 04:02:00",

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-330 songs - 1 day 6 hr 41 min
+331 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ack Värmeland, Du Sköna](https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Ack Värmeland, Du Sköna](https://open.spotify.com/album/23GS4EbBw1rT3dxxauCBjz) | 4:12 | 2023-02-23 |  |
 | [Adventure Of A Lifetime](https://open.spotify.com/track/4OiYyeJ4pxrcufdqLLxnAV) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/2pdW1q8PwPIwx2SXHLNyzB) | 4:59 | 2020-05-02\* | 2021-08-20 |
 | [Afflicted](https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f) | [Jonas Sorgenfrei](https://open.spotify.com/artist/1R9MlzmbWcHVOFcs2HUvTN), [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0), [Peter Christof](https://open.spotify.com/artist/6JZ4grvAbG2rYVEQ9AUfh4) | [Afflicted](https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA) | 4:21 | 2022-03-25 | 2022-11-23 |
+| [Alfie](https://open.spotify.com/track/6WiOLR12myN6odhdOcwC9P) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Alfie](https://open.spotify.com/album/4ZkR2XXyHE373ZUv8k2CNY) | 8:19 | 2023-03-16 |  |
 | [All Alone](https://open.spotify.com/track/6TAW00MAPvS59yEoIgtOEI) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [All Alone](https://open.spotify.com/album/0GpkwiJKo7ogyjHGML8iay) | 5:10 | 2020-05-02\* | 2021-03-24 |
 | [All I Need](https://open.spotify.com/track/7I63rA0w2lgv2iMaS7NRjY) | [Stéphane Kerecki Quartet](https://open.spotify.com/artist/20yiwcmp47i1fBanhJiVoy) | [French Touch](https://open.spotify.com/album/6x2XYBB5ROShuFabWJBMmn) | 7:12 | 2020-05-02\* | 2021-07-30 |
 | [All the Things You Are](https://open.spotify.com/track/3TSdkwPeUfvgLwNTF8gfC0) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Another Day \(Remastered Anniversary Edition\)](https://open.spotify.com/album/2j5Cb61i6HgSUQlwSj7y8a) | 6:10 | 2020-05-02\* | 2021-08-20 |
@@ -314,7 +315,7 @@
 | [Try To Remember](https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT) | [Johannes Wallmann](https://open.spotify.com/artist/1eGsL6cTuGlm6bJzbQLvjm), [Sharel Cassity](https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs) | [Precarious Towers](https://open.spotify.com/album/3Bp4pMlXLvl0FiI0PwX5Lu) | 4:44 | 2022-06-02 | 2022-10-26 |
 | [Twelve for J.](https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Caris Hermes](https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz) | 2:46 | 2022-09-06 |  |
 | [Vashkar](https://open.spotify.com/track/3Om7i5Xg1ORaABNTaCnF29) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Vashkar](https://open.spotify.com/album/6xaaKnsxxQJkubxtUAesZ5) | 5:56 | 2020-05-08 | 2022-10-08 |
-| [Virgo](https://open.spotify.com/track/57RPnIuMTteFVLc4oEjCXw) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [Virgo](https://open.spotify.com/album/3T0FYXLhtSJoHAywJLwphU) | 5:58 | 2022-04-28 |  |
+| [Virgo](https://open.spotify.com/track/57RPnIuMTteFVLc4oEjCXw) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [Virgo](https://open.spotify.com/album/3T0FYXLhtSJoHAywJLwphU) | 5:58 | 2022-04-28 | 2023-03-28 |
 | [Voyageur](https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u) | [Flash Pig](https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4) | [Le plus longtemps possible](https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8) | 3:28 | 2022-06-02 |  |
 | [Vær sterk, min sjel](https://open.spotify.com/track/13lBg6iGg4yqLccgLNriTy) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:03 | 2022-04-07 |  |
 | [What Are You Doing for the Rest of Your Life](https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 6:09 | 2022-09-29 |  |

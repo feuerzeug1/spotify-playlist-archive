@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,193 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,221 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 26 | [Buscabamos Lo Mismo](https://open.spotify.com/track/5idaKAt6CqMd3zucTHG4hP) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscabamos Lo Mismo](https://open.spotify.com/album/1U7Ysy02ORDvHGG1FVQoaU) | 2:49 |
 | 27 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
 | 28 | [Con Palabras Sencillas](https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:26 |
-| 29 | [Un Mentado Ariel](https://open.spotify.com/track/2aTdwAYeLbuedDShCIDI1h) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 3:16 |
-| 30 | [Fino Ranchero \- En Vivo](https://open.spotify.com/track/6XCOR9Rs01PBQrVxI7nXxa) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Con Amigos y La Banda Vol.1 \(En Vivo\)](https://open.spotify.com/album/3VuqUe1TDvhAKzRAxUSw5b) | 3:33 |
+| 29 | [Fino Ranchero \- En Vivo](https://open.spotify.com/track/6XCOR9Rs01PBQrVxI7nXxa) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Con Amigos y La Banda Vol.1 \(En Vivo\)](https://open.spotify.com/album/3VuqUe1TDvhAKzRAxUSw5b) | 3:33 |
+| 30 | [Un Mentado Ariel](https://open.spotify.com/track/2aTdwAYeLbuedDShCIDI1h) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 3:16 |
 | 31 | [Alguien Como Tú](https://open.spotify.com/track/4RsRVpG6hmp5tlj2piiPrC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/7ikXM5hxBvLHdPcmAZr7c8) | 3:21 |
 | 32 | [Cartel De Badiraguato \- En Vivo](https://open.spotify.com/track/71xO201aCjm5MzgTGzu7m4) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Cartel De Badiraguato \(En Vivo\)](https://open.spotify.com/album/7xXdmxwPCaPkV5gyeVuACo) | 3:32 |
 | 33 | [Vida Truncada](https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Órdenes Directas](https://open.spotify.com/track/7w9libenk5qFo5LUoHGO7j) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Órdenes Directas \(Deltas\)](https://open.spotify.com/album/6spcpkPGLE5ERczqKcjwUU) | 2:27 |
 | 50 | [El Destroyer](https://open.spotify.com/track/2qMX1kP7iX5LqJT7iuQYrl) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Destroyer](https://open.spotify.com/album/4WG0oUlZ4sX2uP8SYDklzA) | 2:53 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDBjMmFmNTU2YzkzYjRjZTc0OWRhYzJlYzU0MDhhZTUyMQ==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDAzMjEyYzAyOTdiMzExYWExMzg3YzRiY2JjNzQ1NGQ2Ng==`

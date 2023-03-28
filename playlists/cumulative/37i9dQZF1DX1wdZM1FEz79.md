@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: J.YUNA\(제이유나\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-451 songs - 1 day 2 hr 50 min
+452 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Beach Again \(Acoustic Ver.\)](https://open.spotify.com/track/2XenAqDhO1owVxsYeRET65) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 4:21 | 2021-12-10 | 2022-07-24 |
 | [Beautiful Day](https://open.spotify.com/track/45EAhyaxuIPCvDtEuTi9yS) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [묘수](https://open.spotify.com/artist/6pngmJoXCOOg9nzhR7ezjF) | [Beautiful Day](https://open.spotify.com/album/7oZqnesBop8zn4D8QEZFIZ) | 2:52 | 2022-03-10 | 2022-04-21 |
 | [Because I Love You](https://open.spotify.com/track/1v1xZWe4flQJlntJXAIVI8) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Because I Love You](https://open.spotify.com/album/1tbWNmbqbGMTX2ioNCndau) | 3:40 | 2022-06-09 | 2022-07-28 |
+| [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 | 2023-03-28 |  |
 | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/track/7HyFV9XyVMu8ZbbOMvMPgO) | [CAR, THE GARDEN](https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3) | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/album/3QdHo5KB3EKyc0uapPsPJ0) | 3:19 | 2022-01-13 | 2022-07-14 |
 | [Behind the camera](https://open.spotify.com/track/1RAX3WtuQY3TyktqzAdUH8) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Behind the camera](https://open.spotify.com/album/7JPpktvZ0OGvK0m3TkMQbY) | 3:58 | 2022-07-04 | 2022-08-10 |
 | [Best regards](https://open.spotify.com/track/3owGb3JGbkRAWZjnCBj3Ic) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Best regards](https://open.spotify.com/album/68ZALvGpKI9Q8VEHUtodNN) | 3:18 | 2022-03-07 | 2022-04-21 |
@@ -336,7 +337,7 @@
 | [Starlight](https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/7hhddpXpVkzeJBgR4zkis2) | 4:33 | 2021-12-10 | 2022-07-21 |
 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 | 2022-07-08 |  |
 | [Starlight](https://open.spotify.com/track/6OdXfpxJT4bdWP1tKZfO3F) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The King in Love \(Original Television Soundtrack\)](https://open.spotify.com/album/5e8TyW0B7psIgCR8C9IAuI) | 3:27 | 2022-03-31 | 2022-04-08 |
-| [Stars](https://open.spotify.com/track/1Hx49lTfati0s9LWycIpTw) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Road Trip, vol.1](https://open.spotify.com/album/0kc2e8ZRAfNlLW9PLR5g2E) | 2:48 | 2023-03-02 |  |
+| [Stars](https://open.spotify.com/track/1Hx49lTfati0s9LWycIpTw) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Road Trip, vol.1](https://open.spotify.com/album/0kc2e8ZRAfNlLW9PLR5g2E) | 2:48 | 2023-03-02 | 2023-03-28 |
 | [Stars appear](https://open.spotify.com/track/4SOp0pG2eVeW3aypcMacXl) | [danwoo lim](https://open.spotify.com/artist/3ubaacfE5aNEXvmHhkNlTZ) | [Stars appear](https://open.spotify.com/album/4BlLPUmbaM1hguxczOV1bC) | 3:12 | 2022-03-31 | 2022-04-20 |
 | [Stay With Me](https://open.spotify.com/track/1Idbih6qYZUXzL5I4Wq6Hn) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/4ebeZziAY8xysG8bHhHljX) | 2:52 | 2023-01-11 | 2023-01-26 |
 | [Still with you](https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic) | [SU A](https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y) | [Minamdang \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv) | 3:06 | 2022-08-18 | 2022-09-03 |

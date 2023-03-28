@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 124372,
+  "num_followers": 124548,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY1ODUyNSwwMDAwMDAwMDhhOGRjM2RiNjczYWFmODY3ZmYyYjY0NmI0MDI3NzU3",
+  "snapshot_id": "MTY3OTY1ODUyNSwwMDAwMDAwMDljYjU3YmFiMzQ2ZjFmZTVjODk5NDZiYTJjOTJkZjU3",
   "tracks": [
     {
       "added_at": "2023-03-07 08:01:20",
@@ -143,26 +143,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "Still D.R.E.",
-      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -199,34 +179,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -247,6 +215,58 @@
       "duration_ms": 235533,
       "name": "How We Do",
       "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Rolling Papers",
+        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Black and Yellow",
+      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -287,38 +307,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Rolling Papers",
-        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
       "artists": [
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 217666,
-      "name": "Black and Yellow",
-      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Let Me Blow Ya Mind",
-      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 218546,
       "name": "Jump Around - 30 Years Remaster",
       "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 233560,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/6BdgtqiV3oXNqBikezwdvC"
+      "duration_ms": 211866,
+      "name": "Gin and Juice",
+      "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Jesus Walks",
-      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
+      "duration_ms": 233560,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/6BdgtqiV3oXNqBikezwdvC"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -611,22 +611,6 @@
       "duration_ms": 231240,
       "name": "Break Ya Neck",
       "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Gin and Juice",
-      "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Friday (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 305573,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
+      "duration_ms": 193733,
+      "name": "Jesus Walks",
+      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -699,6 +683,22 @@
       "duration_ms": 234000,
       "name": "The Way You Move (feat. Sleepy Brown)",
       "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Who Am I (What\u2019s My Name)?",
+      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Who Am I (What\u2019s My Name)?",
-      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Aquemini",
         "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
       },
@@ -975,42 +975,6 @@
       "duration_ms": 324373,
       "name": "Rosa Parks",
       "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "The Black Album",
-        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Dirt Off Your Shoulder",
-      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Tha Carter III (MTV Bonus Version)",
-        "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1035,18 +999,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 196640,
-      "name": "If I Can't",
-      "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0"
+      "duration_ms": 245173,
+      "name": "Dirt Off Your Shoulder",
+      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1067,6 +1031,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "If I Can't",
+      "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "Phrenology",
         "url": "https://open.spotify.com/album/01FOonRYntwISzaCSa7S7p"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 267933,
       "name": "The Seed (2.0)",
       "url": "https://open.spotify.com/track/6HxweNytuEQdmGeVtZPZz3"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Tha Carter III (MTV Bonus Version)",
+        "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "The Best of 2Pac",
-        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "California Love - Original Version",
-      "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Warriorz",
         "url": "https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 247693,
       "name": "Ante Up (feat. Busta Rhymes, Teflon & Remi Martin) - Remix",
       "url": "https://open.spotify.com/track/5osSw3tL07Tuid7AWsvYcc"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "The Best of 2Pac",
+        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "B2K Presents \"You Got Served\" Soundtrack",
-        "url": "https://open.spotify.com/album/56m66MCo7QzlpVr2EwGuHT"
+        "name": "3 Feet High and Rising",
+        "url": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD"
       },
       "artists": [
         {
-          "name": "M.O.P.",
-          "url": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Ante Up (Robbin Hoodz Theory)",
-      "url": "https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE"
+      "duration_ms": 260411,
+      "name": "Say No Go",
+      "url": "https://open.spotify.com/track/1VlIjGDl74uwzy1nzeQ3Qr"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1715,18 +1715,30 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "3 Feet High and Rising",
-        "url": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD"
+        "name": "Under Construction, Part II",
+        "url": "https://open.spotify.com/album/0jfrooQp2CEzzX0kwwcnM9"
       },
       "artists": [
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Magoo",
+          "url": "https://open.spotify.com/artist/1PqyGzj6IhtEQSyn4IowKw"
+        },
+        {
+          "name": "Sebastian",
+          "url": "https://open.spotify.com/artist/6XVMtRHN03nQXr3dshNGsf"
+        },
+        {
+          "name": "Raj\u00e9 Shwari",
+          "url": "https://open.spotify.com/artist/5NDCWHHPCWPJi27puQSJpL"
         }
       ],
-      "duration_ms": 260411,
-      "name": "Say No Go",
-      "url": "https://open.spotify.com/track/1VlIjGDl74uwzy1nzeQ3Qr"
+      "duration_ms": 201813,
+      "name": "Indian Flute (feat. Sebastian & Raje Shwari)",
+      "url": "https://open.spotify.com/track/2Y28AeUQPTx6UqWJImdPTf"
     }
   ],
   "unique_name": "Hip-Hop Classics Party",

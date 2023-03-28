@@ -5847,6 +5847,24 @@
     },
     {
       "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163240,
+      "name": "MI DROGA",
+      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
+    },
+    {
+      "album": {
         "name": "Midden In De Club",
         "url": "https://open.spotify.com/album/7hVIIRKPPaeSXY0d6qe8RW"
       },

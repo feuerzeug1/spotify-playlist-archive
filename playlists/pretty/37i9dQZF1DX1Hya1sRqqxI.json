@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 214666,
+  "num_followers": 215217,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTUzOSwwMDAwMDAwMDdmY2U4MTMzMGE1MDg4NWVjZjE4NmMxNWQ4NGYxNDQ3",
+  "snapshot_id": "MTY2OTk2NTUzOSwwMDAwMDAwMGIzNDY0MGEyNzUzZmRiM2QxODAxZWNmODVjNmIzNjkx",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "High Voltage",
         "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
       },
@@ -551,38 +567,6 @@
       "duration_ms": 208946,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -617,20 +601,20 @@
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -647,6 +631,22 @@
       "duration_ms": 193346,
       "name": "Don't Stop - 2004 Remaster",
       "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Poems, Prayers and Promises",
@@ -743,6 +727,22 @@
       "duration_ms": 181133,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Angeleyes",
-      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Born to Be Alive (The Original)",
@@ -871,6 +855,22 @@
       "duration_ms": 330643,
       "name": "All Right Now",
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Fantastic Boney M.",
+        "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Rasputin - Single Version",
+      "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Cheryl Lynn (Expanded Edition)",
@@ -1307,22 +1323,6 @@
       "duration_ms": 303333,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Fantastic Boney M.",
-        "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Rasputin - Single Version",
-      "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Love For Sale",
-        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Ma Baker",
-      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Tom Jones Sings She's A Lady",
@@ -1423,6 +1407,22 @@
       "duration_ms": 174146,
       "name": "She's A Lady",
       "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Love For Sale",
+        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Ma Baker",
+      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "4 Hits: Eruption",
@@ -1679,6 +1663,22 @@
       "duration_ms": 213200,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Something / Anything?",
         "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 182800,
       "name": "I Saw the Light",
       "url": "https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1977,22 +1977,6 @@
       "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "If You Knew Suzi\u2026 (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3li6vNhRkVvZCAKzlMD0uI"
-      },
-      "artists": [
-        {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
-        }
-      ],
-      "duration_ms": 232994,
-      "name": "If You Can't Give Me Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
@@ -2007,6 +1991,22 @@
       "duration_ms": 628546,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "If You Knew Suzi\u2026 (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3li6vNhRkVvZCAKzlMD0uI"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 232994,
+      "name": "If You Can't Give Me Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 200653,
       "name": "Instant Karma! (We All Shine On) - Remastered 2010",
       "url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
     },
     {
       "added_at": "2021-03-22 14:18:04",

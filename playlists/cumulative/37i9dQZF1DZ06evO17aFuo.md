@@ -4,7 +4,7 @@
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-87 songs - 6 hr 15 min
+88 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Death From Within](https://open.spotify.com/track/7IcKHPLfhvdfSBYTPMAbga) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:47 | 2022-06-02 | 2022-08-30 |
 | [Delivering The Goods](https://open.spotify.com/track/6EQD1ZJSicyN5zAWUlfJ8V) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Delivering The Goods](https://open.spotify.com/album/7GHLucCOV56taMwFjVwfc0) | 4:27 | 2023-02-20 |  |
 | [Devils Island \- 2004 Remaster](https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:05 | 2022-05-30 |  |
-| [Dialectic Chaos](https://open.spotify.com/track/2Sl9U6mLbNeaE9lT9C32Td) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [ENDGAME](https://open.spotify.com/album/0G5qC48D3MI8YBKTVwIiz1) | 2:25 | 2022-05-30 |  |
+| [Dialectic Chaos](https://open.spotify.com/track/2Sl9U6mLbNeaE9lT9C32Td) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [ENDGAME](https://open.spotify.com/album/0G5qC48D3MI8YBKTVwIiz1) | 2:25 | 2022-05-30 | 2023-03-28 |
 | [Dogs Of Chernobyl](https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:14 | 2022-09-06 |  |
 | [Dread and the Fugitive Mind](https://open.spotify.com/track/4Bfxp472zIwiSYjZsK76EN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:25 | 2022-06-03 |  |
 | [Duke Nukem](https://open.spotify.com/track/3VowFZMqNlHzSIa2MA2kwM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:54 | 2022-05-30 | 2022-09-04 |
@@ -40,6 +40,7 @@
 | [Hangar 18 \- 2004 Remix](https://open.spotify.com/track/6b6uLZsoGhObYexIxnRbIb) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:11 | 2022-05-30 |  |
 | [Holy Wars...The Punishment Due \- 2004 Remix](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 | 2022-05-30 |  |
 | [I Ain't Superstitious \- Remastered](https://open.spotify.com/track/43gM0PIvpgqv19nFZWRlN3) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying?](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 2:45 | 2022-06-12 | 2022-08-11 |
+| [I Know Jack](https://open.spotify.com/track/7iIfsmOF4L7GoCb9bYSoGt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/21JgJ2sQBLsGtthdGet15B) | 0:40 | 2023-03-27 |  |
 | [I Know Jack \- 2019 \- Remaster](https://open.spotify.com/track/1DpPaJZ7ktsBcnFla7smIM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed \(2019 \- Remaster\)](https://open.spotify.com/album/2KcFVbu6rg8HdRfU97S5C5) | 0:40 | 2023-03-20 | 2023-03-22 |
 | [In My Darkest Hour \- Remastered 2004](https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 6:26 | 2022-05-30 |  |
 | [Into The Lungs Of Hell \- Remastered](https://open.spotify.com/track/7hriWWyB26C1mgdnn6pbgm) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(2004 Remaster\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 3:22 | 2022-06-01 | 2022-09-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa Queens in their music bag
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,493 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,495 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 25 | [Living Legends](https://open.spotify.com/track/1D62kK6VCcfQV1JyOhgsRx) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Living Legends](https://open.spotify.com/album/49JYkKgWSeEyD7qtjC3X5g) | 2:57 |
 | 26 | [Nfollowinga](https://open.spotify.com/track/0VNAMIE10wDY5zy6jqmQQY) | [Miriam Namaganda](https://open.spotify.com/artist/4WPIAHlYewpWNZnWOlEhiF), [Angella Katatumba](https://open.spotify.com/artist/1vpGA9WdQqdZHY36FcYoqw) | [Nfollowinga](https://open.spotify.com/album/4gA8KJQVSNlhjy74KRDnLP) | 2:47 |
 | 27 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 |
-| 28 | [SLOW DANCING](https://open.spotify.com/track/6Qyi7tjYfQf3jSc2DjgVMC) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:22 |
+| 28 | [Slow Dancing](https://open.spotify.com/track/6Qyi7tjYfQf3jSc2DjgVMC) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:22 |
 | 29 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 |
 | 30 | [Njiira Love](https://open.spotify.com/track/462ozq0tVcoq50ZjaM2lWs) | [Sheebah Karungi](https://open.spotify.com/artist/5HwCHe2TkWMfGGpk2A8aku), [Sama Sojah](https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk) | [Njiira Love](https://open.spotify.com/album/3JFPB4w1ZhFDE1QAgz58F2) | 2:32 |
 | 31 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 |

@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-694 songs - 1 day 11 hr 40 min
+695 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,7 @@
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 | 2022-07-07 | 2023-01-06 |
 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2022-03-24 | 2022-10-01 |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2021-12-16 | 2022-07-29 |
-| [That's Hilarious](https://open.spotify.com/track/0wPKDeY4fZXT6k9bzV0kx0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 2:24 | 2022-10-27 |  |
+| [That's Hilarious](https://open.spotify.com/track/0wPKDeY4fZXT6k9bzV0kx0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 2:24 | 2022-10-27 | 2023-03-28 |
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:24 | 2022-04-07 | 2022-10-16 |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-07 | 2022-04-21 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-12-16 |  |
@@ -687,6 +687,7 @@
 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-12-16 | 2022-07-29 |
 | [World We Used To Know](https://open.spotify.com/track/1I8pMiv8c8mTP0fvt0pqQs) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [World We Used To Know](https://open.spotify.com/album/6EqrqJTBQ6JRFJQKY19sCE) | 2:42 | 2022-03-24 | 2022-04-17 |
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-07-07 | 2022-07-27 |
+| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-17 |  |
 | [Would've, Could've, Should've](https://open.spotify.com/track/0aV5uARAknQgYhBaK944FP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 4:20 | 2022-10-21 |  |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-24 | 2022-07-19 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-03-24 | 2022-04-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week\. Cover: Chiiild, by Ian Woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,359 likes - 104 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,393 likes - 104 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

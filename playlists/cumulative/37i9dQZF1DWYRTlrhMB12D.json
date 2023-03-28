@@ -1785,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Coffee Aur Kishore",
+        "url": "https://open.spotify.com/album/0bX8qbSF7lWNygaTcpcwQz"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270222,
+      "name": "O Saathi Re (From \"Muqaddar Ka Sikandar\")",
+      "url": "https://open.spotify.com/track/48D8kYVTIwnkBoYvvb3hsv"
+    },
+    {
+      "album": {
         "name": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5"
       },
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 306666,
       "name": "Phoolon Ke Rang Se (From \"Prem Pujari\")",
       "url": "https://open.spotify.com/track/3J0VEn67cJuMUrJWDbsXiN"

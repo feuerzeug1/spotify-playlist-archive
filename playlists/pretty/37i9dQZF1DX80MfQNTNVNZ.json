@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 131693,
+  "num_followers": 131760,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU4NDUzMywwMDAwMDAwMDFhZTFmYzc1OGJmMzdmZmI4MmFmYzQ5ZGQ1ZDZkMGZj",
+  "snapshot_id": "MTY3OTU4NDUzMywwMDAwMDAwMGJiNzRlZDliZDQ2MTY0ODVlMTczY2I2NzkzZTczZGNm",
   "tracks": [
     {
       "added_at": "2023-03-16 15:00:00",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM"
     },
     {
-      "added_at": "2023-03-27 01:29:46",
+      "added_at": "2023-03-28 01:23:15",
       "album": {
         "name": "Smoke (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/6cLAX064e8EpvsA31qIIyM"
     },
     {
-      "added_at": "2023-03-27 01:29:46",
+      "added_at": "2023-03-28 01:23:15",
       "album": {
         "name": "Palace",
         "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/5A5d8Coap6LIWcbk3xGDXi"
     },
     {
-      "added_at": "2023-03-27 01:29:46",
+      "added_at": "2023-03-28 01:23:15",
       "album": {
         "name": "Exodus the North Star",
         "url": "https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um"
@@ -639,46 +639,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Gimme (feat. Koffee & Jessie Reyez)",
-        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 172113,
-      "name": "Gimme (feat. Koffee & Jessie Reyez)",
-      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
-        "name": "white",
-        "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "white",
-      "url": "https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -703,6 +663,46 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "white",
+        "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "white",
+      "url": "https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "Gimme (feat. Koffee & Jessie Reyez)",
+        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 172113,
+      "name": "Gimme (feat. Koffee & Jessie Reyez)",
+      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "There is no Neil Frances",
-        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "dancing",
-      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "There is no Neil Frances",
+        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Impurities",
-        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229203,
-      "name": "Impurities",
-      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Drunk On A Flight",
-      "url": "https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd"
-    },
-    {
-      "added_at": "2023-03-16 15:00:00",
-      "album": {
         "name": "your love",
         "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
       },
@@ -1087,22 +1055,34 @@
     {
       "added_at": "2023-03-16 15:00:00",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
         }
       ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+      "duration_ms": 182857,
+      "name": "Drunk On A Flight",
+      "url": "https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "Impurities",
+        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229203,
+      "name": "Impurities",
+      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
     },
     {
       "added_at": "2023-03-16 15:00:00",
@@ -1139,6 +1119,30 @@
       "duration_ms": 126625,
       "name": "Two Sides (I\u2019m So Gemini) - Single Version",
       "url": "https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q"
+    },
+    {
+      "added_at": "2023-03-16 15:00:00",
+      "album": {
+        "name": "Good Care",
+        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "duration_ms": 194550,
+      "name": "Good Care",
+      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
     }
   ],
   "unique_name": "aloe",

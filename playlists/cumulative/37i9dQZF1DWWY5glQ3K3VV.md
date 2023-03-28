@@ -4,7 +4,7 @@
 
 > Canzoni rap per party fino al mattino! Cover: Tony Effe
 
-196 songs - 9 hr 55 min
+197 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [Baby \(with J Balvin\)](https://open.spotify.com/track/4L5ZhW0VJeQ6je2iqvqZ4X) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT) | 3:13 | 2022-05-01 | 2022-07-29 |
 | [Backwoods](https://open.spotify.com/track/0OOalWuhO3e1fjriNVlvqj) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [SKINNY BABY](https://open.spotify.com/album/5IMeTLBNo9M0LUxaHZFx4E) | 2:57 | 2022-05-01 | 2022-07-29 |
 | [BAD BITCH](https://open.spotify.com/track/1gyQ0inxIAFzmSCWSwPWIL) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [BAD BITCH](https://open.spotify.com/album/1D7VO0tJc3bNG3HdV73oDZ) | 2:28 | 2022-05-11 | 2022-05-13 |
+| [Balaclava \(feat\. Capo Plaza\)](https://open.spotify.com/track/4zYatWHWblyRliSYAtpsut) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Untouchable](https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N) | 3:07 | 2023-03-23 |  |
 | [Balaclava \(feat\. Capo Plaza\)](https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Untouchable](https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf) | 3:07 | 2022-05-01 | 2023-02-03 |
-| [Bando](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Bando](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) | 2:48 | 2022-08-26 |  |
+| [Bando](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Bando](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) | 2:48 | 2022-08-26 | 2023-03-28 |
 | [Banlieue](https://open.spotify.com/track/43Yw3ycsVJOb4eDzZ7pwQG) | [Bloy$](https://open.spotify.com/artist/6YnSAmwqze7HFnvSt6lxYj) | [Banlieue](https://open.spotify.com/album/2bz7o8YGDuN1BLD0IMiwR6) | 2:38 | 2022-05-12 | 2022-06-11 |
 | [Bella Giornata \(prod\. Dogslife, Mago del blocco\) \(feat\. Dogslife & Mago del Blocco\)](https://open.spotify.com/track/76xea5TfeyVu8c4dGWpFD2) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Dogslife](https://open.spotify.com/artist/73TvGBOaS1WApWEiMefT9O), [Mago del Blocco](https://open.spotify.com/artist/0MNIz36U44uxk0MZeZ2smX) | [Bella Giornata \(prod\. Dogslife, Mago del blocco\) \(feat\. Dogslife & Mago del Blocco\)](https://open.spotify.com/album/4TSk7THVrLQr1D3E61vHta) | 3:01 | 2022-05-01 | 2022-07-27 |
 | [Best Life](https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Best Life](https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr) | 2:19 | 2022-10-27 | 2022-11-13 |

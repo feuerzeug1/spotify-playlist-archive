@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 723099,
+  "num_followers": 723353,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MzI1NywwMDAwMDAwMGZjM2FlMjUwNzRmYzY2YzhmNjI1ODQzYzdhYWRiYmZj",
+  "snapshot_id": "MTY3OTkzNTcyMCwwMDAwMDAwMGQyYTRmODY0MjM0NGI5YzI1NDViYjgxMGE5ZmZkYWM5",
   "tracks": [
     {
       "added_at": "2023-01-03 16:27:37",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "XIII",
         "url": "https://open.spotify.com/album/6gAsOoMZVH5HwQWFBnIWcm"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 219226,
       "name": "9 Crimes",
       "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -379,6 +395,22 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "Sleep Well Beast",
         "url": "https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS"
       },
@@ -391,6 +423,22 @@
       "duration_ms": 236746,
       "name": "The System Only Dreams in Total Darkness",
       "url": "https://open.spotify.com/track/612R6rJlv9N3wpljUpT8Ja"
+    },
+    {
+      "added_at": "2023-03-28 01:20:48",
+      "album": {
+        "name": "John Came Home",
+        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -415,22 +463,6 @@
       "duration_ms": 475186,
       "name": "Killer + The Sound",
       "url": "https://open.spotify.com/track/00fRUfon3pr861IKiG03kA"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -471,18 +503,18 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
       "artists": [
         {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+      "duration_ms": 343786,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -551,22 +583,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Projections",
         "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Run, Lucifer",
-        "url": "https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal"
-      },
-      "artists": [
-        {
-          "name": "Adna",
-          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
-        }
-      ],
-      "duration_ms": 176167,
-      "name": "Beautiful Hell",
-      "url": "https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 143240,
       "name": "O I Long to Feel Your Arms Around Me",
       "url": "https://open.spotify.com/track/0rGB4l2BHJhL4C1s8w6jZG"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Run, Lucifer",
+        "url": "https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal"
+      },
+      "artists": [
+        {
+          "name": "Adna",
+          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
+        }
+      ],
+      "duration_ms": 176167,
+      "name": "Beautiful Hell",
+      "url": "https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Once I Was An Eagle",
-        "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Devil's Resting Place",
-      "url": "https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "If You Wait",
         "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 204213,
       "name": "Wasting My Young Years",
       "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Once I Was An Eagle",
+        "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Devil's Resting Place",
+      "url": "https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Philharmonics",
-        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Somebody Desperate (From ''Cyrano'' Soundtrack)",
         "url": "https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 235053,
       "name": "Somebody Desperate - From ''Cyrano'' Soundtrack",
       "url": "https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Cathedrals - EP",
-        "url": "https://open.spotify.com/album/5pMbkSjNGEcKjnRwbF8kwv"
-      },
-      "artists": [
-        {
-          "name": "Cathedrals",
-          "url": "https://open.spotify.com/artist/7HIjKw4rHS0MtmV0cqSlpB"
-        }
-      ],
-      "duration_ms": 223759,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/49gE0a0YPRMXRp43QhnHH8"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Cathedrals - EP",
+        "url": "https://open.spotify.com/album/5pMbkSjNGEcKjnRwbF8kwv"
+      },
+      "artists": [
+        {
+          "name": "Cathedrals",
+          "url": "https://open.spotify.com/artist/7HIjKw4rHS0MtmV0cqSlpB"
+        }
+      ],
+      "duration_ms": 223759,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/49gE0a0YPRMXRp43QhnHH8"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Broods",
-        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 180067,
-      "name": "Sleep Baby Sleep",
-      "url": "https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Beneath The Skin (Deluxe)",
         "url": "https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 276453,
       "name": "I Of The Storm",
       "url": "https://open.spotify.com/track/3z8ypl55NHugzc6EDVVFdF"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Broods",
+        "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
+      },
+      "artists": [
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 180067,
+      "name": "Sleep Baby Sleep",
+      "url": "https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "One Big Nothing",
-        "url": "https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm"
-      },
-      "artists": [
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/2qnldWV2h89LcrnAeb3X04"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 140034,
       "name": "Don't Know Who I Am",
       "url": "https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "One Big Nothing",
+        "url": "https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm"
+      },
+      "artists": [
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2"
-      },
-      "artists": [
-        {
-          "name": "Vera Sola",
-          "url": "https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y"
-        }
-      ],
-      "duration_ms": 200448,
-      "name": "Loving, Loving",
-      "url": "https://open.spotify.com/track/74PqdCEXhh29g5a8UGIez8"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Absolute Zero",
         "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 300960,
       "name": "My Love Took Me Down To the River To Silence Me",
       "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2"
+      },
+      "artists": [
+        {
+          "name": "Vera Sola",
+          "url": "https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y"
+        }
+      ],
+      "duration_ms": 200448,
+      "name": "Loving, Loving",
+      "url": "https://open.spotify.com/track/74PqdCEXhh29g5a8UGIez8"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Hollowed out Sea",
-        "url": "https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A"
-      },
-      "artists": [
-        {
-          "name": "Ailbhe Reddy",
-          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
-        }
-      ],
-      "duration_ms": 213350,
-      "name": "Distrust",
-      "url": "https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Farm b/w Lift",
         "url": "https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 283096,
       "name": "Farm",
       "url": "https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Hollowed out Sea",
+        "url": "https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A"
+      },
+      "artists": [
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "duration_ms": 213350,
+      "name": "Distrust",
+      "url": "https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1651,22 +1667,6 @@
       "duration_ms": 243667,
       "name": "Swell",
       "url": "https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 362280,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH"
     }
   ],
   "unique_name": "Dark & Stormy",

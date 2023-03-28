@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive x Cairo x Narco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,817 likes - 55 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,288 likes - 55 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GAZ PEDAL](https://open.spotify.com/track/0TbeXCwQz1oSK5eZVLnEIn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [GAZ PEDAL](https://open.spotify.com/album/71HKIz40EJPU0BKrCtO0rg) | 2:25 |
-| 2 | [Paspartu](https://open.spotify.com/track/0ufocYYqahx6pVSERRj4HL) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Paspartu](https://open.spotify.com/album/1UTwQbcpKHteAspEdAN0nc) | 4:34 |
+| 1 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
+| 2 | [GAZ PEDAL](https://open.spotify.com/track/0TbeXCwQz1oSK5eZVLnEIn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [GAZ PEDAL](https://open.spotify.com/album/71HKIz40EJPU0BKrCtO0rg) | 2:25 |
 | 3 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
-| 4 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
-| 5 | [İNTİKAM](https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İNTİKAM](https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p) | 2:36 |
-| 6 | [MERVE \- Masada Chivas](https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/7Jo5ql6vYAeGbWtPphIk2U) | 2:39 |
+| 4 | [Paspartu](https://open.spotify.com/track/0ufocYYqahx6pVSERRj4HL) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Paspartu](https://open.spotify.com/album/1UTwQbcpKHteAspEdAN0nc) | 4:34 |
+| 5 | [MERVE \- Masada Chivas](https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/7Jo5ql6vYAeGbWtPphIk2U) | 2:39 |
+| 6 | [İNTİKAM](https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İNTİKAM](https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p) | 2:36 |
 | 7 | [Sahibinden](https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Sahibinden](https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z) | 2:03 |
-| 8 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
-| 9 | [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 |
-| 10 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 |
-| 11 | [Dünya](https://open.spotify.com/track/2yH4M3DAPx5E4zEWK9vE12) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Dünya](https://open.spotify.com/album/1L8vKc7MwocrgtHl0uFgt7) | 2:20 |
-| 12 | [İMPARATOR](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İMPARATOR](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
+| 8 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 |
+| 9 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
+| 10 | [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 |
+| 11 | [İMPARATOR](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İMPARATOR](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
+| 12 | [Dünya](https://open.spotify.com/track/2yH4M3DAPx5E4zEWK9vE12) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Dünya](https://open.spotify.com/album/1L8vKc7MwocrgtHl0uFgt7) | 2:20 |
 | 13 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 |
 | 14 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 |
 | 15 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 54 | [Gayrimeşru](https://open.spotify.com/track/0CqQx2dcNFmtYM4oTSECSt) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Gayrimeşru](https://open.spotify.com/album/4HAjpThNI0MV2jQwcT56nX) | 1:58 |
 | 55 | [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 |
 
-Snapshot ID: `MTY3OTYwNTIwMCwwMDAwMDAwMDM1ZGYyZGU2Y2EzOTI2YTNhM2U2ZTgzZDY4MjBiODc3`
+Snapshot ID: `MTY3OTkwNTAyMiwwMDAwMDAwMDcxYjYyYmU1ZDQ3MGFkZDllOGQ0Njg3MTU2Y2I1Mjgw`

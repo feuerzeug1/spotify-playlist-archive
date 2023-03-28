@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-361 songs - 1 day 7 hr 29 min
+362 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-12-17 |  |
 | [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 |  |
 | [Hvite Krists Død](https://open.spotify.com/track/5FpE6NBSSK8T6w12PjxJjt) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone](https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V) | 8:27 | 2022-07-13 | 2022-07-29 |
-| [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 |  |
+| [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 | 2023-03-28 |
 | [Hvítir Sandar](https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF) | [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Hvítir Sandar](https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl) | 4:37 | 2021-12-17 | 2022-06-11 |
 | [Hybrid Stigmata \- The Apostasy \- Remixed & Remastered](https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Hybrid Stigmata \- The Apostasy \(Remixed & Remastered\)](https://open.spotify.com/album/5LnaDeaEeuoWqKhZ9jbWBJ) | 6:59 | 2022-09-16 | 2022-12-08 |
 | [I](https://open.spotify.com/track/20Ixhug1ZV3n3XXeB71kDF) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Nattens Madrigal](https://open.spotify.com/album/1Hod8O8aRjCE5RG6aI1GKl) | 6:16 | 2022-07-13 | 2022-09-02 |
@@ -179,6 +179,7 @@
 | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/track/4tLtrLgROIRKkMkQdeYZ4h) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Kyle Anderson](https://open.spotify.com/artist/2eBk2tRUVeNEfbuDvU4v44) | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/album/0qMWnSbR71q3ccgPyPx9v6) | 4:41 | 2022-03-18 | 2022-07-24 |
 | [Inno A Satana](https://open.spotify.com/track/3hKxsjBdyJmqOyNMgv2wOx) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU) | 4:48 | 2022-07-13 |  |
 | [Insides Out](https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Insides Out](https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK) | 3:32 | 2022-09-09 | 2022-12-13 |
+| [Intestinal Wrap](https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Intestinal Wrap](https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8) | 3:24 | 2023-03-24 |  |
 | [Into the Crypts of Rays](https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales \(Expanded Version\)](https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH) | 3:38 | 2022-09-01 |  |
 | [Into the Crypts of Rays](https://open.spotify.com/track/4xQO8MVtFZOW2KJMBuAB2p) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 3:39 | 2022-07-13 | 2022-09-04 |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |

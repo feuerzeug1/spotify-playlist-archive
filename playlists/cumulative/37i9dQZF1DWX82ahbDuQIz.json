@@ -1591,6 +1591,48 @@
     },
     {
       "album": {
+        "name": "Some Like It Hot (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0D4rHSdwa7yTUI6hH3P733"
+      },
+      "artists": [
+        {
+          "name": "Kevin Del Aguila",
+          "url": "https://open.spotify.com/artist/4TkeFolTZyiNHXse2axCOA"
+        },
+        {
+          "name": "J. Harrison Ghee",
+          "url": "https://open.spotify.com/artist/0Sgs5uMAFG5PoMhBYz2S94"
+        },
+        {
+          "name": "TyNia Ren\u00e9 Brandon",
+          "url": "https://open.spotify.com/artist/5nRfEcwTv5soBg4yDqcal7"
+        },
+        {
+          "name": "Angie Schworer",
+          "url": "https://open.spotify.com/artist/0A5VTirJF6egc3ZLt5SwIA"
+        },
+        {
+          "name": "Jenny Hill",
+          "url": "https://open.spotify.com/artist/4TSsulB5AQwCCHHXHHk7Uc"
+        },
+        {
+          "name": "Raena White",
+          "url": "https://open.spotify.com/artist/4CKGlvRI1qusjfZh2sSWIq"
+        },
+        {
+          "name": "'Some Like It Hot' Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/1qaoI60KR6A1egoYzkEeOm"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256590,
+      "name": "Let's Be Bad",
+      "url": "https://open.spotify.com/track/4fBjGkTb0dRK3yKZ0MkPqa"
+    },
+    {
+      "album": {
         "name": "Spring Awakening (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4wzRScAgwPd1iQh3HIegFs"
       },
@@ -3076,7 +3118,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 334066,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/78cj20lkGZGmNyL9ehr0cv"

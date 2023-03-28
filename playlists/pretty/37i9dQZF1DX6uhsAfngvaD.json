@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 278294,
+  "num_followers": 278351,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDk4NWE2ZjNlMGUwMDRjZTZlYzRmMTQ2MmM3OWI4MzAx",
+  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDAwYTgyOWIxMjg5N2Y0OTU3NjZmMzY4N2QwZDg4ZjVj",
   "tracks": [
     {
       "added_at": "2023-03-24 00:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 331664,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 389948,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 389948,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
@@ -543,18 +559,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
         }
       ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+      "duration_ms": 233333,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
-      },
-      "artists": [
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "27 Club",
         "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
       },
       "artists": [
         {
-          "name": "Swiss Portrait",
-          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
         }
       ],
-      "duration_ms": 160700,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -707,6 +691,22 @@
       "duration_ms": 159032,
       "name": "number own",
       "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
+      },
+      "artists": [
+        {
+          "name": "Swiss Portrait",
+          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
+        }
+      ],
+      "duration_ms": 160700,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 135375,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "French Movie",
         "url": "https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 199680,
       "name": "French Movie",
       "url": "https://open.spotify.com/track/5neke7wAgH6BT43KoYgowg"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Shadam",
+        "url": "https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS"
+      },
+      "artists": [
+        {
+          "name": "Camp Claude",
+          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Shadam",
+      "url": "https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
@@ -1055,6 +1071,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "dad",
         "url": "https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ"
       },
@@ -1083,22 +1115,6 @@
       "duration_ms": 242943,
       "name": "Is This Where It Ends",
       "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 195225,
       "name": "Picnic In The Rain",
       "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Shadam",
-        "url": "https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS"
-      },
-      "artists": [
-        {
-          "name": "Camp Claude",
-          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Shadam",
-      "url": "https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM"
     },
     {
       "added_at": "2023-03-24 00:00:00",

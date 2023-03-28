@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,136 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,149 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [Two Hearts \- Single Version](https://open.spotify.com/track/7ikuX6GAuWaT5SAZytkBRi) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Best Of Stephanie Mills](https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO) | 4:37 |
 | 50 | [Only You](https://open.spotify.com/track/2OH7gEuDmtdlUce6y0u7EP) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:03 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDA1OTk1YWFlOGNjM2MxMjZmOTIyZGI2M2U2NzNmZDcyYw==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDAzZDlhNDI4ODU4MzFlYTAxZGEzYTc0YjczZjEyMWU5Nw==`

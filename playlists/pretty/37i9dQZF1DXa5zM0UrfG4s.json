@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du kan spelle i kjerra! Cover: Hagle",
-  "num_followers": 95417,
+  "num_followers": 95489,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxMjQwMCwwMDAwMDAwMDhlMTU4MDNlYzRiYWI1MDEyN2ZmOTU5NTZjMTgxZTdl",
+  "snapshot_id": "MTY3OTYxMjQwMCwwMDAwMDAwMDk3N2VjZDE3N2FmMjVlODBjYTM4NGQ2ODQxMmQyN2Ix",
   "tracks": [
     {
       "added_at": "2023-03-23 23:00:00",
@@ -267,8 +267,8 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Raggen m\u00e5ste g\u00e5",
-        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL"
       },
       "artists": [
         {
@@ -276,9 +276,25 @@
           "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 131571,
-      "name": "Raggen m\u00e5ste g\u00e5",
-      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
+      "duration_ms": 154433,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "KJ\u00d8PE HELE SVERIGE",
+        "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 117180,
+      "name": "KJ\u00d8PE HELE SVERIGE",
+      "url": "https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -299,22 +315,6 @@
       "duration_ms": 132931,
       "name": "Rom & Cola",
       "url": "https://open.spotify.com/track/1GFZP2cT6C7nGmRzfX7VEY"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "KJ\u00d8PE HELE SVERIGE",
-        "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 117180,
-      "name": "KJ\u00d8PE HELE SVERIGE",
-      "url": "https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -363,42 +363,6 @@
       "duration_ms": 184508,
       "name": "Mawbys",
       "url": "https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
-        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 186692,
-      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
-      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Polisen",
-        "url": "https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 154433,
-      "name": "Polisen",
-      "url": "https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -459,18 +423,54 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Stavangerkameratene",
-        "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
+        "name": "Raggen m\u00e5ste g\u00e5",
+        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
       },
       "artists": [
         {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 210093,
-      "name": "Bare s\u00e5 du vett det",
-      "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
+      "duration_ms": 131571,
+      "name": "Raggen m\u00e5ste g\u00e5",
+      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
+        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 186692,
+      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
+      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Ja likav\u00e4l",
+        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 161917,
+      "name": "Ja likav\u00e4l",
+      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -491,18 +491,58 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Ja likav\u00e4l",
-        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
+        "name": "Stavangerkameratene",
+        "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
       },
       "artists": [
         {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
         }
       ],
-      "duration_ms": 161917,
-      "name": "Ja likav\u00e4l",
-      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
+      "duration_ms": 210093,
+      "name": "Bare s\u00e5 du vett det",
+      "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Block Party",
+        "url": "https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "duration_ms": 125555,
+      "name": "Block Party",
+      "url": "https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Skyfri himmel",
+        "url": "https://open.spotify.com/album/3NpHStPztvvb1t7Rjl2PXM"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stefaren",
+          "url": "https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Skyfri himmel",
+      "url": "https://open.spotify.com/track/4Envvj6OILfnlVUFGifGcT"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -563,46 +603,6 @@
       "duration_ms": 150500,
       "name": "H\u00e4lsa Gud",
       "url": "https://open.spotify.com/track/4owtkzhI4uCeagbsgTajFg"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Skyfri himmel",
-        "url": "https://open.spotify.com/album/3NpHStPztvvb1t7Rjl2PXM"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Stefaren",
-          "url": "https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Skyfri himmel",
-      "url": "https://open.spotify.com/track/4Envvj6OILfnlVUFGifGcT"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Block Party",
-        "url": "https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        },
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        }
-      ],
-      "duration_ms": 125555,
-      "name": "Block Party",
-      "url": "https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Du kan inte f\u00e5 min \u00f6l",
         "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "S\u00e6la P\u00e5",
         "url": "https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh"
       },
@@ -791,6 +791,38 @@
       "duration_ms": 179016,
       "name": "S\u00e6la P\u00e5",
       "url": "https://open.spotify.com/track/0uub2NHyyNfCbxbaP3sGqR"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Rundt neste sving",
+      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -827,22 +859,6 @@
       "duration_ms": 147600,
       "name": "Eventyr",
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "P\u00e5 vei",
-        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Rundt neste sving",
-      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -931,38 +947,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
-        "url": "https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe"
-      },
-      "artists": [
-        {
-          "name": "Studavig\u00e5",
-          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
-        }
-      ],
-      "duration_ms": 141881,
-      "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
-      "url": "https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
@@ -995,6 +979,54 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "Aldri tilbake",
+        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Aldri tilbake",
+      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
+        "url": "https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        }
+      ],
+      "duration_ms": 141881,
+      "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
+      "url": "https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Hon kan inte banka pl\u00e5t",
+        "url": "https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "duration_ms": 128690,
+      "name": "Hon kan inte banka pl\u00e5t",
+      "url": "https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "H\u00f8l i potta",
         "url": "https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD"
       },
@@ -1019,22 +1051,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Aldri tilbake",
-        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Aldri tilbake",
-      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "N\u00e5 Koser Vi Oss",
         "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 169466,
       "name": "N\u00e5 Koser Vi Oss",
       "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "Hon kan inte banka pl\u00e5t",
-        "url": "https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW"
-      },
-      "artists": [
-        {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
-        }
-      ],
-      "duration_ms": 128690,
-      "name": "Hon kan inte banka pl\u00e5t",
-      "url": "https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1139,22 +1139,6 @@
       "duration_ms": 167543,
       "name": "Jag Vill Vara Din Margareta",
       "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
-        "name": "\u00c6rbesk\u00e6r",
-        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 135542,
-      "name": "\u00c6rbesk\u00e6r",
-      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
+        "name": "\u00c6rbesk\u00e6r",
+        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 135542,
+      "name": "\u00c6rbesk\u00e6r",
+      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
       },
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-03-23 23:00:00",
       "album": {
-        "name": "Gatebil",
-        "url": "https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        }
-      ],
-      "duration_ms": 128284,
-      "name": "Gatebil",
-      "url": "https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe"
-    },
-    {
-      "added_at": "2023-03-23 23:00:00",
-      "album": {
         "name": "Jag \u00e4r taggad",
         "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
@@ -1319,6 +1299,30 @@
       "duration_ms": 136814,
       "name": "Jag \u00e4r taggad",
       "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
+    },
+    {
+      "added_at": "2023-03-23 23:00:00",
+      "album": {
+        "name": "Helt Sykt VOL2",
+        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
+      },
+      "artists": [
+        {
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 185884,
+      "name": "En Siste Gang",
+      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

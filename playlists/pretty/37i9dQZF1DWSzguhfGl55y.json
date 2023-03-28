@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 597714,
+  "num_followers": 597832,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3MDE1NSwwMDAwMDAwMDE4YmFkYzJhM2FlZTQzYjI5NGQ1ODU3ZWQ5NTg2NmI2",
+  "snapshot_id": "MTY3Nzc3MDE1NSwwMDAwMDAwMGYzYzY4Nzg3NzQ4NjEyYWNiM2JmODkzNThkYTUwODVj",
   "tracks": [
     {
       "added_at": "2022-12-21 12:27:58",
@@ -135,6 +135,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "Stadtaffe",
+        "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Schwarz zu blau",
+      "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "Casia Deluxe",
         "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 218106,
       "name": "Alles wird gut",
       "url": "https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Stadtaffe",
-        "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Schwarz zu blau",
-      "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Ganz Oben (Mixtape)",
-        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Ein Affe und ein Pferd",
-      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
         "name": "Am Wasser gebaut",
         "url": "https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 241666,
       "name": "An Tagen wie diesen",
       "url": "https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Ganz Oben (Mixtape)",
+        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Ein Affe und ein Pferd",
+      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Urlaub f\u00fcrs Gehirn",
-        "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "Urlaub f\u00fcrs Gehirn",
-      "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
         "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
         "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 219013,
       "name": "Oh Jonny",
       "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "Urlaub f\u00fcrs Gehirn",
+        "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "Urlaub f\u00fcrs Gehirn",
+      "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "BLYAT",
         "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+        "name": "Zum Gl\u00fcck in die Zukunft II",
+        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
       },
       "artists": [
         {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
+      "duration_ms": 229653,
+      "name": "OMG!",
+      "url": "https://open.spotify.com/track/6ngfhauAytTZsaQgZyJIeK"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -455,34 +471,18 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft II",
-        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
       "artists": [
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
         }
       ],
-      "duration_ms": 229653,
-      "name": "OMG!",
-      "url": "https://open.spotify.com/track/6ngfhauAytTZsaQgZyJIeK"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Hahnenkampf",
-        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 301173,
-      "name": "Walpurgisnacht",
-      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -499,22 +499,6 @@
       "duration_ms": 269840,
       "name": "Troy",
       "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -555,6 +539,22 @@
       "duration_ms": 601000,
       "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
       "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 301173,
+      "name": "Walpurgisnacht",
+      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "4:99 - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
-      },
-      "artists": [
-        {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Mit freundlichen Gr\u00fc\u00dfen",
-      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
         "name": "CLA$$IC",
         "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 226186,
       "name": "CLA$$IC",
       "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "4:99 - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Mit freundlichen Gr\u00fc\u00dfen",
+      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "Electro Ghetto (Re-Release)",
+        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Wenn wir kommen",
+      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "Zum Gl\u00fcck in die Zukunft",
         "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 364720,
       "name": "Bossaura",
       "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Electro Ghetto (Re-Release)",
-        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Wenn wir kommen",
-      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -871,34 +871,34 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Hammerhart",
-      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
+      "duration_ms": 212506,
+      "name": "Nur noch Gucci",
+      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
     },
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft",
-        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
+        "name": "Fettes Brot l\u00e4sst gr\u00fcssen",
+        "url": "https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL"
       },
       "artists": [
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
         }
       ],
-      "duration_ms": 224080,
-      "name": "Endboss",
-      "url": "https://open.spotify.com/track/7pRY7ku84Y3x3nPoB2gxy0"
+      "duration_ms": 320040,
+      "name": "Da draussen",
+      "url": "https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

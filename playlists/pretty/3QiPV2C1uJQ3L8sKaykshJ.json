@@ -1,12 +1,12 @@
 {
   "description": "Listen to A-List tracks from RCA Records featuring music from SZA, Latto, Foushe\u00e9, Elle King, and more. Cover: SZA",
-  "num_followers": 14227,
+  "num_followers": 14226,
   "original_name": "The RCA-List",
   "owner": {
     "name": "RCA Records",
     "url": "https://open.spotify.com/user/rcarecords"
   },
-  "snapshot_id": "MjIyMCwwMzZkMjY2MDQwNTQ5MTA2YjIxODMxNzc2N2YzZTk0NmU0OGY0MTAy",
+  "snapshot_id": "MjI2OCw3MmYwMjMxMDQ4Zjg1YjRjNjZiMDkwZTYwNjkyNjgzMGJhOTZiYzY4",
   "tracks": [
     {
       "added_at": "2022-12-16 14:57:35",
@@ -23,42 +23,6 @@
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
-    },
-    {
-      "added_at": "2022-08-26 19:45:50",
-      "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2023-03-17 22:26:53",
-      "album": {
-        "name": "Lottery (feat. LU KALA)",
-        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 186761,
-      "name": "Lottery (feat. LU KALA)",
-      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
     },
     {
       "added_at": "2023-03-17 22:28:38",
@@ -85,42 +49,110 @@
       "url": "https://open.spotify.com/track/53acd3PVcgGCux58YABBr5"
     },
     {
-      "added_at": "2022-10-28 20:01:06",
+      "added_at": "2023-03-17 22:28:01",
       "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/2WsDq3WU1xjp0Nm0bbvuyf"
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
         }
       ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/4lNrQgt9tZRuwJdIgl6JSR"
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
-      "added_at": "2022-08-26 19:45:50",
+      "added_at": "2023-03-17 22:26:53",
       "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
         }
       ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
     },
     {
-      "added_at": "2022-08-26 19:45:50",
+      "added_at": "2023-03-27 19:11:47",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
+    },
+    {
+      "added_at": "2023-03-27 19:13:04",
+      "album": {
+        "name": "Smoke (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 186157,
+      "name": "Smoke (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
+    },
+    {
+      "added_at": "2023-03-27 19:12:30",
+      "album": {
+        "name": "You Still Here, Ho ? (Extended)",
+        "url": "https://open.spotify.com/album/67AK26TDyMFb7CA7bKJh0w"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "duration_ms": 220443,
+      "name": "Bed Time (feat. Monaleo & Gloss Up)",
+      "url": "https://open.spotify.com/track/7r5R0CLCuyMaFYaQkdlZrx"
+    },
+    {
+      "added_at": "2023-03-27 19:09:58",
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
       "artists": [
         {
@@ -128,12 +160,60 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 206772,
+      "duration_ms": 207120,
       "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+      "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
     },
     {
-      "added_at": "2022-12-12 15:51:28",
+      "added_at": "2023-03-27 19:15:09",
+      "album": {
+        "name": "YOU FEAR THE GOD THAT LOVES YOU",
+        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 147568,
+      "name": "more than friends",
+      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
+    },
+    {
+      "added_at": "2022-08-26 19:45:50",
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2023-03-17 22:30:01",
+      "album": {
+        "name": "PLAYGIRL",
+        "url": "https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "Crazy Sexy Dream Girl",
+      "url": "https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX"
+    },
+    {
+      "added_at": "2023-03-27 19:10:51",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -144,9 +224,9 @@
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 150720,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
+      "duration_ms": 173906,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG"
     },
     {
       "added_at": "2022-08-26 19:45:50",
@@ -163,6 +243,70 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2022-08-26 19:45:50",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+    },
+    {
+      "added_at": "2023-03-27 19:18:36",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/5E6bTiJ2rB18M1DNqkm1V4"
+    },
+    {
+      "added_at": "2023-03-27 19:14:28",
+      "album": {
+        "name": "Nasty Dancer",
+        "url": "https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 137931,
+      "name": "Nasty Dancer",
+      "url": "https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3"
+    },
+    {
+      "added_at": "2023-03-27 19:20:40",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/0cgafe2qKB3lu4F8JDhWIS"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 167294,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/2iqsWOyAgyR7oELyZYEgz9"
     },
     {
       "added_at": "2023-03-17 22:28:59",
@@ -185,36 +329,20 @@
       "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
     },
     {
-      "added_at": "2023-03-17 22:30:01",
+      "added_at": "2023-03-27 19:22:18",
       "album": {
-        "name": "PLAYGIRL",
-        "url": "https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X"
+        "name": "uh oh",
+        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
       },
       "artists": [
         {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 146640,
-      "name": "Crazy Sexy Dream Girl",
-      "url": "https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX"
-    },
-    {
-      "added_at": "2022-08-26 19:45:50",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+      "duration_ms": 169721,
+      "name": "uh oh",
+      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
     },
     {
       "added_at": "2022-08-26 19:45:50",
@@ -235,6 +363,22 @@
       "duration_ms": 209476,
       "name": "Wild Side (feat. Cardi B)",
       "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
+    },
+    {
+      "added_at": "2022-12-12 15:51:28",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
     },
     {
       "added_at": "2022-08-26 19:45:50",
@@ -273,26 +417,6 @@
       "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
-      "added_at": "2023-03-17 22:28:01",
-      "album": {
-        "name": "Arranca (feat. Omega)",
-        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Arranca (feat. Omega)",
-      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
-    },
-    {
       "added_at": "2022-08-26 19:45:50",
       "album": {
         "name": "Heaux Tales",
@@ -323,6 +447,22 @@
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
+    },
+    {
+      "added_at": "2023-03-27 19:09:12",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
     },
     {
       "added_at": "2023-03-17 22:27:40",

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 8668,
+  "num_followers": 8706,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3NTYyNywwMDAwMDAwMDRlYzYwOWQxYzMwOWJlOGRkMzYwY2Q2MGI5ZGE2NDE2",
+  "snapshot_id": "MTY3OTY3NTYyNywwMDAwMDAwMDg3MDk4OGY0NTEzMjg2NGZmMjVhMDJkNTg5NzNlNTUw",
   "tracks": [
     {
       "added_at": "2023-03-24 16:33:47",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-03-24 16:33:47",
       "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "added_at": "2023-03-24 16:33:47",
+      "album": {
         "name": "Want It All (feat. Polo G)",
         "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 184893,
       "name": "Worst Day",
       "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
-    },
-    {
-      "added_at": "2023-03-24 16:33:47",
-      "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
-      },
-      "artists": [
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2023-03-24 16:33:47",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-03-24 16:33:47",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2023-03-24 16:33:47",
-      "album": {
         "name": "Blue Notes 2 (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/3QvNSOIhsgI8od9CMLbMye"
       },
@@ -511,62 +491,6 @@
     {
       "added_at": "2023-03-24 16:33:47",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Longtime (feat. Skepta)",
-      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
-    },
-    {
-      "added_at": "2023-03-24 16:33:47",
-      "album": {
-        "name": "Nyash (Current & Savings)",
-        "url": "https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        }
-      ],
-      "duration_ms": 214280,
-      "name": "Nyash (Current & Savings)",
-      "url": "https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p"
-    },
-    {
-      "added_at": "2023-03-24 16:33:47",
-      "album": {
-        "name": "Jack",
-        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Jack",
-      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
-    },
-    {
-      "added_at": "2023-03-24 16:33:47",
-      "album": {
         "name": "PICANTO",
         "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
@@ -591,6 +515,66 @@
     {
       "added_at": "2023-03-24 16:33:47",
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 239893,
+      "name": "Longtime (feat. Skepta)",
+      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
+    },
+    {
+      "added_at": "2023-03-24 16:33:47",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "added_at": "2023-03-24 16:33:47",
+      "album": {
+        "name": "Nyash (Current & Savings)",
+        "url": "https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "duration_ms": 214280,
+      "name": "Nyash (Current & Savings)",
+      "url": "https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p"
+    },
+    {
+      "added_at": "2023-03-24 16:33:47",
+      "album": {
         "name": "Neck & Wrist",
         "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 209314,
       "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
       "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
+    },
+    {
+      "added_at": "2023-03-24 16:33:47",
+      "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
     },
     {
       "added_at": "2023-03-24 16:33:47",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-24 16:33:47",
       "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
-    },
-    {
-      "added_at": "2023-03-24 16:33:47",
-      "album": {
         "name": "Hate Me",
         "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2023-03-24 16:33:47",
       "album": {
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+    },
+    {
+      "added_at": "2023-03-24 16:33:47",
+      "album": {
         "name": "031 To The World 2.0",
         "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 186240,
       "name": "The Views",
       "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
+    },
+    {
+      "added_at": "2023-03-24 16:33:47",
+      "album": {
+        "name": "Anadwo",
+        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "duration_ms": 170295,
+      "name": "Anadwo",
+      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
     },
     {
       "added_at": "2023-03-24 16:33:47",
@@ -879,26 +895,6 @@
     {
       "added_at": "2023-03-24 16:33:47",
       "album": {
-        "name": "Where We Come From, Vol. 01",
-        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 152283,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
-    },
-    {
-      "added_at": "2023-03-24 16:33:47",
-      "album": {
         "name": "Green With Envy",
         "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
       },
@@ -915,22 +911,6 @@
       "duration_ms": 258950,
       "name": "Loyal (feat. NSG)",
       "url": "https://open.spotify.com/track/5XDJOlzaw1FCsz75I6Vjuh"
-    },
-    {
-      "added_at": "2023-03-24 16:33:47",
-      "album": {
-        "name": "Anadwo",
-        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "duration_ms": 170295,
-      "name": "Anadwo",
-      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
     },
     {
       "added_at": "2023-03-24 16:33:47",
@@ -1007,22 +987,6 @@
     {
       "added_at": "2023-03-24 16:33:47",
       "album": {
-        "name": "Second Sermon",
-        "url": "https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 166147,
-      "name": "Second Sermon",
-      "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
-    },
-    {
-      "added_at": "2023-03-24 16:33:47",
-      "album": {
         "name": "Assignment",
         "url": "https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D"
       },
@@ -1043,6 +1007,42 @@
       "duration_ms": 137472,
       "name": "Assignment",
       "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
+    },
+    {
+      "added_at": "2023-03-24 16:33:47",
+      "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 152283,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
+    },
+    {
+      "added_at": "2023-03-24 16:33:47",
+      "album": {
+        "name": "Big Bidness",
+        "url": "https://open.spotify.com/album/0sWBFDpM7sClqlK9sHm9q4"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "Big Bidness",
+      "url": "https://open.spotify.com/track/24Sdq5vT5sdZTeQmvb8zCd"
     }
   ],
   "unique_name": "Pump it Up ",

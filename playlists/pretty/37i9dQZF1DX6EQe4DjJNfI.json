@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Amanda Magalh\u00e3es, Dj Nyack",
-  "num_followers": 159122,
+  "num_followers": 159128,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDE2OTQxZWMxYmJiMGNhOTVjNzk0ZDg3M2JjYmMwYzk1",
+  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDhhY2YwMGJkZWFmNjU4NDRiYjcxYzNjNTE4MjI3Njkz",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "jovemCARLOS",
-        "url": "https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 214001,
-      "name": "mais que isso",
-      "url": "https://open.spotify.com/track/0d5NlGvOFGrr66MDGX3W00"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "5458",
         "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 187629,
       "name": "5458",
       "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "jovemCARLOS",
+        "url": "https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 214001,
+      "name": "mais que isso",
+      "url": "https://open.spotify.com/track/0d5NlGvOFGrr66MDGX3W00"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -355,6 +355,22 @@
       "duration_ms": 180750,
       "name": "Melhor Que Ontem",
       "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Sinal",
+        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Sinal",
-        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Sinal",
-      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Gosto de Voc\u00ea",
         "url": "https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw"
       },
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Localiza\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 172800,
       "name": "Localiza\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "MENTIROSO",
+        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 167936,
+      "name": "MENTIROSO",
+      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Devi",
         "url": "https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 196204,
       "name": "Devi",
       "url": "https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "MENTIROSO",
-        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 167936,
-      "name": "MENTIROSO",
-      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -703,30 +703,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "Censura e Prazer",
         "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 235135,
       "name": "Censura e Prazer",
       "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Baficca",
+          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
+        }
+      ],
+      "duration_ms": 166857,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
@@ -1007,22 +1027,18 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
       "artists": [
         {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        },
-        {
-          "name": "Baficca",
-          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         }
       ],
-      "duration_ms": 166857,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1095,6 +1111,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -1115,38 +1147,6 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
-      },
-      "artists": [
-        {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
     },
     {
       "added_at": "2023-03-24 03:01:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
+        "name": "incenso",
+        "url": "https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D"
+      },
+      "artists": [
+        {
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        }
+      ],
+      "duration_ms": 143022,
+      "name": "incenso",
+      "url": "https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
         "name": "Melhor Ficar Sozinho",
         "url": "https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 199655,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
-        "name": "incenso",
-        "url": "https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D"
-      },
-      "artists": [
-        {
-          "name": "Camargo",
-          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
-        }
-      ],
-      "duration_ms": 143022,
-      "name": "incenso",
-      "url": "https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f"
     },
     {
       "added_at": "2023-03-24 03:01:00",

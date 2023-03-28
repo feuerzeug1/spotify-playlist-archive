@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: 01099
 
-765 songs - 1 day 12 hr 47 min
+766 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 | 2022-08-25 | 2022-09-10 |
 | [deadline.](https://open.spotify.com/track/0W2nFlmRInfrXoDAKLvJBq) | [vito](https://open.spotify.com/artist/6ZhCnvNfvewkfx9ERyhelw) | [deadline.](https://open.spotify.com/album/3oXqffnm5xaqI8aaBKy2bh) | 2:04 | 2022-06-09 | 2022-06-24 |
 | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/track/4suhf2w4OqkuuwVAeRhk4I) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/album/19fnNOXXg6bPm8TzgQyLwn) | 3:01 | 2022-06-23 | 2022-07-12 |
+| [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-27 |  |
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-02-16 | 2023-02-24 |
 | [Der neue Stil meiner Generation](https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Der neue Stil meiner Generation](https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi) | 2:24 | 2023-02-02 | 2023-02-24 |
 | [Deux frères](https://open.spotify.com/track/7xy0ELfUz8xEon8B4K55Vb) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/0VbjQH6iXN5VdE0OX35cpD) | 4:07 | 2022-10-20 | 2022-11-02 |
@@ -569,7 +570,7 @@
 | [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox) | [ilyproxy](https://open.spotify.com/artist/4wIBlvOhBSFNIAY7Gyht3h), [leander](https://open.spotify.com/artist/4vL5YP8WPnYnRHy2C64Ffx), [Hadesthegrim](https://open.spotify.com/artist/5zJRjAyQPqGD6TT2WwWCzf) | [Schnuffel](https://open.spotify.com/album/0OiurvRJpB36UMgVU2n2kp) | 3:15 | 2022-06-30 | 2022-07-05 |
 | [Schon gut](https://open.spotify.com/track/3XFbTdznmfjLogWvVJTrhc) | [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [Schon gut](https://open.spotify.com/album/1eLgtW5knFtuzJUzD05i9q) | 2:18 | 2022-09-09 | 2022-10-11 |
 | [Schwarz](https://open.spotify.com/track/1rZl80jlCeG9DoidzEVd78) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Schwarz](https://open.spotify.com/album/2Nyyn1Z361DRqf21A81JAf) | 2:18 | 2023-01-19 | 2023-03-03 |
-| [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 | 2023-02-16 |  |
+| [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 | 2023-02-16 | 2023-03-28 |
 | [Schöneberg/Kreuzberg](https://open.spotify.com/track/35TlBvEYl8Ajm4kyzpOsI5) | [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE) | [Odyssee](https://open.spotify.com/album/4WSk2tUkJ3neziQQgW1xBO) | 2:51 | 2022-10-06 | 2022-10-28 |
 | [Secco Maracuja](https://open.spotify.com/track/3iATVzRm0E8scMQ7aWoAmh) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Themba](https://open.spotify.com/artist/3S4BtEcxyyMFyJpDy5GfV3), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [Secco Maracuja \(feat\. Themba\)](https://open.spotify.com/album/0U9DOcHfw3mKkWbh7TCtCH) | 2:39 | 2022-07-29 | 2022-11-18 |
 | [Seele reparieren](https://open.spotify.com/track/6nT7FJgeygiJUlUGEMXDNY) | [PAVLO](https://open.spotify.com/artist/1bS16AfHx66Yys34XXjwD2), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [Notorious Nasty](https://open.spotify.com/artist/314BD4WMcpzWcNQ87X5tew) | [Seele reparieren](https://open.spotify.com/album/7lpCQHON81q6g2FNrCLYMC) | 2:43 | 2022-12-08 | 2022-12-16 |

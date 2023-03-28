@@ -442,7 +442,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 225973,
       "name": "Echo",
       "url": "https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 233647,
       "name": "Good bye my love",
       "url": "https://open.spotify.com/track/4sTXT0ArcrA5FHRjQLm6qc"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 306499,
       "name": "I Don't Want To Say Goodbye",
       "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.28 (Soundtrack)",
+        "url": "https://open.spotify.com/album/4YmmFQg7H9aosnIhLeAFJf"
+      },
+      "artists": [
+        {
+          "name": "Hwang Si Yeon",
+          "url": "https://open.spotify.com/artist/6fOuKiA7NquVRt5TLWQ1nk"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208743,
+      "name": "If you hold my hand",
+      "url": "https://open.spotify.com/track/2LMIQGEQVRGADX8rgsbohA"
+    },
+    {
+      "album": {
         "name": "In this world (Webtoon'Plainwalker of Stigmatization' X KIMJAEJOONG) (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5efMyrzwotQXz5qxucXZQA"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 207013,
       "name": "Last Sword Dance (Feat. Koonta)",
       "url": "https://open.spotify.com/track/5lRbrmGzrBFqDRNS95yY9l"
@@ -1186,6 +1204,24 @@
       "duration_ms": 259346,
       "name": "Never Loved This Way Before",
       "url": "https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx"
+    },
+    {
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.27 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1kYAQYCwWf0KtJe7FY6OqP"
+      },
+      "artists": [
+        {
+          "name": "Damu",
+          "url": "https://open.spotify.com/artist/2djPGnMPnVWhKcVvjcpAF6"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200558,
+      "name": "No, I shouldn't",
+      "url": "https://open.spotify.com/track/2jxU1hwrnitK6rZ59xZXsY"
     },
     {
       "album": {
@@ -2007,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.17",
+        "url": "https://open.spotify.com/album/4b1AKObPeD9RwpbEqYNUTl"
+      },
+      "artists": [
+        {
+          "name": "An Ye Seul",
+          "url": "https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236831,
+      "name": "\uae30\uc801\uc774\ub780 \uc774\ub7f0\uac78\uae4c",
+      "url": "https://open.spotify.com/track/1P4T8jbSKFn1eQwUxJWeFl"
+    },
+    {
+      "album": {
         "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt. 9",
         "url": "https://open.spotify.com/album/0BHhkr4LxrVN0GcEtLrUG6"
       },
@@ -2036,7 +2090,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 251253,
       "name": "\ub3d9\ud589",
       "url": "https://open.spotify.com/track/26UHIMqrtQsEVvxRNJXYFa"
@@ -2130,6 +2184,24 @@
       "duration_ms": 232949,
       "name": "\ubc14\ub78c\uc774 \ubd88\uba74",
       "url": "https://open.spotify.com/track/4zq4UL2YHc50NB4KGfwdRF"
+    },
+    {
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.18",
+        "url": "https://open.spotify.com/album/2wPVlr6UUDhEkmVjRUJhmX"
+      },
+      "artists": [
+        {
+          "name": "Huie",
+          "url": "https://open.spotify.com/artist/3YLz1R7PcLpYtTue8dGWlW"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230923,
+      "name": "\ubcc4\uc774 \uc9c0\uace0 \uc788\ub124\uc694",
+      "url": "https://open.spotify.com/track/7uF6STZnY2IDIdxoPsD0uh"
     },
     {
       "album": {

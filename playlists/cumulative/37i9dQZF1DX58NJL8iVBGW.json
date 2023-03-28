@@ -574,7 +574,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 212504,
       "name": "Bless Your Soul",
       "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
@@ -2038,6 +2038,24 @@
       "duration_ms": 224506,
       "name": "James Monroe (feat. the Bog Neck Brass Band)",
       "url": "https://open.spotify.com/track/4Dwuv0XbjXqpYcc5F9IBf7"
+    },
+    {
+      "album": {
+        "name": "John Came Home",
+        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
     },
     {
       "album": {

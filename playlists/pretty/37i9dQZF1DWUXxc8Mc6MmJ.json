@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 595781,
+  "num_followers": 596369,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY4NzQzNiwwMDAwMDAwMDAwZjEwZjUzYzAyMDRlMWM0YTIzZjU1YjBlM2Y4Yzlm",
+  "snapshot_id": "MTY3ODY4NzQzNiwwMDAwMDAwMGQzYmQyMjFhZjQ4ZGE2Y2U1MmYwMTY2ZGY4NjFiNDFi",
   "tracks": [
     {
       "added_at": "2023-03-13 05:57:41",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
+        "url": "https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 214258,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 9",
         "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 209482,
       "name": "\uadf8\ub300\ub77c\ub294 \uc2dc",
       "url": "https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
-        "url": "https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 214258,
-      "name": "Sweet Night",
-      "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
-        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 272847,
-      "name": "If It Is You",
-      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
         "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 205192,
       "name": "ALWAYS",
       "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
+        "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
+        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 272847,
+      "name": "If It Is You",
+      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10",
-        "url": "https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 220929,
-      "name": "MY LOVE",
-      "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
         "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 244999,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10",
+        "url": "https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 220929,
+      "name": "MY LOVE",
+      "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
     },
     {
       "added_at": "2023-03-13 05:57:41",

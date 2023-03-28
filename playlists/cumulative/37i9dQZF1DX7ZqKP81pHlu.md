@@ -4,14 +4,15 @@
 
 > Écoutez en boucle les hits algériens du moment.
 
-132 songs - 8 hr 9 min
+134 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3ach9ek Criminel](https://open.spotify.com/track/6Y3hqLC16tJUEI4PDsusoT) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [3ach9ek Criminel](https://open.spotify.com/album/5CYq5YmDbgtM0ys9xBxYiL) | 2:52 | 2021-12-09 | 2022-12-26 |
 | [3alam Tani](https://open.spotify.com/track/2vCQ9IZyXbjeDBLsYFOFUx) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [3alam Tani](https://open.spotify.com/album/5HBu7VCzKwtPbtUzf8Rpe1) | 3:51 | 2021-12-09 | 2022-01-01 |
 | [3ayech Lili \- عايش ليلي](https://open.spotify.com/track/2bWjhCbfeguEp2hSXvYB5l) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [3ayech Lili \(عايش ليلي\)](https://open.spotify.com/album/7K50LbLo6SdxQx0uuw9khz) | 3:22 | 2023-01-11 |  |
-| [7CHOUMA](https://open.spotify.com/track/0bmnCDY8M8fBtlPwMrLIu9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [7CHOUMA](https://open.spotify.com/album/7JrLFJw1NFNDOnoNDsHBWS) | 4:06 | 2022-11-09 |  |
+| [7CHOUMA](https://open.spotify.com/track/0bmnCDY8M8fBtlPwMrLIu9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [7CHOUMA](https://open.spotify.com/album/7JrLFJw1NFNDOnoNDsHBWS) | 4:06 | 2022-11-09 | 2023-03-28 |
+| [7CHOUMA](https://open.spotify.com/track/797McgitlHovktyFPMDZYc) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [7CHOUMA](https://open.spotify.com/album/6EE03Qicg9RZIZbYeIS0Dj) | 4:06 | 2023-03-23 |  |
 | [Abracadabra](https://open.spotify.com/track/1Suz3iNgR3pnTIPI5JJtFI) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/5t5ieknOAiq6hBfzTe2veZ) | 4:18 | 2022-10-09 | 2023-01-11 |
 | [Abracadabra](https://open.spotify.com/track/2dwIrKXerOuFVQyermZ5SO) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/3SdLDzpUj36FVAebMkJX0z) | 4:18 | 2023-01-13 |  |
 | [Abracadabra](https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf) | 4:18 | 2021-12-09 | 2023-01-16 |
@@ -59,7 +60,8 @@
 | [Frontières](https://open.spotify.com/track/049ryvt09w98K1uzsWf9x1) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Frontières](https://open.spotify.com/album/3sG46QoL4wOX4nxe754i4Z) | 3:29 | 2021-12-09 | 2022-01-14 |
 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-27 | 2023-02-01 |
 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 | 2022-10-25 | 2022-11-04 |
-| [GHAZALI](https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA) | [MOUHAMED GRINE](https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh), [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l) | 3:16 | 2022-08-19 |  |
+| [GHAZALI](https://open.spotify.com/track/2JCxNic0pS1pAXNnRKS3QH) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/1bMeGmCiuPxq3TyiK0zmWm) | 3:16 | 2023-03-23 |  |
+| [GHAZALI](https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA) | [MOUHAMED GRINE](https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh), [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l) | 3:16 | 2022-08-19 | 2023-03-28 |
 | [Ghorba](https://open.spotify.com/track/3toSazVCqpqb4gbDv5oFu1) | [Medi Meyz](https://open.spotify.com/artist/4XCcYzu2zRJvBp3QZct3Oj), [Souf](https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Ghorba](https://open.spotify.com/album/2fzJHkMuLWU9nHXstA5cw8) | 3:45 | 2023-01-30 |  |
 | [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 | 2022-07-18 | 2022-09-29 |
 | [Halef](https://open.spotify.com/track/28kzTkgv60LFKbEGwdFgYa) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch), [Albaa](https://open.spotify.com/artist/3c0hnWjJw7lqYApYq7ihdT) | [Halef](https://open.spotify.com/album/5wq51CWjGXTao5FkGZe8Tv) | 3:30 | 2022-11-26 | 2023-03-07 |

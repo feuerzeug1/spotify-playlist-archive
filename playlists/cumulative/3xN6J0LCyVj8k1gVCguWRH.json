@@ -27459,6 +27459,24 @@
     },
     {
       "album": {
+        "name": "Plastic Sea",
+        "url": "https://open.spotify.com/album/31yQdlIgonyZu0cmeheIog"
+      },
+      "artists": [
+        {
+          "name": "Julian Maverick",
+          "url": "https://open.spotify.com/artist/3OLmtWNjbxHj6ZzNlmeiNb"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282750,
+      "name": "Plastic Sea",
+      "url": "https://open.spotify.com/track/2UykkJ0sguLc5gHcuTGTdb"
+    },
+    {
+      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/5HflEJsBKAVZf56iu37zvr"
       },

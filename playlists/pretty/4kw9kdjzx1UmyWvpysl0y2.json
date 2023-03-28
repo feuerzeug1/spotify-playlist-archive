@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127110,
+  "num_followers": 127101,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDA4MixhODA0YThiNTFmMWQ4NjIzNDAxODI1NDJiZmE0ZDRkZDVjNzQyM2E5",
+  "snapshot_id": "NDA4NSxhNGE2MWU0YzQ0YzZiYmYzYmMwOTQ0YWQ3YmM4ZGE4ODNiNjBmNTEw",
   "tracks": [
+    {
+      "added_at": "2023-03-27 23:21:18",
+      "album": {
+        "name": "Riders in the Sky",
+        "url": "https://open.spotify.com/album/0o2LL06MoSMePlWc4mVKGU"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "duration_ms": 282514,
+      "name": "Riders in the Sky",
+      "url": "https://open.spotify.com/track/3a5TIKuvze6ZmmPSzElZru"
+    },
     {
       "added_at": "2023-03-24 16:19:42",
       "album": {
@@ -1103,22 +1119,6 @@
       "duration_ms": 181500,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59"
-    },
-    {
-      "added_at": "2023-01-12 18:12:21",
-      "album": {
-        "name": "Thrones of Blood",
-        "url": "https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Thrones of Blood",
-      "url": "https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

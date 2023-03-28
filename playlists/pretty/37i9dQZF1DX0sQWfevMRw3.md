@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> Det enda sex jag ville ha var sexa jäger!!
+> Om jag ramlar omkull så är det bara för att jag är fuuuull!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,235 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,293 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [SÄNK DIESELPRISET](https://open.spotify.com/track/1NF8op28TqKOUPAb5NEpLC) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Femedia](https://open.spotify.com/artist/2oKbavAM3HBJQAPxY867tB), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [SÄNK DIESELPRISET](https://open.spotify.com/album/7KcTYUN4oW03vIxq9OZbDj) | 2:21 |
 | 100 | [Fingrarna i halsen](https://open.spotify.com/track/4JWfHH5DlQ1qVKXmGyxOMY) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Fingrarna i halsen](https://open.spotify.com/album/7L3fBDH0doYXgV8UafoxgA) | 3:00 |
 
-Snapshot ID: `MTY3OTYxMjQwMCwwMDAwMDAwMDQ3Y2U3NThkMWUwYjI2YTBjZjZlMjE4YzhkODc5NThj`
+Snapshot ID: `MTY3OTkwNTkzOCwwMDAwMDAwMDA4MzUxYmYwMWQ1YTAzMTVmNWIyZmY0NTZjNDU2NDg5`

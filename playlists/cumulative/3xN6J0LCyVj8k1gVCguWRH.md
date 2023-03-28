@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,109 songs - 5 day 1 hr 17 min
+2,110 songs - 5 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1441,6 +1441,7 @@
 | [Pippins](https://open.spotify.com/track/1gc9zvRUC8XiUtp0FO6cAW) | [Flo Chase](https://open.spotify.com/artist/6wCdPDfNu7kWsDTuBFe8x8) | [Toi](https://open.spotify.com/album/4EnrmhjL0cRbzQSj5saOcD) | 3:26 | 2021-06-26 | 2021-07-11 |
 | [Piña Colada \(Instrumental\)](https://open.spotify.com/track/70ohvxDajvfgG6WJZNugGv) | [Petrichor](https://open.spotify.com/artist/4CHoqO65i96zDV4M18BYlm) | [Piña Colada \(Instrumental\)](https://open.spotify.com/album/6YhcsbSNibjrzYI7W9YjVp) | 2:37 | 2022-03-11 | 2022-03-31 |
 | [place card](https://open.spotify.com/track/5IK68GpO5jigQjoEabuiLd) | [Olivia Melfi](https://open.spotify.com/artist/3gaTC5BggXRvAPP6m9JRRw) | [place card](https://open.spotify.com/album/5X4U4bpXB4cjpnzJ358lpH) | 3:19 | 2023-02-26 | 2023-03-20 |
+| [Plastic Sea](https://open.spotify.com/track/2UykkJ0sguLc5gHcuTGTdb) | [Julian Maverick](https://open.spotify.com/artist/3OLmtWNjbxHj6ZzNlmeiNb) | [Plastic Sea](https://open.spotify.com/album/31yQdlIgonyZu0cmeheIog) | 4:42 | 2023-03-27 |  |
 | [Platinum](https://open.spotify.com/track/3VWSUhXqZWMemBR7i0lWYP) | [Jay Watts](https://open.spotify.com/artist/2lGHglX5dA9A4IAw9kjDm6) | [Platinum](https://open.spotify.com/album/5HflEJsBKAVZf56iu37zvr) | 2:32 | 2020-07-05 | 2020-07-28 |
 | [Play To Tease](https://open.spotify.com/track/5fNPdXqUH2cLc75V9DUUhU) | [Shania Juzil](https://open.spotify.com/artist/3DQysDkHXUZ32ZHyFsjbxK) | [Play To Tease](https://open.spotify.com/album/7nx2ZhLDgbMUwdFRNCcbBl) | 3:12 | 2021-07-10 | 2021-07-25 |
 | [Playlist](https://open.spotify.com/track/0xu5fobRmWiQI3hGbCF5qu) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Playlist](https://open.spotify.com/album/65zm0Vv44YuJKIkxmklQ5u) | 3:01 | 2022-12-15 | 2023-01-13 |

@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-163 songs - 9 hr 38 min
+167 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,11 @@
 | [Do What I Like](https://open.spotify.com/track/4qnk7LAcK0eLcQXRl9EESa) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Baddest Nice Guys](https://open.spotify.com/album/0TGo7wuEtmc7HstlDWFcia) | 3:00 | 2021-12-07 | 2022-07-29 |
 | [Do What I Like](https://open.spotify.com/track/2zfw5Q62YDTd0JzfOjAz9b) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Baddest Nice Guys](https://open.spotify.com/album/187fmTy0wOPQ8geiMNACPT) | 3:00 | 2022-07-04 |  |
 | [Do You Wanna Know](https://open.spotify.com/track/4zkeHAz0ccaKfspti6NUTs) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:22 | 2021-12-07 |  |
+| [Drive on Green \(Feat\. Ahn Seul Hee of Rainbow Note\)](https://open.spotify.com/track/4tEYQeeH4xbZw0RWCbYJF1) | [Chil Label](https://open.spotify.com/artist/3on516ULWRAgYr9vrvDO1B), [Ahn Seul Hee](https://open.spotify.com/artist/1SVxDR82UwRvHjc0CZPBA9) | [Drive on Green](https://open.spotify.com/album/0ozGf6fFTxpcHrFNnL0Rl2) | 3:46 | 2023-03-27 |  |
 | [DU RI JYU WA \(Feat\. S.B.N\)](https://open.spotify.com/track/0AjG7OYfaoIFIrCdWadM5f) | [U\-DORAGON](https://open.spotify.com/artist/43mfCruPTvSAMxcNMNSmgg), [S.B.N](https://open.spotify.com/artist/5DVzNlO8caz1F5kdpcOX35) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 3:39 | 2021-12-07 |  |
 | [Feel Good](https://open.spotify.com/track/2BcTKLMXMlPjdhKxlECfCZ) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 3:39 | 2021-12-07 |  |
 | [Feel It](https://open.spotify.com/track/577eaC9LGK8hlnrNLmyUE0) | [ANDO](https://open.spotify.com/artist/5BVuWXvqlzHEQVXIiKKjoR) | [TWO HEART](https://open.spotify.com/album/6TuNNvxe3ArEVFIyvdiYdu) | 3:17 | 2021-12-07 |  |
+| [FEEL IT](https://open.spotify.com/track/74AabMx8BgOoVjeXRPCbEG) | [Woo Hyuk Jang](https://open.spotify.com/artist/3Gka2tZrE8vX4fBFtgknqB) | [FEEL IT](https://open.spotify.com/album/4N9vsqoDhHqB4xO3nYC7Pc) | 3:39 | 2023-03-27 |  |
 | [FEVER](https://open.spotify.com/track/6eKNfMj4VnioR0LcXo6ktd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:25 | 2021-12-07 |  |
 | [Find Somebody Else](https://open.spotify.com/track/1t6ewrLUZ5RrhPKc9PkatT) | [KhaN](https://open.spotify.com/artist/2MvqBmsKl7mOXVWQQqbmNH) | [1987](https://open.spotify.com/album/4T4nrZWwcw0aJScpg2jzYQ) | 3:26 | 2021-12-07 |  |
 | [GO](https://open.spotify.com/track/7lK9XQFIMihBvPy2jIpqXy) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR) | [GO](https://open.spotify.com/album/0Sp6AZTcrjkNEDQcuL5VWA) | 3:28 | 2022-08-12 |  |
@@ -64,8 +66,10 @@
 | [LA DI DA](https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:30 | 2021-12-07 | 2022-07-29 |
 | [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-07-04 |  |
 | [Lady](https://open.spotify.com/track/2WusoL0p5HmFzhR5DLGUVx) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Lady](https://open.spotify.com/album/7hdql29wHs1VTWxmGmm5HV) | 3:10 | 2021-12-07 |  |
+| [Let Me Hug U](https://open.spotify.com/track/6IUJ1M6z0rWmLbYl2Z6QJ9) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [GORAE](https://open.spotify.com/artist/3atXbP5awWylK6MsPg59cF) | [SHIRT X GORAE : Let Me Hug U](https://open.spotify.com/album/3HkvoGETqGkuwIsN6qxJrx) | 2:30 | 2023-03-27 |  |
 | [Let's Dance](https://open.spotify.com/track/6P0KCRahk9c3d3HVqA6TMf) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:42 | 2021-12-07 |  |
 | [Let's Dance \(Feat\. MAMAMOO\)](https://open.spotify.com/track/5lcqxf78duYxgq8STtS7ER) | [B.RYONG](https://open.spotify.com/artist/1nq6zilJc5BG9rRpYQ2Ojo), [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 3:32 | 2021-12-07 |  |
+| [Lights Out](https://open.spotify.com/track/1z7X7lFkoF2KRoDaxUfN99) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [\[BILLION MUSIC PROJECT VOL.1\]](https://open.spotify.com/album/5WyawwlLnlCHeLGChPaJii) | 3:21 | 2023-03-27 |  |
 | [LINDA \(Feat\. Yoonmirae\)](https://open.spotify.com/track/5MsXTNu6DS3Qx5Ms7pTuoX) | [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 4:28 | 2021-12-07 |  |
 | [Lonely Summer \(Summer Breeze\)](https://open.spotify.com/track/71ffiCGvOZm7uBYT9Nyg4d) | [Daedo](https://open.spotify.com/artist/0usCrj87bydKRK7KWcCf9p), [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Lonely Summer \(Summer Breeze\)](https://open.spotify.com/album/2zQWuOYcx7C4TNTJwz2Nbm) | 3:19 | 2021-12-07 |  |
 | [Lovemonth](https://open.spotify.com/track/5KnAca7g0lgwzCNA64WE9d) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Lovemonth](https://open.spotify.com/album/1aeo0A7JVTHNQtplMOORRk) | 3:33 | 2021-12-07 |  |

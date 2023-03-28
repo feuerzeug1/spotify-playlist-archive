@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 2562028,
+  "num_followers": 2562860,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NTUwOSwwMDAwMDAwMDYyMDQ3MTY2ZTMxMGVhYTYzZjA4MTcyMmY1NWRhYzli",
+  "snapshot_id": "MTY3NDA3NTUwOSwwMDAwMDAwMDQzNzE1ZmE5ZmM3NDQwZTg5ODc3MzEyYjA4NmM2NjY0",
   "tracks": [
     {
       "added_at": "2023-01-18 20:58:29",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
@@ -171,18 +187,34 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 241306,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -219,22 +251,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Once Upon A Time (Super Deluxe)",
         "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 263040,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Danzig",
-        "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
-      },
-      "artists": [
-        {
-          "name": "Danzig",
-          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 288533,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Danzig",
+        "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
+      },
+      "artists": [
+        {
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Hurts So Good",
-      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 393666,
       "name": "Shout",
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "...And Justice for All (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 446145,
-      "name": "One (Remastered)",
-      "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 457675,
       "name": "Let's Dance - 2018 Remaster",
       "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "...And Justice for All (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 446145,
+      "name": "One (Remastered)",
+      "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2023-01-18 20:58:29",

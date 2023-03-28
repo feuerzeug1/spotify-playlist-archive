@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,700 likes - 56 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,784 likes - 56 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 |
-| 2 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
-| 3 | [Are You](https://open.spotify.com/track/6pe39thx4HeFncnNASbqWE) | [Henry X](https://open.spotify.com/artist/7IqCBWPW8KoYk9ZBJsATSA), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Smeez](https://open.spotify.com/artist/0mNkY84ZAQz0n72YKF2mWC), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ), [Bollar](https://open.spotify.com/artist/143cqNsgoeJWiUbBCtXJow) | [Are You](https://open.spotify.com/album/4VyX0V7R86XZiTerIAdeKi) | 6:33 |
-| 4 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 |
-| 5 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 |
+| 2 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 |
+| 3 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
+| 4 | [Are You](https://open.spotify.com/track/6pe39thx4HeFncnNASbqWE) | [Henry X](https://open.spotify.com/artist/7IqCBWPW8KoYk9ZBJsATSA), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Smeez](https://open.spotify.com/artist/0mNkY84ZAQz0n72YKF2mWC), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ), [Bollar](https://open.spotify.com/artist/143cqNsgoeJWiUbBCtXJow) | [Are You](https://open.spotify.com/album/4VyX0V7R86XZiTerIAdeKi) | 6:33 |
+| 5 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 |
 | 6 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
 | 7 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 |
 | 8 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 55 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
 | 56 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 |
 
-Snapshot ID: `MTY3OTYxMjQwMCwwMDAwMDAwMDZmNDZkNDU0MDNlNzc0YWRjN2Y0OTBjYjllYjM5YTU1`
+Snapshot ID: `MTY3OTkwOTk2NSwwMDAwMDAwMDY2YmJhNjQ3ODU3NDkxYWVkMWUzYmM2NWNiYmQ2NGE4`

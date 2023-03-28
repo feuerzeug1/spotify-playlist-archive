@@ -1,12 +1,12 @@
 {
   "description": "Press play, press start.",
-  "num_followers": 5064565,
+  "num_followers": 5066019,
   "original_name": "Top Gaming Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMGY0ZjIyYmZhYjA3ZDdjNmQxMjhkNTdhYTBjNjVjNGYw",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDQyYTYwZmY1ZTlhMmViN2Y2MWUwYTM5MDkyMmVjYTg4",
   "tracks": [
     {
       "added_at": "2023-03-20 21:48:21",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "added_at": "2023-03-20 21:48:21",
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -191,18 +207,18 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
       "added_at": "2023-03-20 21:48:21",
@@ -219,22 +235,6 @@
       "duration_ms": 233720,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
-    },
-    {
-      "added_at": "2023-03-20 21:48:21",
-      "album": {
-        "name": "Set Me Free Pt.2",
-        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 200929,
-      "name": "Set Me Free Pt.2",
-      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
       "added_at": "2023-03-20 21:48:21",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2023-03-20 21:48:21",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2023-03-20 21:48:21",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2023-03-20 21:48:21",
@@ -519,6 +519,38 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2023-03-20 21:48:21",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
+      },
+      "artists": [
+        {
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
+    },
+    {
+      "added_at": "2023-03-20 21:48:21",
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -539,22 +571,6 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-    },
-    {
-      "added_at": "2023-03-20 21:48:21",
-      "album": {
         "name": "Freddie's Inferno",
         "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2023-03-20 21:48:21",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
-      },
-      "artists": [
-        {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
     },
     {
       "added_at": "2023-03-20 21:48:21",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
+    },
+    {
+      "added_at": "2023-03-20 21:48:21",
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2023-03-20 21:48:21",
-      "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
       "added_at": "2023-03-20 21:48:21",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/5XyrJDyXLimURWjVboM1tC"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V"
+    },
+    {
+      "added_at": "2023-03-20 21:48:21",
+      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml"
-    },
-    {
-      "added_at": "2023-03-20 21:48:21",
-      "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/5XyrJDyXLimURWjVboM1tC"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V"
     },
     {
       "added_at": "2023-03-20 21:48:21",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2023-03-20 21:48:21",
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 160714,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
-    },
-    {
-      "added_at": "2023-03-20 21:48:21",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2023-03-20 21:48:21",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
-        "name": "Escapism. (Sped Up)",
-        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
-    },
-    {
-      "added_at": "2023-03-20 21:48:21",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 248053,
       "name": "The Search",
       "url": "https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY"
+    },
+    {
+      "added_at": "2023-03-20 21:48:21",
+      "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
     },
     {
       "added_at": "2023-03-20 21:48:21",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
+        "name": "MURDER PLOT",
+        "url": "https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "MURDER PLOT",
+      "url": "https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr"
+    },
+    {
+      "added_at": "2023-03-20 21:48:21",
+      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
-        "name": "MURDER PLOT",
-        "url": "https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "MURDER PLOT",
-      "url": "https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr"
-    },
-    {
-      "added_at": "2023-03-20 21:48:21",
-      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
       },
@@ -1733,20 +1733,20 @@
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
-      "added_at": "2023-03-20 21:48:21",
+      "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "GTG",
-        "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa"
       },
       "artists": [
         {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 93893,
-      "name": "GTG",
-      "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
+      "duration_ms": 172218,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
     },
     {
       "added_at": "2023-03-20 21:48:21",
@@ -1767,22 +1767,18 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
-        "name": "Spinnin",
-        "url": "https://open.spotify.com/album/00MzZpBeVYJBvnt6dKrvS4"
+        "name": "GTG",
+        "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
       },
       "artists": [
         {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Bens",
-          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 110938,
-      "name": "Spinnin",
-      "url": "https://open.spotify.com/track/5OzgCc3gQsqchX95k1C1Qa"
+      "duration_ms": 93893,
+      "name": "GTG",
+      "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
     },
     {
       "added_at": "2023-03-20 21:48:21",
@@ -1807,6 +1803,26 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/00MzZpBeVYJBvnt6dKrvS4"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Bens",
+          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+        }
+      ],
+      "duration_ms": 110938,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/5OzgCc3gQsqchX95k1C1Qa"
+    },
+    {
+      "added_at": "2023-03-20 21:48:21",
+      "album": {
         "name": "IFeelLikeDirt",
         "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
       },
@@ -1823,46 +1839,22 @@
     {
       "added_at": "2023-03-20 21:48:21",
       "album": {
-        "name": "Turn On The Lights again.. (feat. Future)",
-        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         },
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 267946,
-      "name": "Turn On The Lights again.. (feat. Future)",
-      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
-    },
-    {
-      "added_at": "2023-03-20 21:48:21",
-      "album": {
-        "name": "STOKELEY",
-        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Nuketown (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
+      "duration_ms": 229800,
+      "name": "Shmunk (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP"
     }
   ],
   "unique_name": "Top Gaming Tracks",

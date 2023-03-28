@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,617 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,118 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 17 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
 | 18 | [Flying Octopus](https://open.spotify.com/track/2XWBbVold8LNroIDyeockI) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F) | 3:31 |
 | 19 | [The Door](https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Door](https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17) | 6:18 |
-| 20 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
-| 21 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
+| 20 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
+| 21 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
 | 22 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 |
 | 23 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 |
-| 24 | [Motokobo](https://open.spotify.com/track/3J8xd0PgO6nKvvsmB3q53H) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Motokobo](https://open.spotify.com/album/33CfjoHj8ve1RMRJAIRKfa) | 6:24 |
-| 25 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 |
-| 26 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
+| 24 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
+| 25 | [Motokobo](https://open.spotify.com/track/3J8xd0PgO6nKvvsmB3q53H) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Motokobo](https://open.spotify.com/album/33CfjoHj8ve1RMRJAIRKfa) | 6:24 |
+| 26 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 |
 | 27 | [Don't Look Back](https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl) | 3:51 |
 | 28 | [Platia](https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL) | 3:12 |
 | 29 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 |
 | 50 | [Adrenaline](https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Adrenaline](https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh) | 6:53 |
 
-Snapshot ID: `MTY3NjAzODU5MywwMDAwMDAwMGY1OGY2YzYwNjFlMTJhOWRiOTRhYjM0ZWY3NzMxMzZl`
+Snapshot ID: `MTY3NjAzODU5MywwMDAwMDAwMGRkZDUzOWI1OTU3YmM2OGU0YmE5YmNhMzI5NmZlNWRk`

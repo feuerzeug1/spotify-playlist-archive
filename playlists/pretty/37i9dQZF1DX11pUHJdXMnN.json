@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 56678,
+  "num_followers": 56707,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDQyZDhkNGY1NTczN2MxNjMzNmU3Y2M0ZWJkYjQyODUx",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDg0YjhjYmQ1Y2M5YjAyZWRiNmI3NTg4ODE0OWRiY2Ex",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -111,22 +111,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Modern Romance",
-        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
+        "name": "Lille Vals",
+        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
       },
       "artists": [
         {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+          "name": "Storken",
+          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
         }
       ],
-      "duration_ms": 214049,
-      "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
+      "duration_ms": 235176,
+      "name": "Lille Vals",
+      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -147,18 +143,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Lille Vals",
-        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
+        "name": "Modern Romance",
+        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
       "artists": [
         {
-          "name": "Storken",
-          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
         }
       ],
-      "duration_ms": 235176,
-      "name": "Lille Vals",
-      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
+      "duration_ms": 214049,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "ANIITIME003",
-        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
-      },
-      "artists": [
-        {
-          "name": "ANII",
-          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
-        }
-      ],
-      "duration_ms": 444150,
-      "name": "Silver Machine",
-      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Mexico (Punctual Remix)",
         "url": "https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 512431,
       "name": "Mexico (Punctual Remix)",
       "url": "https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "ANIITIME003",
+        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
+      },
+      "artists": [
+        {
+          "name": "ANII",
+          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
+        }
+      ],
+      "duration_ms": 444150,
+      "name": "Silver Machine",
+      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Enter Castillo",
-        "url": "https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE"
-      },
-      "artists": [
-        {
-          "name": "Dorothys Fortress",
-          "url": "https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN"
-        }
-      ],
-      "duration_ms": 316097,
-      "name": "Curb Dog '88",
-      "url": "https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Nefertiti (Red Axes Remix)",
         "url": "https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 288000,
       "name": "Nefertiti - Red Axes Remix",
       "url": "https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Enter Castillo",
+        "url": "https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE"
+      },
+      "artists": [
+        {
+          "name": "Dorothys Fortress",
+          "url": "https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN"
+        }
+      ],
+      "duration_ms": 316097,
+      "name": "Curb Dog '88",
+      "url": "https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX"
     },
     {
       "added_at": "2021-08-27 15:45:01",

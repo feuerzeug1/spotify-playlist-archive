@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 88015,
+  "num_followers": 88129,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzIyOSwwMDAwMDAwMDAxMTZmODYyM2FmNDkyNDQzOTdhMDA4MDQ5NDc1MjA1",
+  "snapshot_id": "MTY3Nzg2NzIyOSwwMDAwMDAwMDYwNGRmZjM2MWQzZTllNWI0MmM5ZmVhYjM3MWU0MGEy",
   "tracks": [
     {
       "added_at": "2023-03-03 18:13:49",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -191,6 +175,22 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "I'm Tore Down",
-      "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 238533,
       "name": "I'm Your Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "I'm Tore Down",
+      "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -383,6 +383,38 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
@@ -415,22 +447,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
@@ -443,38 +459,6 @@
       "duration_ms": 188840,
       "name": "Ice Pick",
       "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Red House",
-      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -527,6 +511,22 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 174466,
       "name": "Snatch It Back And Hold It",
       "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -603,18 +619,18 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+        "name": "461 Ocean Boulevard",
+        "url": "https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 179760,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg"
+      "duration_ms": 291080,
+      "name": "Motherless Children",
+      "url": "https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -631,22 +647,6 @@
       "duration_ms": 163933,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
-        "name": "461 Ocean Boulevard",
-        "url": "https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 291080,
-      "name": "Motherless Children",
-      "url": "https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "His Best",
         "url": "https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Electric Blues: 1970s",
-        "url": "https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue"
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
       "artists": [
         {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         }
       ],
-      "duration_ms": 250360,
-      "name": "My Love Strikes Like Lightning",
-      "url": "https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv"
+      "duration_ms": 171946,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -983,6 +967,22 @@
       "duration_ms": 193626,
       "name": "Shake Your Moneymaker",
       "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Electric Blues: 1970s",
+        "url": "https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "My Love Strikes Like Lightning",
+      "url": "https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv"
     },
     {
       "added_at": "2023-03-03 18:13:49",

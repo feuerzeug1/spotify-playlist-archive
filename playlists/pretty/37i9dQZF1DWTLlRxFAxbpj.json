@@ -1,12 +1,12 @@
 {
   "description": "Get ready to soak up the sun with some carefree jams. ",
-  "num_followers": 9741,
+  "num_followers": 9757,
   "original_name": "Spring Break",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwODQ3NSwwMDAwMDAwMDU2MTkwNGU4NjhmZGVlYjNhMTBiNzNmNzMxNDAxNjc3",
+  "snapshot_id": "MTY3ODgwODQ3NSwwMDAwMDAwMGQzZGM3NjA0NmM0NWRmNDViYmFmMDYyNWNlYzVjYzM2",
   "tracks": [
     {
       "added_at": "2023-03-14 15:41:14",
@@ -359,18 +359,26 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
+        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "ARIZONATEARS",
+          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
         }
       ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+      "duration_ms": 163139,
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
       "added_at": "2023-03-14 15:41:14",
@@ -411,6 +419,22 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2023-03-14 15:41:14",
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -435,50 +459,6 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2023-03-14 15:41:14",
-      "album": {
-        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
-        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "ARIZONATEARS",
-          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
-        }
-      ],
-      "duration_ms": 163139,
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
-    },
-    {
-      "added_at": "2023-03-14 15:41:14",
-      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "added_at": "2023-03-14 15:41:14",
+      "album": {
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2023-03-14 15:41:14",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2023-03-14 15:41:14",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
+    },
+    {
+      "added_at": "2023-03-14 15:41:14",
+      "album": {
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
       "added_at": "2023-03-14 15:41:14",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+        "name": "SLUT ME OUT",
+        "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+      "duration_ms": 123672,
+      "name": "SLUT ME OUT",
+      "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
     }
   ],
   "unique_name": "Spring Break",

@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 191450,
+  "num_followers": 191559,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMGQzNjBjNGYxZjRhNWI5OGM1YTE2ZWI3ZDQ1ZjIxZWNk",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDE5ZjViMzdlN2YzOGY0YzBlNmYzOGMwNjhhMjhhMDIw",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 244320,
-      "name": "Hold Her",
-      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Fighting For Me",
         "url": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 229066,
       "name": "Fighting For Me",
       "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 244320,
+      "name": "Hold Her",
+      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -423,6 +423,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Bless The Broken Road (The Duets Album)",
+        "url": "https://open.spotify.com/album/4t6Q5lmd8qMlAodBDrHXvZ"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        },
+        {
+          "name": "Melodie Crittenden",
+          "url": "https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Bless The Broken Road",
+      "url": "https://open.spotify.com/track/1lPGxDeTa2v3DKeWL1f1Ov"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Burn The Ships",
         "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 323946,
       "name": "Pioneers",
       "url": "https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Bless The Broken Road (The Duets Album)",
-        "url": "https://open.spotify.com/album/4t6Q5lmd8qMlAodBDrHXvZ"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        },
-        {
-          "name": "Melodie Crittenden",
-          "url": "https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Bless The Broken Road",
-      "url": "https://open.spotify.com/track/1lPGxDeTa2v3DKeWL1f1Ov"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "I Will Always Be Yours",
+      "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Let It Fly",
         "url": "https://open.spotify.com/album/0HxQEWPXmbBGyffEIlp5k9"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 216991,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "I Will Always Be Yours",
-      "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Meant to Be",
+        "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "BUSY",
         "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 127058,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Meant to Be",
-        "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Meant to Be",
-      "url": "https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Adam & Eve'n",
         "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
@@ -779,6 +763,38 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "This Kind Of Love",
+        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "This Kind Of Love",
+      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -811,22 +827,6 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "This Kind Of Love",
-        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "This Kind Of Love",
-      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Choose You",
         "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 185211,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Fifteen",
-        "url": "https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl"
-      },
-      "artists": [
-        {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Dear Future Wife (Acoustic)",
         "url": "https://open.spotify.com/album/3yHmNaCf9I1nXTYSdd5WoT"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 168069,
       "name": "Dear Future Wife - Acoustic",
       "url": "https://open.spotify.com/track/0RQok78Z58rek1FfvvWmYp"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Fifteen",
+        "url": "https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Glorious Unfolding",
-        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 188133,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "The Glorious Unfolding",
+        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Band of Gold // Summer Sessions",
         "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Here's to Second Chances",
         "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 178748,
       "name": "What Will She Say",
       "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Overcomer",
-        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Praying For You",
-      "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Overcomer",
+        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Praying For You",
+      "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "How Much You Mean To Me",
         "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
       },
@@ -1603,30 +1603,6 @@
       "duration_ms": 218129,
       "name": "How Much You Mean To Me",
       "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "CC",
-        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
-      },
-      "artists": [
-        {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        },
-        {
-          "name": "Lightmuzik",
-          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 118503,
-      "name": "When It Hurts",
-      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1659,6 +1635,30 @@
       "duration_ms": 199826,
       "name": "Love Will Never Fail (I Corinthians 13)",
       "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "CC",
+        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
+      },
+      "artists": [
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        },
+        {
+          "name": "Lightmuzik",
+          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 118503,
+      "name": "When It Hurts",
+      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
     },
     {
       "added_at": "2023-01-31 10:01:12",

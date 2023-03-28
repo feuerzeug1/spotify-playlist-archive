@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-979 songs - 2 day 2 hr 51 min
+980 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Bad Habits](https://open.spotify.com/track/6ex1Pz3pntgy4NPtxHXN2V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:50 | 2023-01-01 | 2023-01-03 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-31 |
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-08-09 | 2023-02-12 |
-| [Baddie](https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Baddie](https://open.spotify.com/album/0u9XpTRBvmMooQZokHW7il) | 2:38 | 2023-02-04 |  |
+| [Baddie](https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Baddie](https://open.spotify.com/album/0u9XpTRBvmMooQZokHW7il) | 2:38 | 2023-02-04 | 2023-03-28 |
 | [BALANCE](https://open.spotify.com/track/1tf1A7fBIk05bEXotkbZJs) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [BALANCE](https://open.spotify.com/album/37GYdu01PcqkCvlqMBu1Ub) | 3:20 | 2022-09-01 | 2022-10-09 |
 | [Baldadig](https://open.spotify.com/track/5yH9bN9aJaQQCUEJbBn4r9) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Baldadig](https://open.spotify.com/album/3yidMOEnX7jrogzE7cdUJJ) | 2:23 | 2021-10-03 | 2021-10-08 |
 | [Bali](https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:21 | 2023-01-21 | 2023-02-12 |
@@ -411,6 +411,7 @@
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-15 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 2:43 | 2022-11-05 | 2023-03-12 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-27 | 2022-11-06 |
+| [Huisje Op Wielen](https://open.spotify.com/track/4a30Pk6uuvHH8zPN4SoMlM) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Onverslaanbaar](https://open.spotify.com/album/6sFhGGCYKCbKms9TgZY6R5) | 3:29 | 2023-03-27 |  |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-12 |
 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 | 2021-12-28 | 2022-03-09 |
 | [Hyperventilatie](https://open.spotify.com/track/3yHt2DUM0AhAs1olpPcm7s) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Nacht Is Van Ons](https://open.spotify.com/album/5jbKfYGJeY4KmqIurYhb9u) | 2:18 | 2021-05-19 | 2022-03-27 |

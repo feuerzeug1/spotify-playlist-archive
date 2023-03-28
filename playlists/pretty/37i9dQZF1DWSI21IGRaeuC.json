@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 17028,
+  "num_followers": 17078,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDYxZDNiZTA0MTdiYzUwOThlMDAzODRmNzg1Y2QwYjc4",
+  "snapshot_id": "MTY3OTYzMDQ2MCwwMDAwMDAwMDk0NDA0ZWVjNDgwNmExYmYyZjQwZmFkNjJiMDhhZjNm",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Whispers In The Wind",
         "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
       },
       "artists": [
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 201172,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -519,22 +535,6 @@
       "duration_ms": 518400,
       "name": "Geh\u00f6rschadengenerator",
       "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "TAKE ME HIGH",
-        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220531,
-      "name": "TAKE ME HIGH",
-      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -649,6 +649,30 @@
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
     },
     {
+      "added_at": "2023-03-28 00:57:58",
+      "album": {
+        "name": "KILO (Beltran Remix)",
+        "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "KILO - Beltran Remix",
+      "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "I Am Somebody",
@@ -687,22 +711,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
-      },
-      "artists": [
-        {
-          "name": "Zilka",
-          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
-        }
-      ],
-      "duration_ms": 158343,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
       },
@@ -717,28 +725,20 @@
       "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
     },
     {
-      "added_at": "2023-03-27 00:46:20",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "KILO (Beltran Remix)",
-        "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
       },
       "artists": [
         {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "Zilka",
+          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
         }
       ],
-      "duration_ms": 247384,
-      "name": "KILO - Beltran Remix",
-      "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
+      "duration_ms": 158343,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "N NIGHT",
+        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "N NIGHT",
+      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Don't Look Back",
         "url": "https://open.spotify.com/album/0lStU7LtwbnoZXXyI3oL68"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 193548,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/3h1plqqVGhOLV0TbBYnQKW"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "N NIGHT",
-        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
-      },
-      "artists": [
-        {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "N NIGHT",
-      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 187652,
       "name": "Music4TheMasses - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Slim Shady",
+        "url": "https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN"
+      },
+      "artists": [
+        {
+          "name": "Reblok",
+          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Slim Shady",
+      "url": "https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Fuck The Regs EP",
         "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
       },
@@ -991,6 +1007,22 @@
       "duration_ms": 204836,
       "name": "Fuck The Regs",
       "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
+    },
+    {
+      "added_at": "2023-03-28 00:57:58",
+      "album": {
+        "name": "Walk The Line (Radio Edit)",
+        "url": "https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jonez",
+          "url": "https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Walk The Line - Radio Edit",
+      "url": "https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1011,22 +1043,6 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Slim Shady",
-        "url": "https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN"
-      },
-      "artists": [
-        {
-          "name": "Reblok",
-          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
-        }
-      ],
-      "duration_ms": 176264,
-      "name": "Slim Shady",
-      "url": "https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 185142,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs"
-    },
-    {
-      "added_at": "2023-03-27 00:46:20",
-      "album": {
-        "name": "Walk The Line (Radio Edit)",
-        "url": "https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z"
-      },
-      "artists": [
-        {
-          "name": "Jesse Jonez",
-          "url": "https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Walk The Line - Radio Edit",
-      "url": "https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Bear",
-        "url": "https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz"
-      },
-      "artists": [
-        {
-          "name": "Dot Major",
-          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Bear",
-      "url": "https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Hydroponic EP",
         "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Bear",
+        "url": "https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz"
+      },
+      "artists": [
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Bear",
+      "url": "https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Beings of Light",
-        "url": "https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 423837,
-      "name": "Ramona",
-      "url": "https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Te Voy A Dar",
         "url": "https://open.spotify.com/album/0PQX0fBA76hR7jcrvzpRZX"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 185826,
       "name": "Te Voy A Dar",
       "url": "https://open.spotify.com/track/4eIsRh7sfRf94s4TtE4UWx"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Beings of Light",
+        "url": "https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 423837,
+      "name": "Ramona",
+      "url": "https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Tonight EP",
+        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
+      },
+      "artists": [
+        {
+          "name": "Latmun",
+          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 348315,
       "name": "Untitled A",
       "url": "https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Tonight EP",
-        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
-      },
-      "artists": [
-        {
-          "name": "Latmun",
-          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     }
   ],
   "unique_name": "Minimal Tech",

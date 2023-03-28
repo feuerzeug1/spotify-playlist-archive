@@ -4,10 +4,11 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Henry Moodie
 
-75 songs - 4 hr 34 min
+79 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Abadi](https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Abadi](https://open.spotify.com/album/6imuBPMqzJSYbN19D9GlFm) | 4:52 | 2023-03-27 |  |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2023-03-23 |  |
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:09 | 2023-03-23 |  |
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2023-03-23 |  |
@@ -35,6 +36,7 @@
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-23 |  |
 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 | 2023-03-23 |  |
 | [How](https://open.spotify.com/track/1gC6eerYwiJm19Yc0SgmbD) | [Manaditara](https://open.spotify.com/artist/35S1sBwXiq6fvWPSemGj2N), [r i k o](https://open.spotify.com/artist/6jKk0U0hra8Es6ZeXHAXEk), [Amallia Mahardini](https://open.spotify.com/artist/3Uc084g86zixC3CW6BDf85) | [How](https://open.spotify.com/album/5nwwCJVcpkCnLeh4Fu6vIW) | 3:50 | 2023-03-23 |  |
+| [I Can't Wait](https://open.spotify.com/track/0X6urbVPZcWoeb68fTsmV3) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [I Can't Wait](https://open.spotify.com/album/2IQYQIoBOMdJPjUFcXrVce) | 2:11 | 2023-03-27 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-03-23 |  |
 | [Jakarta Hari Ini](https://open.spotify.com/track/5hkQFKFRrr5gKdbbxsg6Lj) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Jakarta Hari Ini](https://open.spotify.com/album/1Kw6W5Pj7gvROUJJRqBMzq) | 3:44 | 2023-03-23 |  |
 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 | 2023-03-23 |  |
@@ -58,6 +60,7 @@
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-03-23 |  |
 | [Promise](https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Promise](https://open.spotify.com/album/7zugzVgHDiDlcwvsLxz43A) | 2:31 | 2023-03-23 |  |
 | [Rahmatun Lil'Alameen](https://open.spotify.com/track/4Ifu8HPmQGUnJwwaXcG2Mj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil'Alameen](https://open.spotify.com/album/2SqCf5y1QVixgel87vaM2K) | 3:50 | 2023-03-23 |  |
+| [Ramadhan Tiba](https://open.spotify.com/track/06tjI6ZyMgSwISedNcldUw) | [Opick](https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz) | [Cahaya Hati](https://open.spotify.com/album/6B5IzuaCS1U1RVLEmq0ewQ) | 3:28 | 2023-03-27 |  |
 | [Reminder](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:38 | 2023-03-23 |  |
 | [Right Now](https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 | 2023-03-23 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-03-23 |  |
@@ -80,6 +83,7 @@
 | [Uneasy](https://open.spotify.com/track/4o31OUbP1WMjtpJeECtL7n) | [Andrea Tanzil](https://open.spotify.com/artist/3YJZTp3m6z2jgFUwe3krO7) | [Uneasy](https://open.spotify.com/album/7vxxmD7359SlJD2ir4harB) | 4:09 | 2023-03-23 |  |
 | [Usai](https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Usai](https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8) | 3:37 | 2023-03-23 |  |
 | [Violet](https://open.spotify.com/track/7IezwtVIJIPC36LpKMR9d7) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Spin The Globe](https://open.spotify.com/album/1HkGRJtlIFAMDKpEgGxF0M) | 2:02 | 2023-03-23 |  |
+| [Ya Maulana](https://open.spotify.com/track/1rnNm4yEXQCdnjQTsObWlY) | [Opick](https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz) | [Ya Maulana](https://open.spotify.com/album/15SWHhL9GcwUZ2pPPlcwtF) | 3:43 | 2023-03-27 |  |
 | [You & I](https://open.spotify.com/track/0epYQ0yLA5RUYyrhADkF0j) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [You & I](https://open.spotify.com/album/3zqHROb3Ja6GiVxbdGQeMu) | 2:31 | 2023-03-23 |  |
 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 | 2023-03-23 |  |
 | [애열 Love Shine](https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [WHOEVER](https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj) | 4:26 | 2023-03-23 |  |

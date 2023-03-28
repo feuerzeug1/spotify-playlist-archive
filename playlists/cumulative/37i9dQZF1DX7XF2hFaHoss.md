@@ -4,7 +4,7 @@
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Madi Diaz
 
-155 songs - 9 hr 18 min
+156 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Great Divide](https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 4:01 | 2023-02-03 |  |
 | [Grown](https://open.spotify.com/track/6W5B6NMVitQvY6RHnDZpYi) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Sugarcoated](https://open.spotify.com/album/4505aBIeu5JcRNKg3nFQbt) | 3:30 | 2021-03-02 | 2022-07-29 |
 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 | 2022-03-08 |  |
-| [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2022-03-08 |  |
+| [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2022-03-08 | 2023-03-28 |
 | [Higher \(feat\. David Rawlings\)](https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Higher](https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8) | 3:23 | 2023-02-03 |  |
 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 | 2021-03-02 |  |
 | [Houdini](https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Houdini](https://open.spotify.com/album/09amDFagdn2HQ5jpfo1dr4) | 3:16 | 2021-03-02 | 2022-07-29 |
@@ -151,6 +151,7 @@
 | [Turn Out the Lights](https://open.spotify.com/track/53z0nEZgRnavzH7QbSrO2a) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3uIsEwFYYV4rwRssSEJ8Lb) | 3:23 | 2021-03-02 | 2022-07-28 |
 | [Unsteady Ground](https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX) | 3:51 | 2021-03-02 | 2022-07-27 |
 | [untitled](https://open.spotify.com/track/2PMo0BYsGBY2TgHJ5Gm4oT) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [untitled](https://open.spotify.com/album/0p62EsX82Xd24KmMhORtwC) | 3:45 | 2022-03-08 | 2023-03-16 |
+| [untitled](https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [untitled](https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT) | 3:45 | 2023-03-08 |  |
 | [Volcano](https://open.spotify.com/track/0G10TbEezTu5zbO6r6bGSO) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Volcano](https://open.spotify.com/album/2hVRe9ciWguJRu8DWCDrvY) | 3:28 | 2022-03-08 |  |
 | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9) | 4:30 | 2022-03-08 |  |
 | [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/1atfZeWvJu5xxAUJ9Mj9Qs) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1AJ5uDWMN8DYbaIXAVxU7U) | 3:36 | 2021-03-02 | 2022-10-13 |

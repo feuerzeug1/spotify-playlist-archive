@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-272 songs - 17 hr 5 min
+273 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Dreamcatchers](https://open.spotify.com/track/51F9dj6Hc3shNVFNNWi4sx) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P) | 1:51 | 2022-07-22 |  |
 | [Dreamcatchers](https://open.spotify.com/track/7uXwbnpGfGRwlB7CWeC6Aw) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/0FRWio6Rx37fyPEBj5BmpI) | 1:51 | 2021-12-17 | 2022-07-29 |
 | [Early Morning Shakes](https://open.spotify.com/track/4lXBIshfa0juWxi6odtLHt) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Early Morning Shakes](https://open.spotify.com/album/153JmAA3a2Rf9ms6W1dEiR) | 3:17 | 2021-12-17 | 2022-11-05 |
-| [Family](https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I) | 4:46 | 2022-12-09 |  |
+| [Family](https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I) | 4:46 | 2022-12-09 | 2023-03-28 |
+| [Family](https://open.spotify.com/track/509c3CN2oJcceQPtagGxpb) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 4:46 | 2023-03-24 |  |
 | [Family](https://open.spotify.com/track/6R7Lxgc6rZoN5dslqxSZGj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/2e1cQINViMkPrLdKL0U9bQ) | 4:47 | 2022-12-09 | 2022-12-16 |
 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 | 2021-12-17 |  |
 | [Fire](https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:17 | 2022-07-22 |  |

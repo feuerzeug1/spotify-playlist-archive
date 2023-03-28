@@ -1,12 +1,12 @@
 {
   "description": "Canciones te inspiran a ti y a todas las mam\u00e1s.",
-  "num_followers": 317263,
+  "num_followers": 317574,
   "original_name": "Las Rom\u00e1nticas de Mam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk5Nzc2OCwwMDAwMDAwMDU5ZWYzNTkwYjU5NGY1YjMzMjVlNDFhZDY1NmEyNGRk",
+  "snapshot_id": "MTY1OTk5Nzc2OCwwMDAwMDAwMDYyMDgxYTZiMTZhZjQ5MGMyODdlMjRlMGFmZTcyZTQx",
   "tracks": [
     {
       "added_at": "2022-05-09 23:19:16",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 281000,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -243,38 +243,6 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Para M\u00ed",
-        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Antologia",
-      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -291,6 +259,22 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
         "name": "Destino Paraiso - 25th Anniversary Edition (Remastered)",
         "url": "https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 308880,
       "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
       "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Antologia",
+      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Santo Pecado",
-        "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 330373,
-      "name": "El Problema",
-      "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+        "name": "Santo Pecado",
+        "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+      "duration_ms": 330373,
+      "name": "El Problema",
+      "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -447,6 +431,22 @@
       "duration_ms": 262706,
       "name": "Como Tu Mujer",
       "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2022-08-08 22:29:28",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Tan enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 167000,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Tan enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281226,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 331360,
       "name": "La Chica de Humo",
       "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281226,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -807,38 +807,6 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -859,6 +827,38 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
         "name": "Descanso Dominical (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
+      "duration_ms": 402133,
+      "name": "Historia de Taxi",
+      "url": "https://open.spotify.com/track/4qmXbnmZxZy9pavpf3YfP5"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 402133,
-      "name": "Historia de Taxi",
-      "url": "https://open.spotify.com/track/4qmXbnmZxZy9pavpf3YfP5"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
         "name": "Nada De Nada (Edici\u00f3n de lujo)",
         "url": "https://open.spotify.com/album/6oHnCzahK7EHvqfFbI1vVE"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 250544,
       "name": "Nada De Nada",
       "url": "https://open.spotify.com/track/4oAXfBdNH0qHr32w82E8dg"
+    },
+    {
+      "added_at": "2022-05-09 23:19:16",
+      "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Nunca Te Olvidare\u0301",
+      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -1203,8 +1219,8 @@
     {
       "added_at": "2022-05-09 23:19:16",
       "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
       "artists": [
         {
@@ -1212,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 264160,
-      "name": "Nunca Te Olvidare\u0301",
-      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
+      "duration_ms": 244000,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv"
     },
     {
       "added_at": "2022-05-09 23:19:16",
@@ -1343,22 +1359,6 @@
       "duration_ms": 228106,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/0c8f8b76ThPP2MInXEZyTY"
-    },
-    {
-      "added_at": "2022-05-09 23:19:16",
-      "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv"
     },
     {
       "added_at": "2022-05-09 23:19:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Divino Niño
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,245 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,215 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 8 | [Happiness](https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:03 |
 | 9 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
 | 10 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 |
-| 11 | [Still](https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Still](https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3) | 2:25 |
-| 12 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:24 |
+| 11 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:24 |
+| 12 | [Still](https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Still](https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3) | 2:25 |
 | 13 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 14 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 |
 | 15 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 25 | [NIÑO ETERNO](https://open.spotify.com/track/01QtjLgSh2PXid128hIWiB) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 2:41 |
 | 26 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
 | 27 | [Un Día](https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Un Día](https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK) | 2:44 |
-| 28 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
-| 29 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 |
+| 28 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 |
+| 29 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 |
 | 30 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 |
 | 31 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 |
 | 32 | [DE REVERSA](https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 59 | [bend&break](https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Hasta La Dorada](https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1) | 3:03 |
 | 60 | [MI AMOR](https://open.spotify.com/track/0pRRA68mFH6sIhLsenSit9) | [Call Me Ace](https://open.spotify.com/artist/4FKGHM8GGbuP6XIAUoNShM), [CHANNA](https://open.spotify.com/artist/0eWYvUXSchDSbrUvvNcPvp), [J\-Dot Music](https://open.spotify.com/artist/5zNLBBmJp8f1OWisLEIqXw) | [RETURN TO OFFICE](https://open.spotify.com/album/0CxeKUMjFYN38iZRDQbsSO) | 3:31 |
 
-Snapshot ID: `MTY3OTUwOTkwMCwwMDAwMDAwMDE0NTMwOWEzNmYyOWM3NzE2ZTQyZDE4YmJjYmNhMjI3`
+Snapshot ID: `MTY3OTUwOTkwMCwwMDAwMDAwMGFjOGJiNDM3NThlOWVlZGZmOTlmNTE0NmNiNmUxMTIw`

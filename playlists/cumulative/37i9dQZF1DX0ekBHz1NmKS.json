@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW"
+      },
+      "artists": [
+        {
+          "name": "Mike \u00c4pt",
+          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb"
+    },
+    {
+      "album": {
         "name": "Bananas",
         "url": "https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b"
       },
@@ -4783,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "En liten l\u00e5tid\u00e9",
+        "url": "https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Hon sa",
+      "url": "https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1"
+    },
+    {
+      "album": {
         "name": "HORNY",
         "url": "https://open.spotify.com/album/1jcKD4lL5GUfSZTCNoqv4g"
       },
@@ -8182,7 +8218,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 209786,
       "name": "Poppade en till",
       "url": "https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk"
@@ -9510,7 +9546,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 198986,
       "name": "Socker Och Vatten",
       "url": "https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE"

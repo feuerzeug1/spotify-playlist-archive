@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXLjydKDJPFJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXLjydKDJPFJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLjydKDJPFJ)
 
-### [Carnita Asada: Clásico Regio](https://open.spotify.com/playlist/37i9dQZF1DWXLjydKDJPFJ)
+### [Carnita Asada \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXLjydKDJPFJ)
 
-> ¿Tigre o Rayado? Compare, prenda el carbón y saque la bocina que ya se armó la carnita edición Clásico Regio.
+> Compare, prenda el carbón y saque la bocina que ya se armó la carnita.
 
 269 songs - 14 hr 40 min
 
@@ -89,7 +89,7 @@
 | [El Taxista](https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P) | 3:44 | 2021-12-08 | 2022-07-29 |
 | [El Tony](https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [El Tony](https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu) | 2:45 | 2022-06-10 | 2022-06-19 |
 | [El Tóxico](https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Tóxico](https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG) | 2:59 | 2021-12-08 |  |
-| [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-03-18 |  |
+| [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-03-17 |  |
 | [En MI Pancita](https://open.spotify.com/track/1Ya1UL2b1s4GOHzzfyE5fv) | [Lagrimita Y Costel](https://open.spotify.com/artist/1C90Wuaxx8BGEZ6y6TySD7) | [Juntos Por Siempre](https://open.spotify.com/album/6tuXx4Fz56zPmi4GDSNNh0) | 3:25 | 2022-07-18 | 2022-11-13 |
 | [En Realidad](https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Antología, Vol\. 1](https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2) | 3:41 | 2021-12-08 |  |
 | [En Realidad](https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Te Quiero Todavía](https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK) | 3:41 | 2021-12-08 | 2022-07-29 |

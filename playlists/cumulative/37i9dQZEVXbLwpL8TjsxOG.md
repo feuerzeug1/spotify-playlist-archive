@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-559 songs - 1 day 9 hr 41 min
+560 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Black Mirror](https://open.spotify.com/track/0TlwuwupjmsPcqXOWf9HhI) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [Black Mirror](https://open.spotify.com/album/1J59OLYQYLvZNRIi0YFQ6a) | 2:49 | 2021-11-25 | 2022-01-19 |
 | [Born Singer](https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:58 | 2022-06-11 | 2022-06-13 |
 | [Boss](https://open.spotify.com/track/4xqUroNrreYU2CobUl84NH) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Boss](https://open.spotify.com/album/1ITsvXJZiUbOQGEfdGdMXv) | 4:02 | 2021-06-11 | 2021-09-11 |
-| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-19 |  |
+| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-19 | 2023-03-28 |
 | [boyfriend material](https://open.spotify.com/track/4Ef7cEjeHhh7vYBzmPq4oE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:30 | 2022-05-21 | 2022-05-23 |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-05-22 | 2021-07-09 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-09-01 |
@@ -368,10 +368,10 @@
 | [你,好不好? \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛,教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 | 2023-02-27 | 2023-03-03 |
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2023-02-28 | 2023-03-02 |
 | [你把我的](https://open.spotify.com/track/6bJ4x48rEaF6brX20Ho3pY) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [你把我的](https://open.spotify.com/album/4a5X6NxbbpqbtbUnke0KxR) | 2:25 | 2022-07-07 | 2022-10-20 |
-| [你瞞我瞞](https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [Can't Be Half](https://open.spotify.com/album/3VL7eP9OtVVYWHgWLyGQRo) | 3:57 | 2021-03-27\* | 2023-03-27 |
+| [你瞞我瞞](https://open.spotify.com/track/1eId3TVzGrwv73YAWAVQMX) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [Can't Be Half](https://open.spotify.com/album/3VL7eP9OtVVYWHgWLyGQRo) | 3:57 | 2021-03-27\* |  |
 | [你瞞我瞞 \- From THE FIRST TAKE](https://open.spotify.com/track/5w3SN2UjZRuuvPLAisQuaC) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [你瞞我瞞 \- From THE FIRST TAKE](https://open.spotify.com/album/6R3nshWX358S0cbKfS1fmz) | 3:44 | 2023-01-31 | 2023-02-05 |
 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2021-08-01 | 2022-04-30 |
-| [俏郎君](https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [The Brightest Darkness](https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8) | 4:40 | 2021-03-27\* |  |
+| [俏郎君](https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [The Brightest Darkness](https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8) | 4:40 | 2021-03-27\* | 2023-03-28 |
 | [信之卷](https://open.spotify.com/track/43AAdQfc9dodfuxkcKMZo3) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [信之卷](https://open.spotify.com/album/3RNW4B6DQWb8Bbbq2jCQaP) | 4:34 | 2022-05-15 | 2022-05-29 |
 | [假使世界原來不像你預期](https://open.spotify.com/track/53HxUdYRCRMdzYPG0qhGUP) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [假使世界原來不像你預期](https://open.spotify.com/album/1uIlhInRyOcam9TjlEiGP8) | 4:27 | 2021-03-27\* | 2021-09-04 |
 | [偷情](https://open.spotify.com/track/2E5X5HbBHBUeo2juTSgTMX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [偷情](https://open.spotify.com/album/2zYf27zQAJY1qgPB5plv19) | 3:48 | 2023-01-20 |  |
@@ -384,6 +384,7 @@
 | [初戀](https://open.spotify.com/track/1gGgVV7kyte91NOurgCbPo) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [初戀](https://open.spotify.com/album/3osmGX8eBAPlyeyQsYWUag) | 3:29 | 2022-05-15 | 2022-05-28 |
 | [初戀](https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [MIKE \(Deluxe Version\)](https://open.spotify.com/album/0bEkpw5Jt53O0uBEYQX2Co) | 3:29 | 2022-05-19 | 2022-06-01 |
 | [到底發生過什麼事](https://open.spotify.com/track/48yFnEAkBdOmqvhZ6NaR4U) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [到底發生過什麼事](https://open.spotify.com/album/7h9tAmlntUcHYb17Me9ge3) | 4:19 | 2022-10-25 |  |
+| [到底發生過什麼事 \(feat\. 八三夭\)](https://open.spotify.com/track/5xzGrWbHvP8Qt5X4vzdlrN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9), [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [到底發生過什麼事 \(feat\. 八三夭\)](https://open.spotify.com/album/527Jit9KyLZbnTZYoH72PJ) | 4:26 | 2023-03-27 |  |
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2021-03-27\* | 2021-09-19 |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 3:19 | 2022-05-21 | 2023-01-14 |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:19 | 2021-11-28 | 2022-05-28 |

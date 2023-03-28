@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 144489,
+  "num_followers": 144582,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1OTQ3OCwwMDAwMDAwMDVlMmZmZWRkODRhZmUwNWJiNWUxODVlMzhjYWE1ODI4",
+  "snapshot_id": "MTY3NzI1OTQ3OCwwMDAwMDAwMDA4M2RjNDhiNDkyNzAxMjRkNTNmOWY1ZTY0YmU2ZTAz",
   "tracks": [
     {
       "added_at": "2023-02-17 11:58:20",
@@ -227,26 +227,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Riding with the King",
-        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Ten Long Years",
-      "url": "https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 420386,
       "name": "Need Her So Bad",
       "url": "https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Riding with the King",
+        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "His Best: The Electric B.B. King (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 309373,
-      "name": "Don't Answer The Door",
-      "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Smoke From The Chimney",
-        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
+        "name": "His Best: The Electric B.B. King (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
       },
       "artists": [
         {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 266013,
-      "name": "Bubba Jones",
-      "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
+      "duration_ms": 309373,
+      "name": "Don't Answer The Door",
+      "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
+        "name": "Smoke From The Chimney",
+        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 266013,
+      "name": "Bubba Jones",
+      "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
         "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
       },
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L"
     },
     {
-      "added_at": "2023-03-27 00:12:01",
+      "added_at": "2023-03-28 01:08:03",
       "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Heavy Load Blues (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
         }
       ],
-      "duration_ms": 258680,
-      "name": "You Know My Love",
-      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1043,6 +1027,22 @@
       "duration_ms": 192121,
       "name": "One Scotch, One Bourbon, One Beer",
       "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Heavy Load Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "You Know My Love",
+      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Drifting From Town To Town",
-      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "Sailin' Shoes",
         "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 208133,
       "name": "A Apolitical Blues",
       "url": "https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Drifting From Town To Town",
+      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
     },
     {
       "added_at": "2023-02-17 11:58:20",
@@ -1141,7 +1141,7 @@
       "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
     },
     {
-      "added_at": "2023-03-27 00:12:01",
+      "added_at": "2023-03-28 01:08:03",
       "album": {
         "name": "Sweet Giant of the Blues",
         "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-02-17 11:58:20",
       "album": {
-        "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
-        "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Sitting At Home Alone",
-      "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
-    },
-    {
-      "added_at": "2023-02-17 11:58:20",
-      "album": {
         "name": "The Essential Taj Mahal",
         "url": "https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 530640,
       "name": "The Celebrated Walkin' Blues",
       "url": "https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR"
+    },
+    {
+      "added_at": "2023-02-17 11:58:20",
+      "album": {
+        "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
+        "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Sitting At Home Alone",
+      "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
     },
     {
       "added_at": "2023-02-17 11:58:20",

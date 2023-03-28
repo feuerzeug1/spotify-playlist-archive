@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 135136,
+  "num_followers": 135173,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDI0MywwMDAwMDAwMGIyYjVkZTkyN2IzNjAyZTMzMDMyODJlZGQ5NDFhZjk2",
+  "snapshot_id": "MTY3OTAxNDI0MywwMDAwMDAwMDA5OTM2MTk4ODU4YWVlNmI5NzUxNDdkY2NjYjkzODg5",
   "tracks": [
     {
       "added_at": "2023-03-17 00:50:43",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
         "name": "De Verdad",
         "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
@@ -155,6 +139,38 @@
       "duration_ms": 303133,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2023-03-17 00:50:43",
@@ -199,42 +215,6 @@
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
-        "name": "Lo Mato",
-        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 328786,
-      "name": "El D\u00eda De Mi Suerte",
-      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2023-03-17 00:50:43",
@@ -319,18 +299,38 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 252400,
-      "name": "El Men\u00fa",
-      "url": "https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9"
+      "duration_ms": 328786,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2023-03-17 00:50:43",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+      "duration_ms": 252400,
+      "name": "El Men\u00fa",
+      "url": "https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9"
     },
     {
       "added_at": "2023-03-17 00:50:43",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
+        "name": "El Caballero De La Salsa - La Historia Tropical",
+        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 333280,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
         "name": "Maelo...El \u00danico",
         "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 339240,
       "name": "El Nazareno",
       "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/4hw32LMr5RoeKQl0Kvh20e"
     },
     {
       "added_at": "2023-03-17 00:50:43",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
-        "name": "El Caballero De La Salsa - La Historia Tropical",
-        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 333280,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
         "name": "OPUS",
         "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 374053,
       "name": "Tu Vida en la M\u00eda",
       "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/4hw32LMr5RoeKQl0Kvh20e"
     },
     {
       "added_at": "2023-03-17 00:50:43",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
         "name": "Rey del Bajo",
         "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 274653,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5giBWdb2pJwFl3avFUKGXj"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Cambio de Piel",
-      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
     },
     {
       "added_at": "2023-03-17 00:50:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
-        "name": "The Greatest Salsa Ever",
-        "url": "https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
         "name": "La Perfecta Combinaci\u00f3n",
         "url": "https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0"
       },
@@ -707,22 +691,6 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
-        "name": "Calle Linda (Golden Edition)",
-        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
-      },
-      "artists": [
-        {
-          "name": "Pirulo y la Tribu",
-          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Loco Pero Feliz",
-      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0"
       },
@@ -739,6 +707,38 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
+        "name": "Calle Linda (Golden Edition)",
+        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
+      },
+      "artists": [
+        {
+          "name": "Pirulo y la Tribu",
+          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Loco Pero Feliz",
+      "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
+        "name": "The Greatest Salsa Ever",
+        "url": "https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
         "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
         "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
       },
@@ -751,38 +751,6 @@
       "duration_ms": 296226,
       "name": "No Tires La Primera Piedra",
       "url": "https://open.spotify.com/track/0OFAo20H6VUQB78GyLoJQJ"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
-      },
-      "artists": [
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/0EvqtUYBpFOtAGrfWI2DtL"
-    },
-    {
-      "added_at": "2023-03-17 00:50:43",
-      "album": {
-        "name": "Arroz Con Habichuela",
-        "url": "https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 356640,
-      "name": "Arroz Con Habichuela",
-      "url": "https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS"
     },
     {
       "added_at": "2023-03-17 00:50:43",
@@ -807,6 +775,22 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
+      },
+      "artists": [
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/0EvqtUYBpFOtAGrfWI2DtL"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
         "name": "Canciones del Alma",
         "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 219049,
       "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
+    },
+    {
+      "added_at": "2023-03-17 00:50:43",
+      "album": {
+        "name": "Arroz Con Habichuela",
+        "url": "https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 356640,
+      "name": "Arroz Con Habichuela",
+      "url": "https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS"
     },
     {
       "added_at": "2023-03-17 00:50:43",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-03-17 00:50:43",
       "album": {
-        "name": "Serie Millennium",
-        "url": "https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C"
+        "name": "Serie Millennium 21: Paquito Guzman",
+        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
       "artists": [
         {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+          "name": "Paquito Guzman",
+          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
         }
       ],
-      "duration_ms": 320466,
-      "name": "Casi Te Envidio",
-      "url": "https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID"
+      "duration_ms": 279106,
+      "name": "25 Rosas",
+      "url": "https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK"
     }
   ],
   "unique_name": "Salsa Boricua",

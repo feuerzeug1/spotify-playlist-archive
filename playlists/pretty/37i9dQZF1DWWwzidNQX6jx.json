@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1641078,
+  "num_followers": 1641622,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NTY5MywwMDAwMDAwMDE4Nzc0NDE1NGMxZDgyOTJmZjQ0ZGViZGQyYTI4MWJh",
+  "snapshot_id": "MTY3NDA3NTY5MywwMDAwMDAwMDA1ZjczNmJjYzFmYzFhYzE5YmRlYTViMjM2M2RhZDFk",
   "tracks": [
     {
       "added_at": "2023-01-18 21:01:33",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
         "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 547106,
       "name": "Free Bird",
       "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Led Zeppelin III (Remaster)",
-        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Immigrant Song - Remaster",
-      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 243026,
       "name": "Let It Be - Remastered 2009",
       "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Even In The Quietest Moments",
         "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 248173,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 371413,
+      "name": "Heroes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
+      "duration_ms": 281231,
+      "name": "My Sweet Lord - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 281231,
-      "name": "My Sweet Lord - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Band On The Run (Standard)",
-        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
       },
       "artists": [
         {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 313026,
-      "name": "Band On The Run - 2010 Remaster",
-      "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -967,6 +951,22 @@
       "duration_ms": 212306,
       "name": "Livin' Thing",
       "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Band On The Run (Standard)",
+        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 313026,
+      "name": "Band On The Run - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
+        "name": "A Day At The Races (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296493,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
       },
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "A Day At The Races (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
         }
       ],
-      "duration_ms": 296493,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
+      "duration_ms": 191226,
+      "name": "I Want You to Want Me",
+      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1239,22 +1255,6 @@
       "duration_ms": 203893,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "I Want You to Want Me",
-      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 147493,
+      "name": "Who'll Stop The Rain",
+      "url": "https://open.spotify.com/track/3Bh6uInhcVBVvLraGZdkKD"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
         "name": "All The Young Dudes (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 307493,
       "name": "American Woman",
       "url": "https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 147493,
-      "name": "Who'll Stop The Rain",
-      "url": "https://open.spotify.com/track/3Bh6uInhcVBVvLraGZdkKD"
     },
     {
       "added_at": "2023-01-18 21:01:33",

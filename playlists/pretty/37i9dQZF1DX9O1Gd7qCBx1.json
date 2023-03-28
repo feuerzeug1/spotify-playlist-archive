@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 185936,
+  "num_followers": 185942,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMDMyYmJmYzU3NjQ1ZWRkZGI4MDVhMTkxNDRjOWFhZDQ2",
+  "snapshot_id": "MTY2NTcwNjAyNywwMDAwMDAwMGRmZWIzOTljNTVhOWRhNzMxNmY3YjViYzgyNzMzN2Vk",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "El Abuelo",
-        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "El Abuelo",
-      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Payaso",
         "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "El Abuelo",
+        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "El Abuelo",
+      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Hecho a Mano",
         "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 256058,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "El Mexico Que Se Nos Fue",
-        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Muerto en Vida",
-      "url": "https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -583,6 +567,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "El corrido de Miguel Rivera - Inspirado en \"Coco\"",
+      "url": "https://open.spotify.com/track/1WGdFps5A9Xi3bXNAIFUIp"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Sufro Sufro Sufro",
         "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
+        "name": "El Mexico Que Se Nos Fue",
+        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 237000,
-      "name": "El corrido de Miguel Rivera - Inspirado en \"Coco\"",
-      "url": "https://open.spotify.com/track/1WGdFps5A9Xi3bXNAIFUIp"
+      "duration_ms": 211933,
+      "name": "Muerto en Vida",
+      "url": "https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Rosa Mexicano",
-        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
-      },
-      "artists": [
-        {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Monton de Tierra",
-      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Banda de los Muertos",
         "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Edge of the Sun (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4QsOzuucw0uoH3cuLA0RLv"
+        "name": "Rosa Mexicano",
+        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
       },
       "artists": [
         {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
         }
       ],
-      "duration_ms": 183200,
-      "name": "Coyoac\u00e1n",
-      "url": "https://open.spotify.com/track/58VDkDKmw5tLvS2HcxMAxw"
+      "duration_ms": 164080,
+      "name": "Monton de Tierra",
+      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1323,6 +1307,22 @@
       "duration_ms": 145484,
       "name": "El Funeral",
       "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Edge of the Sun (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QsOzuucw0uoH3cuLA0RLv"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Coyoac\u00e1n",
+      "url": "https://open.spotify.com/track/58VDkDKmw5tLvS2HcxMAxw"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
-      },
-      "artists": [
-        {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "El Enterrador",
-      "url": "https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
         "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 193973,
       "name": "Para Cuando Muera",
       "url": "https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Sabung",
+        "url": "https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA"
+      },
+      "artists": [
+        {
+          "name": "El Haru Kuroi",
+          "url": "https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Dia De Los Muertos",
+      "url": "https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1"
     }
   ],
   "unique_name": "D\u00eda de Muertos",

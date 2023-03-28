@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,868 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,980 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 36 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 |
 | 37 | [Home](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5) | [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Home](https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR) | 3:45 |
 | 38 | [Closer To You](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Closer To You](https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG) | 2:46 |
-| 39 | [Adore](https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Adore](https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ) | 3:29 |
-| 40 | [Feels Like Paradise](https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Feels Like Paradise](https://open.spotify.com/album/7JSKRM0cz2AQlv69KVsQQD) | 3:14 |
-| 41 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
+| 39 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 |
+| 40 | [Adore](https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Adore](https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ) | 3:29 |
+| 41 | [Feels Like Paradise](https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Feels Like Paradise](https://open.spotify.com/album/7JSKRM0cz2AQlv69KVsQQD) | 3:14 |
 | 42 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
-| 43 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 |
+| 43 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
 | 44 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
 | 45 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 |
 | 46 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/1asrO7gENmmoBu9iRJtZbi) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 3:11 |
 | 60 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 |
 
-Snapshot ID: `MTY3ODQ2NDAwMCwwMDAwMDAwMGZiMTA4MWQ3MzBkOGE3NzY2MTZmYzE5MGU5ZTI1YjEz`
+Snapshot ID: `MTY3ODQ2NDAwMCwwMDAwMDAwMDQ4NzEzMDllMWYzY2M2OGJhZTE4YTJmZDY3N2JkYmIx`

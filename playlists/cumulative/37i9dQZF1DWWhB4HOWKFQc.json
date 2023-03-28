@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Abadi",
+        "url": "https://open.spotify.com/album/6imuBPMqzJSYbN19D9GlFm"
+      },
+      "artists": [
+        {
+          "name": "Dendi Nata",
+          "url": "https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn"
+        },
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292864,
+      "name": "Abadi",
+      "url": "https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j"
+    },
+    {
+      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -547,6 +569,24 @@
     },
     {
       "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2IQYQIoBOMdJPjUFcXrVce"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131957,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/0X6urbVPZcWoeb68fTsmV3"
+    },
+    {
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -977,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Cahaya Hati",
+        "url": "https://open.spotify.com/album/6B5IzuaCS1U1RVLEmq0ewQ"
+      },
+      "artists": [
+        {
+          "name": "Opick",
+          "url": "https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208693,
+      "name": "Ramadhan Tiba",
+      "url": "https://open.spotify.com/track/06tjI6ZyMgSwISedNcldUw"
+    },
+    {
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -1386,6 +1444,24 @@
       "duration_ms": 122880,
       "name": "Violet",
       "url": "https://open.spotify.com/track/7IezwtVIJIPC36LpKMR9d7"
+    },
+    {
+      "album": {
+        "name": "Ya Maulana",
+        "url": "https://open.spotify.com/album/15SWHhL9GcwUZ2pPPlcwtF"
+      },
+      "artists": [
+        {
+          "name": "Opick",
+          "url": "https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223120,
+      "name": "Ya Maulana",
+      "url": "https://open.spotify.com/track/1rnNm4yEXQCdnjQTsObWlY"
     },
     {
       "album": {

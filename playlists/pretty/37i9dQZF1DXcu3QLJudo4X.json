@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 46685,
+  "num_followers": 46777,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzE0NSwwMDAwMDAwMGFkZjc0Njg3YjFiZWU2NmNlYmZiYmYyZTYwMjhkZTZh",
+  "snapshot_id": "MTY3Nzg2NzE0NSwwMDAwMDAwMDU2ZjNhMTQzZjkxZDE0ZmMyODExMzdkOTY3ZTAxYmMw",
   "tracks": [
     {
       "added_at": "2023-02-24 17:27:57",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Killing Floor",
-      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 147800,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
     },
     {
       "added_at": "2023-02-24 17:27:57",
@@ -253,23 +253,7 @@
       "url": "https://open.spotify.com/track/2CU9pGd7lq4fSHiFwjs842"
     },
     {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
-        "name": "Chicago Bound",
-        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "That's All Right - 1950 Single Version",
-      "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
-    },
-    {
-      "added_at": "2023-03-27 01:36:24",
+      "added_at": "2023-03-28 01:30:21",
       "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+        "name": "Chicago Bound",
+        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
         }
       ],
-      "duration_ms": 175040,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
+      "duration_ms": 170373,
+      "name": "That's All Right - 1950 Single Version",
+      "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
     },
     {
       "added_at": "2023-02-24 17:27:57",
@@ -335,6 +319,22 @@
       "duration_ms": 158200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
     },
     {
       "added_at": "2023-02-24 17:27:57",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Stormy Monday",
-      "url": "https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
         "name": "I Pity The Fool: The Duke Recordings, Vol. One",
         "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 177306,
       "name": "Farther Up The Road",
       "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Stormy Monday",
+      "url": "https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl"
     },
     {
       "added_at": "2023-02-24 17:27:57",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "From the Cradle",
-        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
+        "name": "Rocks The House",
+        "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 287933,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/7mdznHVGqPbcviLMxTJwti"
+      "duration_ms": 254165,
+      "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
+      "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
     },
     {
       "added_at": "2023-02-24 17:27:57",
@@ -563,18 +547,50 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "Rocks The House",
-        "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 254165,
-      "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
-      "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
+      "duration_ms": 171826,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
+        "name": "From the Cradle",
+        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/7mdznHVGqPbcviLMxTJwti"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
     },
     {
       "added_at": "2023-02-24 17:27:57",
@@ -599,22 +615,6 @@
       "duration_ms": 314373,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
     },
     {
       "added_at": "2023-02-24 17:27:57",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
+        "name": "Texas Cannonball",
+        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
         "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
         "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
@@ -747,6 +763,22 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Everyday I Have The Blues",
+      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -767,38 +799,6 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "Texas Cannonball",
-        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
-        "name": "Singin' The Blues",
-        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Everyday I Have The Blues",
-      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
         "name": "Good Things Don't Happen Every Day",
         "url": "https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 183800,
       "name": "(I Think) Drowning on Dry Land",
       "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Blues With A Feeling",
-      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
     },
     {
       "added_at": "2023-02-24 17:27:57",
@@ -867,6 +851,22 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Blues With A Feeling",
+      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
         "name": "Messing With The Blues",
         "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
-        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Nobody Knows You When You're Down And Out",
-      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
         "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
         "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 147840,
       "name": "One Night - Remastered",
       "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
+        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
+        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Nobody Knows You When You're Down And Out",
+      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
     },
     {
       "added_at": "2023-02-24 17:27:57",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-24 17:27:57",
       "album": {
-        "name": "One Kind Favor (Deluxe)",
-        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Sitting On Top Of The World",
-      "url": "https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx"
-    },
-    {
-      "added_at": "2023-02-24 17:27:57",
-      "album": {
         "name": "Presenting Jimmy Whitherspoon",
         "url": "https://open.spotify.com/album/6NVixVUSc6EtmvWzJM8vZf"
       },
@@ -1007,6 +991,26 @@
       "duration_ms": 218053,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/4aD3d9kzxY8MXAssMQ3c6v"
+    },
+    {
+      "added_at": "2023-02-24 17:27:57",
+      "album": {
+        "name": "Sun Records Originals: Mystery Train",
+        "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        },
+        {
+          "name": "The Blue Flames",
+          "url": "https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Mystery Train - Remastered 2022",
+      "url": "https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX"
     }
   ],
   "unique_name": "Blues Standards",

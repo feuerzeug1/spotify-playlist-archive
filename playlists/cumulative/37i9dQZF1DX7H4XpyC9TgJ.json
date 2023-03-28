@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Like Crazy (Remixes)",
+        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180719,
+      "name": "Like Crazy (Deep House Remix)",
+      "url": "https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1"
+    },
+    {
+      "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
@@ -218,6 +236,42 @@
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
+    },
+    {
+      "album": {
+        "name": "Like Crazy (Remixes)",
+        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212216,
+      "name": "Like Crazy (Instrumental)",
+      "url": "https://open.spotify.com/track/0cxhv3PpIkmREXqobuB0zG"
+    },
+    {
+      "album": {
+        "name": "Like Crazy (Remixes)",
+        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210395,
+      "name": "Like Crazy (UK Garage Remix)",
+      "url": "https://open.spotify.com/track/5tDxLjAnkojfnXnjOk6mvh"
     },
     {
       "album": {

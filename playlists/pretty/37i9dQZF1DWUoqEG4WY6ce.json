@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1005608,
+  "num_followers": 1005973,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQyMTkxOSwwMDAwMDAwMGUyNTAyNDgyMDk3MDYxOTMyYWNjYmIxODkyZjllYjM0",
+  "snapshot_id": "MTY3OTkzMTUxNCwwMDAwMDAwMDVmOTMxNDA2ZGRhYTcxZDBkYzY2MGNiNmE4MDM4ZDhj",
   "tracks": [
     {
       "added_at": "2022-11-29 19:35:01",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
     },
     {
-      "added_at": "2023-03-06 15:54:29",
-      "album": {
-        "name": "Outer Banks",
-        "url": "https://open.spotify.com/album/7kODNL79h9WgsfeBbglRI2"
-      },
-      "artists": [
-        {
-          "name": "Tanlines",
-          "url": "https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Outer Banks",
-      "url": "https://open.spotify.com/track/0MirXZ0Mt24Dw8ZH2bG7sz"
-    },
-    {
       "added_at": "2023-02-02 19:17:52",
       "album": {
         "name": "Good News For People Who Love Bad News",
@@ -191,6 +175,22 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "New Slang - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
         "name": "A Black Mile To The Surface",
         "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
       },
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Oh, Inverted World (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
       "artists": [
         {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 230866,
-      "name": "New Slang - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -251,22 +251,6 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -299,6 +283,22 @@
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "added_at": "2023-03-27 15:38:12",
+      "album": {
+        "name": "3D Country",
+        "url": "https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 313577,
+      "name": "3D Country",
+      "url": "https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
-      },
-      "artists": [
-        {
-          "name": "OK Go",
-          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Here It Goes Again",
-      "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "Grand",
         "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
+      },
+      "artists": [
+        {
+          "name": "OK Go",
+          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
+        }
+      ],
+      "duration_ms": 179813,
+      "name": "Here It Goes Again",
+      "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 230800,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "We're Going to Be Friends",
-      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "added_at": "2023-02-10 00:03:20",
@@ -715,6 +699,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "And The War Came",
         "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 212800,
       "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
       "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "The Suburbs (Deluxe)",
-        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 364613,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "The Suburbs (Deluxe)",
+        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Heza",
-        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Put a Light On",
-      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Put a Light On",
+      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Consolers of the Lonely",
-        "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
-      },
-      "artists": [
-        {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Salute Your Solution",
-      "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "Fetch The Bolt Cutters",
         "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 253733,
       "name": "I Need Never Get Old",
       "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Consolers of the Lonely",
+        "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Salute Your Solution",
+      "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
     },
     {
       "added_at": "2022-11-29 19:35:01",

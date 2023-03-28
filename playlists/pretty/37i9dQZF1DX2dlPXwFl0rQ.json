@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. KAROL G en portada.",
-  "num_followers": 84244,
+  "num_followers": 84345,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI1NTIwMCwwMDAwMDAwMDRkNDgxNDgxNTZiNThjMDcyYTA2Nzg4ZmUwN2EyMTJl",
+  "snapshot_id": "MTY3ODI1NTIwMCwwMDAwMDAwMGM1ZjE3OWI4YjQwZjE3MGRhYWY2NjlmMTNhYjUxNGQ1",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Un Nuevo Amor",
         "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
       },
@@ -161,6 +145,22 @@
       "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+    },
+    {
       "added_at": "2023-02-24 06:00:00",
       "album": {
         "name": "As\u00ed Nom\u00e1s",
@@ -179,18 +179,34 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+    },
+    {
+      "added_at": "2023-03-28 01:20:13",
+      "album": {
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -209,20 +225,20 @@
       "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
     },
     {
-      "added_at": "2023-03-27 01:18:48",
+      "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
+      "duration_ms": 185153,
+      "name": "Te Dejo",
+      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
     },
     {
       "added_at": "2023-01-20 06:00:00",
@@ -259,38 +275,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Fotos Y Recuerdos",
-      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Las Que M\u00e1s Amo",
         "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
@@ -303,22 +287,6 @@
       "duration_ms": 189309,
       "name": "Que Poca",
       "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 185153,
-      "name": "Te Dejo",
-      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -355,6 +323,54 @@
       "duration_ms": 194946,
       "name": "No Llega el Olvido",
       "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Fotos Y Recuerdos",
+      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Por Salud Mental",
+      "url": "https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -409,42 +425,6 @@
       "url": "https://open.spotify.com/track/51nRQic7PFMD4NsdRj6soX"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "No Me Deja De Doler",
-        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 157946,
-      "name": "No Me Deja De Doler",
-      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Por Salud Mental",
-      "url": "https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex"
-    },
-    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "La Gran Se\u00f1ora",
@@ -463,18 +443,38 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 178813,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "No Me Deja De Doler",
+        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 157946,
+      "name": "No Me Deja De Doler",
+      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+      "duration_ms": 178813,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -577,20 +577,20 @@
       "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
+      "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
+      "duration_ms": 121889,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/1PcwgVL81paHLsxatYSNR3"
     },
     {
       "added_at": "2023-01-20 06:00:00",
@@ -625,36 +625,20 @@
       "url": "https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 121889,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/1PcwgVL81paHLsxatYSNR3"
-    },
-    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Mis 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3qI4cBRQr7DIMOEY7eXfHn"
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
       },
       "artists": [
         {
-          "name": "Jennifer Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 184816,
-      "name": "Si Tu Te Vas",
-      "url": "https://open.spotify.com/track/0zt7aMpLsOcckqSxqedrwt"
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -675,6 +659,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Mis 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3qI4cBRQr7DIMOEY7eXfHn"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+        }
+      ],
+      "duration_ms": 184816,
+      "name": "Si Tu Te Vas",
+      "url": "https://open.spotify.com/track/0zt7aMpLsOcckqSxqedrwt"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Para No Pensar en Ti",
         "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 209702,
       "name": "Para No Pensar en Ti",
       "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Se Disfraz\u00f3",
-        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
         "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
       },
@@ -755,54 +755,6 @@
       "duration_ms": 164054,
       "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
       "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Mor\u00ed",
-        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -859,6 +811,54 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Mor\u00ed",
+        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Cuando Me Importabas",
         "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 192913,
       "name": "Cuando Me Importabas",
       "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
-    },
-    {
-      "added_at": "2023-01-20 06:00:00",
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226618,
-      "name": "El Barco",
-      "url": "https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 206213,
       "name": "Es Cosa De El",
       "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
+    },
+    {
+      "added_at": "2023-01-20 06:00:00",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226618,
+      "name": "El Barco",
+      "url": "https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4"
     },
     {
       "added_at": "2023-01-20 06:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Graciela Beltran 14 Super Exitos",
+        "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
+      },
+      "artists": [
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "duration_ms": 186245,
+      "name": "Estan Lloviendo Lagrimas",
+      "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Homenaje A Mi Madre",
         "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Graciela Beltran 14 Super Exitos",
-        "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
+        "name": "Empoderada",
+        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
       },
       "artists": [
         {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
         }
       ],
-      "duration_ms": 186245,
-      "name": "Estan Lloviendo Lagrimas",
-      "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
+      "duration_ms": 164186,
+      "name": "Empoderada",
+      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 164626,
       "name": "Ahora Va La M\u00eda",
       "url": "https://open.spotify.com/track/0CEublugofmBX9a2RKoxjq"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Empoderada",
-        "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Empoderada",
-      "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1241,20 +1241,20 @@
       "url": "https://open.spotify.com/track/0gHUJlbFFIDvZXxEd0oJjc"
     },
     {
-      "added_at": "2022-12-09 06:00:00",
+      "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+        "name": "Vida Prestada",
+        "url": "https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK"
       },
       "artists": [
         {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+      "duration_ms": 194739,
+      "name": "Vida Prestada",
+      "url": "https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1271,22 +1271,6 @@
       "duration_ms": 195230,
       "name": "La Que Sigue de Mi",
       "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Vida Prestada",
-        "url": "https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 194739,
-      "name": "Vida Prestada",
-      "url": "https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1325,6 +1309,22 @@
       "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
     },
     {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+    },
+    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "No Te Dejes Enga\u00f1ar",
@@ -1343,34 +1343,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Le Cale A Quien Le Cale",
-        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
+        "name": "De Ti No Lo Esperaba",
+        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
-        "name": "Les Molesta",
-        "url": "https://open.spotify.com/album/4zDvdAWFpyH1cQKNRTll90"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 163810,
-      "name": "Les Molesta",
-      "url": "https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb"
+      "duration_ms": 193184,
+      "name": "De Ti No Lo Esperaba",
+      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Le Cale A Quien Le Cale",
+        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Esencia",
         "url": "https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL"
       },
@@ -1437,52 +1437,20 @@
       "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
+      "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "De Ti No Lo Esperaba",
-        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
+        "name": "Les Molesta",
+        "url": "https://open.spotify.com/album/4zDvdAWFpyH1cQKNRTll90"
       },
       "artists": [
         {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
         }
       ],
-      "duration_ms": 193184,
-      "name": "De Ti No Lo Esperaba",
-      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Ya Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Hoy Dame el Gusto",
-        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
+      "duration_ms": 163810,
+      "name": "Les Molesta",
+      "url": "https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1517,6 +1485,22 @@
       "url": "https://open.spotify.com/track/1NncWv7T19isafndpzddUd"
     },
     {
+      "added_at": "2023-01-20 06:00:00",
+      "album": {
+        "name": "Ven a M\u00ed",
+        "url": "https://open.spotify.com/album/1kVJTTPDm0gYX7au6C6Uli"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 286153,
+      "name": "Ven a M\u00ed",
+      "url": "https://open.spotify.com/track/3GfABcgtxdYZyNwtiFNfhY"
+    },
+    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "Simplemente Amigos",
@@ -1535,34 +1519,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Una Tarde De Abril",
-        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
+        "name": "Ya Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
       },
       "artists": [
         {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
         }
       ],
-      "duration_ms": 173148,
-      "name": "Una Tarde De Abril",
-      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
-    },
-    {
-      "added_at": "2023-01-20 06:00:00",
-      "album": {
-        "name": "Ven a M\u00ed",
-        "url": "https://open.spotify.com/album/1kVJTTPDm0gYX7au6C6Uli"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 286153,
-      "name": "Ven a M\u00ed",
-      "url": "https://open.spotify.com/track/3GfABcgtxdYZyNwtiFNfhY"
+      "duration_ms": 220946,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1583,6 +1551,38 @@
       "duration_ms": 195500,
       "name": "Amor De Unos Botes",
       "url": "https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Hoy Dame el Gusto",
+        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Una Tarde De Abril",
+        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Una Tarde De Abril",
+      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
     },
     {
       "added_at": "2022-09-23 05:00:00",

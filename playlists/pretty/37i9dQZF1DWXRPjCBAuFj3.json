@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Lil Uzi Vert",
-  "num_followers": 202460,
+  "num_followers": 202476,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzNDA2MCwwMDAwMDAwMGUwNmNkZDE0ZTcxYTdmNjNmMTgyZTg0MjY4OTBjNWEy",
+  "snapshot_id": "MTY3OTYzNDA2MCwwMDAwMDAwMDdiYzFlM2RiNDgxMTkzODIyOWMwNmQ3YTM2OWI0ZTNk",
   "tracks": [
     {
       "added_at": "2023-03-22 15:40:49",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
-      "added_at": "2023-03-27 00:38:01",
+      "added_at": "2023-03-28 01:09:08",
       "album": {
         "name": "LF BABYS",
         "url": "https://open.spotify.com/album/1MctlzHpC9KGKaqckRznSp"
@@ -163,22 +163,18 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 218364,
-      "name": "Jimmy Cooks (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2023-03-22 15:40:49",
@@ -215,6 +211,42 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 218364,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "added_at": "2023-03-22 15:40:49",
+      "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "added_at": "2023-03-22 15:40:49",
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -237,39 +269,7 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2023-03-22 15:40:49",
-      "album": {
-        "name": "In Ha Mood",
-        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129360,
-      "name": "In Ha Mood",
-      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
-    },
-    {
-      "added_at": "2023-03-22 15:40:49",
-      "album": {
-        "name": "Red Ruby Da Sleeze",
-        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
-    },
-    {
-      "added_at": "2023-03-27 00:38:01",
+      "added_at": "2023-03-28 01:09:08",
       "album": {
         "name": "Ni\u00f1os Peque\u00f1os",
         "url": "https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV"
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
       "added_at": "2023-03-22 15:40:49",
@@ -667,6 +667,30 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "For The Night (feat. Lil Baby & DaBaby)",
+      "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "added_at": "2023-03-22 15:40:49",
+      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -725,31 +749,7 @@
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
     },
     {
-      "added_at": "2023-03-22 15:40:49",
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "For The Night (feat. Lil Baby & DaBaby)",
-      "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
-    },
-    {
-      "added_at": "2023-03-27 00:38:01",
+      "added_at": "2023-03-28 01:09:08",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/21hyerYXEXL0rLnagGfTZ0"
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
-        "name": "I GUESS IT'S LOVE?",
-        "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 137725,
-      "name": "I GUESS IT'S LOVE?",
-      "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
-    },
-    {
-      "added_at": "2023-03-22 15:40:49",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -819,6 +803,42 @@
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": "2023-03-22 15:40:49",
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Mood Swings (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm"
+    },
+    {
+      "added_at": "2023-03-22 15:40:49",
+      "album": {
+        "name": "I GUESS IT'S LOVE?",
+        "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 137725,
+      "name": "I GUESS IT'S LOVE?",
+      "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
     },
     {
       "added_at": "2023-03-22 15:40:49",
@@ -883,26 +903,6 @@
       "duration_ms": 179533,
       "name": "No Time Wasted (feat. Future)",
       "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
-    },
-    {
-      "added_at": "2023-03-22 15:40:49",
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Mood Swings (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm"
     },
     {
       "added_at": "2023-03-22 15:40:49",
@@ -999,6 +999,22 @@
       "duration_ms": 240413,
       "name": "DIE",
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
+    },
+    {
+      "added_at": "2023-03-28 01:09:08",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 172218,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
     },
     {
       "added_at": "2023-03-22 15:40:49",
@@ -1129,22 +1145,6 @@
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
     },
     {
-      "added_at": "2023-03-27 00:38:01",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
-    },
-    {
       "added_at": "2023-03-22 15:40:49",
       "album": {
         "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
-    },
-    {
-      "added_at": "2023-03-22 15:40:49",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
+    },
+    {
+      "added_at": "2023-03-22 15:40:49",
+      "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2023-03-22 15:40:49",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
+        "name": "TO THE MOON",
+        "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
+      },
+      "artists": [
+        {
+          "name": "Jnr Choi",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "TO THE MOON",
+      "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
+    },
+    {
+      "added_at": "2023-03-22 15:40:49",
+      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -1359,22 +1379,22 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
-        "name": "TO THE MOON",
-        "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
       },
       "artists": [
         {
-          "name": "Jnr Choi",
-          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
         },
         {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 152137,
-      "name": "TO THE MOON",
-      "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
+      "duration_ms": 192213,
+      "name": "COEUR DE ICE (feat. Damso)",
+      "url": "https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c"
     },
     {
       "added_at": "2023-03-22 15:40:49",
@@ -1435,26 +1455,6 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
-        "name": "DIAMANT DU BLED",
-        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "COEUR DE ICE (feat. Damso)",
-      "url": "https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c"
-    },
-    {
-      "added_at": "2023-03-22 15:40:49",
-      "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
@@ -1471,26 +1471,6 @@
       "duration_ms": 176120,
       "name": "Balader",
       "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
-    },
-    {
-      "added_at": "2023-03-22 15:40:49",
-      "album": {
-        "name": "We Caa Done (feat. Drake)",
-        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "We Caa Done (feat. Drake)",
-      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
     },
     {
       "added_at": "2023-03-22 15:40:49",
@@ -1519,6 +1499,26 @@
       "duration_ms": 194201,
       "name": "NO L\u00c8CHE",
       "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
+    },
+    {
+      "added_at": "2023-03-22 15:40:49",
+      "album": {
+        "name": "We Caa Done (feat. Drake)",
+        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "We Caa Done (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
     },
     {
       "added_at": "2023-03-22 15:40:49",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
-        "name": "Hot Shit (feat. Ye & Lil Durk)",
-        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 211649,
-      "name": "Hot Shit (feat. Ye & Lil Durk)",
-      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
-    },
-    {
-      "added_at": "2023-03-22 15:40:49",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
       },
@@ -1659,6 +1635,30 @@
       "duration_ms": 188964,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
+    },
+    {
+      "added_at": "2023-03-22 15:40:49",
+      "album": {
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2023-03-22 15:40:49",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-03-22 15:40:49",
       "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+    },
+    {
+      "added_at": "2023-03-22 15:40:49",
+      "album": {
         "name": "Self Esteem (featuring NLE Choppa)",
         "url": "https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 169500,
       "name": "Self Esteem (featuring NLE Choppa)",
       "url": "https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE"
-    },
-    {
-      "added_at": "2023-03-22 15:40:49",
-      "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
     },
     {
       "added_at": "2023-03-22 15:40:49",

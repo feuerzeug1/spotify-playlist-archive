@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,621 likes - 39 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,631 likes - 40 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 37 | [Ai Bine](https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 6:20 |
 | 38 | [Goye Kur \- 2017 Remastered Version](https://open.spotify.com/track/5VkD522syW1UKAEMHPNhF2) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 6:17 |
 | 39 | [Penda Yoro](https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 5:21 |
+| 40 | [I Go Ka \- 2017 Remastered Version](https://open.spotify.com/track/6J2fUEVtSk5oDxJnloWs7g) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 4:01 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDBkNzY4MzMyMTJlMWU4NjFkMTYzZWJhMzY1MGRmNWU5ZQ==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDA3MDU2ODIzNGRlODk2MjY5NGNhYWNjZDJkYWJmZDc0OQ==`

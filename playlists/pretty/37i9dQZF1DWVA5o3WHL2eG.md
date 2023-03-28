@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Co\-curated by CATT\. Learn more in our playlist clips!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,844 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,841 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 33 | [Tides](https://open.spotify.com/track/2S4sNPPGvAx4J5vrMrI3Ay) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Tritoness & The Scent of Rain](https://open.spotify.com/album/7iM26B2rnhPRMwfXboYsCC) | 2:52 |
 | 34 | [under pressure](https://open.spotify.com/track/1ARrFsNHFca7pH9KhYqPSs) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [modern disaster](https://open.spotify.com/album/12ten6jqQnPFzNFW8QYE4G) | 2:02 |
 | 35 | [Love Love Love](https://open.spotify.com/track/1wvPjbb1hqSmr69lTHsbbW) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Oceanflower](https://open.spotify.com/album/7rtpjReu5z6o9nVQew35YR) | 3:46 |
-| 36 | [Therapies](https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW) | [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Therapies](https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5) | 3:09 |
-| 37 | [magnetic wave](https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl) | [Lore Vain](https://open.spotify.com/artist/6DqrVKvdGRhx29OrkIolA5) | [magnetic wave](https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl) | 3:44 |
-| 38 | [Opia](https://open.spotify.com/track/2iuh1TuXGRxLvr2frc8HFA) | [Magdalena](https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc) | [Opia EP](https://open.spotify.com/album/7jjxWvwVRvMcPjhkjaOTAn) | 7:19 |
+| 36 | [Opia](https://open.spotify.com/track/2iuh1TuXGRxLvr2frc8HFA) | [Magdalena](https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc) | [Opia EP](https://open.spotify.com/album/7jjxWvwVRvMcPjhkjaOTAn) | 7:19 |
+| 37 | [Therapies](https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW) | [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Therapies](https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5) | 3:09 |
+| 38 | [magnetic wave](https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl) | [Lore Vain](https://open.spotify.com/artist/6DqrVKvdGRhx29OrkIolA5) | [magnetic wave](https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl) | 3:44 |
 | 39 | [DIE LETZTE BRÜCKE](https://open.spotify.com/track/79K4Ca69oIZpWlRjpr28Xc) | [Charlotte Brandi](https://open.spotify.com/artist/4mp6ypwuMpi80OEpFIVJNn) | [AN DEN ALPTRAUM](https://open.spotify.com/album/1lsjKIqG8RfLmvx70Pn7YB) | 4:50 |
 | 40 | [FUTURE KID](https://open.spotify.com/track/3LdKBBMgYkSXV26BpLrCun) | [UMME BLOCK](https://open.spotify.com/artist/6o8ur7884OGIluc3crtSAk) | [FUTURE KID](https://open.spotify.com/album/3BkVD7Wl1uXB3cGESNsktA) | 3:39 |
 | 41 | [Only Human](https://open.spotify.com/track/3msFndU6dPawydh1LtERRZ) | [Jaël](https://open.spotify.com/artist/0z0YozcOIqw3EDJnU2NgOe) | [Only Human](https://open.spotify.com/album/1RbYJYm3I6IXeVGwSzfutS) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Velvet Blue](https://open.spotify.com/track/58LP7YZDOmPXdMroezL9mx) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [Velvet Blue](https://open.spotify.com/album/4qSzQ5mn5XnineMIWl2xPA) | 1:04 |
 | 50 | [Power of Today](https://open.spotify.com/track/4g2eoUYfI9Ro3bEVClMMWI) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:19 |
 
-Snapshot ID: `MTY3ODA5NTk4MSwwMDAwMDAwMGUyYmViODcyYWY1MjFjNWY5YTUzMTM3MjkzYTU0ZThj`
+Snapshot ID: `MTY3ODA5NTk4MSwwMDAwMDAwMDM0NGIyM2ZjODA3Yjg4NTA0ZTJkNDlkMjM2MGYwMWMw`

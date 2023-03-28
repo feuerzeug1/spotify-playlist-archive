@@ -4,12 +4,12 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 50 min
+87 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25 Horas al Dia](https://open.spotify.com/track/2AiYgkx1P9mmZNvC64sfnW) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:06 | 2022-11-20 |  |
-| [Acá Entre Nos](https://open.spotify.com/track/5T16vHkpTCicWVmQTOMw4m) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:31 | 2022-06-01 |  |
+| [Acá Entre Nos](https://open.spotify.com/track/5T16vHkpTCicWVmQTOMw4m) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:31 | 2022-06-01 | 2023-03-28 |
 | [Al Ver Que Te Vas](https://open.spotify.com/track/5itRE7txzHA6KVh3YYqq7D) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Le Digas a Nadie](https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO) | 3:10 | 2022-06-01 | 2022-08-27 |
 | [Algo Sin Igual](https://open.spotify.com/track/0rpugJvfFm3y9UQ244wfXX) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 3:28 | 2022-06-01 |  |
 | [Amigo Mesero](https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 3:06 | 2022-06-01 |  |
@@ -67,6 +67,7 @@
 | [Mil Cartas \(En Vivo\)](https://open.spotify.com/track/2STXme6kGlOn40oJwgpZH4) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 3:45 | 2022-06-01 | 2022-08-27 |
 | [Mil Cartas \- En Vivo](https://open.spotify.com/track/6JrLok78BeLPN3R1eDWeQi) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:19 | 2022-08-26 |  |
 | [Morenita \(En Vivo\)](https://open.spotify.com/track/0AHH8XJjFXeIaRQu8i1T1w) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 2](https://open.spotify.com/album/3FEiGlYvGOUMf4w0HA0EDr) | 2:47 | 2022-06-01 | 2022-08-27 |
+| [Morenita \- En Vivo](https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 2:47 | 2023-03-27 |  |
 | [Muchacha Triste](https://open.spotify.com/track/1gmDN60KqlsUwKsZC0PVwO) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:40 | 2023-03-09 |  |
 | [Muchacha Triste](https://open.spotify.com/track/6c8cEuIVJWZ251jfCunb0T) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:42 | 2022-06-01 | 2023-03-10 |
 | [Ni Como Amigos](https://open.spotify.com/track/6y2PlqxIjnsRCy2ZR7vosI) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:24 | 2023-01-02 |  |

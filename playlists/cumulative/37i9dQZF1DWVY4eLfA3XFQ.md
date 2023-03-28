@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring J\. Worra & Shift K3Y
 
-964 songs - 2 day 9 hr 12 min
+965 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Bring A Friend](https://open.spotify.com/track/5qvE6RC6vV9Y3bmVL535v6) | [Hood Rich](https://open.spotify.com/artist/6VsCebtxRP7GhBxmOnb2oA) | [Bring A Friend](https://open.spotify.com/album/1ftcMSE9C1ce2wH1O0AUFV) | 3:13 | 2021-11-26 | 2022-01-06 |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-03 | 2022-08-06 |
 | [Bubblin](https://open.spotify.com/track/4zB2zfoyaKdZl0v9IfHUKL) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Bubblin](https://open.spotify.com/album/4rXzTuShibQto3yWnBrApV) | 3:29 | 2022-02-25 | 2022-06-11 |
-| [Bugatti \- Edit](https://open.spotify.com/track/4xY9Nkd8rB6vLut1VcvCTt) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Bugatti](https://open.spotify.com/album/5ziyjHCfXfCQwVJyMcyslv) | 2:55 | 2023-02-17 |  |
+| [Bugatti \- Edit](https://open.spotify.com/track/4xY9Nkd8rB6vLut1VcvCTt) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Bugatti](https://open.spotify.com/album/5ziyjHCfXfCQwVJyMcyslv) | 2:55 | 2023-02-17 | 2023-03-28 |
 | [Bugbeat](https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bugbeat](https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV) | 2:59 | 2023-01-13 |  |
 | [Bump](https://open.spotify.com/track/27X0DzpPoWQrmN1NYQ83Rv) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Bump](https://open.spotify.com/album/1mVjBu4XgPatNN47jCNrUg) | 3:07 | 2022-10-21 | 2022-12-17 |
 | [Bump Grind](https://open.spotify.com/track/23f1lYLTKQ1qwjN7HHLHAK) | [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Bump Grind](https://open.spotify.com/album/0iZTpE6J1rEs6yn8gn2kKb) | 4:04 | 2021-11-26 | 2022-01-06 |
@@ -241,6 +241,7 @@
 | [Emphasis](https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Emphasis](https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM) | 4:11 | 2023-01-13 |  |
 | [Endlessly \- Volkoder Remix](https://open.spotify.com/track/7cWnz1GRldkvt4dZ0VeRBt) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl), [Kytsa](https://open.spotify.com/artist/5lGmx0FOJ0do3Dm5rnNAPK), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Endlessly \(Volkoder Remix\)](https://open.spotify.com/album/50ByBuZU8246AtQZ8513NG) | 3:29 | 2021-11-26 | 2022-01-06 |
 | [ENDO](https://open.spotify.com/track/5SOVnhMqSj04EfEeF8QAPe) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [MUUS](https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH) | [ENDO](https://open.spotify.com/album/2sokOr3xA8iHb5rnFpZw4b) | 3:10 | 2022-06-17 | 2022-08-06 |
+| [Energy](https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Energy](https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb) | 3:02 | 2023-03-24 |  |
 | [Escape \(feat\. Hayla\) \- John Summit Remix](https://open.spotify.com/track/0UvddYrJK4x5OWfxpSAZNj) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[John Summit Remix\]](https://open.spotify.com/album/6LlmEKcwDAjYTqr5lu0W6v) | 3:46 | 2022-06-03 | 2022-08-13 |
 | [Eso](https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti) | [Eso](https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE) | 3:46 | 2023-02-24 |  |
 | [Essa Mina](https://open.spotify.com/track/1D7rwwv3n4ChKvS3CyMiGL) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Essa Mina](https://open.spotify.com/album/3eaQmIHdcfnwCq68lJzKYH) | 6:10 | 2022-05-06 | 2022-11-12 |

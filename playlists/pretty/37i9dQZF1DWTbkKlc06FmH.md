@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,505 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,553 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 69 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
 | 70 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 |
 | 71 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 |
-| 72 | [Two Sides \(I’m So Gemini\) \- Single Version](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 |
-| 73 | [Find Someone Like You](https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:26 |
-| 74 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 |
-| 75 | [Never Goes Away](https://open.spotify.com/track/5FPSUR4mfKAz1YIY0Fjx0L) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Never Goes Away](https://open.spotify.com/album/0NLKXJv4DxlwyQ94CetFXg) | 2:26 |
-| 76 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
-| 77 | [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 |
-| 78 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 |
-| 79 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 |
-| 80 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 |
+| 72 | [Find Someone Like You](https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:26 |
+| 73 | [Two Sides \(I’m So Gemini\) \- Single Version](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 |
+| 74 | [Never Goes Away](https://open.spotify.com/track/5FPSUR4mfKAz1YIY0Fjx0L) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Never Goes Away](https://open.spotify.com/album/0NLKXJv4DxlwyQ94CetFXg) | 2:26 |
+| 75 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
+| 76 | [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 |
+| 77 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 |
+| 78 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 |
+| 79 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 |
+| 80 | [Better](https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Better](https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW) | 2:54 |
 
-Snapshot ID: `MTY3OTU4MzYwMCwwMDAwMDAwMGQ5OGJjMDI3YjVhZTE4ZGFkODM3OTk5OGZmNDhmYzg1`
+Snapshot ID: `MTY3OTU4MzYwMCwwMDAwMDAwMGMyYzMwMTU2MjIxMmVjYzUwZDkzMmI0MDQ5ODIzM2Ew`

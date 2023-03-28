@@ -1,120 +1,28 @@
 {
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Kim Suyoung(\uae40\uc218\uc601)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 429535,
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: ADYNE) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 429682,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA4MTY0OSwwMDAwMDAwMDM4ZGJmM2Q2NzAzODdlYWQzZjcyM2NlNjA3NjMzMWQy",
+  "snapshot_id": "MTY3OTkwNjc4NiwwMDAwMDAwMDA0NTUyYzc4ZTAzMTNjZGNmODQ1NjcxZjk5NjE3NmJj",
   "tracks": [
     {
-      "added_at": "2023-03-06 05:47:29",
+      "added_at": "2023-03-28 01:02:18",
       "album": {
-        "name": "Round and Round",
-        "url": "https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq"
+        "name": "Sketch",
+        "url": "https://open.spotify.com/album/6ggGiZQHxDZrTarX59E142"
       },
       "artists": [
         {
-          "name": "\uae40\uc218\uc601 Kim Suyoung",
-          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+          "name": "ADYNE",
+          "url": "https://open.spotify.com/artist/67h4m3goe8wwHDXBSuOlG4"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB"
-    },
-    {
-      "added_at": "2023-03-06 05:47:29",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK"
-      },
-      "artists": [
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        },
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        },
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "sAewoo",
-          "url": "https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Seoul City - Spotify Singles",
-      "url": "https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx"
-    },
-    {
-      "added_at": "2023-03-06 05:47:29",
-      "album": {
-        "name": "Under the Sea",
-        "url": "https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6"
-      },
-      "artists": [
-        {
-          "name": "jisokuryClub",
-          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
-        }
-      ],
-      "duration_ms": 293413,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk"
-    },
-    {
-      "added_at": "2023-03-06 05:47:29",
-      "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/5Ndzga5l9NNmpAZTp9hxM9"
-      },
-      "artists": [
-        {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
-        }
-      ],
-      "duration_ms": 255013,
-      "name": "Wandering",
-      "url": "https://open.spotify.com/track/2qDoBvu7ro7yTB2K6xGyZK"
-    },
-    {
-      "added_at": "2023-03-06 05:47:29",
-      "album": {
-        "name": "Cue Sign",
-        "url": "https://open.spotify.com/album/4VWFmbeJULZek7Pmyg0bTO"
-      },
-      "artists": [
-        {
-          "name": "Chamsom",
-          "url": "https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi"
-        }
-      ],
-      "duration_ms": 216124,
-      "name": "Cue Sign",
-      "url": "https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf"
-    },
-    {
-      "added_at": "2023-03-06 05:47:29",
-      "album": {
-        "name": "Glass",
-        "url": "https://open.spotify.com/album/4rbNo5Zm3TLpKKZ4CawxLJ"
-      },
-      "artists": [
-        {
-          "name": "Coker",
-          "url": "https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu"
+      "duration_ms": 238000,
+      "name": "Sketch",
+      "url": "https://open.spotify.com/track/3tJAKYkit1NVqLc3rPHFLt"
     },
     {
       "added_at": "2023-03-06 05:47:29",
@@ -407,22 +315,6 @@
     {
       "added_at": "2023-03-06 05:47:29",
       "album": {
-        "name": "Rawww",
-        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "Rawww",
-      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
-    },
-    {
-      "added_at": "2023-03-06 05:47:29",
-      "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -471,38 +363,6 @@
     {
       "added_at": "2023-03-06 05:47:29",
       "album": {
-        "name": "FROM : X",
-        "url": "https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn"
-      },
-      "artists": [
-        {
-          "name": "1415",
-          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "When It Snows",
-      "url": "https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1"
-    },
-    {
-      "added_at": "2023-03-06 05:47:29",
-      "album": {
-        "name": "3108",
-        "url": "https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "3108",
-      "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
-    },
-    {
-      "added_at": "2023-03-06 05:47:29",
-      "album": {
         "name": "5.2 (Feat. LEE SUHYUN)",
         "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
       },
@@ -523,6 +383,38 @@
     {
       "added_at": "2023-03-06 05:47:29",
       "album": {
+        "name": "FROM : X",
+        "url": "https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn"
+      },
+      "artists": [
+        {
+          "name": "1415",
+          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "When It Snows",
+      "url": "https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1"
+    },
+    {
+      "added_at": "2023-03-06 05:47:29",
+      "album": {
+        "name": "Rawww",
+        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Rawww",
+      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+    },
+    {
+      "added_at": "2023-03-06 05:47:29",
+      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -535,6 +427,22 @@
       "duration_ms": 225333,
       "name": "Today's Mood",
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
+    },
+    {
+      "added_at": "2023-03-06 05:47:29",
+      "album": {
+        "name": "3108",
+        "url": "https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "3108",
+      "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
     },
     {
       "added_at": "2023-03-06 05:47:29",
@@ -695,6 +603,22 @@
     {
       "added_at": "2023-03-06 05:47:29",
       "album": {
+        "name": "Round and Round",
+        "url": "https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\uc601 Kim Suyoung",
+          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB"
+    },
+    {
+      "added_at": "2023-03-06 05:47:29",
+      "album": {
         "name": "Hate Everything",
         "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
       },
@@ -739,6 +663,22 @@
       "duration_ms": 225813,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+    },
+    {
+      "added_at": "2023-03-28 01:02:18",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp"
     },
     {
       "added_at": "2023-03-06 05:47:29",
@@ -843,6 +783,22 @@
     {
       "added_at": "2023-03-06 05:47:29",
       "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 186120,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"
+    },
+    {
+      "added_at": "2023-03-06 05:47:29",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J"
       },
@@ -859,18 +815,54 @@
     {
       "added_at": "2023-03-06 05:47:29",
       "album": {
-        "name": "Puberty Book\u2161 Pum",
-        "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
+        "name": "Again, Spring Days",
+        "url": "https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
         }
       ],
-      "duration_ms": 186120,
-      "name": "Hug",
-      "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"
+      "duration_ms": 226559,
+      "name": "Let's Meet In Spring",
+      "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
+    },
+    {
+      "added_at": "2023-03-06 05:47:29",
+      "album": {
+        "name": "naps!",
+        "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
+      },
+      "artists": [
+        {
+          "name": "1415",
+          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
+        },
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "naps!",
+      "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
+    },
+    {
+      "added_at": "2023-03-06 05:47:29",
+      "album": {
+        "name": "The Land of Fantasy",
+        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 222999,
+      "name": "I Know Where The Rainbow has Fallen",
+      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
     }
   ],
   "unique_name": "In The K-Indie",

@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-117 songs - 7 hr 2 min
+118 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Cold World](https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Cold World](https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2) | 3:28 | 2022-08-12 |  |
 | [Disconnected](https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:10 | 2022-06-20 |  |
 | [Don't](https://open.spotify.com/track/617N2yLHP178pCJQTRx2oe) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Don't](https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP) | 3:12 | 2022-06-20 | 2022-09-03 |
-| [Eunha Store \(feat\. KIM YUNA\)](https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kim Yuna](https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI) | [New Edition 42](https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM) | 2:44 | 2022-08-08 |  |
+| [Eunha Store \(feat\. KIM YUNA\)](https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kim Yuna](https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI) | [New Edition 42](https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM) | 2:44 | 2022-08-08 | 2023-03-28 |
 | [Ex](https://open.spotify.com/track/1mZttLRYMGTq4m88qbgCE7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:37 | 2022-06-20 | 2022-07-29 |
 | [Ex](https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:37 | 2022-07-22 |  |
 | [F902](https://open.spotify.com/track/72Crnzf4RXJvssLigcC7om) | [JEONGMIN](https://open.spotify.com/artist/4qkZlOHXJtpMcND5FIlp03) | [\#02](https://open.spotify.com/album/7mJsJcbED93wlCutILesJi) | 2:59 | 2022-06-20 | 2022-07-26 |
@@ -124,6 +124,7 @@
 | [망고팔트 \#1 / 비야 내려라](https://open.spotify.com/track/56cdOy3BkffwpENEg14leP) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN) | [망고팔트 \#1 / 비야 내려라](https://open.spotify.com/album/4Nx37N6XGK64vsy9Lgfhu8) | 4:07 | 2022-06-20 | 2022-07-28 |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-18 |  |
 | [설명서 Guidebook](https://open.spotify.com/track/7gJoFABLxuCaR4Quf7N73a) | [Yoil](https://open.spotify.com/artist/7pBCd2Utn0stcoyugrAc2t) | [설명서 Guidebook](https://open.spotify.com/album/1d9tXvTXaG6ylDvoFIf2yL) | 3:49 | 2022-06-20 | 2022-06-29 |
+| [폭우 Downpour](https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ) | [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [폭우 Downpour](https://open.spotify.com/album/4SIYlL5PAg5Q497mt5DaEG) | 2:56 | 2023-03-27 |  |
 | [흐르는 시간 속에 우리는 아름다워 What A Beautiful Night](https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x) | 3:21 | 2022-09-05 | 2023-01-11 |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

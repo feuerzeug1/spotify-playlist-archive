@@ -1,12 +1,12 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata!",
-  "num_followers": 324011,
+  "num_followers": 324044,
   "original_name": "Operazione Buonumore!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3OTQwNCwwMDAwMDAwMDJhNjUzMWY2YmFkNjI1MDU0MzNiMzNlMmE5YTc2ODhm",
+  "snapshot_id": "MTY3OTY3OTQwNCwwMDAwMDAwMGUwY2EzZDU1NTIyMDU1NjE5MmJiYTM0MDRiOWQyODMx",
   "tracks": [
     {
       "added_at": "2023-02-28 14:49:31",
@@ -159,6 +159,38 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
+    {
+      "added_at": "2023-03-28 00:08:53",
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/1O1YesG4HmoRjRMvP8HK30"
+      },
+      "artists": [
+        {
+          "name": "Mikolas Josef",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        }
+      ],
+      "duration_ms": 145001,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/140Ldf8BYMkNMc8FgPSDCZ"
+    },
+    {
+      "added_at": "2023-02-28 14:49:31",
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -175,22 +207,6 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": "2023-03-27 00:40:22",
-      "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/1O1YesG4HmoRjRMvP8HK30"
-      },
-      "artists": [
-        {
-          "name": "Mikolas Josef",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
-        }
-      ],
-      "duration_ms": 145001,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/140Ldf8BYMkNMc8FgPSDCZ"
     },
     {
       "added_at": "2023-02-28 14:49:31",
@@ -235,38 +251,18 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
-        "name": "Celestial",
-        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
-    },
-    {
-      "added_at": "2023-02-28 14:49:31",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 155588,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2023-02-28 14:49:31",
@@ -291,18 +287,22 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+      "duration_ms": 155588,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
     },
     {
       "added_at": "2023-02-28 14:49:31",
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
-      "added_at": "2023-03-27 00:40:22",
+      "added_at": "2023-03-28 00:08:53",
       "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/0e6bVPjT166kgo3NWfDOmv"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
     },
     {
-      "added_at": "2023-03-27 00:40:22",
+      "added_at": "2023-03-28 00:08:53",
       "album": {
         "name": "By The End Of The Night",
         "url": "https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq"
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2023-02-28 14:49:31",
-      "album": {
         "name": "Onka's Big Moka",
         "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 232693,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+    },
+    {
+      "added_at": "2023-02-28 14:49:31",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2023-02-28 14:49:31",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
     },
     {
+      "added_at": "2023-03-28 00:08:53",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 176989,
+      "name": "Freezing",
+      "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
+    },
+    {
       "added_at": "2023-02-28 14:49:31",
       "album": {
         "name": "The Supremes A' Go-Go (Expanded Edition)",
@@ -779,22 +795,6 @@
       "duration_ms": 167933,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2023-03-27 00:40:22",
-      "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 176989,
-      "name": "Freezing",
-      "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
     },
     {
       "added_at": "2023-02-28 14:49:31",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
-        "name": "Heart Wants What It Wants",
-        "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 182085,
-      "name": "Heart Wants What It Wants",
-      "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
-    },
-    {
-      "added_at": "2023-02-28 14:49:31",
-      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY)",
         "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
       },
@@ -879,6 +863,38 @@
       "duration_ms": 164009,
       "name": "Dancing In The Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
+    },
+    {
+      "added_at": "2023-02-28 14:49:31",
+      "album": {
+        "name": "Heart Wants What It Wants",
+        "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 182085,
+      "name": "Heart Wants What It Wants",
+      "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
+    },
+    {
+      "added_at": "2023-02-28 14:49:31",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2023-02-28 14:49:31",
@@ -915,22 +931,6 @@
       "duration_ms": 190779,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
-    },
-    {
-      "added_at": "2023-02-28 14:49:31",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2023-02-28 14:49:31",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+    },
+    {
+      "added_at": "2023-02-28 14:49:31",
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2023-02-28 14:49:31",
-      "album": {
         "name": "Whoa, Nelly! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
       },
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2023-02-28 14:49:31",
+      "album": {
         "name": "By Your Side (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
-    },
-    {
-      "added_at": "2023-02-28 14:49:31",
-      "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2023-02-28 14:49:31",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
         }
       ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+      "duration_ms": 139422,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
     },
     {
       "added_at": "2023-02-28 14:49:31",
@@ -1451,22 +1455,18 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 139422,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
     },
     {
       "added_at": "2023-02-28 14:49:31",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-02-28 14:49:31",
       "album": {
-        "name": "You for Me",
-        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 175435,
-      "name": "You for Me",
-      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
-    },
-    {
-      "added_at": "2023-02-28 14:49:31",
-      "album": {
         "name": "I Feel Like Dancing",
         "url": "https://open.spotify.com/album/0A22WfozS221n5tsFlJhfR"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 201666,
       "name": "Get To Know You",
       "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
+    },
+    {
+      "added_at": "2023-02-28 14:49:31",
+      "album": {
+        "name": "You for Me",
+        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 175435,
+      "name": "You for Me",
+      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
     }
   ],
   "unique_name": "Operazione Buonumore!",

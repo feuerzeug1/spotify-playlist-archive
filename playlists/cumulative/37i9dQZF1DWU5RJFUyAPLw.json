@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 279840,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
@@ -830,6 +830,28 @@
       "duration_ms": 174381,
       "name": "Siento por Ciento",
       "url": "https://open.spotify.com/track/5h3at89Zr0tv2AKaL8oXMC"
+    },
+    {
+      "album": {
+        "name": "S\u00ed",
+        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158428,
+      "name": "S\u00ed",
+      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
     },
     {
       "album": {

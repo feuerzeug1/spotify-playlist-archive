@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72530,
+  "num_followers": 72531,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMGZlNjY0ZGY2M2FkODQwYmNkMmY3Mzc0ZGRiN2QwOGRl",
+  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMDA0ZDE1MjhjODRmOTRkNzc3ZTI3ZDlhNmU1ZGYzNTJj",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -159,26 +159,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Julia Stone",
-          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
-        }
-      ],
-      "duration_ms": 210725,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Breathe Again (Acoustic)",
         "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
       },
@@ -211,18 +191,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Inappropriate Behaviour",
-        "url": "https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
         }
       ],
-      "duration_ms": 196772,
-      "name": "Inappropriate Behaviour",
-      "url": "https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS"
+      "duration_ms": 210725,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -311,6 +295,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "Inappropriate Behaviour",
+        "url": "https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "Inappropriate Behaviour",
+      "url": "https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -323,6 +323,38 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Call Me Home",
+        "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 201999,
+      "name": "Call Me Home",
+      "url": "https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 271999,
+      "name": "heartbeat",
+      "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -347,22 +379,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Call Me Home",
-        "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 201999,
-      "name": "Call Me Home",
-      "url": "https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "hemispheres",
         "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+        "name": "Home to You",
+        "url": "https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
         }
       ],
-      "duration_ms": 271999,
-      "name": "heartbeat",
-      "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
+      "duration_ms": 213629,
+      "name": "Home to You",
+      "url": "https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -427,18 +443,18 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Home to You",
-        "url": "https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD"
+        "name": "DANCING IN THE DARK",
+        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
       },
       "artists": [
         {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 213629,
-      "name": "Home to You",
-      "url": "https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC"
+      "duration_ms": 180000,
+      "name": "CAMPFIRE",
+      "url": "https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -515,6 +531,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 191032,
+      "name": "Liquid Love",
+      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
       },
@@ -543,38 +575,6 @@
       "duration_ms": 230189,
       "name": "She Came Back with Rainbows",
       "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 191032,
-      "name": "Liquid Love",
-      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "DANCING IN THE DARK",
-        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CAMPFIRE",
-      "url": "https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -611,34 +611,18 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+        "name": "I BELIEVE",
+        "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
       },
       "artists": [
         {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 216476,
-      "name": "8 Hour Drive",
-      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "To Enjoy Is the Only Thing",
-        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe"
+      "duration_ms": 206999,
+      "name": "I BELIEVE",
+      "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -659,34 +643,18 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Small Town Rituals",
-        "url": "https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh"
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
       },
       "artists": [
         {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
         }
       ],
-      "duration_ms": 222213,
-      "name": "Disappearing Light",
-      "url": "https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "I BELIEVE",
-        "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 206999,
-      "name": "I BELIEVE",
-      "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
+      "duration_ms": 216476,
+      "name": "8 Hour Drive",
+      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -707,6 +675,38 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Small Town Rituals",
+        "url": "https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Disappearing Light",
+      "url": "https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "Still Care (feat. NASAYA)",
         "url": "https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM"
       },
@@ -723,6 +723,38 @@
       "duration_ms": 198000,
       "name": "Still Care (feat. NASAYA)",
       "url": "https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "DANCING IN THE DARK",
+        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "TATTOOS",
+      "url": "https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -791,22 +823,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Carry You With Me",
         "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
       },
@@ -837,20 +853,20 @@
       "url": "https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f"
     },
     {
-      "added_at": "2023-01-12 13:00:00",
+      "added_at": "2023-03-28 01:24:41",
       "album": {
-        "name": "DANCING IN THE DARK",
-        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
+        "name": "Higher Now",
+        "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Seph Cove",
+          "url": "https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff"
         }
       ],
-      "duration_ms": 161000,
-      "name": "TATTOOS",
-      "url": "https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR"
+      "duration_ms": 258532,
+      "name": "Higher Now",
+      "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -867,22 +883,6 @@
       "duration_ms": 222520,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/2s0jL6JXs2zAGtMnQcXfLb"
-    },
-    {
-      "added_at": "2023-03-27 01:34:37",
-      "album": {
-        "name": "Higher Now",
-        "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
-      },
-      "artists": [
-        {
-          "name": "Seph Cove",
-          "url": "https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff"
-        }
-      ],
-      "duration_ms": 258532,
-      "name": "Higher Now",
-      "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Love Shack",
-        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
-      },
-      "artists": [
-        {
-          "name": "Luke Morris",
-          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "A Song To Be Named",
         "url": "https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 249999,
       "name": "A Song To Be Named",
       "url": "https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Love Shack",
+        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
+      },
+      "artists": [
+        {
+          "name": "Luke Morris",
+          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
+        }
+      ],
+      "duration_ms": 249489,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
     },
     {
       "added_at": "2023-01-12 13:00:00",

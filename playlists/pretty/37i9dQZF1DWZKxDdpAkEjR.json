@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 171,
+  "num_followers": 172,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc2MzQzMiwwMDAwMDAwMDY0M2RlOWFkMGVhMWM1YTAxMGNiOTJjOWJkNzhkOGRm",
+  "snapshot_id": "MTY3NTc2MzQzMiwwMDAwMDAwMDdlMTFlODk1MjgwZTU5N2YzZWMxODcxZGVmZTNiYzFi",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "West Coast",
         "url": "https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 192947,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You (Edit)",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 206277,
-      "name": "Gata (feat. Chencho Corleone)",
-      "url": "https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Voodoo (with J Balvin & Tainy)",
         "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
       },
@@ -699,22 +679,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Fading Like A Flower",
-        "url": "https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT"
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 145807,
-      "name": "Fading Like A Flower",
-      "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
+      "duration_ms": 206277,
+      "name": "Gata (feat. Chencho Corleone)",
+      "url": "https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -731,6 +711,26 @@
       "duration_ms": 177634,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Fading Like A Flower",
+        "url": "https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 145807,
+      "name": "Fading Like A Flower",
+      "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "4U",
-        "url": "https://open.spotify.com/album/1dmL2D1rqc98yfqJxn0684"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 149717,
-      "name": "4U",
-      "url": "https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Out Of Time (Remix Bundle)",
         "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 275555,
       "name": "Out of Time - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/1dmL2D1rqc98yfqJxn0684"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 149717,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw"
     },
     {
       "added_at": "2022-06-30 22:02:00",

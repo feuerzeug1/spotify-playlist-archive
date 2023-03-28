@@ -4,12 +4,13 @@
 
 > The sweet sounds of Palestine.
 
-92 songs - 5 hr 53 min
+93 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A3MEL ESH](https://open.spotify.com/track/3W2aWHlWIo373Npwv8TGEm) | [Ram Nafar](https://open.spotify.com/artist/28CdLDNuzChKqZNArRgI5F), [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [A3MEL ESH](https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP) | 1:36 | 2022-05-19 |  |
 | [Abu 3ntr](https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr](https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN) | 3:33 | 2021-08-29 | 2023-03-25 |
+| [Abu 3ntr \(feat\. Lina Makoul\)](https://open.spotify.com/track/68DqedAzUtn8RsX7hFRQGy) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr \(feat\. Lina Makoul\)](https://open.spotify.com/album/0RZwnKlm8Oo2EtqcjrDQz3) | 3:33 | 2022-12-17 |  |
 | [Al Rozana](https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Na'na' Ya Na'na'](https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI) | 4:15 | 2021-08-29 |  |
 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 | 2022-03-10 |  |
 | [Amrat أمرات](https://open.spotify.com/track/7kGE2CNVtLp4fnbG6aYgGI) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Amrat أمرات](https://open.spotify.com/album/4E3PiyTvavqOG19JrRJ3F2) | 3:05 | 2022-09-09 | 2022-12-18 |
@@ -33,7 +34,7 @@
 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 | 2021-08-29 |  |
 | [Fi Balad](https://open.spotify.com/track/6UfojkByhQd6xk8OKKtFA4) | [Shadi Zaqtan](https://open.spotify.com/artist/5HRVCmuBf5fJhNsuxho0Uj) | [Rough Guide To Palestine](https://open.spotify.com/album/6KqivdlFFRzj6KmAVSGL0I) | 5:15 | 2021-08-29 | 2022-07-28 |
 | [Free Palestine](https://open.spotify.com/track/64q1CGvo0Xy2zcIY3P3Y5N) | [Abe Batshon](https://open.spotify.com/artist/7L9recBwKoPNkkdVZcri4M) | [Free Palestine](https://open.spotify.com/album/1Vtr06ZXiHa1N8URiFKjuk) | 2:45 | 2021-08-29 | 2022-01-21 |
-| [From Here](https://open.spotify.com/track/7Aa9F0saCHys1n1D71AJM3) | [Akram Abdulfattah](https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG) | [From Here](https://open.spotify.com/album/0qKoWbZXIpjgHiq0VrDuA8) | 2:32 | 2021-08-29 |  |
+| [From Here](https://open.spotify.com/track/7Aa9F0saCHys1n1D71AJM3) | [Akram Abdulfattah](https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG) | [From Here](https://open.spotify.com/album/0qKoWbZXIpjgHiq0VrDuA8) | 2:32 | 2021-08-29 | 2023-03-28 |
 | [G'areeb Fi Bladi \(Stranger In My Own Country\)](https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:45 | 2021-08-29 |  |
 | [Galbi Dari](https://open.spotify.com/track/3EleTttGO2qnHqWboexTzE) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X) | [Galbi Dari](https://open.spotify.com/album/2g1mdqMEqCxm31F5iuFsGS) | 2:34 | 2021-08-29 | 2023-03-26 |
 | [Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo](https://open.spotify.com/track/6EYOa2WdT7XEEOb376DSoV) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Nai 1](https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6) | 5:28 | 2022-07-19 |  |
@@ -67,7 +68,7 @@
 | [Raka W Raka](https://open.spotify.com/track/18BVCyZrX6l8GjPxiA30pT) | [Elsayed Agamy](https://open.spotify.com/artist/0yp1fxlkZqiO7XZFVv81Mh), [Yousr Hamed](https://open.spotify.com/artist/0SCPYFmL7fPMV2u7r1TcKW) | [Raka W Raka](https://open.spotify.com/album/1tbA2w4t6I4NCXhiAhT8ph) | 3:11 | 2021-08-29 | 2022-12-13 |
 | [Ramadan](https://open.spotify.com/track/1shPR6yMl4i4KQroQEr43F) | [R3D](https://open.spotify.com/artist/5oTKzvmC4PKpI3SsjJtdQY), [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Daboor](https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy), [Ramadan](https://open.spotify.com/artist/6wt2IFKhXer4jr07Y5jGoh), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [R3D](https://open.spotify.com/album/5zsMQF8gTnGGbA8gxALtKx) | 2:41 | 2022-08-26 |  |
 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 | 2021-08-29 |  |
-| [Sitti \(Grandma\)](https://open.spotify.com/track/0kQIy3NQMPHn3o6AiVC9fm) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Shauq](https://open.spotify.com/album/79nDDYkzoWwdwWOZ8uIJLw) | 5:33 | 2021-08-29 |  |
+| [Sitti \(Grandma\)](https://open.spotify.com/track/0kQIy3NQMPHn3o6AiVC9fm) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Shauq](https://open.spotify.com/album/79nDDYkzoWwdwWOZ8uIJLw) | 5:33 | 2021-08-29 | 2023-03-28 |
 | [Sobo El Gahwa](https://open.spotify.com/track/2huCtJ3Sql6a4P74wbzogy) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X), [Faten Shafeq Kabaha](https://open.spotify.com/artist/7uDoPvAaYD2RUrr35aH1bK) | [Sobo El Gahwa](https://open.spotify.com/album/7ylO1Fv0pXSm89nnuQyuhX) | 4:20 | 2021-08-29 | 2022-07-29 |
 | [Sobo El Gahwa](https://open.spotify.com/track/2uegTlle9p16rqdeYroYET) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X), [Faten Shafeq Kabaha](https://open.spotify.com/artist/7uDoPvAaYD2RUrr35aH1bK) | [Sobo El Gahwa](https://open.spotify.com/album/5vK57QEuynqaQYHuiGuNoM) | 4:20 | 2022-07-19 |  |
 | [Supply Me with an Excess of Love](https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 4:34 | 2021-08-29 |  |
@@ -98,7 +99,7 @@
 | [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 | 2021-08-29 |  |
 | [ميدلي فلسطيني](https://open.spotify.com/track/0Xbrn4PNQUaCLwUmshygdt) | [فرقة زمن](https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn) | [بطلتي الي](https://open.spotify.com/album/6tQvEO9Vn7YVqrL4F8IS8b) | 3:48 | 2021-08-29 | 2023-03-25 |
 | [ميدلي فلسطيني](https://open.spotify.com/track/5hwLq1B81lk9vV1wpu7Orw) | [فرقة زمن](https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn) | [بطلتي الي](https://open.spotify.com/album/2lMxE2fPExV9BSb4JEGsqZ) | 3:48 | 2022-12-17 |  |
-| [يا منجنيق](https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy) | [Mahmood Jrere](https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv) | [يا منجنيق](https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC) | 3:05 | 2022-12-17 | 2023-03-27 |
+| [يا منجنيق](https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy) | [Mahmood Jrere](https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv) | [يا منجنيق](https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC) | 3:05 | 2022-12-17 |  |
 | [يا منجنيق](https://open.spotify.com/track/3OcsroxTDUzBDTo3xOQQqp) | [Mahmood Jrere](https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv) | [يا منجنيق](https://open.spotify.com/album/5W6qkrXenVMs0caeUqL8Z2) | 3:05 | 2021-08-29 | 2023-03-25 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

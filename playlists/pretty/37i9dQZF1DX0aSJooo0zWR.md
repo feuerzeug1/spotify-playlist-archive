@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,533 likes - 80 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,570 likes - 80 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 18 | [Blue Wind](https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 5:54 |
 | 19 | [Medieval Overture \- Instrumental](https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Romantic Warrior](https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt) | 5:13 |
 | 20 | [Black Market](https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Black Market](https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd) | 6:30 |
-| 21 | [Thirty One](https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO) | 3:47 |
-| 22 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
-| 23 | [P64 By My Side](https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Septet](https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ) | 4:11 |
-| 24 | [Dolemite](https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Tore Down House](https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb) | 5:52 |
+| 21 | [Dolemite](https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Tore Down House](https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb) | 5:52 |
+| 22 | [Thirty One](https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO) | 3:47 |
+| 23 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
+| 24 | [P64 By My Side](https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Septet](https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ) | 4:11 |
 | 25 | [U.T.F.F.](https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Henrik Linder](https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt) | [Chapter One: Shredemption](https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L) | 3:27 |
 | 26 | [Friction](https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:00 |
 | 27 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:50 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 34 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 |
 | 35 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 |
 | 36 | [Nightfall](https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 4:45 |
-| 37 | [Chromazone](https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Time In Place](https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP) | 7:42 |
-| 38 | [Trinity](https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Trinity](https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv) | 7:54 |
+| 37 | [Trinity](https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Trinity](https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv) | 7:54 |
+| 38 | [Chromazone](https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Time In Place](https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP) | 7:42 |
 | 39 | [Up and Down](https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ) | [Anika Nilles](https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi) | [Opuntia](https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi) | 4:02 |
 | 40 | [Black Cat Shuffle](https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Electric Rendezvous](https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi) | 3:00 |
 | 41 | [Hell's Bells](https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx) | [Bill Bruford](https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz) | [Master Strokes 1978\-1985](https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl) | 3:34 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 56 | [School Days](https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 7:49 |
 | 57 | [All Roads Lead To Los Angeles](https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Pursuit of Ends](https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2) | 4:42 |
 | 58 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 |
-| 59 | [Mondo Garaj](https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h) | [Garaj Mahal](https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM) | [Mondo Garaj](https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs) | 5:33 |
+| 59 | [You Gotta Get It While You Can](https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Sleepwalk](https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP) | 4:57 |
 | 60 | [Catch Me If U Can](https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6) | [Vital Techtones](https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2) | [Vtt2](https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T) | 4:24 |
-| 61 | [You Gotta Get It While You Can](https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Sleepwalk](https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP) | 4:57 |
+| 61 | [Mondo Garaj](https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h) | [Garaj Mahal](https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM) | [Mondo Garaj](https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs) | 5:33 |
 | 62 | [Spacy Country](https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff) | [Uzeb](https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU) | [Between The Lines](https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR) | 5:09 |
 | 63 | [Truth](https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp) | [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Space\-Time](https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W) | 4:35 |
 | 64 | [Go Ahead John \(2022 Remaster\)](https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Big Fun \(2022 Remaster\)](https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h) | 28:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Catch me if you can!](https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n) | [Umziky](https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB), [Markus Eermann](https://open.spotify.com/artist/4s79kfWJq1CaZu9e7rvbwu), [Jesse Vilhomaa](https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb), [Vid Šketa](https://open.spotify.com/artist/3xvZ4lDs78x6krq04pfItd) | [Catch me if you can!](https://open.spotify.com/album/1RyHcCPpsYLiMvY87EibNF) | 3:58 |
 | 80 | [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDFhYjc3MzMxODVhMDQxZmVmOWFkMzRkMjUyOWQ5MDg3`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDkwY2VjYWExZWM0Y2JiMDNiODZkMWYxZDkyMDZlMDdh`

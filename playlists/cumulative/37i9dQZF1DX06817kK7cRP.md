@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-111 songs - 5 hr 6 min
+112 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Around Me](https://open.spotify.com/track/3i4AOqloOwc33r7pwJGLXh) | [Soulstance](https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur) | [The Jazz Art Of Relax](https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd) | 4:34 | 2023-01-13 |  |
 | [As We Are](https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5) | [Soulstance](https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur) | [The Jazz Art Of Relax](https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd) | 5:20 | 2023-01-17 |  |
 | [Bergamot](https://open.spotify.com/track/6WNRv5EhU3pi2kH71qoYuw) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Notes](https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld) | 2:04 | 2023-01-12 |  |
+| [Billow](https://open.spotify.com/track/6hd9qmlnzXQrRpZR6IWsxq) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Billow](https://open.spotify.com/album/2QJi553WjqaZVMKdGD9pog) | 2:31 | 2023-03-23 |  |
 | [Blessings](https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Blessings](https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB) | 2:26 | 2023-01-12 |  |
-| [Brooklyn Brownstone](https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92) | [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Brooklyn Brownstone](https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3) | 2:16 | 2023-01-12 |  |
+| [Brooklyn Brownstone](https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92) | [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Brooklyn Brownstone](https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3) | 2:16 | 2023-01-12 | 2023-03-28 |
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2023-01-12 |  |
 | [Chardonnay Kisses](https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd) | [G Bliz](https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Chardonnay Kisses](https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48) | 2:32 | 2023-01-13 |  |
 | [Cherry Beach](https://open.spotify.com/track/1s9SHfXSkXGGCt5FRmPdmd) | [PRGMAT](https://open.spotify.com/artist/3n36M7jE1JSaZ5OXHdxo37) | [Cherry Beach](https://open.spotify.com/album/2BfhwrpcSXq99iMGeytEqw) | 2:57 | 2023-01-12 | 2023-01-18 |

@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-263 songs - 17 hr 10 min
+264 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A New Disaster](https://open.spotify.com/track/2Dacl6eI6cIwTcLtqpQcA0) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [A New Disaster](https://open.spotify.com/album/2bmZJfV07YUUnRJyLhqk6u) | 3:39 | 2020-12-07\* | 2021-05-15 |
 | [A Pain all Mine](https://open.spotify.com/track/3il4rTwrxEZjqkyakwsKga) | [Jaded Star](https://open.spotify.com/artist/1QPqC0I7ggY7Etb5JTV6LG) | [Realign](https://open.spotify.com/album/6wv7SNQ3j3Xe7zWjS7ruYT) | 3:42 | 2020-12-07\* | 2022-06-19 |
 | [A Return to the Earth Below](https://open.spotify.com/track/7wjFG8WltMzLjo8lVC6Rfe) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [A Return to the Earth Below](https://open.spotify.com/album/2vH9KhmMLvlH4DlPtdbB7z) | 5:39 | 2020-12-07\* | 2022-07-29 |
-| [A Villain's Monologue](https://open.spotify.com/track/2Cn2uobw2l8SlCL7t3KZGM) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb) | 3:27 | 2022-11-18 |  |
+| [A Villain's Monologue](https://open.spotify.com/track/2Cn2uobw2l8SlCL7t3KZGM) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb) | 3:27 | 2022-11-18 | 2023-03-28 |
 | [A Villain's Monologue](https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [A Villain's Monologue](https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU) | 3:30 | 2021-06-05 | 2022-11-13 |
 | [Abyss](https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD) | 6:44 | 2022-03-11 |  |
 | [Abyss](https://open.spotify.com/track/6dGSXCf230k3YsEGOvXNAy) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Abyss](https://open.spotify.com/album/7FgdN0xNj5EfXUo0falBTN) | 6:44 | 2020-12-07\* | 2022-07-29 |
@@ -143,6 +143,7 @@
 | [Lift Me Up](https://open.spotify.com/track/6ZwpGvNNC9vEzqsrtdRyVk) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/0EaobWjAKwyRNMheJL0OMU) | 3:29 | 2020-12-07\* | 2022-07-28 |
 | [Lift Me Up](https://open.spotify.com/track/77N3qTq2VuA244Xf36hQ1O) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [The Cost of Greatness](https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja) | 3:29 | 2022-03-11 | 2023-03-03 |
 | [Light and Darkness](https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL) | 4:04 | 2023-03-02 | 2023-03-27 |
+| [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 | 2023-03-02 |  |
 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 | 2022-11-18 |  |
 | [Like Water](https://open.spotify.com/track/4sT2KQ2eOJhkk4efNXh3QW) | [Blind Summit](https://open.spotify.com/artist/2ilHNWINkzKLAT9IH8StKy) | [Like Water](https://open.spotify.com/album/5rCCY7VvKQoV6Bdkbvxj5Q) | 5:08 | 2021-10-10 | 2021-10-16 |
 | [Listen to Someone](https://open.spotify.com/track/1NO9EWRJgGhiMRkPXuiB4D) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [When I Die, Will I Get Better?](https://open.spotify.com/album/1eo3ZZmqerj4vkR5VqDkGs) | 5:10 | 2021-02-19 | 2022-07-12 |

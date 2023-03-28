@@ -2,9 +2,9 @@
 
 ### [City Pop Korea \(한국 씨티팝\)](https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp)
 
-> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: En Sokum\(은소금\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
+> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: JuJu Secret\(주주 시크릿\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-285 songs - 17 hr 46 min
+286 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Fantasy 환상](https://open.spotify.com/track/3LvH2lQUntKlOnVpeleN6A) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Fantasy 환상](https://open.spotify.com/album/0x3N3cCTdp0G4bVC9douOO) | 3:30 | 2022-05-11 | 2022-07-29 |
 | [feelight!](https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [feelight!](https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj) | 3:05 | 2022-07-04 | 2022-08-22 |
 | [Find me](https://open.spotify.com/track/7xRrS3FHDkUiDvhFXceyhZ) | [Soppy](https://open.spotify.com/artist/6hH5LLQUCxSckZ5EEmcVJm) | [Find me](https://open.spotify.com/album/39TnHfqboN2tNkKpXG0oTp) | 3:20 | 2022-05-11 | 2022-06-13 |
-| [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 | 2022-05-11 |  |
+| [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 | 2022-05-11 | 2023-03-28 |
 | [First Winter](https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [First Winter](https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA) | 4:00 | 2022-05-11 |  |
 | [Flight](https://open.spotify.com/track/6XXqH3KcRkpDNJYf2kRhBA) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [SURFING](https://open.spotify.com/album/4gjhFa54JUgELzHmQoR4J1) | 3:32 | 2022-05-11 | 2022-06-28 |
 | [Forget You \(Feat\. Rainbow note, Louie\)](https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC) | [Aliven](https://open.spotify.com/artist/3SIrYEcYXK0tFWf6dA0Q4E), [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [Forget You](https://open.spotify.com/album/60zXXx58lbLisnStPn442S) | 4:38 | 2022-07-04 | 2022-08-13 |
@@ -143,6 +143,7 @@
 | [Line](https://open.spotify.com/track/0cDFJrzqAHigqpxRQH4Inq) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Line](https://open.spotify.com/album/1th3Qqi0o1gFS22ArZTOt2) | 3:55 | 2022-05-11 | 2022-07-17 |
 | [Line 1](https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:17 | 2022-05-11 | 2022-07-05 |
 | [Live In Sunset](https://open.spotify.com/track/70cXtcSahvPBsnGZ4pj5m1) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Let Me Dive Into This Moment](https://open.spotify.com/album/2fjEagdPnRw9CpjStW75y1) | 3:24 | 2022-05-11 | 2022-07-24 |
+| [Lonely Night](https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1) | [JuJu Secret](https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9) | [Lonely Night](https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg) | 3:14 | 2023-03-28 |  |
 | [Lonesome](https://open.spotify.com/track/0QSVJ6VrjlEY7iw6jOEnBv) | [zai.ro](https://open.spotify.com/artist/6HbvERy3ULYCot6g8Sp2ol) | [Lonesome](https://open.spotify.com/album/3Yz8zD0Uw4x3PfvCeLhAYC) | 4:51 | 2022-05-11 | 2022-07-29 |
 | [Look](https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 4:05 | 2022-05-11 |  |
 | [Love Counseling](https://open.spotify.com/track/3806qzWO2NAHJUEBse4g8a) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [Temperature of Love](https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV) | 3:46 | 2022-05-11 | 2022-07-14 |

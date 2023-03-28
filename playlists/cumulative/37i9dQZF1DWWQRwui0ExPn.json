@@ -7381,6 +7381,24 @@
     },
     {
       "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/0RPj2IhqAETSFoeq5mPsQ7"
+      },
+      "artists": [
+        {
+          "name": "dusty dexter",
+          "url": "https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124223,
+      "name": "Backyard",
+      "url": "https://open.spotify.com/track/2fwFLKkc4vb2Xn2uIRMSpu"
+    },
+    {
+      "album": {
         "name": "Backyard",
         "url": "https://open.spotify.com/album/2sfAya8DFPzZuTo8ZjEGE1"
       },
@@ -8898,6 +8916,24 @@
       "duration_ms": 129713,
       "name": "Beginnings of Spring",
       "url": "https://open.spotify.com/track/3H2NfpPiuB1zLznkMRqeaU"
+    },
+    {
+      "album": {
+        "name": "Slash",
+        "url": "https://open.spotify.com/album/1EcIOK5f6i53aZoYpZbXT8"
+      },
+      "artists": [
+        {
+          "name": "Redmoo",
+          "url": "https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117359,
+      "name": "Behind Shades",
+      "url": "https://open.spotify.com/track/7LsoqCU2nXibu7BgkeB5jp"
     },
     {
       "album": {
@@ -54244,7 +54280,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 154941,
       "name": "Love Gone",
       "url": "https://open.spotify.com/track/13YF85tcO7tABHpidBnpgG"
@@ -60590,7 +60626,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 117162,
       "name": "Morning Rays",
       "url": "https://open.spotify.com/track/7D8dbSD6PTu9uwNfzuwoAR"
@@ -81727,6 +81763,24 @@
     },
     {
       "album": {
+        "name": "EP IV",
+        "url": "https://open.spotify.com/album/2oEMy6PdPZrBvj9158T7yv"
+      },
+      "artists": [
+        {
+          "name": "Hans Hu$tle",
+          "url": "https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Skydancer",
+      "url": "https://open.spotify.com/track/5nD9zxsQ5C4Dh3Lc0HNf5G"
+    },
+    {
+      "album": {
         "name": "Skyhigh",
         "url": "https://open.spotify.com/album/4PAW3fn3HCb1yXfadEYlaC"
       },
@@ -85676,7 +85730,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 158808,
       "name": "spring",
       "url": "https://open.spotify.com/track/4XChGuM6Vcl9wFwB5SLgR8"

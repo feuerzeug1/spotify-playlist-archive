@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 176975,
+  "num_followers": 177051,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMGFlYTQ4MzEwN2ZiM2Q4ODk2MGU4NDQ0NzgxOGY0OTU3",
+  "snapshot_id": "MTY3NjU4ODQ2MCwwMDAwMDAwMDgzODU0YmFmMjliOTQ5YmI1Y2I5MGY5YTk3ZDVmZmEx",
   "tracks": [
     {
       "added_at": "2023-02-16 23:01:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "Can Summer Love Last Forever?",
         "url": "https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 184320,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -607,6 +607,38 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "The Lingering",
+        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "duration_ms": 193622,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 246316,
+      "name": "(It's Not About) Running",
+      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "The Ghost in Your Smile",
         "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
       },
@@ -675,38 +707,6 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "The Lingering",
-        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 193622,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Unknown / (It's Not About) Running",
-        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 246316,
-      "name": "(It's Not About) Running",
-      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
         "name": "N\u00e6rmere",
         "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
       },
@@ -743,8 +743,8 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
-        "name": "Tran\u00f8y fyr",
-        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Tran\u00f8y fyr",
-      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2023-02-16 23:01:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-02-16 23:01:00",
       "album": {
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+    },
+    {
+      "added_at": "2023-02-16 23:01:00",
+      "album": {
         "name": "Dad Told Me",
         "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 155213,
       "name": "Oh God",
       "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
-    },
-    {
-      "added_at": "2023-02-16 23:01:00",
-      "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2023-02-16 23:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Plebe Rude
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,942 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,939 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 5 | [Calmaria \(Sessions\)](https://open.spotify.com/track/5al7dvnBhJEhNpi8XCpSi0) | [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p) | [Sessions Navala](https://open.spotify.com/album/4kxhOEzCII1AlWcMiG6E9s) | 4:03 |
 | 6 | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/album/01b9ock8wNdadj9h2L53t3) | 2:57 |
 | 7 | [Culpa](https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Conflitos](https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7) | 3:04 |
-| 8 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [: \(UMA BAD UMA FARRA: \) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 |
+| 8 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 |
 | 9 | [Intervenção](https://open.spotify.com/track/4DX27vK2TVab3xjm4lghF5) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Intervenção](https://open.spotify.com/album/3QygnjTFSXdP5cvNdOBDbs) | 3:33 |
 | 10 | [Sem Parar](https://open.spotify.com/track/3TuBiOhnrNRfDOHuA4Lgss) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Sem Parar](https://open.spotify.com/album/0tQCvne4fue2q9lIecac4B) | 3:35 |
 | 11 | [Dia a dia](https://open.spotify.com/track/0fHAEHVcqD104hdGo9JfZC) | [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Dia a dia](https://open.spotify.com/album/6sIPN7Do9PfxlS2LUAFD55) | 3:33 |

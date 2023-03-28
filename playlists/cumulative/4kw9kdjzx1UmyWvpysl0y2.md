@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-439 songs - 1 day 1 hr 41 min
+440 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Renaissance](https://open.spotify.com/track/7moYWZMEBBi9JgO1vbmPU4) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Renaissance](https://open.spotify.com/album/2tMs4REgID4EI8n09Xt1U1) | 3:48 | 2022-09-30 | 2022-12-04 |
 | [Retrospective](https://open.spotify.com/track/3zzqGcRJJ4YoegJMnLMYnh) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Garden's Edge](https://open.spotify.com/album/495RJ4HV475juBo05YQXBh) | 3:47 | 2022-11-04 | 2023-01-26 |
 | [Rewind.\. \(But I Love You\)](https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Someone You Can Count On](https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2) | 2:53 | 2023-03-08 |  |
+| [Riders in the Sky](https://open.spotify.com/track/3a5TIKuvze6ZmmPSzElZru) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Riders in the Sky](https://open.spotify.com/album/0o2LL06MoSMePlWc4mVKGU) | 4:42 | 2023-03-27 |  |
 | [Right Through](https://open.spotify.com/track/4KyDMzlS1tynHxn3t6SpIJ) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [Asdek](https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS) | [The Chase](https://open.spotify.com/album/5ihPWCYA0YE9mPIScQAQMG) | 3:22 | 2022-05-26 | 2022-08-06 |
 | [Riot](https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Thrones of Blood](https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX) | 2:45 | 2023-03-17 |  |
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 | 2022-07-23 |
@@ -395,7 +396,7 @@
 | [this feeling that never ends](https://open.spotify.com/track/4YMmmpFYgC29DqDqjghjuT) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:30 | 2022-11-30 | 2023-03-02 |
 | [This Is The Life We Dreamed Of](https://open.spotify.com/track/3pUcJ0iqUjdBp5Tecep22N) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [This Is The Life We Dreamed Of](https://open.spotify.com/album/1Mf5B4sfQnNMkpxt20SZvE) | 3:48 | 2022-03-11 | 2022-05-24 |
 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 | 2022-07-18 | 2022-09-29 |
-| [Thrones of Blood](https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9) | 4:02 | 2023-01-12 |  |
+| [Thrones of Blood](https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9) | 4:02 | 2023-01-12 | 2023-03-28 |
 | [Time Is A Remedy](https://open.spotify.com/track/0WCgYZhHkhmgHwP9Y6LV59) | [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Time Is A Remedy](https://open.spotify.com/album/0roDCd0pglP3jscyf5S3Eb) | 4:11 | 2021-11-19 | 2022-02-24 |
 | [To Another World](https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [To Another World](https://open.spotify.com/album/4ymZf7MngtqVCgpiaHwu8P) | 4:11 | 2022-11-15 | 2023-02-10 |
 | [Together](https://open.spotify.com/track/00tGSmfgNY6uzLgYny6Zcw) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Together](https://open.spotify.com/album/4wOJa4z6jAGZb1B5kQqxsX) | 4:33 | 2023-01-25 |  |

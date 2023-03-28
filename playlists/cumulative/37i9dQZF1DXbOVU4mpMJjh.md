@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-614 songs - 1 day 22 hr 10 min
+617 songs - 1 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-16 |  |
 | [Come Sunday](https://open.spotify.com/track/0iL0t2UplDSAMYgAcuHU8a) | [Larry Bennett Jr.](https://open.spotify.com/artist/5JmuUqhsHcg0tDtqF0kquP) | [Come Sunday](https://open.spotify.com/album/2QnlZpMXmIynGwFkd8dkaY) | 5:04 | 2022-04-14 | 2022-05-14 |
 | [Comin' Home Baby](https://open.spotify.com/track/6OH7UCFY7SEJxxQkaYfAv8) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo) | [Atlantic Jazz: Soul](https://open.spotify.com/album/5Pi9gvFQLlXGdgI19hb6IR) | 8:39 | 2022-04-14 | 2022-04-28 |
-| [Coming Back To Me](https://open.spotify.com/track/0FAzOeaWZi4CCZgkJFkgwc) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 3:56 | 2022-04-14 |  |
+| [Coming Back To Me](https://open.spotify.com/track/0FAzOeaWZi4CCZgkJFkgwc) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 3:56 | 2022-04-14 | 2023-03-28 |
 | [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-19 |  |
 | [Constantly Changing](https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Constantly Changing](https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ) | 3:17 | 2022-05-24 |  |
 | [Cool Out](https://open.spotify.com/track/489alJQIWUauqzKTMuXRjm) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Hutson](https://open.spotify.com/album/6d7pfxv2QlODnSChi8BJiq) | 2:59 | 2022-04-14 | 2022-06-22 |
@@ -118,6 +118,7 @@
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 |  |
 | [Curves](https://open.spotify.com/track/0glr1BX8Zy81l4HvLpmozl) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/5vRSjGybGL5JiNGIsfh2K6) | 6:19 | 2022-04-14 | 2022-07-28 |
 | [Curves](https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt) | 6:19 | 2022-06-30 |  |
+| [Cycles](https://open.spotify.com/track/3GaxNr64IWzj9FUhheY28E) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Cycles](https://open.spotify.com/album/7eP8ZPsn9f3GnR61fsIVji) | 3:40 | 2023-03-28 |  |
 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 | 2022-04-14 | 2022-10-08 |
 | [Darn That Dream](https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 5:05 | 2022-04-14 |  |
 | [Daydreams](https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Daydreams](https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx) | 3:22 | 2023-01-26 |  |
@@ -280,6 +281,7 @@
 | [Jump for Joy \- 2007 Remaster](https://open.spotify.com/track/3xAXSXOjOGs8Uk8Djp2BAw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Divine One](https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx) | 2:27 | 2022-04-14 | 2022-10-01 |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-08-11 | 2022-12-02 |
 | [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-13 |  |
+| [Just For Tonight](https://open.spotify.com/track/1vwtIkZtFqmekoyuHH5jxO) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Just For Tonight](https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH) | 2:44 | 2023-03-28 |  |
 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 | 2022-12-08 |  |
 | [Killer Joe](https://open.spotify.com/track/0aEcArQsqTpErHdixEVaHj) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Terminal 1](https://open.spotify.com/album/3z7cxxCXvRmOav4DiOI3mP) | 6:53 | 2022-04-14 | 2022-09-16 |
 | [L.A\. 58](https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:06 | 2022-04-14 | 2022-10-08 |
@@ -336,7 +338,7 @@
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 |  |
 | [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-11-10 |  |
 | [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-14 | 2023-02-03 |
-| [Maybe Some Other Time](https://open.spotify.com/track/1ih4edYGz6a5bP9vuabZM4) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [As Life Turns Around](https://open.spotify.com/album/5HRiUoutO21xfdWMOhv7X3) | 3:43 | 2022-04-14 |  |
+| [Maybe Some Other Time](https://open.spotify.com/track/1ih4edYGz6a5bP9vuabZM4) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [As Life Turns Around](https://open.spotify.com/album/5HRiUoutO21xfdWMOhv7X3) | 3:43 | 2022-04-14 | 2023-03-28 |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-29 |  |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-03-09 |  |
 | [Mean to Me](https://open.spotify.com/track/6Q7U4bTozx5kfLjWT81u7P) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan In Hi\-Fi](https://open.spotify.com/album/3atCVYmLjlC6j3duEB6XuN) | 2:52 | 2022-04-14 | 2022-09-23 |
@@ -451,7 +453,7 @@
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-20 |  |
 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 | 2022-04-14 | 2022-05-25 |
 | [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 | 2022-10-27 |  |
-| [Ruby My Dear](https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:12 | 2022-04-14 |  |
+| [Ruby My Dear](https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:12 | 2022-04-14 | 2023-03-28 |
 | [Ruby My Dear](https://open.spotify.com/track/4UsWPDI7ztp83qi9QVLp0C) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Ruby My Dear](https://open.spotify.com/album/5oTmFu8GHDDeSIr1ui7opy) | 3:51 | 2023-03-09 |  |
 | [Ruby My Dear](https://open.spotify.com/track/0VWMeGBrCBB5vFsDWAnXCi) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Ruby My Dear](https://open.spotify.com/album/0mVhiB4QTDZPFSkTF9FDTq) | 3:32 | 2022-06-30 | 2022-10-08 |
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-09 |  |
@@ -516,6 +518,7 @@
 | [That's All](https://open.spotify.com/track/79MOPpvNSagTPcwnx4Ct2b) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Pick Yourself Up](https://open.spotify.com/album/5kdCmgqTuAvaIcjh46usah) | 4:53 | 2022-04-14 | 2022-07-29 |
 | [That's All](https://open.spotify.com/track/0d43eTmA0tQP9ortsZQ9hN) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:53 | 2022-06-30 | 2022-09-23 |
 | [That's Nothing](https://open.spotify.com/track/211NFPThPEPKCoScvCAelb) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [That's Nothing](https://open.spotify.com/album/42d23WhadUq9ckCGfXMFaD) | 4:26 | 2023-03-16 |  |
+| [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-28 |  |
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-12 |  |
 | [The Boy From Ipanema](https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [How Glad I Am](https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt) | 2:14 | 2022-06-30 | 2022-09-16 |
 | [The Boy From Ipanema](https://open.spotify.com/track/7L2n068PidY6cnNdyTfeRb) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [How Glad Am I / Gentle Is My Love](https://open.spotify.com/album/3gC2NduPE3x2N4Nd90ytsj) | 2:14 | 2022-04-14 | 2022-07-29 |

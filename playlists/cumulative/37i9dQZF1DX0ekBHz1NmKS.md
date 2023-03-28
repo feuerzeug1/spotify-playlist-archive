@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-662 songs - 1 day 11 hr 5 min
+664 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Autopilot](https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Autopilot](https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI) | 2:51 | 2023-02-16 |  |
 | [Avundsjuk på regnet](https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 2:42 | 2021-12-16 | 2022-09-16 |
 | [Baby Blue](https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Baby Blue](https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n) | 2:54 | 2022-04-01 | 2022-04-21 |
+| [Bad One](https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW) | 2:41 | 2023-03-23 |  |
 | [Bananas](https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Bananas](https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b) | 2:33 | 2022-02-05 | 2022-04-25 |
 | [Barn av vår tid](https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:53 | 2022-06-02 |  |
 | [Barnasinnet \- 2022](https://open.spotify.com/track/0qIZcJBbVvdxEFwuL8C4LY) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Barnasinnet \(2022\)](https://open.spotify.com/album/3RadEdS8IIlHlE1aEHVPIZ) | 3:13 | 2022-03-17 | 2022-07-29 |
@@ -263,6 +264,7 @@
 | [Holding me more](https://open.spotify.com/track/4kV0TDGZChH1My78V6B3FW) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Holding me more](https://open.spotify.com/album/6U8WUYtjLkZP3CG208XsPj) | 3:30 | 2021-12-16 | 2022-03-11 |
 | [Hollow Woods](https://open.spotify.com/track/2ate2zkgChme3nCh6AhtNS) | [Nomi](https://open.spotify.com/artist/2kHbs6arBtyzIgY5l86m3K) | [Hollow Woods](https://open.spotify.com/album/2L3CYGyZmGjCg6DKSrusQP) | 3:41 | 2022-05-05 | 2022-06-07 |
 | [Hon har dig](https://open.spotify.com/track/02twVAfoDG1podz5ns885c) | [bby](https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N) | [Bara bby](https://open.spotify.com/album/3plhQIEFllsYNv708OaENV) | 2:35 | 2022-05-05 |  |
+| [Hon sa](https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [En liten låtidé](https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN) | 3:04 | 2023-03-23 |  |
 | [HORNY](https://open.spotify.com/track/7b2ErSyq557q0S5GqeOZry) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [HORNY](https://open.spotify.com/album/1jcKD4lL5GUfSZTCNoqv4g) | 2:22 | 2022-07-21 | 2022-07-27 |
 | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/track/3m9GqZMWHtZPbGhamFjrN9) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/album/1MrXU3B1fECuJ8QmRFyBNs) | 3:14 | 2021-12-16 | 2022-03-11 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-03-10 | 2022-09-16 |
@@ -443,7 +445,7 @@
 | [Piller](https://open.spotify.com/track/5O7wcEKtYa8T7aAPPYEK4B) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Piller](https://open.spotify.com/album/4e12w2ks3KmvLjodwRN7W1) | 3:48 | 2021-12-16 | 2022-02-19 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-16 | 2022-03-11 |
 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 | 2022-06-02 |  |
-| [Poppade en till](https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Poppade en till](https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ) | 3:29 | 2023-01-27 |  |
+| [Poppade en till](https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Poppade en till](https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ) | 3:29 | 2023-01-27 | 2023-03-28 |
 | [Poppis Visa](https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 3:15 | 2022-05-20 | 2022-11-11 |
 | [Precious Cargo](https://open.spotify.com/track/1mcDSDrKxkDYJ3At0K5VpU) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Precious Cargo](https://open.spotify.com/album/65BYiMcbsbO8ZUdlMKltgV) | 2:55 | 2021-12-16 | 2022-03-28 |
 | [Psykopat](https://open.spotify.com/track/5K8auXWAl0Tm89m1CX6Geo) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:26 | 2021-12-16 | 2022-07-29 |
@@ -515,7 +517,7 @@
 | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/1ZJdjsCEdolnRN83W9dWiX) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/4lb6TvMkq5XG77Vdydcy4a) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [So Alive](https://open.spotify.com/track/6jYqBYYrk4oRdPirwCPYlz) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/3hhlscP3tUgIgdNW198tHl) | 3:29 | 2021-12-16 | 2022-03-31 |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-12-16 | 2022-03-11 |
-| [Socker Och Vatten](https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Vatten](https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa) | 3:18 | 2022-04-01 |  |
+| [Socker Och Vatten](https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Vatten](https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa) | 3:18 | 2022-04-01 | 2023-03-28 |
 | [Solen i Göteborg](https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Solen i Göteborg](https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB) | 2:51 | 2022-08-11 | 2023-02-09 |
 | [Solnedgångar](https://open.spotify.com/track/6Wl89b1QP2VujIZQvlbz9F) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Solnedgångar](https://open.spotify.com/album/3rAowKXyLvIx0NQqCzDtk8) | 4:02 | 2022-04-01 | 2022-07-28 |
 | [Som du vill](https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Som du vill](https://open.spotify.com/album/7Bt9EjtQhswBKqqOo9MiBU) | 2:53 | 2022-02-05 | 2022-09-16 |

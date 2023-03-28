@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
@@ -2602,6 +2602,28 @@
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+    },
+    {
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163482,
+      "name": "CAMA KING (feat. Chita)",
+      "url": "https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u"
     },
     {
       "album": {

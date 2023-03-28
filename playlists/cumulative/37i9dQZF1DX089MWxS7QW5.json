@@ -108,7 +108,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 208695,
       "name": "a u r o r a \u2727 (feat. sooon)",
       "url": "https://open.spotify.com/track/0B5Q4mi41Ht5xYTpIaXpyf"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 202013,
       "name": "ANIRAGO (feat. Zion.T)",
       "url": "https://open.spotify.com/track/4udQ9x6PZTNkO6Jwxdn0iw"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 223008,
       "name": "Be there",
       "url": "https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg"
@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Candy For You",
+        "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158386,
+      "name": "Candy For You",
+      "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
+    },
+    {
+      "album": {
         "name": "Bind",
         "url": "https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr"
       },
@@ -744,7 +762,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 224653,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/7hJyTX9CUFlYDmbVPuv8nT"
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 173474,
       "name": "dysmorphia (Prod. Jay Dope)",
       "url": "https://open.spotify.com/track/7uCK6TUGn9MQRAo6CbLjWk"
@@ -1060,6 +1078,24 @@
       "duration_ms": 171869,
       "name": "excuses",
       "url": "https://open.spotify.com/track/24ZZsTtsIqEYxhVXL8k75e"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0W2tomlU7AZNbr2wVe1gpY"
+      },
+      "artists": [
+        {
+          "name": "Chaeree",
+          "url": "https://open.spotify.com/artist/1I4Yi8vC8L81PN5DteKnoZ"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179973,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/7uWkMOwv9Vxu4dA8LXbVK3"
     },
     {
       "album": {
@@ -1242,7 +1278,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 170154,
       "name": "Forget Me (Feat. PLHN)",
       "url": "https://open.spotify.com/track/1ox7zkdVWVUFJY0H1547qB"
@@ -1340,7 +1376,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 225800,
       "name": "Got U",
       "url": "https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx"
@@ -1642,6 +1678,24 @@
       "duration_ms": 303893,
       "name": "I couldn't say it",
       "url": "https://open.spotify.com/track/0wjUPck5yAl1w5S1bkd5un"
+    },
+    {
+      "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/7wgbRd1CZmrJgwtkI7BuA0"
+      },
+      "artists": [
+        {
+          "name": "Jane B",
+          "url": "https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223013,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/3w8GlgiRPYt3bLCmCQJL1V"
     },
     {
       "album": {
@@ -2200,10 +2254,28 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 153686,
       "name": "nvrmnd",
       "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
+    },
+    {
+      "album": {
+        "name": "Circle - The 1st Album",
+        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "O (Circle)",
+      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
     },
     {
       "album": {
@@ -2262,7 +2334,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 190200,
       "name": "Once (feat. J.O.Y)",
       "url": "https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L"
@@ -2396,6 +2468,28 @@
       "duration_ms": 147500,
       "name": "prod by Ra.D 5 (Vocal. Do yeon)",
       "url": "https://open.spotify.com/track/3EVL3dbvpgMmHwgPJmCgkI"
+    },
+    {
+      "album": {
+        "name": "New Edition 49",
+        "url": "https://open.spotify.com/album/5I95HLTug1H3xEj0mx3tSP"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Minjeong",
+          "url": "https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210220,
+      "name": "Re: 14 (feat. Minjeong)",
+      "url": "https://open.spotify.com/track/4DmGa6XvEJuWdywgs6mxlK"
     },
     {
       "album": {
@@ -2645,6 +2739,32 @@
     },
     {
       "album": {
+        "name": "T.T.T (Tell The Truth)",
+        "url": "https://open.spotify.com/album/0yp3elCpF7Goy4DEw7dTfL"
+      },
+      "artists": [
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "NONE",
+          "url": "https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195253,
+      "name": "T.T.T (Tell The Truth) (Feat. Moon Sujin, NONE)",
+      "url": "https://open.spotify.com/track/63SD3RfeR1qMmYTmEBd1F4"
+    },
+    {
+      "album": {
         "name": "Take care",
         "url": "https://open.spotify.com/album/64ZwScQEZDND6thh8Vfuz2"
       },
@@ -2674,7 +2794,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 238306,
       "name": "Talk 2 Me Nice",
       "url": "https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY"
@@ -2840,7 +2960,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 135750,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/3iAFryjJkdXe8UpcSOSN6w"
@@ -2909,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Waltz",
+        "url": "https://open.spotify.com/album/7pcQW4zF50WuC5ecrRGDPG"
+      },
+      "artists": [
+        {
+          "name": "ChoiS",
+          "url": "https://open.spotify.com/artist/3e8qNsrEMf6hFCa9XygPyC"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198912,
+      "name": "Waltz",
+      "url": "https://open.spotify.com/track/6QgCE1SNW6XUhNBLKg2jax"
+    },
+    {
+      "album": {
         "name": "wandering (feat. george)",
         "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
       },
@@ -2964,7 +3102,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 163773,
       "name": "Way U Are (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
@@ -3326,7 +3464,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 196000,
       "name": "Zero gravity (feat. Blueday)",
       "url": "https://open.spotify.com/track/4CHZmHfpzinqUwWiSYWPn7"

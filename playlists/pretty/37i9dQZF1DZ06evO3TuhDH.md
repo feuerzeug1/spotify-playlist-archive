@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,539 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,550 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 2 | [Happy Fools \(feat\. Coi Leray\)](https://open.spotify.com/track/77LZvE2XLYn2AW55UxIG8H) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 2:35 |
 | 3 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 |
-| 4 | [What’s My Name \(with Queen Naija & Coi Leray\)](https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:21 |
-| 5 | [Everything BoZ](https://open.spotify.com/track/1WnKJJKMtnmPdvFGOxcRVZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [!](https://open.spotify.com/album/11vLnrFGWQRbonR6wFuCf8) | 3:25 |
-| 6 | [Nonsense \(with Coi Leray\) \- Remix](https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Nonsense \(Remix\)](https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL) | 2:55 |
+| 4 | [Nonsense \(with Coi Leray\) \- Remix](https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Nonsense \(Remix\)](https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL) | 2:55 |
+| 5 | [What’s My Name \(with Queen Naija & Coi Leray\)](https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:21 |
+| 6 | [Everything BoZ](https://open.spotify.com/track/1WnKJJKMtnmPdvFGOxcRVZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [!](https://open.spotify.com/album/11vLnrFGWQRbonR6wFuCf8) | 3:25 |
 | 7 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 |
-| 8 | [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 |
-| 9 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
+| 8 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
+| 9 | [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 |
 | 10 | [Woman Of The Year \(with Stefflon Don, Chlöe & Coi Leray\)](https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:26 |
 | 11 | [2055](https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 1:59 |
 | 12 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Messy](https://open.spotify.com/track/2K1hsMf2MZ5lRN2dEDalAv) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Messy](https://open.spotify.com/album/31U14pPaowEmeGUVZAwYHP) | 2:24 |
 | 50 | [Huddy](https://open.spotify.com/track/5AJfj6wlGtaWlhd71RAxTG) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [EC2](https://open.spotify.com/album/7x4F4nXWjtsM1mCKY8ljJb) | 4:24 |
 
-Snapshot ID: `Mjc5OTcyMzQsMDAwMDAwMDA0ZDQ0MWZkNTdkYzdhZTY5NmU3ZDcyNmZlZmJhMTI1MA==`
+Snapshot ID: `Mjc5OTg2ODIsMDAwMDAwMDA5NWIwNjk2MGY0ZWZmOTAzZmE4YTBjZmZkN2U3YWRmNw==`

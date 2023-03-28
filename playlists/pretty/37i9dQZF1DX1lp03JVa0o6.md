@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Calvin Harris, Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,395 likes - 83 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,427 likes - 83 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 11 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 |
 | 12 | [Gold](https://open.spotify.com/track/1c2aEprxW446Ht7ni3ESqL) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Gold](https://open.spotify.com/album/7jchd6Tg5YkJqsAsR7hyyY) | 4:09 |
 | 13 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 |
-| 14 | [New Bottega](https://open.spotify.com/track/2Xy868PdXC7mV3Y9fRBSNz) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/405q3ZXJJum0c6ojdu6s2U) | 3:08 |
+| 14 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
 | 15 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 |
 | 16 | [\(still\) WON'T4GETU](https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [\(still\) WON'T4GETU](https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54) | 6:14 |
 | 17 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 82 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 |
 | 83 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
 
-Snapshot ID: `MTY3OTU4NjQ4MCwwMDAwMDAwMDEzM2RkNDJiMmE0ODkyMzBmZWRmYzU0ZTNlMDhjMGY4`
+Snapshot ID: `MTY3OTU4NjQ4MCwwMDAwMDAwMGY0ZDk5OTNlMGQ3ODA1ZTllNDJiMTllZTU1YWFkZjQ3`

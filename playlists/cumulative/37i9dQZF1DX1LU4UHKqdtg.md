@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TREASURE
 
-534 songs - 1 day 5 hr 28 min
+535 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Killer](https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Killer \- The 2nd Album Repackage](https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv) | 3:50 | 2023-02-13 |  |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-23 | 2022-02-22 |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-08-09 | 2022-10-19 |
+| [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-27 |  |
 | [Knock On My Door](https://open.spotify.com/track/0hAvf6Lzo1rYcq7aOtdohj) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Knock On My Door](https://open.spotify.com/album/1cNekjNeCf2CaHdiJk0S44) | 2:25 | 2023-03-21 |  |
 | [La Vida Loca](https://open.spotify.com/track/5YazeJ15q1Mypr9ZYLJaT9) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [La Vida Loca](https://open.spotify.com/album/7v5WJg3N0QQYC9BIlDnB0Z) | 3:07 | 2022-08-09 | 2022-10-12 |
 | [Last Breath](https://open.spotify.com/track/3oBrXFR59oxbYVBJZ6lHG2) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Last Breath](https://open.spotify.com/album/1j6ugJWxbjmxT2nukjUIQj) | 2:41 | 2021-12-23 | 2022-02-22 |

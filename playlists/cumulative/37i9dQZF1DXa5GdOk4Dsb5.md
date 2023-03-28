@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-311 songs - 16 hr 37 min
+312 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 | 2022-06-08 |  |
 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 | 2022-06-08 |  |
 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 | 2022-06-08 | 2022-12-31 |
+| [Ahora Que Puedo](https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/7fae9p1hEjCjUiY7P6VZBS) | 3:31 | 2023-02-14 |  |
 | [Ahora Que Puedo](https://open.spotify.com/track/6w9WA6rcQWqB7eNqzPDa9n) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/1cmMx3igYIJLCYC1Wk8iwl) | 3:31 | 2022-06-08 | 2023-01-01 |
 | [Ahora Que Puedo](https://open.spotify.com/track/7DORW8QrHvQ1wIIhuHUqXW) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Ahora Que Puedo \(El Príncipe de la Canción Popular\)](https://open.spotify.com/album/71CKMLBCappyNVjjv1i5U0) | 3:36 | 2022-06-08 | 2022-07-26 |
 | [Ahora Resulta \(Censurada\)](https://open.spotify.com/track/3HzlInOauyJkowUbveDaZD) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:25 | 2022-06-08 | 2022-07-29 |
@@ -216,7 +217,7 @@
 | [OK](https://open.spotify.com/track/6ZpPLJ3wck4X1eOhUGCWPx) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [OK](https://open.spotify.com/album/7jKr5d7pxSFzxo8bkM0Y3G) | 2:21 | 2023-02-14 |  |
 | [OK](https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:21 | 2022-06-08 | 2023-02-25 |
 | [OK](https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 2:21 | 2022-06-08 | 2022-07-29 |
-| [Olvido Intencional](https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:34 | 2022-06-08 |  |
+| [Olvido Intencional](https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:34 | 2022-06-08 | 2023-03-28 |
 | [Pa Todo el Año](https://open.spotify.com/track/0uf7n9tUDhsj6f8ioS0WQm) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pa Todo El Año](https://open.spotify.com/album/2UufMxMzrT7slWILaSfR0T) | 3:08 | 2022-06-08 | 2022-07-29 |
 | [Pa' las Que Sea](https://open.spotify.com/track/52tnYQ8WVvTAfSE14QfP26) | [Jimmy Gutierrez](https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV) | [Pa' las Que Sea](https://open.spotify.com/album/4mimxigIakTiCKteQndKk5) | 4:19 | 2022-12-30 | 2023-02-15 |
 | [Pa' las Que Sea](https://open.spotify.com/track/5Py9vTPJgz4qBAZGUd8ecq) | [Jimmy Gutierrez](https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV) | [Pa' las Que Sea](https://open.spotify.com/album/2hqhyjxyk4pg98zs5jclim) | 4:21 | 2022-06-08 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 270303,
+  "num_followers": 270270,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODY3NjM2MSwwMDAwMDAwMGViMzAzYWY1OWI4ZmRjMTI3NWY0ZDg4MjI2ZDk4NjRi",
+  "snapshot_id": "MTY3ODY3NjM2MSwwMDAwMDAwMDFlNTljMTViYTI5MDEwMGQ5MjljODU1MWZlYTQ4NGNl",
   "tracks": [
     {
       "added_at": "2023-03-13 02:59:21",
@@ -187,6 +187,26 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
         "name": "Skyfall",
         "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 326466,
       "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -683,22 +683,18 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Most Known Unknown",
-        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
       },
       "artists": [
         {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        },
-        {
-          "name": "Paula Campbell",
-          "url": "https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 169186,
-      "name": "Hard Out Here for a Pimp (feat. Paula Campbell)",
-      "url": "https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB"
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -723,18 +719,22 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Al otro lado del rio",
-        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
+        "name": "Most Known Unknown",
+        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "Paula Campbell",
+          "url": "https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA"
         }
       ],
-      "duration_ms": 194626,
-      "name": "Al otro lado del r\u00edo",
-      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
+      "duration_ms": 169186,
+      "name": "Hard Out Here for a Pimp (feat. Paula Campbell)",
+      "url": "https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
+        "name": "Little Women (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Father Comes Home",
+      "url": "https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
         "name": "Work From Home With John Williams",
         "url": "https://open.spotify.com/album/174Z59HgCVdLmyU43Trig8"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 200160,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
-        "name": "Little Women (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Desplat",
-          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Father Comes Home",
-      "url": "https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl"
     }
   ],
   "unique_name": "Hollywood's Big Night",

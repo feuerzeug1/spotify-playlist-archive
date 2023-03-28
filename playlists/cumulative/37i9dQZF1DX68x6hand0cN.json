@@ -202,7 +202,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 177733,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 144065,
       "name": "Baddest Boy - Remix",
       "url": "https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 178285,
       "name": "Coming for You (feat. A1 x J1)",
       "url": "https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 291175,
       "name": "Fair Trade (with Travis Scott)",
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 158601,
       "name": "Flowers (Say My Name)",
       "url": "https://open.spotify.com/track/2BzAGK3lEZAQz5cU0Ae1wd"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 156000,
       "name": "Hate You, I Love You",
       "url": "https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 188571,
       "name": "Konsentra",
       "url": "https://open.spotify.com/track/7LEsTCnDwSyy994RI7xQEQ"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 184800,
       "name": "Magic",
       "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
@@ -1850,6 +1850,32 @@
       "duration_ms": 120839,
       "name": "Next Up - S4-E2, Pt. 1",
       "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+      "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
     },
     {
       "album": {
@@ -2050,10 +2076,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 217693,
       "name": "ONLY YOU (feat. Dhurata Dora)",
       "url": "https://open.spotify.com/track/42iz4icGtihF8Q7lXABUoR"
+    },
+    {
+      "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
       "album": {
@@ -2090,7 +2134,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 195019,
       "name": "Pololo",
       "url": "https://open.spotify.com/track/2gmTz7pHMqAk6fpOc88qxA"
@@ -2421,6 +2465,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
+    },
+    {
+      "album": {
         "name": "Sur Pp (feat. Soolking)",
         "url": "https://open.spotify.com/album/3EXBAs340AUT417uqy3iqz"
       },
@@ -2518,7 +2588,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 218880,
       "name": "TO THE MOON (feat. Fivio Foreign, Russ Millions & Sam Tompkins) - Drill Remix",
       "url": "https://open.spotify.com/track/3rF1pPjaDjWuIUCTXpMGIv"
@@ -2598,10 +2668,32 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
+    },
+    {
+      "album": {
+        "name": "Us Against the World (Remix)",
+        "url": "https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv"
+      },
+      "artists": [
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        },
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192527,
+      "name": "Us Against the World - Remix",
+      "url": "https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t"
     },
     {
       "album": {
@@ -2697,6 +2789,32 @@
     },
     {
       "album": {
+        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
+        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "ARIZONATEARS",
+          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163139,
+      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
+      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
+    },
+    {
+      "album": {
         "name": "Wayih",
         "url": "https://open.spotify.com/album/79GpxYlZSA5n0YP0wizwQu"
       },
@@ -2756,7 +2874,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 156000,
       "name": "Woo Baby (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM"
@@ -2774,7 +2892,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 160800,
       "name": "Ya Benti",
       "url": "https://open.spotify.com/track/2k8R91Dj3w7K7Z2PhdBCd9"

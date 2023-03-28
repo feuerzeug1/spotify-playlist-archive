@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,639 likes - 230 songs - 11 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,611 likes - 230 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 17 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 |
 | 18 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 |
 | 19 | [Jiva](https://open.spotify.com/track/045bWmwbqV82V88ZQzEdaC) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Jiva](https://open.spotify.com/album/1IhH4kJuVq4iXffzIxlHsh) | 2:40 |
-| 20 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |
+| 20 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |
 | 21 | [Saints](https://open.spotify.com/track/4tJWqUFB913wrrYULeuv9X) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Saints](https://open.spotify.com/album/3YMNU9hsjDJXj9KhAoLbm2) | 3:06 |
 | 22 | [Edio](https://open.spotify.com/track/0QdOnce1FwtfhjHGyYWcJ5) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Edio](https://open.spotify.com/album/1XgPv3oY99SZ2ZQ2XPROkb) | 2:57 |
 | 23 | [Directions](https://open.spotify.com/track/6It0OAsJJ559KHt7PPabuS) | [Max Benton](https://open.spotify.com/artist/6rEyWC1pryYSBm1xFVH5A1) | [Directions](https://open.spotify.com/album/5xzcXk7tSSC0nlrJml3C6K) | 2:22 |

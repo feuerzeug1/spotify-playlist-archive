@@ -1,12 +1,12 @@
 {
   "description": "Spotify country fan favorites. Artist: Dierks Bentley",
-  "num_followers": 2130121,
+  "num_followers": 2130588,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzcwMTk2MSwwMDAwMDAwMDUzM2Y4Mjk3OTBlNDBlMWU3NGZhZGY2NTAxNTNlZjkw",
+  "snapshot_id": "MTY3NzcwMTk2MSwwMDAwMDAwMDJhNDVjZTEwNTk5ZWFkMWNhZDRiNjk5ZmViNjhlY2Mz",
   "tracks": [
     {
       "added_at": "2023-02-01 05:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 199946,
       "name": "Before He Cheats",
       "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "She Got the Best of Me",
+      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 183160,
-      "name": "She Got the Best of Me",
-      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Head Over Boots",
-      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
+      "duration_ms": 253200,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
+      "duration_ms": 202346,
+      "name": "Head Over Boots",
+      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Lee Brice",
+        "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
         }
       ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+      "duration_ms": 198440,
+      "name": "Rumor",
+      "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Lee Brice",
-        "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Rumor",
-      "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -795,18 +795,22 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 171333,
-      "name": "What\u2019s Your Country Song",
-      "url": "https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V"
+      "duration_ms": 231832,
+      "name": "half of my hometown (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -831,54 +835,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "The Way It Feels",
-        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
       "artists": [
         {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 188320,
-      "name": "Die From A Broken Heart",
-      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 231832,
-      "name": "half of my hometown (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
-        "name": "Lambs & Lions",
-        "url": "https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd"
-      },
-      "artists": [
-        {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
+      "duration_ms": 171333,
+      "name": "What\u2019s Your Country Song",
+      "url": "https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -899,25 +867,53 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Cocky",
-        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
+        "name": "Lambs & Lions",
+        "url": "https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 298960,
-      "name": "Picture (feat. Sheryl Crow)",
-      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
+      "duration_ms": 182493,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
     },
     {
-      "added_at": "2023-03-27 00:49:36",
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
+        "name": "The Way It Feels",
+        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Die From A Broken Heart",
+      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Blue Ain't Your Color",
+      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
+    },
+    {
+      "added_at": "2023-03-28 00:39:55",
       "album": {
         "name": "Dierks Bentley",
         "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
@@ -935,18 +931,22 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Blue Ain't Your Color",
-      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
+      "duration_ms": 298960,
+      "name": "Picture (feat. Sheryl Crow)",
+      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "More Hearts Than Mine",
-      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
         "name": "Mr. Misunderstood",
         "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 179346,
       "name": "Record Year",
       "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "More Hearts Than Mine",
+      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Speak Now",
-        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 237733,
-      "name": "Mean",
-      "url": "https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ"
+      "duration_ms": 242733,
+      "name": "Drive (For Daddy Gene)",
+      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Drive (For Daddy Gene)",
-      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
+      "duration_ms": 237733,
+      "name": "Mean",
+      "url": "https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
+        "name": "I'm Comin' Over",
+        "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "I'm Comin' Over",
+      "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 178771,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/3G3OwFCrkc86mMuLPOvgjc"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
-        "name": "I'm Comin' Over",
-        "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "I'm Comin' Over",
-      "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1357,24 +1357,20 @@
       "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
     },
     {
-      "added_at": "2023-02-01 05:00:00",
+      "added_at": "2023-03-28 00:39:55",
       "album": {
-        "name": "The Mountain",
-        "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
       },
       "artists": [
         {
           "name": "Dierks Bentley",
           "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 238493,
-      "name": "Burning Man",
-      "url": "https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M"
+      "duration_ms": 197120,
+      "name": "Somewhere On A Beach",
+      "url": "https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1427,22 +1423,6 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "I Go Back",
-      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
-    },
-    {
-      "added_at": "2023-02-01 05:00:00",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
@@ -1475,18 +1455,18 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 206597,
-      "name": "What If I Never Get Over You",
-      "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"
+      "duration_ms": 243666,
+      "name": "I Go Back",
+      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
     },
     {
       "added_at": "2023-02-01 05:00:00",
@@ -1507,6 +1487,22 @@
     {
       "added_at": "2023-02-01 05:00:00",
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 206597,
+      "name": "What If I Never Get Over You",
+      "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"
+    },
+    {
+      "added_at": "2023-02-01 05:00:00",
+      "album": {
         "name": "Blake Shelton",
         "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
@@ -1521,20 +1517,24 @@
       "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
     },
     {
-      "added_at": "2023-03-27 00:49:36",
+      "added_at": "2023-02-01 05:00:00",
       "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
       },
       "artists": [
         {
           "name": "Dierks Bentley",
           "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 197120,
-      "name": "Somewhere On A Beach",
-      "url": "https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa"
+      "duration_ms": 238493,
+      "name": "Burning Man",
+      "url": "https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M"
     },
     {
       "added_at": "2023-02-01 05:00:00",

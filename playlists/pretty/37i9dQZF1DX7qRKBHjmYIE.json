@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Divino Ni\u00f1o",
-  "num_followers": 748245,
+  "num_followers": 748215,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUwOTkwMCwwMDAwMDAwMDE0NTMwOWEzNmYyOWM3NzE2ZTQyZDE4YmJjYmNhMjI3",
+  "snapshot_id": "MTY3OTUwOTkwMCwwMDAwMDAwMGFjOGJiNDM3NThlOWVlZGZmOTlmNTE0NmNiNmUxMTIw",
   "tracks": [
     {
       "added_at": "2023-03-22 18:31:40",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-22 18:31:40",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 145481,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR"
-    },
-    {
-      "added_at": "2023-03-22 18:31:40",
-      "album": {
         "name": "NMDQH",
         "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 204426,
       "name": "Nunca Tristes (Me Vale Madre)",
       "url": "https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo"
+    },
+    {
+      "added_at": "2023-03-22 18:31:40",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 145481,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR"
     },
     {
       "added_at": "2023-03-22 18:31:40",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-22 18:31:40",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
-    },
-    {
-      "added_at": "2023-03-22 18:31:40",
-      "album": {
         "name": "Futuro",
         "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 242374,
       "name": "Futuro",
       "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
+    },
+    {
+      "added_at": "2023-03-22 18:31:40",
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2023-03-22 18:31:40",

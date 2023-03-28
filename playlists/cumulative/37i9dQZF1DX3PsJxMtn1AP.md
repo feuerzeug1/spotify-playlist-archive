@@ -4,7 +4,7 @@
 
 > A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...
 
-63 songs - 4 hr 11 min
+64 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-09 |  |
 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 | 2023-01-07 | 2023-03-25 |
 | [Can't Give You Up](https://open.spotify.com/track/6o5qFSBREXQPvSTJY353I2) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Can't Give You Up](https://open.spotify.com/album/0fZGtVLj6azebynm7MuYeB) | 5:17 | 2023-01-06 | 2023-03-25 |
+| [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-03-27 |  |
 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 | 2023-03-25 |
 | [Caña Brava](https://open.spotify.com/track/0hy6YsimguNescPjjijro0) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Caña Brava](https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42) | 3:01 | 2023-03-24 |  |
 | [Continental](https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Continental](https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME) | 3:24 | 2023-01-07 | 2023-03-23 |
@@ -49,7 +50,7 @@
 | [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 | 2023-01-25 |  |
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-01-13 |  |
 | [Oceans Niagara](https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Oceans Niagara](https://open.spotify.com/album/05lNHHSVcb58JiL1d0kPIr) | 4:31 | 2023-01-11 | 2023-03-20 |
-| [Oceans Niagara](https://open.spotify.com/track/57zPzYQf43mAewduTJPJLp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:31 | 2023-01-11 |  |
+| [Oceans Niagara](https://open.spotify.com/track/57zPzYQf43mAewduTJPJLp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:31 | 2023-01-11 | 2023-03-28 |
 | [Oh My \(feat\. Moby\)](https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Oh My \(feat\. Moby\)](https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0) | 2:40 | 2023-01-13 |  |
 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 | 2023-02-03 |  |
 | [Pretty In Possible](https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:36 | 2023-02-17 |  |

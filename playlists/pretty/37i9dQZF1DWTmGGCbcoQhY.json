@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1213386,
+  "num_followers": 1213725,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM4Mjg1MywwMDAwMDAwMDVhOGU4OTgzYmE3MzAzOThiYTM5NTkxOGY1OWM5YWU1",
+  "snapshot_id": "MTY3MzM4Mjg1MywwMDAwMDAwMGYxZWY3YzFhMzExODFmZmJjMDJmOTBhNjQzZDVhNzM4",
   "tracks": [
     {
       "added_at": "2022-06-07 22:21:55",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -225,22 +241,6 @@
       "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
-    },
-    {
       "added_at": "2022-10-27 19:14:21",
       "album": {
         "name": "Y De Nuevo Otra Vez !!!",
@@ -255,6 +255,22 @@
       "duration_ms": 227108,
       "name": "Solo una Noche",
       "url": "https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -323,22 +339,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -351,6 +351,38 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 276559,
+      "name": "El Final de Nuestra Historia",
+      "url": "https://open.spotify.com/track/4m2r8uvZFYzhWNMtEonxKn"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -371,8 +403,8 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
@@ -380,25 +412,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
-      },
-      "artists": [
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        }
-      ],
-      "duration_ms": 276559,
-      "name": "El Final de Nuestra Historia",
-      "url": "https://open.spotify.com/track/4m2r8uvZFYzhWNMtEonxKn"
+      "duration_ms": 194560,
+      "name": "20 Rosas",
+      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -531,22 +547,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "20 Rosas",
-      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Tropical & Rumbero: Vuelve",
         "url": "https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
     },
     {
       "added_at": "2023-01-10 20:34:13",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Conga Y Timbal",
-        "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "Conga Y Timbal",
-      "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Exitos Sonideros, Vol. 2",
         "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+        "name": "Conga Y Timbal",
+        "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
       },
       "artists": [
         {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 236518,
-      "name": "El Angel Del Amor",
-      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
+      "duration_ms": 219559,
+      "name": "Conga Y Timbal",
+      "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -767,6 +751,22 @@
       "duration_ms": 216613,
       "name": "El Paso Del Gigante",
       "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 236518,
+      "name": "El Angel Del Amor",
+      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 315680,
-      "name": "El Verde De Tus Ojos - Remix",
-      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 225320,
       "name": "Que calor",
       "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "El Verde De Tus Ojos - Remix",
+      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
     },
     {
+      "added_at": "2023-01-10 20:34:13",
+      "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 331000,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
+    },
+    {
       "added_at": "2022-06-07 22:21:55",
       "album": {
         "name": "Donde Estaras",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Enamoradas",
-        "url": "https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA"
+        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
+        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
       },
       "artists": [
         {
-          "name": "Aroma",
-          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Por Un Rato",
-      "url": "https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt"
+      "duration_ms": 195440,
+      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
+      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1345,36 +1361,20 @@
       "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
     },
     {
-      "added_at": "2023-01-10 20:34:13",
-      "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        }
-      ],
-      "duration_ms": 331000,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
-    },
-    {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
-        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
+        "name": "Enamoradas",
+        "url": "https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "Aroma",
+          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
         }
       ],
-      "duration_ms": 195440,
-      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
-      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
+      "duration_ms": 177213,
+      "name": "Por Un Rato",
+      "url": "https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "El Llanto de los Luceros / El Llanto de los Sapos",
+        "url": "https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mijez",
+          "url": "https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF"
+        }
+      ],
+      "duration_ms": 229016,
+      "name": "El Llanto de los Luceros / El Llanto de los Sapos",
+      "url": "https://open.spotify.com/track/1kHLw4WQLHkIRpbI8ocvFR"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 194506,
       "name": "El Viejo Panz\u00f3n",
       "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "El Llanto de los Luceros / El Llanto de los Sapos",
-        "url": "https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mijez",
-          "url": "https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF"
-        }
-      ],
-      "duration_ms": 229016,
-      "name": "El Llanto de los Luceros / El Llanto de los Sapos",
-      "url": "https://open.spotify.com/track/1kHLw4WQLHkIRpbI8ocvFR"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Espacial",
         "url": "https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 184084,
       "name": "Hay El Amor",
       "url": "https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
-        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Un Poblano en New York",
-      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Amor T\u00f3xico",
         "url": "https://open.spotify.com/album/48VIofynPJH1FbLciAyn5f"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 260928,
       "name": "Amor T\u00f3xico",
       "url": "https://open.spotify.com/track/62y5VJHI9Y5udjRmtrW85E"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
+        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Un Poblano en New York",
+      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
     },
     {
       "added_at": "2022-06-07 22:21:55",

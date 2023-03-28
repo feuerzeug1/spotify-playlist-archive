@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Ken Carson
 
-595 songs - 1 day 0 hr 30 min
+596 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,10 +62,11 @@
 | [BAGGY](https://open.spotify.com/track/5WCqx3pgABaG7EQgAXStSN) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [BAGGY](https://open.spotify.com/album/3T0PqUn2K6bykeuxoR2Wo3) | 1:43 | 2022-08-06 | 2022-12-17 |
 | [Bane](https://open.spotify.com/track/2TKwo7J4oyyiYZvck7ky3R) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Bane](https://open.spotify.com/album/1DIa6H1AjmAg9SMrByTbiI) | 2:20 | 2022-09-27 | 2023-01-07 |
 | [bane](https://open.spotify.com/track/7zS3UNh0KHF6mEv2qVObMJ) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv) | 2:17 | 2021-10-15 | 2022-02-19 |
-| [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 | 2023-03-22 |  |
+| [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 | 2023-03-22 | 2023-03-28 |
 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2022-02-16 | 2022-05-28 |
 | [Battery](https://open.spotify.com/track/3TZD1tcwJWCu5Zitgx362G) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Van Goghs Left Ear](https://open.spotify.com/album/1f92L2RYQBvolOuzzpQYbP) | 1:06 | 2022-03-01 | 2022-05-07 |
 | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC) | 2:52 | 2022-03-01 | 2022-04-14 |
+| [Beat My Face](https://open.spotify.com/track/4l3rYp5GUAwRVhBbSIw5ZH) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Beat My Face](https://open.spotify.com/album/68GV8wXKbhSwoVroQ2wgdR) | 2:00 | 2023-03-27 |  |
 | [Beating Down Yo Block](https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Beating Down Yo Block](https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK) | 3:12 | 2021-09-29 | 2022-02-23 |
 | [Beautiful](https://open.spotify.com/track/5n7vs4XFi3JWZLJpcxLthV) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Beautiful](https://open.spotify.com/album/5b0iGcVPztBLsWRo2lc6Fc) | 3:06 | 2021-12-10 | 2022-03-25 |
 | [Beavis & Butt\-head](https://open.spotify.com/track/0Y9kRbsQKC9zSmfzxPgYiT) | [Sad Frosty](https://open.spotify.com/artist/4VQjfdCN5W8jvwy4AvEnin), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Beavis & Butt\-head](https://open.spotify.com/album/5SZ2aByHdZP9vriapgkVbs) | 2:04 | 2022-05-16 | 2022-06-21 |

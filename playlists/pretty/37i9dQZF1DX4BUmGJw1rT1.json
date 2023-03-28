@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 48308,
+  "num_followers": 48405,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQxNTc0MiwwMDAwMDAwMGE4MmE3ZjBiY2UzMDYzZTA2NTU5YmNlYzdiMDA5YTMz",
+  "snapshot_id": "MTY3OTQxNTc0MiwwMDAwMDAwMGY2ZDJiNTJjN2EyNTBjOTg0ZmYxN2UyOTZlODM2Nzgy",
   "tracks": [
     {
       "added_at": "2023-03-16 17:35:17",
@@ -167,26 +167,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "The Natch'l Blues",
         "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
@@ -259,6 +239,42 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
         "name": "Country Ghetto",
         "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 268200,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Soul Deep",
-        "url": "https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6"
-      },
-      "artists": [
-        {
-          "name": "Noora Noor",
-          "url": "https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl"
-        }
-      ],
-      "duration_ms": 199306,
-      "name": "Forget What I Said",
-      "url": "https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 226131,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "Soul Deep",
+        "url": "https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6"
+      },
+      "artists": [
+        {
+          "name": "Noora Noor",
+          "url": "https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl"
+        }
+      ],
+      "duration_ms": 199306,
+      "name": "Forget What I Said",
+      "url": "https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Love, Death & In Between",
-        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Will o' the Wisp",
-      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "Fire on the Floor (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 311226,
       "name": "Fire On The Floor",
       "url": "https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "Love, Death & In Between",
+        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Will o' the Wisp",
+      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
       },
@@ -1047,22 +1031,18 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
-        "name": "He Was a Friend of Mine",
-        "url": "https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8"
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
       },
       "artists": [
         {
-          "name": "Tom Freund",
-          "url": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 197739,
-      "name": "He Was a Friend of Mine",
-      "url": "https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn"
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -1095,6 +1075,26 @@
       "duration_ms": 359333,
       "name": "You and Your Friend",
       "url": "https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
+        "name": "He Was a Friend of Mine",
+        "url": "https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8"
+      },
+      "artists": [
+        {
+          "name": "Tom Freund",
+          "url": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "He Was a Friend of Mine",
+      "url": "https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
+        "name": "John Lyons Band",
+        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
+      },
+      "artists": [
+        {
+          "name": "John Lyons",
+          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
+        }
+      ],
+      "duration_ms": 438204,
+      "name": "Lonely Fool",
+      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
         "name": "Better Days (feat. Dave Fenley)",
         "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 243880,
       "name": "Better Days (feat. Dave Fenley)",
       "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
-        "name": "John Lyons Band",
-        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
-      },
-      "artists": [
-        {
-          "name": "John Lyons",
-          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
-        }
-      ],
-      "duration_ms": 438204,
-      "name": "Lonely Fool",
-      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
     },
     {
       "added_at": "2023-03-16 17:35:17",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-03-16 17:35:17",
       "album": {
+        "name": "Let Me Down Easy",
+        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
+    },
+    {
+      "added_at": "2023-03-16 17:35:17",
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/4G9uuVJr2HKndziyWh6wPu"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 300373,
       "name": "Stay Around A Little Longer (feat. B.B. King)",
       "url": "https://open.spotify.com/track/49xNJS9z0ssQFNPi2oXxXC"
-    },
-    {
-      "added_at": "2023-03-16 17:35:17",
-      "album": {
-        "name": "Let Me Down Easy",
-        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
     },
     {
       "added_at": "2023-03-16 17:35:17",

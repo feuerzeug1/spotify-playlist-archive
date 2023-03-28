@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-104 songs - 6 hr 23 min
+105 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2023-02-24 |  |
 | [Eastern Kentucky](https://open.spotify.com/track/3KHv9f9K6pZRSv61z4SaRu) | [Davisson Brothers Band](https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d) | [Eastern Kentucky](https://open.spotify.com/album/4fbqrkjymL0LAtCAFxq7Wd) | 3:34 | 2023-03-24 |  |
 | [Eveline](https://open.spotify.com/track/6wgCah9IU4VP9zqqMSVxk7) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [farmland](https://open.spotify.com/album/7HD3bbzKRfWsKX5KvaQTe4) | 3:50 | 2023-02-24 |  |
+| [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-03-27 |  |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2023-02-24 |  |
 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 | 2023-02-24 |  |
 | [February 28, 2016](https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS) | 3:53 | 2023-02-24 |  |

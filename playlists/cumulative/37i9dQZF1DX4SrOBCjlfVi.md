@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Internet Money, NLE Choppa and more\. Cover: Baby Tate
 
-2,526 songs - 4 day 21 hr 59 min
+2,527 songs - 4 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/track/3i4yWKMRIoCcquLwOPhqZ1) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Set Da Trend](https://open.spotify.com/artist/5ddDAriaVx3eQpQ57o2cH1) | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/album/0z0OfFcfdNLWfCuo6VS6ql) | 1:48 | 2022-09-02 | 2022-09-10 |
 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0) | 3:04 | 2022-04-29 | 2022-05-07 |
 | [DOG SHIT \(with Baby Money\)](https://open.spotify.com/track/4f6whET6RFEWTy4dYmQF3n) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [DOG SHIT \(with Baby Money\)](https://open.spotify.com/album/5ZgGsUpnQnowHb4X9GMaIn) | 2:33 | 2023-03-24 |  |
+| [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-27 |  |
 | [Doja](https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Doja](https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o) | 2:51 | 2022-02-04 | 2022-02-12 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-22 | 2022-08-06 |
 | [Don Julio](https://open.spotify.com/track/06SxEkpBBcjsoaB9woR7kQ) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Don Julio](https://open.spotify.com/album/7LlaZNYJSASqBm7rNNsu41) | 2:29 | 2022-07-22 | 2022-07-30 |

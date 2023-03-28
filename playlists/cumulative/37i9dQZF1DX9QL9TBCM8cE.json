@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 235146,
       "name": "Love Addiction",
       "url": "https://open.spotify.com/track/4mbsHpV6laiqSTv4Pgmen3"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 247600,
       "name": "\u3042\u306e\u82b1\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/24r7FW9pYDC8c8mJlVB7lT"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 291520,
       "name": "\u592a\u967d\u30ad\u30c3\u30b9",
       "url": "https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M"
@@ -1184,6 +1184,24 @@
       "duration_ms": 277266,
       "name": "\u611a\u8005\u306e\u72ec\u767d",
       "url": "https://open.spotify.com/track/4ThcKDoasWe7p4aPLrXlVJ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
+        "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
+      },
+      "artists": [
+        {
+          "name": "\u82b9\u6ca2\u3042\u3055\u3072 (CV.\u7530\u4e2d\u6709\u7d00)",
+          "url": "https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266280,
+      "name": "\u661f\u3092\u3081\u3056\u3057\u3066",
+      "url": "https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0"
     },
     {
       "album": {

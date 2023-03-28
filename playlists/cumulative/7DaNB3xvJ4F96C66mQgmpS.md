@@ -2,7 +2,7 @@
 
 ### [Workout Bangers](https://open.spotify.com/playlist/7DaNB3xvJ4F96C66mQgmpS)
 
-> Workout songs to get the mental right and blood pumping.
+> Workout songs to get your mental right and blood pumping.
 
 72 songs - 3 hr 48 min
 

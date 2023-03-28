@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 74425,
+  "num_followers": 74580,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMGQ0MDRmMTkzZDViMTMwMjc3NjZkMTNkY2ZiZjBiNGM2",
+  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMDdmNzJiOWE4NDM1YjlkNzEwYjk0OTI3ZmYwNTRjMWQ5",
   "tracks": [
     {
       "added_at": "2023-01-25 15:11:28",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
-      "added_at": "2023-03-27 00:47:11",
+      "added_at": "2023-03-28 00:43:55",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD"
     },
     {
-      "added_at": "2023-03-27 00:47:11",
+      "added_at": "2023-03-28 00:43:55",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "A View to a Kill",
-      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "Tom Tom Club",
         "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 320000,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
         "name": "New York, London, Paris, Munich",
         "url": "https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 296466,
       "name": "Pop Muzik - 12 Inch Version",
       "url": "https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "You And Me Both",
-        "url": "https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 269453,
-      "name": "Nobody's Diary",
-      "url": "https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 265320,
       "name": "Human",
       "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "You And Me Both",
+        "url": "https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "Nobody's Diary",
+      "url": "https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS"
     },
     {
       "added_at": "2023-01-25 15:11:28",

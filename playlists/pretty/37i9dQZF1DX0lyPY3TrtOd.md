@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > Extatische gevoelens met prachtige muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,676 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,680 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 6 | [Disco](https://open.spotify.com/track/0bkcypOnee3Qfd7KR9rweZ) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Together](https://open.spotify.com/album/3c9hv0xdD4uJRWvZsCRRZk) | 3:38 |
 | 7 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 |
 | 8 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/16cssMSjVqPJeBxRLy9FrF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 2:48 |
-| 9 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
-| 10 | [Pineapple Sunrise](https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 2:56 |
+| 9 | [Pineapple Sunrise](https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 2:56 |
+| 10 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
 | 11 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 | 12 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 |
 | 13 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 59 | [it's a setup](https://open.spotify.com/track/7ofHL446H6rlUaalD0aFpT) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [it's a setup](https://open.spotify.com/album/3JJx2oLUYfOmAk1OjJsXl5) | 3:56 |
 | 60 | [Here We Go Again](https://open.spotify.com/track/3yYZe2t3bgCxJvAA4Dg3dA) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [Here We Go Again](https://open.spotify.com/album/1hZFUyWzdmcMgD85mrPsCb) | 3:15 |
 | 61 | [cool](https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:53 |
-| 62 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 |
-| 63 | [BACKYARD PARTY](https://open.spotify.com/track/59SZWfl2cuxiaJKI94LCRK) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 2:06 |
+| 62 | [BACKYARD PARTY](https://open.spotify.com/track/59SZWfl2cuxiaJKI94LCRK) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 2:06 |
+| 63 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 |
 | 64 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 |
 | 65 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 |
 | 66 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 |
 | 67 | [Boulevard](https://open.spotify.com/track/1BtIqJk8JLPfyIJFu6Q0jt) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Boulevard](https://open.spotify.com/album/2eY7FAgb6vfEjfFqFD3mIG) | 3:05 |
-| 68 | [Back to Bed](https://open.spotify.com/track/5wHBP7FV46dDjyAej8h81y) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Back to Bed](https://open.spotify.com/album/7FuDYsundeiBKaMYwYtNVn) | 2:25 |
-| 69 | [Earth Sick](https://open.spotify.com/track/5IeeVJ9rsxhhqNHGrkNbVE) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Earth Sick](https://open.spotify.com/album/4HDb2F4k940fPLqIl4OOei) | 3:05 |
-| 70 | [3 Nights](https://open.spotify.com/track/3VjxQzKXRtV2c8W7IeAXQh) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [Milkshakes & Heartbreaks](https://open.spotify.com/album/4HctltJvLZNQuRM3qeCR8s) | 2:40 |
+| 68 | [3 Nights](https://open.spotify.com/track/3VjxQzKXRtV2c8W7IeAXQh) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [Milkshakes & Heartbreaks](https://open.spotify.com/album/4HctltJvLZNQuRM3qeCR8s) | 2:40 |
+| 69 | [Back to Bed](https://open.spotify.com/track/5wHBP7FV46dDjyAej8h81y) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Back to Bed](https://open.spotify.com/album/7FuDYsundeiBKaMYwYtNVn) | 2:25 |
+| 70 | [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGVkYzAxYTNiYmEwMDcwOWZhNDliZTM0MWU1OTUxNzI1`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDJhNzQzNThiOTU4YzJhMWY0OWRkNWEyOGQ5NWRmOGFh`

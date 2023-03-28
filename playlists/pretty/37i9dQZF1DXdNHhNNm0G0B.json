@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 69901,
+  "num_followers": 69911,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMGE2ZWExMzU2YzBhYTI5YjA5ZDFmYzY4MWJkMGI5NjVm",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDUxMWIxYmYxZjlmNjJkOTQ3ZThiMmZmNWFiNTZjMjg1",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Better Day",
-      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 96840,
       "name": "Mesquite Shade",
       "url": "https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Deep Gap",
-      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "The Slide Guitar: Bottles, Knives & Steel",
         "url": "https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 178333,
       "name": "Guitar Rag",
       "url": "https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Deep Gap",
+      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Complete Studio Recordings",
         "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 209400,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "God Moves On the Water",
+      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -547,22 +563,6 @@
       "duration_ms": 384000,
       "name": "In the Morning Twilight",
       "url": "https://open.spotify.com/track/6vbE4tm7csOqDlSxsAzCtO"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "God Moves On the Water",
-      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Landscape and People",
         "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+        "name": "Tommy Johnson 1928 - 1929",
+        "url": "https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7"
       },
       "artists": [
         {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+          "name": "Tommy Johnson",
+          "url": "https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
+      "duration_ms": 207360,
+      "name": "Cool Drink of Water Blues",
+      "url": "https://open.spotify.com/track/0CDbCahovsgZPNumyO7aD2"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -927,22 +943,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Tommy Johnson 1928 - 1929",
-        "url": "https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7"
-      },
-      "artists": [
-        {
-          "name": "Tommy Johnson",
-          "url": "https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Cool Drink of Water Blues",
-      "url": "https://open.spotify.com/track/0CDbCahovsgZPNumyO7aD2"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Imaginational Anthem",
         "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 172383,
       "name": "Good Timin'",
       "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "The Drifter Blues",
-      "url": "https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
       "artists": [
         {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 288626,
-      "name": "There Is a Place in This Old Town",
-      "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
+      "duration_ms": 231706,
+      "name": "The Drifter Blues",
+      "url": "https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1059,22 +1043,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "A Savage Life",
-        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 186591,
-      "name": "The Man From Nowhere",
-      "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "The Birdcage Sessions",
         "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
       },
@@ -1087,6 +1055,38 @@
       "duration_ms": 256310,
       "name": "Lazy Sunday",
       "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "There Is a Place in This Old Town",
+      "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "A Savage Life",
+        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 186591,
+      "name": "The Man From Nowhere",
+      "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Hurt Me",
-        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
       "artists": [
         {
-          "name": "Jackson Lynch",
-          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
         }
       ],
-      "duration_ms": 155319,
-      "name": "Hurt Me",
-      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
+      "duration_ms": 379453,
+      "name": "A Real State of Independence",
+      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1203,34 +1203,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+        "name": "Hurt Me",
+        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
       },
       "artists": [
         {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+          "name": "Jackson Lynch",
+          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
         }
       ],
-      "duration_ms": 379453,
-      "name": "A Real State of Independence",
-      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Cruel Old World",
-        "url": "https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB"
-      },
-      "artists": [
-        {
-          "name": "Arthur Terembula",
-          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
-        }
-      ],
-      "duration_ms": 172747,
-      "name": "Cruel Old World",
-      "url": "https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf"
+      "duration_ms": 155319,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 316048,
       "name": "Dodge City",
       "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Cruel Old World",
+        "url": "https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB"
+      },
+      "artists": [
+        {
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+        }
+      ],
+      "duration_ms": 172747,
+      "name": "Cruel Old World",
+      "url": "https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Long River (Allegheny)",
+      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Southern Prison Blues",
         "url": "https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 207640,
       "name": "Lonesome Blues",
       "url": "https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "The Best Of Cannon's Jug Stompers",
-        "url": "https://open.spotify.com/album/6zMTnsHJb9V8IonCLVav1F"
-      },
-      "artists": [
-        {
-          "name": "Cannon's Jug Stompers",
-          "url": "https://open.spotify.com/artist/65oBffOa88Yjia8B9FTLAS"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Heart Breakin' Blues",
-      "url": "https://open.spotify.com/track/7ct1EY3oM7uKoXGabiM9D9"
     }
   ],
   "unique_name": "Rockin' Chair Blues",

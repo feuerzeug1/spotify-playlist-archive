@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: 6LACK",
-  "num_followers": 1353097,
+  "num_followers": 1353492,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDMzMmIwNmU3ZjcwMzYwZDY5NjZlZmUxNGY5ODVkNWRk",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDU0ZjI2MzEzMTMxYmU2ZGFhZTM2MGU1MTlkNWEzZjVh",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -177,20 +177,20 @@
       "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 150720,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -213,20 +213,20 @@
       "url": "https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+      "duration_ms": 150720,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -309,38 +309,6 @@
       "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
-      "added_at": "2022-12-10 19:36:26",
-      "album": {
-        "name": "ULTRAMARINE",
-        "url": "https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW"
-      },
-      "artists": [
-        {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
-        }
-      ],
-      "duration_ms": 114001,
-      "name": "The Bloom",
-      "url": "https://open.spotify.com/track/6fdzX7Qy7LN5uaJ0ukH6p5"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 181144,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "SOS",
@@ -359,6 +327,38 @@
       "duration_ms": 218586,
       "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
+    },
+    {
+      "added_at": "2022-12-10 19:36:26",
+      "album": {
+        "name": "ULTRAMARINE",
+        "url": "https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        }
+      ],
+      "duration_ms": 114001,
+      "name": "The Bloom",
+      "url": "https://open.spotify.com/track/6fdzX7Qy7LN5uaJ0ukH6p5"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -521,6 +521,26 @@
       "url": "https://open.spotify.com/track/0E1GJFHAHBQLNyh7VZqDoZ"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "2 seater",
+        "url": "https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "duration_ms": 65982,
+      "name": "2 seater",
+      "url": "https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "All For You",
@@ -557,22 +577,6 @@
       "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "It'll Be Fine",
-        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 55048,
-      "name": "i don't wanna fall in love, it's too late now",
-      "url": "https://open.spotify.com/track/4OPcKAVpIquCyW94TEaD3A"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Raven",
@@ -587,110 +591,6 @@
       "duration_ms": 292824,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "deadman",
-        "url": "https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa"
-      },
-      "artists": [
-        {
-          "name": "Souly Had",
-          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "deadman",
-      "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "STEREO DRIVER",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "STEREO DRIVER",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Fuck Tha World",
-        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 141538,
-      "name": "Fuck Tha World",
-      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "WHITE CROCS (with Ryan Trey)",
-        "url": "https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        }
-      ],
-      "duration_ms": 147773,
-      "name": "WHITE CROCS (with Ryan Trey)",
-      "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "It'll Be Fine",
-        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "too far close",
-      "url": "https://open.spotify.com/track/1rKdNSA119ByMxI9chV5J6"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Keep It Lo",
-        "url": "https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ"
-      },
-      "artists": [
-        {
-          "name": "Ojerime",
-          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 153712,
-      "name": "Keep It Lo",
-      "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -713,10 +613,62 @@
       "url": "https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL"
     },
     {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "It'll Be Fine",
+        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 55048,
+      "name": "i don't wanna fall in love, it's too late now",
+      "url": "https://open.spotify.com/track/4OPcKAVpIquCyW94TEaD3A"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "deadman",
+        "url": "https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa"
+      },
+      "artists": [
+        {
+          "name": "Souly Had",
+          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "deadman",
+      "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
+    },
+    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
+        "name": "WHITE CROCS (with Ryan Trey)",
+        "url": "https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 147773,
+      "name": "WHITE CROCS (with Ryan Trey)",
+      "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "STEREO DRIVER",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
       },
       "artists": [
         {
@@ -724,29 +676,61 @@
           "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 193400,
-      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
+      "duration_ms": 231533,
+      "name": "STEREO DRIVER",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "2 seater",
-        "url": "https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4"
+        "name": "Keep It Lo",
+        "url": "https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 153712,
+      "name": "Keep It Lo",
+      "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Fuck Tha World",
+        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "Fuck Tha World",
+      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
+    },
+    {
+      "added_at": "2022-07-22 14:09:12",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
         }
       ],
-      "duration_ms": 65982,
-      "name": "2 seater",
-      "url": "https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT"
+      "duration_ms": 189000,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -801,6 +785,22 @@
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "It'll Be Fine",
+        "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "too far close",
+      "url": "https://open.spotify.com/track/1rKdNSA119ByMxI9chV5J6"
+    },
+    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Dog Daze",
@@ -815,6 +815,22 @@
       "duration_ms": 144584,
       "name": "Brewster",
       "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -847,22 +863,6 @@
       "duration_ms": 236206,
       "name": "Sunbleach",
       "url": "https://open.spotify.com/track/0SOqMJNpQyB2QkSaZqUQzV"
-    },
-    {
-      "added_at": "2022-07-22 14:09:12",
-      "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+    },
+    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "STRAWBERRY LOUIS VUITTON (Ft. Thundercat, Maeta)",
@@ -993,58 +1009,6 @@
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Chrome Bull",
-        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 187938,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Most Men - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 253375,
-      "name": "Most Men - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Enough",
@@ -1083,6 +1047,42 @@
       "duration_ms": 212784,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/4zt9CUUI373CnqS91c76fV"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Chrome Bull",
+        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 187938,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Most Men - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 253375,
+      "name": "Most Men - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Gonna Go",
-        "url": "https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 177259,
-      "name": "Gonna Go",
-      "url": "https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Xtasy (Remix) [feat. Doechii]",
@@ -1305,6 +1289,38 @@
       "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Girl In The Half Pearl",
+        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Wild Animals",
+      "url": "https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Gonna Go",
+        "url": "https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 177259,
+      "name": "Gonna Go",
+      "url": "https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp"
+    },
+    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "As Days Go By",
@@ -1321,20 +1337,20 @@
       "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Girl In The Half Pearl",
-        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+        "name": "THE PEACH",
+        "url": "https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI"
       },
       "artists": [
         {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Wild Animals",
-      "url": "https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5"
+      "duration_ms": 146917,
+      "name": "THE PEACH",
+      "url": "https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1387,22 +1403,6 @@
       "duration_ms": 194029,
       "name": "Technicolor Love (feat. redveil)",
       "url": "https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "THE PEACH",
-        "url": "https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 146917,
-      "name": "THE PEACH",
-      "url": "https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "exodus the north star",
-        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "exodus the north star",
-      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
-    },
-    {
       "added_at": "2022-12-16 05:17:19",
       "album": {
         "name": "wood tip",
@@ -1555,6 +1539,22 @@
       "duration_ms": 209462,
       "name": "can't fight the devil",
       "url": "https://open.spotify.com/track/4GEL1AJUwD6BYlDxod9E4H"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 205354,
+      "name": "exodus the north star",
+      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
     },
     {
       "added_at": "2022-09-09 04:06:40",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X"
-    },
-    {
       "added_at": "2022-09-30 04:04:40",
       "album": {
         "name": "5 MO' MINUTES",
@@ -1635,6 +1619,22 @@
       "duration_ms": 161142,
       "name": "5 MO' MINUTES",
       "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X"
     },
     {
       "added_at": "2022-09-30 04:04:40",

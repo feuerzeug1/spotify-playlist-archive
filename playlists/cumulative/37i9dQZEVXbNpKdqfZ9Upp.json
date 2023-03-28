@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 281835,
       "name": "Esclava",
       "url": "https://open.spotify.com/track/6xnprGQqFigj5Zh5PCeC35"
@@ -6866,7 +6866,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 211140,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
@@ -13837,6 +13837,24 @@
     },
     {
       "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242424,
+      "name": "sanvalent\u00edn:(",
+      "url": "https://open.spotify.com/track/6oyz3h6HEpmzvXxjWcf8J6"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -15874,7 +15892,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Tell me (Sampling From `Two Of Hearts`)",
       "url": "https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl"
@@ -17444,7 +17462,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 170058,
       "name": "Vida Gangster",
       "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Écoutez en boucle les hits algériens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,261 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,313 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 13 | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/track/4XXJnTdwm0MaKLP2OXajCU) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Skalpovich](https://open.spotify.com/artist/0Flx9EfBqXHltFcp3guYVt) | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl) | 3:03 |
 | 14 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 |
 | 15 | [3ayech Lili \- عايش ليلي](https://open.spotify.com/track/2bWjhCbfeguEp2hSXvYB5l) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [3ayech Lili \(عايش ليلي\)](https://open.spotify.com/album/7K50LbLo6SdxQx0uuw9khz) | 3:22 |
-| 16 | [7CHOUMA](https://open.spotify.com/track/0bmnCDY8M8fBtlPwMrLIu9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [7CHOUMA](https://open.spotify.com/album/7JrLFJw1NFNDOnoNDsHBWS) | 4:06 |
+| 16 | [7CHOUMA](https://open.spotify.com/track/797McgitlHovktyFPMDZYc) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [7CHOUMA](https://open.spotify.com/album/6EE03Qicg9RZIZbYeIS0Dj) | 4:06 |
 | 17 | [SAH](https://open.spotify.com/track/1G3OTUGfbYcA5r2FgkBMZp) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [SAH](https://open.spotify.com/album/3oKii6T1E3bnh5ijB4ewqb) | 3:00 |
-| 18 | [GHAZALI](https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA) | [MOUHAMED GRINE](https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh), [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l) | 3:16 |
+| 18 | [GHAZALI](https://open.spotify.com/track/2JCxNic0pS1pAXNnRKS3QH) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/1bMeGmCiuPxq3TyiK0zmWm) | 3:16 |
 | 19 | [nrml](https://open.spotify.com/track/3KXqOio8jnBKwYSoft0zmn) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [nrml](https://open.spotify.com/album/6qACahl9BKPtWckNidkfMO) | 2:57 |
 | 20 | [Fik Ou Fik](https://open.spotify.com/track/3e5o3HId07wIlcT2rM2vWh) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Fik Ou Fik](https://open.spotify.com/album/5DGXbz9GaYFFZYeLWk1j2x) | 4:44 |
 | 21 | [Bondia](https://open.spotify.com/track/5fu9Sc4DNuvQMWo5BxmgKH) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 2:59 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 39 | [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 |
 | 40 | [Mazal Mazal](https://open.spotify.com/track/2YSsSIVvoOtuXfbTUp3X71) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Mazal Mazal](https://open.spotify.com/album/1oghaMTdh4pK4qUmp81t4u) | 3:17 |
 
-Snapshot ID: `MTY3OTYxMTA4MSwwMDAwMDAwMGU0MjBhNTlmMjEyODY0Y2Y0MjgwMWY3NWJlYjlhNDNh`
+Snapshot ID: `MTY3OTYxMTA4MSwwMDAwMDAwMDcwNjM2ODU5MjQ1ZGZhNWRjMGU3ODAyZGQxOTU3Yjgx`

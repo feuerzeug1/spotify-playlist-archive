@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 254156,
+  "num_followers": 254245,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMGFjYTkzYWFkZjU5ODZiZDNhM2YxODlhZTgzNmQ2MTYw",
+  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMDE1NDE0M2RmMjRiOTdiZTdhNWE3NTQzNjIzN2EyMTM0",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -563,26 +563,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "No More Idols",
-        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Deep Down Low",
         "url": "https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 148571,
       "name": "House & Pressure",
       "url": "https://open.spotify.com/track/3W2bm5HR9tnS4ENFNJJ4XF"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "No More Idols",
+        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o"
     },
     {
       "added_at": "2020-11-06 16:59:04",

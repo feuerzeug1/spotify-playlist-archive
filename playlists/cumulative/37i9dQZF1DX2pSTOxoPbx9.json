@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "John Came Home",
+        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
+    },
+    {
+      "album": {
         "name": "Killer + The Sound",
         "url": "https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs"
       },
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 362280,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH"

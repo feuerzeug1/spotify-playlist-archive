@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-292 songs - 19 hr 8 min
+294 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Lucky To Be Me](https://open.spotify.com/track/4mTBd1yNfpjivl5lHorkiw) | [Ten Thirty Trio](https://open.spotify.com/artist/5bMQvYFq5ic1QxUDaGPyeb) | [Lucky To Be Me](https://open.spotify.com/album/2SlisjeQUgoA3qCocBRzcp) | 3:43 | 2022-06-29 | 2022-12-13 |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-06-29 |  |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 |  |
-| [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-29 |  |
+| [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-29 | 2023-03-28 |
 | [Maybe We'll Meet Again](https://open.spotify.com/track/2ghcpXt1t7oQfHcF5hUBP2) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Maybe We'll Meet Again](https://open.spotify.com/album/5jlgTkBJTWhoO3BdPsThlW) | 3:37 | 2022-06-29 |  |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-02-23 |  |
 | [Mean To Me](https://open.spotify.com/track/4QEPK8VmIJsxw6ymP93gCS) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Don´t Blame Me](https://open.spotify.com/album/4oK8sCHJ3rsqYt7rpbXqSb) | 3:12 | 2022-06-29 |  |
@@ -243,6 +243,7 @@
 | [Summer In Central Park](https://open.spotify.com/track/74NmDsFZbbS0T7Zc2z74Cd) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Summer In Central Park](https://open.spotify.com/album/1Dkw2HPM80wLbSGJkDmh8h) | 3:28 | 2023-02-16 |  |
 | [Tell Me](https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me](https://open.spotify.com/album/7wul9iPUYQoZPR9ekVcxAa) | 4:24 | 2022-06-29 |  |
 | [That's Nothing](https://open.spotify.com/track/211NFPThPEPKCoScvCAelb) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [That's Nothing](https://open.spotify.com/album/42d23WhadUq9ckCGfXMFaD) | 4:26 | 2023-03-16 |  |
+| [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-28 |  |
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-05 |  |
 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 | 2022-06-29 |  |
 | [The Day that I Felt](https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:18 | 2023-02-02 |  |
@@ -276,7 +277,7 @@
 | [Vesper](https://open.spotify.com/track/3WEkHcJisp1XyPPNMWKAi0) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper](https://open.spotify.com/album/3BxFj4YKomKREXrep93gIB) | 4:14 | 2022-06-29 | 2023-02-01 |
 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 | 2022-10-13 |  |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
-| [We're Almost At The End](https://open.spotify.com/track/6WMZ32iT8I5T2UUSQTdWf9) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Just a Thought](https://open.spotify.com/album/7ngLJAYrufQRkz9GHjvhto) | 2:08 | 2022-11-24 |  |
+| [We're Almost At The End](https://open.spotify.com/track/6WMZ32iT8I5T2UUSQTdWf9) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Just a Thought](https://open.spotify.com/album/7ngLJAYrufQRkz9GHjvhto) | 2:08 | 2022-11-24 | 2023-03-28 |
 | [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-10 |  |
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-08-12 |  |
 | [What The Heart Wants](https://open.spotify.com/track/3REyVyWHPHPKQueGFnCYay) | [Vincent Hall Trio](https://open.spotify.com/artist/0INrFdPtyCkB0oyaxbvKLb) | [What The Heart Wants](https://open.spotify.com/album/4kiOZP3cb4a3mg6ZxhJA3R) | 2:01 | 2022-06-29 |  |
@@ -294,6 +295,7 @@
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 |  |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-08 |  |
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2022-06-29 | 2023-01-15 |
+| [You Do Something To Me](https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [You Do Something To Me](https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU) | 3:10 | 2023-03-28 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2022-06-29 |  |
 | [You Gets You](https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb) | [Alex Decante](https://open.spotify.com/artist/52Sd0A8IsB2XLpEUIvs6En) | [You Gets You](https://open.spotify.com/album/2czKkrGOjLJ8rLDQnnH3aU) | 3:47 | 2022-06-29 |  |
 | [You Go To My Head](https://open.spotify.com/track/0TR8L8n8nXPvp1JpqdyPcp) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [You Go To My Head](https://open.spotify.com/album/7FEy0OXhxkb2FnGRLj7XbS) | 4:29 | 2022-06-29 |  |

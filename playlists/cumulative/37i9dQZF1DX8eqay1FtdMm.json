@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the vocalists representing Korea! (Cover: WSG WANNABE GAYA-G) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the vocalists representing Korea! (Cover:\bHwang Chi Yeol(\ud669\uce58\uc5f4)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -1633,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205560,
+      "name": "Far away",
+      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
+    },
+    {
+      "album": {
         "name": "FINE",
         "url": "https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks"
       },
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 91500,
       "name": "Hey Steve",
       "url": "https://open.spotify.com/track/1OmD2liXaVZmE0Gqg1fSzg"
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-28",
       "duration_ms": 224480,
       "name": "I Can't Help It (Prod. Jungkey)",
       "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
@@ -3314,6 +3332,24 @@
       "duration_ms": 246586,
       "name": "Like The Winter That Loved Spring",
       "url": "https://open.spotify.com/track/6tIcrtTCwfaFTojXWNGh0e"
+    },
+    {
+      "album": {
+        "name": "like wind",
+        "url": "https://open.spotify.com/album/4Vmyjv0QUcoTpHY0N3K26x"
+      },
+      "artists": [
+        {
+          "name": "The Stray",
+          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169640,
+      "name": "like wind",
+      "url": "https://open.spotify.com/track/22s6kCFuBnnggy3Cio3JPh"
     },
     {
       "album": {
@@ -4242,6 +4278,24 @@
       "duration_ms": 260668,
       "name": "Nights Into Days (Prod. by Naul)",
       "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
+    },
+    {
+      "album": {
+        "name": "No love",
+        "url": "https://open.spotify.com/album/4bgDVPwibaY66Ej45yzkyr"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238413,
+      "name": "No love",
+      "url": "https://open.spotify.com/track/02r3fCsVlcFWgMZG9lGTz6"
     },
     {
       "album": {
